@@ -215,6 +215,60 @@ def collect_codex(state, items, pages=20, take=200):
     return {"ok": True, "total_in_codex": total, "read": seen, "matched": kept, "oldest_date_seen": oldest}
 
 
+# ------------------------------------------------------------ Wallonia: Wallex
+# Wallex has no list of new acts, but every act has a numeric id and a small
+# public "listing" snippet with its date, title and ELI link. We walk the ids:
+# forwards from the highest one seen (new acts) and backwards for the backfill.
+FR_MONTHS = {m: i + 1 for i, m in enumerate(
+    "janvier février mars avril mai juin juillet août septembre octobre novembre décembre".split())}
+WALLEX = "https://wallex.wallonie.be"
+WALLEX_SEED, WALLEX_FLOOR = 141700, 100000
+
+
+def wallex_one(n):
+    import html as _html
+    url = "%s/fr/sites/wallex/contents/acts/%d/%d/1.listing.html.ajax" % (WALLEX, n // 1000, n)
+    try:
+        _, raw = http(url, timeout=30)
+    except urllib.error.HTTPError as e:
+        return (n, None) if e.code in (403, 404) else (n, "err")
+    except Exception:
+        return n, "err"
+    t = re.sub(r"\s+", " ", raw.decode("utf-8", "replace"))
+    a = re.search(r'<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', t)
+    dm = re.search(r"<time>\s*(\d{1,2})(?:er)? (\S+) (\d{4})", t)
+    if not a or not dm or dm.group(2).lower() not in FR_MONTHS:
+        return n, None
+    date = "%s-%02d-%02d" % (dm.group(3), FR_MONTHS[dm.group(2).lower()], int(dm.group(1)))
+    title = _html.unescape(re.sub(r"<[^>]+>", "", a.group(2))).strip()[:400]
+    href = a.group(1)
+    return n, {"id": "wallex:%d" % n, "src": "wallex", "level": "WAL", "t": "law", "d": date, "title": {"fr": title},
+               "url": href if href.startswith("http") else WALLEX + href, "ref": "Wallex %d" % n, "k": classify(title)}
+
+
+def collect_wallex(state, items, back=3000, ahead=400):
+    from concurrent.futures import ThreadPoolExecutor
+    hi = int(state.get("wallex_hi", WALLEX_SEED))
+    lo = int(state.get("wallex_lo", WALLEX_SEED))
+    ids = list(range(hi, hi + ahead)) + list(range(max(WALLEX_FLOOR, lo - back), lo))
+    kept = errs = 0
+    top = hi
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        for n, it in ex.map(wallex_one, ids):
+            if it == "err":
+                errs += 1
+            elif it:
+                top = max(top, n + 1)
+                if it["d"] >= START.isoformat():
+                    items[it["id"]] = it
+                    kept += 1
+    if errs > len(ids) // 4:
+        return {"ok": False, "error": "%d of %d requests failed; cursors not moved" % (errs, len(ids)), "matched": kept}
+    state["wallex_hi"] = top
+    state["wallex_lo"] = max(WALLEX_FLOOR, lo - back)
+    return {"ok": True, "probed": len(ids), "matched": kept, "errors": errs, "next_new_id": top, "backfilled_down_to": state["wallex_lo"]}
+
+
 # ------------------------------------------------------- EU: Council press RSS
 def collect_council(state, items):
     _, raw = http("https://www.consilium.europa.eu/en/rss/pressreleases.ashx")
@@ -259,7 +313,7 @@ def main():
     items = {i["id"]: i for i in feed.get("items", [])}
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("council", collect_council)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("council", collect_council)):
         t0 = time.time()
         try:
             res = fn(state, items)
