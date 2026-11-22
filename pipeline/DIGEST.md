@@ -1,3 +1,7 @@
+> **Since 22 November 2026 entries are written on GitHub through the API (pipeline/assess.py and
+> pipeline/write_entries.py). The limits in pipeline/limits.json are 0: a digest run under these
+> instructions must write nothing, change no file and only report that it is switched off.**
+
 # Digest stage
 
 The collector (`collect.py`, GitHub Actions, no AI) writes everything it finds to `data/inbox.json`.
