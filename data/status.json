@@ -1,22 +1,22 @@
 {
- "ran": "2026-11-22T06:31:17+00:00",
+ "ran": "2026-11-22T07:27:12+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 49,
    "backfilled_to": "2026-11-01",
-   "seconds": 6.2
+   "seconds": 6.8
   },
   "gwh": {
    "ok": true,
-   "read": 25,
-   "matched": 25,
+   "read": 0,
+   "matched": 0,
    "next": {
     "2024": 160,
     "2025": 178,
     "2026": 140
    },
-   "seconds": 54.1
+   "seconds": 12.1
   },
   "codex": {
    "ok": true,
@@ -24,21 +24,21 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 26.1
+   "seconds": 31.4
   },
   "wallex": {
    "ok": true,
-   "probed": 450,
-   "matched": 13,
-   "errors": 111,
-   "next_new_id": 141843,
-   "backfilled_down_to": 141430,
-   "seconds": 636.5
+   "probed": 240,
+   "matched": 38,
+   "errors": 41,
+   "next_new_id": 141944,
+   "known_ids_left": 605,
+   "seconds": 271.2
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.5
+   "seconds": 0.8
   }
  },
  "not_collected": {
@@ -50,11 +50,11 @@
  },
  "texts": {
   "gwh": {
-   "saved": 1,
+   "saved": 0,
    "failed": 0
   },
   "eurlex": {
-   "saved": 22,
+   "saved": 0,
    "failed": 12,
    "last_error": "<HTTPError 404: ''>"
   },
@@ -63,19 +63,19 @@
    "failed": 0
   },
   "wallex": {
-   "saved": 0,
+   "saved": 4,
    "failed": 0
   }
  },
- "texts_on_file": 232,
- "items_total": 3968,
- "items_new": 31,
+ "texts_on_file": 276,
+ "items_total": 4003,
+ "items_new": 35,
  "items_by_source": {
   "council": 1,
   "gwh": 475,
   "eurlex": 799,
   "codex": 2676,
-  "wallex": 17
+  "wallex": 52
  },
- "items_filed_for_site": 572
+ "items_filed_for_site": 576
 }
