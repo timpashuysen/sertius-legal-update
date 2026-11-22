@@ -4,6 +4,7 @@ on:
     - cron: "23 */2 * * *"
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - "pipeline/**"
       - "data/digest-state.json"
@@ -24,8 +25,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pypdf==5.1.0
+      - name: Offline tests
+        run: python -m unittest discover -s pipeline -p "test_*.py"
       - run: python pipeline/collect.py
       - name: Commit data
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "sertius-collector"
           git config user.email "actions@users.noreply.github.com"
@@ -34,6 +38,7 @@ jobs:
           git pull --rebase -q origin main
           git push -q origin HEAD:main
       - name: Run again while there is a backlog
+        if: github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
