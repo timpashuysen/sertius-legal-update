@@ -29,6 +29,9 @@ INDEX = """<html><body><ul>
 <li><a href="/nl/benoeming_n2023055555.html">bron federale overheidsdienst justitie Koninklijk besluit houdende benoeming van een rechter</a></li>
 <li><a href="/nl/bericht_n2023066666.html">bron federale overheidsdienst financien Bericht over de rentevoet</a></li>
 <li><a href="/nl/decreet_n2023077777.html">bron ministerie van de franse gemeenschap Decreet houdende diverse maatregelen inzake leefmilieu</a></li>
+<li><a href="/nl/kb_n2023088888.html">bron federale overheidsdienst justitie Koninklijk besluit tot wijziging van het Gerechtelijk Wetboek</a></li>
+<li><a href="/nl/p_n2023099999.html">bron federale overheidsdienst volksgezondheid Personeel. - Bevordering Bij koninklijk besluit wordt mevrouw X bevorderd</a></li>
+<li><a href="/nl/b_n2023011111.html">bron brussels hoofdstedelijk gewest Besluit van de Brusselse Hoofdstedelijke Regering tot wijziging van het BWRO</a></li>
 <li><a href="/nl/about.html">Over Etaamb</a></li>
 </ul></body></html>"""
 
@@ -46,11 +49,13 @@ class Staatsblad(unittest.TestCase):
 
     def test_parser_reads_numac_links_only(self):
         self.assertEqual([n for n, _, _ in self.rows()],
-                         ["2023048123", "2023205123", "2023048999", "2023055555", "2023066666", "2023077777"])
+                         ["2023048123", "2023205123", "2023048999", "2023055555", "2023066666", "2023077777", "2023088888", "2023099999", "2023011111"])
 
     def test_filter_and_levels(self):
         got = {i["ref"]: i for i in self.items()}
-        self.assertEqual(sorted(got), ["2023048123", "2023205123"])  # Flemish, community, appointment and plain notice dropped
+        self.assertEqual(sorted(got), ["2023011111", "2023048123", "2023205123"])
+        self.assertEqual(got["2023011111"]["x"], 1)  # Brussels act without keyword: kept for the digest to judge
+        self.assertEqual(got["2023048123"]["x"], 0)  # Flemish, community, appointment and plain notice dropped
         self.assertEqual(got["2023048123"]["level"], "BRU")
         self.assertEqual(got["2023205123"]["level"], "BE")
         self.assertIn("soil", got["2023048123"]["k"])
@@ -81,7 +86,7 @@ class Staatsblad(unittest.TestCase):
         self.assertTrue(res["ok"])
         # backfill from the cursor, weekend skipped, today read, plus the refresh of the day before the cursor
         self.assertEqual(sorted(seen), ["2024-01-03", "2024-01-04", "2024-01-05", "2024-01-08"])  # each day once
-        self.assertEqual(len(items), 2)
+        self.assertEqual(len(items), 3)
         self.assertTrue(items["sb:2023048123"]["title"]["fr"].startswith("Ordonnance modifiant"))
         self.assertNotIn("fr", items["sb:2023205123"]["title"])
         self.assertEqual(res["backfilled_to"], "2024-01-08")

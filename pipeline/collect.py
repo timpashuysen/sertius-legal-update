@@ -306,6 +306,7 @@ ETAAMB = "https://etaamb.openjustice.be"
 SB_KEEP = re.compile(
     r"\b(wet|loi|decreet|décret|ordonnantie|ordonnance|koninklijk besluit|"
     r"arrêté royal|ministerieel besluit|arrêté ministériel|besluit van de regering|"
+    r"besluit van de [a-zé -]{0,40}regering|besluit van het verenigd college|arrêté du collège réuni|"
     r"arrêté du gouvernement|circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
 SB_DROP = re.compile(
     r"\b(benoeming|benoemingen|aanstelling|aanstellingen|appointment|nomination|"
@@ -317,6 +318,16 @@ SB_TITLE_START = re.compile(
     r"arrêté royal|ministerieel besluit|arrêté ministériel|besluit van de "
     r"(?:vlaamse|waalse|brusselse|regering|franse gemeenschap)|arrêté du gouvernement|"
     r"circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
+
+
+SB_RULES = 2  # bump to rebuild the Staatsblad part of the inbox
+SB_NOISE = re.compile(
+    r"^(personeel|personnel)\b|collectieve arbeidsovereenkomst|convention collective|officieuze coördinatie in het duits|"
+    r"duitse vertaling|traduction allemande|subsidie|subvention|toelage|\blening\b|\bemprunt\b|rechterlijke orde|"
+    r"ordre judiciaire|nationale orden|ordres nationaux|erkenning|agrément|benoeming|ontslag|bevordering|pensioen|"
+    r"inrustestelling|mise à la retraite|begroting|\bbudget|erratum|errata|machtiging|mandaat|vergelijkende selectie", re.I)
+SB_AUTH = re.compile(r"leefmilieu|environnement|volksgezondheid|santé publique|werkgelegenheid|emploi, travail|"
+                     r"economie|économie|binnenlandse zaken|intérieur|nucleaire|nucléaire|mobiliteit|mobilité", re.I)
 
 
 class _EtaambIndexParser(html.parser.HTMLParser):
@@ -416,12 +427,20 @@ def _sb_item(day, numac, href, raw):
         return None  # regions come from the Vlaamse Codex and Wallex; communities are out of scope
     if kind == "guide" and not topics:
         return None  # notices are only worth keeping when they touch a practice area
+    auth = _sb_authority(raw).strip()[:120]
+    wide = False
+    if not topics:
+        # No keyword hit: keep only what the digest should still look at, i.e. Brussels acts and
+        # federal acts from authorities that regulate environment, safety, work or industry.
+        if SB_NOISE.search(title) or not (level == "BRU" or SB_AUTH.search(auth)):
+            return None
+        wide = True
     key = "sb:" + numac
     etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
     return {
         "id": key, "src": "staatsblad", "level": level, "t": kind,
         "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
-        "ref": numac, "k": topics, "text_url": etaamb_href,
+        "ref": numac, "k": topics, "text_url": etaamb_href, "auth": auth, "x": int(wide),
     }
 
 
@@ -562,7 +581,7 @@ def save_texts(items, state, per_source=40, budget=240):
     t0 = time.time()
     res = {}
     gave_up = set(state.get("text_failed", []))
-    todo = sorted((i for i in items.values() if i.get("k") and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad")),
+    todo = sorted((i for i in items.values() if (i.get("k") or i.get("x")) and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad")),
                   key=lambda i: i["d"], reverse=True)
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
@@ -606,6 +625,10 @@ def main():
     if state.get("rules") != RULES:  # filing rules changed: rebuild from the start
         state, feed = {"rules": RULES}, {"items": []}
     items = {i["id"]: i for i in feed.get("items", [])}
+    if state.get("sb_rules") != SB_RULES:  # Staatsblad filing rules changed: rebuild that source only
+        items = {k: v for k, v in items.items() if v.get("src") != "staatsblad"}
+        state.pop("sb_next", None)
+        state["sb_rules"] = SB_RULES
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
     for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council)):
