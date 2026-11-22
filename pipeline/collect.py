@@ -23,6 +23,9 @@ UA = "SertiusLegalUpdate-collector/0.3 (+https://github.com/timpashuysen/sertius
 DATA = pathlib.Path("data")
 RULES = 3
 START = dt.date(2024, 1, 1)
+# Working set since the pivot of 22 November 2026: from this date everything is collected without a
+# subject filter and qualified in one way by pipeline/assess.py. Older material stays as collected.
+SCOPE = dt.date(2026, 1, 1)
 TODAY = dt.datetime.now(dt.timezone.utc).date()
 
 TOPICS = {
@@ -66,25 +69,29 @@ NOISE = re.compile(r"biocidal|active substance|plant protection|fishing|fisher|a
                    r"maximum residue|novel food|State aid|veterinary|cosmetic", re.I)
 
 
-def cellar_query(a, b):
+def cellar_query(a, b, wide=False):
     lang = "http://publications.europa.eu/resource/authority/language/"
     opt = "".join(
         " OPTIONAL { ?e%s cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <%s%s> ; cdm:expression_title ?%s }" % (v, lang, c, v)
         for v, c in (("en", "ENG"), ("nl", "NLD"), ("fr", "FRA")))
+    label = '?w cdm:work_is_about_concept_eurovoc ?c . ?c skos:prefLabel ?label . FILTER(lang(?label)="en")'
+    # wide: every act, proposal and judgment of the period; the subject labels are kept as information only
+    subject = "OPTIONAL { %s }" % label if wide else '%s FILTER(regex(?label, "%s", "i"))' % (label, EUROVOC_RX)
     return """PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT ?celex ?date ?en ?nl ?fr (GROUP_CONCAT(DISTINCT ?label; separator="|") AS ?labels) WHERE {
- ?w cdm:resource_legal_id_celex ?celex ; cdm:work_date_document ?date ; cdm:work_is_about_concept_eurovoc ?c .
- ?c skos:prefLabel ?label . FILTER(lang(?label)="en")
+ ?w cdm:resource_legal_id_celex ?celex ; cdm:work_date_document ?date .
+ %s
  FILTER(?date >= "%s"^^xsd:date && ?date < "%s"^^xsd:date)
- FILTER(regex(?label, "%s", "i"))
  FILTER(regex(str(?celex), "^3[0-9]{4}[LRD]|^6[0-9]{4}(CJ|TJ)|^5[0-9]{4}PC"))
  %s
-} GROUP BY ?celex ?date ?en ?nl ?fr LIMIT 800""" % (a, b, EUROVOC_RX, opt)
+} GROUP BY ?celex ?date ?en ?nl ?fr LIMIT 4000""" % (subject, a, b, opt)
 
 
 def collect_eu(state, items, months_per_run=12):
+    if state.get("eu_wide") != 1:        # one-off: walk the scope period again without the subject filter
+        state["eu_next"], state["eu_wide"] = SCOPE.isoformat(), 1
     cur = dt.date.fromisoformat(state.get("eu_next", START.isoformat()))
     n = 0
     done = 0
@@ -97,13 +104,16 @@ def collect_eu(state, items, months_per_run=12):
     # always refresh the last 45 days so late-indexed documents are picked up
     windows.append((TODAY - dt.timedelta(days=45), TODAY + dt.timedelta(days=1)))
     for a, b in windows:
-        body = urllib.parse.urlencode({"query": cellar_query(a.isoformat(), b.isoformat()),
+        wide = a >= SCOPE - dt.timedelta(days=60)
+        body = urllib.parse.urlencode({"query": cellar_query(a.isoformat(), b.isoformat(), wide),
                                        "format": "application/sparql-results+json"}).encode()
         _, raw = http(CELLAR, data=body, timeout=180)
         for r in json.loads(raw)["results"]["bindings"]:
             celex = r["celex"]["value"]
             title = {k: r[k]["value"].replace(" ", " ")[:400] for k in ("en", "nl", "fr") if k in r}
-            if not title or NOISE.search(title.get("en", "")):
+            if not title or (not wide and NOISE.search(title.get("en", ""))):
+                continue
+            if wide and r["date"]["value"][:10] < SCOPE.isoformat():
                 continue
             labels = r.get("labels", {}).get("value", "")
             topics = classify(title.get("en") or " ".join(title.values()))
@@ -325,7 +335,7 @@ SB_TITLE_START = re.compile(
     r"circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
 
 
-SB_RULES = 3  # bump to rebuild the Staatsblad part of the inbox
+SB_RULES = 4  # bump to rebuild the Staatsblad part of the inbox
 SB_NOISE = re.compile(
     r"^(personeel|personnel)\b|collectieve arbeidsovereenkomst|convention collective|officieuze coördinatie in het duits|"
     r"duitse vertaling|traduction allemande|subsidie|subvention|toelage|\blening\b|\bemprunt\b|rechterlijke orde|"
@@ -424,6 +434,17 @@ def _sb_item(day, numac, href, raw):
     title = _sb_title(raw, href, numac)
     searchable = (raw or "") + " " + title
     etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
+    if day >= SCOPE and not SB_RVS.search(title):
+        # no selection here: every publication is kept and qualified by pipeline/assess.py
+        auth = _sb_authority(raw).strip()[:120]
+        level = _sb_level(auth)
+        m = re.search(r"type\s+(.+?)\s+prom\.", raw or "", re.I)
+        it = {"id": "sb:" + numac, "src": "staatsblad", "level": "BE" if level == "COM" else level, "t": "law",
+              "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac), "ref": numac,
+              "k": classify(title), "text_url": etaamb_href, "auth": auth, "kind": (m.group(1)[:60] if m else "")}
+        if level in ("VL", "WAL"):
+            it["rule"] = "regional act, assessed from the regional legislation database"
+        return it
     if SB_RVS.search(title):
         level = _sb_level(_sb_authority(raw))
         return {
@@ -459,7 +480,7 @@ def _sb_item(day, numac, href, raw):
 def collect_staatsblad(state, items, budget=220):
     """Backfill Etaamb's daily publication indexes and refresh the last five days."""
     started = time.time()
-    cursor = dt.date.fromisoformat(state.get("sb_next", START.isoformat()))
+    cursor = dt.date.fromisoformat(state.get("sb_next", SCOPE.isoformat()))
     matched = read = 0
     error = None
     done = set()  # days already read in this run
@@ -512,13 +533,13 @@ def collect_staatsblad(state, items, budget=220):
                     error = error or "refresh %s: %s" % (recent.isoformat(), repr(e)[:250])
             recent += dt.timedelta(days=1)
         result = {"ok": error is None, "matched": matched, "read": read,
-                  "backfilled_to": state.get("sb_next", START.isoformat())}
+                  "backfilled_to": state.get("sb_next", SCOPE.isoformat())}
         if error:
             result["error"] = error
         return result
     except Exception as e:
         return {"ok": False, "matched": matched, "read": read,
-                "backfilled_to": state.get("sb_next", START.isoformat()),
+                "backfilled_to": state.get("sb_next", SCOPE.isoformat()),
                 "error": repr(e)[:400]}
 
 
@@ -808,7 +829,11 @@ def save_texts(items, state, per_source=40, budget=240):
     t0 = time.time()
     res = {}
     gave_up = set(state.get("text_failed", []))
-    todo = sorted((i for i in items.values() if (i.get("k") or i.get("x")) and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad", "cass")),
+    verdicts = load("assessments.json", {"items": {}}).get("items", {})
+    relevant = {k for k, v in verdicts.items() if v.get("verdict") == "relevant"}
+    # from the scope date: texts of items assessed as relevant; before it: as filed by keyword
+    todo = sorted((i for i in items.values() if i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad", "cass")
+                   and (i["id"] in relevant if i["d"] >= SCOPE.isoformat() else (i.get("k") or i.get("x")))),
                   key=lambda i: i["d"], reverse=True)
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})

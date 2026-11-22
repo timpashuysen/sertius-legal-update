@@ -16,6 +16,7 @@ INDEX = DATA / "rvvb-index.json"
 BASE = "https://www.dbrc.be"
 UA = "Mozilla/5.0 (compatible; SertiusLegalUpdate/1.0; +https://timpashuysen.github.io/sertius-legal-update/)"
 DELAY = 10
+SCOPE = "2026-01-01"   # rulings dated from here are all kept (unless a mere withdrawal); pipeline/assess.py qualifies them
 LAST_PAGE_GUESS = 1000
 NAME = re.compile(r"^(RVVB|HHC)\.(?:(UDN|S|A)\.)?(\d{2})(\d{2})\.(\d{4})(?:_\d+)?\.pdf$", re.I)
 MONTHS = {m: i + 1 for i, m in enumerate(
@@ -44,7 +45,7 @@ def get(url, timeout=40):
 
 def recent(name):
     m = NAME.match(name)
-    return bool(m and int(m.group(4)) == int(m.group(3)) + 1 and int(m.group(3)) >= 23)
+    return bool(m and int(m.group(4)) == int(m.group(3)) + 1 and int(m.group(3)) >= 25)   # work year 2025-2026 on
 
 
 def page_links(html):
@@ -102,6 +103,12 @@ def subject(text):
 def fetch_rulings(idx, deadline):
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
+    for n, r in idx["rulings"].items():
+        if not recent(n) and "kept" not in r:
+            r["kept"], r["why"] = 0, "before the scope date"
+        elif str(r.get("why", "")).startswith("no environmental subject") and r.get("d", "") >= SCOPE:
+            for k in ("kept", "why"):          # read under the old subject filter: read again, no subject filter now
+                r.pop(k, None)
     todo = sorted((n for n, r in idx["rulings"].items() if "kept" not in r), reverse=True)
     for n in todo:
         if time.time() > deadline:
@@ -118,12 +125,10 @@ def fetch_rulings(idx, deadline):
         r["d"] = ruling_date(text)
         flat = re.sub(r"\s+", " ", text)
         score = len(set(x.lower() for x in ENV.findall(flat)))
-        if r["d"] and r["d"] < "2024-01-01":
-            r["kept"], r["why"] = 0, "before 2024"
+        if r["d"] and r["d"] < SCOPE:
+            r["kept"], r["why"] = 0, "before the scope date"
         elif TRIVIAL.search(flat[-2500:]) or len(flat) < 6000:
             r["kept"], r["why"] = 0, "withdrawal, inadmissible or very short"
-        elif score < 3 and not n.upper().startswith("HHC"):
-            r["kept"], r["why"] = 0, "no environmental subject (%d terms)" % score
         else:
             r["kept"], r["score"], r["subject"] = 1, score, subject(text)
             key = re.sub(r"[^A-Za-z0-9]+", "_", "rvvb:" + n[:-4])

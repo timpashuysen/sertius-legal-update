@@ -1,0 +1,137 @@
+"""Qualification of collected publications: one logged verdict per item, the same way for all.
+
+Scope: items dated from SCOPE_START. Two kinds of verdict, both written to data/assessments.json:
+  - "excluded": by a rule on the kind of document (appointments, honours, staff, withdrawals,
+    duplicates of a regional act). The rule is named. No AI.
+  - "relevant" / "not relevant": by the model, on the title, authority, type and, for rulings,
+    the subject line, with topics, a one-line reason and a confidence.
+Every verdict carries VERSION. Raising VERSION re-assesses everything, so the published set never
+mixes two ways of qualifying.
+    python pipeline/assess.py            (needs ANTHROPIC_API_KEY; rule exclusions run without it)
+"""
+import datetime as dt, json, pathlib, re, sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import llm
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+SCOPE_START = "2026-01-01"
+VERSION = 1
+BATCH = 40
+TOPICS = ["soil", "environmental-law", "environmental-safety", "permitting", "energy-climate", "circular-products"]
+
+RULES = [
+    ("staff and appointments", re.compile(r"\b(benoeming|aanstelling|ontslag|oprustestelling|in ruste gesteld|pensionering|bevordering|"
+     r"personeel|vacature|vergelijkende selectie|nomination|désignation|démission|mise à la retraite|promotion|personnel|emploi vacant|mobiliteit)\b", re.I)),
+    ("honours", re.compile(r"\b(eretekens?|nationale orden|ordres nationaux|décoration|onderscheiding)\b", re.I)),
+    ("courts and notaries administration", re.compile(r"\b(rechterlijke orde|ordre judiciaire|notariaat|notariat|gerechtsdeurwaarder|huissier de justice)\b", re.I)),
+    ("collective labour agreement", re.compile(r"collectieve arbeidsovereenkomst|convention collective de travail", re.I)),
+    ("translation or erratum only", re.compile(r"\b(duitse vertaling|traduction allemande|officieuze coördinatie in het duits)\b", re.I)),
+]
+
+SYSTEM = """You screen official publications for Sertius, a Belgian environmental consultancy. For each numbered publication decide whether it is RELEVANT to environmental compliance in Belgium.
+
+RELEVANT: it creates, changes, repeals, interprets or announces rules that companies, project developers or authorities in Belgium (EU, federal, Flemish, Brussels or Walloon level) must take into account in one of these topics:
+- soil: soil and groundwater quality, remediation, excavated earth, PFAS in soil
+- environmental-law: environmental and planning permits, spatial planning, enforcement, access to justice, environmental procedure
+- environmental-safety: Seveso and major accidents, dangerous substances, chemicals (REACH, CLP), industrial emissions, external safety
+- permitting: environmental impact assessment, water, air, noise, nature and biodiversity, nitrogen, waste, best available techniques, manure
+- energy-climate: energy efficiency and renewable energy obligations, emissions trading, climate rules for installations and buildings
+- circular-products: extended producer responsibility, packaging, batteries, ecodesign, product and material rules with environmental purpose, critical raw materials
+Court rulings are relevant when they decide on such rules. Corrigenda to relevant acts are relevant.
+
+NOT RELEVANT: everything else, for example tax, social security, justice, health care, education, defence, transport safety, agriculture market measures, fisheries quotas, trade and anti-dumping, customs, financial services, individual subsidies, individual product authorisations, decisions about one named person or one site without general interest.
+
+Answer with a JSON array only, one object per publication, in the same order:
+{"n": <number>, "relevant": true|false, "topics": [zero or more topic ids from the list], "reason": "<at most 15 words, plain>", "confidence": "high"|"medium"|"low"}
+Use "low" confidence when the title is too vague to tell; then set relevant to true so that a person or a later step looks at it."""
+
+
+def load(name, default):
+    p = DATA / name
+    return json.loads(p.read_text("utf-8")) if p.exists() else default
+
+
+def rule_exclusion(item):
+    title = " ".join(item.get("title", {}).values())
+    if item.get("rule"):                       # set by the collector, e.g. a regional act also in the regional database
+        return item["rule"]
+    if item["src"] in ("staatsblad",):
+        for name, rx in RULES:
+            if rx.search(title):
+                return name
+    return ""
+
+
+def describe(n, item):
+    t = item.get("title", {})
+    title = t.get("en") or t.get("nl") or t.get("fr") or ""
+    extra = "; ".join(x for x in (item.get("auth", ""), item.get("lab", "")[:160]) if x)
+    return "%d. [%s, %s, %s] %s%s" % (n, item["src"], item.get("level", ""), item.get("t", ""), title[:420], (" (" + extra + ")") if extra else "")
+
+
+def assess(items, log, client, today, limit=2400):
+    done = 0
+    todo = [i for i in items if i["d"] >= SCOPE_START and log["items"].get(i["id"], {}).get("v") != VERSION]
+    rest = []
+    for it in todo:
+        rule = rule_exclusion(it)
+        if rule:
+            log["items"][it["id"]] = {"v": VERSION, "verdict": "excluded", "by": "rule", "reason": rule, "at": today}
+            done += 1
+        else:
+            rest.append(it)
+    if not client or not client.available():
+        return done, len(rest)
+    rest.sort(key=lambda i: i["d"], reverse=True)
+    for a in range(0, min(len(rest), limit), BATCH):
+        batch = rest[a:a + BATCH]
+        try:
+            reply = client.ask(llm.MODELS["small"], SYSTEM, "\n".join(describe(n + 1, it) for n, it in enumerate(batch)), max_tokens=4000)
+            rows = {int(r["n"]): r for r in llm.json_block(reply) if isinstance(r, dict) and "n" in r}
+        except llm.CapReached:
+            break
+        except Exception as e:
+            log["last_error"] = str(e)[:200]
+            break
+        for n, it in enumerate(batch):
+            r = rows.get(n + 1)
+            if not r:
+                continue
+            topics = [t for t in r.get("topics", []) if t in TOPICS]
+            log["items"][it["id"]] = {"v": VERSION, "verdict": "relevant" if r.get("relevant") else "not relevant", "by": llm.MODELS["small"],
+                                      "topics": topics, "reason": str(r.get("reason", ""))[:160],
+                                      "confidence": r.get("confidence", "medium") if r.get("confidence") in ("high", "medium", "low") else "medium", "at": today}
+            done += 1
+    left = sum(1 for i in rest if log["items"].get(i["id"], {}).get("v") != VERSION)
+    return done, left
+
+
+def main():
+    inbox = load("inbox.json", [])
+    inbox = inbox if isinstance(inbox, list) else inbox.get("items", [])
+    log = load("assessments.json", {"version": VERSION, "items": {}})
+    log["version"] = VERSION
+    client = llm.Client(cap_usd=3.0)
+    today = dt.date.today().isoformat()
+    done, left = assess(inbox, log, client, today)
+    scope = [i for i in inbox if i["d"] >= SCOPE_START]
+    cur = [log["items"][i["id"]] for i in scope if log["items"].get(i["id"], {}).get("v") == VERSION]
+    log["summary"] = {"scope_from": SCOPE_START, "in_scope": len(scope), "assessed": len(cur), "waiting": left,
+                      "relevant": sum(1 for a in cur if a["verdict"] == "relevant"),
+                      "not_relevant": sum(1 for a in cur if a["verdict"] == "not relevant"),
+                      "excluded_by_rule": sum(1 for a in cur if a["verdict"] == "excluded"),
+                      "this_run": done, "api": client.report(), "key_present": bool(client.key), "updated": today}
+    (DATA / "assessments.json").write_text(json.dumps(log, ensure_ascii=False, indent=0), "utf-8")
+    # what the site needs: the ids found relevant, and whether the whole scope has a verdict
+    by_model = sum(1 for a in cur if a["by"] != "rule")
+    (DATA / "qualified.json").write_text(json.dumps({
+        "version": VERSION, "scope_from": SCOPE_START, "active": bool(by_model and left == 0), "summary": log["summary"],
+        "relevant": sorted(i["id"] for i in scope if log["items"].get(i["id"], {}).get("verdict") == "relevant"
+                           and log["items"][i["id"]].get("v") == VERSION)}, ensure_ascii=False), "utf-8")
+    print(json.dumps(log["summary"]))
+
+
+if __name__ == "__main__":
+    main()

@@ -18,7 +18,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,6 +28,14 @@ jobs:
       - name: Offline tests
         run: python -m unittest discover -s pipeline -p "test_*.py"
       - run: python pipeline/collect.py
+      - name: Qualify (one verdict per publication)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline/assess.py
+      - name: Write entries for relevant publications
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline/write_entries.py
       - name: Commit data
         if: github.ref == 'refs/heads/main'
         run: |
@@ -42,7 +50,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if python -c "import json,sys; sys.exit(0 if json.load(open('data/status.json')).get('backlog') else 1)"; then
+          if python -c "
+          import json,sys
+          s=json.load(open('data/status.json')); a=json.load(open('data/assessments.json'))
+          key=a.get('summary',{}).get('key_present')
+          sm=a.get('summary',{}); more=key and ((sm.get('waiting',0)>0 and sm.get('this_run',0)>0) or a.get('writer',{}).get('this_run',0)>0)
+          sys.exit(0 if (s.get('backlog') or more) else 1)"; then
             sleep 90
             gh workflow run collect.yml --ref main
           fi
