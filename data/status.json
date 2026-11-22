@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-22T12:41:18+00:00",
+ "ran": "2026-11-22T12:50:48+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 49,
    "backfilled_to": "2026-11-01",
-   "seconds": 6.0
+   "seconds": 6.7
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 9.0
+   "seconds": 9.4
   },
   "codex": {
    "ok": true,
@@ -24,28 +24,28 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 42.2
+   "seconds": 32.6
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 0,
-   "errors": 4,
+   "errors": 0,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 58.7
+   "seconds": 35.1
   },
   "staatsblad": {
    "ok": true,
-   "matched": 276,
-   "read": 2979,
-   "backfilled_to": "2024-03-01",
-   "seconds": 151.9
+   "matched": 322,
+   "read": 2540,
+   "backfilled_to": "2024-04-24",
+   "seconds": 154.5
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.4
+   "seconds": 0.1
   }
  },
  "not_collected": {
@@ -60,34 +60,35 @@
    "failed": 0
   },
   "gwh": {
-   "saved": 26,
+   "saved": 0,
    "failed": 0
   },
   "eurlex": {
-   "saved": 39,
-   "failed": 1,
+   "saved": 37,
+   "failed": 3,
    "last_error": "<HTTPError 300: ''>"
   },
   "codex": {
-   "saved": 40,
-   "failed": 0
+   "saved": 39,
+   "failed": 1,
+   "last_error": "ValueError('text too short (140 chars)')"
   },
   "wallex": {
    "saved": 0,
    "failed": 0
   }
  },
- "texts_on_file": 347,
+ "texts_on_file": 463,
  "backlog": true,
- "items_total": 4918,
- "items_new": 276,
+ "items_total": 5233,
+ "items_new": 315,
  "items_by_source": {
-  "staatsblad": 276,
+  "staatsblad": 591,
   "council": 1,
   "gwh": 475,
   "eurlex": 799,
   "codex": 2676,
   "wallex": 691
  },
- "items_filed_for_site": 635
+ "items_filed_for_site": 656
 }
