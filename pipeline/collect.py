@@ -229,7 +229,7 @@ def wallex_one(n):
     import html as _html
     url = "%s/fr/sites/wallex/contents/acts/%d/%d/1.listing.html.ajax" % (WALLEX, n // 1000, n)
     try:
-        _, raw = http(url, timeout=30)
+        _, raw = http(url, timeout=12)
     except urllib.error.HTTPError as e:
         return (n, None) if e.code in (403, 404) else (n, "err")
     except Exception:
@@ -246,27 +246,46 @@ def wallex_one(n):
                "url": href if href.startswith("http") else WALLEX + href, "ref": "Wallex %d" % n, "k": classify(title)}
 
 
-def collect_wallex(state, items, back=3000, ahead=400):
+def collect_wallex(state, items, budget=300, chunk=150, ahead=300):
+    """Time-boxed: Wallex answers slowly, so each run does what fits in `budget` seconds."""
     from concurrent.futures import ThreadPoolExecutor
+    t0 = time.time()
     hi = int(state.get("wallex_hi", WALLEX_SEED))
     lo = int(state.get("wallex_lo", WALLEX_SEED))
-    ids = list(range(hi, hi + ahead)) + list(range(max(WALLEX_FLOOR, lo - back), lo))
-    kept = errs = 0
+    kept = probed = errs = 0
     top = hi
-    with ThreadPoolExecutor(max_workers=6) as ex:
-        for n, it in ex.map(wallex_one, ids):
-            if it == "err":
-                errs += 1
-            elif it:
-                top = max(top, n + 1)
-                if it["d"] >= START.isoformat():
-                    items[it["id"]] = it
-                    kept += 1
-    if errs > len(ids) // 4:
-        return {"ok": False, "error": "%d of %d requests failed; cursors not moved" % (errs, len(ids)), "matched": kept}
-    state["wallex_hi"] = top
-    state["wallex_lo"] = max(WALLEX_FLOOR, lo - back)
-    return {"ok": True, "probed": len(ids), "matched": kept, "errors": errs, "next_new_id": top, "backfilled_down_to": state["wallex_lo"]}
+
+    def run(ids):
+        nonlocal kept, probed, errs, top
+        bad = 0
+        with ThreadPoolExecutor(max_workers=6) as ex:
+            for n, it in ex.map(wallex_one, ids):
+                probed += 1
+                if it == "err":
+                    bad += 1
+                elif it:
+                    top = max(top, n + 1)
+                    if it["d"] >= START.isoformat():
+                        items[it["id"]] = it
+                        kept += 1
+        errs += bad
+        return bad <= len(ids) // 4
+
+    ok = True
+    for start in range(hi, hi + ahead, chunk):  # new acts first
+        if time.time() - t0 > budget / 3 or not ok:
+            break
+        ok = run(list(range(start, start + chunk)))
+    if ok:
+        state["wallex_hi"] = top
+    while ok and lo > WALLEX_FLOOR and time.time() - t0 < budget:  # then the backfill
+        nxt = max(WALLEX_FLOOR, lo - chunk)
+        ok = run(list(range(nxt, lo)))
+        if ok:
+            lo = nxt
+            state["wallex_lo"] = lo
+    return {"ok": ok or kept > 0, "probed": probed, "matched": kept, "errors": errs,
+            "next_new_id": state.get("wallex_hi", hi), "backfilled_down_to": state.get("wallex_lo", lo)}
 
 
 # ------------------------------------------------------- EU: Council press RSS
