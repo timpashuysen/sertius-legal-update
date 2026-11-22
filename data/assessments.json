@@ -2233,38 +2233,6319 @@
 "by": "rule",
 "reason": "translation or erratum only",
 "at": "2026-11-22"
+},
+"sb:2026008518": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Shop opening hours; not an environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008486": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Exemption for foreigners from self-employment licence; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008462": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Architects' order implementing decree; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008352": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Military language exams; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008351": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal family statute; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008349": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mandate of a defence social agency administrator; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008348": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance agreements with care institutions; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008294": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical reimbursement list; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007917": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of science policy committee members; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025R1472R(02)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belarus sanctions regulation rectification; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025D1471R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belarus sanctions decision rectification; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32023R1230R(06)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Machinery Regulation rectification; product safety, not an environmental purpose.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"council:152538": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council media advisory on agriculture and fisheries meeting.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008451": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Repeal of court internal regulation; justice administration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008426": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Statute amendments of a company; not an environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008425": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Statute amendments of motor insurance bodies; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008284": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medical nomenclature change; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008252": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance regulation; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008251": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medical nomenclature change; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007383": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal social subsidy to municipalities; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:139/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pension reform suspension case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:138/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Preliminary question on old Civil Code; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:137/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Preliminary question on old Civil Code; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:136/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Walloon local democracy remuneration limits; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:135/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Population registers and identity documents; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:134/2026": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling on Flemish spatial planning code provisions.",
+"confidence": "high",
+"at": "2026-11-22",
+"written": "d-gwh-134-2026"
+},
+"gwh:133/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social security provisions of programme law; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:132/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Private investigation law challenge; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0543": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Commission v Hungary judgment; subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025CJ0528_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ePrivacy cold calling to business subscribers; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0528": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ePrivacy cold calling to business subscribers; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0354": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "German referral judgment; subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025CJ0332": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Habitats Directive appropriate assessment of plans affecting protected sites.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0312": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff sickness insurance and pay statement; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0274": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Payment services direct debit case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0239": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Consumer credit early repayment; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0029": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Motor vehicle liability insurance scope; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0906_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Free movement and residence of family members; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0906": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Free movement and residence of family members; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0683_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Online gambling litigation admissibility; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0683": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on online gambling loan enforceability; not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0098_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Admissibility of a preliminary reference from a notary; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0098": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Admissibility of a preliminary reference from a notary; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2563": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Amends list of neighbouring ports used for maritime emissions rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2562": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Amends ETS shipping implementing rules on neighbouring transhipment ports.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2560": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tariff quotas for rice imports; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2599": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU position in UK trade-agreement body; trade governance, not environmental rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2572": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Extends EU biocide active-substance approval for rodenticides under BPR.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2567": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Non-renewal of biocide active substance approval; general EU effect.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2566": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Repeals biocide approval extension for medetomidine; general EU effect.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2564": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Postpones biocide active-substance approval expiry for hydrogen cyanide.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2561": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Postpones biocide active-substance approval expiry for indoxacarb.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2559": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Postpones biocide active-substance approval expiry for DEET.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025R1706R(02)": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Corrigendum to vehicle exhaust and evaporative emission rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008415": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget allocation for Ukraine war expenditure; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008400": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ratification of a 2025 federal energy-sector contribution amount; financing, not environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008304": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance reimbursement forms erratum.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008178": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Shortage occupations list for the German-speaking Community; labour matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008066": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical export authorisation for one medicine; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007856": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education loan eligibility list; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62026TJ0069": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62026TJ0065": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0710": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil service case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0674": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark revocation judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0670": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs and tariff classification case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0511": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil service appraisal case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0499": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark invalidity judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0385": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil service reassignment case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0380": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Grant audit and reimbursement dispute under CEF; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0341": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark revocation judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0340": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark revocation judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0332": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case number only; General Court trade mark ruling per listing.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0331": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case number only; General Court trade mark ruling per listing.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0330": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case number only; General Court trade mark ruling per listing.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0329": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case number only; General Court trade mark ruling per listing.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024TJ0502": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case number only; General Court ruling with no environmental subject shown.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024TJ0141": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIB staff appraisal case; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0637": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU budget framework amendment for Ukraine support; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0636": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine financial support instrument; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32023R1230R(05)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to Machinery Regulation; safety rules without environmental purpose.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042504": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic farming production and labelling rules; agriculture, not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042501": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Statutory land consolidation plan with spatial planning and nature effects for a Flemish area.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042500": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Funding of carcass classification cell; agricultural administration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026203029": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance reimbursement rule; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0241_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on withholding tax on dividends; tax law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0241": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on withholding tax on dividends; tax law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0698_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on Europol personal data processing; data protection, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0698": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on Europol personal data processing; data protection, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0633": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council position on road freight transport agreement with Moldova; transport.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2538": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty correction on steel imports; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2537": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Standard form for restructuring and insolvency data; company law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2501R(01)": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Corrigendum to REACH Annex XVII restriction on lead in fishing tackle.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2584": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU agricultural fund expenditure exclusion; agricultural finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2540": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products"
+],
+"reason": "Harmonised standards supporting ecodesign and energy labelling rules for refrigerating appliances.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2539": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standards for unmanned aircraft; aviation product standards.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2306R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to own resources accounting forms; budgetary control.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008295": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical budget for health insurance; health care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008283": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belgian contribution to a biodiversity trust fund; no compliance rule for companies.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008282": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belgian contribution to UNEP chemicals panel secretariat; no compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008268": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belgian contribution to Global Framework on Chemicals; no compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008237": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations for one rail crossing; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008235": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008234": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008233": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008232": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008229": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008228": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008227": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Level crossing safety installations at one site; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0621": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Framework agreements on EU programme participation; external relations.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0611": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Joint Committee rules of procedure for Swiss programme participation; external relations.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2574": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Restrictive measures on Ukraine territorial integrity; sanctions, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2569": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Human rights sanctions listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2568": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Counter-terrorism sanctions listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2558": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sanctions over Russia's destabilising activities; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2550": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cyber-attack sanctions listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2532": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration of PVDF imports; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2530": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Amends REACH Annex XVII restricting lead in gunshot.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2527": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Amends animal by-products rules on disposal, use and renewable fuels; waste-related.",
+"confidence": "medium",
+"at": "2026-11-22",
+"written": "d-eu-32026r2527"
+},
+"eu:32026D2598": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of a Committee of the Regions member; institutional.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2582": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Avian influenza emergency measures; animal health, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2575": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sanctions listing under Ukraine territorial integrity measures, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2571": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Human rights sanctions, outside environmental compliance topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2570": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Counter-terrorism sanctions against Hamas and PIJ, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2556": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia destabilisation sanctions, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2554": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility military assistance for Gulf of Guinea navies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2546": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cyber-attack sanctions regime, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042495": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Temporary fishing quota and fish stock measures, excluded fisheries rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008273": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Facultative subsidy to a named research body, excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008203": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Avian influenza animal health measures, not an listed compliance topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026008127": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Football stadium security perimeter, public order rather than environment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007959": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Subsidy to one named association for antimicrobial resistance action plan.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007925": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Prior authorisation requirement for named medicines, pharmaceutical rather than environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0603": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "South East Atlantic fisheries management regulation, excluded fisheries quotas.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2547": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on steel imports, excluded trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2526": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancels authorisation of one named biocidal product, an individual product authorisation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2520": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Exemption under F-gas regulation for fluorinated gases in heat pump laundry equipment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2580": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sheep and goat pox emergency measures in Bulgaria, animal disease.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2545": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Industrial Emissions Directive information exchange and BAT reference document rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32024R2690R(04)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "NIS2 cybersecurity risk management rectification, not an environmental topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042509": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Higher education programme lists, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042507": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal record checks in youth work, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042506": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Driving training subsidy abolition, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042505": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cooperation agreement on treatment of sex offenders, justice and health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042490": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution, public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042489": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution, public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042488": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution, public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042487": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution, public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042486": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution, public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008231": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008230": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008220": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008219": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008218": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008217": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008216": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008215": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008214": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008192": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008191": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008190": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations, transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008189": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations; transport safety, outside screening topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008188": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway level crossing safety installations; transport safety, outside screening topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008088": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Advisory committee for rail freight; transport organisation, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:131/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Constitutional Court suspension case on French Community education decree.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:130/2026": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment case on omnibus federal act; content unclear from title, needs check.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"gwh:129/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Income tax question on Income Tax Code provision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:128/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Family allowance ordinance; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:127/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Local democracy code provision; institutional law, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:126/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sex work under employment contract; labour law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0557": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU civil service dispute on temporary staff contract.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0476": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Credit servicers and borrower communication; financial services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0268_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement exclusion for tax offences; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0268": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement exclusion for tax offences; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0254_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Student immigration procedural rules; migration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0254": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Student immigration procedural rules; migration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0230": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Judicial cooperation in criminal matters; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0164": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Slovenian telecom dispute; electronic communications, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0061": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Spain CAP funding exclusion over biodiversity and protected area requirements.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0007": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Asylum refugee status assessment; migration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0897": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Restrictive measures against named person; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0579_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright collecting societies; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0579": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright collecting societies; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0771": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of energy efficiency directive 2023/1791.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0512": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of CBAM regulation 2023/956.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0505": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of ETS amending directive 2023/959.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0451": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of binding emission reduction regulation 2023/857.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0445": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of ETS market stability reserve decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0444": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of car and van CO2 standards regulation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62023CJ0442": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Court ruling on legal basis of land use and forestry climate regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2517": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "EU non-renewal of buprofezin active substance; plant protection chemical, general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2511": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Union authorisation for a named biocidal product family; individual authorisation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2509": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication protection for Omani frankincense; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2506": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancellation of one named biocidal product authorisation; individual product.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2504": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancellation of one named biocidal product authorisation; individual product.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2503": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Import listing of Japan for poultry meat; veterinary trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2502": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancellation of one named biocidal product authorisation; individual product.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2501": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "REACH Annex XVII amendment restricting lead in fishing tackle.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2510": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ireland's participation in Council of Europe violence against women convention.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2505": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standards for protective gloves and clothing; product safety standards.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042494": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Location of medical entrance exams; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042477": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Training credit and diploma recognition, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:26/CAS/0941": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal sentence enforcement ruling, outside environmental topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:26/CAS/0923": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recusal request in a football criminal case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62026TJ0016": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EUIPO trademark or design dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0877": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EUIPO intellectual property dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0874": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EUIPO intellectual property dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0701": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs classification of fish oil products.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0583": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual sanctions listing challenge.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0418_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff medical reimbursement case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0418": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff medical reimbursement case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0399": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff case, individual dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0193": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff or individual dispute with the Commission.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0175": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff or individual dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0152": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff or individual dispute with the Commission.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0136": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU staff dispute with the EESC.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0132": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual dispute with the Commission.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024TJ0523": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Food smoke flavouring authorisations, not an listed environmental topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:52026PC1120": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Consumer protection enforcement cooperation, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC1110": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Consumer law simplification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC1100": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Digital Fairness Act, consumer commercial practices.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32023D0229R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine military assistance rectification.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008187": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance body elections for physiotherapists.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008153": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education subjects in German-speaking Community.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0613": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Agricultural and industrial tariff quotas, trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0612": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs duty suspension, trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2512": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duties on acrylic esters.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2497": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duties on copper tubes.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2491": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "F-gas regulation exemption for medical chillers under climate rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2489": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Ozone-depleting halon derogation under substances regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2487": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "AI regulatory sandboxes, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2486": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "F-gas regulation exemption for heat pumps.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2485": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "F-gas regulation exemption for machine tool chillers.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R1848R(03)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia sanctions rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R1844R(02)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine sanctions rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2492": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Rejection of a Turkish geographical indication, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2488": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Air quality rules for natural-source exceedances under the Directive.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D1849R(02)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia sanctions rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D1845R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine sanctions rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D06026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social security advisory committee appointment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025R1494R(05)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia sanctions rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025R0395R(07)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to Russia sanctions regulation; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025D1495R(03)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to Russia sanctions decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025D0394R(07)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to Russia sanctions decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042499": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of members to a planning commission; personnel decision, not a rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042498": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of members to a medical recognition commission.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042497": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of members to a medical recognition commission.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008197": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Justice subsidy to a forensic centre.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008196": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Justice subsidy to a forensic unit.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008195": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Justice subsidy to a support centre.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007798": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care nomenclature change; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007797": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Patient co-payment for orthopedic items; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007796": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care nomenclature change; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007385": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007384": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007382": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007381": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007380": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007379": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police funding allocation to municipalities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2523": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health import listings for third countries; not an listed environmental topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2557": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs cooperation with Türkiye; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2555": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Origin rules and administrative cooperation under a trade agreement.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2553": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EEA financial services (EMIR); not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2552": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs mutual recognition with Singapore; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2551": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Excise duty derogation for Slovenia; tax, not environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2549": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Negotiating mandate for a commodity agreement; no direct rule for Belgian actors.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2543": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EEA honey labelling rules; food product rules, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2542": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products"
+],
+"reason": "UNECE vehicle regulation proposals; may include pollution rules, scope unclear.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:32026D2533": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sheep pox measures in Greece; animal disease, not Belgian.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2528": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Avian influenza measures for Germany and Denmark; not Belgian.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2508": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU military mission amendment; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2507": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility military assistance; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2481": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standard for health care sterilisation; health product standard.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2480": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standard for explosion-protected equipment; workplace product safety.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2479": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standards for medical devices; health product standards.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2478": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Rejection of a geographical indication application; food labelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042472": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Sets banding factors for green and CHP certificates from 2027.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042466": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Designation of officials for notifiable infections; health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008168": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal funding for a transit house; social policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008126": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Overseas social security pension fund tariffs.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008027": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Management contract with air navigation service; transport.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007982": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care reimbursement pricing for antibiotics, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007220": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social security reimbursement for hospital stays abroad.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2529": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for a meat product; labelling only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2525": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for a vegetable; labelling only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2524": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for a cheese; labelling only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2476": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancellation of a wine designation of origin; labelling only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2474": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual Union authorisation for one named biocidal product.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2522": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU migration and asylum funding decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007692": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal funding for one transit house in Ghent; justice, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007637": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal delegation of signing powers for the cybersecurity centre.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0530": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on Ukraine-related restrictive measures and asset freezing.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0495": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic labelling of processed hemp product under CAP; agriculture labelling, not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0435_SUM": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cosmetics distributor advertising obligations; consumer product rules, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0435": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same cosmetics advertising ruling in English; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0395_SUM": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "CLP packaging rules for hazardous substances in detergent packaging.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0395": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "CLP packaging rules for hazardous substances in detergent packaging.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0344": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Conflict-of-laws ruling on product liability in civil matters.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0339": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Payment services directive; financial services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0238_SUM": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Measuring instruments directive; metrology, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0238": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Measuring instruments directive; metrology, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0237_SUM": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Measuring instruments directive; manufacturer information obligations, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0237": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Measuring instruments directive; metrology, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0205": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Data protection ruling under GDPR.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0121": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Appeal on CLP delegated regulation classifying a substance as hazardous.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0118": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Admissibility of an appeal on gas market directive; not climate or environment.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024CJ0881_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff dispute at EU mission in Kosovo.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0881": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff dispute at EU mission in Kosovo.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0716_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil procedure on bank account attachment and insolvency.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0716": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Preliminary ruling from German court; subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62024CJ0505": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "State aid for an airline during COVID-19.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0468_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Data protection and ePrivacy ruling on smart meter terminal equipment.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024CJ0468": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Data protection and ePrivacy ruling on smart meter terminal equipment.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024CJ0266": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "State aid for an airline during COVID-19.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0074": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Banking resolution decision; financial regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0608": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fishing opportunities and quotas.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0597": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council of Europe convention on lawyers' profession; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0594": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council of Europe convention on lawyers' profession; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2516": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Designation of origin registration for Slovak mineral water; labelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2515": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Designation of origin registration for Slovak mineral water; labelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2514": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Designation of origin registration for Slovak mineral water; labelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2513": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for mineral water; no environmental compliance rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2498": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "CBAM implementing rules on carbon price conversion and certificate surrender.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2496": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "African swine fever disease control zones; animal health, not an environmental topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2467": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "ETS2 rules on compensation for fuel consumers and allowance surrender.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2409": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration of Chinese polyether polyol imports; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2468": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Implements air quality directive on particulate emissions from winter road sanding.",
+"confidence": "high",
+"at": "2026-11-22",
+"write_error": "Unterminated string starting at: line 18 column 11 (char 7278)"
+},
+"sb:2026202726": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recognition of one company as employer of sex workers; labour matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008091": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Equivalence of vocational qualifications in French Community education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008090": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Boarding schools rules in French Community; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008060": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Support and guidance cells in education; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007967": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "General rules on animal disease prevention and control; animal health, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007552": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Professional and training profiles for French Community; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0753": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark case before General Court.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0696": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark case before General Court.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0680": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Romanian tax preliminary reference; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0493": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0474": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff remuneration case; civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0468": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0275": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Frontex staff appraisal case; civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0191": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case against European Parliament; not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025TJ0119": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0098": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Funding call dispute for one named energy infrastructure project; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024TJ0622_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff appraisal report case; civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0622": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Duplicate of staff appraisal case; civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0535_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sanctions listing case for Russian Maritime Register; individual listing.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0535": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sanctions listing case for Russian Maritime Register; individual listing.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0503": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case against Commission; no environmental rule shown.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024TJ0355": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case against Europol concerning one person.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023TJ0428_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Single Resolution Fund contributions; banking financial services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023TJ0428": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Single Resolution Fund contributions; banking financial services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62022TJ0593": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Case against European Parliament concerning one person.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2133R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Correction to steel safeguard measure; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0715R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to EU design regulation; intellectual property, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0455R(02)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to terrorism sanctions decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042462": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal delegation of powers to agency staff; no rule for regulated parties.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026202833": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Representative employer organisation in laundry sector; labour matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008092": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal rules of federal urgent medical care council; health care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008056": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Class size deviation in secondary education; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008054": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "School establishment list for funding; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008039": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Model agreement for support cells in education; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026008004": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recognition of sharing-economy platforms; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007971": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal government working rules and signing delegations; not a compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007951": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tax-related recognition of a financial instrument lending system.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007859": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organisation of a German-speaking Community ministry.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007854": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organisation of a German-speaking Community ministry.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007745": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education measures.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007669": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "National lottery issuance rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007627": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance reimbursement lists.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0583_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European arrest warrant judgment; criminal justice.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0583": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European arrest warrant judgment; criminal justice.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0610": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU payment services position; financial regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0609": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU payment services position; financial regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2490": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ISIL/Al-Qaida sanctions listing.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R1061R(02)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Securities prospectus delegated regulation rectification.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2413": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Digital education consortium decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042474": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Designates agents for environmental permit procedures; procedural authority rule.",
+"confidence": "medium",
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Only designates named agency staff as delegates and representatives under the omgevingsvergunning decree; no change to obligations for companies, developers or authorities."
+},
+"codex:1042484": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Navigation anchoring and spud pole rules; mainly navigation safety.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042478": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Delegation of signature for property sale contracts.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007986": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical reimbursement list.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007980": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Omnibus law; title vague, may contain energy or environmental provisions.",
+"confidence": "low",
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Miscellaneous financial-sector provisions (supervision, penalties, FSMA information sharing, debt agency); no environmental obligations are changed or clarified."
+},
+"sb:2026007979": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tax administrative cooperation transposition.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007970": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Energy law; title vague, possibly relevant energy rules.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"sb:2026007968": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "VAT rules for the digital age.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007937": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Press subsidies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007923": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical reimbursement list.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007888": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medicine maximum prices and margins.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007881": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medicine price application procedures.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007828": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Funding amount for energy consumer ombudsman.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0606": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine financial assistance implementation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0593": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "EU position in Energy Community; may adopt energy and emissions rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2411": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual biocidal product family authorisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2406": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual biocidal product family authorisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2483": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health emergency measures for avian influenza.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2405": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual biocidal product family authorisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2331R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CFSP mission appointment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042503": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Support for persons with disabilities.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042496": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sports sector funding.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042493": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal record checks for new staff.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042491": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate",
+"permitting"
+],
+"reason": "Decree reducing methane emissions in the energy sector.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042476": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff transfer between justice organisations.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042475": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Subsidies for internships at multilateral organisations; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042470": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU-Uzbekistan partnership agreement consent; no environmental compliance rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042469": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "African Development Fund agreement consent; development finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042468": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU-Chile framework agreement consent; trade and cooperation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042465": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Driving licence rules; transport, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042464": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Service voucher validity; employment policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042459": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of SERV members; institutional.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042457": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget reallocation for 2026; finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042455": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget reallocation for 2026; finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042452": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fisheries stock measures; fisheries quotas excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042451": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"soil"
+],
+"reason": "Changes Flemish water policy derogation for moving polluted water or sediment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007960": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Offshore domain concessions for grid operator; no environmental compliance rule evident.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007940": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Constitutional Court competence amendment for Civil Code contracts.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007920": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education boarding school staffing derogation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007919": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education boarding school staffing derogation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007786": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Grant to one named vzw; individual subsidy.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007768": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Rail public service contract between Infrabel and NMBS; transport.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026005304": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget amendment of German-speaking Community; finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2401": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Labour cost statistics; statistics, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2396": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration of steel wire imports; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2393": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on PET spunbond; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2391": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration of cellulose ethers; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2603": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment to Committee of the Regions; institutional.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2541": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment to Committee of the Regions; institutional.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2531": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment to EESC; institutional.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2495": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "VAT derogation for Romania; tax.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2484": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Eurojust cooperation negotiation mandates; justice.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2482": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "VAT derogation for Denmark; tax.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2458": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Development Fund contributions; development finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2449": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Mauritania; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2410": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mandate renewal of energy interconnectivity coordinator; no compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2407": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Aviation body appointments; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2404": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Aviation security equipment approval; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32024R1834R(05)": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products",
+"energy-climate"
+],
+"reason": "Corrigendum to ecodesign regulation for fans.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042463": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"soil",
+"environmental-law"
+],
+"reason": "Delegation of decision power on OVAM soil remediation appeals.",
+"confidence": "medium",
+"at": "2026-11-22",
+"written": "d-codex-1042463"
+},
+"codex:1042461": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal delegation for property purchases; administrative.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007953": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recognition of cooperative companies; corporate law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007952": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recognition of agricultural enterprises; agriculture status.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007914": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Seat of health knowledge centre; administrative.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007882": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Language frameworks for NIRAS staff; personnel matter.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007857": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care nomenclature for social insurance reimbursement.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007638": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Reimbursement of neurosurgery implants under health insurance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007612": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Application forms for implant reimbursement under health insurance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026006764": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police registration rules for serious workplace accidents, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:52026PC0598": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU financial assistance to Hungary for defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0586": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EEA energy statistics data collection; not an environmental compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:52026PC0584": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EEA energy statistics revision; statistical, not a compliance obligation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2470": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Changes application date of renewable fuel sustainability and GHG verification rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2466": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Poultry meat import entries for third countries; veterinary rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2412": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Food contact plastics authorisations; health rules, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2403": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs procedure rules for authorised economic operators.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2390": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration for Chinese acetylsalicylic acid.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2389": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Customs and agricultural certificate information system rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2376": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products"
+],
+"reason": "Amends rules for recycled plastic register and compliance for food contact.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2377": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Derogations from environmental accounts data transmission for certain states.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2370": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate",
+"circular-products"
+],
+"reason": "Harmonised standards for tumble dryers supporting energy efficiency ecodesign rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32023R1694R(06)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Rail interoperability specification rectification, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042483": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Nautical notice on anchoring and spud poles; navigation rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042482": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Nautical notice on sea sand transhipment; navigation, not environmental permitting.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042481": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Nautical notice on anchoring and spud poles; navigation rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042450": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sports contract termination period for a tennis federation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007869": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Videoconferencing in judicial procedures.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007778": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Amends Brussels spatial planning code commissions and their operating rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007107": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance implementing regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007031": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance implementing regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026006676": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Personal contribution for health care fees.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026006675": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care nomenclature amendment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC1037": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Digital case management for migrant returns.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC1030": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Border and Coast Guard; migration policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0730": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Proposed climate adaptation framework affecting climate rules for member states.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2138R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to Afghanistan sanctions listings.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042453": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Membership of land consolidation commissions under Flemish spatial planning decree.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"sb:2026202656": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sectoral holiday replacement for concrete industry; labour rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007890": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence ministry subsidy to associations.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2446": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fishery product tariff quotas; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2374": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "DRC restrictive measures; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2536": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "International Olive Council agreement procedure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2535": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "International Olive Council agreement renewal.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2475": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "UK Joint Committee addition of a Union chemicals act to withdrawal agreement annex.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:32026D2469": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "UK Joint Committee addition of act on e-Health and personal data.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2457": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Trade concessions and tariff-rate quotas under GATT; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2448": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "WTO waiver for trade preferences to Western Balkans; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2397": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Restrictive measures against Transnistrian leadership; sanctions, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2386": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CSDP civilian mission amendment in Central African Republic; defence and security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2385": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CSDP military training mission amendment; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2378": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ISIL and Al-Qaeda sanctions listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2375": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Mauritanian armed forces; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2372": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "DRC restrictive measures; sanctions, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2369": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Ukrainian armed forces; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2368": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility lethal military equipment for Ukraine; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2367": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Ukrainian armed forces; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2366": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility lethal equipment supply to Ukraine; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2365": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Ukrainian armed forces; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2364": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility lethal equipment supply to Ukraine; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2363": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility ammunition assistance to Ukraine; defence.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2362": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Amendment of European Peace Facility establishing decision; defence funding.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D05943": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of an alternate Management Board member of EU-OSHA; administrative.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:P.26.0703.N": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal procedure ruling on access to seized IT data; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007845": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Employer social security contribution rate for local authorities; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007842": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Repartition contribution amount for energy supply security stocks; not a listed topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007837": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Unemployment benefit training list amendment; employment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007833": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Brussels police measures on drug-related public order; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007728": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Reimbursement list for pharmaceuticals; health insurance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007672": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Transposition on European central access point for company information; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007547": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Grants to trafficking victim shelters; justice and social policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007509": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Belgian implementation of MiCA crypto-asset regulation; financial services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007130": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "German-speaking Community diploma recognition rules; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0579": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Heritage List action; cultural, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0578": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "IMO maritime safety performance standards for EPIRBs; transport safety.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0572": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU-Peru air services agreement; air transport.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2348": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Extends approval periods of plant protection active substances; general chemical rules.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2346": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration for Chinese silicon imports; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2345": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping registration for PVC imports; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0338R(04)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to IFRS 18 accounting regulation; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2521": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU delegation privileges agreement with Canada; diplomatic.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2347": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Singapore added to list of third countries for medicinal product surveillance; public health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042480": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Flemish education qualification for early childhood graduates; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042460": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Emergency aid to farmers after Middle East crisis; agricultural support.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042454": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "MRI device programme norms; health care planning.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042445": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Flemish budget redistribution amendment; public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042444": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Flemish budget reallocation, no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026202815": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social security pension for miners, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007652": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social statute of self-employed and business counters.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007560": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Visa exemption agreement with Kazakhstan.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026006007": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Articles of association of Proximus.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:125/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Constitutional Court ruling on criminal procedure questions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:124/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pre-emption rights in housing code, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:123/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Family allowance rules, Brussels Common Community Commission.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:122/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Judicial code question on labour court procedure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:121/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Compulsory health insurance question, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:120/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Private investigation law challenge, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:119/2026": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Family allowance rules, Brussels Common Community Commission.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0548_RES": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Habitats Directive Art. 6(3) appropriate assessment for projects near protected sites.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0548": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Same Habitats Directive appropriate assessment ruling, English version.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0431": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hungarian preliminary reference, subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025CJ0367": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Greek appeal against Commission, subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025CJ0359": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Age discrimination in diplomatic service retirement.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0348": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "State aid appeal on electricity price measures, not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0327": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Electricity emergency revenue measure, market rather than environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0295": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic production rules on processing substances, agricultural product scope.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0187": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tax dispute under electricity emergency regulation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62025CJ0117_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "State aid for compulsory port pilotage.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0117": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "State aid for compulsory port pilotage, English version.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0033": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Bulb inspection service dispute, plant trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0873_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Certificate of Succession.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0873": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Certificate of Succession.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0840_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright collecting society revenue use.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0840": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright collecting society revenue use.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0813": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Services directive authorisation for tourist accommodation, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024CJ0681_RES": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Right to lawyer in criminal proceedings.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0681": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Right to lawyer in criminal proceedings.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0660": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Right to lawyer in criminal proceedings.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0420": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Road workers' employment dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0563": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public employment services cooperation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2371": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "African swine fever disease control measures, veterinary.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2342": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Olive oil conformity checks, marketing standard.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2340": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Non-approval of a basic substance under plant protection product rules, applies generally.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2338": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Aviation security, Swedish language correction.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2395": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Avian influenza emergency veterinary measures.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2373": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Development Fund member state contributions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32021R2117R(12)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to CAP market and quality-scheme rules, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042449": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"soil"
+],
+"reason": "Amends Flemish soil-management decision designating a site with historic activities.",
+"confidence": "high",
+"at": "2026-11-22",
+"written": "d-codex-1042449"
+},
+"codex:1042448": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"soil"
+],
+"reason": "Flemish soil-management decision designating a site with historic activities in Denderleeuw.",
+"confidence": "high",
+"at": "2026-11-22",
+"written": "d-codex-1042448"
+},
+"sb:2026202654": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Optional social security subsidy to a deaf association.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007756": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007714": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal rules of a French Community steering committee.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007712": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Teacher training organisation in French Community education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007711": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Digital skills training organisation in education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007710": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Research funding conditions for university colleges, education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007706": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Subsidy for accessibility adaptations in inclusive education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007676": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007673": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007662": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Financial supervision of payment transaction processors.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007631": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Food-contact ceramics analysis method erratum, a food-safety rather than environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007610": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007609": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007608": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance pharmaceutical reimbursement list change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0786": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0541": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0513_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0513": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0479": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case against Council, not an environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0383": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "VAT on importation of a sailing boat.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0199": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIB staff harassment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0129_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0129": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0128_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0128": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0127_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0127": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0126_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0126": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0519_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0519": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0475_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0475": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0471_INF": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0471": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EIF staff recruitment case, civil service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0583": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine Facility payment decision, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2473": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fisheries regulation amending GFCM fishing rules, excluded fisheries measure.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2388": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Iraq sanctions listing amendment; not an environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2387": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence innovation funding programme; no environmental compliance rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2384": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ISIL/Al-Qaida sanctions listing; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2382": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Amends REACH and CLP chemicals rules for defence readiness.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2381": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Accelerates permit-granting for defence projects, which may include environmental permits.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R2380": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for mineral water; labelling, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2379": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Geographical indication registration for wines; labelling only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2327": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on citrus preparations from China; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026L2450": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Amends rules on worker exposure to carcinogens and mutagens.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026L2383": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence transfers and procurement simplification; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2494": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Solidarity Fund aid for storm victims; budgetary, not environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2493": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Globalisation Fund aid for displaced workers; employment measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2472": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Export credit derogation for one Egyptian project; trade finance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D2402": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Amends EU ETS market stability reserve for buildings and road transport.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:26/CAS/0870": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal cassation ruling on challenge for suspicion of bias.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:26/CAS/0240": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Criminal assize verdict on a specific case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007657": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrects pension rules for self-employed; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007601": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Subsidy for an anti-racism research project.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026003779": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal financing of one transition house; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D05944": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU personnel selection decision on automated online tests.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042440": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Household energy supply tables for winter heating; social energy protection, not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042439": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Quality requirements for disability support teams; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042438": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Designates environmental enforcement officers under Flemish enforcement decree.",
+"confidence": "high",
+"at": "2026-11-22",
+"written": "d-codex-1042438"
+},
+"sb:2026007582": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Subsidy to one association for endocrine disruptor testing methods.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026007571": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Pharmaceutical reimbursement list amendment; health insurance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007518": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Language premium funding for Brussels institutions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007454": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Implementing decree on school buildings; no clear environmental rule in title.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:52026PC0575": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Negotiating mandate for investment facilitation agreements with Egypt and Jordan.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0562": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Olive oil trade standard position in international council; marketing rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2319": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty amendment on ceramic tiles; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2314": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Repeal of anti-dumping duty on Chinese solar glass; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2311": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on thermal paper from Korea; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2310": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Repeal of countervailing duties on Chinese solar glass; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2352": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of EU Special Representative for Human Rights.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2334": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Peace Facility assistance to Nigerian armed forces; defence cooperation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025L2450R(01)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to a labour directive on European Works Councils; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32019L0882R(04)": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to accessibility directive; product accessibility, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042436": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic feed derogation for drought; agricultural production rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"sb:2026202363": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Unemployment benefit application procedure; employment law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026202361": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Unemployment benefit electronic application rules; employment law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007548": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "School replacement pool scheme; education, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007540": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medicine pricing and margins; not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007538": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Adult education diploma reference file; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007532": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Nursing diploma reference file; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007303": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Security company staffing requirements; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007041": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Dentist representation elections in health insurance bodies; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026006941": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Incentive measure for electric and hydrogen vans, with a clear low-emission purpose.",
+"confidence": "medium",
+"at": "2026-11-22",
+"written": "d-sb-2026006941"
+},
+"eu:52026PC0559": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Europol-Peru police cooperation agreement; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0558": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Signing decision for Europol-Peru police cooperation; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0556": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "VAT derogation for Germany; tax rule, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2354": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Beneficial ownership reporting formats; anti-money laundering, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2309": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Food additive specifications; food safety, outside the listed topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R2298": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Curdlan food additive use; food safety, outside the listed topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D2306": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Own resources accounting forms; budgetary, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32018L2001R(14)": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Corrigendum to the Renewable Energy Directive 2018/2001.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042508": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Operating budget for practice-oriented structures; not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042502": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Welfare, public health and family rules; not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042492": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Technical amendments to several Flemish Omgeving (spatial planning and environment) decrees.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042485": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Heritage subsidies to actors; not an environmental compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042479": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Broadcasting and political advertising transparency; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042435": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fisheries market compensation call; fisheries measure, excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042434": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget credit redistribution; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042433": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Budget reallocation for Einstein Telescope funding to FWO; not an environmental rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042432": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Additional subsidy to VIB for investments; individual subsidy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:142404": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Walloon financing company entry-into-force arrangements; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:142403": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Amendment on regional electricity market organisation; market rule, not clearly environmental.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"sb:2026202579": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disabled parking card rules; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007597": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Surveyor-expert titles and register for third-country nationals; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007541": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education unit reference file; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007533": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Nursing bachelor reference file; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007469": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Drug testing in prisons; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007426": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Management agreement appendix for birth and childhood office; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007386": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Orthoptist profession; health professional rule, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"sb:2026007356": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Sets average gas consumption for rent supplement on energy-efficient social housing in Brussels.",
+"confidence": "medium",
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Sets annual parameters for social-housing rent supplement calculation in Brussels; no environmental obligations are created or clarified."
+},
+"sb:2026007217": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "High Council of Finance; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0521": {
+"v": 1,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CJEU judgment in Commission v Hungary; subject not visible from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025CJ0402_SUM": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement exclusion grounds; procurement, outside listed topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0402": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement exclusion grounds; procurement, outside listed topics.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0321": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organised crime and EU financial interests; criminal justice, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025CJ0275_SUM": {
+"v": 1,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU officials' privileges and donation tax; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
 "in_scope": 5738,
-"assessed": 319,
-"waiting": 5419,
-"relevant": 0,
-"not_relevant": 0,
+"assessed": 999,
+"waiting": 4739,
+"relevant": 78,
+"not_relevant": 602,
 "excluded_by_rule": 319,
-"this_run": 0,
+"this_run": 680,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 18,
+"input_tokens": 116861,
+"output_tokens": 64141,
+"usd": 0.0438
 },
 "key_present": true,
 "updated": "2026-11-22"
 },
-"last_error": "API error 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"This API key is not scoped to a workspace, so this request must include the anthropic-workspace-id header with the ID of the workspace to use. Add the header, or use an API key that is scoped to a workspace.\"},\"request_id\":\"req_011ChJayDUNdzau6AZqGXrPx\"}",
 "writer": {
-"this_run": 0,
-"found_not_relevant_on_reading": 0,
-"failed": 0,
-"waiting": 0,
+"this_run": 7,
+"found_not_relevant_on_reading": 3,
+"failed": 1,
+"waiting": 63,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 11,
+"input_tokens": 72487,
+"output_tokens": 23937,
+"usd": 0.3843
 },
 "updated": "2026-11-22"
-}
+},
+"last_error": "Expecting value: line 41 column 1 (char 5937)"
 }
