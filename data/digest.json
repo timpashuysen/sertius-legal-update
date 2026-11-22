@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:57:44Z",
+ "updated": "2026-11-22T12:57:44Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -417,6 +417,41 @@
    "inbox": [
     "codex:1041994",
     "codex:1042011"
+   ]
+  },
+  {
+   "id": "d-gwh-50-2026",
+   "d": "2026-04-23",
+   "j": [
+    "BE",
+    "WAL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "soil"
+   ],
+   "h": "Constitutional Court: Walloon soil decree may not bar a permit transferee from exemption when the transferor caused the pollution",
+   "a": "In judgment 50/2026 the Constitutional Court holds that Article 30, § 1, first paragraph, 2°, of the Walloon decree of 1 March 2018 on soil management and remediation violates Articles 10 and 11 of the Constitution in so far as it prevents the transferee of an environmental permit from being released from soil obligations when the pollution is attributable to the solvent transferor.",
+   "b": "Under the provision, the obligations of Article 19 do not arise for an obligation holder who, after an orientation study, shows that the pollution is attributable to a solvent third party, but the transferor of the permit is excluded from that notion. The Council of State referred the question in a case where an operator who had taken over a permit was refused exemption although it was not disputed that the pollution predated its operation and was attributable to the transferor. The Court accepts that preventing operators from escaping their obligations through an organised transfer, and protecting contractual freedom and continuity of transactions, are legitimate aims, but finds that the exclusion is not relevant to the first and does not clearly contribute to the second. It therefore finds a violation, limited to the situation where the pollution is attributable to a solvent third party who is the transferor of the permit. The Court did not rule on whether the EU polluter-pays rules apply. The judgment is a preliminary ruling: it does not annul the provision, and it does not state what this means for decisions already taken.",
+   "nl": [
+    "Grondwettelijk Hof: Waals bodemdecreet mag overnemer van een vergunning niet van vrijstelling uitsluiten als de overdrager de verontreiniging veroorzaakte",
+    "In arrest nr. 50/2026 oordeelt het Grondwettelijk Hof dat artikel 30, § 1, eerste lid, 2°, van het Waalse decreet van 1 maart 2018 betreffende bodembeheer en bodemsanering de artikelen 10 en 11 van de Grondwet schendt, in zoverre het de overnemer van een milieuvergunning verbiedt zich van zijn bodemverplichtingen te bevrijden wanneer de verontreiniging toe te schrijven is aan de solvabele overdrager.",
+    "Volgens de bepaling ontstaan de verplichtingen van artikel 19 niet voor de verplichtinghouder die na een oriënteringsonderzoek aantoont dat de verontreiniging toe te schrijven is aan een solvabele derde, maar de overdrager van de vergunning is van dat begrip uitgesloten. De Raad van State stelde de vraag in een zaak waarin een uitbater die een vergunning had overgenomen de vrijstelling werd geweigerd, hoewel niet werd betwist dat de verontreiniging dateerde van vóór zijn uitbating en aan de overdrager toe te schrijven was. Het Hof aanvaardt dat het voorkomen dat uitbaters zich via een georganiseerde overdracht aan hun verplichtingen onttrekken, en het beschermen van de contractvrijheid en de continuïteit van transacties, wettige doelstellingen zijn, maar oordeelt dat de uitsluiting niet pertinent is voor de eerste en niet duidelijk bijdraagt tot de tweede. Het stelt daarom een schending vast, beperkt tot de situatie waarin de verontreiniging toe te schrijven is aan een solvabele derde die de overdrager van de vergunning is. Het Hof heeft zich niet uitgesproken over de toepasselijkheid van de Europese regels inzake het beginsel dat de vervuiler betaalt. Het arrest is gewezen op prejudiciële vraag: het vernietigt de bepaling niet en zegt niet wat dit betekent voor reeds genomen beslissingen."
+   ],
+   "fr": [
+    "Cour constitutionnelle : le décret sols wallon ne peut pas exclure le cessionnaire d'un permis de l'exonération lorsque le cédant a causé la pollution",
+    "Par son arrêt n° 50/2026, la Cour constitutionnelle juge que l'article 30, § 1er, alinéa 1er, 2°, du décret wallon du 1er mars 2018 relatif à la gestion et à l'assainissement des sols viole les articles 10 et 11 de la Constitution, en ce qu'il interdit au cessionnaire d'un permis d'environnement de se libérer de ses obligations lorsque la pollution est imputable au cédant solvable.",
+    "Selon cette disposition, les obligations de l'article 19 ne naissent pas dans le chef du titulaire des obligations qui, après une étude d'orientation, démontre que la pollution est imputable à un tiers solvable, mais le cédant du permis est exclu de cette notion. Le Conseil d'État a posé la question dans une affaire où un exploitant ayant repris un permis s'était vu refuser l'exonération, alors qu'il n'était pas contesté que la pollution était antérieure à son exploitation et imputable au cédant. La Cour admet qu'empêcher les exploitants de se soustraire à leurs obligations par une cession organisée, et protéger la liberté contractuelle et la continuité des transactions, sont des objectifs légitimes, mais elle juge que l'exclusion n'est pas pertinente au regard du premier et ne contribue pas clairement au second. Elle constate dès lors une violation, limitée à la situation où la pollution est imputable à un tiers solvable qui est le cédant du permis. La Cour ne s'est pas prononcée sur l'applicabilité des règles européennes relatives au principe du pollueur-payeur. L'arrêt est rendu sur question préjudicielle : il n'annule pas la disposition et ne précise pas ce qu'il implique pour les décisions déjà prises."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof: arrest nr. 50/2026 (NL)",
+     "https://nl.const-court.be/public/n/2026/2026-050n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:50/2026"
    ]
   }
  ]
