@@ -301,6 +301,7 @@ def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
 
 
 # --------------------------------------------------------- Belgium: Staatsblad
+# Apify fallback remains disabled; this adapter uses Etaamb's daily indexes.
 ETAAMB = "https://etaamb.openjustice.be"
 SB_KEEP = re.compile(
     r"\b(wet|loi|decreet|décret|ordonnantie|ordonnance|koninklijk besluit|"
@@ -360,6 +361,14 @@ def _sb_title(raw, href, numac):
     return slug.replace("-", " ").replace("_", " ").strip()[:500] or text[:500]
 
 
+def _sb_authority(raw):
+    text = re.sub(r"\s+", " ", raw or "").strip()
+    tail = re.split(r"\bbron\b", text, maxsplit=1, flags=re.I)
+    candidate = tail[-1] if len(tail) > 1 else text
+    title = re.search(r"\b[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’\-]*", candidate)
+    return candidate[:title.start()] if title else candidate
+
+
 def _sb_level(text):
     if re.search(r"brussels hoofdstad|brussels[- ]capital|région de bruxelles|"
                  r"brussels hoofdstedelijk gewest|cocof|cocom|commission communautaire française|"
@@ -403,7 +412,7 @@ def _sb_item(day, numac, href, raw):
     key = "sb:" + numac
     etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
     return {
-        "id": key, "src": "staatsblad", "level": _sb_level(searchable), "t": kind,
+        "id": key, "src": "staatsblad", "level": _sb_level(_sb_authority(raw)), "t": kind,
         "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
         "ref": numac, "k": classify(title), "text_url": etaamb_href,
     }
