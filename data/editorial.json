@@ -3,11 +3,11 @@
 "sources": {
 "https://legalnews.be/feed/": {
 "checked": "2026-11-22",
-"ok": false,
-"listed": 0,
+"ok": true,
+"listed": 10,
 "matched": 0,
-"error": "<HTTPError 403: 'Forbidden'>",
-"last_ok": ""
+"how": "feed",
+"last_ok": "2026-11-22"
 },
 "https://www.stibbe.com": {
 "checked": "2026-11-22",
@@ -27,19 +27,19 @@
 },
 "https://www.sbb.be": {
 "checked": "2026-11-22",
-"ok": false,
-"listed": 0,
+"ok": true,
+"listed": 13,
 "matched": 0,
-"error": "<HTTPError 403: 'Forbidden'>",
-"last_ok": ""
+"how": "page",
+"last_ok": "2026-11-22"
 },
 "https://www.jubel.be/feed/": {
 "checked": "2026-11-22",
-"ok": false,
-"listed": 0,
+"ok": true,
+"listed": 12,
 "matched": 0,
-"error": "<HTTPError 403: 'Forbidden'>",
-"last_ok": ""
+"how": "feed",
+"last_ok": "2026-11-22"
 },
 "https://www.lexgo.be": {
 "checked": "2026-11-22",
