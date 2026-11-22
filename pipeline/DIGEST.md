@@ -22,3 +22,13 @@ The site loads `data/digest.json` on top of its built-in items.
 
 ## data/digest-state.json
 {"processed": [inbox ids already triaged], "dbrc_seen": [RvVb PDF names already triaged], "notes": "..."}
+
+## Sources read by the digest stage itself
+GitHub's runners are refused by dbrc.be, so two sources are read by the digest task with its web tool:
+- Raad voor Vergunningsbetwistingen: https://www.dbrc.be/legislation?page=854 onward lists the newest
+  rulings (RVVB.<work year>.<number>.pdf, sorted by name, descending). `dbrc_seen` (names) and
+  `dbrc_todo` (PDF URLs still to read) in `data/digest-state.json` track progress.
+- Bruxelles Environnement: its list of new regulations is used as a check on the Brussels acts
+  collected from the Belgisch Staatsblad (`bxl_seen`, `bxl_missing`).
+Council of State: rulings that annul or suspend a regulation reach the inbox through their notice in
+the Belgisch Staatsblad (`src` staatsblad, `t` case). The Council's own judgment folders are not read.

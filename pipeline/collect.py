@@ -581,15 +581,49 @@ def fetch_text(it):
         did = it["id"].split(":")[1]
         _, raw = http(CODEX + "/" + did + "/VolledigDocument", timeout=40)
         try:
-            return strip_html(json.dumps(json.loads(raw), ensure_ascii=False))
+            return _codex_text(json.loads(raw))
         except Exception:
             return strip_html(raw)
     return ""
 
 
+def _codex_text(doc):
+    """The article text of a Vlaamse Codex document, without the JSON envelope and its metadata."""
+    out = []
+
+    def walk(v):
+        if isinstance(v, dict):
+            for x in v.values():
+                walk(x)
+        elif isinstance(v, list):
+            for x in v:
+                walk(x)
+        elif isinstance(v, str):
+            t = strip_html(v) if "<" in v else v.strip()
+            if len(t) > 30 and " " in t and not t.startswith("http"):
+                out.append(t)
+    walk(doc)
+    return "\n".join(out)
+
+
+def excerpt(txt, head=6000, tail=6500):
+    """Opening and closing parts: the operative part of a ruling or long act is at the end."""
+    if len(txt) <= head + tail:
+        return txt
+    return txt[:head] + "\n\n[... middle part left out ...]\n\n" + txt[-tail:]
+
+
+TEXT_V = 2  # bump to store the texts of rulings, EU acts and Codex documents again
+
+
 def save_texts(items, state, per_source=40, budget=240):
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
+    if state.get("text_v") != TEXT_V:
+        for f in tdir.glob("*.txt"):
+            if f.name.startswith(("gwh_", "codex_", "eu_")):
+                f.unlink()
+        state["text_v"] = TEXT_V
     t0 = time.time()
     res = {}
     gave_up = set(state.get("text_failed", []))
@@ -604,7 +638,7 @@ def save_texts(items, state, per_source=40, budget=240):
             txt = fetch_text(it)
             if len(txt) < 300:
                 raise ValueError("text too short (%d chars)" % len(txt))
-            f.write_text("SOURCE: %s\nTITLE: %s\n\n%s" % (it["url"], next(iter(it["title"].values())), txt[:9000]), "utf-8")
+            f.write_text("SOURCE: %s\nTITLE: %s\n\n%s" % (it["url"], next(iter(it["title"].values())), excerpt(txt)), "utf-8")
             r["saved"] += 1
         except Exception as e:
             r["failed"] += 1

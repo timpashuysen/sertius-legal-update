@@ -121,5 +121,19 @@ class CouncilOfState(unittest.TestCase):
                                     "Personeel. - Ontslag Bij koninklijk besluit van 29 januari 2024"))
 
 
+class Texts(unittest.TestCase):
+    def test_excerpt_keeps_the_end(self):
+        t = "a" * 20000 + "DICTUM"
+        e = collect.excerpt(t)
+        self.assertTrue(e.endswith("DICTUM"))
+        self.assertLess(len(e), 13000)
+        self.assertEqual(collect.excerpt("short"), "short")
+
+    def test_codex_text_drops_the_envelope(self):
+        doc = {"Id": 1, "Link": "https://example.test/a b c d e f g h i j k l m n o p", "Artikels": [
+            {"Nummer": "1", "Tekst": "<p>De exploitant meldt elke wijziging aan de bevoegde overheid.</p>"}]}
+        self.assertEqual(collect._codex_text(doc), "De exploitant meldt elke wijziging aan de bevoegde overheid.")
+
+
 if __name__ == "__main__":
     unittest.main()
