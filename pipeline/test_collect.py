@@ -122,18 +122,18 @@ class CouncilOfState(unittest.TestCase):
 
 
 class Texts(unittest.TestCase):
-    def test_excerpt_keeps_the_end(self):
-        t = "a" * 20000 + "DICTUM"
-        e = collect.excerpt(t)
+    def test_excerpt_keeps_the_end_of_a_ruling(self):
+        t = "a" * 90000 + "DICTUM"
+        e = collect.excerpt(t, "gwh")
         self.assertTrue(e.endswith("DICTUM"))
-        self.assertLess(len(e), 13000)
+        self.assertLess(len(e), 41000)
         self.assertEqual(collect.excerpt("short"), "short")
 
     def test_excerpt_of_eu_act_keeps_the_articles(self):
-        t = "REGULATION (EU) 2026/1 " + "Whereas " * 3000 + "HAVE ADOPTED THIS REGULATION: Article 1 Operators shall report." + " x" * 9000
-        e = collect.excerpt(t)
+        t = "REGULATION (EU) 2026/1 " + "Whereas " * 6000 + "HAVE ADOPTED THIS REGULATION: Article 1 Operators shall report." + " x" * 30000
+        e = collect.excerpt(t, "eurlex")
         self.assertIn("Article 1 Operators shall report.", e)
-        self.assertLess(len(e), 13000)
+        self.assertLess(len(e), 41000)
 
     def test_codex_text_drops_the_envelope(self):
         doc = {"Id": 1, "Link": "https://example.test/a b c d e f g h i j k l m n o p", "Artikels": [

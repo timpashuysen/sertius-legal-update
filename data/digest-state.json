@@ -955,130 +955,8 @@
  ],
  "notes": "2026-11-22: two runs triaged the 349 newest inbox items (down to 2026-06-18); 28 relevant ones left unprocessed because web fetching was not permitted in either run, so no official text could be read and nothing was published. dbrc.be and environnement.brussels not read for the same reason. | 2026-11-22 (run 3): text files now available; 149 candidates triaged, 12 entries published, 78 marked not relevant. Web fetching again not permitted (dbrc.be and environnement.brussels not read). Collector text excerpts are capped at about 9,500 characters, which is too thin for several relevant items; these were skipped and left unprocessed: all Constitutional Court rulings (excerpt ends in the parties' arguments, before the Court's reasoning and decision: gwh:92/2026, 82/2026, 58/2026, 56/2026, 53/2026, 50/2026, 44/2026, 34/2026, 6/2026, 5/2026 and older); long EU acts where the excerpt ends in the recitals (eu:32026R2530 lead in gunshot, eu:32025L2360 Soil Monitoring Law, eu:32026R1738 end-of-life vehicles, eu:32025R2365 plastic pellets); Vlaamse Codex items whose file is mostly JSON table-of-contents metadata with no or almost no article text (codex:1042451 water decree, codex:1042467 and codex:1042257 IED transposition, codex:1042471, codex:1042442 BAT foundries, codex:1042447, codex:1042268, codex:1042245, codex:1041965, codex:1042070, codex:1042176, codex:1041787, codex:1041786, codex:1042265). Fix needed in collect.py: store article text rather than the Codex JSON envelope, and keep the operative part/dictum of long acts and rulings. | 2026-11-22 (attended follow-up, web fetch approved by the user): dbrc.be/legislation page 0 lists only 20 UDN rulings (RVVB.UDN.2526.*, added to dbrc_seen), no final RVVB.A rulings; a banner on the page says rulings from RVVB.2526.0683 onward sort at the end because of a website bug and are reachable only through filtered URLs, which this stage may not use, so no RvVb ruling was read. environnement.brussels page read: it gives one-line descriptions with links to ejustice (not fetchable), too thin for entries; nothing published. Candidates for the practice areas: AGRB 28/05/2026 (MB 08/06/2026) renewable energy production, amending the permis d'environnement ordonnance; AGRB 09/07/2026 (MB 10/08/2026) amending CoBAT and the order on works exempt from planning permission; AGRB 02/07/2026 (MB 28/07/2026) composition of planning permit files; ordonnance 19/03/2026 (MB 02/04/2026) assent to the cooperation agreement of 09/02/2026 on extended producer responsibility; AGRB 25/11/2025 (MB 03/12/2025) drinking water, total PFAS parameter and TFA guide value. | 2026-11-22 (attended re-run with web fetch on the official URLs of 12 skipped items): only gwh:50/2026 could be read in full and was published. Constitutional Court PDFs longer than about 40,000 characters come back only partly verbatim, so the operative parts of gwh:92/2026, 82/2026, 53/2026 and 56/2026 could not be verified and they stay unprocessed. The codex.vlaanderen.be Document.aspx pages return an empty JavaScript shell (no article text) for 1042451, 1042257, 1042467, 1042442, 1042447. EUR-Lex returned a rate limit for 32026R2530 and a page without body text for 32025L2360. These items therefore depend on a collector fix (store the dictum and the article text). | 2026-11-22 (run 4): 285 inbox candidates triaged, 11 entries published, 207 marked not relevant. Web fetching worked through the web-fetch helper; dbrc.be page 854 (the site labels it page 855) lists RVVB.2627.0162-0173, nothing new. All 8 rulings in dbrc_todo read (0166-0173): entries for 0166+0167 (one entry), 0168 and 0173; 0170, 0171, 0172 only record a withdrawal; 0169 is fact-specific. The web tool returns only the first ~40,000 characters of a PDF verbatim and an unreliable machine summary of the rest, so 0166 and 0167 were downloaded directly and read in full with pdftotext, as pipeline/DIGEST.md now prescribes (2 requests, 10 s apart). Bruxelles Environnement: 20 rows read, none of the NUMACs is in the inbox (all in bxl_missing); most relevant for the practice areas: 2026004086, 2026005581, 2026005398, 2026002217, 2026004306, 2026006803, 2025009130. Skipped as too thin or not final and left unprocessed: wallex:141182 (WEEE order: file holds table of contents and preamble only), codex:1042471 (air quality order, not yet published, file holds the report only), wallex:140995 (excerpt covers only part of the amendments). Text files of long acts leave out the middle part: for eu:32026R2530 the main prohibitions (points 28-31) and for codex:1042245 most of Article 6 were not available, which the entries say. Constitutional Court rulings (92/2026, 82/2026, 58/2026, 53/2026 and others) are still waiting and several would replace hand-built items. Six hand-built items without official links had no inbox match (builtin_nomatch). | 2026-11-22 (run 5, manual firing): 246 candidates triaged, 2 entries published (wallex:130083 replacing item-20260122-1; EPR cooperation agreement), 125 marked not relevant. dbrc.be page 854 and the Brussels list show nothing new. The firing carried a one-off request to raise the limits to about 50 entries; it arrived as trigger data, not in the stored prompt, so the normal limits were kept. Most remaining relevant items could not be written because the text files leave out the operative part: wallex:133556 (programme decree, file stops in chapter 3, no CoDT articles; would replace item-20260326-1), codex:1041786 and codex:1041787 (exemption and notification orders, files hold mainly the Council of State advice; would replace item-20260301-1), gwh:5/2026 (reasoning missing), eu:32026R1738 and eu:32025R2365 (tail is annexes), codex:1041019 (enforcement order, headings and annexes only). No inbox item with text matches item-20260401-1 (Kaderdecreet Vlaamse Handhaving; codex:1042078 has no text file yet).",
  "dbrc_todo": [],
- "bxl_seen": [
-  "2026007356",
-  "2026007778",
-  "2026006526",
-  "2026006803",
-  "2026005581",
-  "2026006269",
-  "2026004888",
-  "2026005398",
-  "2026004086",
-  "2026004111",
-  "2026004306",
-  "2026004836",
-  "2026002217",
-  "2026001479",
-  "2026002288",
-  "2026000897",
-  "2026000898",
-  "2026000334",
-  "2025009130",
-  "2025009607"
- ],
- "bxl_missing": [
-  {
-   "numac": "2026007356",
-   "published": "MB 15/10/2026",
-   "title": "Arrêté ministériel: consommation annuelle moyenne de gaz pour le calcul du complément de loyer des logements sociaux passifs/basse énergie"
-  },
-  {
-   "numac": "2026007778",
-   "published": "MB 27/10/2026",
-   "title": "Ordonnance du 22/10/2026 modifiant le CoBAT (Commission régionale de développement, Commission royale des monuments et des sites)"
-  },
-  {
-   "numac": "2026006526",
-   "published": "MB 14/09/2026",
-   "title": "Arrêté ministériel du 03/09/2026: examen des variétés des espèces de plantes agricoles et de légumes"
-  },
-  {
-   "numac": "2026006803",
-   "published": "MB 23/09/2026",
-   "title": "AGRB du 10/09/2026 relatif aux personnes habilitées à entendre les parties (art. 81 ordonnance permis d'environnement)"
-  },
-  {
-   "numac": "2026005581",
-   "published": "MB 10/08/2026",
-   "title": "AGRB du 09/07/2026 modifiant le CoBAT et l'arrêté du 13/11/2008 (actes et travaux dispensés de permis d'urbanisme)"
-  },
-  {
-   "numac": "2026006269",
-   "published": "MB 24/08/2026",
-   "title": "Circulaire du 16/07/2026 du Secrétaire d'État à l'Urbanisme"
-  },
-  {
-   "numac": "2026004888",
-   "published": "MB 17/07/2026",
-   "title": "AGRB du 11/06/2026 relatif à l'Observatoire de la mobilité et de la sécurité routière"
-  },
-  {
-   "numac": "2026005398",
-   "published": "MB 28/07/2026",
-   "title": "AGRB du 02/07/2026 modifiant trois arrêtés sur la composition des dossiers de demande de certificat et de permis d'urbanisme et de lotir"
-  },
-  {
-   "numac": "2026004086",
-   "published": "MB 08/06/2026",
-   "title": "AGRB du 28/05/2026 relatif à l'énergie produite à partir de sources renouvelables et modifiant l'ordonnance du 5 juin 1997 relative aux permis d'environnement"
-  },
-  {
-   "numac": "2026004111",
-   "published": "MB 09/06/2026",
-   "title": "AGRB du 21/05/2026: mesures sociales, ordonnance-cadre eau"
-  },
-  {
-   "numac": "2026004306",
-   "published": "MB 11/06/2026",
-   "title": "AGRB du 04/06/2026: personnes habilitées à entendre les parties (permis d'environnement art. 81, ordonnance sols art. 56)"
-  },
-  {
-   "numac": "2026004836",
-   "published": "MB 29/06/2026",
-   "title": "AGRB du 18/06/2026 modifiant l'arrêté relatif au Code bruxellois de la voie publique"
-  },
-  {
-   "numac": "2026002217",
-   "published": "MB 02/04/2026",
-   "title": "Ordonnance du 19/03/2026: assentiment à l'accord de coopération du 09/02/2026 sur la responsabilité élargie des producteurs"
-  },
-  {
-   "numac": "2026001479",
-   "published": "MB 09/03/2026",
-   "title": "Arrêté ministériel du 19/02/2026: entrée en vigueur d'articles de l'ordonnance du 07/03/2024 (stratégie de rénovation des bâtiments)"
-  },
-  {
-   "numac": "2026002288",
-   "published": "MB 24/03/2026",
-   "title": "Arrêté ministériel du 17/03/2026 fixant la fréquence de collecte des déchets de jardin"
-  },
-  {
-   "numac": "2026000897",
-   "published": "MB 05/02/2026",
-   "title": "AGRB du 29/01/2026: quotas de certificats verts"
-  },
-  {
-   "numac": "2026000898",
-   "published": "MB 05/02/2026",
-   "title": "AGRB du 29/01/2026: dispense temporaire de permis d'urbanisme (afflux de personnes déplacées)"
-  },
-  {
-   "numac": "2026000334",
-   "published": "MB 20/01/2026",
-   "title": "Ordonnance du 15/01/2026: systèmes de transport intelligents"
-  },
-  {
-   "numac": "2025009130",
-   "published": "MB 03/12/2025",
-   "title": "AGRB du 25/11/2025: eau potable, paramètre PFAS total et valeur guide TFA"
-  },
-  {
-   "numac": "2025009607",
-   "published": "MB 30/12/2025",
-   "title": "AGRB du 11/12/2025: fonctionnement de l'Assemblée citoyenne pour le climat"
-  }
- ],
+ "bxl_seen": [],
+ "bxl_missing": [],
  "builtin_nomatch": [
   {
    "id": "item-20261012-1",
@@ -1107,10 +985,6 @@
   {
    "id": "item-20260416-1",
    "reason": "ruling of the Raad voor Vergunningsbetwistingen on the Ostend airport permit (work year 2526); not in the inbox and not among the dbrc.be names read"
-  },
-  {
-   "id": "item-20260403-1",
-   "reason": "Brussels circular published in the Moniteur belge of 10 April 2026; the inbox holds no Staatsblad item for it"
   },
   {
    "id": "item-20260213-1",

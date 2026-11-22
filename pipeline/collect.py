@@ -606,19 +606,25 @@ def _codex_text(doc):
     return "\n".join(out)
 
 
-def excerpt(txt, head=6000, tail=6500):
-    """Opening and closing parts: the operative part of a ruling or long act is at the end."""
-    if len(txt) <= head + tail:
+def excerpt(txt, src="", cap=40000):
+    """At most `cap` characters of an official text, keeping the part that carries the rules.
+
+    Most acts fit whole. For longer ones: rulings keep their opening and a long closing part (the
+    court's reasoning and decision are at the end); EU acts keep the title and the articles, which
+    follow the recitals; other acts keep the opening part, where the articles start.
+    """
+    if len(txt) <= cap:
         return txt
+    gap = "\n\n[... part left out ...]\n\n"
+    if src == "gwh":
+        return txt[:6000] + gap + txt[-(cap - 6000):]
     m = re.search(r"HA(S|VE) ADOPTED THIS (REGULATION|DIRECTIVE|DECISION)", txt)
     if m and m.start() > 2500:
-        # EU act: title and first recitals, then the articles (they follow the recitals), then the end
-        gap = "\n\n[... part left out ...]\n\n"
-        return txt[:2000] + gap + txt[m.start():m.start() + 8500] + gap + txt[-2000:]
-    return txt[:head] + "\n\n[... middle part left out ...]\n\n" + txt[-tail:]
+        return txt[:2000] + gap + txt[m.start():m.start() + cap - 4000] + gap + txt[-2000:]
+    return txt[:cap - 3000] + gap + txt[-3000:]
 
 
-TEXT_V = 3  # bump to store the texts of rulings, EU acts and Codex documents again
+TEXT_V = 4  # bump to store the texts of rulings, EU acts and Codex documents again
 
 
 def save_texts(items, state, per_source=40, budget=240):
@@ -626,7 +632,7 @@ def save_texts(items, state, per_source=40, budget=240):
     tdir.mkdir(exist_ok=True)
     if state.get("text_v") != TEXT_V:
         for f in tdir.glob("*.txt"):
-            if f.name.startswith(("gwh_", "codex_", "eu_") if state.get("text_v", 0) < 2 else ("eu_",)):
+            if True:
                 f.unlink()
         state["text_v"] = TEXT_V
     t0 = time.time()
@@ -643,7 +649,7 @@ def save_texts(items, state, per_source=40, budget=240):
             txt = fetch_text(it)
             if len(txt) < 300:
                 raise ValueError("text too short (%d chars)" % len(txt))
-            f.write_text("SOURCE: %s\nTITLE: %s\n\n%s" % (it["url"], next(iter(it["title"].values())), excerpt(txt)), "utf-8")
+            f.write_text("SOURCE: %s\nTITLE: %s\n\n%s" % (it["url"], next(iter(it["title"].values())), excerpt(txt, it["src"])), "utf-8")
             r["saved"] += 1
         except Exception as e:
             r["failed"] += 1

@@ -52,3 +52,13 @@ the task prompt, try this first and use the WebFetch tool only if a download fai
   (install it if missing). Read the whole ruling, in particular the assessment and the decision;
 - Brussels list: `curl` the page and take the rows and NUMAC numbers from the HTML.
 Keep about 10 seconds between requests to dbrc.be. All limits in the task prompt stay as written.
+
+## Limits and waiting for the backfill
+`pipeline/limits.json` holds the numbers for a run: `entries` (entries per run), `triage` (titles
+triaged), `rvvb_read` and `rvvb_entries` (rulings read and published), `builtin` (hand-built items
+handled). Tim changes that file to speed up or slow down the digest.
+While `data/status.json` shows `"backlog": true` the collector is still filling the inbox and the
+text files. In that state: do not add hand-built items to `builtin_nomatch` and do not add NUMACs to
+`bxl_seen` or `bxl_missing` unless the matching inbox item was found; try them again in a later run.
+Text files hold up to 40,000 characters of the official text. If a file still lacks the part you
+need, leave the item unprocessed and note it.
