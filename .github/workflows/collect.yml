@@ -10,6 +10,7 @@ on:
       - ".github/workflows/collect.yml"
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: collect
   cancel-in-progress: false
@@ -32,3 +33,11 @@ jobs:
           git diff --cached --quiet || git commit -m "Nightly collection $(date -u +%F)"
           git pull --rebase -q origin main
           git push -q origin HEAD:main
+      - name: Run again while there is a backlog
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if python -c "import json,sys; sys.exit(0 if json.load(open('data/status.json')).get('backlog') else 1)"; then
+            sleep 90
+            gh workflow run collect.yml --ref main
+          fi

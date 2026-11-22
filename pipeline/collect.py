@@ -360,17 +360,18 @@ def fetch_text(it):
     return ""
 
 
-def save_texts(items, per_source=40, budget=240):
+def save_texts(items, state, per_source=40, budget=240):
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
     t0 = time.time()
     res = {}
+    gave_up = set(state.get("text_failed", []))
     todo = sorted((i for i in items.values() if i.get("k") and i["src"] in ("gwh", "wallex", "eurlex", "codex")),
                   key=lambda i: i["d"], reverse=True)
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
         f = tdir / text_name(it["id"])
-        if f.exists() or r["saved"] + r["failed"] >= per_source or r["failed"] >= 12 or time.time() - t0 > budget:
+        if it["id"] in gave_up or f.exists() or r["saved"] + r["failed"] >= per_source or r["failed"] >= 12 or time.time() - t0 > budget:
             continue
         try:
             txt = fetch_text(it)
@@ -381,7 +382,10 @@ def save_texts(items, per_source=40, budget=240):
         except Exception as e:
             r["failed"] += 1
             r["last_error"] = repr(e)[:200]
+            if "404" in repr(e) or "too short" in repr(e):
+                gave_up.add(it["id"])  # no text at this address: do not retry every run
         time.sleep(0.4)
+    state["text_failed"] = sorted(gave_up)
     return res
 
 
@@ -424,11 +428,16 @@ def main():
         "JUPORTAL": "robots.txt forbids automated access",
     }
     try:
-        status["texts"] = save_texts(items)
+        status["texts"] = save_texts(items, state)
     except Exception as e:
         status["texts"] = {"error": repr(e)[:300]}
     status["texts_on_file"] = len(list((DATA / "text").glob("*.txt"))) if (DATA / "text").exists() else 0
     out = sorted(items.values(), key=lambda i: (i["d"], i["id"]), reverse=True)
+    w = status["sources"].get("wallex", {})
+    g = status["sources"].get("gwh", {})
+    t = status.get("texts", {}) if isinstance(status.get("texts"), dict) else {}
+    status["backlog"] = bool((w.get("known_ids_left") or 0) > 0 or (g.get("read") or 0) >= 150
+                             or any(isinstance(v, dict) and v.get("saved", 0) >= 30 for v in t.values()))
     status["items_total"] = len(out)
     status["items_new"] = len(out) - before
     by = {}
