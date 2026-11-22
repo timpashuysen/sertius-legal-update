@@ -599,7 +599,7 @@ en:{months:["January","February","March","April","May","June","July","August","S
  cardT:"Get the digest by email", cardP:"Pick your topics and levels, micro, short or long, daily or weekly.", subscribe:"Subscribe",
  shown:"{n} of {t} items shown, newest first", none:"No items match these filters.", clear:"Clear filters", more:"Read more and see sources", back:"Back to the digest", sources:"Sources", srcNote:"",
  latest:"Latest", aboutL:"About", foot:"Sertius Legal Update is published for information and is not legal advice. Every item links to its sources.", preview:"Preview",
- subP:"Tell us who you are and what you want to follow. You can change your choices at any time.", iam:"I am", staff:"Sertius staff", client:"A client or contact", name:"Name", company:"Company", email:"Email", contact:"Sertius may contact me about its services",
+ subP:"Tell us who you are and what you want to follow. You can change your choices at any time.", iam:"I am", staff:"Sertius staff", client:"A client or contact", first:"First name", name:"Name", monthly:"Monthly", company:"Company", email:"Email", contact:"Sertius may contact me about its services",
  topicsL:"Topics", levels:"Levels", lMicro:"Micro: headlines only", lShort:"Short: two or three lines per item", lLong:"Long: full summary with sources", freq:"Frequency", weekly:"Weekly", daily:"Daily", lang:"Language", save:"Save my preferences",
  thanks:"Thank you, {name}. Your choices are saved on this device. Email delivery is not switched on yet, so nothing has been sent.",
  aboutH:"About the Sertius Legal Update",
@@ -620,7 +620,7 @@ nl:{months:["januari","februari","maart","april","mei","juni","juli","augustus",
  cardT:"Ontvang het overzicht per e-mail", cardP:"Kies uw thema's en niveaus, micro, kort of lang, dagelijks of wekelijks.", subscribe:"Inschrijven",
  shown:"{n} van {t} items getoond, nieuwste eerst", none:"Geen items voor deze filters.", clear:"Filters wissen", more:"Lees meer en bekijk de bronnen", back:"Terug naar het overzicht", sources:"Bronnen", srcNote:"",
  latest:"Laatste", aboutL:"Over", foot:"De Sertius Legal Update wordt ter informatie gepubliceerd en is geen juridisch advies. Elk item verwijst naar zijn bronnen.", preview:"Preview",
- subP:"Laat ons weten wie u bent en wat u wilt volgen. U kunt uw keuzes altijd aanpassen.", iam:"Ik ben", staff:"Medewerker van Sertius", client:"Klant of contact", name:"Naam", company:"Bedrijf", email:"E-mail", contact:"Sertius mag mij contacteren over zijn diensten",
+ subP:"Laat ons weten wie u bent en wat u wilt volgen. U kunt uw keuzes altijd aanpassen.", iam:"Ik ben", staff:"Medewerker van Sertius", client:"Klant of contact", first:"Voornaam", name:"Naam", monthly:"Maandelijks", company:"Bedrijf", email:"E-mail", contact:"Sertius mag mij contacteren over zijn diensten",
  topicsL:"Thema's", levels:"Niveaus", lMicro:"Micro: enkel titels", lShort:"Kort: twee of drie regels per item", lLong:"Lang: volledige samenvatting met bronnen", freq:"Frequentie", weekly:"Wekelijks", daily:"Dagelijks", lang:"Taal", save:"Mijn voorkeuren opslaan",
  thanks:"Dank u, {name}. Uw keuzes zijn op dit toestel opgeslagen. Verzending per e-mail is nog niet actief; er is dus niets verstuurd.",
  aboutH:"Over de Sertius Legal Update",
@@ -641,7 +641,7 @@ fr:{months:["janvier","février","mars","avril","mai","juin","juillet","août","
  cardT:"Recevez la veille par e-mail", cardP:"Choisissez vos thèmes et niveaux, micro, court ou long, chaque jour ou chaque semaine.", subscribe:"S'abonner",
  shown:"{n} éléments affichés sur {t}, les plus récents d'abord", none:"Aucun élément ne correspond à ces filtres.", clear:"Effacer les filtres", more:"Lire la suite et voir les sources", back:"Retour à la veille", sources:"Sources", srcNote:"",
  latest:"Actualités", aboutL:"À propos", foot:"La Sertius Legal Update est publiée à titre d'information et ne constitue pas un avis juridique. Chaque élément renvoie à ses sources.", preview:"Aperçu",
- subP:"Dites-nous qui vous êtes et ce que vous souhaitez suivre. Vous pouvez modifier vos choix à tout moment.", iam:"Je suis", staff:"Collaborateur de Sertius", client:"Client ou contact", name:"Nom", company:"Entreprise", email:"E-mail", contact:"Sertius peut me contacter au sujet de ses services",
+ subP:"Dites-nous qui vous êtes et ce que vous souhaitez suivre. Vous pouvez modifier vos choix à tout moment.", iam:"Je suis", staff:"Collaborateur de Sertius", client:"Client ou contact", first:"Prénom", name:"Nom", monthly:"Chaque mois", company:"Entreprise", email:"E-mail", contact:"Sertius peut me contacter au sujet de ses services",
  topicsL:"Thèmes", levels:"Niveaux", lMicro:"Micro: titres uniquement", lShort:"Court: deux ou trois lignes par élément", lLong:"Long: résumé complet avec sources", freq:"Fréquence", weekly:"Hebdomadaire", daily:"Quotidienne", lang:"Langue", save:"Enregistrer mes préférences",
  thanks:"Merci, {name}. Vos choix sont enregistrés sur cet appareil. L'envoi par e-mail n'est pas encore activé; rien n'a donc été envoyé.",
  aboutH:"À propos de la Sertius Legal Update",
@@ -741,7 +741,7 @@ function viewList(){
   var t = state.topic ? T().topics[state.topic] : null, res = listHTML();
   var head = '<div class="topichead"><div><h2>'+esc(t ? t[0] : T().all)+'</h2><p>'+esc(t ? t[1] : T().allBlurb)+'</p></div>'+(FEED.length ? '<a class="btn ghost" href="#official">'+XT().off+' ('+FEED.length+')</a>' : '')+'</div>';
   var hero = t ? "" : '<section class="hero"><div class="in"><div><h1>'+T().h1+'</h1><p>'+T().lead+'</p><div class="meta">'+T().since.replace("{n}", ITEMS.length)+'</div></div>'+
-    '<div class="subcard"><b>'+T().cardT+'</b><span>'+T().cardP+'</span><a class="btn" href="#subscribe">'+T().subscribe+'</a> <span class="preview inl">'+T().preview+'</span></div></div></section>';
+    '<div class="subcard"><b>'+T().cardT+'</b><span>'+T().cardP+'</span><a class="btn" href="#subscribe">'+T().subscribe+'</a></div></div></section>';
   return hero+'<main><div class="layout">'+railHTML()+'<section>'+head+'<p class="count" id="count">'+shown(res.n)+'</p><div id="list">'+res.html+'</div></section></div></main>';
 }
 function viewItem(it){
@@ -807,14 +807,15 @@ function viewSubscribe(){
   var ext = p.aud === "external", len = p.len || "short", fq = p.freq || "weekly";
   return '<main><div class="panel"><h2>'+t.subscribe+'</h2><p>'+t.subP+'</p><form class="sub" id="subform">'+
   '<fieldset><legend>'+t.iam+'</legend><div class="opts">'+rb("aud","internal",t.staff,!ext)+rb("aud","external",t.client,ext)+'</div></fieldset>'+
-  '<div class="fields"><div class="field"><label for="name">'+t.name+'</label><input type="text" id="name" required autocomplete="name" value="'+esc(p.name||"")+'"></div>'+
+  '<div class="fields"><div class="field"><label for="first">'+t.first+'</label><input type="text" id="first" required autocomplete="given-name" value="'+esc(p.first||"")+'"></div>'+
+    '<div class="field"><label for="name">'+t.name+'</label><input type="text" id="name" required autocomplete="family-name" value="'+esc(p.name||"")+'"></div>'+
     '<div class="field" id="companyField"'+(ext?'':' hidden')+'><label for="company">'+t.company+'</label><input type="text" id="company" autocomplete="organization"'+(ext?' required':'')+' value="'+esc(p.company||"")+'"></div>'+
     '<div class="field"><label for="email">'+t.email+'</label><input type="email" id="email" required autocomplete="email"></div>'+
     '<div class="opts" id="contactField"'+(ext?'':' hidden')+'><label><input type="checkbox" id="contact"'+(p.contact?' checked':'')+'> '+t.contact+'</label></div></div>'+
   '<fieldset><legend>'+t.topicsL+'</legend><div class="opts">'+Object.keys(t.topics).map(function(id){return cb("topics",id,t.topics[id][0],true);}).join("")+'</div></fieldset>'+
   '<fieldset><legend>'+t.levels+'</legend><div class="opts">'+Object.keys(t.jur).map(function(k){return cb("levels",k,t.jur[k],true);}).join("")+'</div></fieldset>'+
   '<fieldset><legend>'+t.length+'</legend><div class="opts">'+rb("len","micro",t.lMicro,len==="micro")+rb("len","short",t.lShort,len==="short")+rb("len","long",t.lLong,len==="long")+'</div></fieldset>'+
-  '<fieldset><legend>'+t.freq+'</legend><div class="opts">'+rb("freq","weekly",t.weekly,fq==="weekly")+rb("freq","daily",t.daily,fq==="daily")+'</div></fieldset>'+
+  '<fieldset><legend>'+t.freq+'</legend><div class="opts">'+rb("freq","weekly",t.weekly,fq==="weekly")+rb("freq","daily",t.daily,fq==="daily")+rb("freq","monthly",t.monthly,fq==="monthly")+'</div></fieldset>'+
   '<fieldset><legend>'+t.lang+'</legend><div class="opts">'+rb("dlang","en","English",state.lang==="en")+rb("dlang","nl","Nederlands",state.lang==="nl")+rb("dlang","fr","Français",state.lang==="fr")+'</div></fieldset>'+
   '<div><button class="btn" type="submit" disabled>'+t.save+'</button> <span class="preview inl">'+t.preview+'</span></div><div id="submsg" role="status"></div></form></div></main>';
 }
@@ -875,11 +876,11 @@ document.addEventListener("submit", function(e){
   e.preventDefault();
   var f = e.target, get = function(n){ return Array.prototype.slice.call(f.querySelectorAll('[name="'+n+'"]:checked')).map(function(x){return x.value;}); };
   var aud = get("aud")[0], ext = aud === "external";
-  saved = {aud:aud, name:document.getElementById("name").value.trim(), company: ext ? document.getElementById("company").value.trim() : "",
+  saved = {aud:aud, first:document.getElementById("first").value.trim(), name:document.getElementById("name").value.trim(), company: ext ? document.getElementById("company").value.trim() : "",
     contact: ext && document.getElementById("contact").checked, topics:get("topics"), levels:get("levels"), len:get("len")[0], freq:get("freq")[0], lang:get("dlang")[0]};
   state.len = saved.len;
   try { localStorage.setItem("slu-prefs", JSON.stringify(saved)); } catch(err){}
-  document.getElementById("submsg").innerHTML = '<div class="note ok">'+esc(T().thanks.replace("{name}", saved.name))+'</div>';
+  document.getElementById("submsg").innerHTML = '<div class="note ok">'+esc(T().thanks.replace("{name}", saved.first || saved.name))+'</div>';
 });
 window.addEventListener("hashchange", function(){ render(); if (!isTopic(route()) && route()!=="latest") window.scrollTo(0,0); });
 render();
