@@ -610,10 +610,15 @@ def excerpt(txt, head=6000, tail=6500):
     """Opening and closing parts: the operative part of a ruling or long act is at the end."""
     if len(txt) <= head + tail:
         return txt
+    m = re.search(r"HA(S|VE) ADOPTED THIS (REGULATION|DIRECTIVE|DECISION)", txt)
+    if m and m.start() > 2500:
+        # EU act: title and first recitals, then the articles (they follow the recitals), then the end
+        gap = "\n\n[... part left out ...]\n\n"
+        return txt[:2000] + gap + txt[m.start():m.start() + 8500] + gap + txt[-2000:]
     return txt[:head] + "\n\n[... middle part left out ...]\n\n" + txt[-tail:]
 
 
-TEXT_V = 2  # bump to store the texts of rulings, EU acts and Codex documents again
+TEXT_V = 3  # bump to store the texts of rulings, EU acts and Codex documents again
 
 
 def save_texts(items, state, per_source=40, budget=240):
@@ -621,7 +626,7 @@ def save_texts(items, state, per_source=40, budget=240):
     tdir.mkdir(exist_ok=True)
     if state.get("text_v") != TEXT_V:
         for f in tdir.glob("*.txt"):
-            if f.name.startswith(("gwh_", "codex_", "eu_")):
+            if f.name.startswith(("gwh_", "codex_", "eu_") if state.get("text_v", 0) < 2 else ("eu_",)):
                 f.unlink()
         state["text_v"] = TEXT_V
     t0 = time.time()

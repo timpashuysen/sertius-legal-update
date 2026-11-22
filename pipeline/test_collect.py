@@ -129,6 +129,12 @@ class Texts(unittest.TestCase):
         self.assertLess(len(e), 13000)
         self.assertEqual(collect.excerpt("short"), "short")
 
+    def test_excerpt_of_eu_act_keeps_the_articles(self):
+        t = "REGULATION (EU) 2026/1 " + "Whereas " * 3000 + "HAVE ADOPTED THIS REGULATION: Article 1 Operators shall report." + " x" * 9000
+        e = collect.excerpt(t)
+        self.assertIn("Article 1 Operators shall report.", e)
+        self.assertLess(len(e), 13000)
+
     def test_codex_text_drops_the_envelope(self):
         doc = {"Id": 1, "Link": "https://example.test/a b c d e f g h i j k l m n o p", "Artikels": [
             {"Nummer": "1", "Tekst": "<p>De exploitant meldt elke wijziging aan de bevoegde overheid.</p>"}]}
