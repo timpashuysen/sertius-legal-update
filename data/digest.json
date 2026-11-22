@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:48:18Z",
+ "updated": "2026-11-22T22:12:05Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -2931,6 +2931,422 @@
    ],
    "inbox": [
     "eu:32026D2468"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042472",
+   "d": "2026-11-09",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders sets green power and CHP certificate banding factors for projects starting from 1 January 2027",
+   "a": "A Flemish ministerial decree fixes the banding factors for green power and CHP certificates for new projects with a start date from 1 January 2027. Onshore wind gets 0.287–0.288 up to 4.5 MWe per turbine and 0 above that, biogas 0.560, and qualifying biogas CHP 1.00.",
+   "b": "The decree concerns developers of new onshore wind, biogas and qualifying CHP projects in Flanders with a start date from 1 January 2027. For onshore wind, turbines above 300 kWe up to 4.5 MWe get a banding factor of 0.288 with citizen participation and 0.287 otherwise, while turbines above 4.5 MWe up to 7.5 MWe get 0. New biogas installations above 10 kWe up to 20 MWe get 0.560 in all listed categories (manure and agricultural streams, other organic matter or waste, wastewater and sewage sludge, GFT digestion at an existing composting plant), with or without citizen participation; landfill gas installations are excluded. Qualifying CHP on biogas, both new installations and major changes, gets 1.00 up to 20 MWe. The decree also sets maximum factors of 1.00 for CHP on biogas combustion above 20 MWe, for converted pre-2013 installations, for CHP injecting into a direct line crossing the own site, and for biomass CHP above 5 MWe; biogas installations injecting into such a direct line get 0.560. The decree is dated 9 November 2026, was published on 18 November 2026 and takes effect on 28 November 2026; the factors apply to projects with a start date from 1 January 2027.",
+   "nl": [
+    "Vlaanderen legt bandingfactoren voor groenestroom- en warmte-krachtcertificaten vast voor projecten vanaf 1 januari 2027",
+    "Een Vlaams ministerieel besluit legt de bandingfactoren van groenestroom- en warmte-krachtcertificaten vast voor nieuwe projecten met startdatum vanaf 1 januari 2027. Windenergie op land krijgt 0,287–0,288 tot 4,5 MWe per turbine en 0 daarboven, biogas 0,560 en kwalitatieve WKK op biogas 1,00.",
+    "Het besluit richt zich tot ontwikkelaars van nieuwe projecten voor windenergie op land, biogas en kwalitatieve warmtekrachtkoppeling (WKK) in Vlaanderen met startdatum vanaf 1 januari 2027. Voor windenergie op land krijgen turbines groter dan 300 kWe tot en met 4,5 MWe een bandingfactor van 0,288 bij burgerparticipatie en 0,287 voor andere projecten, terwijl turbines groter dan 4,5 MWe tot en met 7,5 MWe 0 krijgen. Nieuwe biogasinstallaties groter dan 10 kWe tot en met 20 MWe krijgen 0,560 in alle opgesomde categorieën (mest- en land- en tuinbouwgerelateerde stromen, andere organisch-biologische stoffen of afvalstoffen, afvalwater en rioolwaterzuiveringsslib, GFT-vergisting bij een bestaande composteringsinstallatie), met of zonder burgerparticipatie; installaties op stortgas zijn uitgesloten. Kwalitatieve WKK op biogas krijgt 1,00, zowel voor nieuwe installaties als voor ingrijpende wijzigingen, tot en met 20 MWe. Daarnaast bedraagt de maximale bandingfactor 1,00 voor WKK op verbranding van biogas groter dan 20 MWe, voor omgebouwde installaties met startdatum vóór 2013, voor WKK die injecteert in een directe lijn die de eigen site overschrijdt en voor WKK op biomassa groter dan 5 MWe; biogasinstallaties die in zo'n directe lijn injecteren krijgen 0,560. Het besluit dateert van 9 november 2026, werd op 18 november 2026 bekendgemaakt en treedt op 28 november 2026 in werking; de factoren gelden voor projecten met startdatum vanaf 1 januari 2027."
+   ],
+   "fr": [
+    "La Flandre fixe les facteurs de banding des certificats verts et de cogénération pour les projets débutant dès le 1er janvier 2027",
+    "Un arrêté ministériel flamand fixe les facteurs de banding des certificats d'électricité verte et de cogénération pour les nouveaux projets dont la date de début est le 1er janvier 2027 ou après. L'éolien terrestre reçoit 0,287–0,288 jusqu'à 4,5 MWe par turbine et 0 au-delà, le biogaz 0,560 et la cogénération de qualité sur biogaz 1,00.",
+    "L'arrêté concerne les développeurs de nouveaux projets d'éolien terrestre, de biogaz et de cogénération de qualité en Flandre dont la date de début est le 1er janvier 2027 ou après. Pour l'éolien terrestre, les turbines de plus de 300 kWe jusqu'à 4,5 MWe reçoivent un facteur de banding de 0,288 avec participation citoyenne et de 0,287 pour les autres projets, tandis que les turbines de plus de 4,5 MWe jusqu'à 7,5 MWe reçoivent 0. Les nouvelles installations de biogaz de plus de 10 kWe jusqu'à 20 MWe reçoivent 0,560 dans toutes les catégories énumérées (effluents d'élevage et flux agricoles et horticoles, autres matières organiques ou déchets, eaux usées et boues d'épuration, digestion de biodéchets (GFT) auprès d'une installation de compostage existante), avec ou sans participation citoyenne; les installations sur gaz de décharge sont exclues. La cogénération de qualité sur biogaz reçoit 1,00, tant pour les nouvelles installations que pour les modifications substantielles, jusqu'à 20 MWe. Le facteur maximal est en outre de 1,00 pour la cogénération sur combustion de biogaz de plus de 20 MWe, pour les installations antérieures à 2013 transformées, pour la cogénération injectant dans une ligne directe dépassant le site propre et pour la cogénération sur biomasse de plus de 5 MWe; les installations de biogaz injectant dans une telle ligne directe reçoivent 0,560. L'arrêté date du 9 novembre 2026, a été publié le 18 novembre 2026 et entre en vigueur le 28 novembre 2026; les facteurs s'appliquent aux projets dont la date de début est le 1er janvier 2027 ou après."
+   ],
+   "scope": "Ministerieel besluit bandingfactoren groenestroom- en warmte-krachtcertificaten (startdatum vanaf 1 januari 2027): windenergie op land, biogas en kwalitatieve WKK; Energiedecreet art. 7.1.4/1, Energiebesluit art. 6.2/1.1 en 6.2/1.6",
+   "dates": {
+    "adopted": "2026-11-09",
+    "published": "2026-11-18",
+    "in_force": "2026-11-28"
+   },
+   "u": [
+    [
+     "Ministerieel besluit over de vastlegging van de bandingfactoren van groenestroomcertificaten en warmte-krachtcertificaten voor projecten met",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042472&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042472"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-sb-2026007970",
+   "d": "2026-10-30",
+   "j": [
+    "BE"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Electricity excise rewritten: tranche rates for business use, lower non-business rates from 1 Nov 2026",
+   "a": "The Law of 25 October 2026 replaces the electricity excise rates in the Programme Law of 27 December 2004. Business use gets degressive annual tranches, and non-business use gets a falling schedule through 2029. The changes take effect on 1 November 2026.",
+   "b": "The law concerns electricity (CN code 2716) subject to excise, for both business and non-business use. For business use, the ordinary excise stays at 0 and the special excise becomes degressive by annual consumption tranche: 11.10 EUR/MWh for 0–20 MWh, 9 for 20–50, 8.30 for 50–1,000, 7.60 for 1,000–25,000 and 0.5 above 25,000 MWh. For non-business use, protected residential customers pay a special excise of 1 EUR/MWh. All other users pay 42.20 EUR/MWh, falling to 39.20 from 1 January 2027, 36.20 from 1 January 2028 and 34.20 from 1 January 2029. The amounts in article 420, § 3/2 are aligned with these figures (39.20, 36.20 and 34.20 EUR), the 2026 references to 46 EUR are removed and § 6 is repealed. Article 424, § 2 now refers to the rates of article 419, i). In article 429, § 2, the exemption for natural gas stays limited to the energy contribution, while the exemption for electricity is capped at 1.9261 EUR/MWh. These provisions (Chapter 1) enter into force on 1 November 2026.",
+   "nl": [
+    "Accijns op elektriciteit herzien: schijventarieven voor zakelijk gebruik, lagere tarieven niet-zakelijk vanaf 1 nov. 2026",
+    "De wet van 25 oktober 2026 vervangt de accijnstarieven op elektriciteit in de programmawet van 27 december 2004. Zakelijk gebruik krijgt degressieve jaarschijven en niet-zakelijk gebruik een dalend tarief tot 2029. De wijzigingen treden in werking op 1 november 2026.",
+    "De wet betreft elektriciteit (GN-code 2716) onderworpen aan accijns, voor zowel zakelijk als niet-zakelijk gebruik. Voor zakelijk gebruik blijft de accijns 0 en wordt de bijzondere accijns degressief per verbruiksschijf op jaarbasis: 11,10 euro/MWh voor 0–20 MWh, 9 voor 20–50, 8,30 voor 50–1.000, 7,60 voor 1.000–25.000 en 0,5 vanaf 25.000 MWh. Voor niet-zakelijk gebruik betalen beschermde residentiële afnemers een bijzondere accijns van 1 euro/MWh. Alle andere gebruikers betalen 42,20 euro/MWh, dat daalt naar 39,20 vanaf 1 januari 2027, 36,20 vanaf 1 januari 2028 en 34,20 vanaf 1 januari 2029. De bedragen in artikel 420, § 3/2 worden hiermee in overeenstemming gebracht (39,20, 36,20 en 34,20 euro), de verwijzingen naar 46 euro voor 2026 vervallen en § 6 wordt opgeheven. Artikel 424, § 2 verwijst nu naar de tarieven van artikel 419, i). In artikel 429, § 2 blijft de vrijstelling voor aardgas beperkt tot de bijdrage op de energie, terwijl de vrijstelling voor elektriciteit wordt beperkt tot maximaal 1,9261 euro/MWh. Deze bepalingen (hoofdstuk 1) treden in werking op 1 november 2026."
+   ],
+   "fr": [
+    "Accise sur l'électricité revue : tarifs par tranche pour l'usage professionnel, baisse du non professionnel dès le 1er nov. 2026",
+    "La loi du 25 octobre 2026 remplace les tarifs d'accise sur l'électricité de la loi-programme du 27 décembre 2004. L'usage professionnel relève de tranches annuelles dégressives et l'usage non professionnel d'un tarif décroissant jusqu'en 2029. Les modifications entrent en vigueur le 1er novembre 2026.",
+    "La loi concerne l'électricité (code NC 2716) soumise à accise, pour l'usage professionnel comme non professionnel. Pour l'usage professionnel, l'accise reste à 0 et le droit d'accise spécial devient dégressif par tranche de consommation annuelle : 11,10 euros/MWh de 0 à 20 MWh, 9 de 20 à 50, 8,30 de 50 à 1.000, 7,60 de 1.000 à 25.000 et 0,5 à partir de 25.000 MWh. Pour l'usage non professionnel, les clients résidentiels protégés paient un droit d'accise spécial de 1 euro/MWh. Tous les autres utilisateurs paient 42,20 euros/MWh, montant ramené à 39,20 à partir du 1er janvier 2027, 36,20 à partir du 1er janvier 2028 et 34,20 à partir du 1er janvier 2029. Les montants de l'article 420, § 3/2 sont alignés (39,20, 36,20 et 34,20 euros), les références à 46 euros pour 2026 sont supprimées et le § 6 est abrogé. L'article 424, § 2 renvoie désormais aux tarifs de l'article 419, i). À l'article 429, § 2, l'exemption pour le gaz naturel reste limitée à la cotisation sur l'énergie, tandis que l'exemption pour l'électricité est plafonnée à 1,9261 euro/MWh. Ces dispositions (chapitre 1er) entrent en vigueur le 1er novembre 2026."
+   ],
+   "scope": "Wet van 25 oktober 2026 betreffende de energienorm, artt. 2–6 (wijziging van de programmawet van 27 december 2004, artt. 419, i), 420, 424 en 429)",
+   "dates": {
+    "adopted": "2026-10-25",
+    "published": "2026-10-30",
+    "in_force": "2026-11-01"
+   },
+   "u": [
+    [
+     "Wet betreffende de energienorm",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-30&numac=2026007970"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007970"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042491",
+   "d": "2026-10-30",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders adopts a decree partly implementing the EU Methane Regulation for the energy sector",
+   "a": "The Flemish decree of 30 October 2026 partly implements Regulation (EU) 2024/1787 on methane emissions in the energy sector. It gives the Flemish Government the powers to set procedures and obligations for the oil and gas and coal sectors, and sets an exemption procedure for former coal mines.",
+   "b": "The decree concerns operators of natural gas distribution networks, closed distribution networks, the transmission network on Flemish territory, natural gas storage and LNG installations. It also concerns operators of active coal mines, former holders of lapsed mining concessions or permits, and biogas operators. The Flemish Government is to set the procedures for emission reports, LDAR programmes (leak detection and repair), derogations, notification of impossible or unsuccessful repairs, approval of repair deferral, flaring and venting notifications and annual reports, and approval of remote and automated monitoring. It may also impose data-reporting obligations on coal mine operators and former concession holders, as well as monitoring and LDAR obligations on biogas operators. Exemptions under Article 25(4) of the Regulation are granted by the Flemish Government. The application goes to VEKA by secure dispatch and must include a report on stabilised hydrogeological conditions, verified by an independent expert. VEKA must notify the applicant of any incompleteness within fifteen days, and the Government decides within two months of the completeness decision. The decree is also added to the list in Article 16.1.1 of the Decree of 5 April 1995 containing general provisions on environmental policy. It has not yet been published (publication in the Belgian Official Gazette is planned for 23 November 2026) and enters into force ten days after publication.",
+   "nl": [
+    "Vlaanderen keurt decreet goed ter gedeeltelijke uitvoering van de EU-methaanverordening voor de energiesector",
+    "Het Vlaamse decreet van 30 oktober 2026 voert verordening (EU) 2024/1787 inzake methaanemissies in de energiesector gedeeltelijk uit. Het geeft de Vlaamse Regering de bevoegdheid om procedures en verplichtingen vast te stellen voor de olie- en gassector en de steenkoolsector, en regelt een vrijstellingsprocedure voor voormalige kolenmijnen.",
+    "Het decreet heeft betrekking op exploitanten van aardgasdistributienetten, gesloten distributienetten, het vervoersnet op Vlaams grondgebied, opslaginstallaties voor aardgas en LNG-installaties. Het geldt ook voor exploitanten van actieve kolenmijnen, voormalige houders van vervallen concessies of vergunningen en exploitanten van biogasinstallaties. De Vlaamse Regering bepaalt de procedures voor de emissieverslagen, de LDAR-programma's (lekdetectie en -reparatie), afwijkingen, de melding van onmogelijke of onsuccesvolle reparaties, de goedkeuring van uitstel van reparatie, de kennisgevingen en jaarverslagen over affakkelen en afblazen, en de goedkeuring van monitoring op afstand en geautomatiseerde monitoring. Ze kan ook rapporteringsverplichtingen opleggen aan exploitanten van kolenmijnen en voormalige concessiehouders, en monitoring- en LDAR-verplichtingen aan exploitanten van biogasinstallaties. De vrijstelling vermeld in artikel 25, lid 4, van de verordening wordt verleend door de Vlaamse Regering. De aanvraag wordt via beveiligde zending aan het VEKA gericht en bevat een verslag over gestabiliseerde hydrogeologische omstandigheden, geverifieerd door een onafhankelijke deskundige. Het VEKA meldt een onvolledige aanvraag binnen vijftien dagen en de Regering beslist uiterlijk twee maanden na de volledigverklaring. Het decreet wordt ook toegevoegd aan de lijst in artikel 16.1.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Het is nog niet gepubliceerd (publicatie in het Belgisch Staatsblad is voorzien op 23 november 2026) en treedt in werking tien dagen na publicatie."
+   ],
+   "fr": [
+    "La Flandre adopte un décret exécutant partiellement le règlement européen sur le méthane dans le secteur de l'énergie",
+    "Le décret flamand du 30 octobre 2026 exécute partiellement le règlement (UE) 2024/1787 sur la réduction des émissions de méthane dans le secteur de l'énergie. Il habilite le Gouvernement flamand à fixer des procédures et des obligations pour les secteurs du pétrole et du gaz et du charbon, et prévoit une procédure d'exemption pour les anciennes mines de charbon.",
+    "Le décret concerne les exploitants de réseaux de distribution de gaz naturel, de réseaux de distribution fermés, du réseau de transport sur le territoire flamand, d'installations de stockage de gaz naturel et d'installations GNL. Il vise aussi les exploitants de mines de charbon actives, les anciens titulaires de concessions ou d'autorisations échues et les exploitants d'installations de biogaz. Le Gouvernement flamand fixe les procédures relatives aux rapports d'émissions, aux programmes LDAR (détection et réparation des fuites), aux dérogations, à la notification des réparations impossibles ou infructueuses, à l'approbation du report de réparation, aux notifications et rapports annuels sur le torchage et la ventilation (évacuation), ainsi qu'à l'approbation de la surveillance à distance et automatisée. Il peut aussi imposer des obligations de communication de données aux exploitants de mines de charbon et aux anciens titulaires de concessions, et des obligations de surveillance et de LDAR aux exploitants d'installations de biogaz. L'exemption visée à l'article 25, paragraphe 4, du règlement est accordée par le Gouvernement flamand. La demande est adressée au VEKA par envoi sécurisé et comprend un rapport sur la stabilisation des conditions hydrogéologiques, vérifié par un expert indépendant. Le VEKA signale toute demande incomplète dans les quinze jours et le Gouvernement statue au plus tard deux mois après la décision de complétude. Le décret est également ajouté à la liste de l'article 16.1.1 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement. Il n'est pas encore publié (publication au Moniteur belge prévue le 23 novembre 2026) et entre en vigueur dix jours après sa publication."
+   ],
+   "scope": "Decreet over de vermindering van methaanemissies in de energiesector (30 oktober 2026), hoofdstukken 1-5, met wijziging van artikel 16.1.1 van het decreet van 5 april 1995",
+   "dates": {
+    "adopted": "2026-10-30"
+   },
+   "u": [
+    [
+     "Decreet over de vermindering van methaanemissies in de energiesector",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042491&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042491"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-sb-2026007960",
+   "d": "2026-10-29",
+   "j": [
+    "BE"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Offshore grid concessions: operator must complete Modular Offshore Grid parts and put the extension into service on time",
+   "a": "A royal decree amends article 11 of the 2018 royal decree on domain concessions for offshore electricity transmission. The concession-holding grid operator must now ensure that each part of the Modular Offshore Grid is built and operational, and that the grid extension is operational by a set date.",
+   "b": "The decree concerns the grid operator holding a domain concession for offshore electricity transmission installations in Belgium's marine areas. In article 11, point 2°, the reservation for Modular Offshore Grid obligations under article 6/2 of the Electricity Act is deleted. The condition that the transmission installations be built and operational is replaced by a requirement that each part of the Modular Offshore Grid listed in article 2, 7° ter, a) to e), of the Act is built and operational. A new point 2°/1 requires each part of the Modular Offshore Grid extension referred to in article 2, 7° ter, f), to be operational by the date set in the decision taken under article 6/5, § 2, of the Act. The new point 2°/1 applies to transmission installations whose domain concession was granted from 1 January 2024. The decree was adopted on 8 October 2026 and published on 29 October 2026; it does not state a separate date of entry into force.",
+   "nl": [
+    "Offshoreconcessies: netbeheerder moet delen van het Modular Offshore Grid tijdig bouwen en uitbreiding in werking stellen",
+    "Een koninklijk besluit wijzigt artikel 11 van het koninklijk besluit van 1 maart 2018 over domeinconcessies voor offshore elektriciteitstransmissie. De netbeheerder-concessiehouder moet ervoor zorgen dat elk deel van het Modular Offshore Grid is gebouwd en in werking is gesteld, en dat de uitbreiding uiterlijk op een vastgestelde datum in werking is.",
+    "Het besluit betreft de netbeheerder die houder is van een domeinconcessie voor offshore installaties voor de transmissie van elektriciteit in de Belgische zeegebieden. In artikel 11, 2°, wordt het voorbehoud voor de verplichtingen inzake het Modular Offshore Grid krachtens artikel 6/2 van de Elektriciteitswet opgeheven. De voorwaarde dat de installaties voor de transmissie van elektriciteit zijn gebouwd en in werking gesteld, wordt vervangen door de vereiste dat elk deel van het Modular Offshore Grid bedoeld in artikel 2, 7° ter, a) tot e), van de wet is gebouwd en in werking is gesteld. Een nieuwe bepaling onder 2°/1 vereist dat elk deel van de uitbreiding van het Modular Offshore Grid bedoeld in artikel 2, 7° ter, f), in werking is gesteld uiterlijk op de datum van het besluit genomen krachtens artikel 6/5, § 2, van de wet. De nieuwe bepaling 2°/1 is van toepassing op installaties voor de transmissie van elektriciteit waarvan de domeinconcessie is toegekend vanaf 1 januari 2024. Het besluit is genomen op 8 oktober 2026 en gepubliceerd op 29 oktober 2026; het vermeldt geen afzonderlijke datum van inwerkingtreding."
+   ],
+   "fr": [
+    "Concessions offshore : le gestionnaire du réseau doit réaliser les parties du Modular Offshore Grid et mettre l'extension en service à temps",
+    "Un arrêté royal modifie l'article 11 de l'arrêté royal du 1er mars 2018 relatif aux concessions domaniales pour le transport d'électricité en mer. Le gestionnaire du réseau concessionnaire doit veiller à ce que chaque partie du Modular Offshore Grid soit construite et en service, et à ce que l'extension soit en service au plus tard à une date déterminée.",
+    "L'arrêté concerne le gestionnaire du réseau titulaire d'une concession domaniale pour des installations de transmission d'électricité offshore dans les espaces marins belges. À l'article 11, 2°, la réserve relative aux obligations concernant le Modular Offshore Grid en vertu de l'article 6/2 de la loi électricité est abrogée. La condition selon laquelle les installations de transmission d'électricité sont construites et mises en service est remplacée par l'exigence que chaque partie du Modular Offshore Grid visée à l'article 2, 7° ter, a) à e), de la loi soit construite et mise en service. Un nouveau 2°/1 impose que chaque partie de l'extension du Modular Offshore Grid visée à l'article 2, 7° ter, f), soit mise en service au plus tard à la date de l'arrêté pris en vertu de l'article 6/5, § 2, de la loi. Le nouveau 2°/1 s'applique aux installations de transmission d'électricité dont la concession domaniale a été octroyée à partir du 1er janvier 2024. L'arrêté a été adopté le 8 octobre 2026 et publié le 29 octobre 2026 ; il ne prévoit pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Koninklijk besluit van 8 oktober 2026 tot wijziging van artikel 11 van het koninklijk besluit van 1 maart 2018 (domeinconcessies offshore elektriciteitstransmissie; Modular Offshore Grid)",
+   "dates": {
+    "adopted": "2026-10-08",
+    "published": "2026-10-29"
+   },
+   "u": [
+    [
+     "Koninklijk besluit tot wijziging van het koninklijk besluit van 1 maart 2018 betreffende de voorwaarden en de procedure voor de toekenning v",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-29&numac=2026007960"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007960"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32024r1834r-05",
+   "d": "2026-10-29",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate",
+    "circular-products"
+   ],
+   "h": "Corrigendum sets default standard-air density in fan ecodesign Regulation 2024/1834 at 1,2 kg/m³",
+   "a": "A corrigendum to Regulation (EU) 2024/1834 on ecodesign requirements for fans corrects the default air density in Annex III, point 6.1, from 1 200 kg/m³ to 1,2 kg/m³. It also fixes a typo in the same sentence.",
+   "b": "The correction concerns manufacturers, importers and testing bodies dealing with fans driven by motors with an electric input power between 125 W and 500 kW under Regulation (EU) 2024/1834. In the last paragraph of Annex III, point 6.1, the gas volume displaced by the fan per unit of time (q_v, in m³/s) is derived from the mass flow rate, typically with standard air. The default density of that air was printed as 1 200 kg/m³ and now reads 1,2 kg/m³. The wording 'were' is also corrected to 'where'. The corrigendum was published in the Official Journal on 29 October 2026 and does not state a separate date of entry into force.",
+   "nl": [
+    "Rectificatie legt standaarddichtheid van lucht in ventilatorverordening 2024/1834 vast op 1,2 kg/m³",
+    "Een rectificatie van Verordening (EU) 2024/1834 over ecologisch ontwerp van ventilatoren corrigeert de standaarddichtheid van lucht in bijlage III, punt 6.1, van 1 200 kg/m³ naar 1,2 kg/m³. Ook een tikfout in dezelfde zin wordt hersteld.",
+    "De correctie betreft fabrikanten, importeurs en testorganen die te maken hebben met door motoren aangedreven ventilatoren met een elektrisch ingangsvermogen tussen 125 W en 500 kW onder Verordening (EU) 2024/1834. In de laatste alinea van bijlage III, punt 6.1, wordt het door de ventilator per tijdseenheid verplaatste gasvolume (q_v, in m³/s) afgeleid uit het massadebiet, doorgaans met standaardlucht. De standaarddichtheid van die lucht stond vermeld als 1 200 kg/m³ en luidt nu 1,2 kg/m³. Ook het woord 'were' wordt gecorrigeerd naar 'where'. De rectificatie is op 29 oktober 2026 in het Publicatieblad verschenen en vermeldt geen afzonderlijke datum van inwerkingtreding."
+   ],
+   "fr": [
+    "Un rectificatif fixe la masse volumique par défaut de l'air standard à 1,2 kg/m³ dans le règlement 2024/1834 sur les ventilateurs",
+    "Un rectificatif au règlement (UE) 2024/1834 sur l'écoconception des ventilateurs corrige la masse volumique par défaut de l'air à l'annexe III, point 6.1, de 1 200 kg/m³ à 1,2 kg/m³. Une faute de frappe dans la même phrase est également corrigée.",
+    "La correction concerne les fabricants, les importateurs et les organismes d'essai de ventilateurs entraînés par des moteurs d'une puissance électrique à l'entrée comprise entre 125 W et 500 kW, relevant du règlement (UE) 2024/1834. Au dernier alinéa de l'annexe III, point 6.1, le volume de gaz déplacé par le ventilateur par unité de temps (q_v, en m³/s) est déduit du débit massique, généralement avec de l'air standard. La masse volumique par défaut de cet air figurait sous la forme 1 200 kg/m³ et se lit désormais 1,2 kg/m³. Le mot anglais « were » est également corrigé en « where ». Le rectificatif a été publié au Journal officiel le 29 octobre 2026 et ne précise pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Corrigendum to Commission Regulation (EU) 2024/1834 (ecodesign requirements for fans), Annex III, point 6.1, last paragraph",
+   "dates": {
+    "published": "2026-10-29"
+   },
+   "u": [
+    [
+     "Corrigendum to Commission Regulation (EU) 2024/1834 of 3 July 2024 implementing Directive 2009/125/EC of the European Parliament and of the ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1834R(05)"
+    ]
+   ],
+   "inbox": [
+    "eu:32024R1834R(05)"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026r2470",
+   "d": "2026-10-28",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU defers mandatory accreditation of renewable fuel certification bodies from 1 January 2027 to 1 January 2028",
+   "a": "Implementing Regulation (EU) 2026/2470 postpones the date from which certification bodies verifying sustainability and GHG criteria must be accredited under Article 11(1) of Implementing Regulation (EU) 2022/996. The new date is 1 January 2028 instead of 1 January 2027.",
+   "b": "The change concerns certification bodies that carry out verification activities under voluntary and national schemes for renewable fuels and recycled carbon fuels under Directive (EU) 2018/2001, and the economic operators that rely on their certificates. Article 11(1) of Implementing Regulation (EU) 2022/996 requires these bodies to be accredited for the specific scope of the scheme concerned. The new regulation replaces the third paragraph of Article 28 of that Implementing Regulation, so that Article 11(1) applies from 1 January 2028 rather than 1 January 2027. The Commission gives as reasons that its assessment of whether the schemes' methodologies, rules and protocols are suitable for accreditation is still ongoing, partly because Member States transposed Directive (EU) 2023/2413 late. The extra time is also meant to let certification bodies obtain accreditation. The regulation was adopted on 28 October 2026 and published on 29 October 2026. It enters into force on the twentieth day after publication, that is 18 November 2026.",
+   "nl": [
+    "EU stelt verplichte accreditatie van certificatie-instellingen voor hernieuwbare brandstoffen uit tot 1 januari 2028",
+    "Uitvoeringsverordening (EU) 2026/2470 stelt de datum uit vanaf wanneer certificatie-instellingen die duurzaamheids- en broeikasgascriteria verifiëren geaccrediteerd moeten zijn krachtens artikel 11, lid 1, van Uitvoeringsverordening (EU) 2022/996. De nieuwe datum is 1 januari 2028 in plaats van 1 januari 2027.",
+    "De wijziging betreft certificatie-instellingen die verificatieactiviteiten uitvoeren binnen vrijwillige en nationale stelsels voor hernieuwbare brandstoffen en brandstoffen uit gerecycleerde koolstof onder Richtlijn (EU) 2018/2001, en de marktdeelnemers die op hun certificaten steunen. Artikel 11, lid 1, van Uitvoeringsverordening (EU) 2022/996 verplicht deze instellingen om geaccrediteerd te zijn voor het specifieke toepassingsgebied van het betrokken stelsel. De nieuwe verordening vervangt het derde lid van artikel 28 van die uitvoeringsverordening, zodat artikel 11, lid 1, van toepassing is vanaf 1 januari 2028 in plaats van 1 januari 2027. De Commissie motiveert dit door te wijzen op de lopende beoordeling van de geschiktheid van de methodologieën, regels en protocollen van de stelsels voor accreditatie, mede door de late omzetting van Richtlijn (EU) 2023/2413 door de lidstaten. De extra tijd moet ook certificatie-instellingen in staat stellen een accreditatie te verkrijgen. De verordening werd aangenomen op 28 oktober 2026 en gepubliceerd op 29 oktober 2026. Ze treedt in werking op de twintigste dag na de bekendmaking, namelijk op 18 november 2026."
+   ],
+   "fr": [
+    "L'UE reporte au 1er janvier 2028 l'accréditation obligatoire des organismes de certification des carburants renouvelables",
+    "Le règlement d'exécution (UE) 2026/2470 reporte la date à partir de laquelle les organismes de certification vérifiant les critères de durabilité et d'émissions de gaz à effet de serre doivent être accrédités en vertu de l'article 11, paragraphe 1, du règlement d'exécution (UE) 2022/996. La nouvelle date est le 1er janvier 2028 au lieu du 1er janvier 2027.",
+    "La modification concerne les organismes de certification qui effectuent des activités de vérification dans le cadre de régimes volontaires et nationaux pour les carburants renouvelables et les carburants à base de carbone recyclé relevant de la directive (UE) 2018/2001, ainsi que les opérateurs économiques qui s'appuient sur leurs certificats. L'article 11, paragraphe 1, du règlement d'exécution (UE) 2022/996 exige que ces organismes soient accrédités pour le champ d'application spécifique du régime concerné. Le nouveau règlement remplace le troisième alinéa de l'article 28 de ce règlement d'exécution, de sorte que l'article 11, paragraphe 1, s'applique à partir du 1er janvier 2028 au lieu du 1er janvier 2027. La Commission justifie ce report par l'évaluation toujours en cours de l'aptitude des méthodologies, règles et protocoles des régimes à être accrédités, notamment en raison de la transposition tardive de la directive (UE) 2023/2413 par les États membres. Le délai supplémentaire doit aussi permettre aux organismes de certification d'obtenir une accréditation. Le règlement a été adopté le 28 octobre 2026 et publié le 29 octobre 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 18 novembre 2026."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2022/996, Article 28 (third paragraph) as it applies to Article 11(1) (accreditation of certification bodies)",
+   "dates": {
+    "adopted": "2026-10-28",
+    "published": "2026-10-29",
+    "in_force": "2026-11-18"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/2470 of 28 October 2026 amending Implementing Regulation (EU) 2022/996 as regards the date of a",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2470"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R2470"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026r2376",
+   "d": "2026-10-28",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Recycled food-contact plastics: EU revises register, compliance declarations and customs documents",
+   "a": "Regulation (EU) 2022/1616 on recycled plastic for food contact is amended. Compliance declarations are extended along the supply chain, decontamination installations and novel technologies are managed through an electronic registration system and the Union register, and certain products need documents at customs.",
+   "b": "The changes concern recyclers, converters, food business operators, recycling scheme managers, developers of novel technologies, customs authorities and competent authorities under the rules on recycled plastic materials and articles for food contact. Declarations of compliance are now required at all marketing stages except retail, with new Declarations P (plastic input) and C (recycled plastic whose composition is not changed further). Food business operators packing food may be exempt from supplying a declaration to retailers if labelling or other documents carry the necessary information, and must then supply a declaration on request within 10 or 20 working days. Supporting documentation and batch quality records must be kept (at least five years for records) and made available to authorities within 10 working days. Release for free circulation of listed recycled plastic products, such as certain PET products, tableware and kitchenware, and multi-layer sheets with recycled PET behind a functional barrier, requires the documents in the new Table 6 of Annex I. Recyclers must register each decontamination installation at least 30 working days before production starts and submit the compliance monitoring summary sheet within 30 days. Registration statuses (newly registered, being established, active, inactive, suspended, audit pending, decommissioned) change partly automatically, and entries are deleted from the Union register after set periods. Novel technologies are registered six months before the first installation starts and verified by the competent authority within five months, and scheme managers register at least 15 working days before starting. The Regulation enters into force on 18 November 2026 (the twentieth day after publication). Products placed on the market under the earlier rules may be sold without the new Declarations A or B until 18 February 2027, and without Declarations C or P until 18 May 2027, with sell-off of stocks thereafter.",
+   "nl": [
+    "Gerecycleerd kunststof voor voedselcontact: EU herziet register, conformiteitsverklaringen en douanedocumenten",
+    "Verordening (EU) 2022/1616 over gerecycleerd kunststof voor voedselcontact wordt gewijzigd. Conformiteitsverklaringen gelden voortaan verder in de keten, decontaminatie-installaties en nieuwe technologieën worden beheerd via een elektronisch registratiesysteem en het EU-register, en voor bepaalde producten zijn douanedocumenten vereist.",
+    "De wijzigingen betreffen recyclers, converters, exploitanten van levensmiddelenbedrijven, beheerders van recyclingsystemen, ontwikkelaars van nieuwe technologieën en de douane- en bevoegde autoriteiten onder de regels voor materialen en voorwerpen van gerecycleerd kunststof voor voedselcontact. Conformiteitsverklaringen zijn vereist in alle marketingfasen behalve de detailhandel, met nieuwe verklaringen P (kunststofinput) en C (gerecycleerd kunststof waarvan de samenstelling niet meer wordt gewijzigd). Exploitanten van levensmiddelenbedrijven die voedingsmiddelen verpakken, kunnen vrijgesteld zijn van het verstrekken van een verklaring aan detailhandelaren indien etikettering of andere documenten de nodige informatie bevatten; zij moeten dan op verzoek binnen 10 of 20 werkdagen een verklaring bezorgen. Ondersteunende documentatie en kwaliteitsregistraties per batch moeten worden bewaard (registraties minstens vijf jaar) en binnen 10 werkdagen aan de autoriteiten ter beschikking worden gesteld. Voor het in het vrije verkeer brengen van opgesomde producten van gerecycleerd kunststof, zoals bepaalde PET-producten, tafel- en keukengerei en meerlagige platen met gerecycleerd PET achter een functionele barrièrelaag, zijn de documenten uit de nieuwe tabel 6 van bijlage I vereist. Recyclers moeten elke decontaminatie-installatie minstens 30 werkdagen vóór de start van de productie registreren en binnen 30 dagen het samenvattende formulier voor conformiteitsopvolging indienen. De registratiestatussen (nieuw geregistreerd, in opbouw, actief, inactief, geschorst, audit in afwachting, buiten gebruik gesteld) wijzigen deels automatisch en vermeldingen worden na vaste termijnen uit het EU-register verwijderd. Nieuwe technologieën worden zes maanden vóór de start van de eerste installatie geregistreerd en binnen vijf maanden door de bevoegde autoriteit geverifieerd; beheerders van recyclingsystemen registreren minstens 15 werkdagen vóór de start. De verordening treedt in werking op 18 november 2026 (de twintigste dag na bekendmaking). Producten die onder de eerdere regels in de handel zijn gebracht, mogen tot 18 februari 2027 zonder de nieuwe verklaringen A of B en tot 18 mei 2027 zonder verklaringen C of P op de markt blijven, daarna tot uitputting van de voorraden."
+   ],
+   "fr": [
+    "Plastiques recyclés au contact des aliments : l'UE révise registre, déclarations de conformité et documents douaniers",
+    "Le règlement (UE) 2022/1616 sur les matières plastiques recyclées destinées au contact alimentaire est modifié. Les déclarations de conformité sont étendues à la chaîne d'approvisionnement, les installations de décontamination et les nouvelles technologies sont gérées via un système d'enregistrement électronique et le registre de l'Union, et certains produits requièrent des documents en douane.",
+    "Les modifications concernent les recycleurs, les transformateurs, les exploitants du secteur alimentaire, les gestionnaires de systèmes de recyclage, les développeurs de nouvelles technologies ainsi que les autorités douanières et compétentes, dans le cadre des règles sur les matériaux et objets en matière plastique recyclée destinés au contact alimentaire. Des déclarations de conformité sont exigées à tous les stades de commercialisation sauf la vente au détail, avec de nouvelles déclarations P (intrant plastique) et C (plastique recyclé dont la composition n'est plus modifiée). Les exploitants du secteur alimentaire qui emballent des denrées peuvent être dispensés de fournir une déclaration aux détaillants si l'étiquetage ou d'autres documents contiennent les informations nécessaires ; ils doivent alors en fournir une sur demande dans un délai de 10 ou 20 jours ouvrables. Les documents justificatifs et les enregistrements de qualité par lot doivent être conservés (au moins cinq ans pour les enregistrements) et mis à la disposition des autorités dans les 10 jours ouvrables. La mise en libre pratique de produits en plastique recyclé énumérés, comme certains produits en PET, la vaisselle et les ustensiles de cuisine et les feuilles multicouches avec du PET recyclé derrière une barrière fonctionnelle, requiert les documents du nouveau tableau 6 de l'annexe I. Les recycleurs doivent enregistrer chaque installation de décontamination au moins 30 jours ouvrables avant le début de la production et déposer la fiche récapitulative de suivi de la conformité dans les 30 jours. Les statuts d'enregistrement (nouvellement enregistrée, en cours d'établissement, active, inactive, suspendue, audit en attente, déclassée) changent en partie automatiquement et les entrées sont supprimées du registre de l'Union après des délais fixés. Les nouvelles technologies sont enregistrées six mois avant le démarrage de la première installation et vérifiées par l'autorité compétente dans les cinq mois ; les gestionnaires de systèmes de recyclage s'enregistrent au moins 15 jours ouvrables avant le début. Le règlement entre en vigueur le 18 novembre 2026 (le vingtième jour suivant sa publication). Les produits mis sur le marché selon les règles antérieures peuvent l'être sans les nouvelles déclarations A ou B jusqu'au 18 février 2027 et sans déclarations C ou P jusqu'au 18 mai 2027, puis jusqu'à épuisement des stocks."
+   ],
+   "scope": "Regulation (EU) 2022/1616 – Articles 2, 4, 5, 5a, 7–10, 24, 24a, 25, 26, 26a, 27, 29 and Annexes I and III",
+   "dates": {
+    "adopted": "2026-10-28",
+    "published": "2026-10-29",
+    "in_force": "2026-11-18"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/2376 of 28 October 2026 amending Regulation (EU) 2022/1616 as regards the management of the Union register, ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2376"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R2376"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026d2370",
+   "d": "2026-10-28",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Harmonised standards for household tumble dryers published; EN 60704-2-6:2012 withdrawn",
+   "a": "The Commission has published the references of EN 61121:2013 and its amendment EN 61121:2013/A12:2025 as harmonised standards supporting the ecodesign and energy labelling rules for household tumble dryers. The reference of EN 60704-2-6:2012 (noise measurement) is withdrawn.",
+   "b": "The Decision concerns manufacturers and other suppliers of household tumble dryers subject to Regulation (EU) 2023/2533 (ecodesign) and Delegated Regulation (EU) 2023/2534 (energy labelling). The references of EN 61121:2013 and EN 61121:2013/A12:2025, which set out methods for measuring the performance of tumble dryers for household use, are published in the Official Journal. Products that comply with these standards are presumed to meet the corresponding requirements of those regulations. The reference of EN 60704-2-6:2012 on airborne acoustical noise is withdrawn as a harmonised standard, and Communication 2014/C 149/01 is repealed. EN 61121 can still refer to it as a normative reference. The Decision was adopted on 28 October 2026 and enters into force on the day of its publication, 29 October 2026.",
+   "nl": [
+    "Geharmoniseerde normen voor huishoudelijke droogtrommels gepubliceerd; EN 60704-2-6:2012 ingetrokken",
+    "De Commissie publiceert de referenties van EN 61121:2013 en de wijziging EN 61121:2013/A12:2025 als geharmoniseerde normen ter ondersteuning van de ecodesign- en energie-etiketteringsregels voor huishoudelijke droogtrommels. De referentie van EN 60704-2-6:2012 (geluidsmeting) wordt ingetrokken.",
+    "Het besluit betreft fabrikanten en andere leveranciers van huishoudelijke droogtrommels die onder Verordening (EU) 2023/2533 (ecodesign) en Gedelegeerde Verordening (EU) 2023/2534 (energie-etikettering) vallen. De referenties van EN 61121:2013 en EN 61121:2013/A12:2025, die meetmethoden voor de prestaties van huishoudelijke droogtrommels bevatten, worden in het Publicatieblad bekendgemaakt. Producten die aan deze normen voldoen, worden geacht te voldoen aan de overeenkomstige eisen van die verordeningen. De referentie van EN 60704-2-6:2012 over luchtgeluid wordt ingetrokken als geharmoniseerde norm en Mededeling 2014/C 149/01 wordt ingetrokken. EN 61121 kan er nog steeds naar verwijzen als normatieve referentie. Het besluit is vastgesteld op 28 oktober 2026 en treedt in werking op de dag van bekendmaking, 29 oktober 2026."
+   ],
+   "fr": [
+    "Normes harmonisées pour les sèche-linge domestiques publiées; EN 60704-2-6:2012 retirée",
+    "La Commission publie les références de la norme EN 61121:2013 et de son amendement EN 61121:2013/A12:2025 comme normes harmonisées à l'appui des règles d'écoconception et d'étiquetage énergétique applicables aux sèche-linge domestiques à tambour. La référence de la norme EN 60704-2-6:2012 (mesure du bruit) est retirée.",
+    "La décision concerne les fabricants et autres fournisseurs de sèche-linge domestiques soumis au règlement (UE) 2023/2533 (écoconception) et au règlement délégué (UE) 2023/2534 (étiquetage énergétique). Les références de EN 61121:2013 et de EN 61121:2013/A12:2025, qui fixent des méthodes de mesure des performances des sèche-linge à usage domestique, sont publiées au Journal officiel. Les produits conformes à ces normes sont présumés satisfaire aux exigences correspondantes de ces règlements. La référence de EN 60704-2-6:2012 relative au bruit aérien est retirée en tant que norme harmonisée et la communication 2014/C 149/01 est abrogée. La norme EN 61121 peut toujours y renvoyer comme référence normative. La décision a été adoptée le 28 octobre 2026 et entre en vigueur le jour de sa publication, le 29 octobre 2026."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/2370: Articles 1-3 and Annex (EN 61121:2013, EN 61121:2013/A12:2025; withdrawal of EN 60704-2-6:2012)",
+   "dates": {
+    "adopted": "2026-10-28",
+    "published": "2026-10-29",
+    "in_force": "2026-10-29"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/2370 of 28 October 2026 on harmonised standards for household tumble dryers drafted in support of",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2370"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D2370"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026r2382",
+   "d": "2026-10-21",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "EU widens national defence exemptions under REACH, CLP, Biocidal Products and POPs Regulations",
+   "a": "Regulation (EU) 2026/2382 lets Member States allow exemptions from REACH, CLP and the Biocidal Products Regulation wherever necessary in the interests of defence. It also adds defence-readiness provisions to the POPs Regulation and amends the European Defence Fund Regulation.",
+   "b": "The Regulation affects Member State authorities and companies in the defence sector or its supply chains that deal with chemicals, biocidal products or persistent organic pollutants (POPs). The national defence exemption clauses are replaced by wider wording: REACH (Art. 2(3)) covers substances on their own, in mixtures or in articles; CLP (Art. 1(4)) covers substances, mixtures and articles under section 2.1 of Annex I; the Biocidal Products Regulation (Art. 2(8)) covers biocidal products on their own or in treated articles. In each case the exemption applies where necessary in the interests of defence. In the POPs Regulation, a definition of 'defence readiness' is added. When the Commission and Member States collect and submit socio-economic information for the Stockholm Convention risk management evaluation, they must take defence readiness and the specificities of the defence sector into account. Member States may also exempt themselves from the Article 13 reporting on grounds of protecting Union or national defence interests and sensitive information, provided this does not undermine compliance with reporting obligations under the Convention. Separately, the European Defence Fund Regulation (EU) 2021/697 is amended on award criteria, work programmes, SME funding rates, indirect management and access rights to results; testing costs in Ukraine become eligible from 1 January 2025. The Regulation was adopted on 21 October 2026, published on 3 November 2026 and enters into force on the twentieth day after publication.",
+   "nl": [
+    "EU verruimt nationale defensievrijstellingen in REACH-, CLP-, biocide- en POP-verordening",
+    "Verordening (EU) 2026/2382 laat lidstaten vrijstellingen van REACH, CLP en de Biocideverordening toe wanneer dat nodig is in het belang van defensie. Ze voegt ook bepalingen over defensiegereedheid toe aan de POP-verordening en wijzigt de verordening over het Europees Defensiefonds.",
+    "De verordening treft de overheden van de lidstaten en bedrijven in de defensiesector of de bijbehorende toeleveringsketens die omgaan met chemische stoffen, biocideproducten of persistente organische verontreinigende stoffen (POP's). De nationale defensievrijstellingen worden ruimer geformuleerd: REACH (art. 2, lid 3) dekt stoffen als zodanig, in mengsels of in voorwerpen; CLP (art. 1, lid 4) dekt stoffen, mengsels en voorwerpen als bedoeld in punt 2.1 van bijlage I; de Biocideverordening (art. 2, lid 8) dekt biocideproducten als zodanig of in behandelde voorwerpen. Telkens geldt de vrijstelling wanneer dat nodig is in het belang van defensie. In de POP-verordening wordt een definitie van 'defensiegereedheid' toegevoegd. Bij het verzamelen en indienen van sociaal-economische informatie voor de risicobeheerevaluatie in het kader van het Verdrag van Stockholm moeten de Commissie en de lidstaten rekening houden met defensiegereedheid en de specifieke kenmerken van de defensiesector. De lidstaten mogen zich ook vrijstellen van de rapportage van artikel 13 om defensiebelangen van de Unie of nationale defensiebelangen en gevoelige informatie te beschermen, mits dit de naleving van de rapportageverplichtingen onder het Verdrag niet ondermijnt. Daarnaast wordt Verordening (EU) 2021/697 over het Europees Defensiefonds gewijzigd (gunningscriteria, werkprogramma's, financieringspercentages voor kmo's, indirect beheer en toegangsrechten tot resultaten); testkosten in Oekraïne komen in aanmerking vanaf 1 januari 2025. De verordening is aangenomen op 21 oktober 2026, bekendgemaakt op 3 november 2026 en treedt in werking op de twintigste dag na bekendmaking."
+   ],
+   "fr": [
+    "L'UE élargit les exemptions nationales pour la défense dans les règlements REACH, CLP, biocides et POP",
+    "Le règlement (UE) 2026/2382 permet aux États membres d'accorder des exemptions à REACH, au CLP et au règlement sur les produits biocides lorsque les intérêts de la défense l'exigent. Il ajoute aussi des dispositions sur la préparation de la défense au règlement POP et modifie le règlement sur le Fonds européen de la défense.",
+    "Le règlement concerne les autorités des États membres et les entreprises du secteur de la défense ou de ses chaînes d'approvisionnement qui manipulent des substances chimiques, des produits biocides ou des polluants organiques persistants (POP). Les clauses nationales d'exemption pour la défense sont reformulées plus largement : REACH (art. 2, par. 3) couvre les substances telles quelles, en mélange ou dans des articles ; le CLP (art. 1er, par. 4) couvre les substances, les mélanges et les articles visés à la section 2.1 de l'annexe I ; le règlement sur les produits biocides (art. 2, par. 8) couvre les produits biocides tels quels ou dans des articles traités. Dans chaque cas, l'exemption s'applique lorsque cela est nécessaire dans l'intérêt de la défense. Dans le règlement POP, une définition de la « préparation de la défense » est ajoutée. Lorsqu'ils collectent et soumettent des informations socio-économiques pour l'évaluation de la gestion des risques au titre de la Convention de Stockholm, la Commission et les États membres doivent tenir compte de la préparation de la défense et des spécificités du secteur de la défense. Les États membres peuvent aussi s'exempter des obligations de déclaration de l'article 13 pour protéger les intérêts de défense de l'Union ou nationaux et des informations sensibles, à condition de ne pas compromettre le respect des obligations de déclaration prévues par la Convention. Par ailleurs, le règlement (UE) 2021/697 sur le Fonds européen de la défense est modifié (critères d'attribution, programmes de travail, taux de financement pour les PME, gestion indirecte et droits d'accès aux résultats) ; les coûts d'essais en Ukraine deviennent éligibles à partir du 1er janvier 2025. Le règlement a été adopté le 21 octobre 2026, publié le 3 novembre 2026 et entre en vigueur le vingtième jour suivant sa publication."
+   ],
+   "scope": "Regulation (EU) 2026/2382: Arts 1–4 (REACH Art. 2(3); CLP Art. 1(4); Biocidal Products Regulation Art. 2(8); POPs Regulation Arts 2, 3 and 13) and Art. 5 (European Defence Fund Regulation)",
+   "dates": {
+    "adopted": "2026-10-21",
+    "published": "2026-11-03",
+    "in_force": "2026-11-23"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2382"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R2382"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026r2381",
+   "d": "2026-10-21",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "EU sets 42-working-day permit process with tacit approval for defence readiness projects",
+   "a": "Regulation (EU) 2026/2381 creates common rules to speed up permitting for defence readiness projects. It introduces a single point of contact, fixed time limits and tacit approval, and applies to applications submitted from 24 February 2027.",
+   "b": "The Regulation covers project promoters (undertakings or consortia) developing defence readiness projects, and the authorities that permit them. Each Member State decides which projects qualify. Each Member State must set up a single point of contact by 24 February 2027. That body checks completeness within 14 working days, and where an environmental impact assessment report or other required assessments are part of the application, these must be done and included before it counts as complete. The process then runs for at most 42 working days. The competent authority can extend this twice, up to 60 working days, for exceptional complexity or exceptional health, safety or environmental risks, with a total of at most 102 working days. If no outcome is notified in time, the permits are deemed granted, and affected parties can challenge them. By national law adopted by 24 November 2027, Member States may exclude tacit approval in strictly limited cases of grave risk to human health or national security. Plans that provide for defence readiness projects and require both a strategic environmental assessment and a Habitats Directive assessment must undergo a combined assessment, without longer time limits. Appeals are treated as urgent where national law provides for urgency procedures. The Aarhus and Espoo obligations remain unaffected. The Regulation enters into force on the twentieth day after publication (3 November 2026) and applies only to applications submitted from 24 February 2027. The Commission evaluates it by 31 December 2028.",
+   "nl": [
+    "EU voert vergunningsproces van 42 werkdagen met stilzwijgende goedkeuring in voor defensiegereedheidsprojecten",
+    "Verordening (EU) 2026/2381 voert gemeenschappelijke regels in om de vergunningverlening voor defensiegereedheidsprojecten te versnellen. Ze voorziet in een enkel contactpunt, vaste termijnen en stilzwijgende goedkeuring, en geldt voor aanvragen ingediend vanaf 24 februari 2027.",
+    "De verordening geldt voor projectontwikkelaars (ondernemingen of consortia) die defensiegereedheidsprojecten ontwikkelen, en voor de overheden die ze vergunnen. Elke lidstaat bepaalt welke projecten in aanmerking komen. Elke lidstaat moet uiterlijk 24 februari 2027 een enkel contactpunt oprichten of aanwijzen. Dat controleert binnen 14 werkdagen of het dossier volledig is. Is een milieueffectrapport of een andere beoordeling vereist, dan moeten die eerst zijn uitgevoerd en bij de aanvraag gevoegd voordat ze als volledig geldt. Het proces duurt daarna maximaal 42 werkdagen. De bevoegde overheid kan die termijn tweemaal verlengen, tot 60 werkdagen, wegens uitzonderlijke complexiteit of uitzonderlijke risico's voor gezondheid, veiligheid of milieu, met een totaal van maximaal 102 werkdagen. Wordt het resultaat niet tijdig meegedeeld, dan worden de vergunningen geacht te zijn verleend, en belanghebbenden kunnen die betwisten. Bij nationale wetgeving aangenomen uiterlijk 24 november 2027 kunnen lidstaten stilzwijgende goedkeuring uitsluiten in strikt beperkte gevallen van ernstig risico voor de menselijke gezondheid of de nationale veiligheid. Plannen die in defensiegereedheidsprojecten voorzien en zowel een strategische milieubeoordeling als een beoordeling op grond van de Habitatrichtlijn vereisen, moeten een gecombineerde beoordeling ondergaan, zonder langere termijnen. Beroepsprocedures worden als dringend behandeld wanneer het nationale recht spoedprocedures kent. De verplichtingen uit het Verdrag van Aarhus en het Verdrag van Espoo blijven onverlet. De verordening treedt in werking op de twintigste dag na bekendmaking (3 november 2026) en is enkel van toepassing op aanvragen ingediend vanaf 24 februari 2027. De Commissie evalueert ze uiterlijk 31 december 2028."
+   ],
+   "fr": [
+    "L'UE instaure une procédure d'autorisation de 42 jours ouvrables avec approbation tacite pour les projets de préparation de la défense",
+    "Le règlement (UE) 2026/2381 fixe des règles communes pour accélérer l'octroi des autorisations aux projets en matière de préparation de la défense. Il prévoit un point de contact unique, des délais fixes et l'approbation tacite, et s'applique aux demandes introduites à partir du 24 février 2027.",
+    "Le règlement concerne les promoteurs de projets (entreprises ou consortiums) qui développent des projets de préparation de la défense, ainsi que les autorités qui les autorisent. Chaque État membre détermine quels projets entrent dans le champ. Chaque État membre doit établir ou désigner un point de contact unique au plus tard le 24 février 2027. Celui-ci vérifie dans les 14 jours ouvrables si le dossier est complet. Lorsqu'un rapport d'évaluation des incidences sur l'environnement ou d'autres évaluations sont requis, ils doivent avoir été réalisés et joints à la demande avant qu'elle soit considérée comme complète. La procédure dure ensuite au maximum 42 jours ouvrables. L'autorité compétente peut prolonger ce délai à deux reprises, jusqu'à 60 jours ouvrables, en raison d'une complexité exceptionnelle ou de risques exceptionnels pour la santé, la sécurité ou l'environnement, pour une durée totale maximale de 102 jours ouvrables. Si le résultat n'est pas notifié à temps, les autorisations sont réputées accordées, et les parties concernées peuvent les contester. Par une loi nationale adoptée au plus tard le 24 novembre 2027, les États membres peuvent exclure l'approbation tacite dans des cas strictement limités de risque grave pour la santé humaine ou la sécurité nationale. Les plans qui prévoient des projets de préparation de la défense et exigent à la fois une évaluation environnementale stratégique et une évaluation au titre de la directive Habitats font l'objet d'une évaluation combinée, sans allongement des délais. Les recours sont traités en urgence lorsque le droit national prévoit des procédures d'urgence. Les obligations découlant des conventions d'Aarhus et d'Espoo restent inchangées. Le règlement entre en vigueur le vingtième jour suivant sa publication (3 novembre 2026) et ne s'applique qu'aux demandes introduites à partir du 24 février 2027. La Commission l'évalue au plus tard le 31 décembre 2028."
+   ],
+   "scope": "Regulation (EU) 2026/2381, Articles 1–14: single point of contact, completeness check, time limits, tacit approval, combined planning assessments, application from 24 February 2027",
+   "dates": {
+    "adopted": "2026-10-21",
+    "published": "2026-11-03",
+    "in_force": "2026-11-23"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/2381 of the European Parliament and of the Council of 21 October 2026 on the acceleration of permit-granting processes ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2381"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R2381"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-22"
