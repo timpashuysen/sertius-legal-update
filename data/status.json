@@ -1,4 +1,62 @@
 {
- "ran": "2026-11-22T01:19:52.773191Z",
- "sources": {}
+ "ran": "2026-11-22T01:26:29+00:00",
+ "sources": {
+  "eurlex": {
+   "ok": true,
+   "matched": 256,
+   "backfilled_to": "2025-01-01",
+   "seconds": 43.5
+  },
+  "gwh": {
+   "ok": true,
+   "read": 150,
+   "matched": 11,
+   "next": {
+    "2024": 151,
+    "2025": 1,
+    "2026": 1
+   },
+   "seconds": 231.7
+  },
+  "codex": {
+   "ok": true,
+   "total_in_codex": 39968,
+   "read": 4000,
+   "matched": 366,
+   "oldest_date_seen": "2024-01-01",
+   "seconds": 24.9
+  },
+  "council": {
+   "ok": true,
+   "matched": 2,
+   "seconds": 0.4
+  }
+ },
+ "not_collected": {
+  "Belgisch Staatsblad / Moniteur belge": "robots.txt forbids automated access to the publication pages",
+  "Raad van State / Conseil d'Etat judgments": "robots.txt forbids automated access to the judgment folders",
+  "Raad voor Vergunningsbetwistingen (dbrc.be)": "server closes automated connections",
+  "Bruxelles Environnement": "server closes automated connections"
+ },
+ "explore": {
+  "wallex_sitemap_lang": {
+   "status": 200,
+   "len": 7931,
+   "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/mes-favoris.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/mes-favoris.html\" hreflang=\"fr\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/mes-favoris.html\" hreflang=\"x-default\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/nl/home/mes-favoris.html\" hreflang=\"nl\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/mes-favoris.html\" hreflang=\"de\" rel=\"alternate\"/>\n  </url>\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/ask-recovery-password.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/ask-recovery-password.html\" hreflang=\"fr\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/ask-recovery-password.html\" hreflang=\"x-default\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/nl/home/ask-recovery-password.html\" hreflang=\"nl\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/ask-recovery-password.html\" hreflang=\"de\" rel=\"alternate\"/>\n  </url>\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/recovery-password.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/recovery-password.html\" hreflang=\"de\" rel=\"alternat"
+  },
+  "vlpar_swagger": {
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "codex_swagger": {
+   "error": "<HTTPError 404: 'Not Found'>"
+  }
+ },
+ "items_total": 635,
+ "items_new": 635,
+ "items_by_source": {
+  "council": 2,
+  "eurlex": 256,
+  "codex": 366,
+  "gwh": 11
+ }
 }
