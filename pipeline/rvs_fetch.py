@@ -17,10 +17,10 @@ DATA = ROOT / "data"
 INDEX = DATA / "rvs-index.json"
 UA = "Mozilla/5.0 (compatible; SertiusLegalUpdate/1.0; +https://timpashuysen.github.io/sertius-legal-update/)"
 DELAY = 6
-START = 258300            # first numbers of January 2024 (ruling 258.384 is dated 11 January 2024)
+START = 265300            # 23 December 2025; rulings dated before SCOPE are read once and not kept
+SCOPE = "2026-01-01"
 MISS_LIMIT = 120          # this many missing numbers in a row means we are past the newest ruling
-URLS = ("http://www.raadvst-consetat.be/Arresten/{k}000/{h}00/{n}.pdf",
-        "http://www.raadvst-consetat.be/Arrets/{k}000/{h}00/{n}.pdf")
+URLS = ("https://www.raadvst-consetat.be/arresten/{n}",)   # the address the old /Arresten/... form redirects to
 MONTHS = {m: i % 12 + 1 for i, m in enumerate(
     "januari februari maart april mei juni juli augustus september oktober november december "
     "janvier février mars avril mai juin juillet août septembre octobre novembre décembre".split())}
@@ -64,9 +64,19 @@ def ruling_date(text):
     return "%s-%02d-%02d" % (m.group(3), MONTHS[m.group(2).lower()], int(m.group(1))) if m else ""
 
 
+TRIVIAL = re.compile(r"afstand van (het )?(geding|beroep)|désistement d['e ]|\bdoorhaling\b|biffure", re.I)
+
+
+def subject(flat):
+    """What the case is about, from the 'object of the appeal' part (the parties' names are skipped)."""
+    m = re.search(r"Voorwerp van (?:het beroep|de vordering|het verzoekschrift)|Objet d[eu] (?:la requête|recours|la demande)", flat, re.I)
+    start = m.end() if m else min(len(flat), 900)
+    return flat[start:start + 420].strip(" .:-")
+
+
 def excerpt(text):
     t = re.sub(r"[ \t]+", " ", text)
-    return t if len(t) <= 40000 else t[:8000] + "\n\n[... part left out ...]\n\n" + t[-32000:]
+    return t if len(t) <= 26000 else t[:6000] + "\n\n[... part left out ...]\n\n" + t[-20000:]
 
 
 def main():
@@ -80,6 +90,7 @@ def main():
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
     errors = 0
+    idx["last_error"], idx["blocked"] = "", False
     while time.time() < deadline and in_window() and errors < 5:
         n = idx["next"]
         if idx["misses"] >= MISS_LIMIT:
@@ -100,6 +111,7 @@ def main():
             errors += 1
             idx["last_error"] = "HTTP %d at %d" % (e.code, n)
             if e.code in (403, 429):
+                idx["blocked"] = True
                 break                      # refused: stop at once and leave the rest for a person to look at
             continue
         except Exception as e:
@@ -115,10 +127,12 @@ def main():
         flat = re.sub(r"\s+", " ", text)
         score = len(set(x.lower() for x in ENV.findall(flat)))
         d = ruling_date(text)
-        if score >= 3 and len(flat) > 5000:
-            idx["kept"][str(n)] = {"d": d, "url": url, "score": score, "lang": "fr" if re.search(r"\bCONSEIL D'[EÉ]TAT\b", text[:600]) else "nl"}
+        trivial = len(flat) < 3500 or TRIVIAL.search(flat[-2500:])
+        if d >= SCOPE and not trivial:        # no subject filter: pipeline/assess.py qualifies every ruling
+            idx["kept"][str(n)] = {"d": d, "url": url, "score": score, "subject": subject(flat),
+                                   "lang": "fr" if re.search(r"\bCONSEIL D'[EÉ]TAT\b", text[:600]) else "nl"}
             (tdir / ("rvs_%d.txt" % n)).write_text("SOURCE: %s\nTITLE: arrest / arrêt nr. %d van / du %s\n\n%s" % (url, n, d, excerpt(text)), "utf-8")
-    idx["summary"] = {"next": idx["next"], "read": idx["read"], "kept": len(idx["kept"]), "caught_up": bool(idx.get("caught_up")),
+    idx["summary"] = {"next": idx["next"], "read": idx["read"], "kept": len(idx["kept"]), "caught_up": bool(idx.get("caught_up")), "blocked": bool(idx.get("blocked") or errors >= 5),
                       "last_error": idx.get("last_error", ""), "updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     INDEX.write_text(json.dumps(idx, ensure_ascii=False, indent=0), "utf-8")
     print(json.dumps(idx["summary"]))

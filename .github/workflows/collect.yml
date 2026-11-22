@@ -27,6 +27,9 @@ jobs:
       - run: pip install pypdf==5.1.0
       - name: Offline tests
         run: python -m unittest discover -s pipeline -p "test_*.py"
+      - name: Council of State (only between 22:00 and 05:00 Belgian time)
+        continue-on-error: true
+        run: python pipeline/rvs_fetch.py --minutes 7
       - run: python pipeline/collect.py
       - name: Qualify (one verdict per publication)
         env:
@@ -57,7 +60,11 @@ jobs:
           s=json.load(open('data/status.json')); a=json.load(open('data/assessments.json'))
           key=a.get('summary',{}).get('key_present')
           sm=a.get('summary',{}); more=key and ((sm.get('waiting',0)>0 and sm.get('this_run',0)>0) or a.get('writer',{}).get('this_run',0)>0)
-          sys.exit(0 if (s.get('backlog') or more) else 1)"; then
+          import os,datetime,zoneinfo
+          h=datetime.datetime.now(zoneinfo.ZoneInfo('Europe/Brussels')).hour
+          r=json.load(open('data/rvs-index.json')).get('summary',{}) if os.path.exists('data/rvs-index.json') else {}
+          night=(h>=22 or h<5) and not r.get('caught_up') and not r.get('blocked')
+          sys.exit(0 if (s.get('backlog') or more or night) else 1)"; then
             sleep 90
             gh workflow run collect.yml --ref main
           fi

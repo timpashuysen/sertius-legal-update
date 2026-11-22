@@ -1,0 +1,18 @@
+{
+"next": 265312,
+"misses": 0,
+"kept": {},
+"read": 11,
+"pattern": 0,
+"last_hit": 265311,
+"caught_up": false,
+"last_error": "<urlopen error [Errno 104] Connection reset by peer> at 265312",
+"summary": {
+"next": 265312,
+"read": 11,
+"kept": 0,
+"caught_up": false,
+"last_error": "<urlopen error [Errno 104] Connection reset by peer> at 265312",
+"updated": "2026-11-22T21:10:22Z"
+}
+}

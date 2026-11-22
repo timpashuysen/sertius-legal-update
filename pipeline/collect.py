@@ -656,6 +656,23 @@ def excerpt(txt, src="", cap=40000):
 TEXT_V = 6  # bump to store the texts of rulings, EU acts and Codex documents again
 
 
+def collect_rvs(state, items):
+    """Council of State rulings kept by pipeline/rvs_fetch.py (which respects the Council's night window)."""
+    idx = load("rvs-index.json", {"kept": {}})
+    n = 0
+    for num, r in idx.get("kept", {}).items():
+        if not r.get("d"):
+            continue
+        key = "rvs:" + num
+        if key not in items:
+            n += 1
+        name = "Conseil d'État, arrêt n° %s. %s" if r.get("lang") == "fr" else "Raad van State, arrest nr. %s. %s"
+        items[key] = {"id": key, "src": "rvs", "level": "BE", "t": "case", "d": r["d"],
+                      "title": {r.get("lang", "nl"): (name % (num, r.get("subject", ""))).strip()},
+                      "url": r["url"], "ref": num, "k": classify(r.get("subject", ""))}
+    return {"ok": True, "new": n, "kept": len(idx.get("kept", {})), "summary": idx.get("summary", {})}
+
+
 CASS_PAGE = "https://www.cass.be/nl/Arr%C3%AAts.html"
 NL_MONTHS = {m: i + 1 for i, m in enumerate(
     "januari februari maart april mei juni juli augustus september oktober november december".split())}
@@ -883,7 +900,7 @@ def main():
         state["sb_rules"] = SB_RULES
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb), ("cass", collect_cass), ("editorial", collect_editorial)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb), ("rvs", collect_rvs), ("cass", collect_cass), ("editorial", collect_editorial)):
         t0 = time.time()
         try:
             res = fn(state, items)
