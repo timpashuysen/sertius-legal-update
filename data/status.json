@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-22T20:00:28+00:00",
+ "ran": "2026-11-22T20:08:37+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 846,
+   "matched": 848,
    "backfilled_to": "2026-11-01",
-   "seconds": 11.7
+   "seconds": 11.3
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 13.7
+   "seconds": 8.1
   },
   "codex": {
    "ok": true,
@@ -24,23 +24,23 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 32.3
+   "seconds": 24.7
   },
   "wallex": {
-   "ok": true,
+   "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 19,
+   "errors": 37,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 134.3
+   "seconds": 215.1
   },
   "staatsblad": {
    "ok": true,
-   "matched": 80,
-   "read": 80,
-   "backfilled_to": "2026-10-01",
-   "seconds": 156.2
+   "matched": 572,
+   "read": 572,
+   "backfilled_to": "2026-11-23",
+   "seconds": 107.9
   },
   "council": {
    "ok": true,
@@ -49,23 +49,23 @@
   },
   "rvvb": {
    "ok": true,
-   "new": 0,
-   "kept": 197,
+   "new": 73,
+   "kept": 270,
    "summary": {
     "names": 3537,
-    "read": 655,
-    "kept": 197,
+    "read": 887,
+    "kept": 270,
     "list_done": true,
     "finished": false,
-    "updated": "2026-11-22T19:07:24Z"
+    "updated": "2026-11-22T20:07:44Z"
    },
-   "seconds": 0.0
+   "seconds": 0.1
   },
   "cass": {
    "ok": true,
    "listed": 144,
    "new": 0,
-   "seconds": 1.4
+   "seconds": 0.9
   },
   "editorial": {
    "ok": true,
@@ -73,7 +73,7 @@
    "reachable": 7,
    "articles": 3,
    "new": 0,
-   "seconds": 20.2
+   "seconds": 19.2
   }
  },
  "not_collected": {
@@ -101,19 +101,19 @@
    "failed": 0
   }
  },
- "texts_on_file": 2398,
- "backlog": true,
- "items_total": 8844,
- "items_new": 23,
+ "texts_on_file": 2471,
+ "backlog": false,
+ "items_total": 9432,
+ "items_new": 588,
  "items_by_source": {
-  "staatsblad": 80,
+  "staatsblad": 595,
   "eurlex": 4591,
   "council": 1,
   "gwh": 475,
   "codex": 2676,
   "cass": 133,
   "wallex": 691,
-  "rvvb": 197
+  "rvvb": 270
  },
- "items_filed_for_site": 753
+ "items_filed_for_site": 804
 }
