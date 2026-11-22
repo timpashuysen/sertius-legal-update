@@ -11840,7 +11840,8 @@
 "reason": "Flemish decree amending environmental hygiene rules and boiler maintenance obligations.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 17 column 12 (char 6785)"
+"write_error": "Unterminated string starting at: line 17 column 12 (char 6785)",
+"written": "d-codex-1042471"
 },
 "codex:1042467": {
 "v": 2,
@@ -12408,7 +12409,8 @@
 ],
 "reason": "Changes the standard document for supervising radioactive waste and spent fuel shipments.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d2209"
 },
 "eu:32026D2206": {
 "v": 2,
@@ -12671,7 +12673,9 @@
 ],
 "reason": "Allows Slovakia to authorise ethylene oxide biocides; chemical product rule under Biocides Regulation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Addressed only to Slovakia; it creates no obligations or permissions for companies or authorities in Belgium."
 },
 "eu:32026R2212": {
 "v": 2,
@@ -12709,7 +12713,9 @@
 ],
 "reason": "Allows Czechia to authorise ethylene oxide biocides; chemical product rule under Biocides Regulation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Decision is addressed only to Czechia and permits it to authorise ethylene oxide biocides for cultural heritage; it creates no Belgian obligations."
 },
 "eu:32026D2146": {
 "v": 2,
@@ -12720,7 +12726,9 @@
 ],
 "reason": "Allows Poland to authorise ethylene oxide biocides; chemical product rule under Biocides Regulation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Derogation addressed only to Poland on ethylene oxide biocides for cultural heritage; it creates no obligations or permissions in Belgium."
 },
 "eu:32026D2142": {
 "v": 2,
@@ -12731,7 +12739,9 @@
 ],
 "reason": "Allows Italy to authorise sulfuryl fluoride biocide; chemical product rule under Biocides Regulation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Derogation addressed solely to Italy for a sulfuryl fluoride biocide; it creates no obligations or permissions for Belgian companies or authorities."
 },
 "eu:32026D2141": {
 "v": 2,
@@ -12841,7 +12851,8 @@
 ],
 "reason": "Amends Walloon energy audit and energy-saving renovation premium regime.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141480"
 },
 "wallex:141479": {
 "v": 2,
@@ -12852,7 +12863,8 @@
 ],
 "reason": "Amends ministerial order on renovation work priorities in housing energy audits.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141479"
 },
 "wallex:141478": {
 "v": 2,
@@ -12863,7 +12875,8 @@
 ],
 "reason": "Amends general Walloon housing energy-audit premium scheme and its implementing rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141478"
 },
 "wallex:141468": {
 "v": 2,
@@ -12874,7 +12887,8 @@
 ],
 "reason": "Amends Walloon energy-audit housing regime under the 2019 framework decree.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141468"
 },
 "wallex:141467": {
 "v": 2,
@@ -12885,7 +12899,8 @@
 ],
 "reason": "Amends general Walloon aid regime for energy-saving housing renovation investments.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141467"
 },
 "wallex:141465": {
 "v": 2,
@@ -12896,7 +12911,8 @@
 ],
 "reason": "Amends Walloon ministerial energy-audit premium rules for housing renovation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141465"
 },
 "gwh:117/2026": {
 "v": 2,
@@ -34268,7 +34284,8 @@
 ],
 "reason": "Title gives no description; Council ruling may interpret permit rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0071"
 },
 "rvvb:RVVB.2627.0069": {
 "v": 2,
@@ -34279,7 +34296,8 @@
 ],
 "reason": "Title gives no description; decision type unclear, may interpret permit rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0069"
 },
 "rvvb:RVVB.2627.0068": {
 "v": 2,
@@ -57568,36 +57586,292 @@
 "reason": "Individual driving licence exchange refusal; road traffic rule.",
 "confidence": "high",
 "at": "2026-11-22"
+},
+"rvs:265592": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for a machine tool; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265591": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recruitment or selection jury decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265589": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil-service authorisation to take up secondary employment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265588": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence personnel promotion decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265587": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law interpretation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265586": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law interpretation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265585": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law interpretation.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265583": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"soil"
+],
+"reason": "Flemish waste-material status decision for use of Bekagrit as blasting agent.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265582": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Preliminary CJEU question in permit dispute; likely environmental rule interpretation.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265581": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "School orientation attestation dispute; education, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265580": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Decisions of 18 September 2025 unclear from title; no environmental subject visible.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265579": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public works procurement for metro tunnel renovation; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265578": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "University staff appointment dispute; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265577": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Municipal street-alignment plan integrated in a stadium environmental permit application.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265576": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Challenge to amended municipal building regulation on parking; spatial planning rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265575": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "University vice-rector decision on student affairs; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265573": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of care home recognition; health care, single site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265572": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation proceedings; title too vague, likely permit dispute ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265571": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation proceedings; title too vague, likely permit dispute ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265570": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation proceedings; title too vague, likely permit dispute ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265569": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation proceedings; title too vague, likely permit dispute ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265568": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265567": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265566": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265565": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Cassation ruling on a Council for Permit Disputes decision; permit law.",
+"confidence": "medium",
+"at": "2026-11-22"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6304,
-"assessed": 6304,
+"in_scope": 6329,
+"assessed": 6329,
 "waiting": 0,
-"relevant": 738,
-"not_relevant": 5247,
+"relevant": 753,
+"not_relevant": 5257,
 "excluded_by_rule": 319,
-"this_run": 182,
+"this_run": 25,
 "api": {
-"calls": 8,
-"input_tokens": 27972,
-"output_tokens": 16919,
-"usd": 0.0113
+"calls": 1,
+"input_tokens": 5970,
+"output_tokens": 3213,
+"usd": 0.0022
 },
 "key_present": true,
 "updated": "2026-11-22"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 2,
-"failed": 1,
-"waiting": 608,
+"this_run": 10,
+"found_not_relevant_on_reading": 4,
+"failed": 0,
+"waiting": 609,
 "api": {
 "calls": 14,
-"input_tokens": 173074,
-"output_tokens": 37746,
-"usd": 0.7236
+"input_tokens": 103200,
+"output_tokens": 29865,
+"usd": 0.505
 },
 "updated": "2026-11-22"
 }

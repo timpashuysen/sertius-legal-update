@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:40:47Z",
+ "updated": "2026-11-22T23:54:32Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -5096,6 +5096,423 @@
    ],
    "inbox": [
     "eu:62024TJ0449"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042471",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Flanders transposes Directive 2024/2881 on air quality into VLAREM, with new limit values from 2030",
+   "a": "A Flemish Government decree amends VLAREM and three other decrees to transpose the recast EU Air Quality Directive 2024/2881. It sets new air quality standards applying from 1 January 2030 and revises monitoring, planning and postponement rules.",
+   "b": "The decree concerns the Flemish authorities responsible for air quality (Flemish Government, VMM, IRCEL), and it also touches the 2006 decree on maintenance of central heating appliances, VLAREL and the Environmental Enforcement Decree. It amends the air pollution definitions in chapter 1.1.2 of VLAREM title II so that they also apply to chapter 2.5, rewrites section 2.5.2 and replaces the annexes (2.5.3 and 2.5.8) with the standards of Directive 2024/2881. Section 2.5.7, which transposed Directive 2004/107, is merged into sections 2.5.1 and 2.5.2. Zones must be reviewed at least every five years, and new 'territorial units for average exposure' and monitoring supersites are introduced (Flanders is to set up the urban background site, Wallonia the rural one). Air quality plans must be adopted every five years while standards are exceeded, and roadmaps are required where limit or target values applying from 2030 are exceeded in 2026-2029. Postponement of limit values for PM10, PM2.5, NOx, benzene or benzo(a)pyrene is possible until 1 January 2040 under conditions, including a roadmap by the end of 2028, implementation reports from 30 June 2032 and a declining pollutant trend from 2035. The decree was adopted on 1 October 2026 and had not yet been published in the Belgian Official Gazette; the start date indicated is 11 December 2026, and the new standards apply from 1 January 2030.",
+   "nl": [
+    "Vlaanderen zet richtlijn 2024/2881 luchtkwaliteit om in VLAREM, met nieuwe grenswaarden vanaf 2030",
+    "Een besluit van de Vlaamse Regering wijzigt VLAREM en drie andere besluiten om de herschikte Europese luchtkwaliteitsrichtlijn 2024/2881 om te zetten. Het bevat nieuwe luchtkwaliteitsnormen vanaf 1 januari 2030 en herziene regels voor monitoring, plannen en uitstel.",
+    "Het besluit betreft de Vlaamse overheden die bevoegd zijn voor luchtkwaliteit (Vlaamse Regering, VMM, IRCEL) en raakt ook het besluit van 2006 over het onderhoud van centrale stooktoestellen, het VLAREL en het Omgevingshandhavingsbesluit. Het past de definities inzake luchtverontreiniging in hoofdstuk 1.1.2 van titel II van het VLAREM aan zodat ze ook gelden voor hoofdstuk 2.5, herschrijft afdeling 2.5.2 en vervangt de bijlagen (2.5.3 en 2.5.8) door de normen van richtlijn 2024/2881. Afdeling 2.5.7, die richtlijn 2004/107 omzette, wordt samengevoegd met de afdelingen 2.5.1 en 2.5.2. De zones moeten minstens om de vijf jaar worden herbekeken en er worden nieuwe 'territoriale eenheden voor gemiddelde blootstelling' en monitoringsupersites ingevoerd (Vlaanderen richt de stedelijkeachtergrondsite in, Wallonië de ruraleachtergrondsite). Luchtkwaliteitsplannen moeten om de vijf jaar worden vastgesteld zolang normen worden overschreden, en routekaarten zijn vereist bij overschrijding in 2026-2029 van de grens- of streefwaarden die vanaf 2030 gelden. Uitstel van de grenswaarden voor PM10, PM2.5, NOx, benzeen of benzo(a)pyreen is onder voorwaarden mogelijk tot 1 januari 2040, met onder meer een routekaart tegen eind 2028, uitvoeringsverslagen vanaf 30 juni 2032 en een dalende concentratietrend vanaf 2035. Het besluit werd aangenomen op 1 oktober 2026 en was nog niet bekendgemaakt in het Belgisch Staatsblad; de aangegeven startdatum is 11 december 2026 en de nieuwe normen gelden vanaf 1 januari 2030."
+   ],
+   "fr": [
+    "La Flandre transpose la directive 2024/2881 sur l'air dans le VLAREM, avec de nouvelles valeurs limites dès 2030",
+    "Un arrêté du Gouvernement flamand modifie le VLAREM et trois autres arrêtés pour transposer la directive refondue 2024/2881 sur la qualité de l'air. Il fixe de nouvelles normes de qualité de l'air applicables dès le 1er janvier 2030 et revoit les règles de surveillance, de planification et de report.",
+    "L'arrêté concerne les autorités flamandes compétentes en matière de qualité de l'air (Gouvernement flamand, VMM, IRCEL) et touche aussi l'arrêté de 2006 relatif à l'entretien des appareils de chauffage central, le VLAREL et l'arrêté sur le maintien de l'environnement (Omgevingshandhavingsbesluit). Il adapte les définitions relatives à la pollution atmosphérique du chapitre 1.1.2 du titre II du VLAREM afin qu'elles s'appliquent aussi au chapitre 2.5, réécrit la section 2.5.2 et remplace les annexes (2.5.3 et 2.5.8) par les normes de la directive 2024/2881. La section 2.5.7, qui transposait la directive 2004/107, est fusionnée avec les sections 2.5.1 et 2.5.2. Les zones doivent être réexaminées au moins tous les cinq ans, et de nouvelles « unités territoriales pour l'exposition moyenne » ainsi que des supersites de surveillance sont introduits (la Flandre installe le site de fond urbain, la Wallonie le site de fond rural). Des plans relatifs à la qualité de l'air doivent être adoptés tous les cinq ans tant que des normes sont dépassées, et des feuilles de route sont requises en cas de dépassement, en 2026-2029, des valeurs limites ou valeurs cibles applicables dès 2030. Le report des valeurs limites pour les PM10, les PM2,5, les NOx, le benzène ou le benzo(a)pyrène est possible sous conditions jusqu'au 1er janvier 2040, avec notamment une feuille de route d'ici fin 2028, des rapports de mise en œuvre à partir du 30 juin 2032 et une tendance à la baisse des concentrations dès 2035. L'arrêté a été adopté le 1er octobre 2026 et n'avait pas encore été publié au Moniteur belge ; la date de début indiquée est le 11 décembre 2026 et les nouvelles normes s'appliquent à partir du 1er janvier 2030."
+   ],
+   "scope": "Besluit van de Vlaamse Regering tot wijziging van het VLAREM (hoofdstuk 1.1.2, hoofdstuk 2.5 van titel II en bijlagen), het besluit van 8 december 2006 over centrale stooktoestellen, het VLAREL en het Omgevingshandhavingsbesluit (omzetting richtlijn 2024/2881)",
+   "dates": {
+    "adopted": "2026-10-01",
+    "in_force": "2026-12-11"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalin",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042471&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042471"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026d2209",
+   "d": "2026-09-29",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety",
+    "permitting"
+   ],
+   "h": "Radioactive waste and spent fuel shipments: return applications must cite initial authorisation number",
+   "a": "The Commission has replaced Sections A-1 and B-1 of the standard document for applying to ship radioactive waste and spent fuel under Directive 2006/117/Euratom. Applications for return shipments must now give the authorisation registration number (ARN) of the initial shipment(s).",
+   "b": "The change concerns applicants and competent authorities handling shipments of radioactive waste and spent fuel within the scope of Directive 2006/117/Euratom. The Decision amends the Annex to Decision 2008/312/Euratom by replacing Section A-1 (radioactive waste) and Section B-1 (spent fuel) of the standard application document. In the 'purpose of the shipment' item, a field for the ARN of the initial shipment(s) is added for each type of return shipment. For waste, these are return after (re)treatment or reprocessing of spent fuel, return after treatment of radioactive waste, and return after interim storage. For spent fuel, it is return after interim storage. The Commission states that this improves traceability and lets authorities link each shipment to the authorisation first issued. The rest of the form keeps its structure, including the registration number completed by the issuing authority. The Decision was adopted on 29 September 2026, published on 2 October 2026 and enters into force on the seventh day after publication, i.e. 9 October 2026.",
+   "nl": [
+    "Overbrenging van radioactief afval en verbruikte splijtstof: terugzendingen vermelden het oorspronkelijke vergunningsnummer",
+    "De Commissie heeft de delen A-1 en B-1 van het uniforme document voor aanvragen tot overbrenging van radioactief afval en verbruikte splijtstof (Richtlijn 2006/117/Euratom) vervangen. Bij aanvragen voor terugzending moet voortaan het registratienummer van de vergunning (ARN) van de oorspronkelijke overbrenging(en) worden vermeld.",
+    "De wijziging betreft aanvragers en bevoegde autoriteiten die overbrengingen van radioactief afval en verbruikte splijtstof beheren binnen het toepassingsgebied van Richtlijn 2006/117/Euratom. Het Besluit wijzigt de bijlage bij Beschikking 2008/312/Euratom door deel A-1 (radioactief afval) en deel B-1 (verbruikte splijtstof) van het uniforme aanvraagdocument te vervangen. Bij het punt 'doel van de overbrenging' wordt voor elk type terugzending een veld toegevoegd voor het ARN van de oorspronkelijke overbrenging(en). Voor afval gaat het om terugzending na (her)behandeling of opwerking van verbruikte splijtstof, terugzending na behandeling van radioactief afval en terugzending na tussentijdse opslag. Voor verbruikte splijtstof gaat het om terugzending na tussentijdse opslag. Volgens de Commissie verbetert dit de traceerbaarheid en kunnen de autoriteiten elke overbrenging koppelen aan de oorspronkelijk afgegeven vergunning. De rest van het formulier behoudt zijn structuur, inclusief het registratienummer dat door de vergunningverlenende autoriteit wordt ingevuld. Het Besluit is vastgesteld op 29 september 2026, bekendgemaakt op 2 oktober 2026 en treedt in werking op de zevende dag na bekendmaking, dus op 9 oktober 2026."
+   ],
+   "fr": [
+    "Transferts de déchets radioactifs et de combustible usé : les retours doivent citer le numéro d'autorisation initial",
+    "La Commission a remplacé les sections A-1 et B-1 du document uniforme de demande de transfert de déchets radioactifs et de combustible nucléaire usé (directive 2006/117/Euratom). Les demandes de retour doivent désormais indiquer le numéro d'enregistrement de l'autorisation (ARN) du ou des transferts initiaux.",
+    "La modification concerne les demandeurs et les autorités compétentes qui traitent des transferts de déchets radioactifs et de combustible usé relevant de la directive 2006/117/Euratom. La décision modifie l'annexe de la décision 2008/312/Euratom en remplaçant la section A-1 (déchets radioactifs) et la section B-1 (combustible usé) du document uniforme de demande. Au point relatif à l'objet du transfert, un champ pour l'ARN du ou des transferts initiaux est ajouté pour chaque type de retour. Pour les déchets, il s'agit du retour après (re)traitement ou retraitement de combustible usé, du retour après traitement de déchets radioactifs et du retour après stockage temporaire. Pour le combustible usé, il s'agit du retour après stockage temporaire. Selon la Commission, cela améliore la traçabilité et permet aux autorités de rattacher chaque transfert à l'autorisation délivrée à l'origine. Le reste du formulaire garde sa structure, y compris le numéro d'enregistrement complété par l'autorité délivrant l'autorisation. La décision a été adoptée le 29 septembre 2026, publiée le 2 octobre 2026 et entre en vigueur le septième jour suivant sa publication, soit le 9 octobre 2026."
+   ],
+   "scope": "Decision 2008/312/Euratom, Annex: Sections A-1 and B-1 of the standard document (Directive 2006/117/Euratom)",
+   "dates": {
+    "adopted": "2026-09-29",
+    "published": "2026-10-02",
+    "in_force": "2026-10-09"
+   },
+   "u": [
+    [
+     "Commission Decision (EU) 2026/2209 of 29 September 2026 amending Commission Decision 2008/312/Euratom establishing the standard document for",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2209"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D2209"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0071",
+   "d": "2026-09-28",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RVVB: late posting of yellow notice does not make a notification act unlawful; UDN suspension refused",
+   "a": "The Flemish Permit Disputes Council rejected a request for suspension in extreme urgency against an authority's acknowledgement of a notification for temporary dewatering. A late posting of the yellow notice affects only the timeliness of the appeal, not the legality of the act.",
+   "b": "The ruling concerns a notification of temporary dewatering (maximum 356 m³/day, 20,546 m³ in total; class 3 under heading 53.2.1° of the classification list) for building a cellar at a dairy barn in Kruibeke, which the authority acknowledged on 4 May 2026. The Council held that under Article 139 of the Omgevingsvergunningenbesluit the yellow notice 'BEKENDMAKING MELDINGSAKTE' must be posted before the acknowledged works start. Posting the notice late does not make the acknowledgement unlawful: it only affects when the appeal period before the Council starts, since that period runs from posting. Starting works before posting is a lack of care that can be held against the applicant only. The Council added that a notification is enforceable as soon as it is granted, so installing the dewatering equipment does not change this. The plea was therefore not serious, no examination of extreme urgency was needed, and the request was rejected on 28 September 2026. The €100 registration fee stays with the applicant.",
+   "nl": [
+    "RvVb: laattijdige gele affiche maakt meldingsakte niet onwettig; schorsing bij uiterst dringende noodzakelijkheid geweigerd",
+    "De Raad voor Vergunningsbetwistingen verwerpt een vordering tot schorsing bij uiterst dringende noodzakelijkheid tegen de aktename van een melding van tijdelijke bemaling. Een late aanplakking van de gele affiche beïnvloedt enkel de tijdigheid van het beroep, niet de wettigheid van de akte.",
+    "Het arrest betreft een melding van tijdelijke bemaling (maximaal 356 m³/dag en 20.546 m³ in totaal; derde klasse, rubriek 53.2.1° van de indelingslijst) voor de bouw van een kelder bij een melkveestal in Kruibeke, waarvan het bestuur op 4 mei 2026 akte nam. De Raad stelt dat volgens artikel 139 van het Omgevingsvergunningenbesluit de gele affiche 'BEKENDMAKING MELDINGSAKTE' moet worden aangeplakt vóór de aanvang van de geakteerde handelingen. Een laattijdige aanplakking maakt de aktename niet onwettig: ze heeft enkel invloed op het begin van de beroepstermijn bij de Raad, die pas loopt vanaf de aanplakking. Het starten van de werken vóór de aanplakking is een onzorgvuldigheid die enkel de aanvrager kan worden verweten. De Raad voegt toe dat een melding uitvoerbaar is zodra ze is verleend, zodat de plaatsing van de bemalingsinstallatie hieraan niets wijzigt. Het middel was dus niet ernstig, een onderzoek naar de uiterst dringende noodzakelijkheid was niet nodig en de vordering werd op 28 september 2026 verworpen. Het rolrecht van 100 euro blijft ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "CCAP: l'affichage tardif de l'affiche jaune ne rend pas l'acte de notification illégal; suspension en extrême urgence refusée",
+    "Le Conseil flamand du contentieux des autorisations (RvVb) rejette une demande de suspension en extrême urgence contre la prise d'acte d'une déclaration de rabattement temporaire de nappe. Un affichage tardif de l'affiche jaune n'influence que la recevabilité temporelle du recours, pas la légalité de l'acte.",
+    "L'arrêt concerne une déclaration de rabattement temporaire de nappe (maximum 356 m³/jour et 20.546 m³ au total; classe 3, rubrique 53.2.1° de la liste de classification) pour la construction d'une cave près d'une étable laitière à Kruibeke, dont l'autorité a pris acte le 4 mai 2026. Le Conseil rappelle que, selon l'article 139 de l'Omgevingsvergunningenbesluit, l'affiche jaune « BEKENDMAKING MELDINGSAKTE » doit être apposée avant le début des actes dont il est pris acte. Un affichage tardif ne rend pas la prise d'acte illégale: il affecte seulement le point de départ du délai de recours devant le Conseil, qui ne court qu'à partir de l'affichage. Commencer les travaux avant l'affichage constitue un manque de soin imputable au seul demandeur. Le Conseil ajoute qu'une déclaration est exécutoire dès qu'elle est accordée, de sorte que la mise en place de l'installation de rabattement n'y change rien. Le moyen n'étant pas sérieux, l'extrême urgence n'a pas été examinée et la demande a été rejetée le 28 septembre 2026. Le droit de rôle de 100 euros reste à charge de la partie requérante."
+   ],
+   "scope": "Arrest RVVB.2627.0071 van de Raad voor Vergunningsbetwistingen: artikel 139 Omgevingsvergunningenbesluit (gele affiche meldingsakte) en artikel 40, §2 DBRC-decreet (schorsing UDN)",
+   "dates": {
+    "adopted": "2026-09-28"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0071.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0071.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0071"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141480",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia reopens transitional access to pre-2025 energy renovation premiums until 30 September 2027",
+   "a": "A Walloon Government decree amends the transitional rules of the temporary premium regime of 31 March 2025. It drops the 20% down-payment condition and gives applicants who ordered works before 14 February 2025 a new deadline of 30 September 2027. It applies retroactively from 14 February 2025.",
+   "b": "The decree affects households applying for Walloon energy-saving and housing renovation premiums (2019 and 2022 regimes) for works ordered before 14 February 2025. Those applicants may keep the former regimes if they attach a dated and signed quote or proof of a final order for each investment. The 20% down-payment condition no longer applies. Applications must be filed by 30 September 2027 at the latest, and the date of the automatic acknowledgement (\"mon Espace Wallonie\") or the postmark counts. For roof and small works under arts 7/1 to 7/5 of the 2022 decree, investments must be carried out and invoiced by 31 December 2026. Derogations extend the time limits under the 2019 regime (investments, premium applications, audit premiums, follow-up report) to 30 September 2027. Under the 2022 regime, the public estimator visit is no longer mandatory for applications from 14 February 2025, and estimator reports issued since 14 February 2023 stay valid until 30 September 2027. Maintenance requests already declared admissible are deemed to meet the amended conditions, and the Renopack provisions of the 31 March 2025 decree are repealed. The decree was adopted on 24 September 2026, published in the Moniteur belge on 30 September 2026, and takes effect retroactively on 14 February 2025.",
+   "nl": [
+    "Wallonië heropent de overgangsregeling voor energiepremies van vóór 2025 tot 30 september 2027",
+    "Een besluit van de Waalse Regering wijzigt de overgangsbepalingen van de tijdelijke premieregeling van 31 maart 2025. De voorwaarde van een voorschot van 20% vervalt en aanvragers die vóór 14 februari 2025 werken bestelden, krijgen een nieuwe termijn tot 30 september 2027. Het besluit werkt terug tot 14 februari 2025.",
+    "Het besluit treft gezinnen die Waalse premies voor energiebesparende investeringen en woningrenovatie (regelingen van 2019 en 2022) aanvragen voor werken die vóór 14 februari 2025 werden besteld. Zij kunnen de vroegere regelingen behouden als zij voor elke investering een gedateerde en ondertekende offerte of het bewijs van een definitieve bestelling voegen. De voorwaarde van een voorschot van 20% geldt niet meer. De aanvraag moet uiterlijk op 30 september 2027 worden ingediend; de datum van de automatische ontvangstbevestiging (\"mon Espace Wallonie\") of de poststempel is bepalend. Voor dak- en kleine werken op grond van de artikelen 7/1 tot 7/5 van het besluit van 2022 moeten de investeringen uiterlijk op 31 december 2026 zijn uitgevoerd en gefactureerd. Afwijkingen verlengen de termijnen van de regeling van 2019 (investeringen, premieaanvragen, auditpremies, opvolgingsverslag) tot 30 september 2027. In de regeling van 2022 is het bezoek van de openbare schatter (estimateur public) niet meer verplicht voor aanvragen vanaf 14 februari 2025, en blijven verslagen van de schatter opgesteld sinds 14 februari 2023 geldig tot 30 september 2027. Reeds ontvankelijk verklaarde aanvragen tot behoud worden geacht aan de gewijzigde voorwaarden te voldoen, en de Renopack-bepalingen van het besluit van 31 maart 2025 worden opgeheven. Het besluit is aangenomen op 24 september 2026, bekendgemaakt in het Belgisch Staatsblad op 30 september 2026 en heeft uitwerking met terugwerkende kracht op 14 februari 2025."
+   ],
+   "fr": [
+    "La Wallonie rouvre le régime transitoire des primes énergie antérieures à 2025 jusqu'au 30 septembre 2027",
+    "Un arrêté du Gouvernement wallon modifie les dispositions transitoires du régime temporaire de primes du 31 mars 2025. La condition d'acompte de 20 % est supprimée et les demandeurs ayant commandé des travaux avant le 14 février 2025 disposent d'un nouveau délai jusqu'au 30 septembre 2027. L'arrêté rétroagit au 14 février 2025.",
+    "L'arrêté concerne les ménages qui demandent les primes wallonnes pour les investissements économiseurs d'énergie et la rénovation d'un logement (régimes de 2019 et de 2022) pour des travaux commandés avant le 14 février 2025. Ils peuvent conserver les anciens régimes s'ils joignent, pour chaque investissement, une copie du devis daté et signé ou la preuve de la commande définitive. La condition d'un acompte de 20 % ne s'applique plus. La demande doit être introduite au plus tard le 30 septembre 2027 ; la date de l'accusé de réception automatique (« mon Espace Wallonie ») ou le cachet postal fait foi. Pour les travaux de toiture et les petits travaux visés aux articles 7/1 à 7/5 de l'arrêté de 2022, les investissements sont réalisés et facturés au plus tard le 31 décembre 2026. Des dérogations prolongent jusqu'au 30 septembre 2027 les délais du régime de 2019 (investissements, demandes de primes, primes audit, rapport de suivi). Dans le régime de 2022, le passage de l'estimateur public n'est plus obligatoire pour les demandes introduites à partir du 14 février 2025, et les rapports d'estimateur établis depuis le 14 février 2023 restent valables jusqu'au 30 septembre 2027. Les demandes de maintien déjà jugées recevables sont réputées remplir les conditions modifiées, et les dispositions relatives au Renopack de l'arrêté du 31 mars 2025 sont abrogées. L'arrêté a été adopté le 24 septembre 2026, publié au Moniteur belge le 30 septembre 2026 et produit ses effets le 14 février 2025."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 24 septembre 2026 modifiant l'AGW du 31 mars 2025 (art. 7, § 3, art. 8, § 2, abrogation de l'art. 9 et de l'art. 10, al. 4-5) et dispositions dérogatoires aux régimes de primes de 2019 et 2022",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-14"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 31 mars 2025 modifiant l'arrêté du Gouvernement wallon du 29 juin",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007080/2025/02/14"
+    ]
+   ],
+   "inbox": [
+    "wallex:141480"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141479",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia: housing audit rule dropping work prioritisation no longer lapses on 1 July 2026, effective 13 Feb 2025",
+   "a": "A Walloon ministerial order repeals the clause that ended, on 1 July 2026, certain measures of the 2023 order on work packages in housing audits. These include the abolition of the prioritisation principle. The order takes effect retroactively on 13 February 2025.",
+   "b": "The order concerns the Walloon housing audit (audit logement) and the households and professionals involved in energy renovation projects. It amends the ministerial order of 29 June 2023, which abolished the principle of prioritising work packages in a housing audit. Article 4, paragraph 2, of that order provided that certain measures, including this abolition, would end on 1 July 2026. The new order repeals that paragraph, so those measures no longer expire on that date. The stated aim is to let citizens already engaged in a renovation project keep benefiting from the rules in force before 14 February 2025, in line with the Government order of 31 March 2025, which repeals the premium scheme on 30 September 2026. The order is dated 24 September 2026, was published in the Moniteur belge on 30 September 2026 and takes effect on 13 February 2025, a retroactivity justified as favourable to those concerned.",
+   "nl": [
+    "Wallonië: afschaffing van de prioritering in de woningaudit vervalt niet meer op 1 juli 2026, met effect vanaf 13 februari 2025",
+    "Een Waals ministerieel besluit heft de bepaling op die bepaalde maatregelen van het besluit van 2023 over de werkenpakketten in de woningaudit op 1 juli 2026 deed eindigen, waaronder de afschaffing van het prioriteringsbeginsel. Het besluit heeft terugwerkende kracht tot 13 februari 2025.",
+    "Het besluit betreft de Waalse woningaudit (audit logement) en de huishoudens en professionals die betrokken zijn bij energierenovatieprojecten. Het wijzigt het ministerieel besluit van 29 juni 2023, dat het beginsel van hiërarchisering van de werkenpakketten in een woningaudit afschafte. Artikel 4, tweede lid, van dat besluit bepaalde dat bepaalde maatregelen, waaronder deze afschaffing, op 1 juli 2026 zouden eindigen. Het nieuwe besluit heft dat lid op, zodat die maatregelen op die datum niet meer vervallen. Het doel is dat burgers die al een renovatietraject zijn gestart de vóór 14 februari 2025 geldende regels kunnen blijven genieten, in lijn met het besluit van de Waalse Regering van 31 maart 2025, dat het premiestelsel op 30 september 2026 opheft. Het besluit is gedateerd op 24 september 2026, werd op 30 september 2026 in het Belgisch Staatsblad bekendgemaakt en heeft uitwerking met ingang van 13 februari 2025; die terugwerkende kracht wordt gerechtvaardigd als gunstig voor de betrokkenen."
+   ],
+   "fr": [
+    "Wallonie : l'abrogation de la hiérarchisation des travaux dans l'audit logement ne prend plus fin le 1er juillet 2026, avec effet au 13 février 2025",
+    "Un arrêté ministériel wallon abroge la disposition qui mettait fin au 1er juillet 2026 à certaines mesures de l'arrêté de 2023 relatif aux bouquets de travaux dans l'audit logement, dont l'abrogation du principe de hiérarchisation. Il produit ses effets le 13 février 2025.",
+    "L'arrêté concerne l'audit logement wallon, ainsi que les ménages et les professionnels impliqués dans des projets de rénovation énergétique. Il modifie l'arrêté ministériel du 29 juin 2023, qui avait abrogé le principe de hiérarchisation des bouquets de travaux dans un audit logement. L'article 4, alinéa 2, de cet arrêté prévoyait que certaines mesures, dont cette abrogation, prendraient fin le 1er juillet 2026. Le nouvel arrêté abroge cet alinéa, de sorte que ces mesures ne cessent plus à cette date. L'objectif est de permettre aux citoyens déjà engagés dans une démarche de rénovation de continuer à bénéficier des textes en vigueur avant le 14 février 2025, conformément à l'arrêté du Gouvernement wallon du 31 mars 2025, qui abroge le régime de primes au 30 septembre 2026. L'arrêté est daté du 24 septembre 2026, a été publié au Moniteur belge le 30 septembre 2026 et produit ses effets le 13 février 2025; cette rétroactivité est jugée justifiée car plus favorable aux intéressés."
+   ],
+   "scope": "Arrêté ministériel du 24 septembre 2026 modifiant l'arrêté ministériel du 29 juin 2023 (hiérarchisation des bouquets de travaux dans un audit logement) : abrogation de l'article 4, alinéa 2",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-13"
+   },
+   "u": [
+    [
+     "Arrêté ministériel modifiant l'arrêté ministériel du 29 juin 2023 modifiant l'arrêté ministériel du 27 mai 2019 visant à établir les princip",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007082/2025/02/13"
+    ]
+   ],
+   "inbox": [
+    "wallex:141479"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141478",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia sets 30 September 2026 deadline for premium follow-up reports, with a transitional exception",
+   "a": "A Walloon ministerial order replaces the rolling three-year deadline for registering the follow-up report under the energy audit and renovation premium scheme with a fixed date of 30 September 2026. Investments covered by the transitional rule of Article 8, §2 of the Government order of 31 March 2025 are excluded from that date.",
+   "b": "The order concerns applicants under the Walloon premium scheme for energy audits and energy-saving and renovation investments in housing that are covered by the transitional provision of the ministerial order of 29 June 2023, as well as the administration handling these files. Article 27, para. 2, 1° of that order required the follow-up report to be registered at most three years after its entry into force. This is replaced by a fixed final date of 30 September 2026. The date does not apply to investments that meet the conditions of Article 8, §2 of the Walloon Government order of 31 March 2025, which lets households already committed to a renovation keep the rules in force before 14 February 2025. The order explains that these households need a longer period to file their follow-up report. It takes effect retroactively on 13 February 2025, which it justifies as more favourable to those concerned. It was signed on 24 September 2026 and published in the Moniteur belge on 30 September 2026, the date on which the 2025 reform repeals the current premium scheme.",
+   "nl": [
+    "Wallonië legt 30 september 2026 vast als uiterste datum voor opvolgingsverslagen bij premies, met overgangsuitzondering",
+    "Een Waals ministerieel besluit vervangt de termijn van drie jaar voor de registratie van het opvolgingsverslag in het premiestelsel voor energie-audit en renovatie door een vaste datum, 30 september 2026. Investeringen onder de overgangsregel van artikel 8, § 2 van het Besluit van de Waalse Regering van 31 maart 2025 vallen daarbuiten.",
+    "Het besluit betreft aanvragers in het Waalse premiestelsel voor energie-audits en energiebesparende en renovatie-investeringen in woningen die onder de overgangsbepaling van het ministerieel besluit van 29 juni 2023 vallen, alsook de administratie die deze dossiers behandelt. Artikel 27, tweede lid, 1° van dat besluit vereiste dat het opvolgingsverslag ten hoogste drie jaar na de inwerkingtreding ervan werd geregistreerd. Dit wordt vervangen door een vaste uiterste datum van 30 september 2026. Die datum geldt niet voor investeringen die voldoen aan de voorwaarden van artikel 8, § 2 van het besluit van de Waalse Regering van 31 maart 2025, dat huishoudens die al een renovatie hebben aangevat de v��ór 14 februari 2025 geldende regels laat behouden. Het besluit stelt dat deze huishoudens een langere termijn voor het indienen van het opvolgingsverslag nodig hebben. Het heeft terugwerkende kracht tot 13 februari 2025, wat wordt gerechtvaardigd doordat het gunstiger is voor de betrokkenen. Het werd ondertekend op 24 september 2026 en gepubliceerd in het Belgisch Staatsblad op 30 september 2026, de datum waarop de hervorming van 2025 het huidige premiestelsel opheft."
+   ],
+   "fr": [
+    "La Wallonie fixe au 30 septembre 2026 le délai des rapports de suivi des primes, avec une exception transitoire",
+    "Un arrêté ministériel wallon remplace le délai de trois ans pour l'enregistrement du rapport de suivi, dans le régime de primes pour l'audit et la rénovation énergétique, par une date fixe : le 30 septembre 2026. Les investissements relevant de la règle transitoire de l'article 8, § 2, de l'arrêté du Gouvernement wallon du 31 mars 2025 en sont exclus.",
+    "L'arrêté concerne les demandeurs du régime wallon de primes pour l'audit et les investissements économiseurs d'énergie et de rénovation d'un logement relevant de la disposition transitoire de l'arrêté ministériel du 29 juin 2023, ainsi que l'administration qui traite ces dossiers. L'article 27, alinéa 2, 1°, de cet arrêté exigeait que le rapport de suivi soit enregistré au maximum trois ans après son entrée en vigueur. Ce délai est remplacé par une date limite fixe, le 30 septembre 2026. Cette date ne s'applique pas aux investissements remplissant les conditions de l'article 8, § 2, de l'arrêté du Gouvernement wallon du 31 mars 2025, qui permet aux ménages déjà engagés dans une rénovation de conserver les règles en vigueur avant le 14 février 2025. L'arrêté indique que ces ménages ont besoin d'un délai plus long pour déposer leur rapport de suivi. Il produit ses effets au 13 février 2025, rétroactivité justifiée par son caractère plus favorable aux intéressés. Il a été signé le 24 septembre 2026 et publié au Moniteur belge le 30 septembre 2026, date à laquelle la réforme de 2025 abroge le régime de primes actuel."
+   ],
+   "scope": "Arrêté ministériel du 24 septembre 2026 modifiant l'article 27, alinéa 2, 1°, de l'arrêté ministériel du 29 juin 2023 (régime de primes audit et investissements économiseurs d'énergie et de rénovation d'un logement, Wallonie)",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-13"
+   },
+   "u": [
+    [
+     "Arrêté ministériel modifiant l'arrêté ministériel du 29 juin 2023 modifiant l'arrêté ministériel du 27 mai 2019 portant exécution de l'arrêt",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007081/2025/02/13"
+    ]
+   ],
+   "inbox": [
+    "wallex:141478"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141468",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia drops the 1 July 2026 end date for divisible works bundles in the housing audit scheme, with effect from 13 Feb 2025",
+   "a": "A Walloon Government order repeals Article 16, paragraph 3, of the 29 June 2023 order on the housing audit. That paragraph ended certain measures on 1 July 2026, including the abolition of the rule that each works bundle is indivisible. The repeal takes effect retroactively on 13 February 2025.",
+   "b": "The order concerns households and professionals involved in the Walloon housing audit and renovation premium scheme. The 29 June 2023 order abolished the principle that each works bundle (bouquet de travaux) forms an indivisible whole, but Article 16, paragraph 3, provided that this and other measures would end on 1 July 2026. The new order repeals that paragraph, so the end date no longer applies. The Government justifies this by the need to let people already engaged in a renovation keep benefiting from these measures until the premium scheme ends. The premium scheme is repealed on 30 September 2026 by the order of 31 March 2025, and that order lets such people keep the rules in force before 14 February 2025. The order was adopted on 24 September 2026 and published in the Moniteur belge on 30 September 2026. It takes effect retroactively on 13 February 2025, which the Government considers justified because the effect is favourable to those concerned.",
+   "nl": [
+    "Wallonië schrapt de einddatum van 1 juli 2026 voor deelbare werkenpakketten in de woningaudit, met werking vanaf 13 februari 2025",
+    "Een besluit van de Waalse Regering heft artikel 16, derde lid, van het besluit van 29 juni 2023 over de woningaudit op. Dat lid beëindigde bepaalde maatregelen op 1 juli 2026, waaronder de afschaffing van het beginsel dat elk werkenpakket ondeelbaar is. De opheffing werkt retroactief vanaf 13 februari 2025.",
+    "Het besluit treft huishoudens en professionals die betrokken zijn bij de Waalse woningaudit en de renovatiepremieregeling. Het besluit van 29 juni 2023 schafte het beginsel af dat elk werkenpakket (bouquet de travaux) een ondeelbaar geheel vormt, maar artikel 16, derde lid, bepaalde dat deze en andere maatregelen op 1 juli 2026 zouden eindigen. Het nieuwe besluit heft dat lid op, waardoor de einddatum niet meer geldt. De Regering motiveert dit door de noodzaak om personen die al een renovatie hebben aangevat, deze maatregelen te laten behouden tot het einde van de premieregeling. Die regeling wordt op 30 september 2026 opgeheven door het besluit van 31 maart 2025, dat deze personen de regels laat behouden die vóór 14 februari 2025 van kracht waren. Het besluit werd aangenomen op 24 september 2026 en op 30 september 2026 in het Belgisch Staatsblad bekendgemaakt. Het heeft retroactieve werking vanaf 13 februari 2025, wat de Regering verantwoordt omdat het effect gunstig is voor de betrokkenen."
+   ],
+   "fr": [
+    "La Wallonie supprime la fin au 1er juillet 2026 des bouquets de travaux divisibles dans l'audit logement, avec effet au 13 février 2025",
+    "Un arrêté du Gouvernement wallon abroge l'article 16, alinéa 3, de l'arrêté du 29 juin 2023 relatif à l'audit logement. Cet alinéa mettait fin à certaines mesures au 1er juillet 2026, dont l'abrogation du principe selon lequel chaque bouquet de travaux est indivisible. L'abrogation produit ses effets rétroactivement au 13 février 2025.",
+    "L'arrêté concerne les ménages et les professionnels impliqués dans l'audit logement wallon et le régime de primes à la rénovation. L'arrêté du 29 juin 2023 a abrogé le principe selon lequel chaque bouquet de travaux constitue un ensemble indivisible, mais son article 16, alinéa 3, prévoyait que cette mesure et d'autres prendraient fin le 1er juillet 2026. Le nouvel arrêté abroge cet alinéa, de sorte que cette échéance ne s'applique plus. Le Gouvernement justifie cette décision par la nécessité de permettre aux personnes déjà engagées dans une démarche de rénovation de conserver ces mesures jusqu'au terme du régime des primes. Ce régime est abrogé au 30 septembre 2026 par l'arrêté du 31 mars 2025, qui permet à ces personnes de continuer à bénéficier des textes en vigueur avant le 14 février 2025. L'arrêté a été adopté le 24 septembre 2026 et publié au Moniteur belge le 30 septembre 2026. Il produit ses effets rétroactivement au 13 février 2025, ce que le Gouvernement estime justifié, l'effet étant favorable aux intéressés."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 29 juin 2023 modifiant l'arrêté du 4 avril 2019 relatif à l'audit logement : article 16, alinéa 3 (abrogé)",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-13"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 29 juin 2023 modifiant l'arrêté du Gouvernement wallon du 4 avril",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007077/2025/02/13"
+    ]
+   ],
+   "inbox": [
+    "wallex:141468"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141467",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia extends reinforced energy-saving and renovation aid for homes to 1 October 2027, with effect from 13 Feb 2025",
+   "a": "A Walloon Government decree postpones the end of the reinforced aid under the 2022 energy-saving and housing renovation scheme (as amended in 2023) from 1 July 2026 to 1 October 2027. It takes effect retroactively on 13 February 2025.",
+   "b": "The decree concerns households that have started a home renovation and the aid scheme for energy-saving investments and housing renovation (Government decree of 12 May 2022, amended on 29 June 2023). Article 37, § 3 of the 2023 decree ended certain measures, including the reinforced aid, on 1 July 2026. That end date is now moved to 1 October 2027. This is without prejudice to the application of those measures to applications submitted under Article 7, § 3 of the Government decree of 31 March 2025, which repeals the 2019 premium scheme on 30 September 2026 and the 2022 aid scheme. The aim is to let people already engaged in a renovation keep benefiting, after 1 July 2026, from the rules in force before 14 February 2025. The decree was adopted on 24 September 2026 and published in the Moniteur belge on 30 September 2026. Under Article 2 it takes effect on 13 February 2025; the retroactivity is justified as more favourable to those concerned.",
+   "nl": [
+    "Wallonië verlengt de versterkte steun voor energiebesparende investeringen en woningrenovatie tot 1 oktober 2027, met werking vanaf 13 februari 2025",
+    "Een besluit van de Waalse Regering verschuift het einde van de versterkte steun uit de regeling van 2022 voor energiebesparende investeringen en woningrenovatie (zoals gewijzigd in 2023) van 1 juli 2026 naar 1 oktober 2027. Het heeft terugwerkende kracht tot 13 februari 2025.",
+    "Het besluit betreft gezinnen die een woningrenovatie zijn gestart en de steunregeling voor energiebesparende investeringen en woningrenovatie (besluit van de Waalse Regering van 12 mei 2022, gewijzigd op 29 juni 2023). Artikel 37, § 3 van het besluit van 2023 beëindigde bepaalde maatregelen, waaronder de versterkte steun, op 1 juli 2026. Die einddatum wordt verschoven naar 1 oktober 2027, onverminderd de toepassing van die maatregelen op aanvragen die zijn ingediend overeenkomstig artikel 7, § 3 van het besluit van de Waalse Regering van 31 maart 2025, dat de premieregeling van 2019 opheft op 30 september 2026, evenals de steunregeling van 2022. Het doel is dat wie al aan een renovatie is begonnen, na 1 juli 2026 kan blijven genieten van de regels die vóór 14 februari 2025 golden. Het besluit werd aangenomen op 24 september 2026 en op 30 september 2026 in het Belgisch Staatsblad bekendgemaakt. Krachtens artikel 2 heeft het uitwerking op 13 februari 2025; de terugwerkende kracht wordt verantwoord omdat ze gunstiger is voor de betrokkenen."
+   ],
+   "fr": [
+    "La Wallonie prolonge jusqu'au 1er octobre 2027 les aides renforcées pour économies d'énergie et rénovation, avec effet au 13 février 2025",
+    "Un arrêté du Gouvernement wallon reporte du 1er juillet 2026 au 1er octobre 2027 la fin des aides renforcées du régime de 2022 pour les investissements économiseurs d'énergie et la rénovation d'un logement (tel que modifié en 2023). Il produit ses effets rétroactivement au 13 février 2025.",
+    "L'arrêté concerne les citoyens engagés dans une démarche de rénovation de leur logement et le régime d'aides pour les investissements économiseurs d'énergie et de rénovation d'un logement (arrêté du Gouvernement wallon du 12 mai 2022, modifié le 29 juin 2023). L'article 37, § 3, de l'arrêté de 2023 mettait fin à certaines mesures, dont le renforcement des aides, au 1er juillet 2026. Cette date est reportée au 1er octobre 2027, sans préjudice de l'application de ces mesures aux demandes introduites conformément à l'article 7, § 3, de l'arrêté du Gouvernement wallon du 31 mars 2025, qui abroge le régime de primes de 2019 au 30 septembre 2026 ainsi que le régime d'aides de 2022. L'objectif est de permettre à ceux qui se sont déjà engagés dans une rénovation de continuer à bénéficier, après le 1er juillet 2026, des textes en vigueur avant le 14 février 2025. L'arrêté a été adopté le 24 septembre 2026 et publié au Moniteur belge le 30 septembre 2026. Selon l'article 2, il produit ses effets le 13 février 2025; la rétroactivité est justifiée car plus favorable aux intéressés."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 29 juin 2023 modifiant l'AGW du 12 mai 2022 (aides aux investissements économiseurs d'énergie et de rénovation d'un logement), art. 37, § 3",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-13"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 29 juin 2023 modifiant l'arrêté du Gouvernement wallon du 12 mai ",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007076/2025/02/13"
+    ]
+   ],
+   "inbox": [
+    "wallex:141467"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-141465",
+   "d": "2026-09-24",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia: transitional rules for housing energy renovation premiums amended retroactively to 14 Feb 2025",
+   "a": "A Walloon ministerial order repeals article 35 of the 31 March 2025 order and amends its article 36 on the transitional regime for housing renovation premiums. Applications under the transitional regime get the premium amounts applicable on 13 February 2025, with effect from 14 February 2025.",
+   "b": "The order concerns applicants for Walloon premiums for energy-saving investments and housing renovation who had already committed to investments before 14 February 2025, and the administration that processes their applications. It amends the ministerial order of 31 March 2025, which put the temporary premium regime in place. The aim is to secure that regime after Council of State criticism of its transitional rules (the 20% deposit requirement and the 28 February 2025 application deadline). Article 1 repeals article 35 of the 31 March 2025 order; the order states that Renopack provisions are removed and, where needed, will be dealt with in a separate instrument. Article 2 amends article 36: premium applications submitted under article 8, § 2 of the Walloon Government decree of 31 March 2025 benefit from the premium amounts applicable on 13 February 2025. The order was adopted on 24 September 2026 and published in the Moniteur belge on 30 September 2026. It takes effect retroactively on 14 February 2025, the date from which the temporary regime applies.",
+   "nl": [
+    "Wallonië: overgangsregels premies voor energiebesparende woningrenovatie met terugwerking tot 14 februari 2025 gewijzigd",
+    "Een Waals ministerieel besluit heft artikel 35 van het besluit van 31 maart 2025 op en wijzigt artikel 36 over de overgangsregeling voor renovatiepremies voor woningen. Aanvragen onder de overgangsregeling krijgen de premiebedragen die op 13 februari 2025 golden, met uitwerking vanaf 14 februari 2025.",
+    "Het besluit heeft betrekking op aanvragers van Waalse premies voor energiebesparende investeringen en woningrenovatie die zich vóór 14 februari 2025 al tot investeringen hadden verbonden, en op de administratie die hun aanvragen behandelt. Het wijzigt het ministerieel besluit van 31 maart 2025, dat het tijdelijke premiestelsel invoerde. Het doel is dat stelsel veilig te stellen na de kritiek van de Raad van State op de overgangsregeling (de vereiste van een voorschot van 20% en de aanvraagtermijn van 28 februari 2025). Artikel 1 heft artikel 35 van het besluit van 31 maart 2025 op; het besluit vermeldt dat de bepalingen over Renopack worden geschrapt en zo nodig in een afzonderlijk instrument worden geregeld. Artikel 2 wijzigt artikel 36: premieaanvragen die zijn ingediend krachtens artikel 8, § 2 van het besluit van de Waalse Regering van 31 maart 2025 genieten de premiebedragen die op 13 februari 2025 golden. Het besluit werd aangenomen op 24 september 2026 en op 30 september 2026 in het Belgisch Staatsblad bekendgemaakt. Het heeft terugwerkende kracht tot 14 februari 2025, de datum vanaf wanneer het tijdelijke stelsel geldt."
+   ],
+   "fr": [
+    "Wallonie : règles transitoires des primes à la rénovation énergétique des logements modifiées avec effet au 14 février 2025",
+    "Un arrêté ministériel wallon abroge l'article 35 de l'arrêté du 31 mars 2025 et modifie son article 36 relatif au régime transitoire des primes à la rénovation des logements. Les demandes relevant du régime transitoire bénéficient des montants de prime applicables le 13 février 2025, avec effet au 14 février 2025.",
+    "L'arrêté concerne les demandeurs de primes wallonnes pour des investissements économiseurs d'énergie et la rénovation d'un logement qui s'étaient déjà engagés dans des investissements avant le 14 février 2025, ainsi que l'administration qui traite leurs demandes. Il modifie l'arrêté ministériel du 31 mars 2025, qui a instauré le régime temporaire de primes. Son objectif est de sécuriser ce régime après les critiques du Conseil d'Etat sur le régime transitoire (l'exigence d'un acompte de 20 % et le délai de demande du 28 février 2025). L'article 1er abroge l'article 35 de l'arrêté du 31 mars 2025 ; l'arrêté précise que les dispositions relatives au Renopack sont supprimées et feront, le cas échéant, l'objet d'un instrument distinct. L'article 2 modifie l'article 36 : les demandes de prime introduites conformément à l'article 8, § 2, de l'arrêté du Gouvernement wallon du 31 mars 2025 bénéficient des montants de prime applicables le 13 février 2025. L'arrêté a été adopté le 24 septembre 2026 et publié au Moniteur belge le 30 septembre 2026. Il produit ses effets le 14 février 2025, date à partir de laquelle s'applique le régime temporaire."
+   ],
+   "scope": "Arrêté ministériel du 24 septembre 2026 modifiant l'arrêté ministériel du 31 mars 2025 (primes à la rénovation énergétique des logements) : abrogation de l'art. 35, modification de l'art. 36, effet au 14 février 2025",
+   "dates": {
+    "adopted": "2026-09-24",
+    "published": "2026-09-30",
+    "in_force": "2025-02-14"
+   },
+   "u": [
+    [
+     "Arrêté ministériel modifiant l'arrêté ministériel du 31 mars 2025 modifiant l'arrêté ministériel du 29 juin 2023 modifiant l'arrêté ministér",
+     "https://wallex.wallonie.be/eli/arrete/2026/09/24/2026007079/2025/02/14"
+    ]
+   ],
+   "inbox": [
+    "wallex:141465"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0069",
+   "d": "2026-09-24",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Leuven permit-register entry of a building with eleven dwellings as deemed permitted",
+   "a": "The Council for Permit Disputes annulled the decision of 16 May 2025 entering a building at Brouwerstraat 5, Leuven, in the permit register as deemed permitted with eleven dwelling units. It found that the authority had not carefully investigated whether the division into dwellings involved works requiring a permit.",
+   "b": "The ruling concerns the registration of existing buildings as 'deemed permitted' (vergund geacht) under Articles 4.2.14 and 5.1.3 VCRO, and affects applicants and the authorities that keep the permit register. The Council recalls that the applicant bears the burden of proof and the authority has an active duty of investigation and a duty to give adequate reasons. Merely changing the number of dwellings, without works, has required a permit only since 1 May 2000. Works to divide a dwelling have required a permit since the 1962 Town Planning Act, subject to exemptions, including the 1996 exemption for sanitary installations that did not change the number of dwellings. The authority relied on population-register data, the land-registry file and fire-brigade reports of 1983 and 1996, all predating 2000. The Council held that it did not explain how the number of units rose between 1977, 1983 and 1996 without works requiring a permit. It also assumed without evidence that the 1996 inspection followed exempt fitting-out works, and its figures were inconsistent (eleven units against twelve found in 1996, and the number of sanitary facilities). The ground of annulment was upheld and the decision annulled. The defendant must take a new decision within three months of the day after service of the ruling. It also bears the costs: a registry fee of 200 euros and a legal-proceedings indemnity of 910 euros, the base amount since 17 June 2026.",
+   "nl": [
+    "RvVb vernietigt opname in het vergunningenregister van Leuvens pand met elf woongelegenheden als vergund geacht",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van 16 mei 2025 om een pand in de Brouwerstraat 5 te Leuven met elf wooneenheden als vergund geacht in het vergunningenregister op te nemen. Volgens de Raad onderzocht de overheid onvoldoende zorgvuldig of de opdeling gepaard ging met vergunningsplichtige werken.",
+    "Het arrest betreft de opname van bestaande constructies als 'vergund geacht' op grond van de artikelen 4.2.14 en 5.1.3 VCRO en raakt aanvragers en de overheden die het vergunningenregister bijhouden. De Raad herinnert eraan dat de aanvrager de bewijslast draagt en dat de overheid een actieve onderzoeksplicht heeft en haar beslissing afdoende moet motiveren. De loutere wijziging van het aantal woongelegenheden, zonder werken, is pas sinds 1 mei 2000 vergunningsplichtig. Werken om een woning op te delen waren sinds de Stedenbouwwet van 1962 vergunningsplichtig, onder voorbehoud van vrijstellingen, waaronder de vrijstelling van 1996 voor sanitaire installaties die het aantal woongelegenheden niet wijzigden. De overheid steunde op gegevens uit het bevolkingsregister, de kadastrale fiche en brandweerverslagen van 1983 en 1996, allemaal van vóór 2000. Volgens de Raad verduidelijkte zij niet hoe het aantal eenheden tussen 1977, 1983 en 1996 toenam zonder vergunningsplichtige werken. Ze nam bovendien zonder bewijs aan dat het plaatsbezoek van 1996 volgde op vrijgestelde inrichtingswerken, en haar cijfers waren inconsistent (elf eenheden tegenover twaalf vastgesteld in 1996, en het aantal sanitaire voorzieningen). Het middel is gegrond en de beslissing wordt vernietigd. De verwerende partij moet binnen drie maanden vanaf de dag na de betekening van het arrest een nieuwe beslissing nemen. Zij draagt ook de kosten: 200 euro rolrecht en 910 euro rechtsplegingsvergoeding, het basisbedrag sinds 17 juni 2026."
+   ],
+   "fr": [
+    "Le CCA annule l'inscription au registre des autorisations d'un immeuble de onze logements à Louvain comme réputé autorisé",
+    "Le Conseil pour les contestations des autorisations annule la décision du 16 mai 2025 d'inscrire au registre des autorisations, comme réputé autorisé, un immeuble de onze logements situé Brouwerstraat 5 à Louvain. Il estime que l'autorité n'a pas examiné avec assez de soin si la division avait impliqué des travaux soumis à autorisation.",
+    "L'arrêt porte sur l'inscription de constructions existantes comme « réputées autorisées » (vergund geacht) en vertu des articles 4.2.14 et 5.1.3 du VCRO, et concerne les demandeurs ainsi que les autorités qui tiennent le registre des autorisations. Le Conseil rappelle que la charge de la preuve incombe au demandeur et que l'autorité a un devoir actif d'investigation et doit motiver sa décision de manière suffisante. La simple modification du nombre de logements, sans travaux, n'est soumise à autorisation que depuis le 1er mai 2000. Les travaux de division d'un logement le sont depuis la loi sur l'urbanisme de 1962, sous réserve de dispenses, dont celle de 1996 pour les installations sanitaires ne modifiant pas le nombre de logements. L'autorité s'est fondée sur le registre de la population, la fiche cadastrale et des rapports des pompiers de 1983 et 1996, tous antérieurs à 2000. Selon le Conseil, elle n'a pas expliqué comment le nombre d'unités avait augmenté entre 1977, 1983 et 1996 sans travaux soumis à autorisation. Elle a en outre admis sans preuve que la visite de 1996 faisait suite à des travaux d'aménagement dispensés, et ses chiffres étaient incohérents (onze unités contre douze constatées en 1996, et le nombre d'installations sanitaires). Le moyen est fondé et la décision est annulée. La partie défenderesse doit prendre une nouvelle décision dans les trois mois à compter du lendemain de la signification de l'arrêt. Elle supporte aussi les dépens : 200 euros de droit de rôle et 910 euros d'indemnité de procédure, montant de base depuis le 17 juin 2026."
+   ],
+   "scope": "Arrest RvVb.2627.0069 van de Raad voor Vergunningsbetwistingen: opname als vergund geacht in het vergunningenregister (artt. 4.2.14 en 5.1.3 VCRO), Brouwerstraat 5, Leuven",
+   "dates": {
+    "adopted": "2026-09-24"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0069. vernietiging van de beslissing van de verwerende partij van 16 mei 2025.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0069.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0069"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-22"
