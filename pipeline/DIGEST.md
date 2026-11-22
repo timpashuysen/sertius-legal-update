@@ -62,3 +62,15 @@ text files. In that state: do not add hand-built items to `builtin_nomatch` and 
 `bxl_seen` or `bxl_missing` unless the matching inbox item was found; try them again in a later run.
 Text files hold up to 40,000 characters of the official text. If a file still lacks the part you
 need, leave the item unprocessed and note it.
+
+## Wording of entries
+- Write for the reader of the digest, not about our process: never mention "the text available to us",
+  the excerpt, the file or what was left out of it. If something is not stated in the official text,
+  say "the act does not state ..." only when the reader needs to know; otherwise leave it out.
+- No generic closing sentence ("companies can check ...", "operators should verify ..."). End on the
+  last fact. The "what to check" point belongs in the summary only when the text gives something
+  concrete to check (a deadline, a threshold, a transitional rule).
+- Say who is affected and what falls in or out of scope before listing article numbers.
+- Use the established Belgian terms in each language (for example richtwaarden = valeurs guides,
+  omgevingsvergunning = permis d'environnement in Flemish context).
+- Tag every practice area that applies, not only the first.
