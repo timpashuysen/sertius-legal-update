@@ -139,6 +139,8 @@ class Texts(unittest.TestCase):
         doc = {"Id": 1, "Link": "https://example.test/a b c d e f g h i j k l m n o p", "Artikels": [
             {"Nummer": "1", "Tekst": "<p>De exploitant meldt elke wijziging aan de bevoegde overheid.</p>"}]}
         self.assertEqual(collect._codex_text(doc), "De exploitant meldt elke wijziging aan de bevoegde overheid.")
+        doc["DatumInwerkingtreding"] = "2026-03-23"
+        self.assertIn("DatumInwerkingtreding: 2026-03-23", collect._codex_text(doc))
 
 
 if __name__ == "__main__":

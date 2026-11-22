@@ -157,7 +157,7 @@ def collect_gwh(state, items, cap=150):
             dm = re.search(r"van (\d{1,2}) (\w+) (%d)" % year, txt)
             date = "%d-%02d-%02d" % (year, NL_MONTHS.get(dm.group(2).lower(), 1), int(dm.group(1))) if dm else "%d-01-01" % year
             topics = classify(subject)
-            if True:
+            if state.get("text_v", 0) < 4 or f.name.startswith("codex_"):
                 title = {"nl": "Grondwettelijk Hof, arrest nr. %d/%d: %s" % (n, year, subject)}
                 try:
                     if not topics:
@@ -589,11 +589,16 @@ def fetch_text(it):
 
 def _codex_text(doc):
     """The article text of a Vlaamse Codex document, without the JSON envelope and its metadata."""
-    out = []
+    out, meta = [], []
 
     def walk(v):
         if isinstance(v, dict):
-            for x in v.values():
+            for k, x in v.items():
+                # dates of publication and entry into force live in the metadata, not in the articles
+                if isinstance(x, (str, int)) and re.search(r"datum|staatsblad|inwerking|publicat", k, re.I) and str(x).strip():
+                    line = "%s: %s" % (k, str(x).strip()[:60])
+                    if line not in meta and len(meta) < 12:
+                        meta.append(line)
                 walk(x)
         elif isinstance(v, list):
             for x in v:
@@ -603,7 +608,7 @@ def _codex_text(doc):
             if len(t) > 30 and " " in t and not t.startswith("http"):
                 out.append(t)
     walk(doc)
-    return "\n".join(out)
+    return "\n".join(meta + [""] + out) if meta else "\n".join(out)
 
 
 def excerpt(txt, src="", cap=40000):
@@ -624,7 +629,7 @@ def excerpt(txt, src="", cap=40000):
     return txt[:cap - 3000] + gap + txt[-3000:]
 
 
-TEXT_V = 4  # bump to store the texts of rulings, EU acts and Codex documents again
+TEXT_V = 5  # bump to store the texts of rulings, EU acts and Codex documents again
 
 
 def save_texts(items, state, per_source=40, budget=240):
