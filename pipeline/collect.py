@@ -8,6 +8,7 @@ taken as published and topics are assigned by keyword.
 Sources that forbid automated access in robots.txt are not collected.
 """
 import datetime as dt
+import html.parser
 import io
 import json
 import pathlib
@@ -298,6 +299,162 @@ def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
             "next_new_id": state.get("wallex_hi", hi), "known_ids_left": state.get("wallex_known_left")}
 
 
+
+# --------------------------------------------------------- Belgium: Staatsblad
+ETAAMB = "https://etaamb.openjustice.be"
+SB_KEEP = re.compile(
+    r"\b(wet|loi|decreet|décret|ordonnantie|ordonnance|koninklijk besluit|"
+    r"arrêté royal|ministerieel besluit|arrêté ministériel|besluit van de regering|"
+    r"arrêté du gouvernement|circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
+SB_DROP = re.compile(
+    r"\b(benoeming|benoemingen|aanstelling|aanstellingen|appointment|nomination|"
+    r"désignation|vacature|vacatures|vacancy|vacancies|eervol|ereteken|eretekens|"
+    r"honou?r|onderscheiding|decoration|rechtbank|tribunal|court notice|selectienummer|"
+    r"solliciteren|faillissement|bankruptcy|ondernemingsnummer|company notice)\b", re.I)
+SB_TITLE_START = re.compile(
+    r"\b(wet|loi|decreet|décret|ordonnantie|ordonnance|koninklijk besluit|"
+    r"arrêté royal|ministerieel besluit|arrêté ministériel|besluit van de "
+    r"(?:vlaamse|waalse|brusselse|regering|franse gemeenschap)|arrêté du gouvernement|"
+    r"circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
+
+
+class _EtaambIndexParser(html.parser.HTMLParser):
+    """Extract NUMAC links and their visible text from one Etaamb day index."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.links, self._href, self._text = [], None, []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() == "a":
+            self._href = dict(attrs).get("href", "")
+            self._text = []
+
+    def handle_data(self, data):
+        if self._href is not None:
+            self._text.append(data)
+
+    def handle_endtag(self, tag):
+        if tag.lower() == "a" and self._href is not None:
+            href = self._href
+            label = re.sub(r"\s+", " ", " ".join(self._text)).strip()
+            match = re.search(r"(?:_n|/)(\d{10})(?:\.html)?/?$", href)
+            if match:
+                self.links.append((match.group(1), href, label))
+            self._href, self._text = None, []
+
+
+def _sb_title(raw, href, numac):
+    text = re.sub(r"\s+", " ", raw or "").strip()
+    tail = re.split(r"\bbron\b", text, maxsplit=1, flags=re.I)
+    candidate = tail[-1] if len(tail) > 1 else text
+    match = SB_TITLE_START.search(candidate)
+    if match:
+        return candidate[match.start():].strip(" .-")[:500]
+    slug = href.rsplit("/", 1)[-1]
+    slug = re.sub(r"(?:_n|/)" + re.escape(numac) + r"(?:\.html)?$", "", slug, flags=re.I)
+    return slug.replace("-", " ").replace("_", " ").strip()[:500] or text[:500]
+
+
+def _sb_level(text):
+    if re.search(r"brussels hoofdstad|brussels[- ]capital|région de bruxelles|"
+                 r"brussels hoofdstedelijk gewest|cocof|cocom|commission communautaire française|"
+                 r"gemeenschappelijke gemeenschapscommissie|vlaamse gemeenschapscommissie", text, re.I):
+        return "BRU"
+    if re.search(r"vlaamse overheid|vlaams(e| gewest|e gemeenschap| parlement)|"
+                 r"vlaanderen|flemish (government|region|community)", text, re.I):
+        return "VL"
+    if re.search(r"waalse overheid|waals(e| gewest)|wallonië|wallonie|walloon (government|region)", text, re.I):
+        return "WAL"
+    return "BE"
+
+
+def _sb_day(day, timeout=20):
+    url = "%s/nl/pub/%04d/%02d/%02d.html" % (ETAAMB, day.year, day.month, day.day)
+    try:
+        _, raw = http(url, timeout=timeout)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return []
+        raise
+    parser = _EtaambIndexParser()
+    parser.feed(raw.decode("utf-8", "replace"))
+    return parser.links
+
+
+def _sb_official_url(day, numac):
+    pub_date = "%02d-%02d-%02d" % (day.year % 100, day.month, day.day)
+    query = urllib.parse.urlencode({
+        "language": "nl", "caller": "summary", "pub_date": pub_date, "numac": numac,
+    })
+    return "https://www.ejustice.just.fgov.be/cgi/article_body.pl?" + query
+
+
+def _sb_item(day, numac, href, raw):
+    title = _sb_title(raw, href, numac)
+    searchable = (raw or "") + " " + title
+    if not SB_KEEP.search(searchable) or SB_DROP.search(searchable):
+        return None
+    kind = "guide" if re.search(r"\b(circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", title, re.I) else "law"
+    key = "sb:" + numac
+    etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
+    return {
+        "id": key, "src": "staatsblad", "level": _sb_level(searchable), "t": kind,
+        "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
+        "ref": numac, "k": classify(title), "text_url": etaamb_href,
+    }
+
+
+def collect_staatsblad(state, items, budget=220):
+    """Backfill Etaamb's daily publication indexes and refresh the last five days."""
+    started = time.time()
+    cursor = dt.date.fromisoformat(state.get("sb_next", START.isoformat()))
+    matched = read = 0
+    error = None
+
+    def read_day(day):
+        nonlocal matched, read
+        rows = _sb_day(day)
+        read += len(rows)
+        for numac, href, label in rows:
+            item = _sb_item(day, numac, href, label)
+            if item:
+                items[item["id"]] = item
+                matched += 1
+        time.sleep(1)  # no more than one request per second
+
+    try:
+        while cursor < TODAY and time.time() - started < budget - 35:
+            if cursor.weekday() >= 5:
+                cursor += dt.timedelta(days=1)
+                state["sb_next"] = cursor.isoformat()
+                continue
+            try:
+                read_day(cursor)
+            except Exception as e:
+                error = "backfill %s: %s" % (cursor.isoformat(), repr(e)[:250])
+                break
+            cursor += dt.timedelta(days=1)
+            state["sb_next"] = cursor.isoformat()
+
+        recent = max(START, TODAY - dt.timedelta(days=5))
+        while recent < TODAY:
+            if recent.weekday() < 5:
+                try:
+                    read_day(recent)
+                except Exception as e:
+                    error = error or "refresh %s: %s" % (recent.isoformat(), repr(e)[:250])
+            recent += dt.timedelta(days=1)
+        result = {"ok": error is None, "matched": matched, "read": read,
+                  "backfilled_to": state.get("sb_next", START.isoformat())}
+        if error:
+            result["error"] = error
+        return result
+    except Exception as e:
+        return {"ok": False, "matched": matched, "read": read,
+                "backfilled_to": state.get("sb_next", START.isoformat()),
+                "error": repr(e)[:400]}
+
+
 # ------------------------------------------------------- EU: Council press RSS
 def collect_council(state, items):
     _, raw = http("https://www.consilium.europa.eu/en/rss/pressreleases.ashx")
@@ -336,6 +493,9 @@ def strip_html(raw):
 
 def fetch_text(it):
     src = it["src"]
+    if src == "staatsblad":
+        _, raw = http(it.get("text_url") or (ETAAMB + "/nl/" + it["ref"] + ".html"), timeout=40)
+        return strip_html(raw)
     if src == "gwh":
         _, raw = http(it["url"], timeout=60)
         from pypdf import PdfReader
@@ -366,7 +526,7 @@ def save_texts(items, state, per_source=40, budget=240):
     t0 = time.time()
     res = {}
     gave_up = set(state.get("text_failed", []))
-    todo = sorted((i for i in items.values() if i.get("k") and i["src"] in ("gwh", "wallex", "eurlex", "codex")),
+    todo = sorted((i for i in items.values() if i.get("k") and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad")),
                   key=lambda i: i["d"], reverse=True)
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
@@ -412,7 +572,7 @@ def main():
     items = {i["id"]: i for i in feed.get("items", [])}
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("council", collect_council)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council)):
         t0 = time.time()
         try:
             res = fn(state, items)
@@ -421,7 +581,6 @@ def main():
         res["seconds"] = round(time.time() - t0, 1)
         status["sources"][name] = res
     status["not_collected"] = {
-        "Belgisch Staatsblad / Moniteur belge": "robots.txt forbids automated access to the publication pages",
         "Raad van State / Conseil d'Etat judgments": "robots.txt forbids automated access to the judgment folders",
         "Raad voor Vergunningsbetwistingen (dbrc.be)": "refuses connections from this server; read by the digest stage instead",
         "Bruxelles Environnement": "refuses connections from this server; read by the digest stage instead",
@@ -436,7 +595,9 @@ def main():
     w = status["sources"].get("wallex", {})
     g = status["sources"].get("gwh", {})
     t = status.get("texts", {}) if isinstance(status.get("texts"), dict) else {}
-    status["backlog"] = bool((w.get("known_ids_left") or 0) > 0 or (g.get("read") or 0) >= 150
+    sb_next = status["sources"].get("staatsblad", {}).get("backfilled_to")
+    sb_backlog = bool(sb_next and sb_next < TODAY.isoformat())
+    status["backlog"] = bool(sb_backlog or (w.get("known_ids_left") or 0) > 0 or (g.get("read") or 0) >= 150
                              or any(isinstance(v, dict) and v.get("saved", 0) >= 30 for v in t.values()))
     status["items_total"] = len(out)
     status["items_new"] = len(out) - before
