@@ -43,6 +43,10 @@ class Qualification(unittest.TestCase):
         done, left = assess.assess(ITEMS, log, llm.Client(1, key=""), "2026-11-22")
         self.assertEqual((done, left), (1, 2))
 
+    def test_cut_off_reply_keeps_complete_verdicts(self):
+        rows = assess.parse_rows('[{"n": 1, "relevant": true, "topics": [], "reason": "a", "confidence": "high"},\n{"n": 2, "relevant": fal')
+        self.assertEqual([r["n"] for r in rows], [1])
+
     def test_spending_cap_stops_the_run(self):
         c = llm.Client(0.0, transport=fake)
         with self.assertRaises(llm.CapReached):

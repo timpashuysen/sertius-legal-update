@@ -18,7 +18,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SCOPE_START = "2026-01-01"
 VERSION = 1
-BATCH = 40
+BATCH = 25
 TOPICS = ["soil", "environmental-law", "environmental-safety", "permitting", "energy-climate", "circular-products"]
 
 RULES = [
@@ -71,6 +71,24 @@ def describe(n, item):
     return "%d. [%s, %s, %s] %s%s" % (n, item["src"], item.get("level", ""), item.get("t", ""), title[:420], (" (" + extra + ")") if extra else "")
 
 
+def parse_rows(reply):
+    """The verdict objects in a reply; if the array is cut off, the complete objects before the cut."""
+    try:
+        return [r for r in llm.json_block(reply) if isinstance(r, dict) and "n" in r]
+    except ValueError:
+        rows = []
+        for m in re.finditer(r"\{[^{}]*\}", reply):
+            try:
+                r = json.loads(m.group(0))
+            except ValueError:
+                continue
+            if isinstance(r, dict) and "n" in r:
+                rows.append(r)
+        if not rows:
+            raise
+        return rows
+
+
 def assess(items, log, client, today, limit=2400):
     done = 0
     log.pop("last_error", None)
@@ -89,8 +107,8 @@ def assess(items, log, client, today, limit=2400):
     for a in range(0, min(len(rest), limit), BATCH):
         batch = rest[a:a + BATCH]
         try:
-            reply = client.ask(llm.MODELS["small"], SYSTEM, "\n".join(describe(n + 1, it) for n, it in enumerate(batch)), max_tokens=4000)
-            rows = {int(r["n"]): r for r in llm.json_block(reply) if isinstance(r, dict) and "n" in r}
+            reply = client.ask(llm.MODELS["small"], SYSTEM, "\n".join(describe(n + 1, it) for n, it in enumerate(batch)), max_tokens=6000)
+            rows = {int(r["n"]): r for r in parse_rows(reply)}
         except llm.CapReached:
             break
         except Exception as e:
