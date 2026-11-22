@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-22T07:27:12+00:00",
+ "ran": "2026-11-22T07:35:58+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 49,
    "backfilled_to": "2026-11-01",
-   "seconds": 6.8
+   "seconds": 6.1
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 12.1
+   "seconds": 10.8
   },
   "codex": {
    "ok": true,
@@ -24,21 +24,21 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 31.4
+   "seconds": 30.1
   },
   "wallex": {
    "ok": true,
-   "probed": 240,
-   "matched": 38,
-   "errors": 41,
+   "probed": 210,
+   "matched": 18,
+   "errors": 63,
    "next_new_id": 141944,
-   "known_ids_left": 605,
-   "seconds": 271.2
+   "known_ids_left": 600,
+   "seconds": 371.4
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.8
+   "seconds": 0.3
   }
  },
  "not_collected": {
@@ -63,19 +63,21 @@
    "failed": 0
   },
   "wallex": {
-   "saved": 4,
-   "failed": 0
+   "saved": 1,
+   "failed": 1,
+   "last_error": "URLError(TimeoutError('timed out'))"
   }
  },
- "texts_on_file": 276,
- "items_total": 4003,
- "items_new": 35,
+ "texts_on_file": 317,
+ "backlog": true,
+ "items_total": 4021,
+ "items_new": 18,
  "items_by_source": {
   "council": 1,
   "gwh": 475,
   "eurlex": 799,
   "codex": 2676,
-  "wallex": 52
+  "wallex": 70
  },
- "items_filed_for_site": 576
+ "items_filed_for_site": 578
 }
