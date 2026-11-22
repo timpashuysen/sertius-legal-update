@@ -238,24 +238,171 @@
 "by": "rule",
 "reason": "staff and appointments",
 "at": "2026-11-22"
+},
+"sb:2026201972": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026201952": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026007096": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007080": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007079": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007077": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007076": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007007": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026006949": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026006930": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026006929": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026006926": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026006540": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026006241": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026005820": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026005812": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026005627": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026005360": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026004812": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 5163,
-"assessed": 34,
-"waiting": 5129,
+"in_scope": 5186,
+"assessed": 53,
+"waiting": 5133,
 "relevant": 0,
 "not_relevant": 0,
-"excluded_by_rule": 34,
-"this_run": 34,
+"excluded_by_rule": 53,
+"this_run": 19,
 "api": {
 "calls": 0,
 "input_tokens": 0,
 "output_tokens": 0,
 "usd": 0.0
 },
-"key_present": false,
+"key_present": true,
+"updated": "2026-11-22"
+},
+"last_error": "API error 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"This API key is not scoped to a workspace, so this request must include the anthropic-workspace-id header with the ID ",
+"writer": {
+"this_run": 0,
+"found_not_relevant_on_reading": 0,
+"failed": 0,
+"waiting": 0,
+"api": {
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
+},
 "updated": "2026-11-22"
 }
 }
