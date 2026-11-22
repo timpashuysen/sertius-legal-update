@@ -632,6 +632,29 @@ def excerpt(txt, src="", cap=40000):
 TEXT_V = 5  # bump to store the texts of rulings, EU acts and Codex documents again
 
 
+def collect_rvvb(state, items):
+    """Rulings of the Raad voor Vergunningsbetwistingen and the Handhavingscollege.
+
+    dbrc.be refuses GitHub's servers, so the rulings are downloaded elsewhere by rvvb_fetch.py,
+    which keeps data/rvvb-index.json. This only turns the kept rulings into inbox items.
+    """
+    idx = load("rvvb-index.json", {"rulings": {}})
+    n = 0
+    for name, r in idx.get("rulings", {}).items():
+        if not r.get("kept") or not r.get("d"):
+            continue
+        ref = name[:-4]
+        court = "Handhavingscollege" if ref.upper().startswith("HHC") else "Raad voor Vergunningsbetwistingen"
+        title = "%s, arrest %s. %s" % (court, ref, r.get("subject", ""))
+        key = "rvvb:" + ref
+        if key not in items:
+            n += 1
+        items[key] = {"id": key, "src": "rvvb", "level": "VL", "t": "case", "d": r["d"], "title": {"nl": title.strip()},
+                      "url": r["url"], "ref": ref, "k": classify(title), "x": 1}
+    return {"ok": True, "new": n, "kept": sum(1 for r in idx.get("rulings", {}).values() if r.get("kept")),
+            "summary": idx.get("summary", {})}
+
+
 def save_texts(items, state, per_source=40, budget=240):
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
@@ -693,7 +716,7 @@ def main():
         state["sb_rules"] = SB_RULES
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb)):
         t0 = time.time()
         try:
             res = fn(state, items)
