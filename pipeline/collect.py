@@ -309,6 +309,72 @@ def collect_council(state, items):
     return {"ok": True, "matched": n}
 
 
+# ------------------------------------------------- official texts for the digest
+# The digest stage may run without web access, so the collector saves the opening
+# part of the official text of each keyword-filed item under data/text/.
+def text_name(item_id):
+    return re.sub(r"[^A-Za-z0-9]+", "_", item_id) + ".txt"
+
+
+def strip_html(raw):
+    import html as _html
+    t = raw.decode("utf-8", "replace") if isinstance(raw, bytes) else raw
+    t = re.sub(r"(?is)<(script|style|nav|header|footer)[^>]*>.*?</\\1>", " ", t)
+    t = re.sub(r"(?s)<[^>]+>", " ", t)
+    return re.sub(r"\s+", " ", _html.unescape(t)).strip()
+
+
+def fetch_text(it):
+    src = it["src"]
+    if src == "gwh":
+        _, raw = http(it["url"], timeout=60)
+        from pypdf import PdfReader
+        rd = PdfReader(io.BytesIO(raw))
+        n = len(rd.pages)
+        pages = list(range(min(5, n))) + ([n - 1] if n > 5 else [])
+        return re.sub(r"[ \t]+", " ", "\n".join((rd.pages[i].extract_text() or "") for i in pages))
+    if src == "wallex":
+        _, raw = http(it["url"], timeout=40)
+        return strip_html(raw)
+    if src == "eurlex":
+        _, raw = http("https://publications.europa.eu/resource/celex/" + urllib.parse.quote(it["ref"]),
+                      headers={"Accept": "text/html, application/xhtml+xml;q=0.9", "Accept-Language": "eng"}, timeout=60)
+        return strip_html(raw)
+    if src == "codex":
+        did = it["id"].split(":")[1]
+        _, raw = http(CODEX + "/" + did + "/VolledigDocument", timeout=40)
+        try:
+            return strip_html(json.dumps(json.loads(raw), ensure_ascii=False))
+        except Exception:
+            return strip_html(raw)
+    return ""
+
+
+def save_texts(items, per_source=40, budget=240):
+    tdir = DATA / "text"
+    tdir.mkdir(exist_ok=True)
+    t0 = time.time()
+    res = {}
+    todo = sorted((i for i in items.values() if i.get("k") and i["src"] in ("gwh", "wallex", "eurlex", "codex")),
+                  key=lambda i: i["d"], reverse=True)
+    for it in todo:
+        r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
+        f = tdir / text_name(it["id"])
+        if f.exists() or r["saved"] + r["failed"] >= per_source or r["failed"] >= 5 or time.time() - t0 > budget:
+            continue
+        try:
+            txt = fetch_text(it)
+            if len(txt) < 300:
+                raise ValueError("text too short (%d chars)" % len(txt))
+            f.write_text("SOURCE: %s\nTITLE: %s\n\n%s" % (it["url"], next(iter(it["title"].values())), txt[:9000]), "utf-8")
+            r["saved"] += 1
+        except Exception as e:
+            r["failed"] += 1
+            r["last_error"] = repr(e)[:200]
+        time.sleep(0.4)
+    return res
+
+
 # ------------------------------------------------------------- explore next
 def explore():
     out = {}
@@ -347,7 +413,11 @@ def main():
         "Bruxelles Environnement": "refuses connections from this server; read by the digest stage instead",
         "JUPORTAL": "robots.txt forbids automated access",
     }
-    status["explore"] = explore()
+    try:
+        status["texts"] = save_texts(items)
+    except Exception as e:
+        status["texts"] = {"error": repr(e)[:300]}
+    status["texts_on_file"] = len(list((DATA / "text").glob("*.txt"))) if (DATA / "text").exists() else 0
     out = sorted(items.values(), key=lambda i: (i["d"], i["id"]), reverse=True)
     status["items_total"] = len(out)
     status["items_new"] = len(out) - before
