@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:13:39Z",
+ "updated": "2026-11-22T16:28:05Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -926,6 +926,446 @@
    "inbox": [
     "wallex:133022",
     "wallex:133011"
+   ]
+  },
+  {
+   "id": "d-gwh-92-2026",
+   "d": "2026-07-16",
+   "j": [
+    "BE",
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Constitutional Court upholds Flemish protection strips along watercourses, with one reservation",
+   "a": "Judgment 92/2026 of 16 July 2026 rejects the action against the Flemish decree of 20 December 2024 on protection strips along watercourses, subject to an interpretation on compensation.",
+   "b": "The decree of 20 December 2024 amends the Integrated Water Policy Decree and the Manure Decree. It extends the existing use restrictions with protection strips along watercourses: three metres in area types 0 to 3, widened to five metres in area types 2 and 3 where nitrate-sensitive crops are grown, introduced in stages with a first part applying from 2025. A group of farmers and farm companies challenged these rules. The Court rejects the action, subject to the interpretation in B.8.8: it is for the ordinary court to decide whether the principle of equal burdens on citizens requires compensation, in particular where the strips have disproportionate effects on specific parcels, for instance because of their shape and because they border several watercourses. The Court also finds that the provision is not a plan or programme under Directive 2001/42/EC, so no environmental assessment and no public participation under Articles 7 and 8 of the Aarhus Convention were required. The complaint about the publication of the Flemish Hydrographic Atlas is inadmissible because the Atlas is not the subject of the action.",
+   "nl": [
+    "Grondwettelijk Hof bevestigt Vlaamse beschermingsstroken langs waterlopen, onder één voorbehoud",
+    "Arrest nr. 92/2026 van 16 juli 2026 verwerpt het beroep tegen het Vlaamse decreet van 20 december 2024 over beschermingsstroken langs waterlopen, onder voorbehoud van een interpretatie inzake schadevergoeding.",
+    "Het decreet van 20 december 2024 wijzigt het decreet integraal waterbeleid en het Mestdecreet. Het breidt de bestaande gebruiksbeperkingen uit met beschermingsstroken langs waterlopen: drie meter in de gebiedstypes 0 tot 3, uitgebreid tot vijf meter in de gebiedstypes 2 en 3 wanneer nitraatgevoelige gewassen worden verbouwd, gradueel ingevoerd met een eerste deel vanaf 2025. Een groep landbouwers en landbouwbedrijven vocht die regeling aan. Het Hof verwerpt het beroep, onder voorbehoud van de interpretatie vermeld in B.8.8: het komt de gewone rechter toe te oordelen of het beginsel van de gelijkheid van de burgers voor de openbare lasten een vergoeding vereist, in het bijzonder wanneer de stroken onevenredige gevolgen hebben voor specifieke percelen, bijvoorbeeld wegens hun vorm en omdat zij aan meerdere waterlopen grenzen. Het Hof oordeelt ook dat de bepaling geen plan of programma is in de zin van richtlijn 2001/42/EG, zodat geen milieubeoordeling en geen inspraak overeenkomstig de artikelen 7 en 8 van het Verdrag van Aarhus vereist waren. Het onderdeel over de bekendmaking van de Vlaamse Hydrografische Atlas is onontvankelijk omdat de Atlas niet het voorwerp van het beroep is."
+   ],
+   "fr": [
+    "La Cour constitutionnelle valide les bandes de protection flamandes le long des cours d'eau, sous une réserve",
+    "L'arrêt n° 92/2026 du 16 juillet 2026 rejette le recours dirigé contre le décret flamand du 20 décembre 2024 relatif aux bandes de protection le long des cours d'eau, sous réserve d'une interprétation relative à l'indemnisation.",
+    "Le décret du 20 décembre 2024 modifie le décret relatif à la politique intégrée de l'eau et le décret sur les engrais. Il complète les restrictions d'utilisation existantes par des bandes de protection le long des cours d'eau : trois mètres dans les types de zones 0 à 3, portées à cinq mètres dans les types de zones 2 et 3 lorsque des cultures sensibles aux nitrates sont pratiquées, introduites progressivement, une première partie s'appliquant à partir de 2025. Un groupe d'agriculteurs et d'exploitations agricoles a contesté ce régime. La Cour rejette le recours, sous réserve de l'interprétation mentionnée en B.8.8 : il appartient au juge ordinaire de décider si le principe de l'égalité des citoyens devant les charges publiques requiert une indemnisation, en particulier lorsque les bandes ont des effets disproportionnés sur certaines parcelles, par exemple en raison de leur forme et du fait qu'elles jouxtent plusieurs cours d'eau. La Cour juge également que la disposition n'est pas un plan ou programme au sens de la directive 2001/42/CE, de sorte qu'aucune évaluation environnementale ni participation du public au titre des articles 7 et 8 de la Convention d'Aarhus n'étaient requises. Le grief relatif à la publication de l'Atlas hydrographique flamand est irrecevable, l'Atlas n'étant pas l'objet du recours."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 92/2026",
+     "https://nl.const-court.be/public/n/2026/2026-092n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:92/2026"
+   ],
+   "replaces": [
+    "item-20260716-2"
+   ]
+  },
+  {
+   "id": "d-gwh-82-2026",
+   "d": "2026-07-02",
+   "j": [
+    "BE",
+    "WAL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Constitutional Court annuls Walloon citizen and local-authority participation duty for wind projects",
+   "a": "Judgment 82/2026 of 2 July 2026 annuls articles 5 and 6 of the Walloon decree of 29 April 2024, which amended the decree on the environmental permit.",
+   "b": "Article 5 of the decree required the developer of a wind turbine project to open it to participation by citizens and local authorities, with offers of at least 24.99% to each of the two groups, so that at least 49.98% in total was reserved for them ahead of other investors. Article 6 inserted article 86bis in the decree of 11 March 1999: where a project is incompatible with another project for which an information meeting was held less than two years earlier and does not reach 24.99% participation, a special procedure applies, and where the projects have comparable energy yield the larger participation decides. Energy companies and their federations challenged both articles. The Court accepts that the aim, speeding up the energy transition and increasing public support, is a compelling reason of general interest, but finds that the combination of the provisions disproportionately restricts the freedom to do business and the free movement of capital, in particular because the percentages are high and, unlike the 2013 and 2024 reference frameworks for wind energy, binding. It annuls articles 5 and 6 in full and does not examine the other pleas.",
+   "nl": [
+    "Grondwettelijk Hof vernietigt Waalse participatieplicht voor burgers en lokale besturen bij windprojecten",
+    "Arrest nr. 82/2026 van 2 juli 2026 vernietigt de artikelen 5 en 6 van het Waalse decreet van 29 april 2024 tot wijziging van het decreet betreffende de milieuvergunning.",
+    "Artikel 5 van het decreet verplichtte de ontwikkelaar van een windturbineproject zijn project open te stellen voor deelname van burgers en lokale besturen, met voorstellen van minstens 24,99 % aan elk van beide groepen, zodat minstens 49,98 % in totaal bij voorrang aan hen was voorbehouden ten opzichte van andere investeerders. Artikel 6 voegde artikel 86bis in het decreet van 11 maart 1999 in: wanneer een project onverenigbaar is met een ander project waarvoor minder dan twee jaar eerder een informatievergadering werd gehouden en geen deelname van 24,99 % bereikt, geldt een bijzondere procedure, en bij vergelijkbare energieopbrengst geeft de grootste deelname de doorslag. Energiebedrijven en hun federaties vochten beide artikelen aan. Het Hof aanvaardt dat de doelstelling, het versnellen van de energietransitie en het vergroten van het maatschappelijk draagvlak, een dwingende reden van algemeen belang is, maar oordeelt dat de combinatie van de bepalingen leidt tot een onevenredige beperking van de vrijheid van ondernemen en van het vrije kapitaalverkeer, met name omdat de percentages hoog zijn en, anders dan in de referentiekaders voor windenergie van 2013 en 2024, bindend. Het Hof vernietigt de artikelen 5 en 6 integraal en onderzoekt de andere middelen niet."
+   ],
+   "fr": [
+    "La Cour constitutionnelle annule l'obligation wallonne de participation des citoyens et des pouvoirs locaux dans les projets éoliens",
+    "L'arrêt n° 82/2026 du 2 juillet 2026 annule les articles 5 et 6 du décret wallon du 29 avril 2024 modifiant le décret relatif au permis d'environnement.",
+    "L'article 5 du décret obligeait le développeur d'un projet éolien à l'ouvrir à la participation des citoyens et des pouvoirs locaux, par des propositions d'au moins 24,99 % à chacun de ces deux groupes, de sorte qu'au moins 49,98 % au total leur étaient réservés par priorité par rapport à d'autres investisseurs potentiels. L'article 6 a inséré l'article 86bis dans le décret du 11 mars 1999 : lorsqu'un projet est incompatible avec un autre projet ayant fait l'objet d'une réunion d'information moins de deux ans auparavant et n'atteint pas 24,99 % de participation, une procédure particulière s'applique, et, à potentiel énergétique comparable, l'ampleur de la participation est déterminante. Des entreprises du secteur de l'énergie et leurs fédérations ont attaqué ces deux articles. La Cour admet que l'objectif, accélérer la transition énergétique et accroître l'adhésion sociale, constitue une raison impérieuse d'intérêt général, mais estime que la combinaison des dispositions entraîne une limitation disproportionnée de la liberté d'entreprendre et de la libre circulation des capitaux, notamment parce que les pourcentages sont élevés et, contrairement aux cadres de référence éolien de 2013 et 2024, contraignants. Elle annule les articles 5 et 6 dans leur ensemble et n'examine pas les autres moyens."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 82/2026",
+     "https://nl.const-court.be/public/n/2026/2026-082n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:82/2026"
+   ],
+   "replaces": [
+    "item-20260702-1"
+   ]
+  },
+  {
+   "id": "d-gwh-58-2026",
+   "d": "2026-05-13",
+   "j": [
+    "BE",
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Constitutional Court annuls the personal-data framework in the Flemish water and manure decree",
+   "a": "Judgment 58/2026 of 13 May 2026 annuls article 8 of the Flemish decree of 20 December 2024 because the Data Protection Authority was not consulted on it, and refuses to maintain its effects.",
+   "b": "Article 8 of the decree of 20 December 2024, which amended the Integrated Water Policy Decree and the Manure Decree, set a framework for all processing of personal data by the Flemish Land Agency under the Manure Decree; it entered into force on 1 January 2025. The Court finds that the proposal for the decree should have been submitted to the Data Protection Authority for an opinion under Article 36(4) of the GDPR. The fact that the provision builds on draft government decrees on which the Authority had advised does not change that, because the provision is wider than those drafts and differs from them on several points. The Court annuls article 8 and rejects the Flemish Government's request to maintain its effects, because the Government did not show concretely that retroactive annulment would cause considerable legal uncertainty and because Union law does not allow the Court to maintain provisions found contrary to it.",
+   "nl": [
+    "Grondwettelijk Hof vernietigt het kader voor persoonsgegevens in het Vlaamse water- en mestdecreet",
+    "Arrest nr. 58/2026 van 13 mei 2026 vernietigt artikel 8 van het Vlaamse decreet van 20 december 2024 omdat de Gegevensbeschermingsautoriteit er niet over is geraadpleegd, en handhaaft de gevolgen niet.",
+    "Artikel 8 van het decreet van 20 december 2024, dat het decreet integraal waterbeleid en het Mestdecreet wijzigt, bevatte een kaderregeling voor alle verwerkingen van persoonsgegevens door de Vlaamse Landmaatschappij in het kader van het Mestdecreet; het trad in werking op 1 januari 2025. Het Hof oordeelt dat het voorstel van decreet voor advies aan de Gegevensbeschermingsautoriteit had moeten worden voorgelegd overeenkomstig artikel 36, lid 4, van de AVG. Dat de bepaling voortbouwt op ontwerpen van besluit van de Vlaamse Regering waarover de Autoriteit adviseerde, verandert daar niets aan, aangezien de bepaling ruimer is dan die ontwerpen en er op meerdere punten van verschilt. Het Hof vernietigt artikel 8 en verwerpt het verzoek van de Vlaamse Regering om de gevolgen te handhaven, omdat de Regering niet concreet aannemelijk maakte dat de terugwerkende kracht van de vernietiging tot aanzienlijke rechtsonzekerheid zou leiden en omdat het Unierecht het Hof niet toelaat bepalingen te handhaven die ermee strijdig zijn bevonden."
+   ],
+   "fr": [
+    "La Cour constitutionnelle annule le cadre relatif aux données personnelles du décret flamand sur l'eau et les engrais",
+    "L'arrêt n° 58/2026 du 13 mai 2026 annule l'article 8 du décret flamand du 20 décembre 2024 faute de consultation de l'Autorité de protection des données, et ne maintient pas ses effets.",
+    "L'article 8 du décret du 20 décembre 2024, qui modifie le décret relatif à la politique intégrée de l'eau et le décret sur les engrais, établissait un cadre pour tous les traitements de données à caractère personnel effectués par la Vlaamse Landmaatschappij dans le cadre du décret sur les engrais ; il est entré en vigueur le 1er janvier 2025. La Cour juge que la proposition de décret aurait dû être soumise pour avis à l'Autorité de protection des données en vertu de l'article 36, paragraphe 4, du RGPD. Le fait que la disposition s'appuie sur des projets d'arrêté du Gouvernement flamand sur lesquels l'Autorité avait rendu un avis n'y change rien, la disposition étant plus large que ces projets et en différant sur plusieurs points. La Cour annule l'article 8 et rejette la demande du Gouvernement flamand de maintenir les effets, celui-ci n'ayant pas démontré concrètement que l'effet rétroactif de l'annulation créerait une insécurité juridique considérable, et le droit de l'Union ne permettant pas à la Cour de maintenir des dispositions jugées contraires à celui-ci."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 58/2026",
+     "https://nl.const-court.be/public/n/2026/2026-058n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:58/2026"
+   ],
+   "replaces": [
+    "item-20260513-1"
+   ]
+  },
+  {
+   "id": "d-gwh-53-2026",
+   "d": "2026-04-23",
+   "j": [
+    "BE",
+    "WAL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Constitutional Court partly annuls Walloon rules on updating environmental permits",
+   "a": "Judgment 53/2026 of 23 April 2026 annuls two provisions of the Walloon decree of 25 April 2024 that leave no administrative appeal when the authority misses its deadline in a permit update, and rejects the rest of the action.",
+   "b": "The action targeted the Walloon decree of 25 April 2024 amending various environmental decrees, which changed the decree of 11 March 1999 on the environmental permit and introduced an update procedure based on a synthesis report. The Court annuls article 40, § 11, first paragraph, of the 1999 decree to the extent that it opens no administrative appeal against a synthesis report proposing an update that allows the operation to continue, or against a synthesis report concluding that the update must be refused, or against the permit concerned, where the authority has not sent its decision within the allotted time or within 60 days of the reminder letter. It also annuls article 39/1, first paragraph, to the extent that it does not make the appeal procedure of article 95 applicable to requests to update the special operating conditions of integrated permits. The Court rejects the action for the rest, including the complaint that the new environmental-monitoring and complaint-register requirements are incompatible with the rights of access to administrative documents and environmental information: under the decree the operator keeps part II of the monitoring annex and the register, which are available on request of the authorities.",
+   "nl": [
+    "Grondwettelijk Hof vernietigt gedeeltelijk Waalse regels over de actualisering van milieuvergunningen",
+    "Arrest nr. 53/2026 van 23 april 2026 vernietigt twee bepalingen van het Waalse decreet van 25 april 2024 die geen administratief beroep openen wanneer de overheid bij een vergunningsactualisering haar termijn overschrijdt, en verwerpt het beroep voor het overige.",
+    "Het beroep was gericht tegen het Waalse decreet van 25 april 2024 tot wijziging van diverse decreten betreffende het leefmilieu, dat het decreet van 11 maart 1999 betreffende de milieuvergunning wijzigde en een actualiseringsprocedure op basis van een syntheserapport invoerde. Het Hof vernietigt artikel 40, § 11, eerste lid, van het decreet van 1999 in zoverre het geen administratief beroep opent tegen het syntheserapport dat een voorstel tot actualisering bevat en een voortzetting van de exploitatie mogelijk maakt, noch tegen het syntheserapport dat concludeert dat een actualisering moet worden geweigerd, noch tegen de betrokken milieuvergunning, indien de beslissing van de bevoegde overheid niet binnen de toegekende termijn of binnen 60 dagen na de herinneringsbrief is verzonden. Het vernietigt ook artikel 39/1, eerste lid, in zoverre het de beroepsprocedure van artikel 95 niet toepasselijk maakt op aanvragen tot actualisering van de bijzondere exploitatievoorwaarden van geïntegreerde vergunningen. Het Hof verwerpt het beroep voor het overige, ook het bezwaar dat de nieuwe verplichtingen inzake milieumonitoring en klachtenregister onverenigbaar zijn met het recht op toegang tot bestuursdocumenten en milieu-informatie: volgens het decreet bewaart de exploitant deel II van de monitoringbijlage en het register, die op verzoek van de overheid beschikbaar zijn."
+   ],
+   "fr": [
+    "La Cour constitutionnelle annule partiellement les règles wallonnes sur l'actualisation des permis d'environnement",
+    "L'arrêt n° 53/2026 du 23 avril 2026 annule deux dispositions du décret wallon du 25 avril 2024 qui n'ouvrent aucun recours administratif lorsque l'autorité dépasse son délai lors d'une actualisation de permis, et rejette le recours pour le surplus.",
+    "Le recours visait le décret wallon du 25 avril 2024 modifiant divers décrets relatifs à l'environnement, qui a modifié le décret du 11 mars 1999 relatif au permis d'environnement et instauré une procédure d'actualisation fondée sur un rapport de synthèse. La Cour annule l'article 40, § 11, alinéa 1er, du décret de 1999 en ce qu'il n'ouvre pas de recours administratif contre le rapport de synthèse proposant une actualisation et permettant la poursuite de l'exploitation, ni contre le rapport de synthèse concluant à un refus d'actualisation, ni contre le permis d'environnement concerné, lorsque la décision de l'autorité compétente n'a pas été envoyée dans le délai imparti ou dans les 60 jours de la réception du rappel. Elle annule également l'article 39/1, alinéa 1er, en ce qu'il ne rend pas la procédure de recours de l'article 95 applicable aux demandes d'actualisation des conditions d'exploitation particulières des permis uniques. La Cour rejette le recours pour le surplus, y compris le grief selon lequel les nouvelles obligations de monitoring environnemental et de registre des plaintes sont incompatibles avec le droit d'accès aux documents administratifs et à l'information environnementale : selon le décret, l'exploitant conserve la partie II de l'annexe de monitoring et le registre, accessibles sur demande des autorités."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 53/2026",
+     "https://nl.const-court.be/public/n/2026/2026-053n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:53/2026"
+   ],
+   "replaces": [
+    "item-20260423-2"
+   ]
+  },
+  {
+   "id": "d-gwh-122-2025",
+   "d": "2025-09-18",
+   "j": [
+    "BE",
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Constitutional Court annuls Flemish rule on who carries out EIA screening for projects of municipalities and provinces",
+   "a": "Judgment 122/2025 of 18 September 2025 annuls article 5 of the Flemish decree of 19 April 2024 on the performance of project-EIA screening tasks, and does not maintain its effects.",
+   "b": "The applicants argued that the provision breaches Articles 10 and 11 of the Constitution read with Article 9bis of Directive 2011/92/EU, because it does not provide an appropriate separation of conflicting functions where the municipal executive (college van burgemeester en schepenen) or the provincial deputation is both initiator and applicant of a project for which only a project-EIA screening note is added to the application, and is also the authority that receives and decides on the permit application. The Court annuls article 5 of the decree of 19 April 2024 amending the Environmental Permit Decree. It rejects the request to maintain the effects, because the considerations given do not show considerable legal uncertainty and the possible effect on permits already issued or pending procedures does not justify it. The Court adds that the Council for Permit Disputes can still maintain the legal effects of a permit granted under the annulled provision, under article 36 of the decree of 4 April 2014, where necessary after a preliminary question to the Court of Justice.",
+   "nl": [
+    "Grondwettelijk Hof vernietigt Vlaamse regeling over wie de project-m.e.r.-screening uitvoert bij projecten van gemeenten en provincies",
+    "Arrest nr. 122/2025 van 18 september 2025 vernietigt artikel 5 van het Vlaamse decreet van 19 april 2024 over de uitvoering van de taken voor de project-m.e.r.-screening, en handhaaft de gevolgen niet.",
+    "De verzoekende partijen voerden aan dat de bepaling de artikelen 10 en 11 van de Grondwet, in samenhang gelezen met artikel 9bis van richtlijn 2011/92/EU, schendt, omdat zij niet voorziet in een passende scheiding tussen conflicterende functies wanneer het college van burgemeester en schepenen of de deputatie initiatiefnemer en aanvrager is van een project waarbij louter een project-m.e.r.-screeningsnota aan de aanvraag wordt toegevoegd, en tevens de instantie is die de vergunningsaanvraag ontvangt en erover beslist. Het Hof vernietigt artikel 5 van het decreet van 19 april 2024 tot wijziging van het decreet betreffende de omgevingsvergunning. Het verwerpt het verzoek tot handhaving van de gevolgen, omdat de aangevoerde overwegingen geen aanzienlijke rechtsonzekerheid aantonen en de mogelijke impact op reeds afgeleverde vergunningen of lopende procedures dat niet verantwoordt. Het Hof voegt toe dat de Raad voor Vergunningsbetwistingen op grond van artikel 36 van het decreet van 4 april 2014 de rechtsgevolgen van een vergunning die met toepassing van de vernietigde bepaling is verleend, nog in stand kan houden, desgevallend na een prejudiciële vraag aan het Hof van Justitie."
+   ],
+   "fr": [
+    "La Cour constitutionnelle annule la règle flamande sur l'exécution du screening EIE pour les projets des communes et provinces",
+    "L'arrêt n° 122/2025 du 18 septembre 2025 annule l'article 5 du décret flamand du 19 avril 2024 relatif à l'exécution des tâches de screening EIE de projet, et ne maintient pas ses effets.",
+    "Les parties requérantes soutenaient que la disposition viole les articles 10 et 11 de la Constitution, combinés avec l'article 9bis de la directive 2011/92/UE, en ce qu'elle ne prévoit pas de séparation appropriée des fonctions conflictuelles lorsque le collège des bourgmestre et échevins ou la députation est l'initiateur et le demandeur d'un projet pour lequel seule une note de screening EIE de projet est jointe à la demande, et est en même temps l'autorité qui reçoit la demande de permis et statue sur celle-ci. La Cour annule l'article 5 du décret du 19 avril 2024 modifiant le décret relatif au permis d'environnement. Elle rejette la demande de maintien des effets, les considérations avancées ne démontrant pas une insécurité juridique considérable et l'incidence éventuelle sur des permis déjà délivrés ou des procédures en cours ne le justifiant pas. La Cour ajoute que le Conseil pour les contestations des autorisations peut encore maintenir les effets juridiques d'un permis délivré en application de la disposition annulée, en vertu de l'article 36 du décret du 4 avril 2014, le cas échéant après une question préjudicielle à la Cour de justice."
+   ],
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 122/2025",
+     "https://nl.const-court.be/public/n/2025/2025-122n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:122/2025"
+   ],
+   "replaces": [
+    "item-20250918-1"
+   ]
+  },
+  {
+   "id": "d-codex-1041521",
+   "d": "2025-11-21",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Flanders amends the permit decree after the Constitutional Court annulled the EIA screening rule",
+   "a": "The Flemish decree of 21 November 2025 amends the Environmental Permit Decree on avoiding conflicts of interest where a municipality or province applies for a permit, with effect from 19 September 2025.",
+   "b": "The decree amends articles 15/1, 20 and 39 of the decree of 25 April 2014 on the environmental permit, the first of which was partly annulled by Constitutional Court judgment 122/2025 of 18 September 2025. The condition in article 15/1, points 1°, now reads that a project-EIA report or project-EIA screening is drawn up and that no exemption from the reporting obligation was obtained. Articles 20 and 39 now refer to article 4.3.6, §1, of the Decree on General Provisions on Environmental Policy (DABM), speak of a project-EIA screening instead of a screening note, and require the competent authority or official to give reasons for the decision in line with article 4.3.6, §2, second and third paragraphs, of the DABM. Their second paragraphs are repealed, as are articles 113 and 118 of the decree of 17 May 2024 on environmental impact assessment. The decree takes effect on 19 September 2025, except articles 4 and 6, which apply from 1 December 2025.",
+   "nl": [
+    "Vlaanderen past het omgevingsvergunningsdecreet aan nadat het Grondwettelijk Hof de m.e.r.-screeningsregel vernietigde",
+    "Het Vlaamse decreet van 21 november 2025 wijzigt het decreet betreffende de omgevingsvergunning inzake het vermijden van een belangenconflict wanneer een gemeente of provincie een vergunning aanvraagt, met uitwerking vanaf 19 september 2025.",
+    "Het decreet wijzigt de artikelen 15/1, 20 en 39 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, waarvan het eerste gedeeltelijk werd vernietigd bij arrest 122/2025 van het Grondwettelijk Hof van 18 september 2025. De voorwaarde in artikel 15/1, punt 1°, luidt nu dat voor het project een milieueffectrapport of project-m.e.r.-screening wordt opgesteld en dat er geen ontheffing van de rapportageverplichting is verkregen. De artikelen 20 en 39 verwijzen nu naar artikel 4.3.6, §1, van het decreet houdende algemene bepalingen inzake milieubeleid (DABM), spreken van een project-m.e.r.-screening in plaats van een screeningsnota, en verplichten de bevoegde overheid of ambtenaar de beslissing te motiveren overeenkomstig artikel 4.3.6, §2, tweede en derde lid, van het DABM. De tweede leden ervan worden opgeheven, evenals de artikelen 113 en 118 van het decreet van 17 mei 2024 betreffende de milieueffectrapportage. Het decreet heeft uitwerking met ingang van 19 september 2025, met uitzondering van de artikelen 4 en 6, die van kracht worden op 1 december 2025."
+   ],
+   "fr": [
+    "La Flandre modifie le décret sur le permis d'environnement après l'annulation par la Cour constitutionnelle de la règle sur le screening EIE",
+    "Le décret flamand du 21 novembre 2025 modifie le décret relatif au permis d'environnement afin d'éviter les conflits d'intérêts lorsqu'une commune ou une province demande un permis, avec effet au 19 septembre 2025.",
+    "Le décret modifie les articles 15/1, 20 et 39 du décret du 25 avril 2014 relatif au permis d'environnement, dont le premier a été partiellement annulé par l'arrêt n° 122/2025 de la Cour constitutionnelle du 18 septembre 2025. La condition de l'article 15/1, point 1°, prévoit désormais qu'un rapport d'incidences environnementales ou un screening EIE de projet est établi et qu'aucune dispense de l'obligation de rapport n'a été obtenue. Les articles 20 et 39 renvoient désormais à l'article 4.3.6, § 1er, du décret relatif aux dispositions générales en matière de politique de l'environnement (DABM), parlent d'un screening EIE de projet au lieu d'une note de screening, et obligent l'autorité ou le fonctionnaire compétent à motiver la décision conformément à l'article 4.3.6, § 2, alinéas 2 et 3, du DABM. Leurs alinéas 2 sont abrogés, de même que les articles 113 et 118 du décret du 17 mai 2024 relatif à l'évaluation des incidences sur l'environnement. Le décret produit ses effets le 19 septembre 2025, sauf les articles 4 et 6, qui entrent en vigueur le 1er décembre 2025."
+   ],
+   "u": [
+    [
+     "Decreet van 21 november 2025 (omgevingsvergunning, belangenconflict)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041521&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041521"
+   ],
+   "replaces": [
+    "item-20251121-1"
+   ]
+  },
+  {
+   "id": "d-sb-2026007778",
+   "d": "2026-10-27",
+   "j": [
+    "BRU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Brussels reforms the Regional Development Commission and advisory deadlines in the planning code",
+   "a": "The Brussels ordinance of 22 October 2026 amends the Brussels Spatial Planning Code (BWRO/CoBAT) on the composition and working of the Regional Development Commission and on the Royal Commission for Monuments and Sites.",
+   "b": "The Regional Commission will have at least ten independent experts appointed by the Government, instead of eighteen, plus representatives of advisory commissions listed by the Government, who are mandated to defend their commission's position. Experts are appointed for six years and half of them are renewed every three years; the outgoing commission stays in place until the new members are published. Where an opinion is requested between 1 July and 15 August, the deadline is extended by 30 days, for both the Regional Commission and the Royal Commission. At the Government's request the Regional Commission comments on plans and regulations, and it may do so on its own initiative. For the Royal Commission, the opinion no longer needs to be a binding (conforming) opinion, and when its deadline passes the procedure continues without taking a late opinion into account instead of the opinion being deemed positive. In the plan procedure of article 18, the Brussels Environment Institute has sixty days to give its opinion, and the Economic and Social Council, the Royal Commission, the Environment Council, the Regional Mobility Commission, the Housing Advisory Council and other bodies listed by the Government have sixty days to send theirs to the Regional Commission, which does not take later opinions into account.",
+   "nl": [
+    "Brussel hervormt de Gewestelijke Ontwikkelingscommissie en de adviestermijnen in het ruimtelijkeordeningswetboek",
+    "De Brusselse ordonnantie van 22 oktober 2026 wijzigt het Brussels Wetboek van Ruimtelijke Ordening (BWRO) inzake de samenstelling en de werking van de Gewestelijke Ontwikkelingscommissie en de Koninklijke Commissie voor Monumenten en Landschappen.",
+    "De Gewestelijke Commissie telt voortaan minstens tien onafhankelijke experten, benoemd door de Regering, in plaats van achttien, aangevuld met vertegenwoordigers van adviescommissies waarvan de Regering de lijst bepaalt en die gemachtigd worden het standpunt van hun commissie te verdedigen. De experten worden benoemd voor zes jaar en de helft wordt om de drie jaar vernieuwd; de uittredende commissie blijft in functie tot de nieuwe leden zijn bekendgemaakt. Wanneer tussen 1 juli en 15 augustus om advies wordt verzocht, wordt de adviestermijn met 30 dagen verlengd, zowel voor de Gewestelijke Commissie als voor de Koninklijke Commissie. Op verzoek van de Regering formuleert de Gewestelijke Commissie opmerkingen over plannen en verordeningen, en zij kan dat ook op eigen initiatief doen. Voor de Koninklijke Commissie hoeft het advies niet langer conform (eensluidend) te zijn, en na het verstrijken van de termijn wordt de procedure voortgezet zonder een laat advies in aanmerking te nemen, in plaats van het advies positief te achten. In de planprocedure van artikel 18 heeft het Brussels Instituut voor Milieubeheer zestig dagen om advies uit te brengen, en hebben de Economische en Sociale Raad, de Koninklijke Commissie, de Raad voor het Leefmilieu, de Gewestelijke Mobiliteitscommissie, de Adviesraad voor Huisvesting en andere door de Regering aangewezen organen zestig dagen om het hunne aan de Gewestelijke Commissie over te maken; die houdt geen rekening met latere adviezen."
+   ],
+   "fr": [
+    "Bruxelles réforme la Commission régionale de développement et les délais d'avis dans le code de l'aménagement du territoire",
+    "L'ordonnance bruxelloise du 22 octobre 2026 modifie le Code bruxellois de l'aménagement du territoire (CoBAT) en ce qui concerne la composition et le fonctionnement de la Commission régionale de développement et de la Commission royale des Monuments et des Sites.",
+    "La Commission régionale sera composée d'au moins dix experts indépendants nommés par le Gouvernement, au lieu de dix-huit, ainsi que de représentants de commissions consultatives dont le Gouvernement arrête la liste et qui sont mandatés pour défendre la position de leur commission. Les experts sont nommés pour six ans et renouvelés pour moitié tous les trois ans ; la commission sortante reste en place jusqu'à la publication des nouveaux membres. Lorsqu'un avis est demandé entre le 1er juillet et le 15 août, le délai pour le rendre est prolongé de 30 jours, tant pour la Commission régionale que pour la Commission royale. À la demande du Gouvernement, la Commission régionale formule des observations sur les plans et règlements, et peut le faire d'initiative. Pour la Commission royale, l'avis n'a plus à être un avis conforme et, à l'expiration du délai, la procédure se poursuit sans tenir compte d'un avis tardif, au lieu que l'avis soit réputé favorable. Dans la procédure d'élaboration des plans de l'article 18, Bruxelles Environnement dispose de soixante jours pour rendre son avis, et le Conseil économique et social, la Commission royale, le Conseil de l'Environnement, la Commission régionale de la mobilité, le Conseil consultatif du logement et d'autres organes listés par le Gouvernement disposent de soixante jours pour remettre le leur à la Commission régionale, qui ne tient pas compte des avis tardifs."
+   ],
+   "u": [
+    [
+     "Ordonnance du 22 octobre 2026 (CoBAT)",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-27&numac=2026007778"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007778"
+   ]
+  },
+  {
+   "id": "d-eu-32026l0288",
+   "d": "2026-02-09",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Commission allows processed manure fertilisers above the 170 kg nitrogen limit under the Nitrates Directive",
+   "a": "Directive (EU) 2026/288 of 9 February 2026 amends Annex III of the Nitrates Directive so that Member States may authorise certain processed manure fertilisers (RENURE) up to an extra 80 kg N per hectare per year above the 170 kg limit.",
+   "b": "Member States may authorise this extra amount only if all conditions are met. The livestock manure component must have been treated to raise its mineral nitrogen share, producing an ammonium salt from air scrubbing, a mineral concentrate from reverse osmosis, or struvite. The material must be of consistent quality, with at least 90% of total nitrogen in mineral form or an organic carbon to total nitrogen ratio of no more than 3, and may not exceed 300 mg/kg dry matter of copper and 800 mg/kg of zinc. Material with more than 1% organic carbon must meet limits for Salmonella and Escherichia coli or enterococci. Member States must apply strict quality standards for production installations. The recitals add that Member States must closely monitor the effect on livestock numbers and manure production, and prevent any increase where manure nitrogen already exceeds or risks exceeding 170 kg per hectare of agricultural area. The directive enters into force on the twentieth day after its publication on 10 February 2026, and Member States must transpose it by 2 March 2028.",
+   "nl": [
+    "Commissie staat verwerkte mestmeststoffen boven de limiet van 170 kg stikstof toe onder de Nitraatrichtlijn",
+    "Richtlijn (EU) 2026/288 van 9 februari 2026 wijzigt bijlage III bij de Nitraatrichtlijn zodat lidstaten bepaalde verwerkte mestmeststoffen (RENURE) mogen toestaan tot 80 kg N per hectare per jaar bovenop de limiet van 170 kg.",
+    "Lidstaten mogen dit extra bedrag alleen toestaan als aan alle voorwaarden is voldaan. Het mestbestanddeel moet zijn behandeld om het aandeel mineraal stikstof te verhogen, wat resulteert in een ammoniumzout uit luchtwassing, een mineraal concentraat uit omgekeerde osmose of struviet. Het materiaal moet van consistente kwaliteit zijn, met minstens 90 % van de totale stikstof in mineraalvorm of een verhouding organisch gebonden koolstof tot totale stikstof van ten hoogste 3, en mag niet meer bevatten dan 300 mg/kg droge stof koper en 800 mg/kg zink. Materiaal met meer dan 1 % organische koolstof moet voldoen aan grenswaarden voor Salmonella en Escherichia coli of enterococcen. Lidstaten moeten strikte kwaliteitsnormen toepassen voor productie-installaties. Volgens de overwegingen moeten lidstaten het effect op veestapel en mestproductie nauwgezet opvolgen en een stijging voorkomen waar de mest-stikstof per hectare landbouwareaal al meer dan 170 kg bedraagt of dreigt te bedragen. De richtlijn treedt in werking op de twintigste dag na de bekendmaking op 10 februari 2026 en lidstaten moeten ze uiterlijk op 2 maart 2028 omzetten."
+   ],
+   "fr": [
+    "La Commission autorise les engrais issus de lisier transformé au-delà de la limite de 170 kg d'azote dans la directive Nitrates",
+    "La directive (UE) 2026/288 du 9 février 2026 modifie l'annexe III de la directive Nitrates afin que les États membres puissent autoriser certains engrais issus d'effluents d'élevage transformés (RENURE) jusqu'à 80 kg N supplémentaires par hectare et par an au-delà de la limite de 170 kg.",
+    "Les États membres ne peuvent autoriser ce supplément que si toutes les conditions sont remplies. La composante effluents d'élevage doit avoir subi un traitement qui accroît la part d'azote minéral, donnant un sel d'ammonium issu du lavage d'air, un concentré minéral issu de l'osmose inverse ou de la struvite. La matière doit être de qualité constante, avec au moins 90 % de l'azote total sous forme minérale ou un rapport carbone organique/azote total d'au plus 3, et ne peut dépasser 300 mg/kg de matière sèche de cuivre ni 800 mg/kg de zinc. Les matières contenant plus de 1 % de carbone organique doivent respecter des limites pour Salmonella et Escherichia coli ou les entérocoques. Les États membres doivent appliquer des normes de qualité strictes aux installations de production. Selon les considérants, ils doivent suivre de près l'effet sur le cheptel et la production d'effluents, et empêcher toute augmentation là où l'azote des effluents dépasse ou risque de dépasser 170 kg par hectare de surface agricole. La directive entre en vigueur le vingtième jour suivant sa publication du 10 février 2026 et doit être transposée au plus tard le 2 mars 2028."
+   ],
+   "u": [
+    [
+     "Commission Directive (EU) 2026/288",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0288"
+    ]
+   ],
+   "inbox": [
+    "eu:32026L0288"
+   ]
+  },
+  {
+   "id": "d-eu-32026l0805",
+   "d": "2026-03-30",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "EU amends the Water Framework, Groundwater and Environmental Quality Standards Directives",
+   "a": "Directive (EU) 2026/805 of 30 March 2026, published on 20 April 2026, amends Directives 2000/60/EC, 2006/118/EC and 2008/105/EC on surface water and groundwater.",
+   "b": "The amendments to the Water Framework Directive add definitions of good surface water chemical status, priority hazardous substances, river basin specific pollutants, effect-based trigger values and deterioration of the status of a body of water, the latter meaning the lowering of one quality element by one class even where the overall classification does not fall. Good chemical status now also requires that effect-based trigger values, where available, are not exceeded. Article 4 sets the objective of good status at the latest 15 years after the directive's entry into force, subject to extensions and exemptions, and keeps the duty to prevent deterioration. In Directive 2008/105/EC the Commission must review the list of river basin specific pollutants and their standards by 11 May 2032 and every six years after that. A new annex lists substances to be reviewed for possible identification as priority substances: the sum of bisphenols and selected pesticides and pharmaceuticals grouped by mode of action.",
+   "nl": [
+    "EU wijzigt de Kaderrichtlijn Water, de Grondwaterrichtlijn en de richtlijn milieukwaliteitsnormen",
+    "Richtlijn (EU) 2026/805 van 30 maart 2026, bekendgemaakt op 20 april 2026, wijzigt de richtlijnen 2000/60/EG, 2006/118/EG en 2008/105/EG inzake oppervlaktewater en grondwater.",
+    "De wijzigingen van de Kaderrichtlijn Water voegen definities toe van goede chemische toestand van oppervlaktewater, prioritaire gevaarlijke stoffen, specifieke verontreinigende stoffen voor het stroomgebied, effectgebaseerde triggerwaarden en achteruitgang van de toestand van een waterlichaam, waarbij dat laatste de verlaging van één kwaliteitselement met één klasse betekent, ook als de algemene indeling niet daalt. Een goede chemische toestand vereist nu ook dat effectgebaseerde triggerwaarden, waar beschikbaar, niet worden overschreden. Artikel 4 stelt als doelstelling een goede toestand uiterlijk 15 jaar na de inwerkingtreding van de richtlijn, onder voorbehoud van verlengingen en uitzonderingen, en behoudt de plicht achteruitgang te voorkomen. In richtlijn 2008/105/EG moet de Commissie de lijst van stroomgebiedspecifieke verontreinigende stoffen en hun normen uiterlijk op 11 mei 2032 en vervolgens om de zes jaar herzien. Een nieuwe bijlage vermeldt stoffen die worden onderzocht voor mogelijke aanwijzing als prioritaire stof: de som van bisfenolen en geselecteerde pesticiden en geneesmiddelen, gegroepeerd naar werkingsmechanisme."
+   ],
+   "fr": [
+    "L'UE modifie la directive-cadre sur l'eau, la directive sur les eaux souterraines et la directive sur les normes de qualité environnementale",
+    "La directive (UE) 2026/805 du 30 mars 2026, publiée le 20 avril 2026, modifie les directives 2000/60/CE, 2006/118/CE et 2008/105/CE relatives aux eaux de surface et aux eaux souterraines.",
+    "Les modifications de la directive-cadre sur l'eau ajoutent des définitions du bon état chimique des eaux de surface, des substances dangereuses prioritaires, des polluants spécifiques à un bassin hydrographique, des valeurs seuils fondées sur les effets et de la détérioration de l'état d'une masse d'eau, cette dernière s'entendant de l'abaissement d'un élément de qualité d'une classe, même si le classement global ne baisse pas. Le bon état chimique exige désormais aussi que les valeurs seuils fondées sur les effets, lorsqu'elles existent, ne soient pas dépassées. L'article 4 fixe l'objectif de bon état au plus tard 15 ans après l'entrée en vigueur de la directive, sous réserve de prorogations et de dérogations, et maintient l'obligation d'éviter la détérioration. Dans la directive 2008/105/CE, la Commission doit réexaminer la liste des polluants spécifiques à un bassin hydrographique et leurs normes au plus tard le 11 mai 2032, puis tous les six ans. Une nouvelle annexe énumère les substances examinées en vue d'une éventuelle identification comme substances prioritaires : la somme des bisphénols et des pesticides et médicaments sélectionnés, regroupés par mode d'action."
+   ],
+   "u": [
+    [
+     "Directive (EU) 2026/805",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0805"
+    ]
+   ],
+   "inbox": [
+    "eu:32026L0805"
+   ],
+   "replaces": [
+    "item-20260326-2"
+   ]
+  },
+  {
+   "id": "d-codex-1041558",
+   "d": "2025-11-28",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "soil"
+   ],
+   "h": "Flanders moves soil certificates to the Real Estate Information Platform, with set fees",
+   "a": "A Flemish Government decree of 28 November 2025 adds the soil certificate (bodemattest) as a product on the Vastgoedinformatieplatform (VIP) and amends the VLAREBO decree, with effect from 1 January 2026.",
+   "b": "The Flemish Data Utility Company offers the soil certificate through the VIP, containing the data listed in article 5, §3, of the Soil Decree, which OVAM makes available as supplying entity. The platform fee is 5 euro excluding VAT per parcel, per contiguous part of ground without a parcel number within one municipality, or per part of a parcel; from the eleventh parcel in the same application and transfer it is zero. The fee is indexed each 1 January. Under the amended VLAREBO decree, a request for a soil certificate is inadmissible unless made through the VIP, and professional applicants must use that route. Certificates for which the fee is 0 euro under the Flemish Housing Code decree are still requested from OVAM. The source fee for issuing a certificate on request is 67 euro per parcel, 67 euro per contiguous part of ground without parcel number, and 269 euro per part of a parcel, and is indexed annually on 1 January.",
+   "nl": [
+    "Vlaanderen brengt bodemattesten onder op het Vastgoedinformatieplatform, met vaste retributies",
+    "Een besluit van de Vlaamse Regering van 28 november 2025 voegt het bodemattest toe als product op het Vastgoedinformatieplatform (VIP) en wijzigt het VLAREBO-besluit, met ingang van 1 januari 2026.",
+    "Het Vlaams Datanutsbedrijf biedt het bodemattest aan via het VIP, met de gegevens vermeld in artikel 5, §3, van het Bodemdecreet, die de OVAM als aanleverende entiteit ontsluit. De platformretributie bedraagt 5 euro exclusief btw per perceel, per aaneengesloten deel grond zonder perceelnummer binnen één gemeente of per deel van een perceel; vanaf het elfde perceel in dezelfde aanvraag en overdracht bedraagt ze nul. De retributie wordt jaarlijks op 1 januari geïndexeerd. Volgens het gewijzigde VLAREBO-besluit is een aanvraag van een bodemattest niet-ontvankelijk als ze niet via het VIP gebeurt, en professionele aanvragers moeten die weg volgen. Bodemattesten waarvoor de retributie 0 euro bedraagt volgens het Besluit Vlaamse Codex Wonen 2021 worden nog bij de OVAM aangevraagd. De bronretributie voor de uitreiking van een bodemattest op aanvraag bedraagt 67 euro per perceel, 67 euro per aaneengesloten deel grond zonder perceelnummer en 269 euro per deel van een perceel, en wordt jaarlijks op 1 januari geïndexeerd."
+   ],
+   "fr": [
+    "La Flandre place les attestations de sol sur la plateforme d'information immobilière, avec des redevances fixées",
+    "Un arrêté du Gouvernement flamand du 28 novembre 2025 ajoute l'attestation de sol (bodemattest) comme produit de la plateforme d'information immobilière (VIP) et modifie l'arrêté VLAREBO, avec effet au 1er janvier 2026.",
+    "Le Vlaams Datanutsbedrijf propose l'attestation de sol via le VIP, avec les données visées à l'article 5, § 3, du décret sur les sols, que l'OVAM met à disposition en tant qu'entité fournisseuse. La redevance de plateforme s'élève à 5 euros hors TVA par parcelle, par partie contiguë de terrain sans numéro de parcelle dans une commune ou par partie de parcelle ; à partir de la onzième parcelle d'une même demande et d'un même transfert, elle est nulle. Elle est indexée chaque 1er janvier. Selon l'arrêté VLAREBO modifié, une demande d'attestation de sol est irrecevable si elle n'est pas introduite via le VIP, et les demandeurs professionnels doivent emprunter cette voie. Les attestations pour lesquelles la redevance est de 0 euro en vertu de l'arrêté Code flamand du Logement 2021 restent demandées à l'OVAM. La redevance de source pour la délivrance d'une attestation de sol sur demande s'élève à 67 euros par parcelle, 67 euros par partie contiguë de terrain sans numéro de parcelle et 269 euros par partie de parcelle, et est indexée annuellement au 1er janvier."
+   ],
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering van 28 november 2025 (bodemattest op het VIP)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041558&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041558"
+   ]
+  },
+  {
+   "id": "d-codex-1041231",
+   "d": "2025-09-05",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "soil"
+   ],
+   "h": "Flanders withdraws its temporary PFAS framework for soil materials and PFAS-contaminated soil",
+   "a": "A Flemish Government decree of 5 September 2025 withdraws the decree of 7 July 2023 that set a temporary framework for using PFAS-containing soil materials and for the remediation criterion for PFAS-contaminated soil.",
+   "b": "The decree consists of a single operative provision withdrawing the decree of 7 July 2023, which set a temporary action framework for the use of PFAS-containing soil materials and for applying the remediation criterion of article 19, §1, of the Soil Decree to PFAS-contaminated soil. It entered into force on the day after publication in the Belgian Official Gazette, so on 25 September 2025. The Council of State did not give an advice on the draft, and an action for annulment of the decree is pending before the Council of State (case G/A 246.516/VII-43.092). The decree does not state what replaces the withdrawn framework.",
+   "nl": [
+    "Vlaanderen trekt zijn tijdelijk PFAS-handelingskader voor bodemmaterialen en PFAS-houdende bodem in",
+    "Een besluit van de Vlaamse Regering van 5 september 2025 trekt het besluit van 7 juli 2023 in dat een tijdelijk handelingskader vaststelde voor het gebruik van PFAS-houdende bodemmaterialen en voor het saneringscriterium voor PFAS-houdende bodem.",
+    "Het besluit bestaat uit één bepaling die het besluit van 7 juli 2023 intrekt, dat een tijdelijk handelingskader vaststelde voor het gebruik van PFAS-houdende bodemmaterialen en voor de invulling van het saneringscriterium van artikel 19, §1, van het Bodemdecreet voor PFAS-houdende bodem. Het trad in werking op de dag na de bekendmaking in het Belgisch Staatsblad, dus op 25 september 2025. De Raad van State heeft geen advies gegeven over het ontwerp, en tegen het besluit is een beroep tot nietigverklaring hangend bij de Raad van State (zaak G/A 246.516/VII-43.092). Het besluit bepaalt niet wat het ingetrokken kader vervangt."
+   ],
+   "fr": [
+    "La Flandre retire son cadre d'action temporaire pour les matériaux de sol contenant des PFAS et les sols contaminés par des PFAS",
+    "Un arrêté du Gouvernement flamand du 5 septembre 2025 retire l'arrêté du 7 juillet 2023 qui fixait un cadre d'action temporaire pour l'utilisation de matériaux de sol contenant des PFAS et pour le critère d'assainissement des sols contaminés par des PFAS.",
+    "L'arrêté se compose d'une seule disposition retirant l'arrêté du 7 juillet 2023, qui fixait un cadre d'action temporaire pour l'utilisation de matériaux de sol contenant des PFAS et pour l'application du critère d'assainissement de l'article 19, § 1er, du décret sur les sols aux sols contaminés par des PFAS. Il est entré en vigueur le jour suivant sa publication au Moniteur belge, soit le 25 septembre 2025. Le Conseil d'État n'a pas rendu d'avis sur le projet, et un recours en annulation de l'arrêté est pendant devant le Conseil d'État (affaire G/A 246.516/VII-43.092). L'arrêté ne précise pas ce qui remplace le cadre retiré."
+   ],
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering van 5 september 2025 (intrekking PFAS-handelingskader)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041231&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041231"
+   ]
+  },
+  {
+   "id": "d-codex-1041965",
+   "d": "2026-04-03",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders introduces the emissions trading system for buildings, road transport and additional sectors",
+   "a": "A Flemish decree of 3 April 2026 amends the Decree on General Provisions on Environmental Policy (DABM) to introduce an emissions trading system for the buildings sector, the road transport sector and additional sectors, partly transposing Directive (EU) 2023/959.",
+   "b": "The decree adds a new chapter to title VIII of the DABM. The regulated entity is the party liable for excise on fuels released for consumption, or another party designated by the competent authority, and end consumers using no more than 1 tonne of CO2 of fuel a year are excluded. The buildings sector covers fuel combustion in commercial, institutional and residential buildings and heat plants supplying them; the road transport sector covers fuel combustion in vehicles, except agricultural vehicles; the additional sectors cover fuel combustion in manufacturing, construction and energy industries. Regulated entities need an approved monitoring plan and must submit an emissions report verified under Implementing Regulation (EU) 2018/2067 by 14 April of each year. An administrative fine of 5,000 to 450,000 euro can be imposed on a regulated entity that has no approved monitoring plan on 1 January or has not filed a verified report by 14 April. Personal data exchanged with the federal tax authorities may be kept for up to twenty years. The decree was published on 30 April 2026 and takes effect on 10 May 2026.",
+   "nl": [
+    "Vlaanderen voert het emissiehandelssysteem voor gebouwen, wegvervoer en aanvullende sectoren in",
+    "Een Vlaams decreet van 3 april 2026 wijzigt het decreet houdende algemene bepalingen inzake milieubeleid (DABM) om een emissiehandelssysteem in te voeren voor de gebouwensector, de wegvervoerssector en aanvullende sectoren, ter gedeeltelijke omzetting van richtlijn (EU) 2023/959.",
+    "Het decreet voegt een nieuw hoofdstuk toe aan titel VIII van het DABM. De gereglementeerde entiteit is de partij die accijns verschuldigd is op brandstoffen die tot verbruik zijn uitgeslagen, of een andere door de bevoegde autoriteit aangewezen partij; eindverbruikers met een jaarlijks brandstofverbruik van hoogstens 1 ton CO2 vallen erbuiten. De gebouwensector omvat de verbranding van brandstoffen in commerciële, institutionele en woongebouwen en in warmtecentrales die ze verwarmen; de wegvervoerssector de verbranding in voertuigen, met uitzondering van landbouwvoertuigen; de aanvullende sectoren de verbranding in de bewerkende en verwerkende industrie, de bouw en de energie-industrieën. Gereglementeerde entiteiten hebben een goedgekeurd monitoringplan nodig en moeten uiterlijk op 14 april van elk jaar een emissieverslag indienen dat is geverifieerd overeenkomstig uitvoeringsverordening (EU) 2018/2067. Een administratieve geldboete van 5.000 tot 450.000 euro kan worden opgelegd aan een gereglementeerde entiteit die op 1 januari geen goedgekeurd monitoringplan heeft of uiterlijk op 14 april geen geverifieerd verslag heeft ingediend. Persoonsgegevens die met de federale fiscale administratie worden uitgewisseld, mogen maximaal twintig jaar worden bewaard. Het decreet werd bekendgemaakt op 30 april 2026 en heeft uitwerking op 10 mei 2026."
+   ],
+   "fr": [
+    "La Flandre instaure le système d'échange de quotas d'émission pour les bâtiments, le transport routier et les secteurs supplémentaires",
+    "Un décret flamand du 3 avril 2026 modifie le décret relatif aux dispositions générales en matière de politique de l'environnement (DABM) pour instaurer un système d'échange de quotas d'émission pour le secteur des bâtiments, le secteur du transport routier et des secteurs supplémentaires, en transposition partielle de la directive (UE) 2023/959.",
+    "Le décret ajoute un nouveau chapitre au titre VIII du DABM. L'entité réglementée est la personne redevable des accises sur les carburants mis à la consommation, ou une autre personne désignée par l'autorité compétente ; les consommateurs finaux dont la consommation annuelle de carburant ne dépasse pas 1 tonne de CO2 sont exclus. Le secteur des bâtiments couvre la combustion de carburants dans les bâtiments commerciaux, institutionnels et résidentiels et dans les centrales de chaleur qui les alimentent ; le secteur du transport routier la combustion dans les véhicules, hors véhicules agricoles ; les secteurs supplémentaires la combustion dans l'industrie manufacturière, la construction et les industries énergétiques. Les entités réglementées doivent disposer d'un plan de monitoring approuvé et remettre chaque année, au plus tard le 14 avril, un rapport d'émissions vérifié conformément au règlement d'exécution (UE) 2018/2067. Une amende administrative de 5.000 à 450.000 euros peut être infligée à l'entité réglementée qui n'a pas de plan de monitoring approuvé au 1er janvier ou n'a pas déposé de rapport vérifié au 14 avril. Les données personnelles échangées avec l'administration fiscale fédérale peuvent être conservées vingt ans au maximum. Le décret a été publié le 30 avril 2026 et produit ses effets le 10 mai 2026."
+   ],
+   "u": [
+    [
+     "Decreet van 3 april 2026 (emissiehandelssysteem gebouwen en wegvervoer)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041965&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041965"
    ]
   }
  ]
