@@ -18,16 +18,17 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-UA = "SertiusLegalUpdate-collector/0.2 (+https://github.com/timpashuysen/sertius-legal-update)"
+UA = "SertiusLegalUpdate-collector/0.3 (+https://github.com/timpashuysen/sertius-legal-update)"
 DATA = pathlib.Path("data")
+RULES = 2
 START = dt.date(2024, 1, 1)
 TODAY = dt.datetime.now(dt.timezone.utc).date()
 
 TOPICS = {
-    "soil": r"\bbodem|grondverzet|grondwater|\bsols?\b|\bsoil|sanering|assainissement|remediat|pfas|brownfield|vlarebo|terres excav|verontreinig|contaminat|pollution des sols",
-    "environmental-law": r"omgevingsvergunning|vergunning|\bpermis\b|\bpermit|ruimtelijke ordening|aménagement du territoire|urbanis|handhaving|enforcement|\bvcro\b|\bcodt\b|\bcobat\b|stedenbouw|spatial planning|town and country planning",
-    "environmental-safety": r"seveso|zware ongevallen|accidents majeurs|major[- ]accident|gevaarlijke stoffen|substances dangereuses|dangerous substances|hazardous|industrial emission|industriële emissies|émissions industrielles|industrial hazard|chemical safety|\breach\b|classification, labelling|veiligheidsrapport|explosie",
-    "permitting": r"milieueffect|m\.e\.r\.|évaluation des incidences|environmental impact|impact assessment|waterbeleid|oppervlaktewater|afvalwater|\beaux?\b|\bwater (policy|pollution|protection|management|quality)|luchtkwaliteit|air quality|qualité de l.air|geluid|\bbruit\b|\bnoise|natuurbehoud|\bnatuur|\bnature\b|biodiversit|habitat|natura 2000|stikstof|\bazote\b|nitrogen|afvalstoffen|déchets|\bwaste\b|\bemissie|émissions|\bemission|vlarem|\bbbt\b|\bbref\b|leefmilieu|milieu(beleid|hygiën|vergunning|handhaving)|environnement|environmental (protection|policy|law|liability|monitoring|standard)|pollution|mest(decreet|stoffen)",
+    "soil": r"\bbodem|grondverzet|grondwater|pollution des sols|assainissement des sols|gestion des sols|\bsoil|bodemsanering|pfas|brownfield|vlarebo|terres excav|bodemverontreinig|contaminated (land|site)|groundwater",
+    "environmental-law": r"omgevingsvergunning|milieuvergunning|permis d.environnement|permis unique|permis d.urbanisme|environmental permit|ruimtelijke ordening|aménagement du territoire|urbanisme|stedenbouw|omgevingshandhaving|milieuhandhaving|\bvcro\b|\bcodt\b|\bcobat\b|spatial planning|ruimtelijk(e)? (uitvoeringsplan|beleidsplan|structuurplan)|développement territorial|omgevingsbesluit|access to justice in environmental",
+    "environmental-safety": r"seveso|zware ongevallen|accidents majeurs|major[- ]accident|gevaarlijke stoffen|substances dangereuses|dangerous substances|hazardous substances|industrial emissions|industriële emissies|émissions industrielles|industrial hazard|regulation \(ec\) no 1907/2006|regulation \(ec\) no 1272/2008|classification, labelling and packaging|veiligheidsrapport|externe veiligheid|omgevingsveiligheid",
+    "permitting": r"milieueffect|m\.e\.r\.|évaluation des incidences|environmental impact assessment|environmental assessment|waterbeleid|oppervlaktewater|afvalwater|eaux (usées|souterraines|de surface)|politique de l.eau|water (policy|pollution|protection|quality|framework)|waste ?water|luchtkwaliteit|air quality|qualité de l.air|geluidshinder|omgevingslawaai|environmental noise|natuurbehoud|natuurdecreet|natuurherstel|nature restoration|conservation de la nature|biodiversit|natural habitats|habitatrichtlijn|natura 2000|stikstof|\bazote\b|nitrogen deposition|nitrates|afvalstoffen|materialendecreet|\bvlarema\b|déchets|waste (framework|management|shipment)|landfill|vlarem|beste beschikbare technieken|best available techniques|\bbref\b|leefmilieu|milieubeleid|milieuhygiën|code de l.environnement|environmental (protection|liability|quality standards|crime|offences)|mestdecreet|mestbeleid|medium combustion",
 }
 TOPIC_RX = {k: re.compile(v, re.I) for k, v in TOPICS.items()}
 
@@ -58,6 +59,8 @@ EUROVOC_RX = ("soil|pollution|environmental (impact|protection|policy|law|liabil
               "water (policy|pollution|protection|management)|groundwater|emission|dangerous substance|industrial hazard|"
               "major accident|chemical|biodiversity|protection of animal life|protected area|habitat|noise|air quality|"
               "industrial pollution|pollution control|environmental offence|nature restoration")
+STRICT_LABEL = re.compile(r"soil (pollution|protection)|major accident|industrial hazard|industrial pollution|environmental impact|"
+                          r"water pollution|groundwater|waste management|air quality|noise pollution|biodiversity|dangerous substance", re.I)
 NOISE = re.compile(r"biocidal|active substance|plant protection|fishing|fisher|anti-dumping|tariff|feed additive|"
                    r"maximum residue|novel food|State aid|veterinary|cosmetic", re.I)
 
@@ -102,7 +105,9 @@ def collect_eu(state, items, months_per_run=12):
             if not title or NOISE.search(title.get("en", "")):
                 continue
             labels = r.get("labels", {}).get("value", "")
-            topics = classify(" ".join(title.values()) + " " + labels)
+            topics = classify(title.get("en") or " ".join(title.values()))
+            if not topics and STRICT_LABEL.search(labels):
+                topics = classify(labels) or ["permitting"]
             if not topics:
                 continue
             kind = "case" if celex[0] == "6" else "prop" if celex[0] == "5" else "law"
@@ -251,6 +256,8 @@ def main():
     DATA.mkdir(exist_ok=True)
     state = load("state.json", {})
     feed = load("feed.json", {"items": []})
+    if state.get("rules") != RULES:  # filing rules changed: rebuild from the start
+        state, feed = {"rules": RULES}, {"items": []}
     items = {i["id"]: i for i in feed.get("items", [])}
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
