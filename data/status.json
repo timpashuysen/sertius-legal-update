@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-22T19:37:30+00:00",
+ "ran": "2026-11-22T19:48:54+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 49,
+   "matched": 4789,
    "backfilled_to": "2026-11-01",
-   "seconds": 6.5
+   "seconds": 67.0
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 13.0
+   "seconds": 9.6
   },
   "codex": {
    "ok": true,
@@ -24,28 +24,28 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 31.0
+   "seconds": 29.2
   },
   "wallex": {
-   "ok": true,
+   "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 14,
+   "errors": 52,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 107.3
+   "seconds": 296.3
   },
   "staatsblad": {
    "ok": true,
-   "matched": 7,
+   "matched": 57,
    "read": 57,
-   "backfilled_to": "2026-11-23",
-   "seconds": 12.6
+   "backfilled_to": "2026-05-21",
+   "seconds": 153.2
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.6
+   "seconds": 0.3
   },
   "rvvb": {
    "ok": true,
@@ -65,7 +65,7 @@
    "ok": true,
    "listed": 144,
    "new": 0,
-   "seconds": 1.3
+   "seconds": 1.2
   },
   "editorial": {
    "ok": true,
@@ -73,7 +73,7 @@
    "reachable": 7,
    "articles": 3,
    "new": 0,
-   "seconds": 21.0
+   "seconds": 20.4
   }
  },
  "not_collected": {
@@ -83,17 +83,9 @@
   "JUPORTAL": "robots.txt forbids automated access"
  },
  "texts": {
-  "staatsblad": {
-   "saved": 0,
-   "failed": 0
-  },
-  "gwh": {
-   "saved": 0,
-   "failed": 0
-  },
   "eurlex": {
    "saved": 0,
-   "failed": 9,
+   "failed": 8,
    "last_error": "<HTTPError 300: ''>"
   },
   "codex": {
@@ -103,21 +95,25 @@
   "wallex": {
    "saved": 0,
    "failed": 0
+  },
+  "gwh": {
+   "saved": 0,
+   "failed": 0
   }
  },
  "texts_on_file": 2398,
- "backlog": false,
- "items_total": 6607,
- "items_new": 0,
+ "backlog": true,
+ "items_total": 8821,
+ "items_new": 3849,
  "items_by_source": {
-  "staatsblad": 1635,
+  "staatsblad": 57,
+  "eurlex": 4591,
   "council": 1,
   "gwh": 475,
-  "eurlex": 799,
   "codex": 2676,
   "cass": 133,
   "wallex": 691,
   "rvvb": 197
  },
- "items_filed_for_site": 848
+ "items_filed_for_site": 752
 }

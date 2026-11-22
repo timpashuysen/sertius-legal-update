@@ -1,0 +1,261 @@
+{
+"version": 1,
+"items": {
+"sb:2026203086": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026202530": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202485": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026202484": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026202448": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202447": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026202367": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202364": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202362": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026008521": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026008397": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008277": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008365": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008360": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008343": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008315": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "translation or erratum only",
+"at": "2026-11-22"
+},
+"sb:2026008314": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "translation or erratum only",
+"at": "2026-11-22"
+},
+"sb:2026008298": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "translation or erratum only",
+"at": "2026-11-22"
+},
+"sb:2026008209": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "translation or erratum only",
+"at": "2026-11-22"
+},
+"sb:2026008204": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+},
+"sb:2026008148": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "translation or erratum only",
+"at": "2026-11-22"
+},
+"sb:2026007075": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026007074": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026006641": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202544": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026202539": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "collective labour agreement",
+"at": "2026-11-22"
+},
+"sb:2026008321": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008286": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008278": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008276": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008272": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008245": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026008244": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "regional act, assessed from the regional legislation database",
+"at": "2026-11-22"
+},
+"sb:2026007567": {
+"v": 1,
+"verdict": "excluded",
+"by": "rule",
+"reason": "staff and appointments",
+"at": "2026-11-22"
+}
+},
+"summary": {
+"scope_from": "2026-01-01",
+"in_scope": 5163,
+"assessed": 34,
+"waiting": 5129,
+"relevant": 0,
+"not_relevant": 0,
+"excluded_by_rule": 34,
+"this_run": 34,
+"api": {
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
+},
+"key_present": false,
+"updated": "2026-11-22"
+}
+}
