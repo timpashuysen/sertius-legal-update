@@ -1,0 +1,30 @@
+{
+"updated": "2026-11-22",
+"sources": {
+"https://legalnews.be/feed/": {
+"checked": "2026-11-22",
+"ok": false,
+"listed": 0,
+"matched": 0,
+"error": "<HTTPError 403: 'Forbidden'>",
+"last_ok": ""
+},
+"https://www.sbb.be": {
+"checked": "2026-11-22",
+"ok": false,
+"listed": 0,
+"matched": 0,
+"error": "<HTTPError 403: 'Forbidden'>",
+"last_ok": ""
+},
+"https://www.jubel.be/feed/": {
+"checked": "2026-11-22",
+"ok": false,
+"listed": 0,
+"matched": 0,
+"error": "<HTTPError 403: 'Forbidden'>",
+"last_ok": ""
+}
+},
+"articles": []
+}

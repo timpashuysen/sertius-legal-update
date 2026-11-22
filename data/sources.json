@@ -3,10 +3,11 @@
  "sources": [
   {
    "name": "LegalNews.be",
-   "url": "https://legalnews.be",
+   "url": "https://legalnews.be/feed/",
    "added": "2026-11-22",
    "by": "Sertius",
-   "note": ""
+   "note": "",
+   "via": "claude"
   },
   {
    "name": "Stibbe",
@@ -27,14 +28,16 @@
    "url": "https://www.sbb.be",
    "added": "2026-11-22",
    "by": "Sertius",
-   "note": ""
+   "note": "",
+   "via": "claude"
   },
   {
    "name": "Jubel",
-   "url": "https://www.jubel.be",
+   "url": "https://www.jubel.be/feed/",
    "added": "2026-11-22",
    "by": "Sertius",
-   "note": ""
+   "note": "",
+   "via": "claude"
   },
   {
    "name": "Lexgo",

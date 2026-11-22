@@ -761,7 +761,12 @@ def collect_editorial(state, items):
     old = load("editorial.json", {"articles": [], "sources": {}})
     known = {a["url"]: a for a in old.get("articles", [])}
     report, today = {}, TODAY.isoformat()
+    extra = load("editorial-claude.json", {"sources": {}, "articles": []})   # sites that refuse this server
     for src in sources:
+        if src.get("via") == "claude":
+            if src["url"] in extra.get("sources", {}):
+                report[src["url"]] = extra["sources"][src["url"]]
+            continue
         r = {"checked": today, "ok": False, "listed": 0, "matched": 0}
         try:
             found, how = index_source(src["url"])
@@ -780,6 +785,8 @@ def collect_editorial(state, items):
             r["last_ok"] = today
         report[src["url"]] = r
         time.sleep(1)
+    for art in extra.get("articles", []):
+        known.setdefault(art["url"], art)
     arts = sorted(known.values(), key=lambda a: a["seen"], reverse=True)[:600]
     (DATA / "editorial.json").write_text(json.dumps({"updated": today, "sources": report, "articles": arts}, ensure_ascii=False, indent=0), "utf-8")
     return {"ok": True, "sites": len(sources), "reachable": sum(1 for r in report.values() if r["ok"]),
