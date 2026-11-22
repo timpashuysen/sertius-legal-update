@@ -769,6 +769,21 @@ function viewOfficial(){
     '<section><div class="topichead"><div><h2>'+XT().off+'</h2><p>'+XT().offLead+'</p></div></div><p class="count" id="ocount">'+offCount(r)+'</p><div id="olist">'+r.html+'</div></section></div></main>';
 }
 function refreshOff(){ var l = document.getElementById("olist"); if (!l) return render(); var r = offList(); l.innerHTML = r.html; document.getElementById("ocount").textContent = offCount(r); }
+function loadDigest(){
+  try { fetch("data/digest.json", {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
+    if (!d || !d.items || !d.items.length) return;
+    var have = {}; ITEMS.forEach(function(it){ have[it.id] = 1; });
+    d.items.forEach(function(it){
+      if (!it || !it.id || have[it.id] || !it.h || !it.d || !it.u || !it.u.length) return;
+      if (it.id.indexOf("item-") !== 0) it.id = "item-" + it.id;
+      it.j = it.j || []; it.k = (it.k || []).filter(isTopic); it.t = L.en.types[it.t] ? it.t : "guide"; it.s = it.s || "";
+      if (it.nl) TR.nl[it.id] = it.nl; if (it.fr) TR.fr[it.id] = it.fr;
+      ITEMS.push(it); have[it.id] = 1;
+    });
+    ITEMS.sort(function(a, b){ return a.d < b.d ? 1 : a.d > b.d ? -1 : 0; });
+    render();
+  }).catch(function(){}); } catch(e){}
+}
 function loadFeed(){
   try { fetch("data/feed.json", {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
     if (d && d.items && d.items.length){ FEED = d.items; feedMeta = d; var r = route(); if (r === "official" || r === "latest" || isTopic(r)) render(); }
@@ -856,6 +871,7 @@ document.addEventListener("submit", function(e){
 window.addEventListener("hashchange", function(){ render(); if (!isTopic(route()) && route()!=="latest") window.scrollTo(0,0); });
 render();
 loadFeed();
+loadDigest();
 </script>
 </body>
 </html>

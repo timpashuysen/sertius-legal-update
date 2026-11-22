@@ -20,7 +20,7 @@ import xml.etree.ElementTree as ET
 
 UA = "SertiusLegalUpdate-collector/0.3 (+https://github.com/timpashuysen/sertius-legal-update)"
 DATA = pathlib.Path("data")
-RULES = 2
+RULES = 3
 START = dt.date(2024, 1, 1)
 TODAY = dt.datetime.now(dt.timezone.utc).date()
 
@@ -108,12 +108,10 @@ def collect_eu(state, items, months_per_run=12):
             topics = classify(title.get("en") or " ".join(title.values()))
             if not topics and STRICT_LABEL.search(labels):
                 topics = classify(labels) or ["permitting"]
-            if not topics:
-                continue
             kind = "case" if celex[0] == "6" else "prop" if celex[0] == "5" else "law"
             items["eu:" + celex] = {"id": "eu:" + celex, "src": "eurlex", "level": "EU", "t": kind, "d": r["date"]["value"][:10],
                                     "title": title, "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:" + celex,
-                                    "ref": celex, "k": topics}
+                                    "ref": celex, "k": topics, "lab": labels[:300]}
             n += 1
         time.sleep(1)
     state["eu_next"] = min(cur, TODAY.replace(day=1)).isoformat()
@@ -158,9 +156,11 @@ def collect_gwh(state, items, cap=150):
             dm = re.search(r"van (\d{1,2}) (\w+) (%d)" % year, txt)
             date = "%d-%02d-%02d" % (year, NL_MONTHS.get(dm.group(2).lower(), 1), int(dm.group(1))) if dm else "%d-01-01" % year
             topics = classify(subject)
-            if topics:
+            if True:
                 title = {"nl": "Grondwettelijk Hof, arrest nr. %d/%d: %s" % (n, year, subject)}
                 try:
+                    if not topics:
+                        raise LookupError("French title only for filed items")
                     _, rawf = http("https://fr.const-court.be/public/f/%d/%d-%03df.pdf" % (year, year, n), timeout=60)
                     tf = re.sub(r"[ \t]+", " ", pdf_text(rawf))
                     mf = re.search(r"En\s*cause\s*:\s*(.*?)(?:La Cour constitutionnelle,|$)", tf, re.S)
@@ -202,8 +202,6 @@ def collect_codex(state, items, pages=20, take=200):
             typ = r.get("WetgevingDocumentType") or ""
             op = (r.get("Opschrift") or "").strip()
             topics = classify(op)
-            if not topics:
-                continue
             key = "codex:%s" % r["Id"]
             items[key] = {"id": key, "src": "codex", "level": "VL", "t": "law", "d": d,
                           "title": {"nl": ("%s %s" % (typ, op))[:400]},
@@ -255,7 +253,7 @@ def explore():
 def main():
     DATA.mkdir(exist_ok=True)
     state = load("state.json", {})
-    feed = load("feed.json", {"items": []})
+    feed = load("inbox.json", {"items": []})
     if state.get("rules") != RULES:  # filing rules changed: rebuild from the start
         state, feed = {"rules": RULES}, {"items": []}
     items = {i["id"]: i for i in feed.get("items", [])}
@@ -272,8 +270,9 @@ def main():
     status["not_collected"] = {
         "Belgisch Staatsblad / Moniteur belge": "robots.txt forbids automated access to the publication pages",
         "Raad van State / Conseil d'Etat judgments": "robots.txt forbids automated access to the judgment folders",
-        "Raad voor Vergunningsbetwistingen (dbrc.be)": "server closes automated connections",
-        "Bruxelles Environnement": "server closes automated connections",
+        "Raad voor Vergunningsbetwistingen (dbrc.be)": "refuses connections from this server; read by the digest stage instead",
+        "Bruxelles Environnement": "refuses connections from this server; read by the digest stage instead",
+        "JUPORTAL": "robots.txt forbids automated access",
     }
     status["explore"] = explore()
     out = sorted(items.values(), key=lambda i: (i["d"], i["id"]), reverse=True)
@@ -283,7 +282,11 @@ def main():
     for i in out:
         by[i["src"]] = by.get(i["src"], 0) + 1
     status["items_by_source"] = by
-    (DATA / "feed.json").write_text(json.dumps({"updated": status["ran"], "items": out}, ensure_ascii=False, separators=(",", ":")), "utf-8")
+    # inbox.json: everything collected, for the digest stage. feed.json: the keyword-filed subset, for the site.
+    (DATA / "inbox.json").write_text(json.dumps({"updated": status["ran"], "items": out}, ensure_ascii=False, separators=(",", ":")), "utf-8")
+    filed = [{k: v for k, v in i.items() if k != "lab"} for i in out if i.get("k")]
+    status["items_filed_for_site"] = len(filed)
+    (DATA / "feed.json").write_text(json.dumps({"updated": status["ran"], "items": filed}, ensure_ascii=False, separators=(",", ":")), "utf-8")
     (DATA / "state.json").write_text(json.dumps(state, indent=1), "utf-8")
     (DATA / "status.json").write_text(json.dumps(status, indent=1, ensure_ascii=False), "utf-8")
     print(json.dumps({k: v for k, v in status.items() if k != "explore"}, indent=1, ensure_ascii=False))
