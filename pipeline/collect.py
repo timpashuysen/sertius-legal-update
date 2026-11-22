@@ -229,7 +229,7 @@ def wallex_one(n):
     import html as _html
     url = "%s/fr/sites/wallex/contents/acts/%d/%d/1.listing.html.ajax" % (WALLEX, n // 1000, n)
     try:
-        _, raw = http(url, timeout=12)
+        _, raw = http(url, timeout=15)
     except urllib.error.HTTPError as e:
         return (n, None) if e.code in (403, 404) else (n, "err")
     except Exception:
@@ -246,7 +246,7 @@ def wallex_one(n):
                "url": href if href.startswith("http") else WALLEX + href, "ref": "Wallex %d" % n, "k": classify(title)}
 
 
-def collect_wallex(state, items, budget=300, chunk=150, ahead=300):
+def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
     """Time-boxed: Wallex answers slowly, so each run does what fits in `budget` seconds."""
     from concurrent.futures import ThreadPoolExecutor
     t0 = time.time()
@@ -258,7 +258,7 @@ def collect_wallex(state, items, budget=300, chunk=150, ahead=300):
     def run(ids):
         nonlocal kept, probed, errs, top
         bad = 0
-        with ThreadPoolExecutor(max_workers=6) as ex:
+        with ThreadPoolExecutor(max_workers=3) as ex:
             for n, it in ex.map(wallex_one, ids):
                 probed += 1
                 if it == "err":
@@ -269,7 +269,7 @@ def collect_wallex(state, items, budget=300, chunk=150, ahead=300):
                         items[it["id"]] = it
                         kept += 1
         errs += bad
-        return bad <= len(ids) // 4
+        return bad <= len(ids) * 2 // 5
 
     ok = True
     for start in range(hi, hi + ahead, chunk):  # new acts first
@@ -278,6 +278,7 @@ def collect_wallex(state, items, budget=300, chunk=150, ahead=300):
         ok = run(list(range(start, start + chunk)))
     if ok:
         state["wallex_hi"] = top
+    ok = True  # a bad patch among the newest ids must not block the backfill
     while ok and lo > WALLEX_FLOOR and time.time() - t0 < budget:  # then the backfill
         nxt = max(WALLEX_FLOOR, lo - chunk)
         ok = run(list(range(nxt, lo)))
@@ -360,7 +361,7 @@ def save_texts(items, per_source=40, budget=240):
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
         f = tdir / text_name(it["id"])
-        if f.exists() or r["saved"] + r["failed"] >= per_source or r["failed"] >= 5 or time.time() - t0 > budget:
+        if f.exists() or r["saved"] + r["failed"] >= per_source or r["failed"] >= 12 or time.time() - t0 > budget:
             continue
         try:
             txt = fetch_text(it)
