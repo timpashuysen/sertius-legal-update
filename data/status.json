@@ -1,22 +1,22 @@
 {
- "ran": "2026-11-22T02:58:47+00:00",
+ "ran": "2026-11-22T06:31:17+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 257,
+   "matched": 49,
    "backfilled_to": "2026-11-01",
-   "seconds": 50.3
+   "seconds": 6.2
   },
   "gwh": {
    "ok": true,
-   "read": 150,
-   "matched": 150,
+   "read": 25,
+   "matched": 25,
    "next": {
     "2024": 160,
     "2025": 178,
-    "2026": 115
+    "2026": 140
    },
-   "seconds": 335.2
+   "seconds": 54.1
   },
   "codex": {
    "ok": true,
@@ -24,21 +24,21 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 31.4
+   "seconds": 26.1
   },
   "wallex": {
    "ok": true,
-   "probed": 360,
-   "matched": 6,
-   "errors": 97,
-   "next_new_id": 141700,
-   "backfilled_down_to": 141610,
-   "seconds": 568.6
+   "probed": 450,
+   "matched": 13,
+   "errors": 111,
+   "next_new_id": 141843,
+   "backfilled_down_to": 141430,
+   "seconds": 636.5
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.4
+   "seconds": 0.5
   }
  },
  "not_collected": {
@@ -49,9 +49,13 @@
   "JUPORTAL": "robots.txt forbids automated access"
  },
  "texts": {
+  "gwh": {
+   "saved": 1,
+   "failed": 0
+  },
   "eurlex": {
-   "saved": 31,
-   "failed": 9,
+   "saved": 22,
+   "failed": 12,
    "last_error": "<HTTPError 404: ''>"
   },
   "codex": {
@@ -59,23 +63,19 @@
    "failed": 0
   },
   "wallex": {
-   "saved": 1,
-   "failed": 0
-  },
-  "gwh": {
-   "saved": 10,
+   "saved": 0,
    "failed": 0
   }
  },
- "texts_on_file": 169,
- "items_total": 3937,
- "items_new": 340,
+ "texts_on_file": 232,
+ "items_total": 3968,
+ "items_new": 31,
  "items_by_source": {
   "council": 1,
+  "gwh": 475,
   "eurlex": 799,
   "codex": 2676,
-  "wallex": 11,
-  "gwh": 450
+  "wallex": 17
  },
- "items_filed_for_site": 571
+ "items_filed_for_site": 572
 }
