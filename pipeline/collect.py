@@ -347,6 +347,11 @@ def _sb_title(raw, href, numac):
     text = re.sub(r"\s+", " ", raw or "").strip()
     tail = re.split(r"\bbron\b", text, maxsplit=1, flags=re.I)
     candidate = tail[-1] if len(tail) > 1 else text
+    # The index label places the issuing authority before the act title. Etaamb
+    # lowercases the authority and starts the title with a capitalized word.
+    match = re.search(r"\b[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’\-]*", candidate)
+    if match:
+        return candidate[match.start():].strip(" .-")[:500]
     match = SB_TITLE_START.search(candidate)
     if match:
         return candidate[match.start():].strip(" .-")[:500]
