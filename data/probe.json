@@ -1,0 +1,122 @@
+{
+ "ran": "2026-11-22T01:22:51.650196+00:00",
+ "probe": {
+  "cellar_sparql": {
+   "status": 200,
+   "type": "application/sparql-results+json",
+   "len": 12840,
+   "head": "\n{ \"head\": { \"link\": [], \"vars\": [\"celex\", \"date\", \"title\", \"label\"] },\n  \"results\": { \"distinct\": false, \"ordered\": true, \"bindings\": [\n    { \"celex\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#string\", \"value\": \"52026AS123868\" }\t, \"date\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#date\", \"value\": \"2026-11-20\" }\t, \"title\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"Authorisation for State aid pursuant to Articles\\u00A0107 and\\u00A0108 of the Treaty on the Functioning of the European Union\\u00A0\\u2013 Cases where the Commission raises no objections\\u00A0\\u2013 SA.123868\" }\t, \"label\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"chemical industry\" }},\n    { \"celex\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#string\", \"value\": \"32026D2559\" }\t, \"date\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#date\", \"value\": \"2026-11-19\" }\t, \"title\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"Commission Implementing Decision (EU) 2026/2559 of 19\\u00A0November 2026 postponing the expiry date of the approval of N,N-diethyl-meta-toluamide for use in biocidal products of product-type 19 in accordance with Regulation (EU)\\u00A0No\\u00A0528/2012 of the European Parliament and of the Council\" }\t, \"label\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"chemical product\" }},\n    { \"celex\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#string\", \"value\": \"32026D2564\" }\t, \"date\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#date\", \"value\": \"2026-11-19\" }\t, \"title\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"Commission Implementing Decision (EU) 2026/2564 of 19\\u00A0November 2026 postponing the expiry date of the approval of hydrogen cyanide for use in biocidal products of product-types 8, 14 and\\u00A018 in accordance with Regulation (EU)\\u00A0No\\u00A0528/2012 of the European Parliament and of the Council\" }\t, \"label\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"chemical product\" }},\n    { \"celex\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#string\", \"value\": \"32026D2561\" }\t, \"date\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#date\", \"value\": \"2026-11-19\" }\t, \"title\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"Commission Implementing Decision (EU) 2026/2561 of 19\\u00A0November 2026 postponing the expiry date of the approval of indoxacarb for use in biocidal products of product-type 18 in accordance with Regulation (EU)\\u00A0No\\u00A0528/2012 of the European Parliament and of the Council\" }\t, \"label\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"chemical product\" }},\n    { \"celex\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#string\", \"value\": \"32026D2566\" }\t, \"date\": { \"type\": \"literal\", \"datatype\": \"http://www.w3.org/2001/XMLSchema#date\", \"value\": \"2026-11-19\" }\t, \"title\": { \"type\": \"literal\", \"xml:lang\": \"en\", \"value\": \"Commission Impl"
+  },
+  "constcourt_pdf_092": {
+   "status": 200,
+   "type": "application/pdf",
+   "len": 0,
+   "head": ""
+  },
+  "constcourt_pdf_140": {
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "constcourt_pdf_190": {
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "constcourt_robots": {
+   "status": 200,
+   "type": "text/plain; charset=utf-8",
+   "len": 356,
+   "head": "User-agent: *\nAllow: /_nuxt/\nAllow: /img/\nAllow: /prize/\nAllow: /fonts/\nAllow: /assets/\nAllow: /favicon.ico\nAllow: /public/fonts/\nAllow: /public/n\nAllow: /public/n/\nAllow: /public/media/nl/\nAllow: /api/mbbs/numac/\nDisallow: /api/\nDisallow: /juportal\nDisallow: /server/\nDisallow: /public/\nDisallow: /*?*term=*\nSitemap: https://nl.const-court.be/sitemap.xml\n"
+  },
+  "codex_api": {
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "len": 1183,
+   "head": "{\"TotaalAantal\":39968,\"ResultatenLijst\":[{\"Opschrift\":\"houdende regeling van het taalgebruik bij de verkiezingen\",\"Datum\":\"1994-05-18T00:00:00\",\"WetgevingDocumentType\":\"Decreet\",\"HeeftInhoud\":true,\"Link\":{\"Rel\":\"self\",\"Href\":\"https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000001\"},\"Id\":1000001},{\"Opschrift\":\"tot wijziging van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs\",\"Datum\":\"1994-02-23T00:00:00\",\"WetgevingDocumentType\":\"Besluit van de Vlaamse Regering\",\"HeeftInhoud\":false,\"Link\":{\"Rel\":\"self\",\"Href\":\"https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000002\"},\"Id\":1000002},{\"Opschrift\":\"betreffende het Vlaams Fonds voor de promotie van de produkten van de landbouw, tuinbouw en zeevisserij\",\"Datum\":\"1994-03-16T00:00:00\",\"WetgevingDocumentType\":\"Besluit van de Vlaamse Regering\",\"HeeftInhoud\":true,\"Link\":{\"Rel\":\"self\",\"Href\":\"https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000003\"},\"Id\":1000003}]}"
+  },
+  "codex_docs": {
+   "status": 200,
+   "type": "text/html",
+   "len": 5086,
+   "head": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Vlaamse Codex Open Data</title>\r\n    \r\n    <link rel=\"icon\" sizes=\"192x192\" href=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/icon-highres-precomposed.png\">\r\n    <link rel=\"apple-touch-icon\" href=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/touch-icon-iphone-precomposed.png\">\r\n    <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/touch-icon-ipad-precomposed.png\">\r\n    <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/touch-icon-iphone-retina-precomposed.png\">\r\n    <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/touch-icon-ipad-retina-precomposed.png\">\r\n\r\n    <meta name=\"msapplication-square70x70logo\" content=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/tile-small.png\" />\r\n    <meta name=\"msapplication-square150x150logo\" content=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/tile-medium.png\" />\r\n    <meta name=\"msapplication-wide310x150logo\" content=\"https://ui.vlaanderen.be/2.latest/icons/app-icon/tile-wide.png\" />\r\n    <meta name=\"msapplication-square310x310logo\" content=\""
+  },
+  "themis_sparql": {
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "len": 9653,
+   "head": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Themis | Ontdek gestructureerde informatie over de besluitvorming van de Vlaamse Regering</title>\n    <meta name=\"description\" content=\"\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <meta name=\"frontend-themis/config/environment\" content=\"%7B%22modulePrefix%22%3A%22frontend-themis%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history%22%2C%22ember-moment%22%3A%7B%22allowEmpty%22%3Atrue%7D%2C%22metis%22%3A%7B%22baseUrl%22%3A%22http%3A%2F%2Fthemis.vlaanderen.be%2F%22%7D%2C%22yasgui%22%3A%7B%22defaultQuery%22%3A%22EMBER_YASGUI_DEFAULT_QUERY%22%2C%22extraPrefixes%22%3A%22EMBER_YASGUI_EXTRA_PREFIXES%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22%2F%5Elocalhost(%3A%5B0-9%5D*)%3F%2F%22%2C%22themis.vlaanderen.be%22%5D%7D%2C%22EmberENV%22%3A%7B%22EXTEND_PROTOTYPES%22%3Afalse%2C%22FEATURES%22%3A%7B%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_NO_IMPLICIT_ROUTE_MODEL%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22VO_HEADER_WIDGET_URL%22%3A%22https://prod.widgets.burgerprofiel.vlaanderen.be/api/v1/widget/2c901692-2b36-41d7-8f07-dac9c3a1617f%22%2C%22VO_FOOTER_WIDGET_URL%22%3A%22https://prod.widgets.burgerprofiel.vlaanderen.be/api/v1/widget/0fc82613-bdce-434b-946d-7b64f13804de%22%2C%22ember-plausible%22%3A%7B%22enabled%22%3Afalse%7D%2C%22plausible%22%3A%7B%22domain%22%3A%22themis.vlaanderen.be%22%2C%22apiHost%22%3A%22https://plausible.kanselarij.org%22%7D%2C%22APP%22%3A%7B%22name%22%3A%22frontend-themis%22%2C%22version%22%3A%221.1.0%2B6ebe8308%22%7D%7D\" />\n<!-- EMBER_CLI_FASTBOOT_TITLE -->\n\n    <link integrity=\"\" rel=\"stylesheet\" href=\"/assets/vendor-da057c1636726c5d764c341d162795db.css\">\n    <link integrity=\"\" rel=\"stylesheet\" href=\"/assets/frontend-themis-3e8a59e720b8f266692a05cd2e802bf5.css\">\n\n    \n  </head>\n  <body>\n    <script type=\"x/boundary\" id=\"fastboot-body-start\"></script><div class=\"au-c-app t-themis\">\n  \n    <header class=\"au-c-main-header\">\n  <div class=\"au-c-main-header__title-group\">\n    <div aria-live=\"assertive\" aria-atomic=\"true\" aria-relevant=\"all\">\n  <span class=\"au-u-hidden-visually\">\n    Nieuwe pagina: sparql\n  </span>\n</div>\n    <a href=\"https://www.vlaanderen.be/nl\" class=\"au-c-brand au-c-brand--link \" aria-labelledby=\"ember33487-brandTitle\">\n    <div class=\"au-c-brand__logo\">\n      <svg role=\"img\" id=\"ember33487-leeuw\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.61 31.05\" aria-labelledby=\"ember33487-logoVlaanderen\" aria-hidden=\"true\">\n        <title id=\"ember33487-logoVlaanderen\">Logo Vlaanderen</title>\n        <path id=\"ember33487-Logo_Vlaanderen\" data-name=\"Logo Vlaanderen\" d=\"M19.61,16c-1.08-.82-1.59,0-2.27,0s-1.12-1-1.56-.75c-0.85.43,0.34,2,.86,2.27a12.51,12.51,0,0,0,1.18.59,1.72,1.72,0,0,1,1,1.55,3,3,0,0,1,0,.75c-0.31,1.32-2.64,2.52-4,1.61a3,3,0,0,1-1.4-2c-"
+  },
+  "vlpar_api": {
+   "status": 200,
+   "type": "text/html",
+   "len": 734,
+   "head": "<!-- HTML for static distribution bundle build -->\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <title>Swagger UI</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"./swagger-ui.css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"index.css\" />\n    <link rel=\"icon\" type=\"image/png\" href=\"./favicon-32x32.png\" sizes=\"32x32\" />\n    <link rel=\"icon\" type=\"image/png\" href=\"./favicon-16x16.png\" sizes=\"16x16\" />\n  </head>\n\n  <body>\n    <div id=\"swagger-ui\"></div>\n    <script src=\"./swagger-ui-bundle.js\" charset=\"UTF-8\"> </script>\n    <script src=\"./swagger-ui-standalone-preset.js\" charset=\"UTF-8\"> </script>\n    <script src=\"./swagger-initializer.js\" charset=\"UTF-8\"> </script>\n  </body>\n</html>\n"
+  },
+  "wallex_robots": {
+   "error": "<HTTPError 404: ''>"
+  },
+  "wallex_sitemap": {
+   "status": 200,
+   "type": "text/xml;charset=UTF-8",
+   "len": 699,
+   "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n    <sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n    <!-- Dedicated sitemap entries for language: de -->\n            <sitemap>\n                    <loc>https://wallex.wallonie.be/de/sitemap-lang.xml</loc>\n                </sitemap>\n            <!-- Dedicated sitemap entries for language: fr -->\n            <sitemap>\n                    <loc>https://wallex.wallonie.be/sitemap-lang.xml</loc>\n                </sitemap>\n            <!-- Dedicated sitemap entries for language: nl -->\n            <sitemap>\n                    <loc>https://wallex.wallonie.be/nl/sitemap-lang.xml</loc>\n                </sitemap>\n            </sitemapindex>"
+  },
+  "wallex_home": {
+   "status": 200,
+   "type": "text/html;charset=UTF-8",
+   "len": 27385,
+   "head": "<!DOCTYPE HTML>\n<!--[if IE 8]> <html lang=\"fr\" class=\"ie8\" > <![endif]-->\n<!--[if IE 9]> <html lang=\"fr\" class=\"ie9\" > <![endif]-->\n<!--[if !IE]><!-->\n<html lang=\"fr\" ><!--<![endif]-->\n<head><link rel=\"canonical\" href=\"https://wallex.wallonie.be/home.html\" /><link rel=\"alternate\" hreflang=\"fr\" href=\"https://wallex.wallonie.be/home.html\" />\n<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://wallex.wallonie.be/home.html\" />\n<link rel=\"alternate\" hreflang=\"de\" href=\"https://wallex.wallonie.be/de/home.html\" />\n<link rel=\"alternate\" hreflang=\"nl\" href=\"https://wallex.wallonie.be/nl/home.html\" />\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n\n    <meta property=\"og:site_name\" content=\"Wallex\">\n    <link rel=\"shortcut icon\" href=\"/modules/spw-dtic-cg-templates/icons/favicon.ico\"\n          type=\"image/x-icons\">\n    <link rel=\"preconnect\" href=\"http://webanalytics.spw.wallonie.be\">\n    <link rel=\"preconnect\" href=\"https://webanalytics.spw.wallonie.be\">\n    <meta property=\"og:url\" content=\"https://wallex.wallonie.be/home.html\"/>\n    <meta property=\"og:type\" content=\"website\"/>\n        <meta name=\"image\" property=\"og:image\" content=\"https://wallex.wallonie.be/modules/spw-dtic-cg-templates/img/logo-og.jpg\"/>\n        <meta name=\"author\" content=\"SPW\"/>\n\n    <meta property=\"og:updated_time\" content=\"2026-05-26T14:18:28CEST\"/>\n    <title>Accueil - Wallex</title>\n        <meta name=\"title\" property=\"og:title\" content=\"Wallex - Wallex\"/>\n    \n<!-- Fontawesome -->\n    \n\n\n\n<!--template:addResources type=\"css\" resources=\"v4-shims.min.css\"/-->\n\n    \n\n\n\n\n\n\n<!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js\" defer=\"true\"></script>\n    <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\" defer=\"true\"></script>\n    <![endif]-->\n\n<script type=\"application/json\" id=\"jahia-data-ctx\">{\"contextPath\":\"\",\"lang\":\"fr\",\"uilang\":\"fr\",\"siteUuid\":\"a795e74f-8492-4b0a-b7a8-8b01e8ccb6a3\",\"wcag\":true,\"ckeCfg\":\"\"}</script>\n<script type=\"application/json\" id=\"jahia-data-ck\">{\"path\":\"/modules/ckeditor/javascript/\",\"lng\":\"fr_FR\"}</script>\n<link id=\"staticAssetCSS0\" rel=\"stylesheet\" href=\"/generated-resources/a8dc1c89d9b2841dd2bf3d16e5d53e3.min.css\" media=\"screen\" type=\"text/css\"/>\n<link id=\"staticAssetCSS1\" rel=\"stylesheet\" href=\"/generated-resources/53e544aef6395e48bbac1ab2efb582.min.css\" media=\"print\" ty"
+  },
+  "ejustice_robots": {
+   "status": 200,
+   "type": "text/plain",
+   "len": 1064,
+   "head": "# $Id$\n#\n# Robots Exclusion Standard:\n# <URL:http://www.robotstxt.org/wc/exclusion.html#robotstxt>\n# Format:\n# User-agent: <agent-string>\n# Disallow: <path>\n# -----------------------------------------------------------------------------\n\nUser-agent: *\nDisallow: /bul/\nDisallow: /bul_img/\nDisallow: /cgi-bin/\nDisallow: /cgi/\nDisallow: /cgi_bul/\nDisallow: /cgi_test/\nDisallow: /cgi_tsv/\nDisallow: /cgi_tsv_pub/\nDisallow: /cgi_vzw/\nDisallow: /css_2024/\nDisallow: /disclaimer/\nDisallow: /doc/\nDisallow: /eli_cgi/\nDisallow: /formu_html/\nDisallow: /formu_img/\nDisallow: /img_2024/\nDisallow: /img_l/\nDisallow: /img_mbs/\nDisallow: /img_tsv_pub/\nDisallow: /info_tsv_pub/\nDisallow: /loi/\nDisallow: /test_cgi/\nDisallow: /test_doc/\nDisallow: /test_html/\nDisallow: /tsv/\nDisallow: /tsv_img/\nDisallow: /tsv_pub/\nDi"
+  },
+  "dbrc_robots": {
+   "error": "RemoteDisconnected('Remote end closed connection without response')"
+  },
+  "dbrc_rvvb": {
+   "error": "RemoteDisconnected('Remote end closed connection without response')"
+  },
+  "rvs_robots": {
+   "status": 200,
+   "type": "text/plain",
+   "len": 672,
+   "head": "User-agent: *\r\nDisallow: /arr.php\r\nDisallow: /Arresten/\r\nDisallow: /arresten/\r\nDisallow: /Arrets/\r\nDisallow: /arrets/\r\nDisallow: /Beschikkingen/\r\nDisallow: /beschikkingen/\r\nDisallow: /Ordonnances/\r\nDisallow: /ordonnances/\r\nDisallow: /Cass/\r\nDisallow: /cass/\r\nDisallow: /dbx/\r\nDisallow: /dbx_dev/\r\nDisallow: /adviezen/\r\nDisallow: /avis/\r\nDisallow: /fr/recherche\r\nDisallow: /nl/zoeken\r\nDisallow: /fr/banques-de-donnees/juridict\r\nDisallow: /nl/databanken/juridict/\r\n\r\nCrawl-delay: 10\r\n\r\n# Empêcher l'exploration des PDF\r\nDisallow: /*.pdf$\r\nDisallow: /*.PDF$\r\n\r\n# Exclure les recherches techniques si n�"
+  },
+  "consilium_rss": {
+   "status": 200,
+   "type": "text/xml; charset=utf-8",
+   "len": 13107,
+   "head": "﻿<?xml version=\"1.0\" encoding=\"utf-8\"?><rss xmlns:a10=\"http://www.w3.org/2005/Atom\" version=\"2.0\"><channel><title>Council of the EU</title><link>https://www.consilium.europa.eu/</link><description /><language>en</language><item><guid isPermaLink=\"false\">152589</guid><link>https://www.consilium.europa.eu/en/press/press-releases/2026/11/21/multiannual-financial-framework-president-costa-s-proposal/</link><title>Multiannual Financial Framework - President Costa’s proposal</title><description>President of the European Council, António Costa, presented his proposal&amp;nbsp;to reach an agreement on the 2028-2034 Multiannual Financial Framework during a press conference on 21 November 2026.</description><a10:updated>2026-11-21T11:43:00+01:00</a10:updated><category>Budget</category></item><item><guid isPermaLink=\"false\">152580</guid><link>https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/weekly-schedule-of-president-antonio-costa/</link><title>Weekly schedule of President António Costa</title><description>Weekly schedule of President António Costa, 21-29 November 2026.</description><a10:updated>2026-11-20T21:15:00+01:00</a10:updated></item><item><guid isPermaLink=\"false\">152555</guid><link>https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-executive-board-members/</link><title>Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB "
+  },
+  "ec_env_rss": {
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  "bxl_env_newregs": {
+   "error": "RemoteDisconnected('Remote end closed connection without response')"
+  },
+  "bxl_env_robots": {
+   "error": "RemoteDisconnected('Remote end closed connection without response')"
+  },
+  "vl_decisions": {
+   "status": 200,
+   "type": "text/html;charset=UTF-8",
+   "len": 58641,
+   "head": "<!DOCTYPE html>\n<html lang=\"nl\">\n  <head >\n    <title>Beslissingen van de Vlaamse Regering | Vlaanderen.be</title>\n<script type=\"application/ld+json\" id=\"microdata-ldjson\">{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Beslissingen van de Vlaamse Regering\",\"description\":\"\\u003Cp>Na afloop van elke ministerraad vindt u hier een overzicht van de beslissingen en mededelingen die de Vlaamse Regering heeft behandeld op die ministerraad.\\u003C/p>\\u003Cp>\\u003Ca href=\\\"/vlaamse-regering/beslissingen-van-de-vlaamse-regering/ontvang-nieuwe-beslissingen-van-de-vlaamse-regering\\\" data-type=\\\"Article\\\" data-content-type=\\\"Article\\\" data-id=\\\"030c1cbb-5bb3-4125-8fd4-e287e7090174\\\" data-identifier=\\\"030c1cbb-5bb3-4125-8fd4-e287e7090174\\\" data-language=\\\"nl\\\" data-is-private=\\\"false\\\">Schrijf"
+  },
+  "vl_robots": {
+   "status": 200,
+   "type": "text/plain",
+   "len": 37,
+   "head": "User-agent: *\r\nDisallow: /servicedesk"
+  },
+  "ovam_rss": {
+   "error": "<HTTPError 404: ''>"
+  },
+  "curia_rss": {
+   "status": 200,
+   "type": "text/html;charset=UTF-8",
+   "len": 200000,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" xml:lang=\"en\" dir=\"ltr\"   >\n<head>\n  \n\n  <base href=\"https://curia.europa.eu/site/\"   />\n  \n  <meta charset=\"UTF-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta name=\"Generator\" content=\"Jalios JCMS - Copyright (C) Jalios S.A. 2001 - 2026 - https://www.jalios.com/\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n  <title>Court of Justice of the European Union - curia</title>\n  \n\n  <link rel=\"stylesheet\" href=\"css/csspacker.jsp?v=2026-10-19_16-06&amp;css=css%2Fjalios%2Fcore%2Fcomponents%2Ftopbar%2Fjalios-topb"
+  }
+ }
+}
