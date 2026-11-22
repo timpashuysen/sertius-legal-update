@@ -1,35 +1,35 @@
 {
- "ran": "2026-11-22T01:26:29+00:00",
+ "ran": "2026-11-22T01:32:21+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 256,
+   "matched": 105,
    "backfilled_to": "2025-01-01",
-   "seconds": 43.5
+   "seconds": 48.1
   },
   "gwh": {
    "ok": true,
    "read": 150,
-   "matched": 11,
+   "matched": 9,
    "next": {
     "2024": 151,
     "2025": 1,
     "2026": 1
    },
-   "seconds": 231.7
+   "seconds": 268.3
   },
   "codex": {
    "ok": true,
    "total_in_codex": 39968,
    "read": 4000,
-   "matched": 366,
+   "matched": 257,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 24.9
+   "seconds": 29.8
   },
   "council": {
    "ok": true,
-   "matched": 2,
-   "seconds": 0.4
+   "matched": 1,
+   "seconds": 0.5
   }
  },
  "not_collected": {
@@ -51,12 +51,12 @@
    "error": "<HTTPError 404: 'Not Found'>"
   }
  },
- "items_total": 635,
- "items_new": 635,
+ "items_total": 372,
+ "items_new": 372,
  "items_by_source": {
-  "council": 2,
-  "eurlex": 256,
-  "codex": 366,
-  "gwh": 11
+  "council": 1,
+  "eurlex": 105,
+  "codex": 257,
+  "gwh": 9
  }
 }
