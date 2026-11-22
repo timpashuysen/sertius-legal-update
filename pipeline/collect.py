@@ -254,6 +254,7 @@ def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
     lo = int(state.get("wallex_lo", WALLEX_SEED))
     kept = probed = errs = 0
     top = hi
+    failed = set()
 
     def run(ids):
         nonlocal kept, probed, errs, top
@@ -263,6 +264,7 @@ def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
                 probed += 1
                 if it == "err":
                     bad += 1
+                    failed.add(n)
                 elif it:
                     top = max(top, n + 1)
                     if it["d"] >= START.isoformat():
@@ -278,15 +280,22 @@ def collect_wallex(state, items, budget=420, chunk=90, ahead=180):
         ok = run(list(range(start, start + chunk)))
     if ok:
         state["wallex_hi"] = top
-    ok = True  # a bad patch among the newest ids must not block the backfill
-    while ok and lo > WALLEX_FLOOR and time.time() - t0 < budget:  # then the backfill
-        nxt = max(WALLEX_FLOOR, lo - chunk)
-        ok = run(list(range(nxt, lo)))
-        if ok:
-            lo = nxt
-            state["wallex_lo"] = lo
+    # Backfill: data/wallex-ids.json lists act ids known to exist (found once by a full walk).
+    known = load("wallex-ids.json", {"ids": []}).get("ids", [])
+    todo = [n for n in sorted(known, reverse=True) if "wallex:%d" % n not in items and n not in state.get("wallex_old", [])]
+    old = set(state.get("wallex_old", []))
+    while todo and time.time() - t0 < budget:
+        part, todo = todo[:30], todo[30:]
+        if not run(part):
+            break
+        for n in part:  # acts dated before the start date are remembered so they are not fetched again
+            if "wallex:%d" % n not in items and n not in failed:
+                old.add(n)
+    state["wallex_old"] = sorted(old)
+    state["wallex_known_left"] = len(todo)
+    lo = len(todo)
     return {"ok": ok or kept > 0, "probed": probed, "matched": kept, "errors": errs,
-            "next_new_id": state.get("wallex_hi", hi), "backfilled_down_to": state.get("wallex_lo", lo)}
+            "next_new_id": state.get("wallex_hi", hi), "known_ids_left": state.get("wallex_known_left")}
 
 
 # ------------------------------------------------------- EU: Council press RSS
