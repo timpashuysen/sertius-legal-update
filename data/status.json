@@ -1,22 +1,22 @@
 {
- "ran": "2026-11-22T01:48:15+00:00",
+ "ran": "2026-11-22T02:46:33+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 288,
-   "backfilled_to": "2025-01-01",
-   "seconds": 41.2
+   "matched": 356,
+   "backfilled_to": "2026-01-01",
+   "seconds": 49.6
   },
   "gwh": {
    "ok": true,
    "read": 150,
    "matched": 150,
    "next": {
-    "2024": 151,
-    "2025": 1,
+    "2024": 160,
+    "2025": 142,
     "2026": 1
    },
-   "seconds": 271.9
+   "seconds": 241.9
   },
   "codex": {
    "ok": true,
@@ -26,10 +26,19 @@
    "oldest_date_seen": "2024-01-01",
    "seconds": 29.1
   },
+  "wallex": {
+   "ok": true,
+   "probed": 300,
+   "matched": 10,
+   "errors": 46,
+   "next_new_id": 141700,
+   "backfilled_down_to": 141700,
+   "seconds": 120.2
+  },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.7
+   "seconds": 0.5
   }
  },
  "not_collected": {
@@ -39,26 +48,34 @@
   "Bruxelles Environnement": "refuses connections from this server; read by the digest stage instead",
   "JUPORTAL": "robots.txt forbids automated access"
  },
- "explore": {
-  "wallex_sitemap_lang": {
-   "status": 200,
-   "len": 7931,
-   "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/mes-favoris.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/mes-favoris.html\" hreflang=\"fr\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/mes-favoris.html\" hreflang=\"x-default\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/nl/home/mes-favoris.html\" hreflang=\"nl\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/mes-favoris.html\" hreflang=\"de\" rel=\"alternate\"/>\n  </url>\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/ask-recovery-password.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/ask-recovery-password.html\" hreflang=\"fr\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/home/ask-recovery-password.html\" hreflang=\"x-default\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/nl/home/ask-recovery-password.html\" hreflang=\"nl\" rel=\"alternate\"/>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/ask-recovery-password.html\" hreflang=\"de\" rel=\"alternate\"/>\n  </url>\n  <url>\n    <lastmod>2026-01-15</lastmod>\n    <loc>https://wallex.wallonie.be/home/recovery-password.html</loc>\n    <xhtml:link href=\"https://wallex.wallonie.be/de/home/recovery-password.html\" hreflang=\"de\" rel=\"alternat"
+ "texts": {
+  "eurlex": {
+   "saved": 31,
+   "failed": 5,
+   "last_error": "<HTTPError 404: ''>"
   },
-  "vlpar_swagger": {
-   "error": "<HTTPError 404: 'Not Found'>"
+  "codex": {
+   "saved": 40,
+   "failed": 0
   },
-  "codex_swagger": {
-   "error": "<HTTPError 404: 'Not Found'>"
+  "wallex": {
+   "saved": 1,
+   "failed": 0
+  },
+  "gwh": {
+   "saved": 15,
+   "failed": 0
   }
  },
- "items_total": 3115,
- "items_new": 3115,
+ "texts_on_file": 87,
+ "items_total": 3597,
+ "items_new": 482,
  "items_by_source": {
   "council": 1,
-  "eurlex": 288,
+  "eurlex": 610,
   "codex": 2676,
-  "gwh": 150
+  "wallex": 10,
+  "gwh": 300
  },
- "items_filed_for_site": 372
+ "items_filed_for_site": 497
 }
