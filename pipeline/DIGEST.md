@@ -41,3 +41,14 @@ entry from the official text, and adds `"replaces": ["<built-in id>"]` to that e
 built-in item as soon as an entry replaces it. A built-in item for which the inbox has no official
 text goes to `builtin_nomatch` in `data/digest-state.json` with a short reason. Commentary links of
 the old item may be kept after the official link in `u`.
+
+## Reading the web sources directly (preferred over the web tool)
+Since 22 November 2026 the sites www.dbrc.be and environnement.brussels are on the account's list of
+allowed websites, so the digest stage can download from them with the shell. For steps 4 and 5 of
+the task prompt, try this first and use the WebFetch tool only if a download fails:
+- list page: `curl -sS -m 30 "https://www.dbrc.be/legislation?page=854"` and take the PDF links
+  with a regular expression (`sites/default/files/YYYY-MM/RVVB.<year>.<number>.pdf`);
+- ruling: download the PDF and read its text with `pdftotext` or the Python package `pypdf`
+  (install it if missing). Read the whole ruling, in particular the assessment and the decision;
+- Brussels list: `curl` the page and take the rows and NUMAC numbers from the HTML.
+Keep about 10 seconds between requests to dbrc.be. All limits in the task prompt stay as written.
