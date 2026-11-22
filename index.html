@@ -161,6 +161,17 @@ footer p{margin:0}
 .langs button{background:transparent;color:#fff;padding:4px 11px;font-size:12px;font-weight:600}
 .langs button[aria-pressed="true"]{background:#fff;color:var(--ink)}
 .rail h3 label{font:inherit;letter-spacing:inherit}
+
+.hat{width:15px;height:15px;fill:#a8721a;flex:none;vertical-align:-2px}
+a.off{font-weight:500;margin-right:12px}
+a.com{display:inline-flex;align-items:center;gap:6px;background:#fff7e8;border:1px solid var(--sand);border-radius:100px;padding:2px 11px 2px 8px;color:var(--ink);text-decoration:none;font-size:13px;margin:3px 6px 3px 0;white-space:nowrap}
+a.com:hover{background:var(--sand)}
+.comrow{margin-top:6px}
+.tag.comtag{background:#fff7e8;border:1px solid var(--sand);display:inline-flex;align-items:center;gap:5px;padding:1px 8px}
+.tag.comtag .hat{width:13px;height:13px;vertical-align:0}
+.combox{margin-top:22px;background:#fffaf0;border:1px solid var(--sand);border-left:4px solid var(--sand);border-radius:6px;padding:14px 16px}
+.combox h3{margin:0 0 8px;display:flex;align-items:center;gap:8px;font-size:16px}
+.combox .hat{width:20px;height:20px}
 </style>
 </head>
 <body>
@@ -634,7 +645,19 @@ fr:{months:["janvier","février","mars","avril","mai","juin","juillet","août","
  src:[["Union européenne","EUR-Lex, la Commission européenne, le Conseil et le Parlement, et la Cour de justice."],["Belgique","La Cour constitutionnelle."],["Flandre","Les décisions du Gouvernement flamand et le Raad voor Vergunningsbetwistingen."],["Bruxelles","La Région de Bruxelles-Capitale, Bruxelles Environnement et le Parlement bruxellois."],["Wallonie","Wallex et l'Union des Villes et Communes de Wallonie."],["Commentaires professionnels","Analyses de cabinets d'avocats et d'éditeurs juridiques belges, avec lien lorsque nous nous y appuyons."]]}
 };
 var LANGS = {en:"EN", nl:"NL", fr:"FR"};
-var state = {q:"", topic:"", jur:{}, type:{}, year:{}, len:"short", lang:"en"};
+var X = {
+en:{off:"Official publications", offLead:"Collected every night from official sources and filed by keyword. Titles appear as published; the digest adds the summaries.", offH:"Official sources", comH:"Editorial context", comTag:"Editorial context", more:"Show more", upd:"Last collected", cnt:"{n} of {t} publications shown, newest first", src:{eurlex:"EUR-Lex", gwh:"Constitutional Court", codex:"Vlaamse Codex", council:"Council of the EU"}},
+nl:{off:"Officiële publicaties", offLead:"Elke nacht verzameld uit officiële bronnen en op trefwoord ingedeeld. Titels verschijnen zoals gepubliceerd; het overzicht voegt de samenvattingen toe.", offH:"Officiële bronnen", comH:"Redactionele context", comTag:"Redactionele context", more:"Meer tonen", upd:"Laatst verzameld", cnt:"{n} van {t} publicaties getoond, nieuwste eerst", src:{eurlex:"EUR-Lex", gwh:"Grondwettelijk Hof", codex:"Vlaamse Codex", council:"Raad van de EU"}},
+fr:{off:"Publications officielles", offLead:"Collectées chaque nuit auprès de sources officielles et classées par mots-clés. Les titres apparaissent tels que publiés; la veille y ajoute les résumés.", offH:"Sources officielles", comH:"Contexte éditorial", comTag:"Contexte éditorial", more:"Afficher plus", upd:"Dernière collecte", cnt:"{n} publications affichées sur {t}, les plus récentes d'abord", src:{eurlex:"EUR-Lex", gwh:"Cour constitutionnelle", codex:"Vlaamse Codex", council:"Conseil de l'UE"}}
+};
+function XT(){ return X[state.lang]; }
+var HAT = '<svg class="hat" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1 9l11 6 9-4.9V17h2V9L12 3z"/><path d="M5 13.2V17c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8l-7 3.8-7-3.8z"/></svg>';
+var FEED = [], feedMeta = null;
+function isOfficial(u){ var h = ""; try { h = new URL(u).hostname; } catch(e){ return false; } return /(^|\.)europa\.eu$|(^|\.)const-court\.be$|(^|\.)vlaanderen\.be$|(^|\.)wallonie\.be$|(^|\.)environnement\.brussels$|(^|\.)be\.brussels$/.test(h); }
+function split(it){ var o=[], c=[]; it.u.forEach(function(u){ (isOfficial(u[1]) ? o : c).push(u); }); return {o:o, c:c}; }
+function aOff(u){ return '<a class="off" href="'+esc(u[1])+'" target="_blank" rel="noopener">'+esc(u[0])+'</a>'; }
+function aCom(u){ return '<a class="com" href="'+esc(u[1])+'" target="_blank" rel="noopener">'+HAT+esc(u[0])+'</a>'; }
+var state = {q:"", topic:"", jur:{}, type:{}, year:{}, len:"short", lang:"en", f:{q:"", jur:{}, topic:{}, n:150}};
 var saved = null;
 try { saved = JSON.parse(localStorage.getItem("slu-prefs") || "null"); if (saved && L.en.lens[saved.len]) state.len = saved.len; var sl = localStorage.getItem("slu-lang"); if (L[sl]) state.lang = sl; } catch(e){ saved = null; }
 
@@ -662,9 +685,9 @@ function matches(it){
 }
 function tags(it, full){
   return it.j.map(function(j){return '<span class="tag jur">'+esc(T().jur[j])+'</span>';}).join("")+
-    (full ? '<span class="tag '+it.t+'">'+esc(T().types[it.t])+'</span><span class="tag">'+esc(st(it.s))+'</span>' : '');
+    (full ? '<span class="tag '+it.t+'">'+esc(T().types[it.t])+'</span><span class="tag">'+esc(st(it.s))+'</span>'+(split(it).c.length ? '<span class="tag comtag">'+HAT+esc(XT().comTag)+'</span>' : '') : '');
 }
-function srcs(it){ return it.u.map(function(u){return '<a href="'+esc(u[1])+'" target="_blank" rel="noopener">'+esc(u[0])+'</a>';}); }
+function srcLine(it){ var sp = split(it); return (sp.o.length ? '<div class="src">'+XT().offH+': '+sp.o.map(aOff).join("")+'</div>' : '')+(sp.c.length ? '<div class="src comrow">'+XT().comH+': '+sp.c.map(aCom).join("")+'</div>' : ''); }
 
 function itemHTML(it){
   var p = it.d.split("-"), x = tx(it), m3 = mon(parseInt(p[1],10)-1).slice(0,3);
@@ -672,7 +695,7 @@ function itemHTML(it){
     return '<article class="item micro"><div class="date">'+parseInt(p[2],10)+' '+m3+' '+p[0]+'</div><div><span class="tags">'+tags(it,false)+'</span><h3><a href="#'+it.id+'">'+esc(x.h)+'</a></h3></div></article>';
   return '<article class="item"><div class="date"><b>'+parseInt(p[2],10)+'</b><span>'+m3+' '+p[0]+'</span></div><div>'+
     '<div class="tags">'+tags(it,true)+'</div><h3><a href="#'+it.id+'">'+esc(x.h)+'</a></h3><p>'+esc(x.a)+'</p>'+
-    (state.len === "long" ? '<div class="long"><p>'+esc(x.b)+'</p><div class="src">'+T().sources+': '+srcs(it).join("")+'</div></div>'
+    (state.len === "long" ? '<div class="long"><p>'+esc(x.b)+'</p>'+srcLine(it)+'</div>'
       : '<div class="rowact"><a class="linkbtn" href="#'+it.id+'">'+T().more+'</a></div>')+
     '</div></article>';
 }
@@ -706,7 +729,7 @@ function railHTML(){
 }
 function viewList(){
   var t = state.topic ? T().topics[state.topic] : null, res = listHTML();
-  var head = '<div class="topichead"><div><h2>'+esc(t ? t[0] : T().all)+'</h2><p>'+esc(t ? t[1] : T().allBlurb)+'</p></div></div>';
+  var head = '<div class="topichead"><div><h2>'+esc(t ? t[0] : T().all)+'</h2><p>'+esc(t ? t[1] : T().allBlurb)+'</p></div>'+(FEED.length ? '<a class="btn ghost" href="#official">'+XT().off+' ('+FEED.length+')</a>' : '')+'</div>';
   var hero = t ? "" : '<section class="hero"><div class="in"><div><h1>'+T().h1+'</h1><p>'+T().lead+'</p><div class="meta">'+T().since.replace("{n}", ITEMS.length)+'</div></div>'+
     '<div class="subcard"><b>'+T().cardT+'</b><span>'+T().cardP+'</span><a class="btn" href="#subscribe">'+T().subscribe+'</a></div></div></section>';
   return hero+'<main><div class="layout">'+railHTML()+'<section>'+head+'<p class="count" id="count">'+shown(res.n)+'</p><div id="list">'+res.html+'</div></section></div></main>';
@@ -715,8 +738,43 @@ function viewItem(it){
   var x = tx(it);
   return '<main><div class="panel detail"><a class="linkbtn" href="#'+(state.topic||"latest")+'">'+T().back+'</a>'+
   '<div class="tags">'+tags(it,true)+'</div><h2>'+esc(x.h)+'</h2><p class="when">'+fmt(it.d)+' · '+it.k.map(function(k){return esc(T().topics[k][0]);}).join(", ")+'</p>'+
-  '<p class="lead">'+esc(x.a)+'</p><p>'+esc(x.b)+'</p><h3>'+T().sources+'</h3><ul>'+srcs(it).map(function(a){return '<li>'+a+'</li>';}).join("")+'</ul></div></main>';
+  '<p class="lead">'+esc(x.a)+'</p><p>'+esc(x.b)+'</p>'+(function(){ var sp = split(it); return (sp.o.length ? '<h3>'+XT().offH+'</h3><ul>'+sp.o.map(function(u){return '<li>'+aOff(u)+'</li>';}).join("")+'</ul>' : '')+(sp.c.length ? '<div class="combox"><h3>'+HAT+XT().comH+'</h3><div>'+sp.c.map(aCom).join("")+'</div></div>' : ''); })()+'</div></main>';
 }
+function ftitle(i){ var t = i.title || {}; return t[state.lang] || t.en || t.nl || t.fr || ""; }
+function fmatch(i){
+  var f = state.f, js = on(f.jur), ts = on(f.topic);
+  if (js.length && js.indexOf(i.level) < 0) return false;
+  if (ts.length && !i.k.some(function(k){ return ts.indexOf(k) >= 0; })) return false;
+  if (f.q){ var hay = (ftitle(i)+" "+(i.ref||"")).toLowerCase(), w = f.q.toLowerCase().split(/\s+/).filter(Boolean); for (var x=0; x<w.length; x++) if (hay.indexOf(w[x]) < 0) return false; }
+  return true;
+}
+function offList(){
+  var m = FEED.filter(fmatch), out = m.slice(0, state.f.n).map(function(i){
+    var p = i.d.split("-");
+    return '<article class="item micro"><div class="date">'+parseInt(p[2],10)+' '+mon(parseInt(p[1],10)-1).slice(0,3)+' '+p[0]+'</div><div><span class="tags"><span class="tag jur">'+esc(T().jur[i.level]||i.level)+'</span><span class="tag '+i.t+'">'+esc(XT().src[i.src]||i.src)+'</span></span><h3><a href="'+esc(i.url)+'" target="_blank" rel="noopener">'+esc(ftitle(i))+'</a></h3></div></article>';
+  }).join("");
+  if (m.length > state.f.n) out += '<p><button class="btn ghost" type="button" data-more="1">'+XT().more+'</button></p>';
+  if (!m.length) out = '<div class="empty">'+T().none+'</div>';
+  return {html:out, n:Math.min(m.length, state.f.n), t:m.length};
+}
+function offCount(r){ return XT().cnt.replace("{n}", r.n).replace("{t}", r.t)+(feedMeta && feedMeta.updated ? " · "+XT().upd+" "+feedMeta.updated.slice(0,10) : ""); }
+function viewOfficial(){
+  var f = state.f, r = offList();
+  function chips(obj, key){ return Object.keys(obj).map(function(k){ return '<button class="chip" type="button" data-f'+key+'="'+k+'" aria-pressed="'+(f[key][k]?'true':'false')+'">'+esc(obj[k])+'</button>'; }).join(""); }
+  var tp = {}; Object.keys(T().topics).forEach(function(k){ tp[k] = T().topics[k][0]; });
+  return '<main><div class="layout"><aside class="rail"><a class="linkbtn" href="#latest">'+T().back+'</a>'+
+    '<div><h3><label for="fq">'+T().search+'</label></h3><input class="search" id="fq" type="search" value="'+esc(f.q)+'"></div>'+
+    '<div><h3>'+T().topic+'</h3><div class="chips">'+chips(tp,"topic")+'</div></div>'+
+    '<div><h3>'+T().level+'</h3><div class="chips">'+chips(T().jur,"jur")+'</div></div></aside>'+
+    '<section><div class="topichead"><div><h2>'+XT().off+'</h2><p>'+XT().offLead+'</p></div></div><p class="count" id="ocount">'+offCount(r)+'</p><div id="olist">'+r.html+'</div></section></div></main>';
+}
+function refreshOff(){ var l = document.getElementById("olist"); if (!l) return render(); var r = offList(); l.innerHTML = r.html; document.getElementById("ocount").textContent = offCount(r); }
+function loadFeed(){
+  try { fetch("data/feed.json", {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
+    if (d && d.items && d.items.length){ FEED = d.items; feedMeta = d; var r = route(); if (r === "official" || r === "latest" || isTopic(r)) render(); }
+  }).catch(function(){}); } catch(e){}
+}
+
 function viewSubscribe(){
   var p = saved || {}, t = T();
   function cb(name, val, label, def){ var c = p[name] ? p[name].indexOf(val)>=0 : def; return '<label><input type="checkbox" name="'+name+'" value="'+val+'"'+(c?' checked':'')+' id="'+name+'-'+val+'"> '+esc(label)+'</label>'; }
@@ -747,7 +805,7 @@ function chrome(){
   document.documentElement.lang = state.lang;
   document.getElementById("langs").innerHTML = Object.keys(LANGS).map(function(k){ return '<button type="button" data-lang="'+k+'" aria-pressed="'+(state.lang===k)+'">'+LANGS[k]+'</button>'; }).join("");
   document.getElementById("preview").textContent = t.preview;
-  document.getElementById("foot").innerHTML = '<a href="#latest">'+t.latest+'</a><a href="#subscribe">'+t.subscribe+'</a><a href="#about">'+t.about+'</a><a href="https://www.sertius.be/" target="_blank" rel="noopener">sertius.be</a>';
+  document.getElementById("foot").innerHTML = '<a href="#latest">'+t.latest+'</a><a href="#subscribe">'+t.subscribe+'</a><a href="#official">'+XT().off+'</a><a href="#about">'+t.about+'</a><a href="https://www.sertius.be/" target="_blank" rel="noopener">sertius.be</a>';
   document.getElementById("footnote").textContent = t.foot;
 }
 function render(){
@@ -757,6 +815,7 @@ function render(){
   if (one) app.innerHTML = viewItem(one);
   else if (r==="subscribe") app.innerHTML = viewSubscribe();
   else if (r==="about") app.innerHTML = viewAbout();
+  else if (r==="official") app.innerHTML = viewOfficial();
   else { state.topic = isTopic(r) ? r : ""; app.innerHTML = viewList(); }
 }
 function refreshList(){
@@ -771,9 +830,11 @@ document.addEventListener("click", function(e){
   else if (ds.topic){ if (route() !== ds.topic) location.hash = ds.topic; }
   else if (ds.jur || ds.type || ds.year){ var key = ds.jur ? "jur" : ds.type ? "type" : "year", v = ds[key]; state[key][v] = !state[key][v]; el.setAttribute("aria-pressed", state[key][v]); refreshList(); }
   else if (ds.len){ state.len = ds.len; render(); }
+  else if (ds.fjur || ds.ftopic){ var fk = ds.fjur ? "jur" : "topic", fv = ds.fjur || ds.ftopic; state.f[fk][fv] = !state.f[fk][fv]; state.f.n = 150; el.setAttribute("aria-pressed", state.f[fk][fv]); refreshOff(); }
+  else if (ds.more){ state.f.n += 150; refreshOff(); }
   else if (el.id === "clear"){ state.q=""; state.jur={}; state.type={}; state.year={}; render(); }
 });
-document.addEventListener("input", function(e){ if (e.target.id === "q"){ state.q = e.target.value; refreshList(); } });
+document.addEventListener("input", function(e){ if (e.target.id === "q"){ state.q = e.target.value; refreshList(); } else if (e.target.id === "fq"){ state.f.q = e.target.value; state.f.n = 150; refreshOff(); } });
 document.addEventListener("change", function(e){
   if (e.target.name !== "aud") return;
   var ext = e.target.value === "external";
@@ -794,6 +855,7 @@ document.addEventListener("submit", function(e){
 });
 window.addEventListener("hashchange", function(){ render(); if (!isTopic(route()) && route()!=="latest") window.scrollTo(0,0); });
 render();
+loadFeed();
 </script>
 </body>
 </html>
