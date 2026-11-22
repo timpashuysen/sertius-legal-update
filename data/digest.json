@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:12:05Z",
+ "updated": "2026-11-22T22:36:22Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -3347,6 +3347,451 @@
    ],
    "inbox": [
     "eu:32026R2381"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0161",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: municipal entry of old permits in the permit register is declaratory and cannot be appealed",
+   "a": "The Council for Permit Disputes held that a municipal decision to enter archived permits in the vergunningenregister, without ruling on their legality, is not a registration decision under the VCRO. An annulment appeal against it is therefore inadmissible.",
+   "b": "The ruling concerns municipalities, owners and third parties who challenge entries in the municipal vergunningenregister (permit register). The case arose from an enforcement programme in the Akkershoofd area in Hamme, where the municipality decided on 14 July 2025 to enter the 'kleine machtigingen' found in its archive, including a 1987 permit to add a bedroom to a chalet. The Council ruled that only decisions to include or refuse a construction as 'vergund geacht' (deemed permitted) under Article 5.1.3 VCRO are constitutive registration decisions that can be appealed under Articles 4.8.2, 3° and 5.1.3, §3 VCRO. The contested decision was purely declaratory: it creates no rights and does not assess the legality of the permits entered. The Council therefore declined jurisdiction, found the appeal inadmissible as to its subject, and did not examine the other objections. The costs, a €200 filing fee and a €910 procedural indemnity, were charged to the applicant. The ruling was delivered on 22 October 2026 by the seventh chamber.",
+   "nl": [
+    "RvVb: opname van oude vergunningen in het vergunningenregister is declaratief en niet vatbaar voor beroep",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat een gemeentelijke beslissing om gearchiveerde vergunningen in het vergunningenregister op te nemen, zonder oordeel over hun wettigheid, geen registratiebeslissing is in de zin van de VCRO. Een vernietigingsberoep ertegen is dus onontvankelijk.",
+    "Het arrest treft gemeenten, eigenaars en derden die opnames in het gemeentelijke vergunningenregister betwisten. De zaak vloeit voort uit een handhavingstraject in het gebied Akkershoofd in Hamme, waar de gemeente op 14 juli 2025 besliste de in haar archief gevonden 'kleine machtigingen' in te schrijven, waaronder een vergunning van 1987 voor het aanbouwen van een slaapkamer aan een chalet. De Raad oordeelt dat enkel beslissingen tot opname of weigering van opname van een constructie als 'vergund geacht' (artikel 5.1.3 VCRO) rechtscheppende registratiebeslissingen zijn die kunnen worden bestreden op grond van artikel 4.8.2, 3° en artikel 5.1.3, §3 VCRO. De bestreden beslissing had een louter declaratief karakter: ze creëert geen rechten en oordeelt niet over de wettigheid van de ingeschreven vergunningen. De Raad verklaart zich dan ook niet bevoegd, acht het beroep naar voorwerp onontvankelijk en onderzoekt de overige excepties niet. De kosten, een rolrecht van 200 euro en een rechtsplegingsvergoeding van 910 euro, komen ten laste van de verzoekende partij. Het arrest werd uitgesproken op 22 oktober 2026 door de zevende kamer."
+   ],
+   "fr": [
+    "CCA : l'inscription d'anciens permis au registre des permis est déclarative et non susceptible de recours",
+    "Le Conseil du contentieux des permis (RvVb) juge qu'une décision communale d'inscrire des permis archivés au registre des permis, sans se prononcer sur leur légalité, n'est pas une décision d'enregistrement au sens du VCRO. Un recours en annulation est donc irrecevable.",
+    "L'arrêt concerne les communes, les propriétaires et les tiers qui contestent des inscriptions au registre communal des permis (vergunningenregister). L'affaire découle d'une action de maintien dans la zone d'Akkershoofd à Hamme, où la commune a décidé le 14 juillet 2025 d'inscrire les « kleine machtigingen » retrouvées dans ses archives, dont un permis de 1987 pour l'ajout d'une chambre à un chalet. Le Conseil juge que seules les décisions d'inscrire ou de refuser d'inscrire une construction comme « réputée autorisée » (« vergund geacht », article 5.1.3 VCRO) sont des décisions d'enregistrement constitutives, susceptibles de recours sur la base des articles 4.8.2, 3° et 5.1.3, §3 VCRO. La décision attaquée avait un caractère purement déclaratif : elle ne crée aucun droit et ne se prononce pas sur la légalité des permis inscrits. Le Conseil se déclare donc sans compétence, juge le recours irrecevable quant à son objet et n'examine pas les autres exceptions. Les frais, soit un droit de rôle de 200 euros et une indemnité de procédure de 910 euros, sont mis à charge de la partie requérante. L'arrêt a été prononcé le 22 octobre 2026 par la septième chambre."
+   ],
+   "scope": "Artikelen 4.8.2, 3°, 5.1.2 en 5.1.3 VCRO – vergunningenregister en bevoegdheid van de Raad voor Vergunningsbetwistingen inzake registratiebeslissingen",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0161.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0161.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0161"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0156",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls free land transfer imposed as a charge in Bonheiden subdivision permit for lack of reasoning",
+   "a": "The Council for Permit Disputes partially annuls a deputation's permit for clearing and subdividing land in Bonheiden, but only the free transfer of lot 6 to the municipality. The charge was inadequately and contradictorily reasoned, and the deputation must decide again within three months.",
+   "b": "The ruling concerns an environmental permit, granted on appeal, for clearing and subdividing land at Berentrodedreef in Bonheiden into four lots for detached houses. Only the free transfer of lot 6 (a 4 m strip excluded from the subdivision) is challenged. The Council holds that this so-called condition is in fact a charge under Article 75 of the Environmental Permit Decree, since it does not make the application compatible with good spatial planning or the law. Such a free transfer is only possible for public roads, green or paved spaces, public buildings or utilities that are mentioned in the permit application. The deputation adopted the reasoning of the provincial environmental officer, who advised against any such charge, yet imposed it without explaining its departure from that advice or addressing the objections. The reasoning was also found internally contradictory, and it was unclear where a walking path would lead, since earlier plans for one had been dropped. Only the charge is annulled, as it can be severed from the permit. The deputation must take a new decision on the third-party appeal, limited to that charge, within three months of the day after notification of the ruling; the ruling is dated 22 October 2026. This follows a cassation ruling of the Council of State of 5 March 2026 that set aside the earlier judgments.",
+   "nl": [
+    "RvVb vernietigt kosteloze grondafstand als last in verkavelingsvergunning Bonheiden wegens gebrekkige motivering",
+    "De Raad voor Vergunningsbetwistingen vernietigt gedeeltelijk de omgevingsvergunning van de deputatie voor het ontbossen en verkavelen van een terrein in Bonheiden, maar enkel wat de kosteloze grondafstand van lot 6 betreft. De last was onvoldoende en tegenstrijdig gemotiveerd en de deputatie moet binnen drie maanden opnieuw beslissen.",
+    "Het arrest betreft een in beroep verleende omgevingsvergunning voor het ontbossen en verkavelen van een terrein aan de Berentrodedreef in Bonheiden in vier loten voor vrijstaande ééngezinswoningen. Enkel de kosteloze grondafstand van lot 6, een strook van 4 m die uit de verkaveling wordt gesloten, wordt betwist. De Raad oordeelt dat deze zogenaamde voorwaarde in werkelijkheid een last is in de zin van artikel 75 van het Omgevingsvergunningsdecreet, omdat ze de aanvraag niet verenigbaar maakt met de goede ruimtelijke ordening of met het recht. Een gratis grondafstand kan enkel voor openbare wegen, groene of verharde ruimten, openbare gebouwen of nutsvoorzieningen die in de vergunningsaanvraag vermeld zijn. De deputatie nam de motieven van de provinciale omgevingsambtenaar over, die geen last adviseerde, en legde de last toch op, zonder haar afwijkend standpunt of de bezwaren te beantwoorden. De motivering is bovendien intern tegenstrijdig en het blijft onduidelijk waarheen een wandelweg zou leiden, aangezien eerdere plannen voor een trage weg waren verlaten. Enkel de last wordt vernietigd, omdat die afsplitsbaar is van de vergunning. De deputatie moet binnen drie maanden na de dag van de betekening een nieuwe beslissing nemen over het bestuurlijk beroep van derden, beperkt tot die last; het arrest dateert van 22 oktober 2026. Het volgt op een cassatiearrest van de Raad van State van 5 maart 2026 dat de eerdere arresten vernietigde."
+   ],
+   "fr": [
+    "Le CCE annule la cession gratuite de terrain imposée comme charge dans un permis de lotir à Bonheiden, faute de motivation",
+    "Le Conseil du contentieux des autorisations annule partiellement le permis d'environnement délivré par la députation pour le défrichement et le lotissement d'un terrain à Bonheiden, mais uniquement quant à la cession gratuite du lot 6. La charge était insuffisamment et contradictoirement motivée et la députation doit statuer à nouveau dans les trois mois.",
+    "L'arrêt concerne un permis d'environnement délivré en recours pour le défrichement et le lotissement d'un terrain situé Berentrodedreef à Bonheiden en quatre lots pour maisons unifamiliales isolées. Seule la cession gratuite du lot 6, une bande de 4 m exclue du lotissement, est contestée. Le Conseil juge que cette prétendue condition est en réalité une charge au sens de l'article 75 du décret sur le permis d'environnement (Omgevingsvergunningsdecreet), car elle ne rend pas la demande compatible avec le bon aménagement du territoire ni avec le droit. Une cession gratuite n'est possible que pour des voiries publiques, espaces verts ou revêtus, bâtiments publics ou équipements d'utilité publique mentionnés dans la demande de permis. La députation a repris les motifs du fonctionnaire provincial de l'environnement, qui ne proposait aucune charge, et a malgré tout imposé celle-ci, sans expliquer son écart par rapport à cet avis ni répondre aux objections. La motivation est en outre contradictoire en elle-même, et l'on ignore où mènerait un chemin de promenade, des plans antérieurs de voie lente ayant été abandonnés. Seule la charge est annulée, car elle est détachable du permis. La députation doit prendre une nouvelle décision sur le recours administratif des tiers, limitée à cette charge, dans les trois mois suivant le jour de la signification; l'arrêt date du 22 octobre 2026. Il fait suite à un arrêt de cassation du Conseil d'État du 5 mars 2026 qui a annulé les arrêts antérieurs."
+   ],
+   "scope": "RvVb, arrest RVVB.2627.0156 van 22 oktober 2026: last tot kosteloze grondafstand (artikel 75 Omgevingsvergunningsdecreet), omgevingsvergunning Bonheiden",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0156.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0156.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0156"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0153",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Middelkerke apartment-building permit over parking, ventilation and retail-use assessment",
+   "a": "The Council for Permit Disputes annulled the environmental permit for a 32-apartment building with a shop and underground parking in Middelkerke. It held that the municipal parking rule was not met, that the required ventilation shafts were not shown on the plans, and that the retail space was not tested against the BPA zoning rule.",
+   "b": "The ruling concerns an appeal by neighbours against the Provincial Executive's permit of 19 June 2025. The permit covered demolition and construction of a building with 32 apartments, a 145 m² shop, 32 heat pumps and dewatering, in Middelkerke. On parking, the Council held that the municipal parking regulation requires a parking space to be effectively and exclusively available for the building concerned. A promoter's non-binding option to link spaces to another building does not meet this, and the spaces in the agreement had been sold to third parties unconnected to the project. On the municipal regulation on multi-family housing, the 'studio' units were accepted because the plans show no door to the sleeping area, and the claim on minimum floor areas failed for lack of proof. The claim on the four central vertical ventilation shafts required by the municipal ventilation regulation succeeded, as they are not identifiable on the plans, and the neighbours' interest in the claim was accepted. The shop was not tested against the BPA 'Zeedijk' rule that secondary uses are allowed only without abnormal nuisance to the residential environment. The derogation granted under art. 4.4.9/1 VCRO covered only the number of floors, and earlier retail use on the site does not remove the need for that test. The Council refused to substitute its own decision, as the authority does not have a bound competence to refuse the permit. It annulled the decision and ordered a new decision on the administrative appeal within three months of the day after notification of the ruling, with costs charged to the Provincial Executive.",
+   "nl": [
+    "RvVb vernietigt omgevingsvergunning meergezinswoning Middelkerke wegens parkeren, ventilatiekokers en handelsfunctie",
+    "De Raad voor Vergunningsbetwistingen vernietigt de omgevingsvergunning voor een meergezinswoning met 32 appartementen, een handelsruimte en ondergrondse parking in Middelkerke. Volgens de Raad is de gemeentelijke parkeerverordening niet nageleefd, zijn de vereiste ventilatiekokers niet op de plannen aangeduid en is de handelsruimte niet getoetst aan het bestemmingsvoorschrift van het BPA.",
+    "Het arrest betreft het beroep van buren tegen de vergunning van de deputatie van 19 juni 2025. De vergunning omvatte het slopen en bouwen van een gebouw met 32 appartementen, een handelsruimte van 145 m², 32 warmtepompen en een bemaling in Middelkerke. Inzake parkeren oordeelt de Raad dat de gemeentelijke parkeerverordening vereist dat een parkeerplaats effectief en exclusief beschikbaar is voor het betrokken gebouw. Een vrijblijvende mogelijkheid voor de promotor om plaatsen aan een ander gebouw te binden volstaat niet, en de plaatsen in de overeenkomst waren verkocht aan derden zonder binding met het project. Wat de gemeentelijke verordening op de meergezinswoningen betreft, worden de 'studio's' aanvaard omdat de plannen geen deur naar de slaapzone tonen, en faalt het middel over de minimale vloeroppervlakten bij gebrek aan bewijs. Het middel over de vier centrale verticale ventilatiekokers die de gemeentelijke ventilatieverordening voorschrijft, is gegrond omdat ze niet op de plannen herkenbaar zijn; het belang van de buren bij dit middel wordt aanvaard. De handelsruimte werd niet getoetst aan het voorschrift van het BPA 'Zeedijk' dat nevenbestemmingen enkel toelaat zonder abnormale hinder voor de woonomgeving. De afwijking op grond van art. 4.4.9/1 VCRO betrof enkel het aantal bouwlagen, en vroeger handelsgebruik op het terrein maakt die toets niet overbodig. De Raad weigert zich in de plaats van de deputatie te stellen, omdat die geen gebonden bevoegdheid heeft om te weigeren. Hij vernietigt de beslissing en beveelt een nieuwe beslissing over het administratief beroep binnen drie maanden vanaf de dag na de betekening van het arrest, met de kosten ten laste van de deputatie."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'environnement d'un immeuble à appartements à Middelkerke (parking, gaines, commerce)",
+    "Le Conseil pour les contestations des autorisations annule le permis d'environnement délivré pour un immeuble de 32 appartements avec commerce et parking souterrain à Middelkerke. Il juge que le règlement communal sur le stationnement n'est pas respecté, que les gaines de ventilation requises ne figurent pas sur les plans et que le commerce n'a pas été examiné au regard de la prescription de destination du PPA.",
+    "L'arrêt concerne le recours de voisins contre le permis de la députation du 19 juin 2025. Le permis portait sur la démolition et la construction d'un immeuble de 32 appartements, d'un commerce de 145 m², de 32 pompes à chaleur et d'un pompage de nappe à Middelkerke. Quant au stationnement, le Conseil juge que le règlement communal exige qu'une place soit effectivement et exclusivement disponible pour le bâtiment concerné. La simple faculté pour le promoteur de lier des places à un autre bâtiment ne suffit pas, et les places visées par la convention avaient été vendues à des tiers sans lien avec le projet. Pour le règlement communal sur les immeubles à appartements multiples, les « studios » sont admis car les plans ne montrent pas de porte vers l'espace nuit, et le moyen relatif aux superficies minimales échoue faute de preuve. Le moyen relatif aux quatre gaines de ventilation centrales et verticales prescrites par le règlement communal sur l'évacuation de l'air de ventilation est fondé, car elles ne sont pas identifiables sur les plans ; l'intérêt des voisins à ce moyen est admis. Le commerce n'a pas été examiné au regard de la prescription du PPA « Zeedijk » qui n'admet les affectations secondaires que sans nuisance anormale pour l'environnement résidentiel. La dérogation fondée sur l'art. 4.4.9/1 VCRO ne visait que le nombre de niveaux, et l'usage commercial antérieur du site ne dispense pas de cet examen. Le Conseil refuse de se substituer à la députation, qui n'a pas de compétence liée pour refuser. Il annule la décision et ordonne une nouvelle décision sur le recours administratif dans les trois mois suivant le lendemain de la notification de l'arrêt, les dépens étant à charge de la députation."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0153 – art. 4.3.1, §1 en 4.4.9/1 VCRO; GSV Parkeerplaatsen (Middelkerke), GSV Meergezinswoningen, GSV Ventilatieluchtafvoer; BPA 'Zeedijk' zone 3",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0153.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0153.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0153"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0144",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Beersel care-centre permit: municipal screening-subject projects must go first to the deputation",
+   "a": "The Council for Permit Disputes annulled the deputation's decision on a municipal care-centre project in Beersel and set aside the permit granted at first instance. Because the municipality was the applicant and the project was subject to EIA screening, the college of mayor and aldermen could not rule in first instance.",
+   "b": "The ruling concerns municipal projects that are subject to project-EIA screening, where the municipality is the applicant and the college of mayor and aldermen also decides on the permit. Following the Court of Justice (C-236/24) and the Council of State (no. 265.582), the Council holds that Flanders only partly transposed Article 9bis of the EIA Directive in former Article 15/1 of the Omgevingsvergunningsdecreet. The 'appropriate separation' of functions is not achieved when the municipal permit officer decides whether such a project needs an EIA. The Article 9bis requirement has direct effect, so the application had to be filed with the deputation as first-instance authority. The later power of the deputation on appeal to reassess the screening (Article 63 of the decree) does not cure this, nor does the fact that the authorities applied the rules then in force. The Council annuls the deputation's decision of 24 April 2025, sets aside the permit of 6 November 2024 for the new care centre, services centre and childcare, and demolition of the assistance flats in Beersel, and orders the deputation to pay the costs (registry fee of EUR 1,800 and procedural indemnity of EUR 910). The ruling was delivered on 22 October 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning woonzorgcentrum Beersel: gemeentelijke screeningsplichtige projecten eerst naar de deputatie",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van de deputatie over een gemeentelijk woonzorgproject in Beersel en heft de in eerste aanleg verleende vergunning op. Omdat de gemeente zelf aanvrager was en het project screeningsplichtig was, kon het college van burgemeester en schepenen niet in eerste aanleg oordelen.",
+    "Het arrest betreft gemeentelijke projecten die onderworpen zijn aan de project-m.e.r.-screening, waarbij de gemeente aanvrager is en het college van burgemeester en schepenen ook over de vergunning beslist. In navolging van het Hof van Justitie (C-236/24) en de Raad van State (nr. 265.582) oordeelt de Raad dat het Vlaamse Gewest artikel 9bis van de Project-MER-richtlijn slechts onvolledig heeft omgezet in het toenmalige artikel 15/1 van het Omgevingsvergunningsdecreet. De vereiste 'passende scheiding' van functies is niet verwezenlijkt wanneer de gemeentelijke omgevingsambtenaar beslist of zo'n project aan milieueffectrapportage moet worden onderworpen. Artikel 9bis heeft rechtstreekse werking, zodat de aanvraag in eerste aanleg bij de deputatie moest worden ingediend. De latere mogelijkheid voor de deputatie om in beroep de screening opnieuw te beoordelen (artikel 63 van het decreet) herstelt dit niet, en evenmin dat de overheden de toen geldende regels toepasten. De Raad vernietigt de beslissing van de deputatie van 24 april 2025, heft de vergunning van 6 november 2024 op voor het nieuwe woonzorgcentrum, dienstencentrum en de kinderopvang en de sloop van de assistentiewoningen in Beersel, en legt de kosten (rolrecht van 1.800 euro en rechtsplegingsvergoeding van 910 euro) op aan de deputatie. Het arrest werd uitgesproken op 22 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis du centre de soins de Beersel : les projets communaux soumis au screening vont d'abord à la députation",
+    "Le Conseil du contentieux des autorisations annule la décision de la députation relative à un projet communal de soins à Beersel et supprime le permis accordé en première instance. La commune étant demanderesse et le projet soumis au screening, le collège des bourgmestre et échevins ne pouvait statuer en première instance.",
+    "L'arrêt concerne les projets communaux soumis au screening de l'évaluation des incidences (project-m.e.r.), pour lesquels la commune est demanderesse et le collège des bourgmestre et échevins statue aussi sur le permis. Suivant la Cour de justice (C-236/24) et le Conseil d'État (n° 265.582), le Conseil juge que la Région flamande n'a transposé que partiellement l'article 9bis de la directive EIE dans l'ancien article 15/1 du Omgevingsvergunningsdecreet. La « séparation appropriée » des fonctions n'est pas assurée lorsque le fonctionnaire communal chargé de l'environnement décide si un tel projet doit faire l'objet d'une évaluation des incidences. L'article 9bis a un effet direct, de sorte que la demande devait être introduite en première instance auprès de la députation. La possibilité ultérieure pour la députation de réexaminer le screening en recours (article 63 du décret) n'y remédie pas, pas plus que l'application des règles alors en vigueur par les autorités. Le Conseil annule la décision de la députation du 24 avril 2025, supprime le permis du 6 novembre 2024 pour le nouveau centre de soins, le centre de services et la crèche ainsi que la démolition des logements à assistance à Beersel, et met les dépens à charge de la députation (droit de rôle de 1.800 euros et indemnité de procédure de 910 euros). L'arrêt a été prononcé le 22 octobre 2026."
+   ],
+   "scope": "RvVb arrest RVVB.2627.0144: artikel 9bis Project-MER-richtlijn, artikelen 15, 15/1 en 63 Omgevingsvergunningsdecreet, artikel 37 §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0144.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0144.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0144"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0138",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb upholds Zoersel subdivision permit and clarifies review of density increases under Article 4.3.1 VCRO",
+   "a": "The Council for Permit Disputes dismissed an appeal against a conditional environmental permit for a five-lot subdivision in Zoersel. It confirmed that a permit granted against the municipality's refusal must give concrete reasons for the density increase, and found those reasons sufficient here.",
+   "b": "The ruling concerns project developers, municipalities and permitting authorities in subdivision cases where the municipality refused and the permit was granted on administrative appeal. The Council recalls that the authority has wide discretion on good spatial planning and that it only checks for manifestly unreasonable, careless or incorrect assessment. Under Article 4.3.1, §2 VCRO, an authority may weigh the increase in spatial yield but must still take the existing surroundings into account. It must also show that the increase respects the quality of the living environment and is justified locally. The reasoning must be more concrete and precise where the municipality refused or advised negatively. The Council found this met: the decision compared the planned density of 13.6 homes per hectare with about 9.37 in the surroundings and with a target of 15 for rural municipalities, and noted facilities within walking and cycling distance. Possible coupled garages did not turn the detached houses into semi-detached ones in a way that undermined the decision. The omission of public transport and the reference to a nearby subdivision (used only to compare distances to facilities) were not defects either. The appeal was dismissed, with the 200 euro registration fee charged to the applicants. The judgment was pronounced on 22 October 2026, and the contested permit dates from 17 April 2025, after an earlier permit was annulled on 6 February 2025 over unclear zone boundaries.",
+   "nl": [
+    "RvVb bevestigt verkavelingsvergunning in Zoersel en verduidelijkt toetsing van verdichting onder art. 4.3.1 VCRO",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een omgevingsvergunning onder voorwaarden voor een verkaveling van vijf kavels in Zoersel. Hij bevestigt dat een vergunning die tegen de weigering van de gemeente ingaat de verdichting concreet moet motiveren, en acht dat hier voldoende gebeurd.",
+    "Het arrest betreft projectontwikkelaars, gemeenten en vergunningverlenende overheden in verkavelingsdossiers waarin het college weigerde en de vergunning in administratief beroep werd verleend. De Raad herinnert eraan dat de overheid een ruime appreciatiebevoegdheid heeft inzake de goede ruimtelijke ordening en dat hij enkel nagaat of zij kennelijk onredelijk, onzorgvuldig of foutief oordeelde. Volgens artikel 4.3.1, §2 VCRO mag de overheid de verhoging van het ruimtelijk rendement in rekening brengen, maar moet zij rekening houden met de in de omgeving bestaande toestand. Ze moet ook aantonen dat de verhoging gebeurt met respect voor de kwaliteit van de woon- en leefomgeving en in de betrokken omgeving verantwoord is. De motivering moet concreter en preciezer zijn wanneer de gemeente weigerde of ongunstig adviseerde. De Raad oordeelt dat dit hier het geval was: de beslissing vergeleek de geplande dichtheid van 13,6 woningen per hectare met circa 9,37 in de omgeving en met de streefwaarde van 15 voor landelijke gemeenten, en wees op voorzieningen op wandel- en fietsafstand. Mogelijk gekoppelde garages maakten de beslissing niet ondeugdelijk. Ook het niet vermelden van openbaar vervoer en de verwijzing naar een nabijgelegen verkaveling (enkel gebruikt om de afstand tot voorzieningen te vergelijken) waren geen gebreken. Het beroep is verworpen, met het rolrecht van 200 euro ten laste van de verzoekende partijen. Het arrest werd uitgesproken op 22 oktober 2026; de bestreden vergunning dateert van 17 april 2025, nadat een eerdere vergunning op 6 februari 2025 was vernietigd wegens onduidelijke zonegrenzen."
+   ],
+   "fr": [
+    "Le RvVb confirme le permis de lotir à Zoersel et précise le contrôle de la densification au regard de l'art. 4.3.1 VCRO",
+    "Le Conseil du contentieux des permis rejette le recours contre un permis d'environnement sous conditions pour un lotissement de cinq lots à Zoersel. Il confirme qu'un permis accordé contre le refus de la commune doit motiver concrètement la densification, ce qu'il juge suffisant en l'espèce.",
+    "L'arrêt concerne les promoteurs, les communes et les autorités délivrantes dans les dossiers de lotissement où le collège a refusé et où le permis a été accordé en recours administratif. Le Conseil rappelle que l'autorité dispose d'un large pouvoir d'appréciation quant au bon aménagement du territoire et qu'il vérifie seulement si elle a statué de manière manifestement déraisonnable, imprudente ou erronée. Selon l'article 4.3.1, §2 VCRO, l'autorité peut tenir compte de l'augmentation du rendement spatial, mais doit prendre en considération la situation existante dans l'environnement. Elle doit aussi établir que cette augmentation respecte la qualité du cadre de vie et est justifiée dans l'environnement concerné. La motivation doit être plus concrète et précise lorsque la commune a refusé ou rendu un avis défavorable. Le Conseil estime que c'était le cas ici : la décision a comparé la densité prévue de 13,6 logements par hectare avec environ 9,37 dans les environs et avec l'objectif de 15 pour les communes rurales, et a relevé la présence d'équipements à distance de marche et de vélo. L'éventualité de garages jumelés n'a pas rendu la décision défaillante. L'absence de mention des transports publics et la référence à un lotissement voisin (utilisée uniquement pour comparer la distance aux équipements) ne constituaient pas non plus des vices. Le recours est rejeté, le droit de rôle de 200 euros étant à charge des parties requérantes. L'arrêt a été prononcé le 22 octobre 2026 ; le permis attaqué date du 17 avril 2025, après l'annulation, le 6 février 2025, d'un permis antérieur pour des limites de zones peu claires."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0138 – artikel 4.3.1, §2 VCRO (goede ruimtelijke ordening, ruimtelijk rendement) en motiveringsplicht bij omgevingsvergunning voor verkaveling",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0138.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0138.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0138"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0137",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council upholds Zoersel five-lot subdivision permit: appeal amendments, density and MER screening",
+   "a": "The Council for Permit Disputes dismissed the neighbours' action against an environmental permit for a five-lot subdivision in Zoersel, granted on administrative appeal. It confirmed that an amendment made on appeal at the provincial officer's suggestion needs no special reasoning under Article 64 of the Environmental Permit Decree.",
+   "b": "The ruling concerns an environmental permit for subdividing land into five lots for detached houses in Zoersel. The permit was granted on administrative appeal after the municipality refused it, and an earlier appeal decision had already been annulled in 2025. The Council held that the applicant had lodged a modification request, which excluded a 21 m² strip in agricultural zoning from the subdivision at the provincial environmental officer's suggestion. It found that the appeal authority did not have to reason expressly on each condition of Article 64 of the Environmental Permit Decree, since the second condition was clearly met and no argument was made on the others. On good spatial planning (Article 4.3.1 §2 VCRO), the Council found the reasoning on increased spatial yield sufficient. The authority had examined the local context and responded to the municipality's negative view. It relied on a density of 13.6 homes per hectare against a target of 15 for rural municipalities. The Council also found the project-MER screening note not shown to be defective, because the authority held the effect on water to be negligible and this was not contested. It further held that neither an earlier court appeal nor an objection in the public inquiry is a condition for admissibility. The appeal was dismissed on 22 October 2026, and the 400 euro registration fee is borne by the applicants.",
+   "nl": [
+    "Raad bevestigt verkavelingsvergunning voor vijf kavels in Zoersel: wijziging in beroep, dichtheid en MER-screening",
+    "De Raad voor Vergunningsbetwistingen verwierp het beroep van omwonenden tegen een omgevingsvergunning voor een verkaveling van vijf kavels in Zoersel, verleend in administratief beroep. Hij bevestigt dat een wijziging in beroep op suggestie van de provinciale omgevingsambtenaar geen bijzondere motivering vereist op grond van artikel 64 van het Omgevingsvergunningsdecreet.",
+    "Het arrest betreft een omgevingsvergunning voor het verkavelen van gronden in vijf kavels voor vrijstaande eengezinswoningen in Zoersel. De vergunning werd in administratief beroep verleend nadat de gemeente ze had geweigerd, en een eerdere beroepsbeslissing was in 2025 al vernietigd. De Raad oordeelt dat de aanvrager een wijzigingsverzoek had ingediend, waarmee een strook van 21 m² in agrarisch gebied op suggestie van de provinciale omgevingsambtenaar uit de verkaveling werd gesloten. Volgens hem hoefde de beroepsinstantie niet uitdrukkelijk te motiveren over elke voorwaarde van artikel 64 van het Omgevingsvergunningsdecreet, aangezien de tweede voorwaarde duidelijk vervuld was en over de andere geen argumenten werden aangevoerd. Wat de goede ruimtelijke ordening betreft (artikel 4.3.1, §2 VCRO), acht de Raad de motivering over de verhoging van het ruimtelijk rendement voldoende. De overheid had de bestaande omgeving onderzocht en het ongunstige standpunt van de gemeente weerlegd. Ze steunde daarbij op een dichtheid van 13,6 woningen per hectare, tegenover een streefwaarde van 15 voor landelijke gemeenten. De Raad oordeelt ook dat niet is aangetoond dat de project-MER-screeningsnota gebrekkig is, omdat de overheid het effect op water verwaarloosbaar achtte en dat niet werd betwist. Voorts is een eerder jurisdictioneel beroep of een bezwaarschrift tijdens het openbaar onderzoek geen voorwaarde voor een ontvankelijk beroep. Het beroep werd op 22 oktober 2026 verworpen, en het rolrecht van 400 euro valt ten laste van de verzoekende partijen."
+   ],
+   "fr": [
+    "Le Conseil confirme le permis de lotir de cinq lots à Zoersel : modification en recours, densité et screening MER",
+    "Le Conseil du contentieux des permis (RvVb) a rejeté le recours de riverains contre un permis d'environnement pour un lotissement de cinq lots à Zoersel, délivré en recours administratif. Il confirme qu'une modification apportée en recours sur suggestion du fonctionnaire provincial de l'environnement ne requiert pas de motivation particulière au regard de l'article 64 du décret sur le permis d'environnement.",
+    "L'arrêt concerne un permis d'environnement pour le lotissement de terrains en cinq lots destinés à des maisons unifamiliales isolées à Zoersel. Le permis a été délivré en recours administratif après le refus de la commune, et une précédente décision de recours avait déjà été annulée en 2025. Le Conseil relève que le demandeur avait introduit une demande de modification, par laquelle une bande de 21 m² située en zone agricole a été exclue du lotissement sur suggestion du fonctionnaire provincial de l'environnement. Selon lui, l'autorité de recours n'était pas tenue de motiver expressément chaque condition de l'article 64 du décret sur le permis d'environnement, la deuxième condition étant manifestement remplie et aucun argument n'étant avancé sur les autres. Quant au bon aménagement du territoire (article 4.3.1, §2 VCRO), le Conseil juge suffisante la motivation relative à l'augmentation du rendement spatial. L'autorité avait examiné la situation existante et répondu à l'avis défavorable de la commune. Elle s'est appuyée sur une densité de 13,6 logements par hectare, contre un objectif de 15 pour les communes rurales. Le Conseil estime également qu'il n'est pas démontré que la note de screening du projet-MER soit défectueuse, l'autorité ayant jugé l'incidence sur l'eau négligeable, ce qui n'était pas contesté. Il précise en outre qu'un recours juridictionnel antérieur ou une réclamation lors de l'enquête publique n'est pas une condition de recevabilité. Le recours a été rejeté le 22 octobre 2026, et le droit de rôle de 400 euros est à charge des parties requérantes."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0137: art. 64 Omgevingsvergunningsdecreet, art. 4.3.1 §2 VCRO, project-m.e.r.-screeningsnota",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0137.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0137.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0137"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0135",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: irregular posting of a permit decision stops the 30-day third-party appeal period from starting",
+   "a": "The Council for Permit Disputes annulled a decision declaring a neighbour's administrative appeal against an environmental permit inadmissible as late. The posting of the municipal decision did not meet the regulatory requirements, so the 30-day appeal period had not started.",
+   "b": "The ruling concerns third parties (the 'public concerned') who appeal to the deputation against a municipal environmental permit decision and whose appeal period depends on the applicant's posting of a notice. The Council holds that a notice that is not fixed on a fence, wall or post at the boundary with the public road, here an A4 sheet on a low board behind a cycle path and hedge, is an irregular posting and equals no posting. The 30-day period under the Environmental Permit Decree therefore did not start. The challenger must show with concrete elements that the posting was irregular, but need not also show that it was harmed by it. The argument that the purpose of the posting was achieved because the neighbour photographed the notice is rejected, since actual notice does not cure an irregular posting. A party cannot wait indefinitely either, but here the appeal was lodged within 30 days of actual knowledge. The decision declaring the appeal inadmissible is annulled and the authority must take a new decision on admissibility and, where relevant, on the merits within three months of service of the ruling. The requests for a administrative loop and for substitution by the Council are refused, the second plea (payment of the file tax) is not examined, and the costs, including a €910 procedural indemnity, fall on the authority. The Council also holds that an adjoining owner and occupier has sufficient interest to bring the appeal.",
+   "nl": [
+    "RvVb: onregelmatige aanplakking van een vergunningsbeslissing laat de beroepstermijn van 30 dagen niet ingaan",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing die het bestuurlijk beroep van een buur tegen een omgevingsvergunning onontvankelijk verklaarde wegens laattijdigheid. De aanplakking van de gemeentelijke beslissing voldeed niet aan de reglementaire vereisten, zodat de beroepstermijn van 30 dagen niet was ingegaan.",
+    "Het arrest betreft derden (het betrokken publiek) die bij de deputatie bestuurlijk beroep instellen tegen een gemeentelijke omgevingsvergunning en van wie de beroepstermijn afhangt van de aanplakking door de aanvrager. De Raad oordeelt dat een affiche die niet op een schutting, muur of paal op de grens met de openbare weg is aangebracht, hier een A4-affiche op een laag bord achter een fietspad en een haag, een onregelmatige aanplakking is die met het ontbreken van aanplakking wordt gelijkgesteld. De termijn van 30 dagen uit het Omgevingsvergunningsdecreet is dan niet ingegaan. Wie de regelmatigheid betwist, moet met concrete elementen de onregelmatigheid aantonen, maar hoeft niet bovendien aan te tonen dat hij erdoor werd benadeeld. Het argument dat het normdoel bereikt is omdat de buur de affiche heeft gefotografeerd, wordt verworpen, want feitelijke kennisname verhelpt een onregelmatige aanplakking niet. Een belanghebbende mag evenmin onbeperkt wachten, maar hier werd het beroep ingesteld binnen 30 dagen na de feitelijke kennisname. De beslissing die het beroep onontvankelijk verklaarde, wordt vernietigd en de verwerende partij moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen over de ontvankelijkheid en desgevallend de gegrondheid. De verzoeken om toepassing van de bestuurlijke lus en om indeplaatsstelling worden afgewezen, het tweede middel (dossiertaks) wordt niet onderzocht en de kosten, met een rechtsplegingsvergoeding van 910 euro, komen ten laste van de verwerende partij. De Raad oordeelt ook dat een aanpalende eigenaar en bewoner voldoende belang heeft bij het beroep."
+   ],
+   "fr": [
+    "RvVb : un affichage irrégulier de la décision de permis empêche le délai de recours de 30 jours de courir",
+    "Le Conseil du contentieux des permis annule la décision qui déclarait irrecevable pour tardiveté le recours administratif d'un voisin contre un permis d'environnement. L'affichage de la décision communale ne respectait pas les exigences réglementaires, de sorte que le délai de recours de 30 jours n'avait pas commencé à courir.",
+    "L'arrêt concerne les tiers (le public concerné) qui introduisent auprès de la députation un recours administratif contre un permis d'environnement communal et dont le délai de recours dépend de l'affichage effectué par le demandeur. Le Conseil juge qu'une affiche qui n'est pas apposée sur une clôture, un mur ou un poteau à la limite avec la voie publique, ici une affiche A4 sur un panneau bas placé derrière une piste cyclable et une haie, constitue un affichage irrégulier, assimilé à l'absence d'affichage. Le délai de 30 jours prévu par le décret sur le permis d'environnement n'a donc pas commencé à courir. Celui qui conteste la régularité doit démontrer l'irrégularité par des éléments concrets, mais n'a pas à prouver en plus qu'il en a subi un préjudice. L'argument selon lequel l'objectif de la norme est atteint parce que le voisin a photographié l'affiche est rejeté, la connaissance de fait ne couvrant pas un affichage irrégulier. Un intéressé ne peut pas non plus attendre indéfiniment, mais en l'espèce le recours a été introduit dans les 30 jours de la connaissance de fait. La décision déclarant le recours irrecevable est annulée et la partie adverse doit prendre une nouvelle décision sur la recevabilité et, le cas échéant, sur le fond dans les trois mois de la signification de l'arrêt. Les demandes d'application de la boucle administrative et de substitution sont rejetées, le second moyen (taxe de dossier) n'est pas examiné et les dépens, dont une indemnité de procédure de 910 euros, sont mis à charge de la partie adverse. Le Conseil juge aussi qu'un propriétaire et occupant voisin direct justifie d'un intérêt suffisant pour agir."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0135 – art. 54, 3° Omgevingsvergunningsdecreet; art. 58 en 59, §2 Omgevingsvergunningsbesluit; art. 34, §1 en 37, §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0135. vernietiging van de beslissing van de verwerende partij van 15 oktober 2025.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0135.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0135"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026d2402",
+   "d": "2026-10-21",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU amends the ETS2 market stability reserve: graded release below 260 million allowances in circulation",
+   "a": "Decision (EU) 2026/2402 amends the market stability reserve for the emissions trading system for buildings, road transport and additional sectors (ETS2). It adds a graded release of allowances when the number in circulation falls between 210 and 260 million, and it increases the release triggered by the price stability mechanism.",
+   "b": "The Decision concerns the ETS2 allowances auctioned by Member States and the market stability reserve for those sectors, so it affects authorities running auctions and the regulated entities that buy allowances. The Commission must publish the total number of ETS2 allowances in circulation by 1 June each year, separately from the existing ETS, with the first publication by 1 June 2028. The figure is the cumulative allowances issued minus verified emissions from 1 January 2028 and any allowances cancelled under Article 12(4) of Directive 2003/87/EC. If the total is between 210 and 260 million, extra allowances are released from the reserve, equal to 100 million minus twice the excess over 210 million. This amount is added to the volumes auctioned from 1 September of that year. Where allowances are released under the price stability mechanism of Article 30h(2) of Directive 2003/87/EC, 20 million more are added, spread evenly over three months starting no later than two months after the conditions are met. The Commission's review of the reserve must also consider the number of remaining allowances, with regard to environmental integrity and social fairness. The Decision was adopted on 21 October 2026, published on 28 October 2026 and enters into force on the twentieth day after publication.",
+   "nl": [
+    "EU wijzigt de ETS2-marktstabiliteitsreserve: geleidelijke vrijgave onder 260 miljoen emissierechten in omloop",
+    "Besluit (EU) 2026/2402 wijzigt de marktstabiliteitsreserve voor het emissiehandelssysteem voor gebouwen, wegvervoer en aanvullende sectoren (ETS2). Er komt een geleidelijke vrijgave van emissierechten wanneer het aantal in omloop tussen 210 en 260 miljoen ligt, en de vrijgave via het mechanisme voor prijsstabiliteit wordt verhoogd.",
+    "Het Besluit betreft de ETS2-emissierechten die de lidstaten veilen en de marktstabiliteitsreserve voor die sectoren. Het raakt dus de overheden die de veilingen organiseren en de gereglementeerde entiteiten die emissierechten kopen. De Commissie moet elk jaar uiterlijk op 1 juni het totale aantal ETS2-emissierechten in omloop publiceren, los van het bestaande ETS, met een eerste publicatie uiterlijk op 1 juni 2028. Het cijfer is het cumulatieve aantal uitgegeven emissierechten, verminderd met de geverifieerde emissies vanaf 1 januari 2028 en met de emissierechten die zijn ingetrokken op grond van artikel 12, lid 4, van Richtlijn 2003/87/EG. Ligt het totaal tussen 210 en 260 miljoen, dan worden extra emissierechten uit de reserve vrijgegeven, gelijk aan 100 miljoen min tweemaal het bedrag boven 210 miljoen. Dat bedrag wordt toegevoegd aan de hoeveelheid die vanaf 1 september van dat jaar wordt geveild. Worden emissierechten vrijgegeven op grond van het prijsstabiliteitsmechanisme van artikel 30 sexies, lid 2, van Richtlijn 2003/87/EG, dan komen daar 20 miljoen bij, gelijkmatig gespreid over drie maanden, te beginnen uiterlijk twee maanden nadat aan de voorwaarden is voldaan. De evaluatie van de reserve door de Commissie moet ook het aantal resterende emissierechten beoordelen, met het oog op milieu-integriteit en sociale billijkheid. Het Besluit is aangenomen op 21 oktober 2026, bekendgemaakt op 28 oktober 2026 en treedt in werking op de twintigste dag na bekendmaking."
+   ],
+   "fr": [
+    "L'UE modifie la réserve de stabilité du marché ETS2 : libération graduelle sous 260 millions de quotas en circulation",
+    "La décision (UE) 2026/2402 modifie la réserve de stabilité du marché pour le système d'échange de quotas d'émission des bâtiments, du transport routier et d'autres secteurs (ETS2). Elle prévoit une libération graduelle de quotas lorsque leur nombre en circulation se situe entre 210 et 260 millions, et elle augmente la libération déclenchée par le mécanisme de stabilité des prix.",
+    "La décision concerne les quotas ETS2 mis aux enchères par les États membres et la réserve de stabilité du marché pour ces secteurs. Elle touche donc les autorités qui organisent les enchères et les entités réglementées qui achètent des quotas. La Commission doit publier chaque année, au plus tard le 1er juin, le nombre total de quotas ETS2 en circulation, séparément du SEQE existant, la première publication devant intervenir au plus tard le 1er juin 2028. Ce chiffre correspond au nombre cumulé de quotas délivrés, diminué des émissions vérifiées depuis le 1er janvier 2028 et des quotas annulés en vertu de l'article 12, paragraphe 4, de la directive 2003/87/CE. Si le total se situe entre 210 et 260 millions, des quotas supplémentaires sont libérés de la réserve, à hauteur de 100 millions moins deux fois l'excédent par rapport à 210 millions. Ce montant s'ajoute au volume mis aux enchères à partir du 1er septembre de cette année-là. Lorsque des quotas sont libérés au titre du mécanisme de stabilité des prix de l'article 30 sexies, paragraphe 2, de la directive 2003/87/CE, 20 millions de quotas supplémentaires s'y ajoutent, répartis uniformément sur trois mois à compter, au plus tard, de deux mois après que les conditions sont réunies. Le réexamen de la réserve par la Commission doit aussi porter sur le nombre de quotas restants, au regard de l'intégrité environnementale et de l'équité sociale. La décision a été adoptée le 21 octobre 2026, publiée le 28 octobre 2026 et entre en vigueur le vingtième jour suivant sa publication."
+   ],
+   "scope": "Decision (EU) 2015/1814 (market stability reserve), Article 1a(3), (4), (5) and (7) and Article 3, as amended",
+   "dates": {
+    "adopted": "2026-10-21",
+    "published": "2026-10-28",
+    "in_force": "2026-11-17"
+   },
+   "u": [
+    [
+     "Decision (EU) 2026/2402 of the European Parliament and of the Council of 21 October 2026 amending Decision (EU) 2015/1814 as regards the mar",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2402"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D2402"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-wallex-142403",
+   "d": "2026-10-15",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia: grid operators may agree on flexibility metering data for balancing, subject to CWaPE review",
+   "a": "A Walloon decree adds three subparagraphs to Article 35sexies of the 2001 electricity market decree. Network operators and the transmission system operator may agree on handling the metering data used to calculate balancing flexibility volumes through a specific agreement that CWaPE reviews beforehand.",
+   "b": "The decree concerns Walloon distribution system operators, the transmission system operator and the regulator CWaPE. It applies only where the metering data needed to calculate the flexibility volume for balancing is finer than the imbalance settlement period and its processing does not affect supply-market metering data. In that case the operators may depart from the general rule in the first subparagraph of Article 35sexies(1) and agree among themselves in a specific agreement, with respect for privacy. The agreement must at least set out the roles, arrangements and responsibilities for collecting, verifying, processing and transmitting the data. The draft must be sent to CWaPE at least thirty days before it is concluded, so that CWaPE can comment beforehand. If the draft harms the proper functioning of the market or the protection of network users, CWaPE orders the operators to remedy it. The decree was adopted on 15 October 2026, published in the Moniteur belge on 27 October 2026 and in force from 6 November 2026.",
+   "nl": [
+    "Wallonië: netbeheerders mogen afspraken maken over meetgegevens voor flexibiliteit en balancering, mits CWaPE-toetsing",
+    "Een Waals decreet voegt drie leden toe aan artikel 35sexies van het elektriciteitsdecreet van 2001. De netbeheerders en de transmissienetbeheerder kunnen via een specifieke overeenkomst afspraken maken over de meetgegevens voor het flexibiliteitsvolume voor balancering, waarbij de CWaPE vooraf toetst.",
+    "Het decreet betreft de Waalse distributienetbeheerders, de transmissienetbeheerder en de regulator CWaPE. Het geldt alleen wanneer de meetgegevens die nodig zijn om het flexibiliteitsvolume voor balancering te berekenen een fijnere granulariteit hebben dan de verrekeningsperiode voor onevenwichten en de verwerking ervan geen invloed heeft op de meetgegevens van de leveringsmarkt. In dat geval mogen de beheerders, met eerbiediging van de privacy, afwijken van de algemene regel in het eerste lid van artikel 35sexies, § 1, en onderling een specifieke overeenkomst sluiten. De overeenkomst moet minstens de rollen, de modaliteiten en de verantwoordelijkheden voor het verzamelen, controleren, verwerken en doorgeven van de gegevens bevatten. Het ontwerp moet ten minste dertig dagen vóór het sluiten aan de CWaPE worden voorgelegd voor voorafgaande opmerkingen. Schaadt het ontwerp de goede werking van de markt of de bescherming van de netgebruikers, dan gelast de CWaPE de beheerders dit te verhelpen. Het decreet is aangenomen op 15 oktober 2026, op 27 oktober 2026 in het Belgisch Staatsblad bekendgemaakt en van kracht sinds 6 november 2026."
+   ],
+   "fr": [
+    "Wallonie : les gestionnaires de réseaux peuvent convenir du traitement des données de comptage de flexibilité, sous contrôle de la CWaPE",
+    "Un décret wallon complète l'article 35sexies du décret du 12 avril 2001 par trois alinéas. Les gestionnaires de réseaux et le gestionnaire du réseau de transport peuvent s'accorder, par une convention spécifique soumise au préalable à la CWaPE, sur les données de comptage servant au calcul du volume de flexibilité à des fins d'équilibrage.",
+    "Le décret concerne les gestionnaires de réseaux de distribution wallons, le gestionnaire du réseau de transport et le régulateur CWaPE. Il ne vise que le cas où les données de comptage nécessaires au calcul du volume de flexibilité à des fins d'équilibrage présentent une granularité inférieure à la période de règlement des déséquilibres et où leur traitement n'a pas d'impact sur les données de comptage du marché de fourniture. Dans ce cas, les gestionnaires peuvent, dans le respect de la protection de la vie privée, déroger à l'alinéa 1er de l'article 35sexies, § 1er, et conclure entre eux une convention spécifique. Celle-ci reprend a minima les rôles, modalités et responsabilités en matière de collecte, de vérification, de traitement et de transmission des données. Le projet de convention est soumis à la CWaPE au moins trente jours avant sa conclusion, pour observations préalables. Si le projet porte atteinte au bon fonctionnement du marché ou à la protection des utilisateurs du réseau, la CWaPE enjoint aux gestionnaires d'y remédier. Le décret a été adopté le 15 octobre 2026, publié au Moniteur belge le 27 octobre 2026 et est en vigueur depuis le 6 novembre 2026."
+   ],
+   "scope": "Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, article 35sexies, § 1er (ajout des alinéas 2 à 4)",
+   "dates": {
+    "adopted": "2026-10-15",
+    "published": "2026-10-27",
+    "in_force": "2026-11-06"
+   },
+   "u": [
+    [
+     "Décret modifiant l'article 35sexies du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité",
+     "https://wallex.wallonie.be/eli/loi-decret/2026/10/15/2026007807/2026/11/06"
+    ]
+   ],
+   "inbox": [
+    "wallex:142403"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-sb-2026007356",
+   "d": "2026-10-15",
+   "j": [
+    "BRU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Brussels social housing: 2027 average heating gas use set at 99.85 kWh/m² for rent supplements",
+   "a": "A ministerial order sets the average annual heating gas consumption of Brussels social dwellings for 2027 at 99.85 kWh/m². It is used to calculate the rent supplement for passive, low-energy and very-low-energy social dwellings, together with set reference floor areas and a social gas tariff.",
+   "b": "The order concerns the rent supplement for passive, low-energy and very-low-energy dwellings in the Brussels social housing sector, and so the public real-estate companies that let such dwellings and their tenants. For 2027 the average annual heating gas consumption is set at 99.85 kWh/m², based on a sample of 13,588 social dwellings. The average consumption per dwelling type is obtained by multiplying this figure by the ratio of the rented dwelling's floor area (its habitable area) to the reference area of the dwelling type. The order lists reference areas by number of bedrooms: for standard dwellings from 38.23 m² (studio/flat) up to 168.19 m² (apartments with 6 or more bedrooms) and 194.00 m² (7-bedroom house), with 183.80 m² for houses with 8 or more bedrooms. A separate table applies to dwellings for persons with reduced mobility, from 46.31 m² (studio/flat) to 165.7 m² (6 bedrooms). The social gas tariff used for the 2027 calculation is 0.0515937 per kWh. The values apply to the 2027 calculation; the order does not state a separate date of entry into force.",
+   "nl": [
+    "Brusselse sociale huisvesting: gemiddeld gasverbruik voor verwarming 2027 vastgesteld op 99,85 kWh/m² voor huurtoeslag",
+    "Een ministerieel besluit stelt het gemiddelde jaarlijkse gasverbruik voor verwarming van Brusselse sociale woningen voor 2027 vast op 99,85 kWh/m². Dit wordt gebruikt voor de berekening van de huurtoeslag voor passieve, lage energie- en zeer lage energiewoningen, samen met vaste typeoppervlakten en een sociaal gastarief.",
+    "Het besluit betreft de huurtoeslag voor passieve, lage energie- en zeer lage energiewoningen in de Brusselse sociale huisvestingssector, en dus de openbare vastgoedmaatschappijen die zulke woningen verhuren en hun huurders. Voor 2027 wordt het gemiddelde jaarlijkse gasverbruik voor verwarming vastgesteld op 99,85 kWh/m², op basis van een steekproef van 13.588 sociale woningen. Het gemiddelde verbruik per woningtype wordt bekomen door dit cijfer te vermenigvuldigen met de verhouding tussen de oppervlakte van de gehuurde woning (de bewoonbare oppervlakte) en de typeoppervlakte van het woningtype. Het besluit bevat typeoppervlakten volgens het aantal slaapkamers: voor standaardwoningen van 38,23 m² (studio/flat) tot 168,19 m² (appartementen met 6 of meer slaapkamers) en 194,00 m² (huis met 7 slaapkamers), met 183,80 m² voor huizen met 8 of meer slaapkamers. Een afzonderlijke tabel geldt voor PBM-woningen, van 46,31 m² (studio/flat) tot 165,7 m² (6 slaapkamers). Het sociaal gastarief voor de berekening van 2027 bedraagt 0,0515937 per kWh. De waarden gelden voor de berekening van 2027; het besluit vermeldt geen afzonderlijke datum van inwerkingtreding."
+   ],
+   "fr": [
+    "Logement social bruxellois : consommation moyenne de gaz de chauffage 2027 fixée à 99,85 kWh/m² pour le complément de loyer",
+    "Un arrêté ministériel fixe pour 2027 la consommation moyenne annuelle de gaz pour le chauffage des logements sociaux bruxellois à 99,85 kWh/m². Elle sert au calcul du complément de loyer pour les logements passifs, basse énergie et très basse énergie, avec des surfaces types et un tarif social du gaz.",
+    "L'arrêté concerne le complément de loyer pour logement passif, basse énergie ou très basse énergie dans le secteur du logement social en Région de Bruxelles-Capitale, et donc les sociétés immobilières de service public qui louent ces logements ainsi que leurs locataires. Pour 2027, la consommation moyenne annuelle de gaz pour le chauffage est fixée à 99,85 kWh/m², sur la base d'un échantillon de 13.588 logements sociaux. La consommation moyenne par type de logement s'obtient en multipliant ce chiffre par le rapport entre la surface du logement loué (la surface habitable) et la surface type du logement. L'arrêté énumère des surfaces types selon le nombre de chambres : pour les logements standard, de 38,23 m² (studio/flat) à 168,19 m² (appartements de 6 chambres et plus) et 194,00 m² (maison de 7 chambres), avec 183,80 m² pour les maisons de 8 chambres et plus. Un tableau distinct s'applique aux logements pour personnes à mobilité réduite, de 46,31 m² (studio/flat) à 165,7 m² (6 chambres). Le tarif social du gaz retenu pour le calcul de 2027 est de 0,0515937 par kWh. Les valeurs valent pour le calcul de 2027 ; l'arrêté ne précise pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Ministerieel besluit van 2 oktober 2026 (enig artikel), ter uitvoering van artikel 26, derde lid, van het BBHR van 26 september 1996 over de verhuur van woningen van de openbare vastgoedmaatschappijen",
+   "dates": {
+    "adopted": "2026-10-02",
+    "published": "2026-10-15"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot vaststelling van het gemiddelde jaarlijkse gasverbruik van een woning voor de verwarming dat gebruikt moet worden v",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-15&numac=2026007356"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007356"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0132",
+   "d": "2026-10-15",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: no jurisdiction over expropriation decree once owner is summoned before the justice of the peace",
+   "a": "The Council for Permit Disputes confirms that it can no longer rule on an annulment action against a definitive expropriation decree once the owner has been summoned before the justice of the peace. In a case on the A12 Londerzeel-Zuid interchange it reopens the debates and suspends the case until the civil proceedings end.",
+   "b": "The ruling concerns owners and other holders of rights in expropriated property who challenge a definitive expropriation decree before the Council for Permit Disputes, and the expropriating authority. The case concerns the decree of 7 July 2025 for the new A12 Londerzeel-Zuid interchange in Meise and Londerzeel. The Council holds that the Flemish Expropriation Decree does not expressly say so, but its preparatory works, the Council of State's legislative opinion and the Council of State judgment of 5 May 2022 (no. 253.649) show that the Council loses jurisdiction once the judicial phase starts. This exclusion applies from the summons before the justice of the peace, for those parties who have access to that procedure, including where the annulment action was filed earlier. Whether the summons was validly served (by the right authority, and after the amicable negotiation period) is for the justice of the peace to decide, not the Council. If the justice of the peace finds that the case was not validly brought, the Council keeps its jurisdiction. The Council therefore reopens the debates and suspends the case indefinitely until a final ruling in the civil proceedings, which the authority says is expected shortly. The most diligent party must inform the Council of that ruling, and costs are reserved. The summons was served on 17 December 2025 and the judgment was pronounced on 15 October 2026.",
+   "nl": [
+    "RvVb: geen rechtsmacht over onteigeningsbesluit zodra de eigenaar voor de vrederechter wordt gedagvaard",
+    "De Raad voor Vergunningsbetwistingen bevestigt dat hij zich niet meer kan uitspreken over een vernietigingsberoep tegen een definitief onteigeningsbesluit zodra de eigenaar voor de vrederechter is gedagvaard. In een zaak over het op- en afrittencomplex Londerzeel-Zuid op de A12 heropent hij de debatten en stelt hij de zaak uit tot de burgerlijke procedure is afgerond.",
+    "Het arrest betreft eigenaars en andere houders van rechten op onteigende goederen die een definitief onteigeningsbesluit bij de Raad voor Vergunningsbetwistingen bestrijden, en de onteigenende instantie. De zaak gaat over het besluit van 7 juli 2025 voor het nieuwe op- en afrittencomplex Londerzeel-Zuid van de A12 in Meise en Londerzeel. De Raad oordeelt dat het Onteigeningsdecreet dit niet uitdrukkelijk bepaalt, maar dat uit de parlementaire voorbereiding, het advies van de afdeling Wetgeving van de Raad van State en het arrest van de Raad van State van 5 mei 2022 (nr. 253.649) blijkt dat de Raad zijn rechtsmacht verliest zodra de gerechtelijke fase begint. Die uitsluiting geldt vanaf de dagvaarding voor de vrederechter, ten aanzien van de partijen die tot die procedure toegang hebben, ook als het vernietigingsberoep eerder werd ingesteld. Of de dagvaarding geldig is (juiste instantie, afloop van de minnelijke onderhandelingstermijn), beoordeelt de vrederechter en niet de Raad. Besluit de vrederechter dat hij niet geldig is gevat, dan behoudt de Raad zijn rechtsmacht. De Raad heropent daarom de debatten en stelt de zaak voor onbepaalde tijd uit tot een definitieve einduitspraak in de burgerlijke procedure, die volgens de onteigenende instantie weldra wordt verwacht. De meest gerede partij moet de Raad daarvan op de hoogte brengen en de kosten worden aangehouden. De dagvaarding gebeurde op 17 december 2025 en het arrest werd uitgesproken op 15 oktober 2026."
+   ],
+   "fr": [
+    "CCA: pas de compétence sur l'arrêté d'expropriation dès que le propriétaire est cité devant le juge de paix",
+    "Le Conseil pour les contestations des autorisations (RvVb) confirme qu'il ne peut plus statuer sur un recours en annulation contre un arrêté d'expropriation définitif dès que le propriétaire est cité devant le juge de paix. Dans une affaire relative au complexe d'accès Londerzeel-Zuid sur l'A12, il rouvre les débats et suspend l'affaire jusqu'à la fin de la procédure civile.",
+    "L'arrêt concerne les propriétaires et autres titulaires de droits sur des biens expropriés qui contestent un arrêté d'expropriation définitif devant le Conseil pour les contestations des autorisations, ainsi que l'autorité expropriante. L'affaire porte sur l'arrêté du 7 juillet 2025 relatif au nouveau complexe d'entrée et de sortie Londerzeel-Zuid de l'A12 à Meise et Londerzeel. Le Conseil juge que le décret flamand sur l'expropriation ne le prévoit pas expressément, mais que les travaux préparatoires, l'avis de la section de législation du Conseil d'État et l'arrêt du Conseil d'État du 5 mai 2022 (n° 253.649) montrent qu'il perd sa compétence dès que la phase judiciaire commence. Cette exclusion vaut à partir de la citation devant le juge de paix, à l'égard des parties qui ont accès à cette procédure, y compris lorsque le recours en annulation a été introduit auparavant. La validité de la citation (autorité compétente, expiration du délai de négociation amiable) relève du juge de paix et non du Conseil. Si le juge de paix estime qu'il n'a pas été valablement saisi, le Conseil conserve sa compétence. Le Conseil rouvre donc les débats et suspend l'affaire pour une durée indéterminée jusqu'à une décision définitive dans la procédure civile, que l'autorité expropriante dit attendre prochainement. La partie la plus diligente doit en informer le Conseil et les dépens sont réservés. La citation a été délivrée le 17 décembre 2025 et l'arrêt a été prononcé le 15 octobre 2026."
+   ],
+   "scope": "Onteigeningsdecreet, artikelen 43, 46, 50 §1, 54 §1 en 56 §1: rechtsmacht van de Raad voor Vergunningsbetwistingen en de vrederechter bij een definitief onteigeningsbesluit",
+   "dates": {
+    "adopted": "2026-10-15"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0132.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0132.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0132"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-22"
