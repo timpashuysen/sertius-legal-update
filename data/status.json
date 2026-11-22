@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-22T07:56:46+00:00",
+ "ran": "2026-11-22T10:08:48+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 49,
    "backfilled_to": "2026-11-01",
-   "seconds": 6.6
+   "seconds": 6.5
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 11.0
+   "seconds": 11.3
   },
   "codex": {
    "ok": true,
@@ -24,21 +24,21 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 29.8
+   "seconds": 31.3
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 2,
-   "errors": 50,
-   "next_new_id": 142224,
+   "errors": 23,
+   "next_new_id": 142404,
    "known_ids_left": 0,
-   "seconds": 291.3
+   "seconds": 150.2
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.5
+   "seconds": 0.6
   }
  },
  "not_collected": {
@@ -54,8 +54,8 @@
    "failed": 0
   },
   "eurlex": {
-   "saved": 29,
-   "failed": 11,
+   "saved": 1,
+   "failed": 12,
    "last_error": "<HTTPError 404: ''>"
   },
   "codex": {
@@ -67,10 +67,10 @@
    "failed": 0
   }
  },
- "texts_on_file": 502,
+ "texts_on_file": 503,
  "backlog": false,
  "items_total": 4641,
- "items_new": 2,
+ "items_new": 0,
  "items_by_source": {
   "council": 1,
   "gwh": 475,
