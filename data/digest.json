@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:20:38Z",
+ "updated": "2026-11-22T23:40:47Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -4650,6 +4650,452 @@
    ],
    "inbox": [
     "eu:32026D2260"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042402",
+   "d": "2026-10-03",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "ANB staff appointed as environmental supervisors and restoration bodies; 23 March 2026 decision repealed",
+   "a": "The Administrator-General of the Nature and Forest Agency (ANB) designates 133 staff members as supervisors and 37 as restoration bodies under the Environmental Enforcement Decree of 23 May 2025. A further 91 staff are designated as supervisors without judicial police status, with limited powers of access.",
+   "b": "This concerns enforcement of the Flemish environmental policy rules (Decree of 5 April 1995) by ANB staff, and so affects operators and project developers on whose sites or dossiers these staff act. 133 ANB staff members are designated as supervisors for environmental enforcement; they are supervisors by operation of law and exempt from training requirements. 37 staff members are designated as restoration bodies, who oversee security and restoration measures under the same decree. 91 other staff members are designated as supervisors without the capacity of judicial police officer. Their powers are limited to entering land, in handling and following up authorisation, permit and subsidy dossiers, to make factual findings and checks needed to assess or follow up a dossier. Each appointment ends on the day the person leaves the Agency or is assigned to another department. The decision repeals the Administrator-General's decision of 23 March 2026 on the same subject. It takes effect on 19 October 2026, and a few appointments apply from 1 October 2026.",
+   "nl": [
+    "ANB-personeel aangesteld als milieutoezichthouders en herstelinstanties; besluit van 23 maart 2026 opgeheven",
+    "De administrateur-generaal van het Agentschap voor Natuur en Bos (ANB) wijst 133 personeelsleden aan als toezichthouder en 37 als herstelinstantie op grond van het Omgevingshandhavingsbesluit van 23 mei 2025. Nog 91 personeelsleden worden aangewezen als toezichthouder zonder hoedanigheid van agent van gerechtelijke politie, met beperkte toegangsbevoegdheden.",
+    "Het gaat om de handhaving van de Vlaamse milieubeleidsregels (decreet van 5 april 1995) door personeelsleden van het ANB, en dus om exploitanten en projectontwikkelaars op wier terreinen of dossiers zij optreden. 133 personeelsleden van het ANB worden aangewezen als toezichthouder voor de milieuhandhaving; zij zijn van rechtswege toezichthouder en vrijgesteld van opleidingsvereisten. 37 personeelsleden worden aangewezen als herstelinstantie en zien toe op de beveiligings- en herstelmaatregelen in het kader van hetzelfde decreet. 91 andere personeelsleden worden aangewezen als toezichthouder zonder hoedanigheid van agent van gerechtelijke politie. Hun bevoegdheden beperken zich tot het betreden van terreinen, bij de behandeling en opvolging van machtigings-, vergunnings- en subsidiedossiers, voor feitelijke vaststellingen en controles die nodig zijn om een dossier te beoordelen of op te volgen. Elke aanstelling eindigt op de dag dat de functiehouder het Agentschap verlaat of bij een andere dienst wordt ingedeeld. Het besluit heft het besluit van de administrateur-generaal van 23 maart 2026 over hetzelfde onderwerp op. Het treedt in werking op 19 oktober 2026; enkele aanstellingen gelden vanaf 1 oktober 2026."
+   ],
+   "fr": [
+    "Personnel de l'ANB désigné comme surveillants et instances de réparation en matière d'environnement; décision du 23 mars 2026 abrogée",
+    "L'administrateur général de l'Agentschap voor Natuur en Bos (ANB) désigne 133 membres du personnel comme surveillants et 37 comme instances de réparation en vertu de l'arrêté d'exécution de l'enforcement environnemental du 23 mai 2025 (Omgevingshandhavingsbesluit). 91 autres sont désignés comme surveillants sans qualité d'agent de police judiciaire, avec des pouvoirs d'accès limités.",
+    "Il s'agit du contrôle du respect de la réglementation flamande en matière de politique de l'environnement (décret du 5 avril 1995) par le personnel de l'ANB, et donc des exploitants et des porteurs de projet sur les sites ou dossiers desquels ces agents interviennent. 133 membres du personnel de l'ANB sont désignés comme surveillants pour le maintien en matière d'environnement; ils sont surveillants de plein droit et dispensés des exigences de formation. 37 membres du personnel sont désignés comme instances de réparation et veillent aux mesures de sécurisation et de réparation prises dans le cadre du même décret. 91 autres membres du personnel sont désignés comme surveillants sans la qualité d'agent de police judiciaire. Leurs pouvoirs se limitent à pénétrer sur les terrains, lors du traitement et du suivi des dossiers d'autorisation, de permis et de subvention, pour effectuer les constatations de fait et les contrôles nécessaires à l'évaluation ou au suivi d'un dossier. Chaque désignation prend fin le jour où la personne quitte l'Agence ou est affectée à un autre service. La décision abroge la décision de l'administrateur général du 23 mars 2026 portant sur le même objet. Elle prend effet le 19 octobre 2026; quelques désignations s'appliquent à partir du 1er octobre 2026."
+   ],
+   "scope": "Besluit van de administrateur-generaal van het Agentschap voor Natuur en Bos: aanstelling van toezichthouders en herstelinstanties (Omgevingshandhavingsbesluit 23 mei 2025, art. 6 en 11; Kaderdecreet Vlaamse Handhaving, art. 8, §4)",
+   "dates": {
+    "adopted": "2026-10-03",
+    "published": "2026-10-09",
+    "in_force": "2026-10-19"
+   },
+   "u": [
+    [
+     "Besluit van de administrateur-generaal tot aanstelling van de toezichthouders overeenkomstig het Omgevingshandhavingsbesluit van 23 mei 2025",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042402&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042402"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-sb-2026007068",
+   "d": "2026-10-02",
+   "j": [
+    "BE"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Guarantees of origin for renewable electricity: 18-month expiry, residual mix and production dates amended",
+   "a": "A Royal Decree of 17 September 2026 amends the 2013 Royal Decree on guarantees of origin for renewable electricity. Non-cancelled guarantees now expire at the latest 18 months after production and count towards the residual energy mix, and each guarantee must show start and end dates of production.",
+   "b": "The decree concerns producers of renewable electricity, holders of guarantees of origin and the bodies running the federal guarantee-of-origin system, and it partly transposes Directive (EU) 2018/2001 as amended by Directive (EU) 2023/2413. Article 1 of the 2013 Royal Decree is amended: its reference to the royal decree on support mechanisms is extended to cover compensation of offshore domain concession holders when the Modular Offshore Grid is unavailable. A definition of 'residual energy mix' is added: a Member State's total annual energy mix, excluding the share covered by cancelled guarantees of origin. In Article 5, a guarantee must state the start and end date of production instead of the production month. A guarantee is valid only for transactions made within its validity, and all guarantees not cancelled expire at the latest eighteen months after the energy unit was produced. Expired guarantees are included in the residual energy mix calculation. In Article 6(3), the condition on expiry is replaced by reference to the eighteen-month period, and the second paragraph is repealed. The decree was adopted on 17 September 2026 and published on 2 October 2026; the text does not state a separate entry-into-force date.",
+   "nl": [
+    "Garanties van oorsprong voor hernieuwbare elektriciteit: vervaltermijn van 18 maanden, restenergiemix en productiedata gewijzigd",
+    "Een koninklijk besluit van 17 september 2026 wijzigt het koninklijk besluit van 2013 over garanties van oorsprong voor hernieuwbare elektriciteit. Niet-geschrapte garanties vervallen uiterlijk achttien maanden na de productie en tellen mee in de restenergiemix; elke garantie vermeldt de begin- en einddatum van de productie.",
+    "Het besluit betreft producenten van hernieuwbare elektriciteit, houders van garanties van oorsprong en de instanties die het federale systeem van garanties van oorsprong beheren, en zet gedeeltelijk Richtlijn (EU) 2018/2001, zoals gewijzigd bij Richtlijn (EU) 2023/2413, om. Artikel 1 van het koninklijk besluit van 2013 wordt gewijzigd: de verwijzing naar het koninklijk besluit over de steunmechanismen wordt uitgebreid tot de vergoeding van de houders van een offshore domeinconcessie bij onbeschikbaarheid van het Modular Offshore Grid. Er komt een definitie van 'restenergiemix': de totale jaarlijkse energiemix van een lidstaat, met uitzondering van het aandeel dat onder de geschrapte garanties van oorsprong valt. In artikel 5 vermeldt een garantie de begin- en einddatum van de productie in plaats van de productiemaand. Een garantie is slechts geldig voor transacties verricht binnen haar geldigheid, en alle niet-geschrapte garanties vervallen uiterlijk achttien maanden na de productie van de energie-eenheid. Vervallen garanties worden opgenomen in de berekening van de restenergiemix. In artikel 6, § 3, wordt de vervalvoorwaarde vervangen door een verwijzing naar de vervaltermijn van achttien maanden en wordt het tweede lid opgeheven. Het besluit is aangenomen op 17 september 2026 en gepubliceerd op 2 oktober 2026; een afzonderlijke datum van inwerkingtreding wordt niet vermeld."
+   ],
+   "fr": [
+    "Garanties d'origine pour l'électricité renouvelable : expiration à 18 mois, mix énergétique résiduel et dates de production modifiés",
+    "Un arrêté royal du 17 septembre 2026 modifie l'arrêté royal de 2013 relatif aux garanties d'origine pour l'électricité renouvelable. Les garanties non annulées expirent au plus tard dix-huit mois après la production et sont prises en compte dans le mix énergétique résiduel ; chaque garantie indique les dates de début et de fin de production.",
+    "L'arrêté concerne les producteurs d'électricité renouvelable, les titulaires de garanties d'origine et les organismes qui gèrent le système fédéral de garanties d'origine, et transpose partiellement la directive (UE) 2018/2001, telle que modifiée par la directive (UE) 2023/2413. L'article 1er de l'arrêté royal de 2013 est modifié : la référence à l'arrêté royal relatif aux mécanismes de soutien est étendue à l'indemnisation des titulaires d'une concession domaniale offshore en cas d'indisponibilité du Modular Offshore Grid. Une définition du « mix énergétique résiduel » est ajoutée : le mix énergétique annuel total d'un État membre, à l'exclusion de la part couverte par les garanties d'origine annulées. À l'article 5, une garantie mentionne les dates de début et de fin de production au lieu du mois de production. Une garantie n'est valable que pour les transactions effectuées durant sa validité, et toutes les garanties non annulées expirent au plus tard dix-huit mois après la production de l'unité d'énergie. Les garanties expirées sont intégrées dans le calcul du mix énergétique résiduel. À l'article 6, § 3, la condition d'expiration est remplacée par une référence au délai de dix-huit mois et l'alinéa 2 est abrogé. L'arrêté a été adopté le 17 septembre 2026 et publié le 2 octobre 2026 ; il ne fixe pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Koninklijk besluit van 17 september 2026 tot wijziging van de artikelen 1, 5 en 6 van het koninklijk besluit van 30 juli 2013 (garanties van oorsprong voor hernieuwbare elektriciteit)",
+   "dates": {
+    "adopted": "2026-09-17",
+    "published": "2026-10-02"
+   },
+   "u": [
+    [
+     "Koninklijk besluit tot wijziging van de artikelen 1, 5 en 6 van het koninklijk besluit van 30 juli 2013 betreffende de instelling van een sy",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-02&numac=2026007068"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007068"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0096",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb upholds Lebbeke potato-trading permit; no new public inquiry needed for plan changes on appeal",
+   "a": "The Council for Permit Disputes rejected the appeal against an environmental permit granted on appeal for expanding a potato-trading site in Lebbeke. It found that the late amended plan (PIV 8) did not require a new public inquiry under Article 64 of the Environmental Permit Decree.",
+   "b": "The ruling concerns an environmental permit granted on 13 March 2025 by the deputy of the province, on appeal against a tacit refusal by the Lebbeke municipal executive. It covers a new shed with a washing, sorting and packing line, and Vlarem II classified activities. Neighbours argued that the last amended plan, filed after the provincial permit committee hearing, was substantial and should have gone to a new public inquiry and advice round. The Council recalls that Article 64 allows an applicant to amend the application on appeal only if three cumulative conditions are met: no harm to the protection of people or the environment or to good spatial planning, the changes respond to advices or objections, and they manifestly do not infringe third-party rights. If these conditions are not met and no new inquiry is held, the authority cannot take the changes into account. Whether a change is substantial is not decisive. Clarifying documents filed after the inquiry are allowed unless they are essential for assessing the project's disadvantages and risks. The Council held that the claimants did not make it plausible that the changes were essential or harmed third parties, or that the reasoning on noise, mobility and visual impact was wrong. It also noted that it does not replace the authority's assessment of good spatial planning. The appeal was rejected on 1 October 2026 and the 600 euro fee was charged to the claimants.",
+   "nl": [
+    "RvVb handhaaft vergunning aardappelbedrijf Lebbeke; geen nieuw openbaar onderzoek nodig voor planwijzigingen in beroep",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een in beroep verleende omgevingsvergunning voor de uitbreiding van een aardappelhandelsbedrijf in Lebbeke. Het laatste aangepaste plan (PIV 8) vereiste volgens de Raad geen nieuw openbaar onderzoek op grond van artikel 64 van het Omgevingsvergunningsdecreet.",
+    "Het arrest betreft een omgevingsvergunning die de deputatie op 13 maart 2025 in administratief beroep verleende tegen een stilzwijgende weigering van het college van burgemeester en schepenen van Lebbeke. De vergunning omvat een nieuwe loods met een was-, sorteer- en inpaklijn en ingedeelde inrichtingen en activiteiten (IIOA's) volgens Vlarem II. Omwonenden voerden aan dat het laatste aangepaste plan, ingediend na de hoorzitting van de provinciale omgevingsvergunningscommissie, substantieel was en een nieuw openbaar onderzoek en een nieuwe adviesronde vereiste. De Raad herinnert eraan dat een aanvrager in administratief beroep de aanvraag enkel kan wijzigen als aan drie cumulatieve voorwaarden van artikel 64 is voldaan: geen afbreuk aan de bescherming van mens of milieu of aan de goede ruimtelijke ordening, de wijzigingen komen tegemoet aan adviezen of bezwaren, en ze brengen kennelijk geen schending van de rechten van derden mee. Is dat niet het geval en wordt geen nieuw openbaar onderzoek gehouden, dan kan de overheid de wijzigingen niet in aanmerking nemen. Of een wijziging aanzienlijk is, is niet determinerend. Stukken die na het openbaar onderzoek louter verduidelijken, zijn toegelaten, tenzij ze essentieel zijn om de nadelen en risico's van het project te beoordelen. De Raad oordeelde dat de verzoekers niet aannemelijk maakten dat de wijzigingen essentieel waren of derden schaadden, noch dat de motivering over geluid, mobiliteit en visuele impact fout was. Hij stelde ook dat hij zijn beoordeling van de goede ruimtelijke ordening niet in de plaats van die van de overheid stelt. Het beroep werd op 1 oktober 2026 verworpen en het rolrecht van 600 euro werd ten laste van de verzoekers gelegd."
+   ],
+   "fr": [
+    "Le CCA confirme le permis d'un négoce de pommes de terre à Lebbeke; pas de nouvelle enquête publique pour les modifications en recours",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette le recours contre un permis d'environnement octroyé en recours pour l'extension d'un négoce de pommes de terre à Lebbeke. Selon lui, le dernier plan modifié (PIV 8) ne requérait pas de nouvelle enquête publique en vertu de l'article 64 du décret sur le permis d'environnement.",
+    "L'arrêt concerne un permis d'environnement octroyé le 13 mars 2025 par la députation en recours administratif contre un refus tacite du collège des bourgmestre et échevins de Lebbeke. Il porte sur un nouvel entrepôt avec une ligne de lavage, de tri et d'emballage et sur des installations et activités classées selon le Vlarem II. Des riverains soutenaient que le dernier plan modifié, déposé après l'audition devant la commission provinciale du permis d'environnement, était substantiel et exigeait une nouvelle enquête publique et un nouveau tour d'avis. Le Conseil rappelle qu'en recours administratif, le demandeur ne peut modifier la demande que si trois conditions cumulatives de l'article 64 sont réunies: pas d'atteinte à la protection de l'homme ou de l'environnement ni au bon aménagement du territoire, modifications répondant aux avis ou aux réclamations, et absence manifeste d'atteinte aux droits de tiers. À défaut, et sans nouvelle enquête publique, l'autorité ne peut pas tenir compte des modifications. Le caractère considérable d'une modification n'est pas déterminant. Les pièces déposées après l'enquête publique qui ne font que clarifier la demande sont admises, sauf si elles sont essentielles pour apprécier les inconvénients et les risques du projet. Le Conseil a jugé que les requérants n'ont pas rendu plausible que les modifications étaient essentielles ou portaient atteinte à des tiers, ni que la motivation relative au bruit, à la mobilité et à l'impact visuel était erronée. Il a ajouté qu'il ne substitue pas son appréciation du bon aménagement du territoire à celle de l'autorité. Le recours a été rejeté le 1er octobre 2026 et le droit de rôle de 600 euros a été mis à charge des requérants."
+   ],
+   "scope": "Omgevingsvergunningsdecreet, art. 64, tweede lid (wijziging van de aanvraag in administratief beroep); Vlarem II, art. 1.1.2 (incidenteel geluid)",
+   "dates": {
+    "adopted": "2026-10-01",
+    "published": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0096.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0096.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0096"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0093",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: one petition per permit decision; appeal against dossier-tax inadmissibility rulings dismissed",
+   "a": "The Council for Permit Disputes rejected a single petition aimed at three separate decisions declaring administrative appeals inadmissible for unpaid dossier tax. The petition raised no ground against those decisions and the three were not sufficiently connected to be challenged together.",
+   "b": "The ruling concerns appellants, permit holders and permitting authorities in proceedings before the Council for Permit Disputes (RvVb). It involved three separate environmental permits for detached houses with carports in Schilde. The provincial environmental officer had declared the administrative appeals inadmissible and/or incomplete because proof of payment of the EUR 100 dossier tax was missing. The Council holds that, as a rule, one permit decision may be challenged per petition. Several decisions may be combined only if they are so closely linked that findings in one case are likely to affect the others. Adjacent plots and a joint application were not enough, so the Council treated the petition as aimed at the first decision only and declared it inadmissible as to the other two. The Council also applies article 15, 4° of the Procedurebesluit: a petition must contain at least one admissible ground against the contested decision, and this cannot be remedied afterwards. Here the petition largely repeated the objections made against the municipal permits (water-sensitive open space, EIA) and said nothing on the inadmissibility decision. The Council can only rule on decisions taken in last administrative instance, and not on the municipal permit decisions. The appeal was dismissed, the suspension request was not examined, and the EUR 300 roll fee stays with the petitioner. The ruling was delivered on 1 October 2026.",
+   "nl": [
+    "RvVb: één verzoekschrift per vergunningsbeslissing; beroep tegen onontvankelijkheid wegens dossiertaks verworpen",
+    "De Raad voor Vergunningsbetwistingen verwierp één verzoekschrift tegen drie beslissingen die bestuurlijke beroepen onontvankelijk verklaarden wegens onbetaalde dossiertaks. Het verzoekschrift voerde geen middel aan tegen die beslissingen en de drie beslissingen waren onvoldoende verknocht om samen te worden bestreden.",
+    "Het arrest betreft beroepers, vergunninghouders en vergunningverlenende overheden in procedures bij de Raad voor Vergunningsbetwistingen (RvVb). Het ging om drie afzonderlijke omgevingsvergunningen voor vrijstaande eengezinswoningen met carport in Schilde. De provinciale omgevingsambtenaar had de bestuurlijke beroepen onontvankelijk en/of onvolledig verklaard omdat het betalingsbewijs van de dossiertaks van 100 euro ontbrak. Volgens de Raad kan in de regel slechts één vergunningsbeslissing per verzoekschrift worden bestreden. Meerdere beslissingen kunnen enkel samen worden aangevochten wanneer ze zo met elkaar verbonden zijn dat vaststellingen in de ene zaak waarschijnlijk de uitkomst van de andere beïnvloeden. Aanpalende percelen en een gezamenlijke aanvraag volstonden niet. De Raad beschouwde het verzoekschrift daarom als gericht tegen de eerste beslissing en verklaarde het onontvankelijk voor de overige twee. Ook past de Raad artikel 15, 4° van het Procedurebesluit toe: een verzoekschrift moet minstens één ontvankelijk middel tegen de bestreden beslissing bevatten, en dat kan achteraf niet worden geregulariseerd. Hier herhaalde het verzoekschrift grotendeels de bezwaren tegen de gemeentelijke vergunningen (watergevoelig openruimtegebied, MER) en bevatte het geen kritiek op de onontvankelijkheidsbeslissing. De Raad is enkel bevoegd voor beslissingen in laatste administratieve aanleg en niet voor de vergunningsbeslissingen van het college. Het beroep werd verworpen, de vordering tot schorsing werd niet onderzocht en het rolrecht van 300 euro blijft ten laste van de verzoekende partij. Het arrest werd uitgesproken op 1 oktober 2026."
+   ],
+   "fr": [
+    "RvVb : une requête par décision d'autorisation ; recours contre l'irrecevabilité pour taxe de dossier rejeté",
+    "Le Conseil pour les contestations des autorisations a rejeté une requête unique dirigée contre trois décisions déclarant des recours administratifs irrecevables faute de paiement de la taxe de dossier. La requête ne soulevait aucun moyen contre ces décisions et les trois décisions n'étaient pas suffisamment connexes pour être attaquées ensemble.",
+    "L'arrêt concerne les requérants, les titulaires de permis et les autorités délivrantes dans les procédures devant le Conseil pour les contestations des autorisations (RvVb). Il portait sur trois permis d'environnement distincts pour des maisons unifamiliales isolées avec carport à Schilde. Le fonctionnaire environnemental provincial avait déclaré les recours administratifs irrecevables et/ou incomplets, la preuve de paiement de la taxe de dossier de 100 euros faisant défaut. Selon le Conseil, une seule décision d'autorisation peut en principe être attaquée par requête. Plusieurs décisions ne peuvent l'être ensemble que si elles sont liées au point que les constatations faites dans une affaire sont susceptibles d'influencer l'issue des autres. Des parcelles voisines et une demande introduite conjointement ne suffisaient pas. Le Conseil a donc considéré la requête comme dirigée contre la première décision et l'a déclarée irrecevable pour les deux autres. Le Conseil applique aussi l'article 15, 4° de l'arrêté de procédure (Procedurebesluit) : la requête doit contenir au moins un moyen recevable contre la décision attaquée, et ce défaut ne peut être régularisé ensuite. En l'espèce, la requête reprenait pour l'essentiel les griefs formulés contre les permis communaux (zone ouverte sensible à l'eau, évaluation des incidences) et ne critiquait pas la décision d'irrecevabilité. Le Conseil n'est compétent que pour les décisions prises en dernière instance administrative, et non pour les décisions d'autorisation du collège des bourgmestre et échevins. Le recours a été rejeté, la demande de suspension n'a pas été examinée et le droit de rôle de 300 euros reste à charge de la partie requérante. L'arrêt a été prononcé le 1er octobre 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0093: artikelen 13-16 en 15, 4° Procedurebesluit; artikel 105, §1, 1° Omgevingsvergunningsdecreet",
+   "dates": {
+    "adopted": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0093.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0093.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0093"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0091",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for Destelbergen level-crossing road works: annulled alignment plan no longer a legal basis",
+   "a": "The Council for Permit Disputes annulled the 4 July 2024 environmental permit for road works linked to closing the Groenstraat and Hoenderstraat level crossings in Destelbergen. The Council of State had annulled the municipal alignment plan on which the permit relied, so the permit lacked a legal basis.",
+   "b": "The ruling concerns an environmental permit for road works on municipal roads in Destelbergen, applied for by the rail infrastructure manager as part of closing level crossing 73, and granted on appeal by the deputation. On the first plea, the Council held that the municipality was not an (co-)initiator of the project. The mere fact that the works concern municipal roads, follow an alignment plan or fit the municipal mobility plan does not make the municipality an initiator. Imposing execution conditions, including a cooperation agreement, does not change this, so the municipal executive could rule at first instance despite the EIA screening (art. 15/1 Omgevingsvergunningsdecreet). On the second plea, the Council of State annulled the final municipal council decision and the ministerial rejection decision by judgment of 29 November 2024, which removed the alignment plan retroactively. Since that plan was the legal basis of the permit, the contested decision was annulled; the other pleas were not examined. The Council did not substitute its own decision refusing the permit, because the municipal council could approve the road changes again and adopt a new alignment plan. Costs, including a EUR 400 fee and a EUR 910 procedural indemnity, are borne by the deputation. The ruling was delivered on 1 October 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor wegeniswerken bij overwegen in Destelbergen: vernietigd rooilijnplan geen rechtsgrond meer",
+    "De Raad voor Vergunningsbetwistingen vernietigt de omgevingsvergunning van 4 juli 2024 voor wegeniswerken in het kader van de afsluiting van de overwegen Groenstraat en Hoenderstraat in Destelbergen. De Raad van State had het gemeentelijke rooilijnplan waarop de vergunning steunde vernietigd, zodat de rechtsgrond ontbrak.",
+    "Het arrest betreft een omgevingsvergunning voor wegeniswerken aan gemeentewegen in Destelbergen, aangevraagd door de spoorwegbeheerder in het kader van de afschaffing van overweg 73 en in beroep verleend door de deputatie. Over het eerste middel oordeelt de Raad dat de gemeente geen (mede-)initiatiefnemer van het project is. Het feit dat de werken gemeentewegen betreffen, een rooilijnplan uitvoeren of passen in het gemeentelijk mobiliteitsplan, maakt de gemeente nog geen initiatiefnemer. Ook het opleggen van uitvoeringsvoorwaarden, waaronder een samenwerkingsovereenkomst, verandert dat niet. Het college van burgemeester en schepenen kon dus in eerste aanleg oordelen ondanks de project-MER-screening (artikel 15/1 Omgevingsvergunningsdecreet). Wat het tweede middel betreft, vernietigde de Raad van State bij arrest van 29 november 2024 het definitieve gemeenteraadsbesluit en het ministerieel verwerpingsbesluit, waardoor het rooilijnplan met terugwerkende kracht verdween. Aangezien dat plan de rechtsgrond van de vergunning vormde, wordt de bestreden beslissing vernietigd; de overige middelen worden niet onderzocht. De Raad weigert in de plaats van de deputatie de vergunning te weigeren, omdat de gemeenteraad de wijziging van de gemeentewegen opnieuw kan goedkeuren en een nieuw rooilijnplan kan aannemen. De kosten, met een rolrecht van 400 euro en een rechtsplegingsvergoeding van 910 euro, komen ten laste van de deputatie. Het arrest werd uitgesproken op 1 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis de travaux routiers aux passages à niveau de Destelbergen : le plan d'alignement annulé ne fonde plus le permis",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule le permis d'environnement du 4 juillet 2024 pour des travaux routiers liés à la suppression des passages à niveau Groenstraat et Hoenderstraat à Destelbergen. Le Conseil d'État avait annulé le plan d'alignement communal sur lequel reposait le permis, qui n'avait donc plus de base juridique.",
+    "L'arrêt concerne un permis d'environnement pour des travaux sur des voiries communales à Destelbergen, demandé par le gestionnaire de l'infrastructure ferroviaire dans le cadre de la suppression du passage à niveau 73 et délivré en recours par la députation. Sur le premier moyen, le Conseil juge que la commune n'est pas (co-)initiatrice du projet. Le fait que les travaux portent sur des voiries communales, exécutent un plan d'alignement ou s'inscrivent dans le plan de mobilité communal ne fait pas de la commune une initiatrice. L'imposition de conditions d'exécution, dont une convention de coopération, n'y change rien. Le collège des bourgmestre et échevins pouvait donc statuer en premier ressort malgré le screening project-MER (article 15/1 du Omgevingsvergunningsdecreet). Sur le second moyen, le Conseil d'État a, par arrêt du 29 novembre 2024, annulé la décision définitive du conseil communal et la décision ministérielle de rejet, de sorte que le plan d'alignement a disparu rétroactivement. Ce plan constituant la base juridique du permis, la décision attaquée est annulée ; les autres moyens ne sont pas examinés. Le Conseil refuse de substituer sa propre décision de refus à celle de la députation, le conseil communal pouvant approuver à nouveau la modification des voiries communales et adopter un nouveau plan d'alignement. Les dépens, avec un droit de rôle de 400 euros et une indemnité de procédure de 910 euros, sont mis à charge de la députation. L'arrêt a été prononcé le 1er octobre 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0091 van 1 oktober 2026: artikel 15/1 en artikel 66, §6 Omgevingsvergunningsdecreet; artikelen 8 en 11 Gemeentewegendecreet; artikel 37, §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0091.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0091.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0091"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0084",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Permit Council annuls inadmissibility ruling on neighbour's administrative appeal against Mol fire-escape permit",
+   "a": "The Council for Permit Disputes annulled a provincial environment officer's decision declaring an administrative appeal inadmissible for lack of a described personal interest. The authority must read the whole appeal and may not apply the interest requirement in an overly strict or formalistic way.",
+   "b": "The ruling concerns administrative appeals against municipal permit decisions under the Omgevingsvergunningsdecreet (arts 2 and 53) and the Omgevingsvergunningsbesluit (art. 87, as the case followed the simplified procedure). The appeal was brought by a nearby owner and resident against a permit granted by the Mol municipal executive for a fire escape and a raised dormer in park zoning under the 'Rauw' special zoning plan (BPA). The provincial environment officer had declared it inadmissible because no personal effect was shown. The Council held that the interest must be assessed on the whole appeal document, not just the section describing it. It also held that art. 9.3 of the Aarhus Convention rules out a disproportionately strict or formalistic assessment, particularly because a valid administrative appeal is a precondition for a judicial appeal. The officer had addressed neither the appellant's proximity as owner and resident nor the interest based on uncertainty over the 300 m² maximum extension in art. 6.03 a) of the BPA. This breached the duty of care and the duty to state reasons. The decision is annulled, and the authority must decide on the administrative appeal within one month of the day after notification of the ruling. Costs (court fee of 200 euro and procedural indemnity of 910 euro) are borne by the authority. The ruling was pronounced on 1 October 2026.",
+   "nl": [
+    "RvVb vernietigt onontvankelijkverklaring van bestuurlijk beroep van een buur tegen vergunning voor vluchttrap in Mol",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van een provinciale omgevingsambtenaar die een bestuurlijk beroep onontvankelijk verklaarde bij gebrek aan omschreven persoonlijk belang. Het volledige beroepschrift moet worden gelezen en de belangvereiste mag niet te strikt of formalistisch worden toegepast.",
+    "Het arrest betreft bestuurlijke beroepen tegen vergunningsbeslissingen van het college van burgemeester en schepenen op grond van het Omgevingsvergunningsdecreet (artikelen 2 en 53) en het Omgevingsvergunningsbesluit (artikel 87, omdat de vereenvoudigde procedure werd gevolgd). Het beroep werd ingesteld door een naburige eigenaar en bewoner tegen een vergunning van het college van burgemeester en schepenen van Mol voor een vluchttrap en het verhogen van een dakkapel in parkgebied volgens het BPA 'Rauw'. De provinciale omgevingsambtenaar verklaarde het beroep onontvankelijk omdat er geen persoonlijke gevolgen zouden zijn aangetoond. De Raad oordeelt dat het belang moet worden beoordeeld op basis van het volledige beroepschrift en niet enkel op de rubriek waarin het belang wordt omschreven. Volgens de Raad verbiedt artikel 9.3 van het Verdrag van Aarhus een onevenredig strenge of formalistische beoordeling, des te meer omdat een ontvankelijk bestuurlijk beroep een voorwaarde is voor een ontvankelijk beroep bij de Raad. De ambtenaar besprak noch de nabijheid van de verzoeker als eigenaar en bewoner, noch het belang dat voortvloeit uit de onzekerheid over de maximale uitbreiding van 300 m² in artikel 6.03, a) BPA. Dat schendt de zorgvuldigheids- en motiveringsplicht. De beslissing wordt vernietigd en de verwerende partij moet binnen een maand na de dag van de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 910 euro) komen ten laste van de verwerende partij. Het arrest werd uitgesproken op 1 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA annule l'irrecevabilité du recours administratif d'un voisin contre un permis pour un escalier de secours à Mol",
+    "Le Conseil du contentieux des permis annule la décision d'un fonctionnaire provincial de l'environnement qui avait déclaré irrecevable un recours administratif faute d'intérêt personnel décrit. L'ensemble du recours doit être lu et l'exigence d'intérêt ne peut être appliquée de manière trop stricte ou formaliste.",
+    "L'arrêt porte sur les recours administratifs contre les décisions de permis du collège des bourgmestre et échevins, sur la base du décret relatif au permis d'environnement (articles 2 et 53) et de l'arrêté d'exécution (article 87, la procédure simplifiée ayant été suivie). Le recours a été introduit par un propriétaire et habitant voisin contre un permis délivré par le collège des bourgmestre et échevins de Mol pour un escalier de secours et le rehaussement d'une lucarne en zone de parc selon le PPA 'Rauw'. Le fonctionnaire provincial de l'environnement l'avait déclaré irrecevable, au motif qu'aucune incidence personnelle n'était démontrée. Le Conseil juge que l'intérêt doit être apprécié sur la base de l'ensemble du recours et pas seulement de la rubrique consacrée à l'intérêt. Selon lui, l'article 9.3 de la Convention d'Aarhus exclut une appréciation disproportionnellement sévère ou formaliste, d'autant plus qu'un recours administratif recevable est une condition de la recevabilité du recours devant le Conseil. Le fonctionnaire n'a examiné ni la proximité du requérant en tant que propriétaire et habitant, ni l'intérêt tiré de l'incertitude sur l'extension maximale de 300 m² prévue à l'article 6.03, a) du PPA. Cela méconnaît le devoir de minutie et l'obligation de motivation. La décision est annulée et la partie adverse doit statuer sur le recours administratif dans un délai d'un mois à compter du lendemain de la notification de l'arrêt. Les dépens (droit de rôle de 200 euros et indemnité de procédure de 910 euros) sont à charge de la partie adverse. L'arrêt a été prononcé le 1er octobre 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0084: artikelen 2 en 53 Omgevingsvergunningsdecreet, artikel 87 Omgevingsvergunningsbesluit, artikel 9.3 Verdrag van Aarhus (ontvankelijkheid bestuurlijk beroep, belang van het betrokken publiek)",
+   "dates": {
+    "adopted": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0084.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0084.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0084"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0083",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb rejects appeal against refused permit: unchallenged defective MER screening note ground upholds the refusal",
+   "a": "The Council for Permit Disputes dismissed an appeal against the refusal of an environmental permit for splitting a retail unit and converting part of it to small-scale catering in Antwerp (Wilrijk). The refusal also rested on a defective MER screening note, and the applicant did not challenge that ground.",
+   "b": "The ruling concerns permit applicants who challenge a refusal before the Council for Permit Disputes (RvVb), in particular where an environmental impact screening note is part of the file. The application sought regularisation of splitting a retail unit and converting one unit to take-away catering. The refusal rested on two grounds: the ban on splitting retail space in Article 30 of the Antwerp Building Code, and a defective MER screening note that did not describe noise, vibration and odour. The applicant attacked only the Article 30 ground, claiming it was the sole ground. The Council held that this was incorrect. Where a refusal rests on several grounds that each justify it, the applicant must show all of them to be unlawful. An unchallenged ground stays standing, and criticism of the other grounds, which are then superfluous, cannot lead to annulment even if well founded. The appeal was therefore rejected without the Council assessing whether the grounds were sound. The 200 euro registration fee is charged to the applicant, and the request for a procedural indemnity was refused. The ruling was delivered on 1 October 2026.",
+   "nl": [
+    "RvVb verwerpt beroep tegen geweigerde vergunning: niet-betwiste gebrekkige MER-screeningsnota blijft weigering dragen",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de weigering van een omgevingsvergunning voor het opsplitsen van een detailhandel en een functiewijziging naar kleinschalige horeca in Antwerpen (Wilrijk). De weigering steunde ook op een gebrekkige MER-screeningsnota, en die kritiek werd door de aanvrager niet betwist.",
+    "Het arrest gaat over vergunningsaanvragers die een weigering voor de Raad voor Vergunningsbetwistingen (RvVb) bestrijden, in het bijzonder wanneer een MER-screeningsnota deel uitmaakt van het dossier. De aanvraag beoogde de regularisatie van het opsplitsen van een detailhandel en de functiewijziging van één unit naar take-away horeca. De weigering steunde op twee motieven: het verbod op het opdelen van detailhandelsruimten in artikel 30 van de Antwerpse Bouwcode, en een gebrekkige MER-screeningsnota waarin geluid, trillingen en geur niet werden beschreven. De aanvrager bekritiseerde enkel het motief over artikel 30 en hield voor dat dit het enige weigeringsmotief was. De Raad oordeelt dat dit niet klopt. Wanneer een weigering op meerdere draagkrachtige motieven steunt die elk op zich de beslissing verantwoorden, moet de verzoeker de onwettigheid van al die motieven aantonen. Een niet-bekritiseerd motief blijft overeind, en kritiek op de overige, dan overtollige motieven kan niet tot vernietiging leiden, ook niet als ze gegrond zou zijn. Het beroep wordt dus verworpen, zonder dat de Raad onderzoekt of de motieven deugdelijk zijn. Het rolrecht van 200 euro komt ten laste van de verzoeker en de gevraagde rechtsplegingsvergoeding wordt niet toegekend. Het arrest is uitgesproken op 1 oktober 2026."
+   ],
+   "fr": [
+    "Le RvVb rejette le recours contre un refus de permis : le motif non contesté de screening MER lacunaire suffit à le maintenir",
+    "Le Conseil pour les contestations des permis (RvVb) rejette le recours contre le refus d'un permis d'environnement pour la division d'un commerce de détail et le changement d'affectation vers une petite activité horeca à Anvers (Wilrijk). Le refus reposait aussi sur une note de screening MER lacunaire, motif que le demandeur n'a pas contesté.",
+    "L'arrêt concerne les demandeurs de permis qui contestent un refus devant le Conseil pour les contestations des permis (RvVb), en particulier lorsqu'une note de screening MER fait partie du dossier. La demande visait la régularisation de la division d'un commerce de détail et le changement d'affectation d'une unité en horeca de type take-away. Le refus reposait sur deux motifs : l'interdiction de diviser des espaces de commerce de détail prévue à l'article 30 du règlement communal d'urbanisme (Bouwcode) d'Anvers, et une note de screening MER lacunaire ne décrivant ni le bruit, ni les vibrations, ni les odeurs. Le demandeur n'a critiqué que le motif tiré de l'article 30, en soutenant qu'il était le seul motif de refus. Le Conseil juge que ce n'est pas exact. Lorsqu'un refus repose sur plusieurs motifs, chacun suffisant à le justifier, le requérant doit démontrer l'illégalité de tous. Un motif non critiqué subsiste, et la critique des autres motifs, alors surabondants, ne peut entraîner l'annulation, même si elle était fondée. Le recours est donc rejeté, sans que le Conseil examine le bien-fondé des motifs. Le droit de rôle de 200 euros est mis à la charge du requérant, et l'indemnité de procédure demandée n'est pas accordée. L'arrêt a été prononcé le 1er octobre 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0083 van 1 oktober 2026: omgevingsvergunning, MER-screeningsnota, artikel 30 Bouwcode Antwerpen, weigeringsmotieven",
+   "dates": {
+    "adopted": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0083.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0083.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0083"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0075",
+   "d": "2026-10-01",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: municipality is co-initiator of a social housing company's screening project; permit annulled and set aside",
+   "a": "The Council for Permit Disputes (RvVb) holds that a municipality is a co-initiator of a project submitted by a social housing company operating on its territory. For screening-obliged projects, the municipal executive and its environmental officer therefore cannot decide in first instance on the EIA screening, and the permit was set aside.",
+   "b": "The ruling concerns environmental permit applications for screening-obliged projects (project-EIA screening note) submitted by social housing companies (woonmaatschappijen) in Flanders, and the competence of municipal authorities to decide on them in first instance. Following CJEU C-236/24 and the Council of State ruling of 27 January 2026 (no. 265.582), the Council finds that Article 15/1 of the Environmental Permit Decree transposes Article 9bis of the Project-EIA Directive only incompletely. The Flemish Codex on Housing links the municipality's duties on social housing to those of the housing company, so the municipality counts as co-initiator and 'opdrachtgever' under the Directive. That the municipality does not own the land, will not receive or let the homes, or has already met its binding social target changes nothing. The deputation of the province was therefore competent in first instance. Because Article 9bis has direct effect, the Council sets aside Article 15/1 of the Decree to the extent that it provides no exception where the municipality is merely the initiator. Here the Council annuls the deputation's decision of 20 March 2025 for 6 houses and 18 apartments in Hombeek (Mechelen) and substitutes its ruling for the new decision, setting aside the permit granted in first instance. The ruling was delivered on 1 October 2026 and ordered the costs against the deputation; the basic legal-costs allowance is EUR 910 since 17 June 2026.",
+   "nl": [
+    "RvVb: gemeente is mede-initiatiefnemer van project sociale woonmaatschappij; vergunning vernietigd en opgeheven",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat een gemeente mede-initiatiefnemer is van een project van een sociale woonmaatschappij op haar grondgebied. Voor screeningsplichtige projecten kunnen het college van burgemeester en schepenen en de gemeentelijke omgevingsambtenaar daarom in eerste aanleg niet oordelen over de project-m.e.r.-screening, en de vergunning werd opgeheven.",
+    "Het arrest betreft omgevingsvergunningsaanvragen voor screeningsplichtige projecten (project-m.e.r.-screeningsnota) van sociale woonmaatschappijen in Vlaanderen en de bevoegdheid van de gemeentelijke overheden om er in eerste aanleg over te beslissen. In navolging van HvJ C-236/24 en het arrest van de Raad van State van 27 januari 2026 (nr. 265.582) stelt de Raad vast dat artikel 15/1 van het Omgevingsvergunningsdecreet artikel 9bis van de Project-MER-Richtlijn slechts onvolledig omzet. De Vlaamse Codex Wonen koppelt de taken van de gemeente inzake sociaal woonbeleid aan die van de woonmaatschappij, zodat de gemeente als mede-initiatiefnemer en 'opdrachtgever' in de zin van de richtlijn geldt. Dat de gemeente geen eigenaar is van de gronden, de woningen niet overgedragen of verhuurd krijgt of haar bindend sociaal objectief reeds heeft bereikt, doet daar niets aan af. De deputatie was dus in eerste aanleg bevoegd. Omdat artikel 9bis directe werking heeft, laat de Raad artikel 15/1 van het decreet buiten toepassing in zoverre het geen uitzondering voorziet wanneer de gemeente enkel initiatiefnemer is. De Raad vernietigt hier de beslissing van de deputatie van 20 maart 2025 voor zes woningen en achttien appartementen in Hombeek (Mechelen), stelt zijn arrest in de plaats van de nieuw te nemen beslissing en heft de in eerste aanleg verleende vergunning op. Het arrest werd uitgesproken op 1 oktober 2026 en legt de kosten ten laste van de deputatie; het basisbedrag van de rechtsplegingsvergoeding bedraagt sinds 17 juni 2026 910 euro."
+   ],
+   "fr": [
+    "CCAP : la commune est co-initiatrice du projet d'une société de logement social ; permis annulé et supprimé",
+    "Le Conseil pour les contestations de permis (RvVb) juge qu'une commune est co-initiatrice d'un projet d'une société de logement social active sur son territoire. Pour les projets soumis à screening, le collège des bourgmestre et échevins et le fonctionnaire communal de l'environnement ne peuvent donc pas statuer en première instance sur le screening de l'étude d'incidences, et le permis a été supprimé.",
+    "L'arrêt concerne les demandes de permis d'environnement pour des projets soumis à screening (note de screening project-EIE) introduites par des sociétés de logement social en Flandre, et la compétence des autorités communales pour en décider en première instance. À la suite de l'arrêt CJUE C-236/24 et de l'arrêt du Conseil d'État du 27 janvier 2026 (n° 265.582), le Conseil constate que l'article 15/1 du décret sur le permis d'environnement ne transpose que de manière incomplète l'article 9bis de la directive EIE-projets. Le Code flamand du logement lie les missions de la commune en matière de politique sociale du logement à celles de la société de logement, de sorte que la commune est co-initiatrice et « maître d'ouvrage » au sens de la directive. Le fait que la commune ne soit pas propriétaire des terrains, ne reçoive ni ne loue les logements ou ait déjà atteint son objectif social contraignant n'y change rien. La députation provinciale était donc compétente en première instance. L'article 9bis ayant un effet direct, le Conseil écarte l'article 15/1 du décret dans la mesure où il ne prévoit aucune exception lorsque la commune est seulement initiatrice. Le Conseil annule ici la décision de la députation du 20 mars 2025 pour six maisons et dix-huit appartements à Hombeek (Malines), substitue son arrêt à la nouvelle décision à prendre et supprime le permis délivré en première instance. L'arrêt a été prononcé le 1er octobre 2026 et met les dépens à charge de la députation ; le montant de base de l'indemnité de procédure est de 910 euros depuis le 17 juin 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0075 – art. 15/1 Omgevingsvergunningsdecreet en art. 9bis Project-MER-Richtlijn (screening, belangenvermenging)",
+   "dates": {
+    "adopted": "2026-10-01",
+    "published": "2026-10-01"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0075.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0075.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0075"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-52026pc0523",
+   "d": "2026-10-01",
+   "j": [
+    "EU"
+   ],
+   "t": "prop",
+   "s": "Proposal",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Commission proposes hydrogen as reference fuel for type-approval testing of non-road mobile machinery engines",
+   "a": "The Commission proposes to amend Regulation (EU) 2016/1628 so that hydrogen is added to the list of reference fuels for testing engine types and families. Engines running solely on hydrogen would also be exempt from the CO2 value that manufacturers must pass on to OEMs.",
+   "b": "The proposal concerns manufacturers of engines for non-road mobile machinery (NRMM) and the type-approval authorities applying Regulation (EU) 2016/1628. Hydrogen is currently not a reference fuel under Article 25, so hydrogen-fuelled engines cannot be type-approved within that framework. The proposal adds hydrogen as point (g) to Article 25(2), first subparagraph. It also amends Article 43(4): manufacturers keep the duty to give OEMs the CO2 emissions value determined in type-approval and to instruct OEMs to pass it on to end-users with information on the test conditions, but this value is not required for engines operated solely on hydrogen. The Commission presents the change as aligning EU rules with UNECE Regulation No 96 Revision 04, which already recognises hydrogen. The proposal is optional in effect, since it creates a possibility rather than a new obligation. It would enter into force on the twentieth day after publication in the Official Journal; it still has to be adopted by the European Parliament and the Council.",
+   "nl": [
+    "Commissie stelt waterstof voor als referentiebrandstof voor de typegoedkeuring van motoren voor niet-voor-de-weg-bestemde mobiele machines",
+    "De Commissie stelt voor Verordening (EU) 2016/1628 te wijzigen zodat waterstof wordt toegevoegd aan de referentiebrandstoffen voor het testen van motortypen en motorfamilies. Motoren die uitsluitend op waterstof werken, zouden bovendien vrijgesteld zijn van de CO2-waarde die fabrikanten aan OEM's moeten doorgeven.",
+    "Het voorstel betreft fabrikanten van motoren voor niet-voor-de-weg-bestemde mobiele machines (NRMM) en de typegoedkeuringsinstanties die Verordening (EU) 2016/1628 toepassen. Waterstof is momenteel geen referentiebrandstof krachtens artikel 25, waardoor motoren op waterstof niet binnen dat kader kunnen worden goedgekeurd. Het voorstel voegt waterstof toe als punt g) aan artikel 25, lid 2, eerste alinea. Ook artikel 43, lid 4, wordt gewijzigd: fabrikanten moeten de tijdens de typegoedkeuring bepaalde CO2-emissiewaarde nog steeds ter beschikking stellen van de OEM's en hen opdragen die samen met toelichting over de testomstandigheden aan de eindgebruiker door te geven, maar die waarde is niet vereist voor motoren die uitsluitend op waterstof werken. Volgens de Commissie sluit de wijziging aan bij VN/ECE-Reglement nr. 96, herziening 04, dat waterstof al erkent. Het voorstel heeft een optioneel karakter, aangezien het een mogelijkheid creëert en geen nieuwe verplichting. Het zou in werking treden op de twintigste dag na bekendmaking in het Publicatieblad van de Europese Unie; het moet nog door het Europees Parlement en de Raad worden aangenomen."
+   ],
+   "fr": [
+    "La Commission propose l'hydrogène comme carburant de référence pour la réception des moteurs de engins mobiles non routiers",
+    "La Commission propose de modifier le règlement (UE) 2016/1628 afin d'ajouter l'hydrogène aux carburants de référence pour l'essai des types et familles de moteurs. Les moteurs fonctionnant uniquement à l'hydrogène seraient en outre dispensés de la valeur de CO2 que les constructeurs doivent transmettre aux OEM.",
+    "La proposition concerne les constructeurs de moteurs pour engins mobiles non routiers (EMNR) et les autorités de réception qui appliquent le règlement (UE) 2016/1628. L'hydrogène n'est actuellement pas un carburant de référence au titre de l'article 25, de sorte que les moteurs à hydrogène ne peuvent pas être réceptionnés dans ce cadre. La proposition ajoute l'hydrogène en tant que point g) à l'article 25, paragraphe 2, premier alinéa. Elle modifie aussi l'article 43, paragraphe 4: les constructeurs continuent de mettre à la disposition des OEM la valeur des émissions de CO2 déterminée lors de la réception par type et de leur demander de la communiquer à l'utilisateur final avec des informations sur les conditions d'essai, mais cette valeur n'est pas exigée pour les moteurs fonctionnant uniquement à l'hydrogène. Selon la Commission, la modification aligne le cadre de l'UE sur le règlement nº 96 de la CEE-ONU, révision 04, qui reconnaît déjà l'hydrogène. La proposition a un effet facultatif, puisqu'elle crée une possibilité sans imposer de nouvelle obligation. Elle entrerait en vigueur le vingtième jour suivant sa publication au Journal officiel de l'Union européenne; elle doit encore être adoptée par le Parlement européen et le Conseil."
+   ],
+   "scope": "Proposal COM(2026) 523 amending Regulation (EU) 2016/1628: Article 25(2) (reference fuels) and Article 43(4) (CO2 value)",
+   "dates": {
+    "published": "2026-10-01"
+   },
+   "u": [
+    [
+     "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2016/1628 as regards the inclusion of hydro",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0523"
+    ]
+   ],
+   "inbox": [
+    "eu:52026PC0523"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0073",
+   "d": "2026-09-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb suspends Ventilus 'Gezelle' substation permit: species assessment and derogation postponed until after permit",
+   "a": "On 30 September 2026 the Flemish Permit Disputes Council suspended, on grounds of extreme urgency, the permit for extending the 'Gezelle' high-voltage substation in Bruges (Ventilus). On a prima facie basis, the permit was granted without knowing which protected species are present, and the decision on a Species Decree derogation was deferred to after the permit.",
+   "b": "The ruling concerns the environmental permit of 27 April 2026 for extending the 380 kV 'Gezelle' substation in Bruges, part of the Ventilus project, and affects the permitting authority, the permit holder and developers of EIA-subject projects in Flanders. The Council finds, prima facie, that the species assessment in the project EIA is incomplete because no site-specific inventory exists for several protected species (e.g. certain plants, nesting birds, bats). A screening before the works start, imposed as a permit condition, does not remedy this, as it defers an essential part of the environmental assessment to after the permit. The Council also finds it prima facie careless that the permitting authority left the assessment of and decision on a derogation from the Species Decree until after the permit, although the species assessment already indicated for which species a derogation should be sought. It holds that the Species Decree procedure, which allows derogations for an EIA-subject project after the permit is issued, cannot be reconciled with the aim of a complete and timely assessment under Article 2(1) of the Project-EIA Directive, and that it does not lend itself to a directive-compliant interpretation. The passing reference to Article 16septies of the RED III Directive (Article 114/9 of the Omgevingsvergunningsdecreet, presumption of overriding public interest) does not alter this, since the decision does not explain why it would apply. The request for provisional measures is rejected as it was not substantiated. The permit is suspended in the judgment of 30 September 2026, and costs (EUR 100 filing fee and EUR 910 procedural indemnity) are borne by the Flemish authority.",
+   "nl": [
+    "RvVb schorst vergunning Ventilus-station 'Gezelle': soortentoets en afwijking doorgeschoven naar na de vergunning",
+    "Op 30 september 2026 schorste de Raad voor Vergunningsbetwistingen bij uiterst dringende noodzakelijkheid de vergunning voor de uitbreiding van het hoogspanningsstation 'Gezelle' in Brugge (Ventilus). Op het eerste gezicht werd vergund zonder te weten welke beschermde soorten voorkomen en werd de beslissing over een afwijking van het Soortenbesluit uitgesteld tot na de vergunning.",
+    "Het arrest betreft de omgevingsvergunning van 27 april 2026 voor de uitbreiding van het 380 kV-hoogspanningsstation 'Gezelle' in Brugge, onderdeel van het Ventilus-project, en treft de vergunningverlenende overheid, de vergunninghouder en initiatiefnemers van MER-plichtige projecten in Vlaanderen. De Raad oordeelt op het eerste gezicht dat de soortentoets in het project-MER onvolledig is omdat een concrete, locatiespecifieke inventarisatie van verschillende beschermde soorten ontbreekt (onder meer bepaalde planten, broedvogels en vleermuizen). Een screening vóór de start van de werken als vergunningsvoorwaarde verhelpt dat niet, omdat zo een essentieel onderdeel van de milieueffectenbeoordeling naar na de vergunning wordt doorgeschoven. Ook handelt de vergunningverlener op het eerste gezicht onzorgvuldig door de beoordeling van en de beslissing over een afwijking van het Soortenbesluit uit te stellen tot na de vergunning, hoewel de soortentoets al aangaf voor welke soorten een afwijking best wordt aangevraagd. Volgens de Raad is de procedure van het Soortenbesluit, die afwijkingen voor een MER-plichtig project na de afgifte van de vergunning toelaat, niet te verzoenen met de doelstelling van een volledige en tijdige milieueffectbeoordeling van artikel 2, eerste lid van de Project-MER-richtlijn, en laat ze geen richtlijnconforme interpretatie toe. De terloopse verwijzing naar artikel 16septies van de RED III-richtlijn (artikel 114/9 van het Omgevingsvergunningsdecreet, vermoeden van hoger openbaar belang) doet daar niets aan af, omdat niet blijkt waarom die bepaling hier van toepassing zou zijn. Het verzoek tot voorlopige maatregelen wordt verworpen omdat het niet werd geconcretiseerd. De vergunning wordt geschorst bij arrest van 30 september 2026; de kosten (rolrecht van 100 euro en rechtsplegingsvergoeding van 910 euro) komen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCAP suspend le permis de la sous-station 'Gezelle' (Ventilus) : test des espèces et dérogation reportés après le permis",
+    "Le 30 septembre 2026, le Conseil flamand du contentieux des autorisations (RvVb) a suspendu, en extrême urgence, le permis d'extension de la sous-station à haute tension 'Gezelle' à Bruges (Ventilus). À première vue, le permis a été délivré sans connaître les espèces protégées présentes et la décision sur une dérogation au Soortenbesluit a été reportée après le permis.",
+    "L'arrêt concerne le permis d'environnement du 27 avril 2026 pour l'extension de la sous-station 380 kV 'Gezelle' à Bruges, élément du projet Ventilus ; il touche l'autorité délivrante, le titulaire du permis et les porteurs de projets soumis à l'étude d'incidences (MER) en Flandre. Le Conseil estime à première vue que le test des espèces du MER de projet est incomplet, faute d'inventaire concret et propre au site pour plusieurs espèces protégées (notamment certaines plantes, oiseaux nicheurs et chauves-souris). Un dépistage avant le début des travaux, imposé comme condition du permis, n'y remédie pas, car il reporte après le permis une partie essentielle de l'évaluation des incidences. Le Conseil juge aussi, à première vue, que l'autorité a agi sans le soin requis en reportant après le permis l'examen et la décision sur une dérogation au Soortenbesluit, alors que le test des espèces indiquait déjà pour quelles espèces une dérogation devait être demandée. Selon lui, la procédure du Soortenbesluit, qui permet d'accorder des dérogations pour un projet soumis au MER après la délivrance du permis, ne se concilie pas avec l'objectif d'une évaluation complète et en temps utile de l'article 2, alinéa 1er de la directive EIE, et ne se prête pas à une interprétation conforme à la directive. La référence incidente à l'article 16septies de la directive RED III (article 114/9 du décret sur le permis d'environnement, présomption d'intérêt public supérieur) n'y change rien, la décision n'expliquant pas pourquoi cette disposition s'appliquerait. La demande de mesures provisoires est rejetée car elle n'a pas été concrétisée. Le permis est suspendu par l'arrêt du 30 septembre 2026 ; les dépens (droit de rôle de 100 euros et indemnité de procédure de 910 euros) sont à charge de la partie adverse."
+   ],
+   "scope": "Arrest RVVB.2627.0073 van 30 september 2026: schorsing UDN omgevingsvergunning hoogspanningsstation Gezelle (Ventilus); artikelen 10, 14, 19-23 Soortenbesluit; artikel 2 Project-MER-richtlijn; artikel 114/9 Omgevingsvergunningsdecreet",
+   "dates": {
+    "adopted": "2026-09-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0073.",
+     "https://www.dbrc.be/sites/default/files/2026-10/RVVB.2627.0073.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0073"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-62024tj0449",
+   "d": "2026-09-30",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "energy-climate"
+   ],
+   "h": "General Court judgment on challenge to EU Taxonomy screening criteria for aviation and maritime transport",
+   "a": "In Case T-449/24, the General Court reviewed the Commission's refusal to carry out an internal review of Delegated Regulation 2023/2485, which added Taxonomy criteria for aircraft and shipping. NGOs including Belgian Dryade VZW argued the criteria breach Article 19 of the Taxonomy Regulation.",
+   "b": "The case concerns manufacturers, lessors and operators of aircraft, shipping companies and financial market participants that rely on the EU Taxonomy criteria for aviation and maritime transport. The applicants, three NGOs including Belgian Dryade VZW, challenge the Commission's decision rejecting their request for internal review under the Aarhus Regulation. The request targeted the criteria in Sections 3.21, 6.18 and 6.19 (aircraft manufacturing, leasing and air transport) and in Sections 6.10 and 6.11 (sea and coastal freight and passenger transport) of Annex I to Delegated Regulation 2021/2139, as inserted by Delegated Regulation 2023/2485. Those criteria include CO2 margins against ICAO limits combined with a replacement ratio, rising shares of sustainable aviation fuels, and EEDI/EEXI and greenhouse gas intensity limits for ships. The applicants rely on five pleas: errors of law on Article 19 of the Taxonomy Regulation (conclusive scientific evidence, the precautionary principle, balancing of requirements, existing EU legislation, regular reassessment), the ease-of-use requirement, and manifest errors of assessment for aviation and shipping. The Court recalls that the Commission has broad discretion in setting such criteria, so its review is limited to materially incorrect facts, manifest errors of assessment and misuse of powers. It also recalls that review proceedings cannot rest on grounds absent from the request for internal review. The judgment is dated 30 September 2026, after a hearing on 24 February 2026; the contested decision dates from June 2024.",
+   "nl": [
+    "Arrest van het Gerecht over betwisting van Taxonomiecriteria voor luchtvaart en zeevervoer",
+    "In zaak T-449/24 toetste het Gerecht de weigering van de Commissie om Gedelegeerde Verordening 2023/2485, met Taxonomiecriteria voor vliegtuigen en schepen, intern te herzien. Ngo's, onder wie het Belgische Dryade VZW, voeren schending van artikel 19 van de Taxonomieverordening aan.",
+    "De zaak betreft fabrikanten, lessors en exploitanten van luchtvaartuigen, rederijen en financiëlemarktdeelnemers die zich op de Taxonomiecriteria voor luchtvaart en zeevervoer baseren. De verzoekers, drie ngo's waaronder het Belgische Dryade VZW, betwisten de beslissing waarmee de Commissie hun verzoek om interne herziening op grond van de Aarhusverordening afwees. Het verzoek richtte zich op de criteria in de afdelingen 3.21, 6.18 en 6.19 (vervaardiging en leasing van vliegtuigen, luchtvervoer) en in de afdelingen 6.10 en 6.11 (vervoer over zee en kustvaart van goederen en passagiers) van bijlage I bij Gedelegeerde Verordening 2021/2139, zoals ingevoegd bij Gedelegeerde Verordening 2023/2485. Die criteria omvatten onder meer CO2-marges ten opzichte van de ICAO-limieten in combinatie met een vervangingsratio, stijgende aandelen duurzame luchtvaartbrandstoffen, en EEDI/EEXI- en broeikasgasintensiteitslimieten voor schepen. De verzoekers voeren vijf middelen aan: rechtsdwalingen inzake artikel 19 van de Taxonomieverordening (afdoende wetenschappelijk bewijs, voorzorgsbeginsel, afweging van de vereisten, bestaande EU-wetgeving, regelmatige herbeoordeling), het vereiste van gebruiksgemak, en kennelijke beoordelingsfouten voor luchtvaart en zeevaart. Het Gerecht herinnert eraan dat de Commissie bij het vaststellen van dergelijke criteria over een ruime beoordelingsmarge beschikt, zodat de toetsing beperkt blijft tot feitelijk onjuiste gegevens, kennelijke beoordelingsfouten en misbruik van bevoegdheid. Ook herinnert het eraan dat een beroep na interne herziening niet op gronden mag steunen die niet in het verzoek om herziening stonden. Het arrest is gewezen op 30 september 2026, na een terechtzitting op 24 februari 2026; de bestreden beslissing dateert van juni 2024."
+   ],
+   "fr": [
+    "Arrêt du Tribunal sur la contestation des critères de la taxonomie pour l'aviation et le transport maritime",
+    "Dans l'affaire T-449/24, le Tribunal a examiné le refus de la Commission de réexaminer en interne le règlement délégué 2023/2485, qui contient des critères de la taxonomie pour les aéronefs et les navires. Des ONG, dont l'association belge Dryade VZW, invoquent une violation de l'article 19 du règlement Taxonomie.",
+    "L'affaire concerne les constructeurs, loueurs et exploitants d'aéronefs, les armateurs et les acteurs des marchés financiers qui s'appuient sur les critères de la taxonomie pour l'aviation et le transport maritime. Les requérantes, trois ONG dont l'association belge Dryade VZW, contestent la décision par laquelle la Commission a rejeté leur demande de réexamen interne fondée sur le règlement Aarhus. La demande visait les critères des sections 3.21, 6.18 et 6.19 (construction et location d'aéronefs, transport aérien) et des sections 6.10 et 6.11 (transport maritime et côtier de marchandises et de passagers) de l'annexe I du règlement délégué 2021/2139, tels qu'insérés par le règlement délégué 2023/2485. Ces critères comprennent notamment des marges d'émissions de CO2 par rapport aux limites de l'OACI assorties d'un ratio de remplacement, des parts croissantes de carburants d'aviation durables, ainsi que des limites EEDI/EEXI et d'intensité en gaz à effet de serre pour les navires. Les requérantes invoquent cinq moyens : des erreurs de droit quant à l'article 19 du règlement Taxonomie (preuves scientifiques concluantes, principe de précaution, mise en balance des exigences, législation de l'Union existante, réexamen régulier), l'exigence de facilité d'utilisation, et des erreurs manifestes d'appréciation pour l'aviation et le transport maritime. Le Tribunal rappelle que la Commission dispose d'un large pouvoir d'appréciation pour fixer de tels critères, de sorte que son contrôle se limite aux faits matériellement inexacts, aux erreurs manifestes d'appréciation et au détournement de pouvoir. Il rappelle aussi que le recours ne peut reposer sur des moyens absents de la demande de réexamen. L'arrêt est daté du 30 septembre 2026, après une audience le 24 février 2026 ; la décision attaquée date de juin 2024."
+   ],
+   "scope": "Judgment T-449/24 Dryade VZW and Others v Commission – Delegated Regulation (EU) 2023/2485 (Annex I, Sections 3.21, 6.10, 6.11, 6.18, 6.19 of Delegated Regulation 2021/2139); Article 19 Taxonomy Regulation; Article 10 Aarhus Regulation",
+   "dates": {
+    "adopted": "2026-09-30"
+   },
+   "u": [
+    [
+     "Judgment of the General Court (First Chamber) of 30 September 2026.#Dryade VZW and Others v European Commission.#Environment – Aarhus Conven",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024TJ0449"
+    ]
+   ],
+   "inbox": [
+    "eu:62024TJ0449"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-22"
