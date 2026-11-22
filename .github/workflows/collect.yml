@@ -31,10 +31,12 @@ jobs:
       - name: Qualify (one verdict per publication)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
         run: python pipeline/assess.py
       - name: Write entries for relevant publications
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
         run: python pipeline/write_entries.py
       - name: Commit data
         if: github.ref == 'refs/heads/main'

@@ -93,7 +93,7 @@ def assess(items, log, client, today, limit=2400):
         except llm.CapReached:
             break
         except Exception as e:
-            log["last_error"] = str(e)[:200]
+            log["last_error"] = str(e)[:900]
             break
         for n, it in enumerate(batch):
             r = rows.get(n + 1)

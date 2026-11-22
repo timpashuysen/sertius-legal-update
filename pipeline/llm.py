@@ -26,7 +26,8 @@ class Client:
 
     def _post(self, payload):
         req = urllib.request.Request(API, data=json.dumps(payload).encode(), method="POST", headers={
-            "x-api-key": self.key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+            "x-api-key": self.key, "anthropic-version": "2023-06-01", "content-type": "application/json",
+            **({"anthropic-workspace-id": os.environ["ANTHROPIC_WORKSPACE_ID"]} if os.environ.get("ANTHROPIC_WORKSPACE_ID") else {})})
         for attempt in range(4):
             try:
                 with urllib.request.urlopen(req, timeout=180) as r:
@@ -35,7 +36,7 @@ class Client:
                 if e.code in (429, 500, 502, 503, 529) and attempt < 3:
                     time.sleep(8 * (attempt + 1))
                     continue
-                raise RuntimeError("API error %d: %s" % (e.code, e.read()[:300].decode("utf-8", "replace")))
+                raise RuntimeError("API error %d: %s" % (e.code, e.read()[:900].decode("utf-8", "replace")))
 
     def ask(self, model, system, user, max_tokens=2000):
         if self.spent >= self.cap:
