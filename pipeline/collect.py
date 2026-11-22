@@ -558,7 +558,7 @@ def save_texts(items, state, per_source=40, budget=240):
             r["last_error"] = repr(e)[:200]
             if "404" in repr(e) or "too short" in repr(e):
                 gave_up.add(it["id"])  # no text at this address: do not retry every run
-        time.sleep(0.4)
+        time.sleep(1 if it["src"] == "staatsblad" else 0.4)
     state["text_failed"] = sorted(gave_up)
     return res
 
