@@ -698,6 +698,93 @@ def collect_rvvb(state, items):
             "summary": idx.get("summary", {})}
 
 
+def _feed_items(raw):
+    """(title, link, date) from an RSS or Atom feed."""
+    out = []
+    root = ET.fromstring(raw)
+    for el in root.iter():
+        tag = el.tag.split("}")[-1]
+        if tag not in ("item", "entry"):
+            continue
+        title = link = date = ""
+        for c in el:
+            t = c.tag.split("}")[-1]
+            if t == "title":
+                title = strip_html(c.text or "")
+            elif t == "link":
+                link = (c.get("href") or c.text or "").strip() or link
+            elif t in ("pubDate", "published", "updated", "date") and not date:
+                date = (c.text or "").strip()[:40]
+        if title and link:
+            out.append((title, link, date))
+    return out
+
+
+def index_source(url, timeout=25):
+    """Recent article titles and links of one monitored site: its feed if it has one, else its page links."""
+    _, raw = http(url, timeout=timeout)
+    page = raw.decode("utf-8", "replace")
+    if page.lstrip()[:200].lower().startswith(("<?xml", "<rss", "<feed")):
+        return _feed_items(raw), "feed"
+    m = re.search(r'<link[^>]+type="application/(?:rss|atom)\+xml"[^>]*>', page, re.I)
+    if m:
+        h = re.search(r'href="([^"]+)"', m.group(0))
+        if h:
+            try:
+                _, fraw = http(urllib.parse.urljoin(url, h.group(1)), timeout=timeout)
+                items = _feed_items(fraw)
+                if items:
+                    return items, "feed"
+            except Exception:
+                pass
+    host = urllib.parse.urlsplit(url).netloc.lower().removeprefix("www.")
+    out, seen = [], set()
+    for href, inner in re.findall(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', page, re.S | re.I):
+        title = strip_html(inner)
+        link = urllib.parse.urljoin(url, href)
+        lhost = urllib.parse.urlsplit(link).netloc.lower().removeprefix("www.")
+        if lhost != host or link in seen or not (35 <= len(title) <= 220) or title.count(" ") < 4:
+            continue
+        seen.add(link)
+        out.append((title, link, ""))
+    return out, "page"
+
+
+def collect_editorial(state, items):
+    """Index of the monitored editorial sites in data/sources.json (law firms, legal publishers).
+
+    Only titles and links are kept, and only of articles whose title matches a practice area. They
+    are editorial context: nothing is written from them. Result in data/editorial.json.
+    """
+    sources = load("sources.json", {"sources": []}).get("sources", [])
+    old = load("editorial.json", {"articles": [], "sources": {}})
+    known = {a["url"]: a for a in old.get("articles", [])}
+    report, today = {}, TODAY.isoformat()
+    for src in sources:
+        r = {"checked": today, "ok": False, "listed": 0, "matched": 0}
+        try:
+            found, how = index_source(src["url"])
+            r.update(ok=True, how=how, listed=len(found))
+            for title, link, date in found[:80]:
+                k = classify(title)
+                if not k:
+                    continue
+                r["matched"] += 1
+                if link not in known:
+                    known[link] = {"source": src["name"], "title": title[:220], "url": link, "date": date, "seen": today, "k": k}
+        except Exception as e:
+            r["error"] = repr(e)[:160]
+            r["last_ok"] = old.get("sources", {}).get(src["url"], {}).get("last_ok", "")
+        if r["ok"]:
+            r["last_ok"] = today
+        report[src["url"]] = r
+        time.sleep(1)
+    arts = sorted(known.values(), key=lambda a: a["seen"], reverse=True)[:600]
+    (DATA / "editorial.json").write_text(json.dumps({"updated": today, "sources": report, "articles": arts}, ensure_ascii=False, indent=0), "utf-8")
+    return {"ok": True, "sites": len(sources), "reachable": sum(1 for r in report.values() if r["ok"]),
+            "articles": len(arts), "new": sum(1 for a in arts if a["seen"] == today and a["url"] not in {x["url"] for x in old.get("articles", [])})}
+
+
 def save_texts(items, state, per_source=40, budget=240):
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
@@ -759,7 +846,7 @@ def main():
         state["sb_rules"] = SB_RULES
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb), ("cass", collect_cass)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb), ("cass", collect_cass), ("editorial", collect_editorial)):
         t0 = time.time()
         try:
             res = fn(state, items)

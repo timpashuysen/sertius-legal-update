@@ -81,13 +81,14 @@ until that number is reached or no relevant item with a usable text file is left
 early to save time; commit and push every 15 entries so nothing is lost if the run is cut off.
 
 ## Monitored editorial sources
-`data/sources.json` lists websites of law firms and legal publishers that Sertius wants followed
-(the legal department can add to it). They give editorial context only; entries are never written
-from them. In each run, after the entries are written and if time allows:
-- For up to `editorial` sources (limits.json), oldest-checked first, read the listed page with the
-  web-fetch tool and ask for the titles, dates and links of its most recent articles. If the tool is
-  missing or the site refuses, record that in `sources_checked` and move on; never try another way.
-- An article is of use only when it discusses an act or ruling that already has an entry in
-  data/digest.json. For such an article add ["<publisher>: <article title>", "<article URL>"] to the
-  end of that entry's "u" list (at most two editorial links per entry). Do not quote or summarise it.
-- Keep `sources_checked` in data/digest-state.json: {"<source url>": {"last": "<date>", "seen": [article URLs]}}.
+`data/sources.json` lists websites of law firms and legal publishers that Sertius wants followed.
+The collector indexes them on every run without AI and keeps the titles and links of articles that
+match a practice area in `data/editorial.json` ("articles": source, title, url, date, seen, k).
+They give editorial context only; entries are never written from them. In each run, after the
+entries are written:
+- Look at up to 40 articles in data/editorial.json whose url is not in `editorial_seen`
+  (data/digest-state.json), newest first, and add their urls to `editorial_seen`.
+- An article is of use only when its title shows it discusses an act or ruling that already has an
+  entry in data/digest.json. For such an article add ["<source>: <article title>", "<article URL>"]
+  to the end of that entry's "u" list (at most two editorial links per entry). Do not open, quote
+  or summarise the article.

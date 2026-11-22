@@ -157,5 +157,24 @@ class Cassation(unittest.TestCase):
         self.assertIn("bodemverontreiniging", rows[0]["summary"])
 
 
+class Editorial(unittest.TestCase):
+    def test_feed_items(self):
+        rss = (b'<?xml version="1.0"?><rss><channel><item><title>Nieuw bodemdecreet: wat verandert er?</title>'
+               b'<link>https://firm.test/a</link><pubDate>Mon, 02 Nov 2026</pubDate></item></channel></rss>')
+        self.assertEqual(collect._feed_items(rss), [("Nieuw bodemdecreet: wat verandert er?", "https://firm.test/a", "Mon, 02 Nov 2026")])
+
+    def test_page_links(self):
+        page = ('<a href="/nieuws/omgevingsvergunning-hervormd">De omgevingsvergunning wordt grondig hervormd in 2026</a>'
+                '<a href="/contact">Contact</a><a href="https://other.test/x">Een lange titel op een andere site met vijf woorden</a>')
+        orig = collect.http
+        collect.http = lambda url, **kw: (200, page.encode())
+        try:
+            items, how = collect.index_source("https://www.firm.test/nieuws")
+        finally:
+            collect.http = orig
+        self.assertEqual(how, "page")
+        self.assertEqual(items, [("De omgevingsvergunning wordt grondig hervormd in 2026", "https://www.firm.test/nieuws/omgevingsvergunning-hervormd", "")])
+
+
 if __name__ == "__main__":
     unittest.main()
