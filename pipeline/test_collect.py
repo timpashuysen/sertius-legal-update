@@ -167,7 +167,7 @@ class Editorial(unittest.TestCase):
         page = ('<a href="/nieuws/omgevingsvergunning-hervormd">De omgevingsvergunning wordt grondig hervormd in 2026</a>'
                 '<a href="/contact">Contact</a><a href="https://other.test/x">Een lange titel op een andere site met vijf woorden</a>')
         orig = collect.http
-        collect.http = lambda url, **kw: (200, page.encode())
+        collect.http = lambda url, **kw: (200, page.encode())  # headers and timeout ignored
         try:
             items, how = collect.index_source("https://www.firm.test/nieuws")
         finally:

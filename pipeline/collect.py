@@ -698,6 +698,10 @@ def collect_rvvb(state, items):
             "summary": idx.get("summary", {})}
 
 
+# Publishers' sites refuse an unfamiliar client name; this is the usual form for a named robot.
+WEB_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; SertiusLegalUpdate/1.0; +https://timpashuysen.github.io/sertius-legal-update/)"}
+
+
 def _feed_items(raw):
     """(title, link, date) from an RSS or Atom feed."""
     out = []
@@ -723,7 +727,7 @@ def _feed_items(raw):
 
 def index_source(url, timeout=25):
     """Recent article titles and links of one monitored site: its feed if it has one, else its page links."""
-    _, raw = http(url, timeout=timeout)
+    _, raw = http(url, headers=WEB_HEADERS, timeout=timeout)
     page = raw.decode("utf-8", "replace")
     if page.lstrip()[:200].lower().startswith(("<?xml", "<rss", "<feed")):
         return _feed_items(raw), "feed"
@@ -732,7 +736,7 @@ def index_source(url, timeout=25):
         h = re.search(r'href="([^"]+)"', m.group(0))
         if h:
             try:
-                _, fraw = http(urllib.parse.urljoin(url, h.group(1)), timeout=timeout)
+                _, fraw = http(urllib.parse.urljoin(url, h.group(1)), headers=WEB_HEADERS, timeout=timeout)
                 items = _feed_items(fraw)
                 if items:
                     return items, "feed"
