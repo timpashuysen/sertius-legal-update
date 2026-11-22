@@ -396,11 +396,9 @@ def _sb_day(day, timeout=20):
 
 
 def _sb_official_url(day, numac):
-    pub_date = "%02d-%02d-%02d" % (day.year % 100, day.month, day.day)
-    query = urllib.parse.urlencode({
-        "language": "nl", "caller": "summary", "pub_date": pub_date, "numac": numac,
-    })
-    return "https://www.ejustice.just.fgov.be/cgi/article_body.pl?" + query
+    """The gazette's permanent-link form: publication date plus NUMAC."""
+    query = urllib.parse.urlencode({"lg": "nl", "pd": day.isoformat(), "numac": numac})
+    return "https://www.ejustice.just.fgov.be/cgi/api2.pl?" + query
 
 
 def _sb_item(day, numac, href, raw):
@@ -409,12 +407,18 @@ def _sb_item(day, numac, href, raw):
     if not SB_KEEP.search(searchable) or SB_DROP.search(searchable):
         return None
     kind = "guide" if re.search(r"\b(circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", title, re.I) else "law"
+    level = _sb_level(_sb_authority(raw))
+    topics = classify(title)
+    if level in ("VL", "WAL"):
+        return None  # already collected from the Vlaamse Codex and Wallex
+    if kind == "guide" and not topics:
+        return None  # notices are only worth keeping when they touch a practice area
     key = "sb:" + numac
     etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
     return {
-        "id": key, "src": "staatsblad", "level": _sb_level(_sb_authority(raw)), "t": kind,
+        "id": key, "src": "staatsblad", "level": level, "t": kind,
         "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
-        "ref": numac, "k": classify(title), "text_url": etaamb_href,
+        "ref": numac, "k": topics, "text_url": etaamb_href,
     }
 
 
@@ -424,9 +428,11 @@ def collect_staatsblad(state, items, budget=220):
     cursor = dt.date.fromisoformat(state.get("sb_next", START.isoformat()))
     matched = read = 0
     error = None
+    done = set()  # days already read in this run
 
     def read_day(day, timeout=20):
         nonlocal matched, read
+        done.add(day)
         rows = _sb_day(day, timeout=timeout)
         read += len(rows)
         for numac, href, label in rows:
@@ -437,7 +443,7 @@ def collect_staatsblad(state, items, budget=220):
         time.sleep(1)  # no more than one request per second
 
     try:
-        while cursor < TODAY and time.time() - started < budget - 80:
+        while cursor <= TODAY and time.time() - started < budget - 80:
             if cursor.weekday() >= 5:
                 cursor += dt.timedelta(days=1)
                 state["sb_next"] = cursor.isoformat()
@@ -447,12 +453,14 @@ def collect_staatsblad(state, items, budget=220):
             except Exception as e:
                 error = "backfill %s: %s" % (cursor.isoformat(), repr(e)[:250])
                 break
+            if cursor >= TODAY:
+                break
             cursor += dt.timedelta(days=1)
             state["sb_next"] = cursor.isoformat()
 
         recent = max(START, TODAY - dt.timedelta(days=5))
-        while recent < TODAY:
-            if recent.weekday() < 5:
+        while recent <= TODAY:
+            if recent.weekday() < 5 and recent not in done:
                 try:
                     read_day(recent, timeout=15)
                 except Exception as e:
@@ -609,8 +617,9 @@ def main():
     w = status["sources"].get("wallex", {})
     g = status["sources"].get("gwh", {})
     t = status.get("texts", {}) if isinstance(status.get("texts"), dict) else {}
-    sb_next = status["sources"].get("staatsblad", {}).get("backfilled_to")
-    sb_backlog = bool(sb_next and sb_next < TODAY.isoformat())
+    sb = status["sources"].get("staatsblad", {})
+    sb_next = sb.get("backfilled_to")
+    sb_backlog = bool(sb.get("ok") and sb.get("read") and sb_next and sb_next < TODAY.isoformat())
     status["backlog"] = bool(sb_backlog or (w.get("known_ids_left") or 0) > 0 or (g.get("read") or 0) >= 150
                              or any(isinstance(v, dict) and v.get("saved", 0) >= 30 for v in t.values()))
     status["items_total"] = len(out)
