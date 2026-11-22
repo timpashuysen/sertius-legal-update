@@ -7867,7 +7867,8 @@
 "reason": "Amends workplace limits for carcinogens and mutagens, which are dangerous substances.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5750)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5750)",
+"written": "d-eu-32026l2450"
 },
 "eu:32026L2383": {
 "v": 2,
@@ -8318,7 +8319,8 @@
 "reason": "Technical amendments to several Flemish spatial planning and environment decisions; content vague.",
 "confidence": "low",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 13 column 5 (char 4633)"
+"write_error": "Unterminated string starting at: line 13 column 5 (char 4633)",
+"written": "d-codex-1042492"
 },
 "codex:1042485": {
 "v": 2,
@@ -10179,7 +10181,8 @@
 ],
 "reason": "Adds a management condition to a biodiversity agri-environment subsidy scheme package.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042416"
 },
 "codex:1042415": {
 "v": 2,
@@ -10235,7 +10238,8 @@
 ],
 "reason": "Brussels approval of full repeal of a special zoning plan; spatial planning rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-sb-2026007246"
 },
 "sb:2026007222": {
 "v": 2,
@@ -10591,7 +10595,8 @@
 ],
 "reason": "Implementing decision on IED operating rules for poultry and pig rearing.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d2260"
 },
 "eu:32026D2258": {
 "v": 2,
@@ -10645,7 +10650,9 @@
 "topics": [],
 "reason": "Title too vague to tell whether environmental provisions are included.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Fiscal omnibus law on income tax, excise and VAT; no environmental obligations change. It only ratifies an earlier VAT-rate decree on heat pumps."
 },
 "sb:2026007202": {
 "v": 2,
@@ -10962,7 +10969,9 @@
 ],
 "reason": "Corrigendum to the right-to-repair directive on sustainable product life.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Editorial corrigendum changing a point number (29 to 30) in the repair directive's Article 18; no change to environmental obligations."
 },
 "eu:32017R0392R(03)": {
 "v": 2,
@@ -11225,7 +11234,9 @@
 ],
 "reason": "Provincial general emergency plan; may cover major industrial accident response.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Approves the Walloon Brabant governor's general emergency and intervention plan under civil protection law; no environmental obligations for companies, developers or authorities."
 },
 "sb:2026006597": {
 "v": 2,
@@ -33894,7 +33905,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0116"
 },
 "rvvb:RVVB.2627.0115": {
 "v": 2,
@@ -33941,7 +33953,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0111"
 },
 "rvvb:RVVB.2627.0109": {
 "v": 2,
@@ -33952,7 +33965,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0109"
 },
 "rvvb:RVVB.2627.0105": {
 "v": 2,
@@ -33963,7 +33977,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0105"
 },
 "rvvb:RVVB.2627.0104": {
 "v": 2,
@@ -34001,7 +34016,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0101"
 },
 "rvvb:RVVB.2627.0100": {
 "v": 2,
@@ -34012,7 +34028,8 @@
 ],
 "reason": "Title gives no case description; may concern a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0100"
 },
 "rvvb:RVVB.2627.0099": {
 "v": 2,
@@ -52085,36 +52102,3740 @@
 "reason": "Poultry import entries for avian influenza, animal health topic.",
 "confidence": "high",
 "at": "2026-11-22"
+},
+"rvs:265527": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil service personnel statute; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265526": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil servant seniority decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265525": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal civil service allowances; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265524": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Federal civil service allowances; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265523": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Annulment of communal nature-protection regulation for biologically valuable sites.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265522": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Annulment of communal nature-protection regulation for biologically valuable sites.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265521": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Annulment of communal nature-protection regulation for biologically valuable sites.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265520": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for catering services; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265519": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265518": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265517": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265516": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265515": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265514": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265513": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265512": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265511": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Challenge to one individual gas power plant permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265510": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cessation order for one named tourist accommodation; individual case.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265507": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal order on one specific street paving; individual site.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265506": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual sanction decision by Brussels inspection service; no general rule.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265505": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for motorway cleaning services; not environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265504": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement tender decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265503": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for architecture services; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265502": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for debt recovery services; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265501": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medicine price notification; health rules, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265500": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary sanction against one civil servant; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265499": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Circular on local and provincial public service staff principles; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265498": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary pay penalty against one municipal employee; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0135": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health rules for entry and movement of dogs, cats and ferrets.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0134": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal disease surveillance rules for Echinococcus multilocularis; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0133": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health rules for movement of kept dogs, cats and ferrets.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0132": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal traceability rules for pet animals; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0131": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health requirements for non-commercial pet movement; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0119": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation denial for piglets; food and feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D1025": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Excessive deficit decision for Finland; public finance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0539": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Investment facilitation committee rules with Angola; trade and investment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0222": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Negotiating mandate for Australia's association to Horizon Europe; research programme.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0188": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Macro-financial assistance to Jordan; economic aid.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0161": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Emergency avian influenza measures; animal disease control.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00543": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Replacement of an advisory committee member for Sweden; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00542": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Replacement of an advisory committee member for Italy; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00541": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Replacement of an advisory committee member for Italy; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00540": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of a Cedefop management board alternate; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00539": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment to EU-OSHA management board; occupational safety, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:P.25.1070.N": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs a check of content.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"cass:P.25.0564.N": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs a check of content.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265470": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension request on one Infrabel framework procurement; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265469": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension request on one city contract award for path works.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265467": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual HR Rail training decision for one applicant; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265465": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for pharmaceuticals to one supplier; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265460": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil service appointment dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265459": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual mandate remuneration cap dispute under local government code.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265458": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual mandate remuneration cap dispute under local government code.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265457": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual sick-leave placement decision for one civil servant.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265456": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual sick-leave placement decision for one civil servant.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265455": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Approval of one church institution's budget.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265452": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual public procurement award dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265451": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of one health facility's operating title.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265450": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual public procurement award dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265449": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual public procurement exclusion and award dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265448": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual decision on transfer of frozen sanctioned assets.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265447": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual tender award decision for a renovation contract.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265446": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual tender award decision for a renovation contract.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0014": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Olive oil trade standard position; food and trade rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0180": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation holder name; feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0121": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety",
+"circular-products"
+],
+"reason": "Changes format of hazardous materials certificate for ship recycling under Regulation 1257/2013.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0116": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety",
+"circular-products"
+],
+"reason": "Changes ready-for-recycling certificate format for ship recycling under Regulation 1257/2013.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D00685": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European Parliament members' allowances and statute measures.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025D2642R(01)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Migration solidarity pool; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041741": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"soil"
+],
+"reason": "Flemish approval of sampling and analysis compendium; likely binding for environmental measurements, title vague.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265445": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual uninhabitability order for one dwelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265444": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual Belgian nationality declaration decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265442": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual school director mandate termination dispute.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265439": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual social housing waiting list decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265438": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual refusal of credit intermediary recognition for housing fund.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265437": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on one individual urban planning permit for a named site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265436": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on refusal of one individual environmental permit.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265435": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on one individual urban planning permit for a named site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265434": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on one individual integrated permit for a named project.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265433": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Court ruling on one individual urban planning permit for a named project.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0150": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "High-performance computing joint undertaking; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0123": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Restrictive sanctions measures against named persons.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0110": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tax cooperation technical standard on market capitalisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0108": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Authorisation of one feed additive; product authorisation, excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0122": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Restrictive sanctions measures against named persons.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32013R1380R(12)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum to fisheries policy regulation; fisheries management, not environmental compliance topics.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1042106": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of competences within the economy department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041778": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social protection care allowance rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041765": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Amends rules on spatial planning deviations for zoning-deviant parts with environmental permits.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041751": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "General nature management subsidy rule extending the afforestation land acquisition application deadline.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1041742": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mental health care recognition and pilot project rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041739": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education inspectorate organisation rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041712": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Meal cheque staff counting rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:C.23.0405.F": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil law ruling on donations to care home managers.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:130518": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Agricultural and horticultural investment aid; agriculture subsidies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:130158": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CAP eco-scheme aid for farmers; agricultural subsidy.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:130017": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "CAP controls and sanctions for farm aid; agricultural policy.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:130008": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Coupled income aid for livestock and crops; agriculture subsidy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:130005": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic farming aid; agriculture subsidy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:129995": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Agricultural and horticultural investment aid; agriculture subsidies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:129744": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Modifies Walloon rules on CAP controls, sanctions and recovery, including environmental conditionality.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:129460": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Modifies common CAP notions and conditionality rules, which include environmental standards.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0423": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title too vague to classify; RvVb permit ruling needs review.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0422": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title too vague to classify; RvVb permit ruling needs review.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0421": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual subdivision permit; no general rule created.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0419": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for a substation cabin.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0418": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title too vague to classify; RvVb permit ruling needs review.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0417": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Ruling on the 'deemed permitted' register rules, though tied to a specific file.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0416": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual house permit.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0414": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of amendment to one individual subdivision permit.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0413": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit for a hobby stable regularisation and infiltration facility.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0412": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title too vague to classify; RvVb ruling needs review.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0410": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for bakery extension.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265432": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for radio dispatching service.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265430": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social protected-customer status rules, not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265428": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one sports site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265427": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one sports site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265426": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal staff order at a social welfare centre.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265424": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Provincial staff designation decision, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265418": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mayor's order removing obstacles on one public road.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265417": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative fine decision against one party.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265416": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative fine decision against one party.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265415": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative fine decision against one party.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265414": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Recognition of one named private nature reserve; single site decision.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265412": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative measures against one party after inspection.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265411": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Appeal on a Flemish hunting ban for small game species; nature rules and enforcement.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265410": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Approval of a management plan and reserve recognition for one specific site.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265409": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension of a withdrawn permit and subsidies for one named applicant; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:9/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Constitutional question on general public access to administration law; not environmental-specific.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"gwh:8/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Local public office rules under Walloon decree; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:7/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Family allowance ordinance; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:11/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Programme law on poverty reduction measures; social.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:10/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension request on programme law articles; no environmental subject shown in title.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62024CJ0822_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright reproduction right; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0822": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Copyright private copying levies; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0742_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Asylum seekers' access to labour market; migration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0742": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Asylum seekers' access to labour market; migration.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0615_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "De minimis state aid in agriculture; subsidies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0615": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "De minimis state aid in agriculture; subsidies.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0588_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Competition law procedures; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0588": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Competition law procedures; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0494_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Syria restrictive measures listings; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0494": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Syria restrictive measures appeal; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0129_RES": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Interprets Directive 2003/4/EC on public access to environmental information.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0129": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Interprets Directive 2003/4/EC on public access to environmental information.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0126_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Postal service state aid standing; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0126": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Postal service state aid appeal; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0124_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Postal service state aid standing; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0124": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Postal service state aid appeal; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0077_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Applicable law for non-contractual liability in online gambling; private international law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0077": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Private international law on non-contractual liability of a company officer; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0075_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU civil service dispute concerning OLAF harassment allegations; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0075": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU civil service dispute concerning OLAF harassment allegations; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0045_RES": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Air passenger refund rules under Regulation 261/2004; transport, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024CJ0045": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Air passenger refund rules under Regulation 261/2004; transport, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0692_SUM": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement in-house exception ruling; procurement is outside the environmental topics.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62023CJ0692": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement in-house exception ruling; procurement is outside the environmental topics.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:62023CJ0641_RES": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European arrest warrant ruling; criminal judicial cooperation, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62023CJ0641": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European arrest warrant ruling; criminal judicial cooperation, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0031": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Cyprus; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0030": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Croatia; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0029": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Belgium; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0028": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Denmark; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0027": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Spain; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Romania; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0025": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Bulgaria; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0024": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence financial assistance decision for Portugal; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0007": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Transport Community staff salary position; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0138": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procedural rules for EU design registration; intellectual property, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0137": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procedural rules for EU registered designs; intellectual property, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0114": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on fused alumina imports; trade measure, excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0103": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Renewal of a feed additive authorisation for one holder; excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0102": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Technical specifications for e-access to justice; judicial IT, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0101": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Decentralised IT system for judicial procedures; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0100": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Aviation airworthiness and occurrence reporting; transport safety, excluded.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0099": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on imports from China; trade measure, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0098": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation holder name; animal feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0096": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation for essential oils; individual product authorisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0095": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of feed flavourings from market; animal feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0094": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive reference laboratories and fees; food and feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0093": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "L-lysine feed additive authorisation; individual product authorisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0128": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Peste des petits ruminants emergency measures; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0127": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Lumpy skin disease emergency measures; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025R0882R(02)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Organic control bodies recognised for third countries; organic trade rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042103": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of competences in employment department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041724": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Amends VLAREL, changing lab packages for water and air monitoring.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041722": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Approves Flemish compendium for air sampling, measurement and analysis.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041721": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Approves Flemish compendium for water sampling, measurement and analysis.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041716": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Temporary price ceiling for social rental housing; housing policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:F.24.0048.N": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no subject visible; needs checking for relevance.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265408": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension in one public procurement award; no general environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265407": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension in one public procurement selection; no general environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265405": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension in one public procurement framework award; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265404": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council of State case on a college decision; subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"eu:62025TJ0230_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0230": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0229_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0229": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0140_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark descriptiveness judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0140": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0117_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark court judgment on descriptiveness; not environmental rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0117": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same trade mark judgment (duplicate entry); not environmental rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0064_RES": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark invalidity judgment on a earlier name right.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0064": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same trade mark invalidity judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0009_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark judgment on a folding window movement sign.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62025TJ0009": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same trade mark judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0628_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU design invalidity judgment on a toy building block.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0628": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same design invalidity judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0619_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark opposition judgment on likelihood of confusion.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0619": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same trade mark opposition judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0549_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU trade mark revocation procedure judgment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0549": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same trade mark revocation judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0517_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU design invalidity judgment on a box with lid.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0517": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same design invalidity judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0403_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Syria restrictive measures judgment on freezing of funds; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0403": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same Syria sanctions judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0308_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement tender judgment for Parliament building maintenance; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0308": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same procurement judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0232_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia dual-use sanctions order on listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0232": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same Russia dual-use sanctions judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0176_INF": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Syria restrictive measures judgment on listings; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:62024TJ0176": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Same Syria sanctions judgment (duplicate entry).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0022": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine Facility financial aid proposal; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0021": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "MFF amendment on Ukraine financing; budgetary, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0020": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ukraine Support Loan enhanced cooperation proposal; financial aid, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0005": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Coach and bus international passenger transport committee position; transport rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0145": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fisheries closure for blue ling; fishing quotas.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0144": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Wine protected designation of origin amendment; agricultural product labelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0124": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia sanctions amendment on crude oil price; trade sanctions, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0109": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Amends Union Registry rules under the effort-sharing greenhouse gas regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0092": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation for laying hens; animal feed market approval.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0091": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive renewal for poultry and pigs; animal feed market approval.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0090": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation of L-arginine; animal feed market approval.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0089": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive renewal denial for pets; animal feed market approval.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0085": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Feed additive authorisation of tartrazine in fish baits; animal feed rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041977": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance and unemployment benefit rules; social security.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041952": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Allowances for persons with disabilities; social rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041922": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Miscellaneous social affairs provisions; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041711": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Education appeals board composition; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041672": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Call for demonstration projects; topic unclear from title, needs checking.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"codex:1041671": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Agricultural innovation group call for funding; subsidy call, not a compliance rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265398": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procurement award dispute for one soil investigation framework contract; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265396": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Civil service exam dispute; personnel matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265395": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual evaluation admission dispute; personnel matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265394": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of one service voucher approval; employment, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265393": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law",
+"permitting"
+],
+"reason": "Court review of a unique environmental permit for a wood-waste cogeneration plant.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265391": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ICT services procurement award dispute; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0120": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Molasses import duties and representative prices; trade and market rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0111": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Poultry import entries for avian influenza; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0081": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Amends Union Registry rules under the LULUCF greenhouse gas regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0082": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised standard for offshore cranes; product standardisation, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042105": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of competences in the social economy department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"cass:P.25.1055.N": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with only a case number; subject unknown, so flagged for review.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"wallex:129741": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Walloon tourism code and tourism contract model; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:129202": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement review thresholds; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:127395": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement review thresholds; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265386": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment case on one road alignment and permit for a specific project.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265385": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension of a fire-safety occupancy ban for one asylum centre.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265384": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265383": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265382": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265381": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265380": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265379": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care facility licence adjustment for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265378": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265377": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265376": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265375": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265374": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265373": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Elderly care recognition dispute for one named facility; social care.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265372": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement dispute for passenger transport framework contract.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265369": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual youth protection status decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265368": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual secondary school appeal decision; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265367": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual higher education exam dispute; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265366": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of a demolition urban planning permit for one specific building.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265365": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual unique permit for a single wind turbine site.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265364": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual housing decision on temporary occupation of one dwelling.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265363": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement dispute over a parking control contract.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265362": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement dispute over building cleaning services.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265361": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Gambling licence suspension for one operator.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265359": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Asylum and immigration cassation case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0078": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety"
+],
+"reason": "Amends cosmetics regulation restricting CMR substances; chemical safety rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R0071": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on chemical imports, a trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026L0074": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products",
+"energy-climate"
+],
+"reason": "Adds local space heaters to repair law; sets ecodesign requirements.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0107": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health emergency measures for avian influenza.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0105": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal health emergency measures for Newcastle disease.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0080": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised machinery safety standard reference, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D0079": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised product safety standards for pressure equipment.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D0076": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety",
+"energy-climate"
+],
+"reason": "Rules on ozone-depleting substances as process agents under EU regulation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0075": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Plant health and propagating material equivalence for fruit plants.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042098": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of administrative powers within a department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041730": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement threshold adjustment.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041698": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of ambulance recognition commission members.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265358": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual freedom-of-information dispute.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265357": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one petrol station site.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265356": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit granted to two named companies.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265355": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary sanction against one police officer.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265354": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Reinstatement decision for one police employee.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265353": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual access-to-information dispute on animal welfare documents.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265351": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for window openings on one property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265350": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual university admission dispute; no environmental rule involved.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:52026PC0002": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Globalisation fund aid for dismissed Audi workers; employment, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0112": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fisheries closure for undulate ray; fisheries quota measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0097": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "African swine fever disease control; animal health.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0087": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Guatemala restrictive measures on a natural person; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0185": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mercosur partnership agreement signing; trade and cooperation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0183": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mercosur interim trade agreement signing; trade.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0088": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Guatemala CFSP restrictive measures amendment; sanctions.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32024R2822R(03)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum on Community designs regulation; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32023L0959R(09)": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Corrigendum to ETS Directive 2023/959 on greenhouse gas allowances.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32002R0006R(14)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum on Community trade mark/design regulation; intellectual property.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042101": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of economic affairs powers; administrative.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042097": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of science policy powers; administrative.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041767": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Protection of geographical indications for agri-food and wine; food rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041744": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Approval criteria for school curricula; education.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041738": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Inland shipping crew and technical vessel rules; transport safety, not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"codex:1041727": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Classification of public transport regions; mobility, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041725": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Employment support rules for collective integration; social policy.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041710": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of one volunteer organisation's recognition; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041705": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Withdrawal of one volunteer organisation's recognition; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041704": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Possibly accelerates permit procedures for TEN-T infrastructure; title is vague.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"wallex:129622": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Open data reuse rules for public sector information; not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:129599": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Open data reuse rules for public sector information; not environmental.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:129361": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Walloon noise limit values for major railway lines; noise rules.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.S.2526.0393": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual environmental permit for a cabin; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.S.2526.0392": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.S.2526.0386": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual house permit case; no general rule set.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.S.2526.0385": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0409": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0408": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual castle restoration permit refusal; one site only.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0407": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit for one building's ground-floor change.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0406": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit refusal for one farm conversion.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0405": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual regularisation permit for one house.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0404": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit for renovating one house.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0403": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0402": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0401": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0400": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit for one greenhouse company expansion.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0399": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit for one named petrol station.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0398": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0397": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0396": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0395": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0394": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Acknowledgement of one farm's cessation notice; individual case.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0391": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual regularisation permit for one mountain bike site.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0390": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual regularisation permit for one catering business.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0384": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual subdivision permit for one plot.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0383": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0382": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual subdivision permit refusal for one plot.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0381": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title gives no case subject; needs a check of the ruling.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0380": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for a specific sign regularisation.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0379": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; Flemish permit tribunal ruling, may concern planning rules.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0378": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual driveway regularisation permit.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvvb:RVVB.A.2526.0377": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; Flemish permit tribunal ruling, may concern planning rules.",
+"confidence": "low",
+"at": "2026-11-22"
+},
+"rvs:265347": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement for digital services by the Agence du Numérique.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265344": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence ministry maintenance contract award to one company.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265343": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Railway staff reinstatement dispute, employment matter.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265342": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Care home operating licence and recognition for one elderly facility.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265341": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Care home bed recognition loss for one elderly facility.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265340": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Care home operating licence adjustment for one elderly facility.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265339": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Care home bed recognition loss for one elderly facility.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265338": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Single unique permit for one named company's installation; individual decision.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"gwh:6/2026": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Constitutional Court question on Flemish integrated water policy decree provision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:5/2026": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law",
+"permitting"
+],
+"reason": "Constitutional challenge to environment, nature and spatial planning decree articles.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:4/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Terrorism victim compensation and insurance law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:3/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "National Lottery rationalisation law.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:2/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Societal security measure law, criminal justice.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"gwh:1/2026": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Walloon mental health and social action decree.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32025D2307R(01)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU signature decision on UN cybercrime convention.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042108": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of powers in Flemish work and economy department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042102": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of powers in Flemish work and economy department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042100": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of powers in Flemish work and economy department.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1042099": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Internal subdelegation of powers in Flemish social inspection.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265337": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal market concession award, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265336": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Economic adviser decision on annual accounts turnover waiver.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265335": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual university enrolment dispute; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265334": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual guardianship decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265333": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual exam jury decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265332": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one specific urban planning permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32018L2001R(13)": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Corrigendum to the Renewable Energy Directive (RED II).",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:31999L0003R(01)": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corrigendum on food irradiation lists; food rules, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041976": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health insurance negotiation committees; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041928": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Victim compensation appeals law; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265330": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Migration case cassation; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265329": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one hunting council's game management plan; site-specific.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"rvs:265328": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit in Gembloux; site-specific.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265327": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for a church memorial; site-specific.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265326": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for a holiday home; site-specific.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265324": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for security guarding; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265323": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ministerial seizure of animals; animal welfare, individual decision.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265322": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual decision on ownership of one horse; animal welfare.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265321": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual heritage/urban decision on one Brussels building.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265320": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual municipal decision in Anderlecht; site-specific.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026R0065": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Anti-dumping duty on fertiliser imports; trade measure.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026R0059": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Plant health import derogation for US ammunition boxes; not an listed topic.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"eu:32026D0053": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "Commission decision on Slovak GHG data for crops under RED II.",
+"confidence": "medium",
+"at": "2026-11-22"
+},
+"wallex:126931": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement threshold adjustments; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265319": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual guardianship decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"rvs:265318": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Social security royal decree challenge; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"eu:32026D0143": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "European citizens' initiative on political party ethics; not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041885": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Health care programme norms for breast cancer centres, not environmental.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"codex:1041729": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement publication thresholds, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-22"
+},
+"wallex:129339": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Temporary Meuse fishing ban near an industrial site; reason unclear, possibly water-related.",
+"confidence": "low",
+"at": "2026-11-22"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6094,
-"assessed": 5719,
-"waiting": 375,
-"relevant": 621,
-"not_relevant": 4779,
+"in_scope": 6122,
+"assessed": 6122,
+"waiting": 0,
+"relevant": 676,
+"not_relevant": 5127,
 "excluded_by_rule": 319,
-"this_run": 1000,
+"this_run": 403,
 "api": {
-"calls": 40,
-"input_tokens": 177361,
-"output_tokens": 92886,
-"usd": 0.0642
+"calls": 17,
+"input_tokens": 74979,
+"output_tokens": 37776,
+"usd": 0.0264
 },
 "key_present": true,
 "updated": "2026-11-22"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 2,
-"failed": 2,
-"waiting": 519,
+"this_run": 11,
+"found_not_relevant_on_reading": 3,
+"failed": 0,
+"waiting": 559,
 "api": {
 "calls": 14,
-"input_tokens": 152962,
-"output_tokens": 39351,
-"usd": 0.6994
+"input_tokens": 184463,
+"output_tokens": 37120,
+"usd": 0.7401
 },
 "updated": "2026-11-22"
 }

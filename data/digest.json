@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:00:53Z",
+ "updated": "2026-11-22T23:20:38Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -4203,6 +4203,453 @@
    ],
    "inbox": [
     "eu:32026D2349"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026l2450",
+   "d": "2026-10-21",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "Carcinogens Directive amended: new limits for cobalt, PAHs, isoprene, 1,4-dioxane; welding fumes added",
+   "a": "Directive (EU) 2026/2450 amends Directive 2004/37/EC by setting binding occupational exposure limits for cobalt, PAH mixtures, isoprene and 1,4-dioxane and adding work involving welding fumes to its scope. It also tightens the rules on personal protective equipment. Member States must transpose it by 20 November 2028.",
+   "b": "The amendment affects employers whose workers are exposed to carcinogens, mutagens or reprotoxic substances, and the authorities that enforce these rules; welding work is now expressly covered. Work involving welding fumes that contain category 1A or 1B carcinogenic, mutagenic or reprotoxic substances is added to Annex I, and exposure may not exceed the Annex III limit values of those substances. The definitions of carcinogen, mutagen and reprotoxic substance are clarified so that they cover the substances, mixtures and processes listed in Annex I and the substances released by those processes. New binding limit values are set for cobalt and inorganic cobalt compounds (0,01 mg/m³ inhalable and 0,0025 mg/m³ respirable, with a dermal and respiratory sensitisation notation), PAH mixtures (0,00007 mg/m³ measured as benzo[a]pyrene, skin notation), isoprene (8,5 mg/m³) and 1,4-dioxane (7,3 mg/m³ over 8 hours, 73 mg/m³ short-term, skin notation). For 1,4-dioxane, a biological limit value of 45 mg HEAA/g creatinine is added to Annex IIIa. The mercury limit now applies only to mercury and divalent inorganic mercury compounds that fall within the Directive. Personal protective equipment, in particular respiratory protection, is to be used as a last resort when exposure cannot otherwise be avoided or adequately reduced. It must be correctly chosen, individually fitted and maintained, and workers wearing it are entitled to regular breaks in an uncontaminated area. Transitional limit values apply for cobalt (0,02 mg/m³ inhalable and 0,0042 mg/m³ respirable until 20 November 2032) and for PAHs in nine listed sectors (0,00014 mg/m³ until 20 November 2033). The Directive enters into force on the twentieth day after its publication on 30 October 2026, and Member States must apply national measures by 20 November 2028.",
+   "nl": [
+    "Richtlijn kankerverwekkende stoffen gewijzigd: nieuwe grenswaarden voor kobalt, PAK's, isopreen en 1,4-dioxaan; lasrook toegevoegd",
+    "Richtlijn (EU) 2026/2450 wijzigt Richtlijn 2004/37/EG: bindende grenswaarden voor beroepsmatige blootstelling voor kobalt, PAK-mengsels, isopreen en 1,4-dioxaan, en werkzaamheden met lasrook vallen voortaan onder het toepassingsgebied. Ook de regels voor persoonlijke beschermingsmiddelen worden aangescherpt. De lidstaten moeten de richtlijn uiterlijk op 20 november 2028 omzetten.",
+    "De wijziging treft werkgevers van wie de werknemers worden blootgesteld aan carcinogene, mutagene of reprotoxische stoffen, en de overheden die toezien op de naleving; lasactiviteiten worden uitdrukkelijk gedekt. Werk met blootstelling aan lasrook die stoffen of mengsels van categorie 1A of 1B (carcinogeen, mutageen of reprotoxisch) bevat, wordt aan bijlage I toegevoegd, en de blootstelling mag de grenswaarden van die stoffen in bijlage III niet overschrijden. De definities van carcinogeen, mutageen en reprotoxische stof worden verduidelijkt, zodat ze de in bijlage I opgenomen stoffen, mengsels en procedés en de door die procedés vrijgekomen stoffen dekken. Nieuwe bindende grenswaarden gelden voor kobalt en anorganische kobaltverbindingen (0,01 mg/m³ inhaleerbare fractie en 0,0025 mg/m³ respirabele fractie, met notatie huid- en luchtwegensensibilisatie), PAK-mengsels (0,00007 mg/m³, uitgedrukt als benzo[a]pyreen, huidnotatie), isopreen (8,5 mg/m³) en 1,4-dioxaan (7,3 mg/m³ over 8 uur, 73 mg/m³ op korte termijn, huidnotatie). Voor 1,4-dioxaan wordt in bijlage IIIa een biologische grenswaarde van 45 mg HEAA/g creatinine toegevoegd. De grenswaarde voor kwik geldt voortaan alleen voor kwik en tweewaardige anorganische kwikverbindingen die onder de richtlijn vallen. Persoonlijke beschermingsmiddelen, met name ademhalingsbescherming, moeten als laatste redmiddel worden gebruikt wanneer blootstelling niet anders kan worden vermeden of afdoende verminderd. Ze moeten correct worden gekozen, individueel aangepast en onderhouden, en werknemers die ze dragen hebben recht op regelmatige pauzes in een niet-verontreinigde zone. Overgangsgrenswaarden gelden voor kobalt (0,02 mg/m³ inhaleerbaar en 0,0042 mg/m³ respirabel tot 20 november 2032) en voor PAK's in negen vermelde sectoren (0,00014 mg/m³ tot 20 november 2033). De richtlijn treedt in werking op de twintigste dag na de bekendmaking ervan op 30 oktober 2026, en de lidstaten moeten de nationale maatregelen uiterlijk op 20 november 2028 toepassen."
+   ],
+   "fr": [
+    "Directive agents cancérigènes modifiée: nouvelles valeurs limites pour cobalt, HAP, isoprène, 1,4-dioxane; fumées de soudage ajoutées",
+    "La directive (UE) 2026/2450 modifie la directive 2004/37/CE: valeurs limites contraignantes d'exposition professionnelle pour le cobalt, les mélanges de HAP, l'isoprène et le 1,4-dioxane, et inclusion des travaux exposant aux fumées de soudage. Les règles relatives aux équipements de protection individuelle sont également renforcées. Les États membres doivent la transposer au plus tard le 20 novembre 2028.",
+    "La modification concerne les employeurs dont les travailleurs sont exposés à des agents cancérigènes, mutagènes ou à des substances reprotoxiques, ainsi que les autorités chargées de contrôler le respect de ces règles; les travaux de soudage sont expressément couverts. Les travaux exposant à des fumées de soudage contenant des substances ou mélanges de catégorie 1A ou 1B (cancérigènes, mutagènes ou reprotoxiques) sont ajoutés à l'annexe I, et l'exposition ne peut dépasser les valeurs limites de ces substances fixées à l'annexe III. Les définitions d'agent cancérigène, d'agent mutagène et de substance reprotoxique sont clarifiées afin de couvrir les substances, mélanges et procédés énumérés à l'annexe I ainsi que les substances libérées par ces procédés. De nouvelles valeurs limites contraignantes sont fixées pour le cobalt et ses composés inorganiques (0,01 mg/m³ fraction inhalable et 0,0025 mg/m³ fraction alvéolaire, avec la mention de sensibilisation cutanée et respiratoire), les mélanges de HAP (0,00007 mg/m³, mesurés en benzo[a]pyrène, mention cutanée), l'isoprène (8,5 mg/m³) et le 1,4-dioxane (7,3 mg/m³ sur 8 heures, 73 mg/m³ à court terme, mention cutanée). Pour le 1,4-dioxane, une valeur limite biologique de 45 mg HEAA/g de créatinine est ajoutée à l'annexe IIIa. La valeur limite pour le mercure ne s'applique plus qu'au mercure et aux composés inorganiques divalents du mercure relevant de la directive. Les équipements de protection individuelle, notamment respiratoire, doivent être utilisés en dernier recours lorsque l'exposition ne peut être évitée ou réduite de manière adéquate par d'autres moyens. Ils doivent être correctement choisis, ajustés individuellement et entretenus, et les travailleurs qui les portent ont droit à des pauses régulières dans une zone exempte de contamination. Des valeurs limites transitoires s'appliquent pour le cobalt (0,02 mg/m³ inhalable et 0,0042 mg/m³ alvéolaire jusqu'au 20 novembre 2032) et pour les HAP dans neuf secteurs énumérés (0,00014 mg/m³ jusqu'au 20 novembre 2033). La directive entre en vigueur le vingtième jour suivant sa publication le 30 octobre 2026, et les États membres doivent appliquer les mesures nationales au plus tard le 20 novembre 2028."
+   ],
+   "scope": "Directive 2004/37/EC (carcinogens, mutagens, reprotoxic substances at work): Articles 2, 5(5), 10 and 18a; Annexes I, III and IIIa",
+   "dates": {
+    "adopted": "2026-10-21",
+    "published": "2026-10-30",
+    "in_force": "2026-11-19"
+   },
+   "u": [
+    [
+     "Directive (EU) 2026/2450 of the European Parliament and of the Council of 21 October 2026 amending Directive 2004/37/EC on the protection of",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L2450"
+    ]
+   ],
+   "inbox": [
+    "eu:32026L2450"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042492",
+   "d": "2026-10-16",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flemish Government adopts technical amendments to some 18 environmental and spatial planning implementing decrees",
+   "a": "A Flemish Government decree amends around eighteen implementing decrees in the Environment policy area. It covers the plans register, soil remediation, EIA annexes, nature management, hunting, planbaten (planning gains) and pig emission formulas. Publication in the Belgian Official Gazette is foreseen for 26 November 2026.",
+   "b": "The decree affects municipalities, soil remediation organisations, project developers, pig farms, nature and forest managers and applicants for purchase obligations. Municipal executive colleges must keep a digital plans register of contours of plans, regulations, preferential and project decisions, flood-sensitive open space areas, pre-emption zones and zones with plan-related damages or gains. The soil remediation rules add an OVAM-set key for (pre)financing the joint remediation of water beds, make subsidy applications digital and extend a limited deferral of subsidy payment. In the EIA decree of 24 October 2025, annex 2 gets a new rubric 14 for annex 1 projects used solely or mainly to develop and test new methods or products for no more than two years. The decree also introduces a permit exemption for infrastructure in free swimming zones, new emission formulas for pigs in the VLAREME (effective 1 January 2026), changes to hunting, forest-sale, planbaten, residence reserve area and purchase obligation procedures, and deadline extensions for supplying missing documents. The decree was adopted on 16 October 2026 and enters into force ten days after publication, which is foreseen for 26 November 2026. Articles 5 and 9 of the decree of 17 May 2024 amending the Soil Decree enter into force with article 22 of this decree.",
+   "nl": [
+    "Vlaamse Regering keurt technische aanpassingen goed aan ongeveer achttien uitvoeringsbesluiten Omgeving",
+    "Een besluit van de Vlaamse Regering wijzigt een achttal besluiten binnen het beleidsdomein Omgeving, onder meer over het plannenregister, bodemsanering, MER-bijlagen, natuurbeheer, jacht, planbaten en emissieformules voor varkens. De bekendmaking in het Belgisch Staatsblad is voorzien op 26 november 2026.",
+    "Het besluit treft gemeenten, bodemsaneringsorganisaties, initiatiefnemers van projecten, varkenshouderijen, natuur- en bosbeheerders en aanvragers van een koopplicht. Het college van burgemeester en schepenen moet een digitaal plannenregister bijhouden met contouren van plannen, verordeningen, voorkeurs- en projectbesluiten, watergevoelige open ruimtegebieden, zones met voorkooprecht en zones met planschade of planbaten. In de bodemsaneringsregels komt een door de OVAM vastgestelde verdeelsleutel voor de (pre)financiering van de gezamenlijke sanering van waterbodems, worden subsidieaanvragen digitaal en wordt een beperkte uitstelregeling voor de uitbetaling van subsidies uitgebreid. In het MER-besluit van 24 oktober 2025 wordt aan bijlage 2 een rubriek 14 toegevoegd voor projecten van bijlage 1 die uitsluitend of hoofdzakelijk dienen om nieuwe methoden of producten te ontwikkelen en te beproeven en niet langer dan twee jaar worden gebruikt. Daarnaast komt er een vergunningsvrijstelling voor infrastructuur in vrije zwemzones, komen er nieuwe emissieformules voor varkens in de VLAREME (met uitwerking vanaf 1 januari 2026) en worden de procedures inzake jacht, houtverkoop, planbaten, woonreservegebieden en koopplicht en de termijnen voor het aanleveren van ontbrekende stukken aangepast. Het besluit is genomen op 16 oktober 2026 en treedt in werking tien dagen na de bekendmaking, die is voorzien op 26 november 2026. Artikel 5 en 9 van het decreet van 17 mei 2024 tot wijziging van het Bodemdecreet treden in werking samen met artikel 22 van dit besluit."
+   ],
+   "fr": [
+    "Le Gouvernement flamand adopte des adaptations techniques à environ dix-huit arrêtés d'exécution en matière d'environnement",
+    "Un arrêté du Gouvernement flamand modifie une dizaine d'arrêtés du domaine politique Environnement, notamment sur le registre des plans, l'assainissement du sol, les annexes EIE, la gestion de la nature, la chasse, la taxe sur les plus-values de planification et les formules d'émission pour les porcs. La publication au Moniteur belge est prévue le 26 novembre 2026.",
+    "L'arrêté concerne les communes, les organismes d'assainissement du sol, les initiateurs de projets, les élevages porcins, les gestionnaires de nature et de forêts et les demandeurs d'une obligation d'achat. Le collège des bourgmestre et échevins doit tenir un registre des plans numérique reprenant les contours des plans, règlements, décisions préférentielles et décisions de projet, zones ouvertes sensibles à l'eau, zones de droit de préemption et zones donnant lieu à une indemnité de dommage de planification ou à une plus-value. Dans les règles d'assainissement du sol, l'OVAM fixe une clé de répartition pour le (pré)financement de l'assainissement conjoint des sols aquatiques, les demandes de subvention deviennent numériques et un régime limité de report du paiement des subventions est étendu. Dans l'arrêté EIE du 24 octobre 2025, l'annexe 2 reçoit une rubrique 14 pour les projets de l'annexe 1 servant exclusivement ou principalement au développement et à l'essai de nouvelles méthodes ou de nouveaux produits et utilisés pendant deux ans au maximum. L'arrêté prévoit aussi une dispense de permis pour l'infrastructure des zones de baignade libre, de nouvelles formules d'émission pour les porcs dans le VLAREME (avec effet au 1er janvier 2026) et des adaptations des procédures relatives à la chasse, à la vente de bois, à la taxe sur les plus-values de planification, aux zones de réserve d'habitat et à l'obligation d'achat, ainsi que des délais de production des pièces manquantes. L'arrêté a été adopté le 16 octobre 2026 et entre en vigueur dix jours après sa publication, prévue le 26 novembre 2026. Les articles 5 et 9 du décret du 17 mai 2024 modifiant le décret sur les sols entrent en vigueur en même temps que l'article 22 du présent arrêté."
+   ],
+   "scope": "Besluit van de Vlaamse Regering houdende technische en juridisch-technische aanpassingen aan verschillende besluiten binnen het beleidsdomein Omgeving (hoofdstukken 1 tot 18; o.a. plannenregister, VLAREBO, VLAREME, MER-besluit 2025)",
+   "dates": {
+    "adopted": "2026-10-16"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering houdende technische en juridisch‑technische aanpassingen aan verschillende besluiten binnen het beleidsdomei",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042492&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042492"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-codex-1042416",
+   "d": "2026-10-09",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders adds unsown-strip option to faunavoedselgewas standaard and widens management package conversions",
+   "a": "A ministerial decree amends the 2023 Flemish decree on subsidies for EAFRD-funded management agreements. It lets larger plots under the 'faunavoedselgewas standaard' package keep part of the area unsown, and it replaces Annex 1 to extend the options for converting existing packages into new ones.",
+   "b": "The decree affects farmers with, or applying for, management agreements under the Flemish CAP 2023-2027 scheme, in particular the package 'faunavoedselgewas standaard', and the authorities that handle these subsidies. For management objects of at least 1.5 hectares, part of the area may now stay unsown, in derogation from the existing sowing conditions. The unsown part must cover at least 0.5 hectare and at most one third of the object, and must be made ready for sowing beforehand. It may be mulched (geklepeld) or superficially worked each year from 15 June and must be mulched or superficially worked in autumn. Its location may change during the term of the agreement. The aim is to let the package contribute better to the protection of the lapwing. Annex 1, the table of existing packages that can be converted into a new package under article 8, is replaced by a new table with wider conversion options, for example from 'faunavoedselgewas standaard' to various fauna-akker packages, luzernehooiland and faunarand plus. The decree is dated 9 October 2026, was published on 19 October 2026 and takes effect on 29 October 2026. According to the preamble, the underlying change to the CAP strategic plan was notified to the European Commission on 17 June 2026 and has applied since that date, as no objection was raised.",
+   "nl": [
+    "Vlaanderen voegt optie voor niet-ingezaaid deel toe aan faunavoedselgewas standaard en verruimt omzetting van beheerpakketten",
+    "Een ministerieel besluit wijzigt het ministerieel besluit van 2023 over subsidies voor beheerovereenkomsten die via het ELFPO worden gefinancierd. Bij het beheerpakket 'faunavoedselgewas standaard' mag op grotere beheervoorwerpen een deel niet ingezaaid worden, en bijlage 1 wordt vervangen om de omzettingsmogelijkheden uit te breiden.",
+    "Het besluit treft landbouwers met of die een aanvraag doen voor beheerovereenkomsten in het Vlaamse GLB 2023-2027, in het bijzonder voor het beheerpakket 'faunavoedselgewas standaard', en de overheden die deze subsidies behandelen. Voor beheervoorwerpen van minstens anderhalve hectare mag voortaan een deel van de oppervlakte niet ingezaaid worden, in afwijking van de bestaande zaaivoorwaarden. Het niet-ingezaaide deel omvat minstens een halve hectare en maximaal een derde van het beheervoorwerp en wordt voorafgaand zaaiklaar gelegd. Het mag jaarlijks vanaf 15 juni geklepeld of oppervlakkig bewerkt worden en wordt in het najaar geklepeld of oppervlakkig bewerkt. De ligging ervan mag tijdens de looptijd van de beheerovereenkomst wijzigen. Het doel is dat het pakket beter bijdraagt aan de bescherming van de kievit. Bijlage 1, de tabel van bestaande beheerpakketten die op grond van artikel 8 in een nieuw beheerpakket omgezet kunnen worden, wordt vervangen door een nieuwe tabel met ruimere omzettingsmogelijkheden, bijvoorbeeld van 'faunavoedselgewas standaard' naar diverse fauna-akkerpakketten, luzernehooiland en faunarand plus. Het besluit is gedateerd op 9 oktober 2026, werd op 19 oktober 2026 bekendgemaakt en treedt op 29 oktober 2026 in werking. Volgens de considerans werd de onderliggende wijziging van het GLB-strategisch plan op 17 juni 2026 aan de Europese Commissie meegedeeld en is die van toepassing sinds die datum, aangezien er geen bezwaar werd gemaakt."
+   ],
+   "fr": [
+    "La Flandre ajoute une option de zone non semée au paquet faunavoedselgewas standaard et élargit les conversions de paquets",
+    "Un arrêté ministériel modifie l'arrêté ministériel de 2023 relatif aux subventions pour les conventions de gestion financées par le FEADER. Pour le paquet de gestion « faunavoedselgewas standaard », une partie des parcelles plus grandes peut rester non semée, et l'annexe 1 est remplacée pour élargir les possibilités de conversion.",
+    "L'arrêté concerne les agriculteurs titulaires de conventions de gestion dans le cadre de la PAC flamande 2023-2027, ou qui en demandent, en particulier pour le paquet de gestion « faunavoedselgewas standaard », ainsi que les autorités qui traitent ces subventions. Pour les objets de gestion d'au moins un hectare et demi, une partie de la superficie peut désormais ne pas être semée, par dérogation aux conditions de semis existantes. La partie non semée couvre au moins un demi-hectare et au maximum un tiers de l'objet de gestion, et doit être préparée au préalable pour le semis. Elle peut être broyée (geklepeld) ou travaillée superficiellement chaque année à partir du 15 juin, et doit l'être à l'automne. Son emplacement peut changer pendant la durée de la convention de gestion. L'objectif est que le paquet contribue mieux à la protection du vanneau huppé. L'annexe 1, tableau des paquets de gestion existants pouvant être convertis en un nouveau paquet en vertu de l'article 8, est remplacée par un nouveau tableau aux possibilités de conversion plus larges, par exemple de « faunavoedselgewas standaard » vers divers paquets fauna-akker, luzernehooiland et faunarand plus. L'arrêté est daté du 9 octobre 2026, a été publié le 19 octobre 2026 et entre en vigueur le 29 octobre 2026. Selon le préambule, la modification sous-jacente du plan stratégique PAC a été notifiée à la Commission européenne le 17 juin 2026 et s'applique depuis cette date, aucune objection n'ayant été formulée."
+   ],
+   "scope": "Ministerieel besluit tot wijziging van het MB van 14 juni 2023 (beheerovereenkomsten ELFPO): artikel 15, tweede lid, 3°/2 (faunavoedselgewas standaard) en bijlage 1 (omzetting beheerpakketten)",
+   "dates": {
+    "adopted": "2026-10-09",
+    "published": "2026-10-19",
+    "in_force": "2026-10-29"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 14 juni 2023 tot het verlenen van subsidies voor beheerovereenkomsten di",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042416&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042416"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-sb-2026007246",
+   "d": "2026-10-08",
+   "j": [
+    "BRU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Brussels approves full repeal of special land-use plan 41-31/32 'Noord-Oost IX' in the European Quarter",
+   "a": "The Brussels Government has approved the City of Brussels' decision to fully repeal special land-use plan (BBP) no. 41-31/32 'Noord-Oost IX'. The block's planning framework then rests on the regional land-use plan and the regional urban planning regulation.",
+   "b": "The decision concerns one city block of about 1.5 ha, bounded by Wetstraat, Robert Schumanplein, Kortenberglaan and Blijde Inkomstlaan, which the BBP reserved for commercial and office buildings; it affects owners, developers and the permitting authorities for that block. The Government approves the City's decision to repeal the whole BBP (land-use plan and expropriation plan), originally approved by royal decree of 17 January 1964 and revised several times. Once the BBP is repealed, the regional land-use plan (GBP) and the regional urban planning regulation (GSV) apply to the block. According to the recitals, the City found that the repeal has no significant environmental effects, and Leefmilieu Brussel decided that no environmental impact report is needed. The repeal is meant to allow a greater mix of functions, in line with the GBP and the City's municipal sustainable development plan. The City council adopted the repeal on 15 December 2025, after a public inquiry from 3 September to 2 October 2025. The order is dated 10 September 2026 and was published on 8 October 2026; it does not state a separate date of entry into force.",
+   "nl": [
+    "Brussel keurt volledige opheffing van BBP nr. 41-31/32 'Noord-Oost IX' in de Europese Wijk goed",
+    "De Brusselse Hoofdstedelijke Regering keurt de beslissing van de Stad Brussel goed om het bijzonder bestemmingsplan (BBP) nr. 41-31/32 'Noord-Oost IX' volledig op te heffen. Het kader voor het huizenblok wordt dan bepaald door het Gewestelijk Bestemmingsplan en de Gewestelijke Stedenbouwkundige Verordening.",
+    "De beslissing betreft één huizenblok van ongeveer 1,5 ha, begrensd door de Wetstraat, het Robert Schumanplein, de Kortenberglaan en de Blijde Inkomstlaan, dat het BBP voorbehield voor handels- en kantoorgebouwen; ze treft eigenaars, ontwikkelaars en vergunningverlenende overheden voor dat blok. De Regering keurt de beslissing van de Stad goed om het volledige BBP (bestemmingsplan en onteigeningsplan) op te heffen, oorspronkelijk goedgekeurd bij koninklijk besluit van 17 januari 1964 en meermaals herzien. Na de opheffing zijn het Gewestelijk Bestemmingsplan (GBP) en de Gewestelijke Stedenbouwkundige Verordening (GSV) van toepassing op het blok. Volgens de overwegingen oordeelde de Stad dat de opheffing geen noemenswaardige milieugevolgen heeft, en besliste Leefmilieu Brussel dat geen milieueffectenrapport vereist is. De opheffing moet een grotere gemengdheid van functies mogelijk maken, in lijn met het GBP en het gemeentelijk plan voor duurzame ontwikkeling van de Stad. De gemeenteraad nam de opheffing definitief aan op 15 december 2025, na een openbaar onderzoek van 3 september tot 2 oktober 2025. Het besluit is gedateerd op 10 september 2026 en gepubliceerd op 8 oktober 2026; een afzonderlijke datum van inwerkingtreding vermeldt het niet."
+   ],
+   "fr": [
+    "Bruxelles approuve l'abrogation totale du PPAS n° 41-31/32 « Quartier Nord-Est IX » dans le Quartier européen",
+    "Le Gouvernement de la Région de Bruxelles-Capitale approuve la décision de la Ville de Bruxelles d'abroger totalement le plan particulier d'affectation du sol (PPAS) n° 41-31/32 « Quartier Nord-Est IX ». Le cadre applicable à l'îlot relève alors du plan régional d'affectation du sol et du règlement régional d'urbanisme.",
+    "La décision concerne un seul îlot d'environ 1,5 ha, délimité par la rue de la Loi, la place Robert Schuman, l'avenue de Cortenbergh et l'avenue de la Joyeuse Entrée, que le PPAS réservait aux bâtiments commerciaux et de bureaux ; elle touche les propriétaires, les promoteurs et les autorités délivrantes pour cet îlot. Le Gouvernement approuve la décision de la Ville d'abroger la totalité du PPAS (plan d'affectation et plan d'expropriation), approuvé initialement par arrêté royal du 17 janvier 1964 et révisé à plusieurs reprises. Après l'abrogation, le plan régional d'affectation du sol (PRAS) et le règlement régional d'urbanisme (RRU) s'appliquent à l'îlot. Selon les considérants, la Ville a estimé que l'abrogation n'a pas d'incidences notables sur l'environnement, et Bruxelles Environnement a décidé qu'aucun rapport sur les incidences environnementales n'est requis. L'abrogation doit permettre une plus grande mixité des fonctions, en cohérence avec le PRAS et le plan communal de développement durable de la Ville. Le conseil communal a adopté définitivement l'abrogation le 15 décembre 2025, après une enquête publique du 3 septembre au 2 octobre 2025. L'arrêté est daté du 10 septembre 2026 et publié le 8 octobre 2026 ; il ne mentionne pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Besluit van de Brusselse Hoofdstedelijke Regering van 10 september 2026: goedkeuring volledige opheffing BBP nr. 41-31/32 'Noord-Oost IX' (art. 1), BWRO art. 40-50",
+   "dates": {
+    "adopted": "2026-09-10",
+    "published": "2026-10-08"
+   },
+   "u": [
+    [
+     "Besluit van de Brusselse Hoofdstedelijke Regering tot goedkeuring van de beslissing van de Stad Brussel tot volledige opheffing van het bijz",
+     "https://www.ejustice.just.fgov.be/cgi/api2.pl?lg=nl&pd=2026-10-08&numac=2026007246"
+    ]
+   ],
+   "inbox": [
+    "sb:2026007246"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0116",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb upholds permit with stormwater infiltration derogation; neighbour's nuisance claims rejected",
+   "a": "The Council for Permit Disputes rejected a neighbour's appeal against an environmental permit that regularised paving in Antwerp and allowed a derogation from the infiltration requirement of the 2023 Stormwater Regulation. It held that the neighbour had not shown any flaw in the water nuisance assessment and that the plea based on the Regulation was inadmissible.",
+   "b": "The ruling concerns a permit granted on administrative appeal to regularise renovation works, a change of use of an outbuilding to office and about 75.20 m² of paving at a property in Antwerp (Wilrijk). The permit allowed a derogation from the infiltration facility required by the 2023 Stormwater Regulation. The reasons were that the sewer runs under buildings and paving, that extra pipes under an existing building would be needed, and that the water drains to a 10,000-litre rainwater tank where it is reused. The Council applies a marginal review of the assessment of good spatial planning, including water nuisance. It held that a neighbour who gave no technical evidence of nuisance or of a missing slope, and who did not take part in the administrative appeal, does not show that the deputation relied on wrong facts or acted unreasonably. The plea based on the Stormwater Regulation was declared inadmissible because it named no specific provision or obligation. In the alternative, the Council found that it added conditions to the derogation rules that they do not contain. The appeal was dismissed and the 200 euro registration fee stays with the claimant. The ruling was delivered on 8 October 2026.",
+   "nl": [
+    "RvVb bevestigt vergunning met afwijking op infiltratievoorziening hemelwater; wateroverlastkritiek verworpen",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep van een buur tegen een omgevingsvergunning die verhardingen in Antwerpen regulariseert en een afwijking op de infiltratieverplichting van de Hemelwaterverordening 2023 toestaat. Volgens de Raad toont de buur geen fout in de beoordeling van de wateroverlast aan en is het middel over de verordening onontvankelijk.",
+    "Het arrest betreft een in administratief beroep verleende vergunning voor de regularisatie van verbouwingswerken, de functiewijziging van een bijgebouw naar kantoor en ongeveer 75,20 m² verharding op een perceel in Antwerpen (Wilrijk). De vergunning staat een afwijking toe op de infiltratievoorziening die de Hemelwaterverordening 2023 oplegt. De motieven zijn dat het rioleringsstelsel onder de gebouwen en de verharding ligt, dat extra leidingen onder een bestaand gebouw nodig zouden zijn en dat het water naar een hemelwaterput van 10.000 liter wordt afgevoerd en hergebruikt. De Raad oefent een marginale toetsing uit van de beoordeling van de goede ruimtelijke ordening, met inbegrip van de wateroverlast. Hij oordeelt dat een buur die geen technische gegevens over overlast of een ontbrekende helling aanbrengt en niet is tussengekomen in het bestuurlijk beroep, niet aantoont dat de deputatie op foutieve feiten steunde of kennelijk onredelijk besliste. Het middel over de Hemelwaterverordening is onontvankelijk, omdat geen concrete bepaling of verplichting wordt aangewezen. In ondergeschikte orde voegt het volgens de Raad voorwaarden toe aan de afwijkingsregeling die daarin niet staan. Het beroep wordt verworpen en het rolrecht van 200 euro blijft ten laste van de verzoeker. Het arrest werd uitgesproken op 8 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA confirme un permis avec dérogation à l'infiltration des eaux pluviales ; griefs d'inondation rejetés",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette le recours d'un voisin contre un permis d'environnement qui régularise des revêtements à Anvers et accorde une dérogation à l'obligation d'infiltration du règlement eaux pluviales de 2023. Selon le Conseil, le voisin ne démontre aucune erreur dans l'appréciation du risque d'inondation et le moyen tiré du règlement est irrecevable.",
+    "L'arrêt concerne un permis délivré sur recours administratif pour la régularisation de travaux de transformation, le changement d'affectation d'une annexe en bureau et environ 75,20 m² de revêtement sur une parcelle à Anvers (Wilrijk). Le permis accorde une dérogation à l'installation d'infiltration imposée par le règlement eaux pluviales de 2023. Les motifs sont que le réseau d'égouts passe sous les bâtiments et le revêtement, que des conduites supplémentaires sous un bâtiment existant seraient nécessaires et que l'eau est évacuée vers une citerne d'eau de pluie de 10.000 litres où elle est réutilisée. Le Conseil exerce un contrôle marginal de l'appréciation du bon aménagement du territoire, y compris les inondations. Il juge qu'un voisin qui ne produit aucune donnée technique sur la nuisance ou sur l'absence de pente, et qui n'est pas intervenu dans le recours administratif, ne démontre pas que la députation s'est fondée sur des faits erronés ni qu'elle a statué de manière manifestement déraisonnable. Le moyen relatif au règlement eaux pluviales est irrecevable, faute d'indiquer une disposition ou une obligation précise. À titre subsidiaire, selon le Conseil, il ajoute au régime de dérogation des conditions qui n'y figurent pas. Le recours est rejeté et le droit de rôle de 200 euros reste à charge du requérant. L'arrêt a été prononcé le 8 octobre 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0116: artikel 4.3.1 VCRO (goede ruimtelijke ordening) en Hemelwaterverordening 2023 (afwijking infiltratievoorziening)",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0116.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0116.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0116"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0111",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for Dendermonde waste transfer site: no assessment of zoning buffer zone in industrial area",
+   "a": "The Council for Permit Disputes annulled the Flemish government's permit of 9 July 2025 for a waste transfer and mechanical treatment site in Dendermonde. The permit did not examine whether the industrial-zone buffer required by the regional plan applies on the north side, towards a nature area.",
+   "b": "The ruling concerns an environmental permit for a Class 1 waste storage, transshipment and mechanical treatment facility in industrial zone on Fabriekstraat, Dendermonde, and affects permit authorities and applicants for industrial-zone sites bordering other zoning areas. The Council accepted the standing of neighbouring residents and held that homes in the same industrial zone are not covered by the buffer zone requirement of article 7.2.0 of the Inrichtingsbesluit (Royal Decree of 28 December 1972). It found, however, that the permit authority had not examined whether the site borders another zoning area to the north (nature reserve, Habitats and Birds Directive areas, VEN area). The only reasoning on compatibility with the regional plan was that the application was 'in principle' in line with it, which the Council called an empty formula. The Council also held that a zoning buffer under the regional plan differs from a green screen imposed as a sectoral Vlarem condition, as they raise separate questions (planning compatibility versus acceptable nuisance). The permit is annulled and the Flemish government must take a new decision on the administrative appeal within three months from the day after service of the ruling, which was delivered on 8 October 2026. Costs are charged to the Flemish government.",
+   "nl": [
+    "RvVb vernietigt vergunning voor afvalinrichting in Dendermonde: bufferzone in industriegebied niet beoordeeld",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van 9 juli 2025 waarmee een omgevingsvergunning werd verleend voor op- en overslag en mechanische behandeling van afvalstoffen in Dendermonde. Er werd niet onderzocht of aan de noordzijde, ten opzichte van een natuurgebied, een bufferzone op grond van het gewestplan vereist is.",
+    "Het arrest betreft een omgevingsvergunning voor een klasse 1-inrichting voor op- en overslag en mechanische behandeling van afvalstoffen in industriegebied aan de Fabriekstraat in Dendermonde, en is relevant voor vergunningverlenende overheden en aanvragers van terreinen in industriegebied die grenzen aan een ander bestemmingsgebied. De Raad aanvaardt het belang van de omwonenden en oordeelt dat de woningen in hetzelfde industriegebied liggen, zodat artikel 7.2.0 van het Inrichtingsbesluit (koninklijk besluit van 28 december 1972) ten opzichte van die woningen geen bufferzone oplegt. Wel stelt de Raad vast dat niet is onderzocht of het perceel in het noorden grenst aan een ander bestemmingsgebied (natuurreservaat, habitat- en vogelrichtlijngebied, VEN-gebied). De enige motivering over de verenigbaarheid met het gewestplan, namelijk dat de aanvraag 'principieel in overeenstemming' is, noemt de Raad een inhoudsloze stijlformule. Een bufferzone op grond van het gewestplan verschilt volgens de Raad van een groenscherm als sectorale Vlarem-voorwaarde, want de eerste raakt de planologische verenigbaarheid en het tweede de aanvaardbaarheid van de hinder. De vergunning wordt vernietigd en de Vlaamse regering moet binnen drie maanden na de dag na de betekening van het arrest, uitgesproken op 8 oktober 2026, een nieuwe beslissing nemen over het administratief beroep. De kosten komen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCAP annule le permis d'un site de déchets à Termonde : zone tampon en zone industrielle non examinée",
+    "Le Conseil du contentieux des autorisations (RvVb) annule la décision du 9 juillet 2025 délivrant un permis d'environnement pour le stockage, le transbordement et le traitement mécanique de déchets à Termonde. Il n'a pas été examiné si une zone tampon prévue par le plan de secteur s'impose au nord, vers une zone naturelle.",
+    "L'arrêt porte sur un permis d'environnement pour un établissement de classe 1 de stockage, transbordement et traitement mécanique de déchets, situé en zone industrielle à la Fabriekstraat à Termonde ; il concerne les autorités délivrant les permis et les demandeurs dont le terrain en zone industrielle jouxte une autre zone d'affectation. Le Conseil admet l'intérêt des riverains et juge que leurs habitations se trouvent dans la même zone industrielle, de sorte que l'article 7.2.0 de l'arrêté royal du 28 décembre 1972 (Inrichtingsbesluit) n'impose pas de zone tampon à leur égard. Il constate toutefois qu'il n'a pas été examiné si la parcelle jouxte au nord une autre zone d'affectation (réserve naturelle, zones relevant des directives Habitats et Oiseaux, zone VEN). Le seul motif relatif à la conformité au plan de secteur, selon lequel la demande est « en principe » conforme, est qualifié de formule creuse. Selon le Conseil, une zone tampon fondée sur le plan de secteur diffère d'un écran de verdure imposé comme condition sectorielle Vlarem, car la première touche à la compatibilité planologique et le second à l'acceptabilité des nuisances. Le permis est annulé et le Gouvernement flamand doit prendre une nouvelle décision sur le recours administratif dans les trois mois suivant le jour après la signification de l'arrêt, prononcé le 8 octobre 2026. Les dépens sont à charge de la partie défenderesse."
+   ],
+   "scope": "RvVb arrest RVVB.2627.0111: artikel 7.2.0 Inrichtingsbesluit (bufferzone industriegebied), artikel 4.3.1, §1 VCRO, Motiveringswet, omgevingsvergunning afvalverwerking Dendermonde",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0111.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0111.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0111"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0109",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb refers Constitutional Court question on deviating from BPAs older than 15 years (Art. 4.4.9/1 VCRO)",
+   "a": "In a dispute over a permit for a 22-storey apartment building in Blankenberge, the Council for Permit Disputes asks the Constitutional Court whether Article 4.4.9/1 VCRO is compatible with the equality principle and the standstill obligation on environmental protection. The debates are reopened and the case is postponed indefinitely.",
+   "b": "The ruling concerns an environmental permit for an apartment building after demolition, heat pumps and temporary dewatering in Blankenberge, granted on administrative appeal after the municipality had refused it. The permit relied on Article 4.4.9/1 VCRO, which lets the permitting authority deviate from the urban planning provisions of a special land-use plan (BPA) older than fifteen years at the time of the application. This does not apply to roads, public green space and heritage values, and applies only to BPAs supplementing certain listed 'hard' land-use zones; every deviation request requires a public inquiry. The Council notes that the legislator's reasoning did not address Article 23 of the Constitution (standstill) and that the regulations give no basis for the 15-year distinction for BPAs. It therefore refers to the Constitutional Court the question whether Article 4.4.9/1 VCRO infringes Articles 10, 11 and 23, 4° of the Constitution, read with Articles 6 to 8 of the Aarhus Convention and Article 3 of the plan-EIA Directive. The Council also declared the intervention admissible and refused to exclude the intervening parties' late-filed documents. The ruling was delivered on 8 October 2026; no timetable for the Constitutional Court's answer is given.",
+   "nl": [
+    "RvVb legt prejudiciële vraag voor aan Grondwettelijk Hof over afwijken van BPA's ouder dan 15 jaar (art. 4.4.9/1 VCRO)",
+    "In een geschil over een vergunning voor een meergezinswoning van 22 bouwlagen in Blankenberge vraagt de Raad voor Vergunningsbetwistingen aan het Grondwettelijk Hof of artikel 4.4.9/1 VCRO verenigbaar is met het gelijkheidsbeginsel en de standstill-verplichting inzake leefmilieu. De debatten worden heropend en de zaak wordt voor onbepaalde tijd uitgesteld.",
+    "Het arrest betreft een omgevingsvergunning voor een meergezinswoning na afbraak, warmtepompen en een tijdelijke bemaling in Blankenberge, verleend in administratief beroep nadat de gemeente de vergunning had geweigerd. De vergunning steunde op artikel 4.4.9/1 VCRO, dat het vergunningverlenende bestuursorgaan toelaat af te wijken van de stedenbouwkundige voorschriften van een bijzonder plan van aanleg (BPA) dat op het ogenblik van de aanvraag ouder is dan vijftien jaar. Dat geldt niet voor wegenis, openbaar groen en erfgoedwaarden, en enkel voor BPA's die bepaalde opgesomde 'harde' gewestplanbestemmingen aanvullen; elke aanvraag tot afwijking vergt een openbaar onderzoek. De Raad stelt vast dat de decreetgever artikel 23 van de Grondwet (standstill) niet heeft behandeld en dat de regelgeving geen aanknopingspunt biedt voor het onderscheid van 15 jaar bij BPA's. Hij legt daarom aan het Grondwettelijk Hof de vraag voor of artikel 4.4.9/1 VCRO de artikelen 10, 11 en 23, 4° van de Grondwet schendt, samen gelezen met de artikelen 6 tot 8 van het Verdrag van Aarhus en artikel 3 van de plan-MER-richtlijn. De Raad verklaart ook de tussenkomst ontvankelijk en weigert de laat neergelegde stukken van de tussenkomende partijen uit de debatten te weren. Het arrest werd uitgesproken op 8 oktober 2026; een termijn voor het antwoord van het Grondwettelijk Hof wordt niet gegeven."
+   ],
+   "fr": [
+    "Le CCA saisit la Cour constitutionnelle d'une question préjudicielle sur la dérogation aux PPA de plus de 15 ans (art. 4.4.9/1 VCRO)",
+    "Dans un litige portant sur un permis pour un immeuble à appartements de 22 niveaux à Blankenberge, le Conseil du contentieux des permis demande à la Cour constitutionnelle si l'article 4.4.9/1 VCRO est compatible avec le principe d'égalité et l'obligation de standstill en matière d'environnement. Les débats sont rouverts et l'affaire est reportée sine die.",
+    "L'arrêt concerne un permis d'environnement pour un immeuble à appartements après démolition, des pompes à chaleur et un rabattement temporaire de nappe à Blankenberge, octroyé sur recours administratif après un refus de la commune. Le permis reposait sur l'article 4.4.9/1 VCRO, qui permet à l'autorité délivrante de déroger aux prescriptions urbanistiques d'un plan particulier d'aménagement (PPA) âgé de plus de quinze ans au moment de la demande. Cela ne vaut pas pour la voirie, les espaces verts publics et les valeurs patrimoniales, et seulement pour les PPA complétant certaines affectations « dures » du plan de secteur énumérées ; toute demande de dérogation requiert une enquête publique. Le Conseil relève que le législateur décrétal n'a pas examiné l'article 23 de la Constitution (standstill) et que la réglementation ne fournit aucun point d'appui pour la distinction de 15 ans entre PPA. Il pose donc à la Cour constitutionnelle la question de savoir si l'article 4.4.9/1 VCRO viole les articles 10, 11 et 23, 4° de la Constitution, combinés avec les articles 6 à 8 de la Convention d'Aarhus et l'article 3 de la directive plans et programmes (évaluation des incidences). Le Conseil déclare aussi l'intervention recevable et refuse d'écarter des débats les pièces déposées tardivement par les parties intervenantes. L'arrêt a été prononcé le 8 octobre 2026 ; aucun délai n'est donné pour la réponse de la Cour constitutionnelle."
+   ],
+   "scope": "RvVb arrest RVVB.2627.0109 – artikel 4.4.9/1 VCRO (afwijking van BPA's ouder dan vijftien jaar), artikel 23, 4° Grondwet, prejudiciële vraag",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0109.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0109.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0109"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0105",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for oversized ancillary building on former farm site in agricultural zone, Wortegem-Petegem",
+   "a": "The Council for Permit Disputes annulled an environmental permit for demolishing and rebuilding a dwelling and ancillary buildings on a former farm site in agricultural zone. The permitting authority had not adequately assessed whether the size of the rebuilt ancillary building fits good spatial planning and its residential function.",
+   "b": "The ruling concerns an environmental permit granted on appeal for a former farm site in agricultural zone in Wortegem-Petegem, covering demolition and rebuilding of a dwelling and an ancillary building and the felling of eight trees. The permit relied on the basic rights for zone-alien constructions, including rebuilding on the same site where the new building overlaps at least three quarters of the existing footprint (art. 4.4.17 VCRO). The Council holds that this does not remove the need for the full good-spatial-planning assessment under art. 4.3.1 VCRO, covering functional fit, scale and use of space. The permitting authority did not answer the appellant's objections on the size of the ancillary building (about 1,920 m³ next to a dwelling of about 999.5 m³, intended for storing a ride-on mower, trailer, caravan, camper, bicycles and garden furniture, and parking four cars) or on paving. It also did not justify the link between that volume and the residential function. Its findings that the maximum desirable paving level had been reached and that the spatial impact was limited appeared contradictory. The permit is annulled and the authority must take a new decision on the administrative appeal within three months of notification of the ruling. Costs, including a legal-proceedings allowance of 910 euro, fall on the authority; the ruling was delivered on 8 October 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor omvangrijk woningbijgebouw op voormalige hoeve in agrarisch gebied, Wortegem-Petegem",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor het slopen en herbouwen van een woning en bijgebouwen op een voormalige landbouwsite in agrarisch gebied. De vergunningverlenende overheid onderzocht onvoldoende of de omvang van het herbouwde bijgebouw past binnen de goede ruimtelijke ordening en de woonfunctie.",
+    "Het arrest betreft een in administratief beroep verleende omgevingsvergunning voor een voormalige landbouwsite in agrarisch gebied te Wortegem-Petegem, voor het slopen en herbouwen van een woning en een bijgebouw en het vellen van acht bomen. De vergunning steunde op de basisrechten voor zonevreemde constructies, waaronder herbouw op dezelfde plaats wanneer de nieuwe constructie minstens drie vierde van de bestaande oppervlakte overlapt (art. 4.4.17 VCRO). De Raad oordeelt dat dit de volledige toets aan de goede ruimtelijke ordening op grond van art. 4.3.1 VCRO niet overbodig maakt, met aandacht voor functionele inpasbaarheid, schaal en ruimtegebruik. De overheid beantwoordde de bezwaren van de beroepsindiener over de omvang van het woningbijgebouw (circa 1.920 m³ naast een woning van circa 999,5 m³, bestemd voor de stalling van een zitmaaier, aanhangwagen, caravan, camper, fietsen en tuinmeubelen en voor vier parkeerplaatsen) en over de verharding niet en motiveerde het verband tussen dat volume en de woonfunctie niet. De vaststellingen dat de maximaal wenselijke verhardingsgraad bereikt is en dat de ruimtelijke impact beperkt is, lijken bovendien tegenstrijdig. De vergunning wordt vernietigd en de overheid moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen over het administratief beroep. De kosten, inclusief een rechtsplegingsvergoeding van 910 euro, komen ten laste van de overheid; het arrest werd uitgesproken op 8 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis pour une annexe de grande taille sur une ancienne ferme en zone agricole, Wortegem-Petegem",
+    "Le Conseil du contentieux des autorisations (RvVb) annule un permis d'environnement pour la démolition et la reconstruction d'une habitation et d'annexes sur un ancien site agricole en zone agricole. L'autorité délivrante n'a pas examiné suffisamment si le volume de l'annexe reconstruite s'inscrit dans le bon aménagement du territoire et dans la fonction résidentielle.",
+    "L'arrêt concerne un permis d'environnement octroyé en recours administratif pour un ancien site agricole en zone agricole à Wortegem-Petegem, portant sur la démolition et la reconstruction d'une habitation et d'une annexe ainsi que l'abattage de huit arbres. Le permis reposait sur les droits de base des constructions en zone non conforme, dont la reconstruction sur le même emplacement lorsque la nouvelle construction recouvre au moins les trois quarts de la superficie existante (art. 4.4.17 VCRO). Le Conseil juge que cela ne dispense pas de l'examen complet du bon aménagement du territoire au titre de l'art. 4.3.1 VCRO, qui porte sur l'intégration fonctionnelle, l'échelle et l'utilisation de l'espace. L'autorité n'a pas répondu aux objections du requérant sur le volume de l'annexe (environ 1.920 m³ à côté d'une habitation d'environ 999,5 m³, destinée au remisage d'une tondeuse autoportée, d'une remorque, d'une caravane, d'un camping-car, de vélos et de meubles de jardin et à quatre places de stationnement) ni sur les revêtements, et n'a pas justifié le lien entre ce volume et la fonction résidentielle. Ses constats selon lesquels le taux maximal souhaitable de revêtement est atteint et l'impact spatial est limité paraissent en outre contradictoires. Le permis est annulé et l'autorité doit prendre une nouvelle décision sur le recours administratif dans les trois mois suivant la notification de l'arrêt. Les dépens, dont une indemnité de procédure de 910 euros, sont à charge de l'autorité; l'arrêt a été prononcé le 8 octobre 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0105 – artikelen 4.3.1, 4.4.17 en 1.1.4 VCRO; artikelen 2 en 3 Motiveringswet; omgevingsvergunning Wortegem-Petegem",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0105.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0105.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0105"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0101",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: simplified permit procedure is judged on the original application, not on later conditions",
+   "a": "The Council for Permit Disputes annulled a deputation decision granting an environmental permit for a daycare centre with a geothermal installation in Antwerp. The applicable procedure depends on the application as first submitted, and conditions or plan changes on appeal cannot cure a wrongly followed simplified procedure.",
+   "b": "The ruling concerns applicants, permitting authorities and neighbours under the Flemish environmental permit rules. The Council annulled the provincial decision of 6 March 2025 granting a permit to convert a parish hall in Wilrijk into a daycare for 72 children and to operate a geothermal installation. It held that the simplified or ordinary procedure is determined on the application as originally filed. Conditions imposed or plan changes accepted on administrative appeal (art. 64 Permit Decree) cannot remedy a wrongly applied simplified procedure. The original bicycle parking did not meet art. 33 of the Antwerp Building Code, so a deviation under art. 4.4.1 VCRO would have been needed. That deviation rules out the simplified procedure (art. 13 Permit Decree implementing order) and requires a public inquiry. The deputation also failed to state sufficiently why and on what basis it applied the simplified procedure. The argument that the project changes the main function of a building above 500 m² was rejected as unsubstantiated. The Council did not substitute its own decision and ordered the deputation to decide again on the administrative appeal within three months of the day after notification of the ruling. One of the three claimants was found to have no current interest, so that claim was inadmissible. The ruling was delivered on 8 October 2026.",
+   "nl": [
+    "RvVb: vereenvoudigde vergunningsprocedure wordt beoordeeld op de oorspronkelijke aanvraag, niet op latere voorwaarden",
+    "De Raad voor Vergunningsbetwistingen vernietigde een deputatiebeslissing die een omgevingsvergunning verleende voor een kinderdagverblijf met geothermische installatie in Antwerpen. De toepasselijke procedure hangt af van de aanvraag zoals ze oorspronkelijk werd ingediend; voorwaarden of planwijzigingen in beroep kunnen een ten onrechte gevolgde vereenvoudigde procedure niet herstellen.",
+    "Het arrest betreft aanvragers, vergunningverlenende overheden en omwonenden onder de Vlaamse omgevingsvergunningsregelgeving. De Raad vernietigde de provinciale beslissing van 6 maart 2025 die een vergunning verleende voor het verbouwen van een parochiezaal in Wilrijk tot een kinderdagverblijf voor 72 kinderen en het exploiteren van een geothermische installatie. Hij oordeelde dat de vereenvoudigde of gewone procedure wordt bepaald op basis van de aanvraag zoals ze oorspronkelijk werd ingediend. Voorwaarden of planwijzigingen die in administratief beroep worden aanvaard (artikel 64 Omgevingsvergunningsdecreet) kunnen een ten onrechte toegepaste vereenvoudigde procedure niet herstellen. De oorspronkelijke fietsparkeervoorzieningen voldeden niet aan artikel 33 van de Antwerpse Bouwcode, zodat een afwijking op grond van artikel 4.4.1 VCRO nodig was. Die afwijking sluit de vereenvoudigde procedure uit (artikel 13 Omgevingsvergunningsbesluit) en vereist een openbaar onderzoek. De deputatie motiveerde bovendien onvoldoende waarom en op welke grondslag ze de vereenvoudigde procedure toepaste. Het argument dat de hoofdfunctie van een gebouw van meer dan 500 m² wordt gewijzigd, werd verworpen omdat het niet onderbouwd was. De Raad stelde zich niet in de plaats van de deputatie en beval haar binnen drie maanden na de dag na de betekening van het arrest een nieuwe beslissing te nemen over het bestuurlijk beroep. Het beroep van een van de drie verzoekers werd onontvankelijk verklaard bij gebrek aan actueel belang. Het arrest werd uitgesproken op 8 oktober 2026."
+   ],
+   "fr": [
+    "CCA : la procédure simplifiée s'apprécie sur la demande initiale, et non sur des conditions ultérieures",
+    "Le Conseil du contentieux des autorisations a annulé une décision de la députation accordant un permis d'environnement pour une crèche avec installation géothermique à Anvers. La procédure applicable dépend de la demande telle qu'elle a été introduite ; des conditions ou modifications de plans en recours ne peuvent pas régulariser une procédure simplifiée appliquée à tort.",
+    "L'arrêt concerne les demandeurs, les autorités délivrant les permis et les riverains au regard de la réglementation flamande sur le permis d'environnement. Le Conseil a annulé la décision provinciale du 6 mars 2025 accordant un permis pour transformer une salle paroissiale à Wilrijk en crèche de 72 enfants et exploiter une installation géothermique. Il a jugé que la procédure simplifiée ou ordinaire se détermine sur la base de la demande telle qu'elle a été initialement introduite. Des conditions ou modifications de plans admises en recours administratif (article 64 du décret sur le permis d'environnement) ne peuvent pas corriger une procédure simplifiée appliquée à tort. Les installations de stationnement des vélos prévues à l'origine ne respectaient pas l'article 33 du code de la construction d'Anvers (Antwerpse Bouwcode), de sorte qu'une dérogation fondée sur l'article 4.4.1 du VCRO était nécessaire. Cette dérogation exclut la procédure simplifiée (article 13 de l'arrêté d'exécution du décret sur le permis d'environnement) et impose une enquête publique. La députation n'a en outre pas suffisamment motivé pourquoi et sur quelle base elle appliquait la procédure simplifiée. L'argument selon lequel la fonction principale d'un bâtiment de plus de 500 m² serait modifiée a été écarté, faute d'étayement. Le Conseil ne s'est pas substitué à la députation et lui a ordonné de statuer à nouveau sur le recours administratif dans les trois mois suivant le lendemain de la notification de l'arrêt. Le recours de l'un des trois requérants a été déclaré irrecevable, faute d'intérêt actuel. L'arrêt a été prononcé le 8 octobre 2026."
+   ],
+   "scope": "Arrest RvVb.2627.0101: artikelen 17, 63 en 64 Omgevingsvergunningsdecreet, artikelen 13 en 84 Omgevingsvergunningsbesluit, artikel 4.4.1 VCRO en artikel 33 Antwerpse Bouwcode",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0101.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0101.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0101"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0100",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Permit Council annuls Tielt zone-alien conversion permit over outbuilding size and unlawful condition",
+   "a": "The Council for Permit Disputes annulled a permit to convert a former farm site in Tielt into a zone-alien dwelling with outbuildings. The reasoning on whether the retained buildings are 'woningbijgebouwen' and on scale and land use was insufficient, and a condition on future volume reduction was unlawful.",
+   "b": "The ruling concerns a permit for demolishing an agricultural shed, removing a silage clamp and changing the use of a farm site in agricultural zoning to a zone-alien dwelling with outbuildings. The Council found the reasoning on functional integration and on neighbouring farms sufficient, since the agricultural agency had advised favourably on the change of function itself. It found the reasoning insufficient on whether the retained buildings, of roughly 970, 1,220 and 910 m³ with a vague 'storage' use, are still 'woningbijgebouwen' under article 11 of the Zone-alien Function Changes Decree, given the negative advice and the heightened duty to give reasons. It also found the reasoning on scale and land use insufficient. The condition that a future application for major renovation or rebuilding must further reduce the volume fails article 74 of the Environmental Permit Decree: the applicant cannot fulfil it, it cannot bind a future permitting authority and it is not precise enough. The permit decision is annulled and the deputation must take a new decision on the administrative appeal within three months of the day after notification of the ruling. The deputation also bears costs of EUR 910, and a third plea was not examined.",
+   "nl": [
+    "RvVb vernietigt vergunning zonevreemde functiewijziging in Tielt wegens omvang bijgebouwen en onwettige voorwaarde",
+    "De Raad voor Vergunningsbetwistingen vernietigt een vergunning voor de functiewijziging van een voormalige landbouwsite in Tielt naar een zonevreemde woning met bijgebouwen. De motivering over de kwalificatie als woningbijgebouw en over schaal en ruimtegebruik was onvoldoende, en een voorwaarde over toekomstige volumebeperking was onwettig.",
+    "Het arrest betreft een vergunning voor het slopen van een landbouwloods, het weghalen van een sleufsilo en de functiewijziging van een landbouwsite in agrarisch gebied naar een zonevreemde woning met bijgebouwen. De Raad oordeelt dat de motivering over de functionele inpasbaarheid en over de omliggende landbouwbedrijven volstaat, aangezien het agentschap Landbouw en Zeevisserij de functiewijziging zelf gunstig adviseerde. De motivering volstaat niet over de vraag of de te behouden gebouwen, met volumes van ongeveer 970, 1.220 en 910 m³ en een vage invulling als 'berging', nog woningbijgebouwen zijn in de zin van artikel 11 van het Besluit Zonevreemde Functiewijzigingen, gelet op de negatieve adviezen en de verstrengde motiveringsplicht. Ook over schaal en ruimtegebruik is de motivering onvoldoende. De voorwaarde dat een toekomstige aanvraag tot grondige verbouwing of herbouw het volume verder moet beperken, voldoet niet aan artikel 74 van het Omgevingsvergunningsdecreet: de aanvrager kan ze niet verwezenlijken, ze kan een latere vergunningverlenende overheid niet binden en ze is niet precies genoeg. De bestreden beslissing wordt vernietigd en de deputatie moet binnen drie maanden vanaf de dag na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De deputatie draagt ook de kosten van 910 euro; een derde middel werd niet onderzocht."
+   ],
+   "fr": [
+    "Le CCAP annule un permis de changement d'affectation en zone agricole à Tielt : volume des annexes et condition illégale",
+    "Le Conseil pour les contestations des permis annule un permis autorisant la transformation d'un ancien site agricole à Tielt en habitation non conforme à la zone avec annexes. La motivation sur la qualification d'annexes d'habitation, ainsi que sur l'échelle et l'utilisation de l'espace, était insuffisante, et une condition sur la réduction future du volume était illégale.",
+    "L'arrêt concerne un permis portant sur la démolition d'un hangar agricole, l'enlèvement d'un silo-tranchée et le changement d'affectation d'un site agricole situé en zone agricole en habitation non conforme à la zone avec annexes. Le Conseil juge suffisante la motivation relative à l'intégration fonctionnelle et aux exploitations agricoles voisines, l'agence de l'Agriculture et de la Pêche ayant elle-même rendu un avis favorable sur le changement d'affectation. Il juge insuffisante la motivation sur le point de savoir si les bâtiments conservés, d'environ 970, 1.220 et 910 m³ et affectés de façon vague à du « rangement », restent des annexes d'habitation au sens de l'article 11 de l'arrêté sur les changements d'affectation non conformes à la zone, compte tenu des avis négatifs et du devoir de motivation renforcé. La motivation sur l'échelle et l'utilisation de l'espace est également insuffisante. La condition selon laquelle une future demande de transformation lourde ou de reconstruction devra réduire davantage le volume ne satisfait pas à l'article 74 du décret sur le permis d'environnement : le demandeur ne peut pas la réaliser, elle ne peut lier une autorité délivrante ultérieure et elle n'est pas assez précise. La décision attaquée est annulée et la députation doit prendre une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. La députation supporte aussi les dépens de 910 euros ; un troisième moyen n'a pas été examiné."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0100: art. 11 Besluit Zonevreemde Functiewijzigingen, art. 4.3.1 VCRO, art. 74 Omgevingsvergunningsdecreet",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0100.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0100.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0100"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-22"
+  },
+  {
+   "id": "d-eu-32026d2260",
+   "d": "2026-10-08",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting",
+    "environmental-safety"
+   ],
+   "h": "Commission sets uniform operating conditions for pig and poultry rearing installations under the IED",
+   "a": "Implementing Decision (EU) 2026/2260 lays down uniform conditions for operating rules for pig and poultry rearing installations covered by Annex Ia of the Industrial Emissions Directive. It sets maximum nitrogen, phosphorus and ammonia values and phases in application over 4 to 6 years, depending on installation size.",
+   "b": "The Decision is addressed to the Member States and concerns installations rearing pigs and poultry that fall under Annex Ia of Directive 2010/75/EU, with capacity expressed in livestock units (LSU). The conditions cover nutritional management, feed preparation, housing, manure management (collection, storage, processing and landspreading) and storage of dead animals, and apply alongside other legislation such as the Nitrates Directive and animal welfare rules. The Annex sets maximum values per animal place per year for total nitrogen and phosphorus excreted (pigs, laying hens, broilers, ducks, turkeys) and for ammonia emissions to air from each animal house, with separate values for new and existing plants. It also requires measures against methane (pigs), dust and odour, and lists techniques by which the values can be met. Member States may allow other techniques or different environmental performances if they validate them with scientifically established methods as giving at least equivalent protection. They may also apply farm-wide values with no net increase in emissions, or a relative ammonia-reduction system, and must inform the Commission of the latter and make the underlying data publicly available. The Decision applies at the latest 4 years after 8 October 2026 for installations of 600 LSU or more, 5 years for those of 400 LSU or more, and 6 years for all other installations covered by Annex Ia.",
+   "nl": [
+    "Commissie stelt eenvormige voorwaarden vast voor uitvoeringsregels voor pluimvee- en varkenshouderij onder de IED",
+    "Uitvoeringsbesluit (EU) 2026/2260 stelt eenvormige voorwaarden voor uitvoeringsregels vast voor varkens- en pluimveebedrijven onder bijlage Ia van de Richtlijn industriële emissies. Het bepaalt maximumwaarden voor stikstof, fosfor en ammoniak en voorziet in een toepassing binnen 4 tot 6 jaar, afhankelijk van de omvang van de installatie.",
+    "Het besluit is gericht tot de lidstaten en betreft installaties voor de houderij van varkens en pluimvee die onder bijlage Ia van Richtlijn 2010/75/EU vallen, met een capaciteit uitgedrukt in grootvee-eenheden (GVE). De voorwaarden omvatten voedingsbeheer, voederbereiding, huisvesting, mestbeheer (opvang, opslag, verwerking en uitrijden) en opslag van dode dieren, en gelden naast andere regelgeving zoals de Nitraatrichtlijn en de dierenwelzijnsregels. De bijlage stelt maximumwaarden per dierplaats per jaar vast voor de uitgescheiden totale stikstof en fosfor (varkens, legkippen, vleeskuikens, eenden, kalkoenen) en voor ammoniakemissies naar lucht uit elke dierenverblijfplaats, met afzonderlijke waarden voor nieuwe en bestaande installaties. Ook zijn maatregelen vereist tegen methaan (varkens), stof en geur, en worden technieken opgesomd waarmee de waarden kunnen worden gehaald. De lidstaten mogen andere technieken of andere milieuprestaties toestaan als zij die met wetenschappelijk onderbouwde methoden valideren als minstens gelijkwaardig beschermend. Ze mogen ook bedrijfsbrede waarden toepassen zonder nettotoename van emissies, of een relatief systeem voor ammoniakreductie, en moeten de Commissie over dat laatste informeren en de onderliggende gegevens openbaar maken. Het besluit is uiterlijk 4 jaar na 8 oktober 2026 van toepassing op installaties van 600 GVE of meer, na 5 jaar op installaties van 400 GVE of meer en na 6 jaar op alle andere installaties onder bijlage Ia."
+   ],
+   "fr": [
+    "La Commission fixe des conditions uniformes pour les règles d'exploitation de l'élevage de volailles et de porcs (IED)",
+    "La décision d'exécution (UE) 2026/2260 fixe des conditions uniformes relatives aux règles d'exploitation des élevages de porcs et de volailles relevant de l'annexe Ia de la directive relative aux émissions industrielles. Elle prévoit des valeurs maximales pour l'azote, le phosphore et l'ammoniac et une application échelonnée sur 4 à 6 ans selon la taille de l'installation.",
+    "La décision est adressée aux États membres et concerne les installations d'élevage de porcs et de volailles relevant de l'annexe Ia de la directive 2010/75/UE, dont la capacité est exprimée en unités de gros bétail (UGB). Les conditions couvrent la gestion de l'alimentation, la préparation des aliments, le logement des animaux, la gestion des effluents d'élevage (collecte, stockage, traitement et épandage) et le stockage des animaux morts, et s'appliquent en parallèle d'autres législations telles que la directive Nitrates et les règles sur le bien-être animal. L'annexe fixe des valeurs maximales par place d'animal et par an pour l'azote total et le phosphore total excrétés (porcs, poules pondeuses, poulets de chair, canards, dindes) et pour les émissions d'ammoniac dans l'air de chaque bâtiment d'élevage, avec des valeurs distinctes pour les installations nouvelles et existantes. Elle exige aussi des mesures contre le méthane (porcs), les poussières et les odeurs, et énumère les techniques permettant de respecter ces valeurs. Les États membres peuvent admettre d'autres techniques ou d'autres performances environnementales s'ils les valident par des méthodes scientifiquement établies comme offrant une protection au moins équivalente. Ils peuvent aussi appliquer des valeurs à l'échelle de l'exploitation sans augmentation nette des émissions, ou un système relatif de réduction de l'ammoniac, et doivent informer la Commission de ce dernier et rendre publiques les données sous-jacentes. La décision s'applique au plus tard 4 ans après le 8 octobre 2026 aux installations de 600 UGB ou plus, après 5 ans à celles de 400 UGB ou plus, et après 6 ans à toutes les autres installations relevant de l'annexe Ia."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/2260: Articles 1–5 and Annex (uniform conditions for pig and poultry rearing, Article 70i of Directive 2010/75/EU)",
+   "dates": {
+    "adopted": "2026-10-08",
+    "published": "2026-10-16"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/2260 of 8 October 2026 laying down rules for the application of Directive 2010/75/EU of the Europ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2260"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D2260"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-22"
