@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:10:06Z",
+ "updated": "2026-11-22T13:13:39Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -843,6 +843,89 @@
    ],
    "inbox": [
     "wallex:139591"
+   ]
+  },
+  {
+   "id": "d-wallex-130083",
+   "d": "2026-01-22",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Wallonia adapts the environmental permit procedure for electronic applications; further provisions follow on 1 January 2027",
+   "a": "A Walloon Government order of 22 January 2026 amends the procedural order of 4 July 2002 on the environmental permit and brings into force part of the decree of 24 May 2018 on EIA transposition, dematerialisation and administrative simplification.",
+   "b": "The order implements the decrees of 24 May 2018 and 25 April 2024, which reformed the permit rules and allow applications for an environmental permit or single permit to be handled electronically. In the 2002 procedural order, the requirement to file three paper copies (four for a single permit) and to forward copies to the technical officer now applies only where the application is not sent electronically. Notifications follow the formalities of Article 176 of the decree instead of registered post, decisions are brought to the public's notice in accordance with Article D.29-22, §2 of Book I of the Environmental Code, and some sections of the order (among them the one on the characterisation study of Article 79, §1 of the decree) are repealed. A first set of articles of the 2018 decree and of the order entered into force on the day of publication in the Moniteur belge; a second set enters into force on 1 January 2027. The text excerpt available to this digest breaks off in the list of provisions taking effect in 2027 and does not give the publication date; both should be checked on Wallex. Applicants and municipalities should check which filing route applies to their application.",
+   "nl": [
+    "Wallonië past de procedure voor de milieuvergunning aan voor elektronische aanvragen; verdere bepalingen volgen op 1 januari 2027",
+    "Een besluit van de Waalse Regering van 22 januari 2026 wijzigt het procedurebesluit van 4 juli 2002 over de milieuvergunning en laat een deel van het decreet van 24 mei 2018 over de omzetting van de m.e.r.-richtlijn, de dematerialisering en de administratieve vereenvoudiging in werking treden.",
+    "Het besluit voert de decreten van 24 mei 2018 en 25 april 2024 uit, die de vergunningsregels hebben hervormd en het mogelijk maken aanvragen voor een milieuvergunning of een globale vergunning (permis unique) elektronisch te behandelen. In het procedurebesluit van 2002 geldt de verplichting om drie papieren exemplaren in te dienen (vier voor een globale vergunning) en exemplaren door te sturen naar de technisch ambtenaar voortaan alleen wanneer de aanvraag niet elektronisch wordt verzonden. Kennisgevingen volgen de formaliteiten van artikel 176 van het decreet in plaats van de aangetekende zending, beslissingen worden ter kennis van het publiek gebracht overeenkomstig artikel D.29-22, §2, van Boek I van het Milieuwetboek, en enkele afdelingen van het besluit (waaronder die over de karakteriseringsstudie van artikel 79, §1, van het decreet) worden opgeheven. Een eerste reeks artikelen van het decreet van 2018 en van het besluit is in werking getreden op de dag van de bekendmaking in het Belgisch Staatsblad; een tweede reeks treedt in werking op 1 januari 2027. Het tekstfragment waarover deze digest beschikt, breekt af in de lijst van bepalingen die in 2027 ingaan en vermeldt de datum van bekendmaking niet; beide moeten op Wallex worden nagekeken. Aanvragers en gemeenten gaan best na welke indieningswijze voor hun aanvraag geldt."
+   ],
+   "fr": [
+    "La Wallonie adapte la procédure du permis d'environnement aux demandes électroniques ; d'autres dispositions suivront le 1er janvier 2027",
+    "Un arrêté du Gouvernement wallon du 22 janvier 2026 modifie l'arrêté de procédure du 4 juillet 2002 relatif au permis d'environnement et fait entrer en vigueur une partie du décret du 24 mai 2018 sur la transposition de la directive EIE, la dématérialisation et la simplification administrative.",
+    "L'arrêté exécute les décrets du 24 mai 2018 et du 25 avril 2024, qui ont réformé les règles du permis et permettent de gérer par voie électronique les demandes de permis d'environnement et de permis unique. Dans l'arrêté de procédure de 2002, l'obligation d'introduire trois exemplaires papier (quatre pour un permis unique) et d'en transmettre au fonctionnaire technique ne vaut désormais que lorsque la demande n'est pas envoyée par voie électronique. Les notifications suivent les formalités de l'article 176 du décret au lieu du recommandé, les décisions sont portées à la connaissance du public conformément à l'article D.29-22, §2, du Livre Ier du Code de l'Environnement, et certaines sections de l'arrêté (dont celle relative à l'étude de caractérisation de l'article 79, §1er, du décret) sont abrogées. Une première série d'articles du décret de 2018 et de l'arrêté est entrée en vigueur le jour de la publication au Moniteur belge ; une seconde série entre en vigueur le 1er janvier 2027. L'extrait dont dispose ce digest s'interrompt dans la liste des dispositions prenant effet en 2027 et ne mentionne pas la date de publication ; ces deux points sont à vérifier sur Wallex. Les demandeurs et les communes ont intérêt à vérifier quel mode d'introduction s'applique à leur demande."
+   ],
+   "u": [
+    [
+     "Wallex, arrêté du Gouvernement wallon du 22 janvier 2026",
+     "https://wallex.wallonie.be/eli/arrete/2026/01/22/2026001027/2026/02/22"
+    ],
+    [
+     "UVCW",
+     "https://www.uvcw.be/environnement/actus/art-9999"
+    ]
+   ],
+   "inbox": [
+    "wallex:130083"
+   ],
+   "replaces": [
+    "item-20260122-1"
+   ]
+  },
+  {
+   "id": "d-wallex-133022",
+   "d": "2026-02-09",
+   "j": [
+    "WAL",
+    "VL",
+    "BRU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Regions conclude a framework cooperation agreement on extended producer responsibility; Walloon assent in force since 20 April 2026",
+   "a": "The Flemish, Walloon and Brussels-Capital Regions signed a cooperation agreement on 9 February 2026 setting a common framework for extended producer responsibility for certain waste streams and for litter. The Walloon Parliament gave its assent by decree of 12 March 2026.",
+   "b": "According to its preamble, the agreement partly transposes the Waste Framework Directive (2008/98/EC) and the Single-Use Plastics Directive (EU) 2019/904 and starts from the finding that products are placed on one Belgian market, so that collection and treatment targets can only be set and checked nationally. National targets per waste stream are to be laid down in implementing cooperation agreements, so that the rules can be adapted more easily. The Interregional Packaging Commission becomes an Interregional EPR Commission with two decision-making bodies and a joint permanent secretariat, which supervises compliance. The preamble also announces that management bodies will pay a contribution per inhabitant per year towards the regions' costs (for example prevention and communication), also for waste streams with a positive net value, and that those responsible for industrial packaging will owe a financial contribution to regional policy. The Walloon assent decree was published in the Moniteur belge of 10 April 2026 and has been in force since 20 April 2026. The text excerpt available to this digest contains the preamble only, not the articles of the agreement; the waste streams covered and the concrete obligations of producers should be read in the full text. The assent acts of the Flemish and Brussels Regions are not in the excerpt.",
+   "nl": [
+    "Gewesten sluiten een kadersamenwerkingsakkoord over uitgebreide producentenverantwoordelijkheid; Waalse instemming in werking sinds 20 april 2026",
+    "Het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest ondertekenden op 9 februari 2026 een samenwerkingsakkoord dat een gemeenschappelijk kader vastlegt voor de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil. Het Waals Parlement stemde ermee in bij decreet van 12 maart 2026.",
+    "Volgens de aanhef zet het akkoord de kaderrichtlijn Afvalstoffen (2008/98/EG) en de richtlijn kunststoffen voor eenmalig gebruik (EU) 2019/904 gedeeltelijk om en gaat het uit van de vaststelling dat producten op één Belgische markt worden gebracht, zodat inzamel- en verwerkingsdoelstellingen alleen nationaal kunnen worden opgelegd en gecontroleerd. Nationale doelstellingen per afvalstroom worden vastgelegd in uitvoerende samenwerkingsakkoorden, zodat de regels vlotter kunnen worden aangepast. De Interregionale Verpakkingscommissie wordt omgevormd tot een Interregionale UPV-Commissie met twee beslissingsorganen en een gemeenschappelijk permanent secretariaat, die toeziet op de naleving. De aanhef kondigt ook aan dat beheersorganismen een bijdrage per inwoner per jaar betalen in de kosten van de gewesten (bijvoorbeeld preventie en communicatie), ook voor afvalstromen met een positieve nettowaarde, en dat verpakkingsverantwoordelijken voor bedrijfsmatig verpakkingsafval een financiële bijdrage aan het gewestelijke beleid verschuldigd zijn. Het Waalse instemmingsdecreet is bekendgemaakt in het Belgisch Staatsblad van 10 april 2026 en is in werking sinds 20 april 2026. Het tekstfragment waarover deze digest beschikt, bevat enkel de aanhef en niet de artikelen van het akkoord; de betrokken afvalstromen en de concrete verplichtingen van producenten moeten in de volledige tekst worden nagelezen. De instemmingsakten van het Vlaamse en het Brusselse Gewest staan niet in het fragment."
+   ],
+   "fr": [
+    "Les Régions concluent un accord de coopération-cadre sur la responsabilité élargie des producteurs ; assentiment wallon en vigueur depuis le 20 avril 2026",
+    "La Région flamande, la Région wallonne et la Région de Bruxelles-Capitale ont signé le 9 février 2026 un accord de coopération fixant un cadre commun pour la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages. Le Parlement wallon y a donné son assentiment par décret du 12 mars 2026.",
+    "Selon son préambule, l'accord transpose partiellement la directive-cadre relative aux déchets (2008/98/CE) et la directive (UE) 2019/904 sur les plastiques à usage unique, et part du constat que les produits sont mis sur un seul marché belge, de sorte que les objectifs de collecte et de traitement ne peuvent être imposés et contrôlés qu'au niveau national. Les objectifs nationaux par flux de déchets seront fixés dans des accords de coopération d'exécution, afin de pouvoir adapter plus aisément la réglementation. La Commission interrégionale de l'Emballage est transformée en une Commission interrégionale de la REP, composée de deux organes de décision et d'un secrétariat permanent commun, qui contrôle le respect de l'accord. Le préambule annonce aussi que les organismes de gestion paieront une cotisation par habitant et par an pour les coûts supportés par les Régions (par exemple prévention et communication), y compris pour les flux à valeur nette positive, et que les responsables d'emballages industriels devront une contribution financière à la politique régionale. Le décret d'assentiment wallon a été publié au Moniteur belge du 10 avril 2026 et est en vigueur depuis le 20 avril 2026. L'extrait dont dispose ce digest ne contient que le préambule et non les articles de l'accord ; les flux de déchets visés et les obligations concrètes des producteurs doivent être lus dans le texte complet. Les actes d'assentiment des Régions flamande et bruxelloise ne figurent pas dans l'extrait."
+   ],
+   "u": [
+    [
+     "Wallex, accord de coopération du 9 février 2026",
+     "https://wallex.wallonie.be/eli/autre/2026/02/09/2026002792/2026/04/20"
+    ],
+    [
+     "Wallex, décret d'assentiment du 12 mars 2026",
+     "https://wallex.wallonie.be/eli/loi-decret/2026/03/12/2026002792/2026/04/20"
+    ]
+   ],
+   "inbox": [
+    "wallex:133022",
+    "wallex:133011"
    ]
   }
  ]
