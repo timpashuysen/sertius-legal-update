@@ -1,42 +1,43 @@
 {
- "ran": "2026-11-22T01:40:47+00:00",
+ "ran": "2026-11-22T01:48:15+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 127,
-   "backfilled_to": "2026-01-01",
-   "seconds": 42.3
+   "matched": 288,
+   "backfilled_to": "2025-01-01",
+   "seconds": 41.2
   },
   "gwh": {
    "ok": true,
    "read": 150,
-   "matched": 6,
+   "matched": 150,
    "next": {
-    "2024": 160,
-    "2025": 142,
+    "2024": 151,
+    "2025": 1,
     "2026": 1
    },
-   "seconds": 223.6
+   "seconds": 271.9
   },
   "codex": {
    "ok": true,
    "total_in_codex": 39968,
    "read": 4000,
-   "matched": 257,
+   "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 29.5
+   "seconds": 29.1
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.5
+   "seconds": 0.7
   }
  },
  "not_collected": {
   "Belgisch Staatsblad / Moniteur belge": "robots.txt forbids automated access to the publication pages",
   "Raad van State / Conseil d'Etat judgments": "robots.txt forbids automated access to the judgment folders",
-  "Raad voor Vergunningsbetwistingen (dbrc.be)": "server closes automated connections",
-  "Bruxelles Environnement": "server closes automated connections"
+  "Raad voor Vergunningsbetwistingen (dbrc.be)": "refuses connections from this server; read by the digest stage instead",
+  "Bruxelles Environnement": "refuses connections from this server; read by the digest stage instead",
+  "JUPORTAL": "robots.txt forbids automated access"
  },
  "explore": {
   "wallex_sitemap_lang": {
@@ -51,12 +52,13 @@
    "error": "<HTTPError 404: 'Not Found'>"
   }
  },
- "items_total": 496,
- "items_new": 124,
+ "items_total": 3115,
+ "items_new": 3115,
  "items_by_source": {
   "council": 1,
-  "eurlex": 223,
-  "codex": 257,
-  "gwh": 15
- }
+  "eurlex": 288,
+  "codex": 2676,
+  "gwh": 150
+ },
+ "items_filed_for_site": 372
 }
