@@ -67,7 +67,7 @@ def run(inbox, log, digest, client, today, per_run=PER_RUN):
         text = (DATA / "text" / text_name(it["id"])).read_text("utf-8")[:60000]
         meta = json.dumps({k: it.get(k) for k in ("id", "src", "level", "t", "d", "title", "url", "ref")}, ensure_ascii=False)
         try:
-            out = llm.json_block(client.ask(llm.MODELS["writer"], SYSTEM, "METADATA\n%s\n\nOFFICIAL TEXT\n%s" % (meta, text), max_tokens=3500))
+            out = llm.json_block(client.ask(llm.MODELS["writer"], SYSTEM, "METADATA\n%s\n\nOFFICIAL TEXT\n%s" % (meta, text), max_tokens=5000))
         except llm.CapReached:
             break
         except Exception as e:

@@ -17,7 +17,7 @@ import llm
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SCOPE_START = "2026-01-01"
-VERSION = 1
+VERSION = 2
 BATCH = 25
 TOPICS = ["soil", "environmental-law", "environmental-safety", "permitting", "energy-climate", "circular-products"]
 
@@ -41,7 +41,7 @@ RELEVANT: it creates, changes, repeals, interprets or announces rules that compa
 - circular-products: extended producer responsibility, packaging, batteries, ecodesign, product and material rules with environmental purpose, critical raw materials
 Court rulings are relevant when they decide on such rules. Corrigenda to relevant acts are relevant.
 
-NOT RELEVANT: everything else, for example tax, social security, justice, health care, education, defence, transport safety, agriculture market measures, fisheries quotas, trade and anti-dumping, customs, financial services, individual subsidies, individual product authorisations, decisions about one named person or one site without general interest.
+NOT RELEVANT: everything else, for example tax, social security, justice, health care, education, defence, road traffic and vehicle rules, transport safety, animal health, food and feed rules, agriculture market measures, fisheries quotas, trade and anti-dumping, customs, financial services, individual subsidies, individual product or active-substance authorisations, and decisions about one named person, company, plot or site (such as the designation or change of one specific soil site, or one individual permit) without general interest.
 
 Answer with a JSON array only, one object per publication, in the same order:
 {"n": <number>, "relevant": true|false, "topics": [zero or more topic ids from the list], "reason": "<at most 15 words, plain>", "confidence": "high"|"medium"|"low"}
