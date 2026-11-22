@@ -425,9 +425,9 @@ def collect_staatsblad(state, items, budget=220):
     matched = read = 0
     error = None
 
-    def read_day(day):
+    def read_day(day, timeout=20):
         nonlocal matched, read
-        rows = _sb_day(day)
+        rows = _sb_day(day, timeout=timeout)
         read += len(rows)
         for numac, href, label in rows:
             item = _sb_item(day, numac, href, label)
@@ -437,7 +437,7 @@ def collect_staatsblad(state, items, budget=220):
         time.sleep(1)  # no more than one request per second
 
     try:
-        while cursor < TODAY and time.time() - started < budget - 35:
+        while cursor < TODAY and time.time() - started < budget - 80:
             if cursor.weekday() >= 5:
                 cursor += dt.timedelta(days=1)
                 state["sb_next"] = cursor.isoformat()
@@ -454,7 +454,7 @@ def collect_staatsblad(state, items, budget=220):
         while recent < TODAY:
             if recent.weekday() < 5:
                 try:
-                    read_day(recent)
+                    read_day(recent, timeout=15)
                 except Exception as e:
                     error = error or "refresh %s: %s" % (recent.isoformat(), repr(e)[:250])
             recent += dt.timedelta(days=1)
