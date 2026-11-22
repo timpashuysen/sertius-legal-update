@@ -12,7 +12,7 @@ import llm, assess
 
 DATA = assess.DATA
 STATUSES = ["In force", "Adopted", "Proposal", "Draft decree", "Preliminary draft", "Ruling", "Pending"]
-PER_RUN = 20
+PER_RUN = 14
 
 SYSTEM = """You write entries for the Sertius Legal Update, a digest of legal changes for clients of a Belgian environmental consultancy. You receive one official publication: its metadata and its official text (long texts are shortened). Write ONE entry based ONLY on that text.
 

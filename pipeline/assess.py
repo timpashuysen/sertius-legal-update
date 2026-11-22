@@ -89,7 +89,7 @@ def parse_rows(reply):
         return rows
 
 
-def assess(items, log, client, today, limit=2400):
+def assess(items, log, client, today, limit=1000):
     done = 0
     log.pop("last_error", None)
     todo = [i for i in items if i["d"] >= SCOPE_START and log["items"].get(i["id"], {}).get("v") != VERSION]

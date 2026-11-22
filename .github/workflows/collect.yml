@@ -18,7 +18,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,7 +29,7 @@ jobs:
         run: python -m unittest discover -s pipeline -p "test_*.py"
       - name: Council of State (only between 22:00 and 05:00 Belgian time)
         continue-on-error: true
-        run: python pipeline/rvs_fetch.py --minutes 7
+        run: python pipeline/rvs_fetch.py --minutes 6
       - run: python pipeline/collect.py
       - name: Qualify (one verdict per publication)
         env:
