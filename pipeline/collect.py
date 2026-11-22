@@ -1,49 +1,286 @@
-"""Probe candidate official endpoints and record what answers. Temporary first step."""
-import json, datetime, pathlib, urllib.request, urllib.parse, ssl
-UA = "SertiusLegalUpdate-collector/0.1 (+https://github.com/timpashuysen/sertius-legal-update)"
-def get(url, method="GET", n=1500, headers=None):
-    req = urllib.request.Request(url, method=method, headers={"User-Agent": UA, **(headers or {})})
-    try:
-        with urllib.request.urlopen(req, timeout=40) as r:
-            body = r.read(200000) if method == "GET" else b""
-            return {"status": r.status, "type": r.headers.get("Content-Type"), "len": len(body), "head": body[:n].decode("utf-8", "replace")}
-    except Exception as e:
-        return {"error": repr(e)[:300]}
-SPARQL = """PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
+"""Nightly collector for the Sertius Legal Update.
+
+Reads official, machine-readable sources, keeps what matches the four practice
+areas, and writes data/feed.json (items), data/state.json (cursors) and
+data/status.json (what happened per source). No AI is involved: titles are
+taken as published and topics are assigned by keyword.
+
+Sources that forbid automated access in robots.txt are not collected.
+"""
+import datetime as dt
+import io
+import json
+import pathlib
+import re
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+
+UA = "SertiusLegalUpdate-collector/0.2 (+https://github.com/timpashuysen/sertius-legal-update)"
+DATA = pathlib.Path("data")
+START = dt.date(2024, 1, 1)
+TODAY = dt.datetime.now(dt.timezone.utc).date()
+
+TOPICS = {
+    "soil": r"\bbodem|grondverzet|grondwater|\bsols?\b|\bsoil|sanering|assainissement|remediat|pfas|brownfield|vlarebo|terres excav|verontreinig|contaminat|pollution des sols",
+    "environmental-law": r"omgevingsvergunning|vergunning|\bpermis\b|\bpermit|ruimtelijke ordening|aménagement du territoire|urbanis|handhaving|enforcement|\bvcro\b|\bcodt\b|\bcobat\b|stedenbouw|spatial planning|town and country planning",
+    "environmental-safety": r"seveso|zware ongevallen|accidents majeurs|major[- ]accident|gevaarlijke stoffen|substances dangereuses|dangerous substances|hazardous|industrial emission|industriële emissies|émissions industrielles|industrial hazard|chemical safety|\breach\b|classification, labelling|veiligheidsrapport|explosie",
+    "permitting": r"milieueffect|m\.e\.r\.|évaluation des incidences|environmental impact|impact assessment|waterbeleid|oppervlaktewater|afvalwater|\beaux?\b|\bwater (policy|pollution|protection|management|quality)|luchtkwaliteit|air quality|qualité de l.air|geluid|\bbruit\b|\bnoise|natuurbehoud|\bnatuur|\bnature\b|biodiversit|habitat|natura 2000|stikstof|\bazote\b|nitrogen|afvalstoffen|déchets|\bwaste\b|\bemissie|émissions|\bemission|vlarem|\bbbt\b|\bbref\b|leefmilieu|milieu(beleid|hygiën|vergunning|handhaving)|environnement|environmental (protection|policy|law|liability|monitoring|standard)|pollution|mest(decreet|stoffen)",
+}
+TOPIC_RX = {k: re.compile(v, re.I) for k, v in TOPICS.items()}
+
+
+def classify(text):
+    return [k for k, rx in TOPIC_RX.items() if rx.search(text or "")]
+
+
+def http(url, data=None, headers=None, timeout=60, method=None):
+    req = urllib.request.Request(url, data=data, method=method, headers={"User-Agent": UA, **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.status, r.read()
+
+
+def load(name, default):
+    p = DATA / name
+    if p.exists():
+        try:
+            return json.loads(p.read_text("utf-8"))
+        except Exception:
+            pass
+    return default
+
+
+# ---------------------------------------------------------------- EU: Cellar
+CELLAR = "https://publications.europa.eu/webapi/rdf/sparql"
+EUROVOC_RX = ("soil|pollution|environmental (impact|protection|policy|law|liability|monitoring|risk|standard)|waste|"
+              "water (policy|pollution|protection|management)|groundwater|emission|dangerous substance|industrial hazard|"
+              "major accident|chemical|biodiversity|protection of animal life|protected area|habitat|noise|air quality|"
+              "industrial pollution|pollution control|environmental offence|nature restoration")
+NOISE = re.compile(r"biocidal|active substance|plant protection|fishing|fisher|anti-dumping|tariff|feed additive|"
+                   r"maximum residue|novel food|State aid|veterinary|cosmetic", re.I)
+
+
+def cellar_query(a, b):
+    lang = "http://publications.europa.eu/resource/authority/language/"
+    opt = "".join(
+        " OPTIONAL { ?e%s cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <%s%s> ; cdm:expression_title ?%s }" % (v, lang, c, v)
+        for v, c in (("en", "ENG"), ("nl", "NLD"), ("fr", "FRA")))
+    return """PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-SELECT DISTINCT ?celex ?date ?title ?label WHERE {
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?celex ?date ?en ?nl ?fr (GROUP_CONCAT(DISTINCT ?label; separator="|") AS ?labels) WHERE {
  ?w cdm:resource_legal_id_celex ?celex ; cdm:work_date_document ?date ; cdm:work_is_about_concept_eurovoc ?c .
  ?c skos:prefLabel ?label . FILTER(lang(?label)="en")
- FILTER(?date >= "2026-10-01"^^<http://www.w3.org/2001/XMLSchema#date>)
- FILTER(regex(?label, "soil|pollut|environmental|waste|water|emission|chemical|biodiversity|nature", "i"))
- ?e cdm:expression_belongs_to_work ?w ; cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/ENG> ; cdm:expression_title ?title .
-} ORDER BY DESC(?date) LIMIT 20"""
-P = {
- "cellar_sparql": ("https://publications.europa.eu/webapi/rdf/sparql?" + urllib.parse.urlencode({"query": SPARQL, "format": "application/sparql-results+json"}), "GET", 3000),
- "constcourt_pdf_092": ("https://nl.const-court.be/public/n/2026/2026-092n.pdf", "HEAD", 0),
- "constcourt_pdf_140": ("https://nl.const-court.be/public/n/2026/2026-140n.pdf", "HEAD", 0),
- "constcourt_pdf_190": ("https://nl.const-court.be/public/n/2026/2026-190n.pdf", "HEAD", 0),
- "constcourt_robots": ("https://nl.const-court.be/robots.txt", "GET", 600),
- "codex_api": ("https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument?take=3", "GET", 2500),
- "codex_docs": ("https://codex.opendata.api.vlaanderen.be/docs/", "GET", 1200),
- "themis_sparql": ("https://themis.vlaanderen.be/sparql?" + urllib.parse.urlencode({"query": "SELECT DISTINCT ?t WHERE { ?s a ?t } LIMIT 40", "format": "application/sparql-results+json"}), "GET", 3000),
- "vlpar_api": ("https://ws.vlpar.be/e/opendata/api", "GET", 1500),
- "wallex_robots": ("https://wallex.wallonie.be/robots.txt", "GET", 800),
- "wallex_sitemap": ("https://wallex.wallonie.be/sitemap.xml", "GET", 1500),
- "wallex_home": ("https://wallex.wallonie.be/home.html", "GET", 2500),
- "ejustice_robots": ("https://www.ejustice.just.fgov.be/robots.txt", "GET", 800),
- "dbrc_robots": ("https://www.dbrc.be/robots.txt", "GET", 600),
- "dbrc_rvvb": ("https://www.dbrc.be/raad-voor-vergunningsbetwistingen", "GET", 1500),
- "rvs_robots": ("http://www.raadvst-consetat.be/robots.txt", "GET", 600),
- "consilium_rss": ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "GET", 1500),
- "ec_env_rss": ("https://environment.ec.europa.eu/node/3/rss_en", "GET", 1200),
- "bxl_env_newregs": ("https://environnement.brussels/pro/reglementation-et-inspection/obligations-et-autorisations/decouvrez-les-nouvelles-reglementations-en-rapport-avec-lenvironnement-lurbanisme-et-lenergie", "GET", 800),
- "bxl_env_robots": ("https://environnement.brussels/robots.txt", "GET", 600),
- "vl_decisions": ("https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering", "GET", 800),
- "vl_robots": ("https://www.vlaanderen.be/robots.txt", "GET", 800),
- "ovam_rss": ("https://ovam.vlaanderen.be/rss", "GET", 600),
- "curia_rss": ("https://curia.europa.eu/jcms/jcms/Jo2_7052/en/", "GET", 600),
-}
-out = {k: get(u, m, n) for k, (u, m, n) in P.items()}
-pathlib.Path("data").mkdir(exist_ok=True)
-json.dump({"ran": datetime.datetime.now(datetime.timezone.utc).isoformat(), "probe": out}, open("data/probe.json", "w"), indent=1, ensure_ascii=False)
+ FILTER(?date >= "%s"^^xsd:date && ?date < "%s"^^xsd:date)
+ FILTER(regex(?label, "%s", "i"))
+ FILTER(regex(str(?celex), "^3[0-9]{4}[LRD]|^6[0-9]{4}(CJ|TJ)|^5[0-9]{4}PC"))
+ %s
+} GROUP BY ?celex ?date ?en ?nl ?fr LIMIT 800""" % (a, b, EUROVOC_RX, opt)
+
+
+def collect_eu(state, items, months_per_run=12):
+    cur = dt.date.fromisoformat(state.get("eu_next", START.isoformat()))
+    n = 0
+    done = 0
+    windows = []
+    while cur <= TODAY and done < months_per_run:
+        nxt = (cur.replace(day=1) + dt.timedelta(days=32)).replace(day=1)
+        windows.append((cur, nxt))
+        cur = nxt
+        done += 1
+    # always refresh the last 45 days so late-indexed documents are picked up
+    windows.append((TODAY - dt.timedelta(days=45), TODAY + dt.timedelta(days=1)))
+    for a, b in windows:
+        body = urllib.parse.urlencode({"query": cellar_query(a.isoformat(), b.isoformat()),
+                                       "format": "application/sparql-results+json"}).encode()
+        _, raw = http(CELLAR, data=body, timeout=180)
+        for r in json.loads(raw)["results"]["bindings"]:
+            celex = r["celex"]["value"]
+            title = {k: r[k]["value"].replace(" ", " ")[:400] for k in ("en", "nl", "fr") if k in r}
+            if not title or NOISE.search(title.get("en", "")):
+                continue
+            labels = r.get("labels", {}).get("value", "")
+            topics = classify(" ".join(title.values()) + " " + labels)
+            if not topics:
+                continue
+            kind = "case" if celex[0] == "6" else "prop" if celex[0] == "5" else "law"
+            items["eu:" + celex] = {"id": "eu:" + celex, "src": "eurlex", "level": "EU", "t": kind, "d": r["date"]["value"][:10],
+                                    "title": title, "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:" + celex,
+                                    "ref": celex, "k": topics}
+            n += 1
+        time.sleep(1)
+    state["eu_next"] = min(cur, TODAY.replace(day=1)).isoformat()
+    return {"ok": True, "matched": n, "backfilled_to": state["eu_next"]}
+
+
+# ------------------------------------------------- Belgium: Constitutional Court
+NL_MONTHS = {m: i + 1 for i, m in enumerate(
+    "januari februari maart april mei juni juli augustus september oktober november december".split())}
+
+
+def pdf_text(raw, pages=2):
+    from pypdf import PdfReader
+    rd = PdfReader(io.BytesIO(raw))
+    return "\n".join((rd.pages[i].extract_text() or "") for i in range(min(pages, len(rd.pages))))
+
+
+def collect_gwh(state, items, cap=150):
+    nxt = state.setdefault("gwh_next", {})
+    fetched = kept = 0
+    for year in range(START.year, TODAY.year + 1):
+        n = int(nxt.get(str(year), 1))
+        miss = 0
+        first_missing = None
+        while fetched < cap and miss < 5:
+            url = "https://nl.const-court.be/public/n/%d/%d-%03dn.pdf" % (year, year, n)
+            try:
+                _, raw = http(url, timeout=60)
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    miss += 1
+                    first_missing = first_missing or n
+                    n += 1
+                    continue
+                raise
+            miss = 0
+            first_missing = None
+            fetched += 1
+            txt = re.sub(r"[ \t]+", " ", pdf_text(raw))
+            m = re.search(r"In\s*zake\s*:\s*(.*?)(?:Het Grondwettelijk Hof,|$)", txt, re.S)
+            subject = re.sub(r"\s+", " ", m.group(1)).strip()[:500] if m else ""
+            dm = re.search(r"van (\d{1,2}) (\w+) (%d)" % year, txt)
+            date = "%d-%02d-%02d" % (year, NL_MONTHS.get(dm.group(2).lower(), 1), int(dm.group(1))) if dm else "%d-01-01" % year
+            topics = classify(subject)
+            if topics:
+                title = {"nl": "Grondwettelijk Hof, arrest nr. %d/%d: %s" % (n, year, subject)}
+                try:
+                    _, rawf = http("https://fr.const-court.be/public/f/%d/%d-%03df.pdf" % (year, year, n), timeout=60)
+                    tf = re.sub(r"[ \t]+", " ", pdf_text(rawf))
+                    mf = re.search(r"En\s*cause\s*:\s*(.*?)(?:La Cour constitutionnelle,|$)", tf, re.S)
+                    if mf:
+                        title["fr"] = "Cour constitutionnelle, arrêt n° %d/%d : %s" % (n, year, re.sub(r"\s+", " ", mf.group(1)).strip()[:500])
+                except Exception:
+                    pass
+                key = "gwh:%d/%d" % (n, year)
+                items[key] = {"id": key, "src": "gwh", "level": "BE", "t": "case", "d": date, "title": title,
+                              "url": url, "ref": "%d/%d" % (n, year), "k": topics}
+                kept += 1
+            n += 1
+            time.sleep(0.3)
+        nxt[str(year)] = first_missing or n
+    return {"ok": True, "read": fetched, "matched": kept, "next": dict(nxt)}
+
+
+# ----------------------------------------------------- Flanders: Vlaamse Codex
+CODEX = "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument"
+
+
+def collect_codex(state, items, pages=20, take=200):
+    _, raw = http(CODEX + "?take=1")
+    total = json.loads(raw)["TotaalAantal"]
+    kept = seen = 0
+    oldest = None
+    skip = max(0, total - take)
+    for _ in range(pages):
+        _, raw = http(CODEX + "?skip=%d&take=%d" % (skip, take))
+        rows = json.loads(raw).get("ResultatenLijst", [])
+        if not rows:
+            break
+        for r in rows:
+            seen += 1
+            d = (r.get("Datum") or "")[:10]
+            if not d or d < START.isoformat():
+                continue
+            oldest = min(oldest or d, d)
+            typ = r.get("WetgevingDocumentType") or ""
+            op = (r.get("Opschrift") or "").strip()
+            topics = classify(op)
+            if not topics:
+                continue
+            key = "codex:%s" % r["Id"]
+            items[key] = {"id": key, "src": "codex", "level": "VL", "t": "law", "d": d,
+                          "title": {"nl": ("%s %s" % (typ, op))[:400]},
+                          "url": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=%s&param=inhoud" % r["Id"],
+                          "ref": typ, "k": topics}
+            kept += 1
+        if skip == 0:
+            break
+        skip = max(0, skip - take)
+        time.sleep(0.5)
+    return {"ok": True, "total_in_codex": total, "read": seen, "matched": kept, "oldest_date_seen": oldest}
+
+
+# ------------------------------------------------------- EU: Council press RSS
+def collect_council(state, items):
+    _, raw = http("https://www.consilium.europa.eu/en/rss/pressreleases.ashx")
+    root = ET.fromstring(raw.lstrip(b"\xef\xbb\xbf"))
+    n = 0
+    for it in root.iter("item"):
+        title = (it.findtext("title") or "").strip()
+        desc = re.sub(r"<[^>]+>|&nbsp;", " ", it.findtext("description") or "")
+        cats = " ".join(c.text or "" for c in it.findall("category"))
+        topics = classify(title + " " + desc + " " + cats)
+        if not topics:
+            continue
+        link = (it.findtext("link") or "").strip()
+        upd = it.findtext("{http://www.w3.org/2005/Atom}updated") or ""
+        key = "council:" + (it.findtext("guid") or link)
+        items[key] = {"id": key, "src": "council", "level": "EU", "t": "guide", "d": upd[:10] or TODAY.isoformat(),
+                      "title": {"en": title[:400]}, "url": link, "ref": "Press release", "k": topics}
+        n += 1
+    return {"ok": True, "matched": n}
+
+
+# ------------------------------------------------------------- explore next
+def explore():
+    out = {}
+    for name, url in (("wallex_sitemap_lang", "https://wallex.wallonie.be/sitemap-lang.xml"),
+                      ("vlpar_swagger", "https://ws.vlpar.be/e/opendata/api/swagger.json"),
+                      ("codex_swagger", "https://codex.opendata.api.vlaanderen.be/docs/swagger.json")):
+        try:
+            s, raw = http(url, timeout=40)
+            out[name] = {"status": s, "len": len(raw), "head": raw[:1500].decode("utf-8", "replace")}
+        except Exception as e:
+            out[name] = {"error": repr(e)[:200]}
+    return out
+
+
+def main():
+    DATA.mkdir(exist_ok=True)
+    state = load("state.json", {})
+    feed = load("feed.json", {"items": []})
+    items = {i["id"]: i for i in feed.get("items", [])}
+    before = len(items)
+    status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("council", collect_council)):
+        t0 = time.time()
+        try:
+            res = fn(state, items)
+        except Exception as e:  # one failing source must not stop the others
+            res = {"ok": False, "error": repr(e)[:400]}
+        res["seconds"] = round(time.time() - t0, 1)
+        status["sources"][name] = res
+    status["not_collected"] = {
+        "Belgisch Staatsblad / Moniteur belge": "robots.txt forbids automated access to the publication pages",
+        "Raad van State / Conseil d'Etat judgments": "robots.txt forbids automated access to the judgment folders",
+        "Raad voor Vergunningsbetwistingen (dbrc.be)": "server closes automated connections",
+        "Bruxelles Environnement": "server closes automated connections",
+    }
+    status["explore"] = explore()
+    out = sorted(items.values(), key=lambda i: (i["d"], i["id"]), reverse=True)
+    status["items_total"] = len(out)
+    status["items_new"] = len(out) - before
+    by = {}
+    for i in out:
+        by[i["src"]] = by.get(i["src"], 0) + 1
+    status["items_by_source"] = by
+    (DATA / "feed.json").write_text(json.dumps({"updated": status["ran"], "items": out}, ensure_ascii=False, separators=(",", ":")), "utf-8")
+    (DATA / "state.json").write_text(json.dumps(state, indent=1), "utf-8")
+    (DATA / "status.json").write_text(json.dumps(status, indent=1, ensure_ascii=False), "utf-8")
+    print(json.dumps({k: v for k, v in status.items() if k != "explore"}, indent=1, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()
