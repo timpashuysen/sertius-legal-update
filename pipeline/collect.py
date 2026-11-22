@@ -319,7 +319,7 @@ def text_name(item_id):
 def strip_html(raw):
     import html as _html
     t = raw.decode("utf-8", "replace") if isinstance(raw, bytes) else raw
-    t = re.sub(r"(?is)<(script|style|nav|header|footer)[^>]*>.*?</\\1>", " ", t)
+    t = re.sub(r"(?is)<(script|style|nav|header|footer)[^>]*>.*?</\1>", " ", t)
     t = re.sub(r"(?s)<[^>]+>", " ", t)
     return re.sub(r"\s+", " ", _html.unescape(t)).strip()
 
