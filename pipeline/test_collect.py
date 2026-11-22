@@ -101,5 +101,25 @@ class Staatsblad(unittest.TestCase):
         self.assertEqual(res["read"], 0)
 
 
+class CouncilOfState(unittest.TestCase):
+    def item(self, raw):
+        return collect._sb_item(collect.dt.date(2024, 1, 26), "2024000001", "/nl/x_n2024000001.html", raw)
+
+    def test_annulment_notice_is_kept_as_case_at_every_level(self):
+        it = self.item("type besluit van de vlaamse regering prom. 01/01/2023 pub. 26/01/2024 numac 2024000001 "
+                       "bron vlaamse overheid Raad van State. - Vernietiging Bij arrest nr. 258.384 van 11 januari 2024 "
+                       "heeft de Raad van State het besluit vernietigd")
+        self.assertIsNotNone(it)
+        self.assertEqual(it["t"], "case")
+        self.assertEqual(it["x"], 1)
+
+    def test_staff_notices_are_dropped(self):
+        self.assertIsNone(self.item("type koninklijk besluit prom. 03/03/2024 pub. 26/01/2024 numac 2024000001 "
+                                    "bron raad van state Raad van State. - Oprustestelling Bij koninklijk besluit"))
+        self.assertIsNone(self.item("type koninklijk besluit prom. 03/03/2024 pub. 26/01/2024 numac 2024000001 "
+                                    "bron federale overheidsdienst volksgezondheid, veiligheid van de voedselketen en leefmilieu "
+                                    "Personeel. - Ontslag Bij koninklijk besluit van 29 januari 2024"))
+
+
 if __name__ == "__main__":
     unittest.main()

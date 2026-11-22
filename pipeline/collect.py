@@ -312,7 +312,12 @@ SB_DROP = re.compile(
     r"\b(benoeming|benoemingen|aanstelling|aanstellingen|appointment|nomination|"
     r"désignation|vacature|vacatures|vacancy|vacancies|eervol|ereteken|eretekens|"
     r"honou?r|onderscheiding|decoration|rechtbank|tribunal|court notice|selectienummer|"
-    r"solliciteren|faillissement|bankruptcy|ondernemingsnummer|company notice)\b", re.I)
+    r"solliciteren|faillissement|bankruptcy|ondernemingsnummer|company notice|ontslag|"
+    r"oprustestelling|oprustestellingen|in ruste gesteld|pensionering|démission|mise à la retraite)\b", re.I)
+# Council of State rulings that annul or suspend a regulation are published by extract in the gazette,
+# as are the notices of pending annulment actions (article 3quater). Kept at every level.
+SB_RVS = re.compile(r"(raad van state|conseil d'[eé]tat)\W{0,8}(vernietiging|schorsing|annulation|suspension)|"
+                    r"art(ikel|icle|\.)\s*3\s*quater", re.I)
 SB_TITLE_START = re.compile(
     r"\b(wet|loi|decreet|décret|ordonnantie|ordonnance|koninklijk besluit|"
     r"arrêté royal|ministerieel besluit|arrêté ministériel|besluit van de "
@@ -320,7 +325,7 @@ SB_TITLE_START = re.compile(
     r"circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", re.I)
 
 
-SB_RULES = 2  # bump to rebuild the Staatsblad part of the inbox
+SB_RULES = 3  # bump to rebuild the Staatsblad part of the inbox
 SB_NOISE = re.compile(
     r"^(personeel|personnel)\b|collectieve arbeidsovereenkomst|convention collective|officieuze coördinatie in het duits|"
     r"duitse vertaling|traduction allemande|subsidie|subvention|toelage|\blening\b|\bemprunt\b|rechterlijke orde|"
@@ -418,6 +423,14 @@ def _sb_official_url(day, numac):
 def _sb_item(day, numac, href, raw):
     title = _sb_title(raw, href, numac)
     searchable = (raw or "") + " " + title
+    etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
+    if SB_RVS.search(title):
+        level = _sb_level(_sb_authority(raw))
+        return {
+            "id": "sb:" + numac, "src": "staatsblad", "level": "BE" if level == "COM" else level,
+            "t": "case", "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
+            "ref": numac, "k": classify(title), "text_url": etaamb_href, "auth": "Raad van State", "x": 1,
+        }
     if not SB_KEEP.search(searchable) or SB_DROP.search(searchable):
         return None
     kind = "guide" if re.search(r"\b(circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", title, re.I) else "law"
@@ -436,7 +449,6 @@ def _sb_item(day, numac, href, raw):
             return None
         wide = True
     key = "sb:" + numac
-    etaamb_href = href if href.startswith("http") else ETAAMB + (href if href.startswith("/") else "/" + href)
     return {
         "id": key, "src": "staatsblad", "level": level, "t": kind,
         "d": day.isoformat(), "title": {"nl": title}, "url": _sb_official_url(day, numac),
