@@ -800,6 +800,8 @@ function loadDigest(){
       if (it.nl) TR.nl[it.id] = it.nl; if (it.fr) TR.fr[it.id] = it.fr;
       ITEMS.push(it); have[it.id] = 1;
     });
+    var gone = {}; d.items.forEach(function(it){ (it && it.replaces || []).forEach(function(id){ gone[id] = 1; }); });
+    for (var i = ITEMS.length - 1; i >= 0; i--) if (gone[ITEMS[i].id]) ITEMS.splice(i, 1);
     ITEMS.sort(function(a, b){ return a.d < b.d ? 1 : a.d > b.d ? -1 : 0; });
     render();
   }).catch(function(){}); } catch(e){}

@@ -32,3 +32,12 @@ GitHub's runners are refused by dbrc.be, so two sources are read by the digest t
   collected from the Belgisch Staatsblad (`bxl_seen`, `bxl_missing`).
 Council of State: rulings that annul or suspend a regulation reach the inbox through their notice in
 the Belgisch Staatsblad (`src` staatsblad, `t` case). The Council's own judgment folders are not read.
+
+## Replacing the hand-built items
+`data/builtin.json` lists the 49 items that were written by hand into the site before the pipeline
+existed (`official` = number of official links; 0 means the item rests on commentary only). The digest
+stage replaces them one by one: it finds the inbox item for the same act or ruling, writes a normal
+entry from the official text, and adds `"replaces": ["<built-in id>"]` to that entry. The site hides a
+built-in item as soon as an entry replaces it. A built-in item for which the inbox has no official
+text goes to `builtin_nomatch` in `data/digest-state.json` with a short reason. Commentary links of
+the old item may be kept after the official link in `u`.
