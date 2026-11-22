@@ -74,3 +74,8 @@ need, leave the item unprocessed and note it.
 - Use the established Belgian terms in each language (for example richtwaarden = valeurs guides,
   omgevingsvergunning = permis d'environnement in Flemish context).
 - Tag every practice area that applies, not only the first.
+
+## Reaching the limit
+`entries` in limits.json is the number to aim for, not only a ceiling. Keep choosing and writing
+until that number is reached or no relevant item with a usable text file is left. Do not stop
+early to save time; commit and push every 15 entries so nothing is lost if the run is cut off.

@@ -644,7 +644,7 @@ def parse_cass(html):
     """Entries of the Court of Cassation's own list of recent judgments: date, number, summary, PDF."""
     out = []
     for li in re.findall(r"<li\b.*?</li>", html, re.S | re.I):
-        m = re.search(r'href="(https?://[^"]*?/pdf/arresten-arrets/[^"]+\.pdf)"', li, re.I)
+        m = re.search(r'href="([^"]*?pdf/arresten-arrets/[^"]+\.pdf)"', li, re.I)
         if not m:
             continue
         text = strip_html(li)
@@ -654,7 +654,7 @@ def parse_cass(html):
             continue
         summary = re.sub(r"\s+", " ", text[d.end():]).strip()
         out.append({"d": "%s-%02d-%02d" % (d.group(3), NL_MONTHS[d.group(2).lower()], int(d.group(1))),
-                    "ref": d.group(4), "url": m.group(1), "summary": summary})
+                    "ref": d.group(4), "url": urllib.parse.urljoin(CASS_PAGE, m.group(1)), "summary": summary})
     return out
 
 

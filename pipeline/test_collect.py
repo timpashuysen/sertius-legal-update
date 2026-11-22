@@ -147,9 +147,11 @@ class Cassation(unittest.TestCase):
     def test_list_entries(self):
         html = ('<ul><li><b>12 november 2026&nbsp;- <a href="https://www.cass.be/pdf/arresten-arrets/C.26.0001.N.pdf">C.26.0001.N</a></b>'
                 '<br>De exploitant van een ingedeelde inrichting is aansprakelijk voor bodemverontreiniging.</li>'
+                '<li><b>26 oktober 2026 - <a href="../pdf/arresten-arrets/P.26.0703.N.pdf">P.26.0703.N</a></b> Toegang tot gegevens.</li>'
                 '<li>geen link</li></ul>')
         rows = collect.parse_cass(html)
-        self.assertEqual(len(rows), 1)
+        self.assertEqual(len(rows), 2)
+        self.assertEqual(rows[1]["url"], "https://www.cass.be/pdf/arresten-arrets/P.26.0703.N.pdf")
         self.assertEqual(rows[0]["d"], "2026-11-12")
         self.assertEqual(rows[0]["ref"], "C.26.0001.N")
         self.assertIn("bodemverontreiniging", rows[0]["summary"])
