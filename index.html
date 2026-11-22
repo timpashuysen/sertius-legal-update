@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Sertius Legal Update</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap" rel="stylesheet">
+<style>
+/* Layout idea: Sertius' own site language. White ground, light-weight Inter headings,
+   leaf green as the single accent, sky and sand as quiet fills, pill controls.
+   A sticky filter rail on the left, a dated ledger of items on the right. */
+:root{
+  color-scheme: light;
+  --leaf:#2fac66; --leaf-deep:#1f7f4a; --sky:#93d4ee; --sky-50:#caeaf6; --sky-20:#e9f6fb;
+  --sand:#fdd491; --lime:#b9cc6a;
+  --ink:#1e1e1e; --text:#333333; --muted:#6b6f6c; --line:#e3e6e4; --ground:#ffffff; --wash:#f5f5f5;
+  --font: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--ground);color:var(--text);font-family:var(--font);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--leaf-deep)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible,textarea:focus-visible{outline:2px solid var(--leaf);outline-offset:2px}
+h1,h2,h3{color:var(--ink);font-weight:300;text-wrap:balance;margin:0}
+.staging{background:var(--sand);color:var(--ink);font-size:13px;padding:8px 20px;text-align:center}
+.staging strong{font-weight:600}
+header.site{background:var(--ink);color:#fff}
+.bar{max-width:1180px;margin:0 auto;padding:18px 20px;display:flex;gap:24px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;align-items:baseline;gap:12px;text-decoration:none;color:#fff}
+.brand b{font-weight:600;font-size:22px;letter-spacing:.01em}
+.brand span{font-weight:300;font-size:16px;color:var(--sky)}
+nav.main{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+nav.main a{color:#fff;text-decoration:none;font-size:14px;padding:7px 14px;border-radius:100px}
+nav.main a:hover{background:rgba(255,255,255,.12)}
+nav.main a[aria-current="page"]{background:var(--leaf)}
+.hero{background:var(--sky-20);border-bottom:1px solid var(--sky-50)}
+.hero .in{max-width:1180px;margin:0 auto;padding:34px 20px 30px}
+.hero h1{font-size:clamp(28px,4vw,42px);line-height:1.15;max-width:22ch}
+.hero p{max-width:65ch;margin:12px 0 0;font-weight:300;font-size:17px}
+.hero .meta{margin-top:16px;font-size:13px;color:var(--muted)}
+main{max-width:1180px;margin:0 auto;padding:28px 20px 60px}
+.layout{display:grid;grid-template-columns:250px 1fr;gap:36px;align-items:start}
+.rail{position:sticky;top:12px;display:flex;flex-direction:column;gap:20px}
+.rail h3{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:#fff;color:var(--text);padding:5px 12px;border-radius:100px;cursor:pointer}
+.chip:hover{border-color:var(--leaf)}
+.chip[aria-pressed="true"]{background:var(--leaf);border-color:var(--leaf);color:#fff}
+.search{width:100%;font:inherit;padding:9px 14px;border:1px solid var(--line);border-radius:100px;background:#fff;color:var(--ink)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:100px;overflow:hidden}
+.seg button{font:inherit;font-size:13px;border:0;background:#fff;padding:6px 16px;cursor:pointer;color:var(--text)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.linkbtn{font:inherit;font-size:13px;background:none;border:0;color:var(--leaf-deep);text-decoration:underline;cursor:pointer;padding:0;text-align:left}
+.btn{font:inherit;font-size:14px;border:0;background:var(--leaf);color:#fff;padding:9px 20px;border-radius:100px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn:hover{background:var(--leaf-deep)}
+.btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--ink)}
+.btn.ghost:hover{background:var(--wash)}
+.topichead{display:flex;gap:16px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;margin-bottom:8px}
+.topichead h2{font-size:28px}
+.topichead p{margin:6px 0 0;max-width:65ch;color:var(--muted)}
+.count{font-size:13px;color:var(--muted);margin:10px 0 0}
+.month{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);padding:26px 0 8px}
+.item{display:grid;grid-template-columns:76px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--line)}
+.date{font-variant-numeric:tabular-nums;color:var(--ink)}
+.date b{display:block;font-size:26px;font-weight:300;line-height:1}
+.date span{font-size:12px;color:var(--muted)}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px}
+.tag{font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:2px 8px;border-radius:4px;background:var(--wash);color:var(--ink)}
+.tag.jur{background:var(--sky-50)}
+.tag.case{background:var(--sand)}
+.tag.prop{background:#eef2d9}
+.tag.law{background:#d8efe1}
+.tag.bg{background:#fff;border:1px dashed var(--muted);color:var(--muted)}
+.item h3{font-size:19px;font-weight:500;line-height:1.3}
+.item p{margin:6px 0 0;max-width:68ch}
+.long{margin-top:8px}
+.long p{color:var(--text)}
+.src{margin-top:10px;font-size:13px;color:var(--muted)}
+.src a{margin-right:12px;white-space:nowrap}
+.rowact{margin-top:10px;display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+.review{font-size:12px;color:var(--muted)}
+.review::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--sand);border:1px solid #d9a94f;margin-right:6px}
+.empty{padding:40px 0;color:var(--muted)}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:0 0 6px}
+.card{border:1px solid var(--line);border-radius:10px;padding:16px;background:#fff;text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:6px;border-top:4px solid var(--leaf)}
+.card:nth-child(2){border-top-color:var(--sky)}.card:nth-child(3){border-top-color:var(--sand)}.card:nth-child(4){border-top-color:var(--lime)}
+.card:hover{background:var(--sky-20)}
+.card b{font-weight:500;color:var(--ink);font-size:16px}
+.card span{font-size:13px;color:var(--muted)}
+.panel{max-width:760px}
+.panel h2{font-size:30px;margin-bottom:10px}
+.panel h3{font-size:19px;font-weight:500;margin:26px 0 8px}
+.panel p,.panel li{max-width:68ch}
+form.sub{display:grid;gap:22px;margin-top:20px}
+fieldset{border:0;padding:0;margin:0}
+legend{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;padding:0}
+.opts{display:flex;flex-wrap:wrap;gap:8px 18px}
+.opts label{display:flex;gap:7px;align-items:center;font-size:14px}
+input[type=email]{font:inherit;padding:9px 14px;border:1px solid var(--line);border-radius:100px;width:min(100%,360px)}
+.note{background:var(--sky-20);border-left:4px solid var(--sky);padding:12px 16px;border-radius:4px;font-size:14px;max-width:68ch}
+.ok{background:#d8efe1;border-left-color:var(--leaf)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--ink)}
+.scroll{overflow-x:auto}
+dialog{border:0;border-radius:12px;padding:0;width:min(560px,calc(100% - 32px));box-shadow:0 20px 60px rgba(0,0,0,.25);color:var(--text)}
+dialog::backdrop{background:rgba(30,30,30,.5)}
+.dlg{padding:22px}
+.dlg h3{font-size:20px;font-weight:500;margin-bottom:6px}
+.dlg textarea{width:100%;height:190px;font:13px/1.45 var(--font);padding:10px;border:1px solid var(--line);border-radius:8px;margin:12px 0;color:var(--ink)}
+.dlg .acts{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+footer{border-top:1px solid var(--line);background:var(--wash);font-size:13px;color:var(--muted)}
+footer .in{max-width:1180px;margin:0 auto;padding:20px}
+@media (max-width:820px){.layout{grid-template-columns:1fr;gap:20px}.rail{position:static}.item{grid-template-columns:1fr;gap:6px}.date b{display:inline;font-size:18px;margin-right:6px}nav.main{margin-left:0}}
+@media (prefers-reduced-motion:no-preference){.chip,.btn,.card{transition:background .15s,border-color .15s}}
+
+.brand{align-items:center;gap:14px}
+.brand .logo{height:34px;width:auto;display:block}
+.brand span{font-size:17px;border-left:1px solid rgba(255,255,255,.3);padding-left:14px}
+.preview{margin-left:auto;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);background:var(--sand);padding:3px 10px;border-radius:100px}
+.hero .in{display:grid;grid-template-columns:1fr 320px;gap:32px;align-items:center}
+.subcard{background:#fff;border:1px solid var(--sky-50);border-top:4px solid var(--leaf);border-radius:10px;padding:20px;display:flex;flex-direction:column;gap:10px;align-items:flex-start}
+.subcard b{font-weight:500;font-size:18px;color:var(--ink)}
+.subcard span{font-size:14px;color:var(--muted)}
+.item.micro{padding:9px 0;grid-template-columns:76px 1fr;align-items:baseline}
+.item.micro .date{font-size:13px;color:var(--muted)}
+.item.micro h3{font-size:15px;font-weight:400;display:inline}
+.item.micro .tags{display:inline-flex;margin:0 8px 0 0;vertical-align:middle}
+.titlebtn{font:inherit;color:var(--ink);background:none;border:0;padding:0;text-align:left;cursor:pointer}
+.titlebtn:hover{color:var(--leaf-deep);text-decoration:underline}
+a.linkbtn{display:inline}
+.field{display:flex;flex-direction:column;gap:6px;max-width:360px}
+.field label{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.field input{font:inherit;padding:9px 14px;border:1px solid var(--line);border-radius:100px;width:100%}
+.fields{display:grid;gap:16px}
+[hidden]{display:none !important}
+nav.foot{display:flex;gap:20px;flex-wrap:wrap;margin-bottom:8px}
+nav.foot a{color:var(--ink);font-weight:500}
+footer p{margin:0}
+.srcgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:10px}
+.srcgrid div{border-top:3px solid var(--sky);padding-top:10px}
+.srcgrid b{display:block;color:var(--ink);font-weight:500;margin-bottom:4px}
+.srcgrid span{font-size:14px}
+@media (max-width:820px){.hero .in{grid-template-columns:1fr}.item.micro{grid-template-columns:1fr}}
+.brand{align-items:flex-end}
+.brand span{line-height:1;margin-bottom:-2px}
+.item h3 a{color:inherit;text-decoration:none}
+.item h3 a:hover{color:var(--leaf-deep);text-decoration:underline}
+.detail .tags{margin:18px 0 10px}
+.detail h2{font-size:32px;line-height:1.2}
+.detail .when{color:var(--muted);margin:8px 0 0}
+.detail .lead{font-size:18px;font-weight:300;color:var(--ink)}
+.detail ul{padding-left:18px}
+.detail .acts{margin-top:26px}
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="bar">
+    <a class="brand" href="#latest"><svg class="logo" role="img" aria-label="Sertius" width="152" height="40" viewBox="0 0 152 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.98217 9.92892C7.73605 9.92892 9.96434 7.70643 9.96434 4.9631C9.96434 2.21976 7.73605 0 4.98217 0C2.22829 0 0 2.22249 0 4.9631C0 7.70371 2.23103 9.92892 4.98217 9.92892Z" fill="#8F2C38"/>
+<path d="M4.98217 24.8213C7.73605 24.8213 9.96434 22.5988 9.96434 19.8555C9.96434 17.1121 7.73331 14.8896 4.98217 14.8896C2.23103 14.8896 0 17.1149 0 19.8582C0 22.6015 2.23103 24.824 4.98217 24.824" fill="#702283"/>
+<path d="M4.98217 39.7157C7.73605 39.7157 9.96434 37.4933 9.96434 34.7526C9.96434 32.012 7.73331 29.7896 4.98217 29.7896C2.23103 29.7896 0 32.0093 0 34.7499C0 37.4905 2.23103 39.713 4.98217 39.713" fill="#1C6164"/>
+<path d="M19.9342 9.92892C22.688 9.92892 24.9191 7.70643 24.9191 4.9631C24.9191 2.21976 22.6853 0 19.9342 0C17.183 0 14.9492 2.22249 14.9492 4.9631C14.9492 7.70371 17.1803 9.92892 19.9342 9.92892Z" fill="#EE7444"/>
+<path d="M19.9342 39.7157C22.688 39.7157 24.9191 37.4933 24.9191 34.7526C24.9191 32.012 22.688 29.7896 19.9342 29.7896C17.1803 29.7896 14.9492 32.012 14.9492 34.7526C14.9492 37.4933 17.1803 39.7157 19.9342 39.7157Z" fill="#2FAC66"/>
+<path d="M34.8834 9.92892C37.6373 9.92892 39.8683 7.70643 39.8683 4.9631C39.8683 2.21976 37.6373 0 34.8834 0C32.1295 0 29.8985 2.22249 29.8985 4.9631C29.8985 7.70371 32.1295 9.92892 34.8834 9.92892Z" fill="#FDD491"/>
+<path d="M34.8834 24.8213C37.6373 24.8213 39.8683 22.5988 39.8683 19.8555C39.8683 17.1121 37.6373 14.8896 34.8834 14.8896C32.1295 14.8896 29.8985 17.1121 29.8985 19.8555C29.8985 22.5988 32.1295 24.8213 34.8834 24.8213Z" fill="#94D4EE"/>
+<path d="M34.8834 39.7157C37.6373 39.7157 39.8683 37.4933 39.8683 34.7526C39.8683 32.012 37.6373 29.7896 34.8834 29.7896C32.1295 29.7896 29.8985 32.012 29.8985 34.7526C29.8985 37.4933 32.1295 39.7157 34.8834 39.7157Z" fill="#B9CC6A"/>
+<path d="M19.9342 24.8213C22.688 24.8213 24.9191 22.5988 24.9191 19.8555C24.9191 17.1121 22.688 14.8896 19.9342 14.8896C17.1803 14.8896 14.9492 17.1121 14.9492 19.8555C14.9492 22.5988 17.1803 24.8213 19.9342 24.8213Z" fill="#2581C4"/>
+<path d="M61.2834 33.9564C61.2834 37.4987 58.1217 39.7512 53.6322 39.7512C49.1428 39.7512 45.9455 37.6051 45.2282 33.1328H48.39C48.8198 35.7807 50.7962 37.2478 53.7417 37.2478C56.6872 37.2478 58.1244 35.9607 58.1244 34.1718C58.1244 28.9824 45.877 33.2774 45.877 25.4046C45.877 22.5058 48.1409 19.8579 52.8083 19.8579C56.9391 19.8579 59.9913 21.7886 60.6018 26.5117H57.44C56.9719 23.5421 55.3212 22.4322 52.6276 22.4322C50.2569 22.4322 48.891 23.613 48.891 25.1864C48.891 30.4822 61.2807 26.1163 61.2807 33.9536" fill="white"/>
+<path d="M67.4236 28.0167H78.0914C77.6589 24.5098 75.7564 22.5791 72.7753 22.5791C69.7942 22.5791 67.8889 24.4744 67.4236 28.0167ZM72.956 39.7536C67.4236 39.7536 64.0839 36.0313 64.0839 29.8438C64.0839 23.6563 67.4236 19.8604 72.7753 19.8604C78.127 19.8604 81.3955 23.5445 81.3955 29.5929V30.381H67.3168C67.4975 34.6378 69.5068 37.0348 72.956 37.0348C75.6496 37.0348 77.5521 35.7477 78.2365 33.1353H81.5406C80.5004 37.5721 77.303 39.7536 72.956 39.7536Z" fill="white"/>
+<path d="M98.9016 22.83H96.2435V20.3266H98.9016L98.8906 16.4243H102.052L102.063 20.3266H106.265V22.83H102.063V33.8497C102.063 36.1403 102.745 37.2121 105.548 37.2121H106.194V39.4673C105.836 39.6445 105.044 39.7536 104.147 39.7536C100.591 39.7536 98.9016 37.8583 98.9016 33.8497V22.83Z" fill="white"/>
+<path d="M113.098 20.3242H109.936V39.3231H113.098V20.3242Z" fill="white"/>
+<path d="M113.098 13.2695H109.936V17.6463H113.098V13.2695Z" fill="white"/>
+<path d="M129.742 20.3242H132.904V39.3231H129.742V37.3351C128.734 38.8731 127.234 39.7539 124.212 39.7539C119.912 39.7539 117.604 37.4278 117.604 33.0265V20.3242H120.766V32.3829C120.766 35.2462 122.022 37.0706 124.823 37.0706C127.91 37.0706 129.745 34.1745 129.745 31.0467V20.3242H129.742Z" fill="white"/>
+<path d="M152 33.9564C152 37.4987 148.838 39.7512 144.349 39.7512C139.859 39.7512 136.662 37.6051 135.945 33.1328H139.107C139.536 35.7807 141.513 37.2478 144.458 37.2478C147.404 37.2478 148.841 35.9607 148.841 34.1718C148.841 28.9824 136.594 33.2774 136.594 25.4046C136.594 22.5058 138.857 19.8579 143.525 19.8579C147.656 19.8579 150.708 21.7886 151.318 26.5117H148.157C147.689 23.5421 146.038 22.4322 143.344 22.4322C140.974 22.4322 139.608 23.613 139.608 25.1864C139.608 30.4822 152 26.1163 152 33.9536" fill="white"/>
+<path d="M94.6968 20.2126C94.3875 20.1935 94.0535 20.1826 93.7305 20.1826C91.431 20.1826 89.5285 20.9407 88.2337 22.6696V20.3244H85.0719V39.3233H88.2337V29.577C88.2337 26.1411 89.8871 22.8305 93.6922 22.8305C94.0617 22.8305 94.3848 22.8305 94.6968 22.8305V20.2099V20.2126Z" fill="white"/>
+</svg><span>Legal Update</span></a>
+    <span class="preview">Preview</span>
+  </div>
+</header>
+<div id="app"></div>
+<footer><div class="in">
+  <nav class="foot" aria-label="Footer"><a href="#latest">Latest</a><a href="#subscribe">Subscribe</a><a href="#about">About</a><a href="https://www.sertius.be/" target="_blank" rel="noopener">sertius.be</a></nav>
+  <p>Sertius Legal Update is published for information and is not legal advice. Every item links to its sources.</p>
+</div></footer>
+
+<script>
+var SITE_URL = "https://claude.ai/artifact/SMWPdeLrSQdPSByycHa5RG";
+
+var TOPICS = [
+  {id:"soil", name:"Soil", blurb:"Soil investigation and remediation, soil legislation, excavated earth, PFAS, brownfields."},
+  {id:"environmental-law", name:"Environmental law", blurb:"Permitting procedure, spatial planning, enforcement, appeals and constitutional review."},
+  {id:"environmental-safety", name:"Environmental safety", blurb:"Major-accident risk, hazardous substances, industrial emissions rules."},
+  {id:"permitting", name:"Environment and permitting", blurb:"Impact assessment, water, nature and biodiversity, air, noise, BAT and BREF."}
+];
+var JUR = {EU:"European Union", BE:"Belgium (federal courts)", VL:"Flanders", BRU:"Brussels", WAL:"Wallonia"};
+var TYPES = {law:"Legislation", prop:"Proposal", case:"Case law", guide:"Policy and guidance"};
+
+var ITEMS = [
+{d:"2026-10-12", j:["WAL"], t:"guide", s:"Consultation", k:["soil"],
+ h:"Wallonia consults on a professional soil quality index",
+ a:"The Walloon soil protection directorate opened a consultation with soil-management stakeholders on the professional version of its soil quality index (IQSW-pro).",
+ b:"The index is a technical tool, not a binding rule, and the notice gives no closing date. It is worth following because indices of this kind tend to find their way into study guidance and, with the EU Soil Monitoring Law to transpose by late 2028, into the regional framework for assessing soil health.",
+ u:[["UVCW news list","https://www.uvcw.be/environnement,tag-etablissement-classe,tag-sols/liste"]]},
+{d:"2026-09-30", j:["EU"], t:"prop", s:"Council position", k:["permitting","environmental-law"],
+ h:"Council sets its position on faster environmental assessments",
+ a:"Member states agreed a negotiating position on the proposed regulation to speed up environmental assessments, the permitting part of the environmental omnibus.",
+ b:"According to the Council's timeline, the position works with a closed list of strategic projects that qualify for accelerated procedures, streamlines sectoral permitting provisions, lengthens the time limits the Commission had proposed, and amends the provisions on substantive preclusion and on the Habitats and Birds Directives. Member states keep flexibility on single points of contact. Negotiations with Parliament still have to follow, so nothing changes for current applications yet.",
+ u:[["Council timeline","https://www.consilium.europa.eu/en/policies/simplification/timeline-simplification-omnibus-packages/"]]},
+{d:"2026-09-30", j:["VL"], t:"case", s:"Ruling", k:["permitting","environmental-law"],
+ h:"Permit disputes council halts Ventilus substation works over species assessment",
+ a:"In urgent proceedings the Raad voor Vergunningsbetwistingen suspended the permit for extending the Gezelle high-voltage station in Bruges (RVVB.2627.0073).",
+ b:"The Flemish Government had granted the permit on 27 April 2026 as one of five Ventilus sub-projects. The council found the file thin on protected plant and animal species and on how the works would affect them, and noted that no derogation from the species protection rules had been obtained. The ruling is not a final decision on legality, but works must stop meanwhile. Commentators draw two lessons: the species assessment has to be substantive wherever a site plausibly hosts protected species, and the extreme-urgency route can stop a site within days.",
+ u:[["Andersen via LegalNews","https://legalnews.be/bouw-vastgoed/ventilus-vergunning-op-zak-werf-toch-stilgelegd-andersen/"]]},
+{d:"2026-08-14", j:["VL","BE"], t:"case", s:"Pending", k:["permitting","environmental-law"],
+ h:"Nitrogen Decree: Constitutional Court ruling not expected before early 2027",
+ a:"Practitioner reporting in August indicates the Court will not rule on the challenges to the Flemish Stikstofdecreet before early 2027 at the earliest.",
+ b:"The outcome is open: the Court can reject the challenges, or annul the decree in whole or in part. An annulment works retroactively but does not automatically void permits already granted; those could be challenged again within six months. The Court can also maintain the effects of annulled provisions, within the limits EU law sets, and a reference to the Court of Justice would add further delay. Earlier commentary had expected a ruling during 2026.",
+ u:[["SBB, 14 Aug 2026","https://www.sbb.be/nl/node/4492"],["Eubelius preview 2026","https://legalnews.be/bouw-vastgoed/omgevingsrecht-wrap-up-2025-en-preview-2026-eubelius/"]]},
+{d:"2026-07-16", j:["EU"], t:"case", s:"Ruling", k:["permitting"],
+ h:"Court of Justice: no valid appropriate assessment without site-specific conservation objectives",
+ a:"In joined cases C-27/25 Knocknamona and C-356/25 Massey the Court held that a full appropriate assessment under the Habitats Directive must be based on objectives set for the specific site.",
+ b:"Screening can rest on a lighter analysis, and site-specific objectives may not be needed where distance or the absence of a plausible impact pathway rules out significant effects. The Court declined to limit the judgment to future cases. For Belgian practice the point to check is whether the conservation objectives relied on in an assessment are those formally adopted for the Natura 2000 site concerned.",
+ u:[["McCann FitzGerald","https://www.mccannfitzgerald.com/knowledge/environmental-and-planning/no-objectives-no-assessment-cjeu-clarifies-role-of-sscos-in-aa"]]},
+{d:"2026-07-16", j:["BE","VL"], t:"case", s:"Ruling", k:["permitting","environmental-law"],
+ h:"Constitutional Court upholds Flemish watercourse protection strips, with a reservation",
+ a:"Judgment 92/2026 rejects the challenge to mandatory protection strips along watercourses introduced by the Flemish decree of 20 December 2024.",
+ b:"Within the strips, three or five metres wide depending on zone and crop, fertilising, pesticide use and most soil works are restricted. The Court sees a proportionate regulation of land use aimed at reducing nitrate pollution that in principle needs no compensation. Its reservation: ordinary courts must examine case by case whether a particular parcel bears a disproportionate burden that does call for compensation. The Court also held that the decree itself did not require an environmental impact assessment.",
+ u:[["Judgment 92/2026","https://fr.const-court.be/public/f/2026/2026-092f.pdf"]]},
+{d:"2026-07-15", j:["BRU"], t:"prop", s:"Proposal", k:["environmental-law"],
+ h:"Brussels 'Urban Shift' proposal would shorten planning permit deadlines",
+ a:"A proposal for an ordinance tabled in the Brussels Parliament would reform the planning code (CoBAT) to speed up permits and give municipalities more room.",
+ b:"As announced by the Region: completeness checks drop from 45 to 20 days in most cases, municipal decisions on the simplest requests from 75 to 45 days, public inquiries can run nearly all year, smaller projects move to the municipalities, and appeals to the government get fixed deadlines of 60 or 120 days. The text is a member's proposal and has not been adopted; the Region presents it as a first step before a full CoBAT reform.",
+ u:[["be.brussels press release","https://be.brussels/fr/propos-de-la-region/communique-de-presse-urban-shift-accelerer-les-permis-et-renforcer-lautonomie-des-communes"]]},
+{d:"2026-07-02", j:["BE","WAL"], t:"case", s:"Ruling", k:["environmental-law","permitting"],
+ h:"Constitutional Court annuls Walloon citizen-participation duty for wind projects",
+ a:"Judgment 82/2026 strikes down articles 5 and 6 of the Walloon decree of 29 April 2024, which amended the environmental permit decree.",
+ b:"Article 5 obliged wind developers to offer citizens and local authorities at least 24.99% participation each; article 6 used participation as a tie-breaker between incompatible projects. The Court accepted the aim of social acceptance but found the combination binding and the rates so high that they disproportionately restrict the freedom to conduct a business and the free movement of capital. The Court's press release mentions no maintenance of effects.",
+ u:[["Court press release","https://fr.const-court.be/public/f/2026/2026-082f-info.pdf"]]},
+{d:"2026-07-02", j:["WAL"], t:"guide", s:"Deadline", k:["soil"],
+ h:"Wallonia: earth-quality reports for communal deposits due on Walterre by 30 October 2026",
+ a:"The exceptional regularisation of communal earth deposits requires an earth-quality report filed on the Walterre platform by 30 October 2026.",
+ b:"The association of Walloon municipalities points to SPAQuE's purchasing centre, which covers soil studies, excavated-earth management and traceability, as a route for municipalities to meet the deadline. In May the Region also launched a scientific study into background PFAS levels in Walloon soils; it changes no rule yet but is likely to feed later standards.",
+ u:[["UVCW news list","https://www.uvcw.be/environnement,tag-etablissement-classe,tag-sols/liste"]]},
+{d:"2026-07-01", j:["EU"], t:"law", s:"Deadline", k:["environmental-safety","permitting"],
+ h:"Revised Industrial Emissions Directive: transposition due July 2026 despite the omnibus",
+ a:"Member states had to transpose Directive (EU) 2024/1785 by July 2026; the Commission told delegations the pending omnibus does not postpone that.",
+ b:"The Commission's reasoning, recorded in a Council working document, is that the scope, outcome and timing of the omnibus negotiations cannot be prejudged. For operators this means the regional transposition measures are the reference now, while the simplifications under negotiation (see the June Council position) may adjust some duties later.",
+ u:[["Council working document WK 895/2026","https://data.consilium.europa.eu/doc/document/WK-895-2026-INIT/en/pdf"]]},
+{d:"2026-06-26", j:["VL"], t:"prop", s:"Draft decree", k:["soil"],
+ h:"Flemish draft decree would make parent companies answer for soil remediation",
+ a:"The Flemish Government approved a draft amendment to the Bodemdecreet that lets a parent company be designated as co-obligee when a subsidiary cannot fund remediation.",
+ b:"The mechanism is limited to large-scale serious contamination where the subsidiary's inability to pay for remediation and aftercare is clearly indicated, and it covers historic as well as new contamination. OVAM would also gain enforceable means to recover financial security that was not provided, including seizure and a legal mortgage. The government wants immediate application, including to ongoing remediation projects. The draft still has to pass the Council of State and Parliament.",
+ u:[["Astrea via LegalNews","https://legalnews.be/?p=73620"]]},
+{d:"2026-06-23", j:["EU"], t:"prop", s:"Council position", k:["environmental-safety","permitting"],
+ h:"Environmental omnibus: Council position on industrial emissions",
+ a:"The Council agreed its negotiating position on simplifying rules for industrial emissions, the circular economy and geospatial data (Omnibus VIII).",
+ b:"As reported, the position reintroduces a chemicals inventory under the Industrial Emissions Directive to track hazardous substances, while letting operators rely on inventories kept under other frameworks; the environmental management system would carry a compliance deadline of July 2030; and reporting to the Industrial Emissions Portal is lightened for livestock and aquaculture. Talks with Parliament start once both institutions have a position.",
+ u:[["Council timeline","https://www.consilium.europa.eu/en/policies/simplification/timeline-simplification-omnibus-packages/"],["The Brussels Times","https://www.brusselstimes.com/2206900/eu-plans-to-cut-red-tape-on-batteries-emissions-and-data-sharing"]]},
+{d:"2026-06-17", j:["EU"], t:"prop", s:"Provisional agreement", k:["environmental-safety"],
+ h:"Chemicals omnibus: provisional deal on classification, labelling and packaging",
+ a:"Council and Parliament reached a provisional agreement on simplifying the rules for classifying, labelling and packaging chemicals, the remaining part of Omnibus VI.",
+ b:"The deal also touches cosmetics and fertilising products. Formal adoption by both institutions is still required. For safety studies the practical interest lies in any change to how substances are classified and labelled, since those classifications feed hazard identification; the final text should be checked once published.",
+ u:[["Council timeline","https://www.consilium.europa.eu/en/policies/simplification/timeline-simplification-omnibus-packages/"]]},
+{d:"2026-05-29", j:["VL"], t:"prop", s:"Preliminary draft", k:["environmental-law","permitting"],
+ h:"Flanders: preliminary draft decree for the modular environmental permit procedure",
+ a:"The Flemish Government approved in principle a preliminary draft decree amending several decrees in view of the modular permit procedure.",
+ b:"The government presents it as the first concrete step in carrying out its action programme for legally certain and robust permits. The draft concentrates on priority procedural points and removes bottlenecks in the modular procedure. It has gone for advice to SARO, the Minaraad, MORA, VVSG, VVP and the VTC; no timetable for final approval or parliamentary treatment is given.",
+ u:[["Flemish Government decision","https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/voorontwerp-van-decreet-tot-wijziging-van-verschillende-decreten-naar-aanleiding-van-de-invoering-van-de-modulaire-omgevingsvergunningsprocedure"]]},
+{d:"2026-05-28", j:["BE","WAL"], t:"case", s:"Ruling", k:["environmental-law","soil"],
+ h:"Constitutional Court upholds the Walloon subsoil resources code",
+ a:"Judgment 68/2026 dismisses the action against the Walloon code on managing subsoil resources, adopted by decree of 14 March 2024.",
+ b:"The code creates exclusive permits to explore and exploit subsoil resources that are valid even where the holder does not own the surface. An association and three residents argued encroachment on federal property law and a breach of property rights. The Court found no encroachment, since the code does not define the vertical extent of ownership, and held the statutory easements precise enough, in the general interest and proportionate given compensation and other safeguards.",
+ u:[["Court press release","https://fr.const-court.be/public/f/2026/2026-068f-info.pdf"]]},
+{d:"2026-05-13", j:["BE","VL"], t:"case", s:"Ruling", k:["permitting"],
+ h:"Constitutional Court annuls data-processing article of Flemish water and manure decree",
+ a:"Judgment 58/2026 annuls article 8 of the Flemish decree of 20 December 2024 because the data protection authority was not consulted.",
+ b:"The article regulated how the Flemish Land Agency processes personal data: purposes, data, retention and recipients. The Court held that the draft should have gone to the supervisory authority for advice under article 36(4) GDPR, and it refused to maintain the provision's effects. The ruling is a reminder that environmental decrees with data-processing clauses are exposed on this procedural ground.",
+ u:[["Judgment 58/2026","https://nl.const-court.be/public/n/2026/2026-058n.pdf"]]},
+{d:"2026-04-23", j:["BE","WAL"], t:"case", s:"Ruling", k:["soil","environmental-law"],
+ h:"Constitutional Court: Walloon soil decree cannot deny exemption to a permit transferee when a solvent transferor polluted",
+ a:"Judgment 50/2026 finds article 30 of the Walloon soil decree of 1 March 2018 contrary to equality in so far as it bars such an exemption.",
+ b:"A Liège company ran a hydrocarbon site from 2012 to 2017 under a transferred environmental permit; contamination found in 2018 predated it, yet its exemption request was refused in 2021 because the polluter was the permit's transferor. On a reference from the Council of State, the Court held the exclusion an unjustified distinction at odds with the polluter-pays principle. The article is not annulled, since this is a preliminary ruling, but its use in comparable cases is weakened and an amendment may follow. Relevant to due diligence on permit transfers in Wallonia.",
+ u:[["Lexgo commentary","https://www.lexgo.be/en/news-and-articles/14809-the-belgian-constitutional-court-upholds-the-polluter-pays-principle-in-the-case-of-environmental-permit-transfers"],["Judgment 50/2026","https://fr.const-court.be/public/f/2026/2026-050f.pdf"]]},
+{d:"2026-04-23", j:["BE","WAL"], t:"case", s:"Ruling", k:["environmental-law","permitting"],
+ h:"Constitutional Court partly annuls Walloon rules on permits of unlimited duration",
+ a:"Judgment 53/2026 reviews the Walloon decree of 25 April 2024, which makes environmental permits valid for the life of the operation with conditions updated every twenty years.",
+ b:"On Canopea's action the Court accepted the switch away from permits of at most twenty years and the special treatment of quarries. It found a breach of equality where third parties had no administrative appeal against certain update decisions and where the appeal procedure did not cover integrated permits, annulled on those points and rejected the rest. The consolidated decree on Wallex carries the operative part; read it before advising on appeal routes.",
+ u:[["Judgment 53/2026","https://nl.const-court.be/public/n/2026/2026-053n.pdf"],["Wallex consolidated text","https://wallex.wallonie.be/files/pdfs/23/106595_D%c3%a9cret_modifiant_divers_d%c3%a9crets_relatifs_%c3%a0_l'environnement_23-04-2026-.pdf"]]},
+{d:"2026-04-16", j:["VL"], t:"case", s:"Ruling", k:["permitting","environmental-law"],
+ h:"Permit disputes council annuls the Ostend airport permit",
+ a:"The Raad voor Vergunningsbetwistingen annulled the environmental permit the Flemish Government renewed for Ostend airport in October 2024.",
+ b:"As reported, the flaw was that the permit left it to the operator to assess later whether the effects of a planned increase in flights are acceptable. The council did not take up the government's request to soften the consequences of annulment. Under existing rules the operator can continue for five months after a first annulment. The case underlines that the assessment of effects belongs in the permit decision and cannot be deferred to the operator.",
+ u:[["Recht op zaterdag via LegalNews","https://legalnews.be/?p=72776"]]},
+{d:"2026-04-16", j:["EU"], t:"case", s:"Ruling", k:["permitting","environmental-law"],
+ h:"Court of Justice accepts a three-month time limit for challenging species derogation licences",
+ a:"In C-58/24 the Court held that EU law does not preclude a three-month limit for annulment actions, running from when the public knew or could have known of the licence.",
+ b:"The case concerned a Habitats Directive derogation licence issued before the planning application for a project subject to impact assessment. The limit must be no less favourable than for comparable domestic actions and must not make EU rights excessively difficult to exercise. National courts must read national law in line with article 9(3) of the Aarhus Convention where protected species are concerned.",
+ u:[["EU Fundamental Rights Agency case note","https://fra.europa.eu/en/node/49744"]]},
+{d:"2026-04-03", j:["BRU"], t:"guide", s:"In force", k:["environmental-law","permitting"],
+ h:"Brussels circular applies the court-ordered brake on building over open sites above 0.5 ha",
+ a:"The Brussels Government adopted a circular (Moniteur belge, 10 April 2026) on how the judgment of 29 October 2025 applies to permit applications.",
+ b:"The circular states that there is no moratorium and that applications continue to be processed. It covers planning permits, environmental permits involving urbanisation or soil sealing, mixed permits and certificates, including appeals and pending files; projects inside an adopted development plan (PAD) are exempt. Applicants must add an impact form and a climate note, and some projects a biotope coefficient calculation (CBS+). The regime runs until the draft regional land-use plan reaches the Council of Ministers, expected early 2027.",
+ u:[["Stibbe","https://www.stibbe.com/fr/publications-and-insights/la-circulaire-we-are-nature-a-enfin-ete-adoptee"]]},
+{d:"2026-04-01", j:["VL"], t:"law", s:"In force", k:["environmental-law","permitting"],
+ h:"Flemish enforcement framework decree now governs environmental enforcement",
+ a:"Since 1 April 2026 the Kaderdecreet Vlaamse Handhaving applies to environmental, nature and spatial planning enforcement in Flanders.",
+ b:"Inspectors can hold hearings and impose penalty payments themselves. Three roles are separated: supervision, a restoration authority (penalty payments, voluntary restoration, settlements, compensation where restoration is impossible) and a sanctioning authority that can take over cases the prosecutor leaves, order further investigation and seize goods. Municipalities get the same toolbox. A digital enforcement platform shares documents, and notaries and estate agents can consult certain measures in property transactions.",
+ u:[["Department Omgeving via LegalNews","https://legalnews.be/bouw-vastgoed/vlaamse-omgevingshandhaving-krijgt-meer-slagkracht-department-omgeving-vlaanderen/"],["Eubelius preview 2026","https://legalnews.be/bouw-vastgoed/omgevingsrecht-wrap-up-2025-en-preview-2026-eubelius/"]]},
+{d:"2026-03-26", j:["WAL"], t:"law", s:"In force", k:["environmental-law"],
+ h:"Walloon programme decree amends the spatial planning code (CoDT)",
+ a:"The décret-programme of 26 March 2026 (Moniteur belge, 21 April) changes the CoDT with effect from 1 April 2026.",
+ b:"Main points per the municipalities' association: rules for electronic communication and deadline calculation; a power for the Government to extend code deadlines by up to 45 days in exceptional events; advice from the delegated official on draft development schemes and wider refusal grounds; sector plan revisions can cover leisure zones; a longer list of strategic projects eligible for a government permit; municipalities may refuse permits on the basis of a published draft scheme; and revised rules for sites to be redeveloped. The same decree also amends the environmental permit decree and the subsoil code.",
+ u:[["UVCW analysis","https://uvcw.be/amenagement-territoire/actus/art-10041"]]},
+{d:"2026-03-26", j:["EU"], t:"law", s:"Adopted", k:["permitting","soil"],
+ h:"EU updates the pollutant lists for surface water and groundwater",
+ a:"Parliament completed adoption on 26 March 2026 of the directive amending the Water Framework, Groundwater and Environmental Quality Standards Directives; the Council had approved it on 17 February.",
+ b:"The lists now take in more pesticides, pharmaceuticals, bisphenols and PFAS, standards for several existing substances are tightened, and watch-list monitoring becomes mandatory for groundwater. As reported at Council adoption, member states have until 2039 to meet the new standards, and until 2033 for substances whose surface-water standards were made stricter. Expect knock-on effects for discharge permits, water assessments and groundwater remediation targets once the regions transpose.",
+ u:[["Parliament legislative observatory","https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1898288"],["EUbusiness, 17 Feb 2026","https://www.eubusiness.com/environment/stricter-eu-protection-rules-for-surface-water-groundwater/"]]},
+{d:"2026-03-05", j:["EU"], t:"case", s:"Ruling", k:["permitting"],
+ h:"Portugal fined EUR 10 million for not complying with a Habitats Directive judgment",
+ a:"In C-613/24 the Court of Justice ordered Portugal to pay for failing to give effect to a 2019 judgment on special areas of conservation.",
+ b:"The 2019 judgment had found that Portugal failed to designate sites and adopt the necessary conservation measures. The follow-up shows the financial exposure of member states that leave conservation measures for Natura 2000 sites unadopted, which in turn keeps pressure on regional authorities to complete site objectives and measures.",
+ u:[["Court press release 30/26","https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260030en.pdf"]]},
+{d:"2026-03-01", j:["VL"], t:"law", s:"In force", k:["environmental-law"],
+ h:"Flanders widens planning permit exemptions and drops most notifications",
+ a:"New exemption rules have applied since 1 March 2026: works with limited spatial impact are exempt, and the notification category applied until the end of February.",
+ b:"Practitioner commentary lists interior renovations including stability works, facade and roof works without a change in volume, external insulation, certain solar installations and limited technical installations among the exempt works. Municipalities may add their own permit requirements only in specific cases, mainly trees and valuable vegetation and heritage. An exemption from the planning permit leaves other rules untouched, including environmental conditions, fire safety and energy performance. The summary rests on commentary; check the published decisions for exact wording.",
+ u:[["Jubel","https://www.jubel.be/nieuwe-regels-inzake-omgevingsvergunningen-2026-impact-op-vastgoedprofessionals/"],["Eubelius preview 2026","https://legalnews.be/bouw-vastgoed/omgevingsrecht-wrap-up-2025-en-preview-2026-eubelius/"]]},
+{d:"2026-02-27", j:["VL"], t:"law", s:"In force", k:["soil"],
+ h:"Bodemdecreet amended: guide values may follow what is reasonably achievable",
+ a:"The amending decree of 27 February 2026, adopted by the Flemish Parliament on 25 February, entered into force on 23 March 2026.",
+ b:"The Flemish Government may now set soil-quality guide values that approach the target level as far as reasonably possible where scientific, technical or socio-economic factors make full attainment unfeasible, with a heavier duty to justify and update them. For pollutants without remediation standards the remediation criterion of article 19 applies expressly. Conditions and values for the use of soil materials can be refined, with free-use values aligned to the guide values, and OVAM may sample on its own initiative to support standard-setting. The change follows recommendations of the PFAS inquiry committee.",
+ u:[["Andersen via LegalNews","https://legalnews.be/bouw-vastgoed/bodemdecreet-krijgt-update-pragmatisme-wint-terrein-andersen/"],["Flemish Government decision","https://www.vlaanderen.be/Decision/69A02334B1A121BE1E89D9B3"]]},
+{d:"2026-02-26", j:["EU"], t:"case", s:"Ruling", k:["permitting"],
+ h:"Court of Justice on road projects and the ban on disturbing wild birds",
+ a:"In C-131/24 VIRUS the Court clarified article 5(d) of the Birds Directive for a road project challenged in Austria.",
+ b:"The prohibition on deliberate disturbance can cover harm that is accepted as a possibility, so an infrastructure project can fall within it. It concerns disturbance that affects population levels, not isolated birds. Accompanying measures that prevent significant effects must be taken into account, and a court expert's reasoned assessment based on the best scientific data can establish their effectiveness; documented proof of earlier successful use cannot be demanded.",
+ u:[["Court press release 20/26","https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/cp260020en.pdf"]]},
+{d:"2026-02-13", j:["BRU"], t:"guide", s:"Policy", k:["environmental-law","permitting"],
+ h:"Brussels government programme: one planning body and a merged permit on the horizon",
+ a:"The new Brussels Government's policy declaration of 13 February 2026 announces a 'Bruxelles Urbanisme' directorate merging planning and permit services from 2026.",
+ b:"According to a law-firm reading, that directorate is to take over environmental permits from Bruxelles Environnement in time, opening the way to a single planning and environmental permit. The government aims to halve permit delivery times by the end of the term through wider exemptions, lighter impact assessment procedures and a single public inquiry for simple permits. It also announced the interpretative circular on undeveloped sites adopted in April and an 18-month freeze on four named sites. These are intentions; each needs its own legal text.",
+ u:[["Stibbe","https://www.stibbe.com/fr/publications-and-insights/accord-de-gouvernement-a-bruxelles-quelles-perspectives-pour-le"]]},
+{d:"2026-01-22", j:["WAL"], t:"law", s:"In force", k:["environmental-law","permitting"],
+ h:"Wallonia prepares digital environmental permits; some procedural changes already apply",
+ a:"A Walloon Government order of 22 January 2026 (Moniteur belge, 12 February) fixes 1 January 2027 for electronic permit procedures in all municipalities.",
+ b:"Municipalities can opt in earlier after training, configuration and testing. Two changes took effect on 12 February 2026: a change of operator is notified to the technical official instead of the first-instance authority, and the period for deciding whether a single-permit application is complete rises from 20 to 30 days. The municipalities' association notes that the public inquiry procedure in the Environment Code has not yet been adapted to digital files.",
+ u:[["UVCW","https://www.uvcw.be/environnement/actus/art-9999"]]},
+{d:"2026-01-19", j:["EU"], t:"prop", s:"In Parliament", k:["permitting","environmental-safety"],
+ h:"Environmental omnibus reaches Parliament's environment committee",
+ a:"The ENVI committee held its first exchange with the Environment Commissioner on the six-proposal omnibus the Commission tabled on 10 December 2025.",
+ b:"The package targets the circular economy, the operation of industrial installations, geospatial data and environmental permitting. It includes amendments to the Industrial Emissions Directive, such as environmental management systems at company level, and a separate regulation on faster environmental assessments. Later steps are tracked in the June and September entries.",
+ u:[["Parliament legislative train","https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-omnibus-viii-industrial-emissions-reporting-batteries"],["Linklaters","https://sustainablefutures.linklaters.com/post/102lxjg/eu-commission-publishes-environmental-omnibus"]]},
+{d:"2026-01-08", j:["VL"], t:"case", s:"Ruling", k:["environmental-law","permitting"],
+ h:"Permit decision period can be extended twice, permit disputes council now accepts",
+ a:"In RvVb-A-2526-0381 the Raad voor Vergunningsbetwistingen held that two extensions of the decision period for an environmental permit can be combined.",
+ b:"Where the period was already extended because a modification request required a new public inquiry, the applicant can still obtain a further 60 days by reasoned request under article 66, section 2/1 of the permit decree. The council thereby drops its earlier view that the extensions could not be stacked on the same facts and follows the Council of State's judgment of 16 May 2024. Useful when checking whether a decision was taken in time or a tacit refusal arose.",
+ u:[["Jubel","https://www.jubel.be/over-de-dubbele-verlenging-van-de-beslistermijn-van-een-vergunningverlenende-overheid/"]]},
+{d:"2025-12-16", bg:1, j:["EU"], t:"law", s:"In force", k:["soil"],
+ h:"Background: EU Soil Monitoring Law in force, transposition due December 2028",
+ a:"Directive (EU) 2025/2360 on soil monitoring and resilience entered into force on 16 December 2025; member states have until mid-December 2028 to transpose it.",
+ b:"Member states must set up soil districts and soil units, monitor soil health against common descriptors, and take a risk-based approach to contaminated sites. The directive sets no uniform EU thresholds for contamination. Flemish, Brussels and Walloon soil legislation will each have to be aligned, which is the backdrop to several 2026 items here, including the Flemish guide-value amendment and the Walloon soil index.",
+ u:[["European Commission","https://environment.ec.europa.eu/topics/soil-health/soil-monitoring-law_en"],["EUR-Lex","https://eur-lex.europa.eu/eli/dir/2025/2360"]]}
+];
+
+
+(function(){ var c={}; ITEMS.forEach(function(it){ var k=it.d.replace(/-/g,""); c[k]=(c[k]||0)+1; it.id="item-"+k+"-"+c[k]; }); })();
+var MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+var LENS = {micro:"Micro", short:"Short", long:"Long"};
+var state = {q:"", topic:"", jur:{}, type:{}, len:"short", open:{}};
+var saved = null;
+try { saved = JSON.parse(localStorage.getItem("slu-prefs") || "null"); if (saved && LENS[saved.len]) state.len = saved.len; } catch(e){ saved = null; }
+
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+function topic(id){ for (var i=0;i<TOPICS.length;i++) if (TOPICS[i].id===id) return TOPICS[i]; return null; }
+function route(){ var h = (location.hash || "").replace(/^#/, ""); return h || "latest"; }
+function fmt(d){ var p=d.split("-"); return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0]; }
+function base(){ try { if (window.top === window.self && /^https?:$/.test(location.protocol)) return location.href.split("#")[0]; } catch(e){} return SITE_URL; }
+function link(hash){ var b = base(); return b ? b + (hash ? "#"+hash : "") : ""; }
+function mailto(subject, body){ return "mailto:?subject="+encodeURIComponent(subject)+"&body="+encodeURIComponent(body); }
+
+function matches(it){
+  if (state.topic && it.k.indexOf(state.topic) < 0) return false;
+  var js = Object.keys(state.jur).filter(function(k){return state.jur[k];});
+  if (js.length && !it.j.some(function(j){ return js.indexOf(j) >= 0; })) return false;
+  var ts = Object.keys(state.type).filter(function(k){return state.type[k];});
+  if (ts.length && ts.indexOf(it.t) < 0) return false;
+  if (state.q){
+    var hay = (it.h+" "+it.a+" "+it.b+" "+it.s+" "+it.j.map(function(j){return JUR[j];}).join(" ")).toLowerCase();
+    var words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    for (var w=0; w<words.length; w++) if (hay.indexOf(words[w]) < 0) return false;
+  }
+  return true;
+}
+
+function itemMail(it){
+  return mailto("Sertius Legal Update: "+it.h,
+    it.h+" ("+fmt(it.d)+")\n\n"+it.a+(link(it.id) ? "\n\nRead the full summary and sources: "+link(it.id) : "\n\nSource: "+it.u[0][1]));
+}
+function itemHTML(it, i){
+  var p = it.d.split("-"), mode = state.len;
+  var jur = it.j.map(function(j){return '<span class="tag jur">'+esc(JUR[j])+'</span>';}).join("");
+  if (mode === "micro"){
+    return '<article class="item micro"><div class="date">'+parseInt(p[2],10)+' '+MONTHS[parseInt(p[1],10)-1].slice(0,3)+'</div><div><span class="tags">'+jur+'</span><h3><a href="#'+it.id+'">'+esc(it.h)+'</a></h3></div></article>';
+  }
+  return '<article class="item"><div class="date"><b>'+parseInt(p[2],10)+'</b><span>'+MONTHS[parseInt(p[1],10)-1].slice(0,3)+' '+p[0]+'</span></div><div>'+
+    '<div class="tags">'+jur+'<span class="tag '+it.t+'">'+esc(TYPES[it.t])+'</span><span class="tag">'+esc(it.s)+'</span>'+(it.bg?'<span class="tag bg">Before 2026</span>':'')+'</div>'+
+    '<h3><a href="#'+it.id+'">'+esc(it.h)+'</a></h3><p>'+esc(it.a)+'</p>'+
+    (mode === "long" ? '<div class="long"><p>'+esc(it.b)+'</p><div class="src">Sources: '+it.u.map(function(u){return '<a href="'+esc(u[1])+'" target="_blank" rel="noopener">'+esc(u[0])+'</a>';}).join("")+'</div></div>' : '')+
+    (mode !== "long" ? '<div class="rowact"><a class="linkbtn" href="#'+it.id+'">Read more and see sources</a></div>' : '')+
+    '</div></article>';
+}
+
+function listHTML(){
+  var out = "", last = "", n = 0;
+  ITEMS.forEach(function(it, i){
+    if (!matches(it)) return;
+    n++;
+    var m = it.d.slice(0,7);
+    if (m !== last){ last = m; var p=m.split("-"); out += '<div class="month">'+MONTHS[parseInt(p[1],10)-1]+' '+p[0]+'</div>'; }
+    out += itemHTML(it, i);
+  });
+  if (!n) out = '<div class="empty">No items match these filters. <button class="linkbtn" id="clear" type="button">Clear filters</button></div>';
+  return {html:out, n:n};
+}
+function total(){ return ITEMS.filter(function(it){ return !state.topic || it.k.indexOf(state.topic) >= 0; }).length; }
+
+function railHTML(){
+  function chips(obj, key){ return Object.keys(obj).map(function(k){ return '<button class="chip" type="button" data-'+key+'="'+k+'" aria-pressed="'+(state[key][k]?'true':'false')+'">'+esc(obj[k])+'</button>'; }).join(""); }
+  var tchips = '<button class="chip" type="button" data-topic="latest" aria-pressed="'+(!state.topic)+'">All topics</button>'+
+    TOPICS.map(function(t){ return '<button class="chip" type="button" data-topic="'+t.id+'" aria-pressed="'+(state.topic===t.id)+'">'+esc(t.name)+'</button>'; }).join("");
+  return '<aside class="rail" aria-label="Filters">'+
+    '<div><h3>Search</h3><label for="q" style="position:absolute;left:-9999px">Search items</label><input class="search" id="q" type="search" value="'+esc(state.q)+'"></div>'+
+    '<div><h3>Topic</h3><div class="chips">'+tchips+'</div></div>'+
+    '<div><h3>Length</h3><div class="seg">'+Object.keys(LENS).map(function(k){ return '<button type="button" data-len="'+k+'" aria-pressed="'+(state.len===k)+'">'+LENS[k]+'</button>'; }).join("")+'</div></div>'+
+    '<div><h3>Level</h3><div class="chips">'+chips(JUR,"jur")+'</div></div>'+
+    '<div><h3>Type</h3><div class="chips">'+chips(TYPES,"type")+'</div></div>'+
+    '</aside>';
+}
+
+function viewList(){
+  var t = topic(state.topic), res = listHTML();
+  var head = '<div class="topichead"><div><h2>'+esc(t ? t.name : "All topics")+'</h2><p>'+esc(t ? t.blurb : "Legislation, proposals and case law across the four Sertius practice areas.")+'</p></div>'+
+    '</div>';
+  var hero = t ? "" : '<section class="hero"><div class="in"><div><h1>What changed in environmental law, and what it means for the work.</h1><p>A running digest of legislation, proposals and case law at EU, Belgian, Flemish, Brussels and Walloon level.</p><div class="meta">'+ITEMS.length+' items since 1 January 2026</div></div>'+
+    '<div class="subcard"><b>Get the digest by email</b><span>Pick your topics and levels, micro, short or long, daily or weekly.</span><a class="btn" href="#subscribe">Subscribe</a></div></div></section>';
+  return hero+'<main><div class="layout">'+railHTML()+'<section>'+head+'<p class="count" id="count">'+res.n+' of '+total()+' items shown, newest first</p><div id="list">'+res.html+'</div></section></div></main>';
+}
+
+function viewItem(it){
+  return '<main><div class="panel detail"><a class="linkbtn" href="#'+(state.topic||"latest")+'">Back to the digest</a>'+
+  '<div class="tags">'+it.j.map(function(j){return '<span class="tag jur">'+esc(JUR[j])+'</span>';}).join("")+'<span class="tag '+it.t+'">'+esc(TYPES[it.t])+'</span><span class="tag">'+esc(it.s)+'</span></div>'+
+  '<h2>'+esc(it.h)+'</h2><p class="when">'+fmt(it.d)+' · '+it.k.map(function(k){return esc(topic(k).name);}).join(", ")+'</p>'+
+  '<p class="lead">'+esc(it.a)+'</p><p>'+esc(it.b)+'</p>'+
+  '<h3>Sources</h3><ul>'+it.u.map(function(u){return '<li><a href="'+esc(u[1])+'" target="_blank" rel="noopener">'+esc(u[0])+'</a></li>';}).join("")+'</ul>'+
+  '<div class="acts"><a class="btn" href="'+esc(itemMail(it))+'">Email this item to a colleague</a></div></div></main>';
+}
+
+function viewSubscribe(){
+  var p = saved || {};
+  function cb(name, val, label, def){ var on = p[name] ? p[name].indexOf(val)>=0 : def; return '<label><input type="checkbox" name="'+name+'" value="'+val+'"'+(on?' checked':'')+' id="'+name+'-'+val+'"> '+esc(label)+'</label>'; }
+  function rb(name, val, label, def){ var on = p[name] ? p[name]===val : def; return '<label><input type="radio" name="'+name+'" value="'+val+'"'+(on?' checked':'')+' id="'+name+'-'+val+'"> '+esc(label)+'</label>'; }
+  var ext = p.aud === "external";
+  return '<main><div class="panel"><h2>Subscribe</h2><p>Tell us who you are and what you want to follow. You can change your choices at any time.</p>'+
+  '<form class="sub" id="subform">'+
+  '<fieldset><legend>I am</legend><div class="opts">'+rb("aud","internal","Sertius staff",!ext)+rb("aud","external","A client or contact",ext)+'</div></fieldset>'+
+  '<div class="fields">'+
+    '<div class="field"><label for="name">Name</label><input type="text" id="name" required autocomplete="name" value="'+esc(p.name||"")+'"></div>'+
+    '<div class="field" id="companyField"'+(ext?'':' hidden')+'><label for="company">Company</label><input type="text" id="company" autocomplete="organization"'+(ext?' required':'')+' value="'+esc(p.company||"")+'"></div>'+
+    '<div class="field"><label for="email">Email</label><input type="email" id="email" required autocomplete="email" placeholder="name@example.com"></div>'+
+    '<div class="opts" id="contactField"'+(ext?'':' hidden')+'><label><input type="checkbox" id="contact"'+(p.contact?' checked':'')+'> Sertius may contact me about its services</label></div>'+
+  '</div>'+
+  '<fieldset><legend>Topics</legend><div class="opts">'+TOPICS.map(function(t){return cb("topics",t.id,t.name,true);}).join("")+'</div></fieldset>'+
+  '<fieldset><legend>Levels</legend><div class="opts">'+Object.keys(JUR).map(function(k){return cb("levels",k,JUR[k],true);}).join("")+'</div></fieldset>'+
+  '<fieldset><legend>Length</legend><div class="opts">'+rb("len","micro","Micro: headlines only",false)+rb("len","short","Short: two or three lines per item",true)+rb("len","long","Long: full summary with sources",false)+'</div></fieldset>'+
+  '<fieldset><legend>Frequency</legend><div class="opts">'+rb("freq","weekly","Weekly",true)+rb("freq","daily","Daily",false)+'</div></fieldset>'+
+  '<div><button class="btn" type="submit">Save my preferences</button></div><div id="submsg" role="status"></div></form></div></main>';
+}
+
+function viewAbout(){
+  return '<main><div class="panel"><h2>About the Sertius Legal Update</h2>'+
+  '<p>Environmental rules in Belgium are made at several levels at once. The Sertius Legal Update follows the changes that matter for soil, environmental law, environmental safety and permitting, and summarises each one so you can judge quickly whether it touches your site, project or file.</p>'+
+  '<h3>What we cover</h3><p>New and amended legislation, proposals on their way through government and parliament, policy and guidance, and court rulings. The archive starts on 1 January 2026 and grows with every edition.</p>'+
+  '<h3>Sources we follow</h3><div class="srcgrid">'+
+  '<div><b>European Union</b><span>EUR-Lex, the European Commission, Council and Parliament, and the Court of Justice.</span></div>'+
+  '<div><b>Belgium</b><span>The Constitutional Court.</span></div>'+
+  '<div><b>Flanders</b><span>Flemish Government decisions and the Raad voor Vergunningsbetwistingen.</span></div>'+
+  '<div><b>Brussels</b><span>The Brussels-Capital Region and its Parliament.</span></div>'+
+  '<div><b>Wallonia</b><span>Wallex and the Union des Villes et Communes de Wallonie.</span></div>'+
+  '<div><b>Professional commentary</b><span>Analyses by Belgian law firms and legal publishers, linked where we rely on them.</span></div>'+
+  '</div>'+
+  '<h3>How to read an item</h3><p>Each item shows the level it comes from, whether it is legislation, a proposal, case law or guidance, and where it stands. Choose micro for headlines, short for the essentials, or long for the full summary with links to the sources.</p>'+
+  '<h3>Questions about what a change means for you?</h3><p>The digest gives general information. For advice on a specific situation, contact your Sertius consultant or reach us through <a href="https://www.sertius.be/" target="_blank" rel="noopener">sertius.be</a>.</p></div></main>';
+}
+
+function render(){
+  var r = route(), app = document.getElementById("app");
+  var one = null; if (r.indexOf("item-") === 0) ITEMS.forEach(function(it){ if (it.id === r) one = it; });
+  if (one) app.innerHTML = viewItem(one);
+  else if (r==="subscribe") app.innerHTML = viewSubscribe();
+  else if (r==="about") app.innerHTML = viewAbout();
+  else { state.topic = topic(r) ? r : ""; app.innerHTML = viewList(); }
+}
+function refreshList(){
+  var l = document.getElementById("list"); if (!l) return render();
+  var res = listHTML();
+  l.innerHTML = res.html;
+  document.getElementById("count").textContent = res.n+" of "+total()+" items shown, newest first";
+}
+
+document.addEventListener("click", function(e){
+  var el = e.target.closest ? e.target.closest("button") : null; if (!el) return;
+  var ds = el.dataset || {};
+  if (ds.topic){ if (route() === ds.topic) return; location.hash = ds.topic; }
+  else if (ds.jur){ state.jur[ds.jur] = !state.jur[ds.jur]; el.setAttribute("aria-pressed", state.jur[ds.jur]); refreshList(); }
+  else if (ds.type){ state.type[ds.type] = !state.type[ds.type]; el.setAttribute("aria-pressed", state.type[ds.type]); refreshList(); }
+  else if (ds.len){ state.len = ds.len; state.open = {}; render(); }
+  else if (el.id === "clear"){ state.q=""; state.jur={}; state.type={}; render(); }
+});
+document.addEventListener("input", function(e){ if (e.target.id === "q"){ state.q = e.target.value; refreshList(); } });
+document.addEventListener("change", function(e){
+  if (e.target.name !== "aud") return;
+  var ext = e.target.value === "external";
+  document.getElementById("companyField").hidden = !ext;
+  document.getElementById("contactField").hidden = !ext;
+  document.getElementById("company").required = ext;
+});
+document.addEventListener("submit", function(e){
+  if (e.target.id !== "subform") return;
+  e.preventDefault();
+  var f = e.target, get = function(n){ return Array.prototype.slice.call(f.querySelectorAll('[name="'+n+'"]:checked')).map(function(x){return x.value;}); };
+  var aud = get("aud")[0], ext = aud === "external";
+  saved = {aud:aud, name:document.getElementById("name").value.trim(), company: ext ? document.getElementById("company").value.trim() : "",
+    contact: ext && document.getElementById("contact").checked, topics:get("topics"), levels:get("levels"), len:get("len")[0], freq:get("freq")[0]};
+  state.len = saved.len;
+  try { localStorage.setItem("slu-prefs", JSON.stringify(saved)); } catch(err){}
+  document.getElementById("submsg").innerHTML = '<div class="note ok">Thank you, '+esc(saved.name)+'. Your choices are saved on this device: '+esc(saved.freq)+', '+esc(saved.len)+' version, '+saved.topics.length+' topics, '+saved.levels.length+' levels. Email delivery is not switched on yet, so nothing has been sent.</div>';
+});
+window.addEventListener("hashchange", function(){ state.open = {}; render(); if (!topic(route()) && route()!=="latest") window.scrollTo(0,0); });
+render();
+</script>
+</body>
+</html>
