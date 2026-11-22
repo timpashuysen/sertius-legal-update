@@ -28,6 +28,7 @@ INDEX = """<html><body><ul>
 <li><a href="/nl/besluit-van-de-vlaamse-regering_n2023048999.html">bron vlaamse overheid Besluit van de Vlaamse Regering tot wijziging van het VLAREM</a></li>
 <li><a href="/nl/benoeming_n2023055555.html">bron federale overheidsdienst justitie Koninklijk besluit houdende benoeming van een rechter</a></li>
 <li><a href="/nl/bericht_n2023066666.html">bron federale overheidsdienst financien Bericht over de rentevoet</a></li>
+<li><a href="/nl/decreet_n2023077777.html">bron ministerie van de franse gemeenschap Decreet houdende diverse maatregelen inzake leefmilieu</a></li>
 <li><a href="/nl/about.html">Over Etaamb</a></li>
 </ul></body></html>"""
 
@@ -45,11 +46,11 @@ class Staatsblad(unittest.TestCase):
 
     def test_parser_reads_numac_links_only(self):
         self.assertEqual([n for n, _, _ in self.rows()],
-                         ["2023048123", "2023205123", "2023048999", "2023055555", "2023066666"])
+                         ["2023048123", "2023205123", "2023048999", "2023055555", "2023066666", "2023077777"])
 
     def test_filter_and_levels(self):
         got = {i["ref"]: i for i in self.items()}
-        self.assertEqual(sorted(got), ["2023048123", "2023205123"])  # Flemish, appointment and plain notice dropped
+        self.assertEqual(sorted(got), ["2023048123", "2023205123"])  # Flemish, community, appointment and plain notice dropped
         self.assertEqual(got["2023048123"]["level"], "BRU")
         self.assertEqual(got["2023205123"]["level"], "BE")
         self.assertIn("soil", got["2023048123"]["k"])
@@ -70,7 +71,9 @@ class Staatsblad(unittest.TestCase):
     def test_reads_weekdays_up_to_and_including_today(self):
         seen = []
 
-        def fake(day, timeout=20):
+        def fake(day, timeout=20, lang="nl"):
+            if lang == "fr":
+                return [("2023048123", "/fr/x_n2023048123.html", "source region de bruxelles-capitale Ordonnance modifiant l'ordonnance relative aux sols pollués")]
             seen.append(day.isoformat())
             return self.rows()
         today = collect.dt.date(2024, 1, 8)  # a Monday
@@ -79,10 +82,12 @@ class Staatsblad(unittest.TestCase):
         # backfill from the cursor, weekend skipped, today read, plus the refresh of the day before the cursor
         self.assertEqual(sorted(seen), ["2024-01-03", "2024-01-04", "2024-01-05", "2024-01-08"])  # each day once
         self.assertEqual(len(items), 2)
+        self.assertTrue(items["sb:2023048123"]["title"]["fr"].startswith("Ordonnance modifiant"))
+        self.assertNotIn("fr", items["sb:2023205123"]["title"])
         self.assertEqual(res["backfilled_to"], "2024-01-08")
 
     def test_failure_is_reported_and_cursor_stays(self):
-        def boom(day, timeout=20):
+        def boom(day, timeout=20, lang="nl"):
             raise OSError("connection reset")
         state = {"sb_next": "2024-01-04"}
         res, _ = self.run_collect(boom, collect.dt.date(2024, 1, 8), state)

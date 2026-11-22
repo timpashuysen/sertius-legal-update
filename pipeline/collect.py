@@ -346,7 +346,7 @@ class _EtaambIndexParser(html.parser.HTMLParser):
 
 def _sb_title(raw, href, numac):
     text = re.sub(r"\s+", " ", raw or "").strip()
-    tail = re.split(r"\bbron\b", text, maxsplit=1, flags=re.I)
+    tail = re.split(r"\b(?:bron|source)\b", text, maxsplit=1, flags=re.I)
     candidate = tail[-1] if len(tail) > 1 else text
     # The index label places the issuing authority before the act title. Etaamb
     # lowercases the authority and starts the title with a capitalized word.
@@ -363,13 +363,16 @@ def _sb_title(raw, href, numac):
 
 def _sb_authority(raw):
     text = re.sub(r"\s+", " ", raw or "").strip()
-    tail = re.split(r"\bbron\b", text, maxsplit=1, flags=re.I)
+    tail = re.split(r"\b(?:bron|source)\b", text, maxsplit=1, flags=re.I)
     candidate = tail[-1] if len(tail) > 1 else text
     title = re.search(r"\b[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’\-]*", candidate)
     return candidate[:title.start()] if title else candidate
 
 
 def _sb_level(text):
+    if re.search(r"franse gemeenschap|communauté française|fédération wallonie-bruxelles|federatie wallonië-brussel|"
+                 r"duitstalige gemeenschap|communauté germanophone|deutschsprachige gemeinschaft", text, re.I):
+        return "COM"  # French and German-speaking Communities: outside the digest's scope
     if re.search(r"brussels hoofdstad|brussels[- ]capital|région de bruxelles|"
                  r"brussels hoofdstedelijk gewest|cocof|cocom|commission communautaire française|"
                  r"gemeenschappelijke gemeenschapscommissie|vlaamse gemeenschapscommissie", text, re.I):
@@ -382,8 +385,8 @@ def _sb_level(text):
     return "BE"
 
 
-def _sb_day(day, timeout=20):
-    url = "%s/nl/pub/%04d/%02d/%02d.html" % (ETAAMB, day.year, day.month, day.day)
+def _sb_day(day, timeout=20, lang="nl"):
+    url = "%s/%s/pub/%04d/%02d/%02d.html" % (ETAAMB, lang, day.year, day.month, day.day)
     try:
         _, raw = http(url, timeout=timeout)
     except urllib.error.HTTPError as e:
@@ -409,8 +412,8 @@ def _sb_item(day, numac, href, raw):
     kind = "guide" if re.search(r"\b(circulaire|omzendbrief|avis|bericht|mededeling|notice)\b", title, re.I) else "law"
     level = _sb_level(_sb_authority(raw))
     topics = classify(title)
-    if level in ("VL", "WAL"):
-        return None  # already collected from the Vlaamse Codex and Wallex
+    if level in ("VL", "WAL", "COM"):
+        return None  # regions come from the Vlaamse Codex and Wallex; communities are out of scope
     if kind == "guide" and not topics:
         return None  # notices are only worth keeping when they touch a practice area
     key = "sb:" + numac
@@ -435,12 +438,23 @@ def collect_staatsblad(state, items, budget=220):
         done.add(day)
         rows = _sb_day(day, timeout=timeout)
         read += len(rows)
+        kept = []
         for numac, href, label in rows:
             item = _sb_item(day, numac, href, label)
             if item:
                 items[item["id"]] = item
+                kept.append(item)
                 matched += 1
         time.sleep(1)  # no more than one request per second
+        if kept:  # French titles are a bonus: a failure here must not fail the day
+            try:
+                fr = {n: _sb_title(label, href, n) for n, href, label in _sb_day(day, timeout=timeout, lang="fr")}
+                for item in kept:
+                    if fr.get(item["ref"]):
+                        item["title"]["fr"] = fr[item["ref"]]
+            except Exception:
+                pass
+            time.sleep(1)
 
     try:
         while cursor <= TODAY and time.time() - started < budget - 80:
