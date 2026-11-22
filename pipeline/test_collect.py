@@ -143,5 +143,17 @@ class Texts(unittest.TestCase):
         self.assertIn("DatumInwerkingtreding: 2026-03-23", collect._codex_text(doc))
 
 
+class Cassation(unittest.TestCase):
+    def test_list_entries(self):
+        html = ('<ul><li><b>12 november 2026&nbsp;- <a href="https://www.cass.be/pdf/arresten-arrets/C.26.0001.N.pdf">C.26.0001.N</a></b>'
+                '<br>De exploitant van een ingedeelde inrichting is aansprakelijk voor bodemverontreiniging.</li>'
+                '<li>geen link</li></ul>')
+        rows = collect.parse_cass(html)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["d"], "2026-11-12")
+        self.assertEqual(rows[0]["ref"], "C.26.0001.N")
+        self.assertIn("bodemverontreiniging", rows[0]["summary"])
+
+
 if __name__ == "__main__":
     unittest.main()

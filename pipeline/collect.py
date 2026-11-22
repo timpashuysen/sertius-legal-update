@@ -157,7 +157,7 @@ def collect_gwh(state, items, cap=150):
             dm = re.search(r"van (\d{1,2}) (\w+) (%d)" % year, txt)
             date = "%d-%02d-%02d" % (year, NL_MONTHS.get(dm.group(2).lower(), 1), int(dm.group(1))) if dm else "%d-01-01" % year
             topics = classify(subject)
-            if state.get("text_v", 0) < 4 or f.name.startswith("codex_"):
+            if state.get("text_v", 0) < 4 or (state.get("text_v", 0) < 5 and f.name.startswith("codex_")) or f.name.startswith("gwh_"):
                 title = {"nl": "Grondwettelijk Hof, arrest nr. %d/%d: %s" % (n, year, subject)}
                 try:
                     if not topics:
@@ -567,9 +567,12 @@ def fetch_text(it):
         _, raw = http(it["url"], timeout=60)
         from pypdf import PdfReader
         rd = PdfReader(io.BytesIO(raw))
-        n = len(rd.pages)
-        pages = list(range(min(5, n))) + ([n - 1] if n > 5 else [])
-        return re.sub(r"[ \t]+", " ", "\n".join((rd.pages[i].extract_text() or "") for i in pages))
+        # every page: the Court's reasoning and decision are in the second half
+        return re.sub(r"[ \t]+", " ", "\n".join((pg.extract_text() or "") for pg in rd.pages))
+    if src == "cass":
+        _, raw = http(it["url"], timeout=60)
+        from pypdf import PdfReader
+        return re.sub(r"[ \t]+", " ", "\n".join((pg.extract_text() or "") for pg in PdfReader(io.BytesIO(raw)).pages))
     if src == "wallex":
         _, raw = http(it["url"], timeout=40)
         return strip_html(raw)
@@ -629,7 +632,47 @@ def excerpt(txt, src="", cap=40000):
     return txt[:cap - 3000] + gap + txt[-3000:]
 
 
-TEXT_V = 5  # bump to store the texts of rulings, EU acts and Codex documents again
+TEXT_V = 6  # bump to store the texts of rulings, EU acts and Codex documents again
+
+
+CASS_PAGE = "https://www.cass.be/nl/Arr%C3%AAts.html"
+NL_MONTHS = {m: i + 1 for i, m in enumerate(
+    "januari februari maart april mei juni juli augustus september oktober november december".split())}
+
+
+def parse_cass(html):
+    """Entries of the Court of Cassation's own list of recent judgments: date, number, summary, PDF."""
+    out = []
+    for li in re.findall(r"<li\b.*?</li>", html, re.S | re.I):
+        m = re.search(r'href="(https?://[^"]*?/pdf/arresten-arrets/[^"]+\.pdf)"', li, re.I)
+        if not m:
+            continue
+        text = strip_html(li)
+        text = re.sub(r"[\u200b\xa0]", " ", text)
+        d = re.search(r"(\d{1,2})\s+(%s)\s+(20\d\d)\s*-\s*([A-Z0-9./]+)" % "|".join(NL_MONTHS), text, re.I)
+        if not d:
+            continue
+        summary = re.sub(r"\s+", " ", text[d.end():]).strip()
+        out.append({"d": "%s-%02d-%02d" % (d.group(3), NL_MONTHS[d.group(2).lower()], int(d.group(1))),
+                    "ref": d.group(4), "url": m.group(1), "summary": summary})
+    return out
+
+
+def collect_cass(state, items):
+    """The decisions the Court of Cassation publishes on its own website (a selection, not all rulings)."""
+    _, raw = http(CASS_PAGE, timeout=40)
+    rows = parse_cass(raw.decode("utf-8", "replace"))
+    n = 0
+    for r in rows:
+        if r["d"] < START.isoformat():
+            continue
+        key = "cass:" + r["ref"]
+        if key not in items:
+            n += 1
+        title = "Hof van Cassatie, arrest %s. %s" % (r["ref"], r["summary"])
+        items[key] = {"id": key, "src": "cass", "level": "BE", "t": "case", "d": r["d"], "title": {"nl": title.strip()},
+                      "url": r["url"], "ref": r["ref"], "k": classify(r["summary"])}
+    return {"ok": bool(rows), "listed": len(rows), "new": n}
 
 
 def collect_rvvb(state, items):
@@ -666,7 +709,7 @@ def save_texts(items, state, per_source=40, budget=240):
     t0 = time.time()
     res = {}
     gave_up = set(state.get("text_failed", []))
-    todo = sorted((i for i in items.values() if (i.get("k") or i.get("x")) and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad")),
+    todo = sorted((i for i in items.values() if (i.get("k") or i.get("x")) and i["src"] in ("gwh", "wallex", "eurlex", "codex", "staatsblad", "cass")),
                   key=lambda i: i["d"], reverse=True)
     for it in todo:
         r = res.setdefault(it["src"], {"saved": 0, "failed": 0})
@@ -716,7 +759,7 @@ def main():
         state["sb_rules"] = SB_RULES
     before = len(items)
     status = {"ran": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb)):
+    for name, fn in (("eurlex", collect_eu), ("gwh", collect_gwh), ("codex", collect_codex), ("wallex", collect_wallex), ("staatsblad", collect_staatsblad), ("council", collect_council), ("rvvb", collect_rvvb), ("cass", collect_cass)):
         t0 = time.time()
         try:
             res = fn(state, items)
