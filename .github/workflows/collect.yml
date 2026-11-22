@@ -1,11 +1,12 @@
 name: Collect official sources
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "23 */2 * * *"
   workflow_dispatch:
   push:
     paths:
       - "pipeline/**"
+      - "data/digest-state.json"
       - ".github/workflows/collect.yml"
 permissions:
   contents: write
