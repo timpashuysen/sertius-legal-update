@@ -710,7 +710,8 @@ def _feed_items(raw):
         for c in el:
             t = c.tag.split("}")[-1]
             if t == "title":
-                title = strip_html(c.text or "")
+                import html as _h
+                title = strip_html(_h.unescape(c.text or ""))
             elif t == "link":
                 link = (c.get("href") or c.text or "").strip() or link
             elif t in ("pubDate", "published", "updated", "date") and not date:
