@@ -73,6 +73,7 @@ def describe(n, item):
 
 def assess(items, log, client, today, limit=2400):
     done = 0
+    log.pop("last_error", None)
     todo = [i for i in items if i["d"] >= SCOPE_START and log["items"].get(i["id"], {}).get("v") != VERSION]
     rest = []
     for it in todo:
