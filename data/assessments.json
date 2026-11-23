@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 1 (char 2889)"
+"write_error": "Unterminated string starting at: line 13 column 1 (char 5006)"
 },
 "codex:1042165": {
 "v": 2,
@@ -29000,7 +29000,8 @@
 ],
 "reason": "Second general implementation of Flemish enforcement framework decree, affecting environmental enforcement.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"write_error": "Expecting property name enclosed in double quotes: line 17 column 1 (char 7331)"
 },
 "codex:1042075": {
 "v": 2,
@@ -29047,7 +29048,8 @@
 ],
 "reason": "Hunting permit and licence rules touch wildlife and biodiversity management.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-137146"
 },
 "wallex:136671": {
 "v": 2,
@@ -29211,7 +29213,9 @@
 ],
 "reason": "Court ruling on urban waste water treatment obligations under Directive 91/271/EEC.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Infringement judgment against Greece on specific Greek agglomerations; no new or clarified obligations for Belgian parties."
 },
 "eu:62024CJ0841": {
 "v": 2,
@@ -29710,7 +29714,8 @@
 ],
 "reason": "Corrects animal experimentation establishment requirements; animal welfare, arguably not environmental.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32024l1262r-01"
 },
 "eu:62025TJ0313": {
 "v": 2,
@@ -29982,7 +29987,8 @@
 ],
 "reason": "Flemish rules on digital identification forms, likely for waste transport; subject unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042072"
 },
 "eu:52026PC0263": {
 "v": 2,
@@ -59012,7 +59018,8 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0861"
 },
 "rvvb:RVVB.2526.0860": {
 "v": 2,
@@ -59023,7 +59030,8 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0860"
 },
 "rvvb:RVVB.2526.0855": {
 "v": 2,
@@ -59061,7 +59069,8 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0852"
 },
 "rvvb:RVVB.2526.0851": {
 "v": 2,
@@ -59072,7 +59081,8 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0851"
 },
 "rvvb:RVVB.2526.0850": {
 "v": 2,
@@ -59081,7 +59091,9 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Fact-specific rejection of suspension request in a neighbour dispute over a house terrace permit; no environmental obligations changed or clarified."
 },
 "rvvb:RVVB.2526.0849": {
 "v": 2,
@@ -59090,7 +59102,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0849"
 },
 "rvvb:RVVB.2526.0848": {
 "v": 2,
@@ -59144,7 +59157,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0842"
 },
 "rvvb:RVVB.2526.0841": {
 "v": 2,
@@ -59171,7 +59185,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0839"
 },
 "rvvb:RVVB.2526.0838": {
 "v": 2,
@@ -64523,15 +64538,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 8,
-"found_not_relevant_on_reading": 5,
-"failed": 1,
-"waiting": 517,
+"this_run": 10,
+"found_not_relevant_on_reading": 2,
+"failed": 2,
+"waiting": 505,
 "api": {
 "calls": 14,
-"input_tokens": 144801,
-"output_tokens": 29809,
-"usd": 0.5877
+"input_tokens": 191324,
+"output_tokens": 39448,
+"usd": 0.7771
 },
 "updated": "2026-11-23"
 }
