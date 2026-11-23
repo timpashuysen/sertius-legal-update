@@ -21741,7 +21741,8 @@
 ],
 "reason": "Flemish call and budget for green heat, waste heat and heat network connection premiums.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042131"
 },
 "eu:62025TJ0677_INF": {
 "v": 2,
@@ -22040,7 +22041,9 @@
 ],
 "reason": "Delegation of powers at Flemish energy and climate agency; scope unclear from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Internal staff delegation change at the Flemish Energy and Climate Agency, replacing named delegates; no new obligations for companies, developers or authorities."
 },
 "eu:62024CJ0474_RES": {
 "v": 2,
@@ -22078,7 +22081,8 @@
 ],
 "reason": "Battery Regulation derogations on removability and replaceability of portable batteries.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1770"
 },
 "eu:32026R1768": {
 "v": 2,
@@ -22197,7 +22201,8 @@
 ],
 "reason": "Harmonised standards for digital product passports under ecodesign regulation.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1736"
 },
 "codex:1042244": {
 "v": 2,
@@ -22208,7 +22213,9 @@
 ],
 "reason": "Flemish appointment of enforcement officers; likely environmental enforcement, but title is vague.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Staff appointment decision naming enforcement officers under the Navigation Decree; creates no new or changed environmental obligations."
 },
 "eu:52026PC0379": {
 "v": 2,
@@ -22300,7 +22307,8 @@
 ],
 "reason": "Amends deforestation regulation scope on relevant commodities and products.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r2102"
 },
 "eu:32026R1933": {
 "v": 2,
@@ -22338,7 +22346,8 @@
 ],
 "reason": "Test rules for brake particle emissions of M1 and N1 vehicles; air pollution.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1762"
 },
 "eu:32026R1753": {
 "v": 2,
@@ -22349,7 +22358,8 @@
 ],
 "reason": "Delegated rules setting environmental performance and emission requirements for vehicles.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1753"
 },
 "eu:32026R1724": {
 "v": 2,
@@ -22423,7 +22433,8 @@
 ],
 "reason": "Amends EUDR due diligence submission rules on deforestation-linked commodities.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1565"
 },
 "eu:32026R0169R(01)": {
 "v": 2,
@@ -22740,7 +22751,8 @@
 ],
 "reason": "Ends FLEGT timber trade partnership with Liberia; affects EU forest-law and timber import checks.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1771"
 },
 "eu:32026D1758": {
 "v": 2,
@@ -22949,7 +22961,8 @@
 ],
 "reason": "Changes deadline for alternative emission reference calculation under climate reduction obligations.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042295"
 },
 "codex:1042291": {
 "v": 2,
@@ -57504,7 +57517,8 @@
 "topics": [],
 "reason": "Title too vague to tell whether it concerns a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0953"
 },
 "rvvb:RVVB.2526.0952": {
 "v": 2,
@@ -57513,7 +57527,8 @@
 "topics": [],
 "reason": "Title too vague to tell whether it concerns a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0952"
 },
 "rvs:265561": {
 "v": 2,
@@ -58287,7 +58302,8 @@
 ],
 "reason": "Case number only; title too vague to assess",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0948"
 },
 "rvvb:RVVB.2526.0947": {
 "v": 2,
@@ -62886,36 +62902,390 @@
 "reason": "Individual urban planning permit for one grange conversion in Ath.",
 "confidence": "medium",
 "at": "2026-11-23"
+},
+"rvs:266035": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual urban planning permit for a specific site.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266034": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual urban planning permit in Liège.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266033": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one wind park; no general rule set.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266032": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police disciplinary sanction against one officer.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266031": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Preventive suspension of one provincial official.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266030": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Preventive suspension of one provincial official.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266029": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Housing inspection fine against one person; housing rules, not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266028": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual rental prohibition for one dwelling; housing law.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266027": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative fine linked to a housing prohibition.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266024": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs manual check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266023": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs manual check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266022": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs manual check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266021": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs manual check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266020": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation ruling with no visible subject; needs manual check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266019": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Weapons licence suspension and refusal for one person.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266018": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal decree on gambling advertising; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266017": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal order to clear one footpath; not environmental compliance.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266016": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Court challenge to Flemish designation of water-sensitive open space area.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266015": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Court challenge to Flemish designation of water-sensitive open space area.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266013": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Court challenge to Flemish designation of water-sensitive open space area.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266012": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Court challenge to Flemish designation of water-sensitive open space area.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266010": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Animal welfare placement decision for one animal.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266007": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Staff assignment decision for one school employee.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266004": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Medical specialist recognition refusal for one doctor.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266002": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative fine by Brussels Environment against one person.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266001": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266000": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265999": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265998": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265997": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265996": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265995": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265994": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one alternative fine imposed on one party.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265993": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one party's conviction and fine; no general rule set.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265992": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one party's conviction and fine; no general rule set.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265991": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265990": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265989": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual appeal against one administrative fine imposed on one party.",
+"confidence": "medium",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6851,
-"assessed": 6851,
+"in_scope": 6889,
+"assessed": 6889,
 "waiting": 0,
-"relevant": 865,
-"not_relevant": 5667,
+"relevant": 874,
+"not_relevant": 5696,
 "excluded_by_rule": 319,
-"this_run": 16,
+"this_run": 38,
 "api": {
-"calls": 1,
-"input_tokens": 3863,
-"output_tokens": 2299,
-"usd": 0.0015
+"calls": 2,
+"input_tokens": 8707,
+"output_tokens": 3707,
+"usd": 0.0027
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 3,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 583,
+"waiting": 578,
 "api": {
 "calls": 14,
-"input_tokens": 152551,
-"output_tokens": 36823,
-"usd": 0.6733
+"input_tokens": 135157,
+"output_tokens": 36577,
+"usd": 0.6361
 },
 "updated": "2026-11-23"
 }
