@@ -38,6 +38,28 @@ class Qualification(unittest.TestCase):
         self.assertEqual(log["items"]["eu:3"]["verdict"], "not relevant")
         self.assertNotIn("codex:4", log["items"])          # before the scope start
 
+    def test_tribunal_ruling_is_screened_on_its_full_text(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            old, assess.DATA = assess.DATA, pathlib.Path(d)
+            (pathlib.Path(d) / "text").mkdir()
+            (pathlib.Path(d) / "text" / "rvvb_RVVB_2627_0001.txt").write_text("arrest ... project-m.e.r.-screening ...", "utf-8")
+            seen = []
+
+            def tr(payload):
+                seen.append(payload["system"][:30])
+                return {"content": [{"type": "text", "text": '{"relevant": true, "topics": ["permitting"], "reason": "EIA screening must cover the whole project", "confidence": "high"}'}],
+                        "usage": {"input_tokens": 5000, "output_tokens": 50}}
+            log = {"items": {}}
+            item = {"id": "rvvb:RVVB.2627.0001", "src": "rvvb", "level": "VL", "t": "case", "d": "2026-10-01", "title": {"nl": "arrest"}, "url": "https://www.dbrc.be/x.pdf"}
+            try:
+                done, left = assess.assess([item], log, llm.Client(1, transport=tr), "2026-11-23")
+            finally:
+                assess.DATA = old
+        self.assertEqual((done, left), (1, 0))
+        self.assertEqual(log["items"]["rvvb:RVVB.2627.0001"]["basis"], "full text")
+        self.assertTrue(seen[0].startswith("You screen one court ruling"))
+
     def test_without_key_only_rules_run(self):
         log = {"items": {}}
         done, left = assess.assess(ITEMS, log, llm.Client(1, key=""), "2026-11-22")

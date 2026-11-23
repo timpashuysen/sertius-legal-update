@@ -17,8 +17,8 @@ import llm
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SCOPE_START = "2026-01-01"
-VERSION = 2
-BATCH = 25
+VERSION = 3
+BATCH = 20
 TOPICS = ["soil", "environmental-law", "environmental-safety", "permitting", "energy-climate", "circular-products"]
 
 RULES = [
@@ -39,7 +39,7 @@ RELEVANT: it creates, changes, repeals, interprets or announces rules that compa
 - permitting: environmental impact assessment, water, air, noise, nature and biodiversity, nitrogen, waste, best available techniques, manure
 - energy-climate: energy efficiency and renewable energy obligations, emissions trading, climate rules for installations and buildings
 - circular-products: extended producer responsibility, packaging, batteries, ecodesign, product and material rules with environmental purpose, critical raw materials
-Court rulings are relevant when they decide on such rules. Corrigenda to relevant acts are relevant.
+Court rulings are relevant when they annul, suspend or interpret such rules, or decide a point of law or procedure on them that matters beyond the case (for rulings an opening extract of the text is given after "LEAD:"). A ruling that only settles the facts of one permit file, or that concerns another field of law, is not relevant. Corrigenda to relevant acts are relevant.
 
 NOT RELEVANT: everything else, for example tax, social security, justice, health care, education, defence, road traffic and vehicle rules, transport safety, animal health, food and feed rules, agriculture market measures, fisheries quotas, trade and anti-dumping, customs, financial services, individual subsidies, individual product or active-substance authorisations, and decisions about one named person, company, plot or site (such as the designation or change of one specific soil site, or one individual permit) without general interest.
 
@@ -64,11 +64,41 @@ def rule_exclusion(item):
     return ""
 
 
+RULING_SYSTEM = """You screen one court ruling (Belgian Council of State, or the Flemish Raad voor Vergunningsbetwistingen or Handhavingscollege) for Sertius, a Belgian environmental consultancy. Long rulings are shortened in the middle.
+
+RELEVANT only if both hold:
+1. it concerns environmental, planning or permit law (permits, spatial plans, environmental impact assessment, nature, water, soil, waste, noise, air, emissions, energy installations, environmental enforcement); and
+2. it annuls or suspends a regulation or plan, or it decides a point of law or procedure that permit applicants, operators or authorities elsewhere should know (how a rule is to be read or applied, what an assessment or a statement of reasons must contain, who may appeal and when).
+NOT relevant: other fields (aliens, civil service, public procurement, education, tax, local government staff), withdrawals and purely procedural endings, and rulings that only weigh the facts of one file without a statement of wider use.
+
+Answer with one JSON object only:
+{"relevant": true|false, "topics": [any of "soil","environmental-law","environmental-safety","permitting","energy-climate","circular-products"], "reason": "<at most 25 words: the point of law, or why not relevant>", "confidence": "high"|"medium"|"low"}"""
+
+
+def text_path(item):
+    return DATA / "text" / (re.sub(r"[^A-Za-z0-9]+", "_", item["id"]) + ".txt")
+
+
+def lead(item):
+    """For rulings: the part of the stored text that says what the case is about (their titles are only numbers)."""
+    if item.get("t") != "case" or item["src"] == "eurlex":
+        return ""
+    p = DATA / "text" / (re.sub(r"[^A-Za-z0-9]+", "_", item["id"]) + ".txt")
+    if not p.exists():
+        return ""
+    flat = re.sub(r"\s+", " ", p.read_text("utf-8")[:9000])
+    m = re.search(r"Voorwerp van (?:het beroep|de vordering|het verzoekschrift)|Objet d[eu] (?:la requête|recours|la demande)|Onderwerp van de (?:beroepen|vordering)", flat, re.I)
+    start = m.end() if m else min(len(flat), 700)
+    return flat[start:start + 650].strip(" .:-")
+
+
 def describe(n, item):
     t = item.get("title", {})
     title = t.get("en") or t.get("nl") or t.get("fr") or ""
     extra = "; ".join(x for x in (item.get("auth", ""), item.get("lab", "")[:160]) if x)
-    return "%d. [%s, %s, %s] %s%s" % (n, item["src"], item.get("level", ""), item.get("t", ""), title[:420], (" (" + extra + ")") if extra else "")
+    ld = lead(item)
+    return "%d. [%s, %s, %s] %s%s%s" % (n, item["src"], item.get("level", ""), item.get("t", ""), title[:420],
+                                        (" (" + extra + ")") if extra else "", (" LEAD: " + ld) if ld else "")
 
 
 def parse_rows(reply):
@@ -89,7 +119,7 @@ def parse_rows(reply):
         return rows
 
 
-def assess(items, log, client, today, limit=1000):
+def assess(items, log, client, today, limit=1000, rulings=260):
     done = 0
     log.pop("last_error", None)
     todo = [i for i in items if i["d"] >= SCOPE_START and log["items"].get(i["id"], {}).get("v") != VERSION]
@@ -104,6 +134,22 @@ def assess(items, log, client, today, limit=1000):
     if not client or not client.available():
         return done, len(rest)
     rest.sort(key=lambda i: i["d"], reverse=True)
+    # rulings of the Council of State and the permit tribunal are read in full, one by one
+    full = [i for i in rest if i["src"] in ("rvvb", "rvs") and text_path(i).exists()]
+    rest = [i for i in rest if not (i["src"] in ("rvvb", "rvs") and text_path(i).exists())]
+    for it in full[:rulings]:
+        try:
+            r = llm.json_block(client.ask(llm.MODELS["small"], RULING_SYSTEM, text_path(it).read_text("utf-8")[:34000], max_tokens=400))
+        except llm.CapReached:
+            break
+        except Exception as e:
+            log["last_error"] = str(e)[:900]
+            continue
+        log["items"][it["id"]] = {"v": VERSION, "verdict": "relevant" if r.get("relevant") else "not relevant", "by": llm.MODELS["small"],
+                                  "basis": "full text", "topics": [t for t in r.get("topics", []) if t in TOPICS],
+                                  "reason": str(r.get("reason", ""))[:200],
+                                  "confidence": r.get("confidence") if r.get("confidence") in ("high", "medium", "low") else "medium", "at": today}
+        done += 1
     for a in range(0, min(len(rest), limit), BATCH):
         batch = rest[a:a + BATCH]
         try:
@@ -123,7 +169,7 @@ def assess(items, log, client, today, limit=1000):
                                       "topics": topics, "reason": str(r.get("reason", ""))[:160],
                                       "confidence": r.get("confidence", "medium") if r.get("confidence") in ("high", "medium", "low") else "medium", "at": today}
             done += 1
-    left = sum(1 for i in rest if log["items"].get(i["id"], {}).get("v") != VERSION)
+    left = sum(1 for i in rest + full if log["items"].get(i["id"], {}).get("v") != VERSION)
     return done, left
 
 

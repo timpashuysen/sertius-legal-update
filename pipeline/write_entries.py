@@ -27,6 +27,8 @@ Return a JSON object only, with these fields:
 "scope": one line naming the instrument and the provisions concerned, in the language of the source
 "dates": {"adopted": "YYYY-MM-DD" or "", "published": "YYYY-MM-DD" or "", "in_force": "YYYY-MM-DD" or ""} taken from the text; leave empty what the text does not state
 
+For a court ruling: it is relevant only if it annuls, suspends or interprets a rule, or decides a point of law or procedure that matters beyond the case. If it only settles the facts of one file, return "relevant": false. Write the entry around the point of law, not around the parties or the site.
+
 Rules: plain and factual; no advice and no speculation; your own wording, no long quotations; never name private persons; do not mention the text, the excerpt or what was left out of it; no generic closing sentence; if the text does not state something the reader would expect (such as the entry into force), say that the act does not state it only when it matters."""
 
 
@@ -67,7 +69,7 @@ def run(inbox, log, digest, client, today, per_run=PER_RUN):
         text = (DATA / "text" / text_name(it["id"])).read_text("utf-8")[:60000]
         meta = json.dumps({k: it.get(k) for k in ("id", "src", "level", "t", "d", "title", "url", "ref")}, ensure_ascii=False)
         try:
-            out = llm.json_block(client.ask(llm.MODELS["writer"], SYSTEM, "METADATA\n%s\n\nOFFICIAL TEXT\n%s" % (meta, text), max_tokens=5000))
+            out = llm.json_block(client.ask(llm.MODELS["writer"], SYSTEM, "METADATA\n%s\n\nOFFICIAL TEXT\n%s" % (meta, text), max_tokens=7000))
         except llm.CapReached:
             break
         except Exception as e:
@@ -106,6 +108,12 @@ def main():
         print(json.dumps({"skipped": "no API key"}))
         return
     today = dt.date.today().isoformat()
+    if log.get("writer_v") != 2:
+        # one-off: ruling entries written before the stricter rule for rulings are written again under it
+        case_ids = {i["id"] for i in inbox if i.get("t") == "case"}
+        before = len(digest["items"])
+        digest["items"] = [e for e in digest["items"] if not (e.get("by") and any(x in case_ids for x in e.get("inbox", [])))]
+        log["writer_v"], log["rulings_reset"] = 2, before - len(digest["items"])
     made, dropped, failed, waiting = run(inbox, log, digest, client, today)
     digest["updated"] = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     log["writer"] = {"this_run": made, "found_not_relevant_on_reading": dropped, "failed": failed, "waiting": waiting,
