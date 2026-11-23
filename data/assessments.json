@@ -40006,7 +40006,8 @@
 "reason": "Third-party appeal period under the OVD starts only on regular affichage; irregular posting equals none. Burden of proof and the authority's duty to examine and state reasons on posting regularity.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "Expecting value: line 10 column 1 (char 4004)"
+"write_error": "Expecting value: line 10 column 1 (char 4004)",
+"written": "d-rvvb-rvvb-a-2526-0617"
 },
 "rvvb:RVVB.A.2526.0616": {
 "v": 4,
@@ -40081,7 +40082,8 @@
 ],
 "reason": "Simplified permit procedure applies based on the application as filed, not the final decision; amending the application to fit the simplified procedure is not allowed; the authority must check the cor",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0611"
 },
 "rvvb:RVVB.A.2526.0609": {
 "v": 4,
@@ -40093,7 +40095,8 @@
 ],
 "reason": "Restates that density gains and ruimtelijk rendement deviations from the existing surroundings must be motivated in the decision, and that the Council reviews only reasons stated there.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0609"
 },
 "gwh:36/2026": {
 "v": 4,
@@ -40374,7 +40377,8 @@
 ],
 "reason": "Amends EU ETS aircraft operator list under the emissions trading rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0784"
 },
 "eu:32026R0772": {
 "v": 4,
@@ -40707,7 +40711,8 @@
 "topics": [],
 "reason": "Flemish ministerial decision on a digital map; title too vague to judge.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1042343"
 },
 "codex:1041887": {
 "v": 4,
@@ -40718,7 +40723,8 @@
 ],
 "reason": "Amends Flemish list of low-ammonia-emission stall systems under environmental hygiene rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041887"
 },
 "eu:62023CJ0767_RES": {
 "v": 4,
@@ -40882,7 +40888,8 @@
 ],
 "reason": "Corrigendum to fertiliser regulation biodegradability criteria for polymers and coating agents.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32024r2770r-01"
 },
 "eu:32016L1164R(06)": {
 "v": 4,
@@ -40902,7 +40909,8 @@
 ],
 "reason": "Appointment of environmental enforcement supervisors under Flemish enforcement decree; general authority scope, uncertain.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041879"
 },
 "rvvb:RVVB.UDN.2526.0608": {
 "v": 4,
@@ -40914,7 +40922,8 @@
 ],
 "reason": "Sets the procedural standard for extreme-urgency suspension of permits: petitioner must concretely show sufficiently serious disadvantages in the petition itself, not merely fear of harm as under the ",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-udn-2526-0608"
 },
 "eu:32026R1188": {
 "v": 4,
@@ -41015,7 +41024,8 @@
 ],
 "reason": "Appointment of environmental enforcement inspectors under the Omgevingshandhavingsbesluit.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041913"
 },
 "codex:1041912": {
 "v": 4,
@@ -41136,7 +41146,8 @@
 ],
 "reason": "Minimum environmental sustainability requirements for public procurement of net-zero technologies.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0718"
 },
 "eu:32026R0705": {
 "v": 4,
@@ -66506,7 +66517,8 @@
 ],
 "reason": "Under CoDT, works in a parc zone that deviate from the plan de secteur need avis conforme and public inquiry, even when regularising an existing permitted building.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266143"
 },
 "rvs:266142": {
 "v": 4,
@@ -66788,7 +66800,8 @@
 ],
 "reason": "Restates when a third party's 60-day appeal period against a permit starts without notification: knowledge, active inquiry, and a CoDT D.IV.70 posting presumption.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266189"
 },
 "rvs:266188": {
 "v": 4,
@@ -66930,7 +66943,8 @@
 ],
 "reason": "Interprets Walloon Environment Code D.170 seizure rules: 60-day period applies only if no decision is taken; destination measures are not punitive; audi alteram partem met by written observations.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266170"
 },
 "rvs:266169": {
 "v": 4,
@@ -67311,15 +67325,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 3,
-"failed": 1,
-"waiting": 423,
+"this_run": 14,
+"found_not_relevant_on_reading": 0,
+"failed": 0,
+"waiting": 409,
 "api": {
 "calls": 14,
-"input_tokens": 220460,
-"output_tokens": 37622,
-"usd": 0.8171
+"input_tokens": 141013,
+"output_tokens": 39992,
+"usd": 0.6819
 },
 "updated": "2026-11-23"
 },
