@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:25:52Z",
+ "updated": "2026-11-23T20:38:45Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -36771,6 +36771,533 @@
    ],
    "inbox": [
     "rvvb:RVVB.A.2526.0443"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0442",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb annuls horse-farm permit: noise from on-site vehicles and machinery was not properly assessed",
+   "a": "The Council for Permit Disputes annulled a Flemish deputation's environmental permit for a horse-breeding site in Stekene. The authority had not answered the neighbours' appeal grievance on noise from vehicles and machinery, nor tested it against the Vlarem II noise values. The other grounds were rejected.",
+   "b": "The ruling concerns permitting authorities deciding administrative appeals on environmental permits, applicants and neighbours. In the case, a horse-breeding site stays below the Vlarem classification threshold, so the outdoor sand track is neither a classified activity nor an appurtenance of one. The track is still a planning act that must be compatible with good spatial planning, and appeal grievances about it must be answered. The Council found the reasoning on dust (watered track, paddocks removed) sufficient, and also rejected the grounds on scale, visual impact and paving. It annulled the decision because the authority did not answer the request to limit the hours of use of vehicles and machines, as had been done for the track. It also did not assess the noise against the Vlarem II values for residential areas (arts. 4.5.4 and 4.5.5). The Council added that art. 5.15.0.6 Vlarem II already bars disturbing work between 19:00 and 07:00 on working days and on Sundays and public holidays for rubric 15 installations. It declined to substitute its own refusal, because the authority was not strictly bound to refuse. The ruling is dated 22 January 2026; the authority must take a new decision within three months of the day after notification. Costs (EUR 400 filing fee, EUR 840 procedural indemnity) fall on the authority.",
+   "nl": [
+    "RvVb vernietigt vergunning paardenhouderij: geluidshinder van voertuigen en machines onvoldoende beoordeeld",
+    "De Raad voor Vergunningsbetwistingen vernietigt de omgevingsvergunning van de deputatie voor een paardenhouderij in Stekene. De overheid beantwoordde de beroepsgrief over geluidshinder van voertuigen en machines niet en toetste die niet aan de Vlarem II-richtwaarden. De overige middelen werden verworpen.",
+    "Het arrest is van belang voor vergunningverlenende overheden in administratief beroep, aanvragers en omwonenden. In de zaak blijft de paardenhouderij onder de indelingsdrempel van Vlarem, zodat de buitenpiste geen ingedeelde inrichting of activiteit is en ook geen aanhorigheid daarvan. De piste blijft wel een stedenbouwkundige handeling die met de goede ruimtelijke ordening verenigbaar moet zijn, en beroepsgrieven daarover moeten worden beantwoord. De Raad oordeelt de motivering over stofhinder (bevochtigde piste, verwijderde paddocks) afdoende en verwerpt ook de middelen over schaal, visuele hinder en verharding. De beslissing wordt vernietigd omdat de overheid niet antwoordde op het verzoek om ook de gebruiksuren van voertuigen en machines te beperken, zoals voor de piste gebeurde. Ze toetste de geluidshinder evenmin aan de Vlarem II-geluidsnormen voor woongebied (artikelen 4.5.4 en 4.5.5). Ten overvloede wijst de Raad erop dat artikel 5.15.0.6 Vlarem II voor inrichtingen van rubriek 15 al rustverstorende werkzaamheden verbiedt tussen 19 en 7 uur op werkdagen en op zon- en feestdagen. De Raad weigert zelf de vergunning te weigeren, omdat de overheid niet volstrekt gebonden was. Het arrest dateert van 22 januari 2026; de overheid moet binnen drie maanden na de dag na de betekening een nieuwe beslissing nemen. De kosten (400 euro rolrecht en 840 euro rechtsplegingsvergoeding) komen ten laste van de overheid."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'une exploitation équestre: bruit des véhicules et machines insuffisamment examiné",
+    "Le Conseil pour les contestations des autorisations annule le permis d'environnement délivré par la députation pour une exploitation équestre à Stekene. L'autorité n'a pas répondu au grief de recours sur le bruit des véhicules et machines ni examiné celui-ci au regard des valeurs guides de Vlarem II. Les autres moyens sont rejetés.",
+    "L'arrêt concerne les autorités délivrant les permis en recours administratif, les demandeurs et les riverains. En l'espèce, l'exploitation équestre reste sous le seuil de classement de Vlarem, de sorte que la piste extérieure n'est ni un établissement ou une activité classé(e) ni une dépendance de ceux-ci. Elle reste un acte urbanistique qui doit être compatible avec le bon aménagement du territoire, et les griefs de recours à son sujet doivent recevoir une réponse. Le Conseil juge suffisante la motivation sur la poussière (piste humidifiée, paddocks supprimés) et rejette aussi les moyens relatifs à l'échelle, à l'impact visuel et aux revêtements. La décision est annulée parce que l'autorité n'a pas répondu à la demande de limiter aussi les heures d'utilisation des véhicules et machines, comme cela a été fait pour la piste. Elle n'a pas non plus examiné le bruit au regard des normes de Vlarem II pour la zone d'habitat (articles 4.5.4 et 4.5.5). À titre surabondant, le Conseil rappelle que l'article 5.15.0.6 de Vlarem II interdit déjà, pour les établissements de la rubrique 15, les travaux perturbant le repos entre 19 h et 7 h les jours ouvrables ainsi que les dimanches et jours fériés. Le Conseil refuse de rejeter lui-même la demande, l'autorité n'étant pas strictement liée. L'arrêt date du 22 janvier 2026; l'autorité doit prendre une nouvelle décision dans les trois mois suivant le lendemain de la notification. Les frais (400 euros de droit de rôle et 840 euros d'indemnité de procédure) sont à charge de l'autorité."
+   ],
+   "scope": "Arrest RvVb.A.2526.0442 – artikel 5.3.1 DABM, artikelen 4.5.4, 4.5.5 en 5.15.0.6 Vlarem II, Motiveringswet (vernietiging omgevingsvergunning paardenhouderij Stekene)",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0442. vernietiging van de beslissing van de verwerende partij van 29 augustus 2024, wa",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0442.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0442"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0439",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: utility's cabin demand is a permit charge, not a good-planning ground for refusal",
+   "a": "The Council for Permit Disputes annulled a Limburg deputation's refusal of a three-lot subdivision permit that rested solely on a grid operator's demand for a distribution cabin. It held that such a demand is a charge under Article 75 of the Environmental Permit Decree, which the authority must test for lawfulness and proportionality.",
+   "b": "The ruling concerns permit authorities and applicants in Flanders where a utility company advises that a new utility facility is needed for a project. The deputation had refused a subdivision permit (two semi-detached lots and one terraced lot) solely because the grid operator required a distribution cabin of 5 by 6 metres, with land transfer and access rights, and treated this as a good spatial planning issue (nuisance and enjoyment of use). The Council held that a requested utility facility is a charge within the meaning of Article 75 of the Environmental Permit Decree. Under that article, charges must stem from the applicant's benefit and the authority's additional tasks, be reasonable in relation to the project and be achievable by the applicant; free land transfer is possible only in the cases listed exhaustively in Article 75, §3, 3°. The deputation should have examined whether the charge could lawfully be imposed under those criteria, including proportionality, instead of deducing a refusal ground from the dispute over the charge. The operator's later arguments on proportionality were disregarded as after-the-fact justification, and the Council did not itself rule on the lawfulness of the charge. The refusal of 10 October 2024 is annulled and the deputation must take a new decision within three months from the day after notification of the ruling, which was pronounced on 22 January 2026.",
+   "nl": [
+    "RvVb: eis van nutsbedrijf voor distributiecabine is een last, geen weigeringsgrond goede ruimtelijke ordening",
+    "De Raad voor Vergunningsbetwistingen vernietigde de weigering door een deputatie van een verkavelingsvergunning voor drie loten, die enkel steunde op de eis van een netbeheerder voor een distributiecabine. Die eis is een last in de zin van artikel 75 van het Omgevingsvergunningsdecreet, die de overheid op wettigheid en evenredigheid moet toetsen.",
+    "Het arrest treft vergunningverlenende overheden en aanvragers in Vlaanderen wanneer een nutsbedrijf adviseert dat een nieuwe nutsvoorziening nodig is voor een project. De deputatie had een verkavelingsvergunning (twee loten voor halfopen en één lot voor gesloten bebouwing) geweigerd enkel omdat de netbeheerder een distributiecabine van 5 op 6 meter eiste, met grondafstand en toegangsrechten, en beschouwde dat als een kwestie van goede ruimtelijke ordening (hinderaspecten en gebruiksgenot). De Raad oordeelt dat een gevraagde nutsvoorziening een last is in de zin van artikel 75 van het Omgevingsvergunningsdecreet. Lasten moeten voortvloeien uit het voordeel van de aanvrager en de bijkomende taken van de overheid, redelijk zijn in verhouding tot het project en door de aanvrager kunnen worden verwezenlijkt; gratis grondafstand kan alleen in de limitatief opgesomde gevallen van artikel 75, §3, 3°. De deputatie had moeten onderzoeken of de last wettig kon worden opgelegd volgens die criteria, met inbegrip van de evenredigheid, in plaats van uit de discussie over de last een weigeringsgrond af te leiden. De latere argumenten van de netbeheerder over de evenredigheid werden als post factum verantwoording buiten beschouwing gelaten; de Raad oordeelt zelf niet over de wettigheid van de last. De weigering van 10 oktober 2024 wordt vernietigd en de deputatie moet binnen drie maanden vanaf de dag na de betekening van het arrest, uitgesproken op 22 januari 2026, een nieuwe beslissing nemen."
+   ],
+   "fr": [
+    "CCE flamand : l'exigence d'une cabine par un gestionnaire de réseau est une charge, non un motif de refus d'urbanisme",
+    "Le Conseil du contentieux des autorisations a annulé le refus, par une députation, d'un permis de lotir de trois lots fondé uniquement sur l'exigence d'une cabine de distribution par un gestionnaire de réseau. Cette exigence est une charge au sens de l'article 75 du décret sur l'autorisation environnementale, que l'autorité doit examiner sous l'angle de la légalité et de la proportionnalité.",
+    "L'arrêt concerne les autorités délivrant les permis et les demandeurs en Flandre lorsqu'une société de services publics indique qu'une nouvelle installation est nécessaire pour un projet. La députation avait refusé un permis de lotir (deux lots pour constructions semi-ouvertes et un lot pour construction fermée) uniquement parce que le gestionnaire de réseau exigeait une cabine de distribution de 5 sur 6 mètres, avec cession de terrain et droits d'accès, et avait traité cela comme une question de bon aménagement du territoire (nuisances et jouissance). Le Conseil juge qu'une installation d'utilité publique demandée constitue une charge au sens de l'article 75 du décret sur l'autorisation environnementale. Les charges doivent découler de l'avantage du demandeur et des tâches supplémentaires de l'autorité, être raisonnables par rapport au projet et pouvoir être réalisées par le demandeur ; la cession gratuite de terrain n'est possible que dans les cas énumérés limitativement à l'article 75, §3, 3°. La députation aurait dû examiner si la charge pouvait être légalement imposée selon ces critères, y compris la proportionnalité, au lieu de déduire un motif de refus du débat sur la charge. Les arguments ultérieurs du gestionnaire de réseau sur la proportionnalité ont été écartés comme justification a posteriori ; le Conseil ne se prononce pas lui-même sur la légalité de la charge. Le refus du 10 octobre 2024 est annulé et la députation doit prendre une nouvelle décision dans les trois mois à compter du jour suivant la notification de l'arrêt, prononcé le 22 janvier 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0439 van 22 januari 2026: artikel 75 Omgevingsvergunningsdecreet (lasten), artikel 4.3.1 VCRO, artikelen 2-3 Motiveringswet",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0439. vernietiging van de beslissing van de verwerende partij van 10 oktober 2024 tot ",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0439.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0439"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0437",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: permit under VCRO art. 4.4.3 annulled, party wall status not properly established",
+   "a": "The Council for Permit Disputes annulled a permit for a house in agricultural zone granted under the 'afwerkingsregel' of Article 4.4.3 VCRO. The permitting authority had not properly shown that the neighbouring wall is a 'wachtmuur'.",
+   "b": "The ruling concerns permit applicants and permitting authorities relying on Article 4.4.3 VCRO, which allows a single-family house on land not zoned for housing if it is built against a 'wachtmuur'. The Council confirms that the provision is an exception, to be interpreted and applied restrictively, and that the permitting authority must check each condition. A wall qualifies only as a double wall standing astride the plot boundary on 1 September 2009, or as a single wall built up to the boundary and protected by a temporary water-repellent covering. Here the deputation relied almost solely on the original building plan of the neighbouring house, without explaining why that plan proves a double wall on the boundary. It also did not examine how the wall was built or finished. This fell short of the heightened duty to give reasons that applies when departing from the negative report of the provincial environmental officer and from the municipality's position. The Council adds that the original builder's intention to attach a second house does not decide whether a party wall exists. The permit is annulled and the administrative loop is not applied, because the defect requires a fresh substantive assessment. The deputation must take a new decision on the administrative appeal within three months of notification of the ruling. The Council did not examine the other grounds, on good spatial planning and the missing water paragraph.",
+   "nl": [
+    "RvVb: vergunning op grond van art. 4.4.3 VCRO vernietigd, wachtmuur niet afdoende aangetoond",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een woning in agrarisch gebied, verleend op grond van de afwerkingsregel van artikel 4.4.3 VCRO. De vergunningverlenende overheid had niet afdoende aangetoond dat de aanpalende muur een wachtmuur is.",
+    "Het arrest betreft vergunningsaanvragers en vergunningverlenende overheden die zich beroepen op artikel 4.4.3 VCRO, dat de bouw van een eengezinswoning op een niet voor woningbouw bestemd perceel toelaat wanneer zij wordt aangebouwd tegen een wachtmuur. De Raad bevestigt dat de bepaling een uitzondering is die restrictief moet worden uitgelegd en toegepast, en dat de vergunningverlenende overheid elke voorwaarde moet controleren. Een muur is enkel een wachtmuur als hij op 1 september 2009 deel uitmaakt van een dubbele wand te paard op de perceelsgrens, of als een enkele wand die tot tegen de perceelsgrens is opgetrokken en beschermd is door een tijdelijke waterafstotende bekleding. Hier steunde de deputatie bijna uitsluitend op het oorspronkelijke bouwplan van de aanpalende woning, zonder uit te leggen waarom dat plan een dubbele wand op de perceelsgrens bewijst. Ze onderzocht evenmin hoe de muur is opgebouwd of afgewerkt. Dat volstond niet voor de verscherpte motiveringsplicht die geldt wanneer wordt afgeweken van het ongunstige verslag van de provinciale omgevingsambtenaar en van het standpunt van de gemeente. De Raad voegt toe dat de intentie van de eerste bouwer om een tweede woning aan te bouwen niet bepaalt of er een wachtmuur is. De vergunning wordt vernietigd en de bestuurlijke lus wordt niet toegepast, omdat de onwettigheid een nieuwe inhoudelijke beoordeling vergt. De deputatie moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De overige middelen, over de goede ruimtelijke ordening en de ontbrekende waterparagraaf, werden niet onderzocht."
+   ],
+   "fr": [
+    "RvVb : permis annulé sur la base de l'art. 4.4.3 VCRO, mur d'attente non établi à suffisance",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis d'environnement pour une habitation en zone agricole, délivré sur la base de la « règle de finition » (afwerkingsregel) de l'article 4.4.3 VCRO. L'autorité délivrante n'avait pas démontré à suffisance que le mur mitoyen voisin est un mur d'attente (wachtmuur).",
+    "L'arrêt concerne les demandeurs de permis et les autorités délivrantes qui invoquent l'article 4.4.3 VCRO, lequel permet de construire une habitation unifamiliale sur un terrain non destiné à l'habitat lorsqu'elle est adossée à un mur d'attente. Le Conseil confirme que cette disposition est une exception, à interpréter et à appliquer de manière restrictive, et que l'autorité délivrante doit vérifier chaque condition. Un mur n'est un mur d'attente que s'il fait partie, au 1er septembre 2009, d'une double paroi construite à cheval sur la limite de parcelle, ou s'il s'agit d'une paroi simple élevée jusqu'à la limite de parcelle et protégée par un revêtement hydrofuge temporaire. En l'espèce, la députation s'est fondée presque uniquement sur le plan de construction initial de l'habitation voisine, sans expliquer pourquoi ce plan prouve l'existence d'une double paroi sur la limite de parcelle. Elle n'a pas non plus examiné la manière dont le mur a été construit ou fini. Cela ne répondait pas à l'obligation de motivation renforcée qui s'impose lorsqu'on s'écarte du rapport négatif du fonctionnaire provincial de l'environnement et de la position de la commune. Le Conseil ajoute que l'intention du premier constructeur d'accoler une seconde habitation ne détermine pas l'existence d'un mur d'attente. Le permis est annulé et la boucle administrative n'est pas appliquée, car l'illégalité impose une nouvelle appréciation au fond. La députation doit prendre une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt. Les autres moyens, relatifs au bon aménagement du territoire et à l'absence de paragraphe sur l'eau, n'ont pas été examinés."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0437 van 22 januari 2026: artikel 4.4.3 VCRO (afwerkingsregel, begrip wachtmuur), artikel 4.3.1 VCRO en de motiveringsplicht",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0437. vernietiging van de beslissing van de verwerende partij van 12 december 2024, wa",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0437.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0437"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0431",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: watertoets cannot rest on an advice issued under superseded flood maps",
+   "a": "The Council for Permit Disputes annulled an environmental permit for a house and a 24-apartment block in Lier. The permit authority had based its water assessment on a 2022 advice drawn up under superseded water test maps and had deleted critical remarks from the provincial officer's report. A new decision is due within three months.",
+   "b": "The ruling concerns permit authorities deciding administrative appeals, applicants, and municipalities giving advice in environmental permit procedures for construction projects. The Council applies the water test (art. 1.3.1.1 Flemish Water Code, art. 4.3.1 §1 4° VCRO, art. 4 Water Test Decree) and holds that the authority may not rely on an advice of 26 October 2022. That advice was issued under water test maps that no longer applied, and the project is now partly in a pluvial flood-prone area according to the maps in force since 1 January 2023. Deleting the provincial officer's critical remarks, on maximised built-up area and on whether the flood-free building level is respected, does not make a contrary decision adequately reasoned. A stricter duty of care and reasoning applies when departing from the provincial officer's report and the municipality's advice. A late advice from the waterway manager could still have been taken into account, and explanations the permit holder gave only in the proceedings cannot cure the defect. On good spatial planning, the Council also finds that a purchase-sale promise on a neighbouring house and a neighbouring permit that is not yet final are not part of the existing situation. Privacy and shade must be assessed with regard to the immediately adjoining plots. The decision of 21 November 2024 is annulled, and the permit authority must take a new decision within three months of the day after notification of the ruling of 22 January 2026.",
+   "nl": [
+    "RvVb: watertoets mag niet steunen op advies onder achterhaalde watertoetskaarten",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een woning en een meergezinswoning met 24 appartementen in Lier. De vergunningverlenende overheid steunde haar watertoets op een advies van 2022 onder achterhaalde watertoetskaarten en schrapte kritische opmerkingen uit het verslag van de provinciale omgevingsambtenaar. Binnen drie maanden moet een nieuwe beslissing volgen.",
+    "Het arrest treft vergunningverlenende overheden die bestuurlijke beroepen behandelen, aanvragers en gemeenten die advies verlenen in omgevingsvergunningsprocedures voor bouwprojecten. De Raad past de watertoets toe (art. 1.3.1.1 Waterwetboek, art. 4.3.1, §1, 4° VCRO, art. 4 Watertoetsbesluit) en oordeelt dat de overheid niet kon verwijzen naar een advies van 26 oktober 2022. Dat advies is uitgebracht onder watertoetskaarten die niet langer van toepassing waren, en het project ligt volgens de kaarten die sinds 1 januari 2023 gelden deels in pluviaal overstromingsgevoelig gebied. Het schrappen van de kritische opmerkingen van de provinciale omgevingsambtenaar, over de maximalisatie van de bebouwde grondoppervlakte en over het al dan niet gerespecteerde overstromingsvrije bouwpeil, volstaat niet om een andersluidende beslissing afdoende te motiveren. Wie afwijkt van het verslag van de provinciale omgevingsambtenaar en het advies van de gemeente, moet voldoen aan een verstrengde zorgvuldigheids- en motiveringsplicht. Een laattijdig advies van de waterbeheerder kon nog bij de beoordeling worden betrokken, en toelichtingen die de vergunninghouder pas in de procedure geeft, kunnen het gebrek niet herstellen. Inzake de goede ruimtelijke ordening oordeelt de Raad ook dat een aankoop-verkoopbelofte voor een naburige woning en een naburige vergunning die nog niet definitief is, geen deel uitmaken van de bestaande toestand. Privacy en schaduwhinder moeten worden beoordeeld ten aanzien van de onmiddellijk aanpalende percelen. De beslissing van 21 november 2024 wordt vernietigd en de overheid moet binnen drie maanden na de dag van betekening van het arrest van 22 januari 2026 een nieuwe beslissing nemen."
+   ],
+   "fr": [
+    "CCA : le test de l'eau ne peut reposer sur un avis rendu sous des cartes dépassées",
+    "Le Conseil pour les contestations des autorisations annule un permis d'environnement pour une maison et un immeuble de 24 appartements à Lier. L'autorité avait fondé son test de l'eau sur un avis de 2022 rendu sous des cartes du test de l'eau dépassées, et avait supprimé des remarques critiques du rapport du fonctionnaire provincial de l'environnement. Une nouvelle décision est attendue dans les trois mois.",
+    "L'arrêt concerne les autorités délivrant les permis sur recours administratif, les demandeurs et les communes rendant un avis dans les procédures de permis d'environnement pour des projets de construction. Le Conseil applique le test de l'eau (art. 1.3.1.1 du Code flamand de l'eau, art. 4.3.1, §1er, 4° du VCRO, art. 4 de l'arrêté sur le test de l'eau) et juge que l'autorité ne pouvait se référer à un avis du 26 octobre 2022. Cet avis a été rendu sous des cartes du test de l'eau qui ne s'appliquaient plus, et le projet se situe en partie, selon les cartes en vigueur depuis le 1er janvier 2023, dans une zone sensible aux inondations pluviales. La suppression des remarques critiques du fonctionnaire provincial de l'environnement, sur la maximisation de la surface bâtie et sur le respect ou non du niveau de construction hors zone inondable, ne suffit pas à motiver adéquatement une décision contraire. S'écarter du rapport du fonctionnaire provincial et de l'avis de la commune impose une obligation renforcée de soin et de motivation. Un avis tardif du gestionnaire des voies navigables pouvait encore être pris en compte, et les explications que le titulaire du permis ne fournit que dans la procédure ne peuvent remédier au défaut. Quant au bon aménagement du territoire, le Conseil juge aussi qu'une promesse d'achat-vente portant sur une maison voisine et un permis voisin non encore définitif ne font pas partie de la situation existante. L'intimité et l'ombre portée doivent être appréciées au regard des parcelles immédiatement contiguës. La décision du 21 novembre 2024 est annulée et l'autorité doit prendre une nouvelle décision dans les trois mois suivant le lendemain de la notification de l'arrêt du 22 janvier 2026."
+   ],
+   "scope": "Arrest RvVb.A.2526.0431: watertoets (art. 1.3.1.1 Waterwetboek, art. 4.3.1, §1, 4° VCRO, art. 4 Watertoetsbesluit), motiveringsplicht en goede ruimtelijke ordening",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0431.",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0431.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0431"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0429",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: gewijzigde projectversie na verslag POA vergt nieuw openbaar onderzoek of moet buiten beschouwing blijven",
+   "a": "The Council for Permit Disputes annulled an environmental permit because the appeal authority relied on an amended project version, with a new mobility impact calculation, without reasoning why no new public inquiry was needed. Article 64 of the Environmental Permit Decree leaves only two options: hold a new inquiry or disregard the changes.",
+   "b": "The ruling concerns permit applications under the Environmental Permit Decree where the applicant amends the project after the provincial environmental officer's report, and the authority deciding the administrative appeal. The Council held that an amendment avoids a new public inquiry only if it meets the three conditions of Article 64, second paragraph: no harm to people, the environment or good spatial planning; it responds to advice or objections; and it manifestly does not infringe third-party rights. Depriving interested parties of their right of inspection and objection counts as such an infringement, and comments made at or after the hearing do not offer the same guarantees. If the conditions are not met, the competent authority must either organise a public inquiry or disregard the changes. Here the amended version, filed the day before the hearing, cut the application to one office and added missing mobility and parking data, including the effect of a possible service road. The Council ruled that this was not a mere clarification, and the authority had based its mobility assessment almost entirely on it without reasoning why no new inquiry was needed. The Council also ruled that the equality principle cannot be breached by the appeal authority on the basis of differing road-agency advice in another file it did not decide. The decision of 28 November 2024 is annulled, and the authority must decide the administrative appeal again within three months of notification of the judgment of 22 January 2026.",
+   "nl": [
+    "RvVb: gewijzigde projectversie na verslag POA vergt nieuw openbaar onderzoek of moet buiten beschouwing blijven",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning omdat de beroepsinstantie steunde op een gewijzigde projectversie met een nieuwe mobiliteitsberekening, zonder te motiveren waarom geen nieuw openbaar onderzoek nodig was. Artikel 64 van het Omgevingsvergunningsdecreet laat enkel de keuze tussen een nieuw openbaar onderzoek of het buiten beschouwing laten van de wijzigingen.",
+    "Het arrest betreft vergunningsaanvragen onder het Omgevingsvergunningsdecreet waarbij de aanvrager het project wijzigt na het verslag van de provinciale omgevingsambtenaar, en de overheid die het administratief beroep behandelt. De Raad oordeelt dat een wijziging enkel zonder nieuw openbaar onderzoek kan als aan de drie voorwaarden van artikel 64, tweede lid is voldaan: geen afbreuk aan de bescherming van mens of milieu of de goede ruimtelijke ordening, tegemoetkoming aan adviezen of bezwaren, en kennelijk geen schending van de rechten van derden. Het ontnemen van het recht op inzage en bezwaar van belanghebbenden is zo'n schending, en opmerkingen tijdens of na de hoorzitting bieden niet dezelfde waarborgen. Is niet aan de voorwaarden voldaan, dan moet de bevoegde overheid ofwel een openbaar onderzoek organiseren, ofwel geen rekening houden met de wijzigingen. Hier beperkte de projectversie die daags voor de hoorzitting werd ingediend de aanvraag tot één kantoor en voegde ze ontbrekende mobiliteits- en parkeergegevens toe, ook over een mogelijke ventweg. Volgens de Raad is dat geen loutere verduidelijking, en de overheid steunde haar mobiliteitsbeoordeling nagenoeg volledig daarop zonder te motiveren waarom geen nieuw openbaar onderzoek nodig was. Daarnaast oordeelt de Raad dat de beroepsinstantie het gelijkheidsbeginsel niet kan schenden op grond van een afwijkend advies van het agentschap Wegen en Verkeer in een ander dossier waarover zij niet oordeelde. De beslissing van 28 november 2024 wordt vernietigd en de overheid moet binnen drie maanden na de betekening van het arrest van 22 januari 2026 opnieuw over het administratief beroep beslissen."
+   ],
+   "fr": [
+    "CCA : un projet modifié après le rapport du fonctionnaire provincial impose une nouvelle enquête publique ou son écartement",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis d'environnement, l'autorité de recours s'étant fondée sur une version modifiée du projet, avec un nouveau calcul de mobilité, sans motiver l'absence de nouvelle enquête publique. L'article 64 du décret sur le permis d'environnement ne laisse que le choix entre une nouvelle enquête publique et l'écartement des modifications.",
+    "L'arrêt concerne les demandes de permis relevant du décret flamand sur le permis d'environnement dans lesquelles le demandeur modifie le projet après le rapport du fonctionnaire provincial de l'environnement, ainsi que l'autorité statuant sur le recours administratif. Le Conseil juge qu'une modification n'échappe à une nouvelle enquête publique que si les trois conditions de l'article 64, alinéa 2, sont remplies : pas d'atteinte à la protection de l'homme ou de l'environnement ni au bon aménagement du territoire, prise en compte des avis ou objections, et absence manifeste d'atteinte aux droits des tiers. Priver les intéressés de leur droit de consultation et d'objection constitue une telle atteinte, et les observations formulées lors ou après l'audition n'offrent pas les mêmes garanties. Si les conditions ne sont pas remplies, l'autorité compétente doit soit organiser une enquête publique, soit ne pas tenir compte des modifications. En l'espèce, la version déposée la veille de l'audition limitait la demande à un seul bureau et ajoutait des données manquantes sur la mobilité et le stationnement, y compris l'incidence d'une éventuelle voie de desserte. Le Conseil y voit non une simple clarification, l'autorité ayant fondé son appréciation de la mobilité presque entièrement sur ces éléments sans expliquer pourquoi une nouvelle enquête n'était pas nécessaire. Il juge en outre que l'autorité de recours ne peut violer le principe d'égalité sur la base d'un avis différent de l'agence Wegen en Verkeer dans un autre dossier qu'elle n'a pas tranché. La décision du 28 novembre 2024 est annulée et l'autorité doit statuer à nouveau sur le recours administratif dans les trois mois de la signification de l'arrêt du 22 janvier 2026."
+   ],
+   "scope": "Omgevingsvergunningsdecreet van 25 april 2014, artikel 64 (wijziging van de aanvraag en openbaar onderzoek); gelijkheidsbeginsel",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0429. vernietiging van de beslissing van de verwerende partij van 28 november 2024, wa",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0429.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0429"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0428",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls regularisation permit: authority must verify actual site situation when objections are raised",
+   "a": "The Council for Permit Disputes annulled a Flemish environmental permit granted on administrative appeal for regularising several works. The authority had not examined objections that the application omitted part of the unauthorised situation, and its reasoning was unclear and inconsistent.",
+   "b": "The ruling concerns permitting authorities that decide administrative appeals against regularisation applications, as well as applicants and neighbours who object. The annulled decision granted an environmental permit for a terrace, an advertising sign, a garden and wood storage shed with a heat-pump cover, and tree felling, and refused the other works located in landscape-valuable agricultural area. The Council holds that careful assessment requires accurate knowledge of the authorised and actual situation. The applicant must first supply the data, but when objections are raised the authority must also investigate for itself. Here the authority did not examine the objection that more trees had been felled than applied for, and it wrongly relied on a nature agency advice that did not support the felling of three trees. The authority also left unclear whether it assessed only the works applied for or also the non-residential use alleged by the objector. It could not permit an advertising sign linked to a professional activity and at the same time disregard all objections tied to that activity. Its conclusions that mobility impact is limited and that the works fit functionally were left without stated grounds. The Council refused to substitute its own decision, because the authority has no bound competence, and ordered a new decision on the administrative appeal within three months of the day after notification of the ruling. Costs (€200 registry fee, €840 legal costs) fall on the authority. The ruling was delivered on 22 January 2026.",
+   "nl": [
+    "RvVb vernietigt regularisatievergunning: overheid moet feitelijke toestand onderzoeken bij bezwaren",
+    "De Raad voor Vergunningsbetwistingen vernietigt een in bestuurlijk beroep verleende omgevingsvergunning voor het regulariseren van diverse handelingen. De overheid onderzocht de bezwaren over een onvolledige aanvraag niet en motiveerde onduidelijk en tegenstrijdig.",
+    "Het arrest betreft vergunningverlenende overheden die over bestuurlijke beroepen tegen regularisatieaanvragen beslissen, en ook aanvragers en bezwaarmakende omwonenden. De vernietigde beslissing verleende een omgevingsvergunning voor een terras, een publiciteitsbord, een tuin- en houtopslaghok met overdekking voor een warmtepomp en het vellen van bomen, en weigerde de overige handelingen in landschappelijk waardevol agrarisch gebied. Volgens de Raad vereist een zorgvuldige beoordeling een goede kennis van de vergunde en de feitelijke toestand op het terrein. De aanvrager moet daarvoor in eerste instantie de gegevens aanleveren, maar bij bezwaren moet de overheid zelf ook onderzoek doen. Hier ging de overheid niet in op het bezwaar dat meer bomen waren gekapt dan aangevraagd en steunde ze ten onrechte op een advies van het Agentschap voor Natuur en Bos dat het vellen van drie bomen niet gunstig beoordeelde. Het bleef ook onduidelijk of ze enkel de aangevraagde handelingen beoordeelde dan wel ook het aangevoerde niet-residentiële gebruik. Ze kon niet enerzijds een publiciteitsbord voor een professionele activiteit vergunnen en anderzijds alle bezwaren over die activiteit buiten beschouwing laten. De conclusies dat de mobiliteitsimpact beperkt is en dat de handelingen functioneel inpasbaar zijn, bleven zonder vermelde motieven. De Raad verwerpt de indeplaatsstelling omdat de overheid niet over een gebonden bevoegdheid beschikt, en beveelt een nieuwe beslissing over het bestuurlijk beroep binnen drie maanden vanaf de dag na de betekening van het arrest. De kosten (200 euro rolrecht, 840 euro rechtsplegingsvergoeding) komen ten laste van de overheid. Het arrest werd uitgesproken op 22 januari 2026."
+   ],
+   "fr": [
+    "Le CCA annule un permis de régularisation : l'autorité doit vérifier la situation réelle en cas d'objections",
+    "Le Conseil du contentieux des autorisations (RvVb) annule un permis d'environnement octroyé en recours administratif pour la régularisation de divers actes. L'autorité n'a pas examiné les objections relatives à une demande incomplète et sa motivation était peu claire et contradictoire.",
+    "L'arrêt concerne les autorités délivrantes qui statuent sur des recours administratifs contre des demandes de régularisation, ainsi que les demandeurs et les riverains qui formulent des objections. La décision annulée octroyait un permis d'environnement pour une terrasse, un panneau publicitaire, un abri de jardin et de stockage de bois avec couverture de pompe à chaleur, ainsi que l'abattage d'arbres, et refusait les autres actes situés en zone agricole d'intérêt paysager. Selon le Conseil, une appréciation soigneuse suppose une bonne connaissance de la situation autorisée et de la situation réelle sur le terrain. Il incombe d'abord au demandeur de fournir les données, mais en cas d'objections l'autorité doit aussi mener sa propre instruction. En l'espèce, l'autorité n'a pas examiné l'objection selon laquelle plus d'arbres avaient été abattus que demandé et s'est à tort appuyée sur un avis de l'Agentschap voor Natuur en Bos qui ne se prononçait pas favorablement sur l'abattage de trois arbres. Il restait aussi incertain si elle n'appréciait que les actes demandés ou aussi l'usage non résidentiel invoqué. Elle ne pouvait pas autoriser un panneau publicitaire lié à une activité professionnelle tout en écartant toutes les objections relatives à cette activité. Les conclusions selon lesquelles l'impact sur la mobilité est limité et les actes s'intègrent fonctionnellement sont restées sans motifs indiqués. Le Conseil rejette la substitution, l'autorité ne disposant pas d'une compétence liée, et ordonne une nouvelle décision sur le recours administratif dans les trois mois à compter du lendemain de la notification de l'arrêt. Les dépens (200 euros de droit de rôle, 840 euros d'indemnité de procédure) sont à charge de l'autorité. L'arrêt a été prononcé le 22 janvier 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0428 – omgevingsvergunning (OMV_2024041555): artikel 7, §2 Omgevingsvergunningsdecreet, artikelen 2-3 Motiveringswet, zorgvuldigheids- en motiveringsbeginsel",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0428. vernietiging van de beslissing van de verwerende partij van 5 december 2024, waa",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0428.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0428"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265519",
+   "d": "2026-01-22",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council of State: deemed confirmation of a Walloon environmental permit is not an appealable implicit decision",
+   "a": "In a case on a single permit for an 870 MW gas-fired power plant, the Council of State rules that the confirmation arising under Article 95 §8 of the Walloon Environmental Permit Decree cannot be challenged as an implicit decision. It also finds that an association promoting nuclear energy has no direct interest against the permit, because the nuclear phase-out stems from legislation.",
+   "b": "The ruling concerns challengers of Walloon single permits and the permit holders and authorities involved. Where the Walloon Government does not decide an appeal within the strict deadline, the first-instance decision is confirmed under Article 95 §8 of the Decree of 11 March 1999. That confirmation arises directly from the decree, so it is not an implicit decision open to challenge. Only the decision that was the subject of the administrative appeal can be annulled. A withdrawal of an earlier permit, which forms a separable part of a decision also granting a new permit, cannot be challenged by applicants it satisfies, as they lack an interest. An association whose statutory object is to provide information on the peaceful uses of nuclear energy has no direct interest against a gas-plant permit: the nuclear phase-out results from a legislative choice, which interposes a legal link between the permit and the harm alleged. The permit itself (870 MW combined-cycle plant in Manage) had already been annulled by judgment no. 265.515 of the same day. The Council therefore rejects the claim on that point and notes the permit's illegality for the reasons given there. A procedural indemnity of EUR 700 is awarded to the applicants against the Walloon Region. The ruling is dated 22 January 2026.",
+   "nl": [
+    "Raad van State: bevestiging van een Waalse omgevingsvergunning bij uitblijven van beslissing is geen bestreden impliciete beslissing",
+    "In een zaak over een enige vergunning voor een gascentrale van 870 MW oordeelt de Raad van State dat de bevestiging op grond van artikel 95, § 8, van het Waalse milieuvergunningsdecreet niet als impliciete beslissing kan worden aangevochten. Een vereniging die kernenergie promoot, heeft bovendien geen rechtstreeks belang, omdat de kernuitstap uit wetgeving voortvloeit.",
+    "Het arrest betreft verzoekers tegen Waalse enige vergunningen, alsook vergunninghouders en overheden. Wanneer de Waalse Regering binnen de termijn van orde niet over een beroep beslist, wordt de beslissing in eerste aanleg bevestigd krachtens artikel 95, § 8, van het decreet van 11 maart 1999. Die bevestiging vloeit rechtstreeks uit het decreet voort en is dus geen impliciete beslissing waartegen beroep openstaat. Alleen de beslissing die het voorwerp van het administratief beroep uitmaakte, kan worden vernietigd. De intrekking van een eerdere vergunning, die een afsplitsbaar onderdeel vormt van een beslissing die ook een nieuwe vergunning verleent, kan niet worden bestreden door verzoekers aan wie ze voldoening geeft, want zij hebben geen belang. Een vereniging met als statutair doel informatie te verstrekken over het vreedzaam gebruik van kernenergie, heeft geen rechtstreeks belang tegen een vergunning voor een gascentrale: de kernuitstap vloeit voort uit een keuze van de wetgever, waardoor een rechtsband tussen de vergunning en de aangevoerde nadelen is ingeschoven. De vergunning zelf (STEG-centrale van 870 MW te Manage) was reeds vernietigd bij arrest nr. 265.515 van dezelfde dag. De Raad verwerpt de vordering op dat punt dan ook en stelt de onwettigheid vast om de redenen van dat arrest. Aan de verzoekers wordt een rechtsplegingsvergoeding van 700 euro toegekend ten laste van het Waalse Gewest. Het arrest is gewezen op 22 januari 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la confirmation d'un permis d'environnement wallon faute de décision n'est pas une décision implicite attaquable",
+    "Dans une affaire relative à un permis unique pour une centrale au gaz de 870 MW, le Conseil d'État juge que la confirmation prévue à l'article 95, § 8, du décret wallon relatif au permis d'environnement ne peut être attaquée comme décision implicite. Il juge aussi qu'une association promouvant le nucléaire n'a pas d'intérêt direct, la sortie du nucléaire résultant de la loi.",
+    "L'arrêt concerne les requérants contre des permis uniques wallons, ainsi que les titulaires de permis et les autorités. Lorsque le Gouvernement wallon ne statue pas sur un recours dans le délai de rigueur, la décision de première instance est confirmée en vertu de l'article 95, § 8, du décret du 11 mars 1999. Cette confirmation découle directement du décret et n'est donc pas une décision implicite susceptible de recours. Seule la décision qui a fait l'objet du recours administratif peut être annulée. Le retrait d'un permis antérieur, qui constitue un objet dissociable d'une décision octroyant aussi un nouveau permis, ne peut être attaqué par des requérants à qui il donne satisfaction, faute d'intérêt. Une association dont l'objet statutaire est de fournir des informations sur les utilisations pacifiques de l'énergie nucléaire n'a pas d'intérêt direct à agir contre un permis de centrale au gaz : la sortie du nucléaire résulte d'un choix du législateur, qui interpose un lien de droit entre le permis et les inconvénients invoqués. Le permis lui-même (centrale TGV de 870 MW à Manage) avait déjà été annulé par l'arrêt n° 265.515 du même jour. Le Conseil rejette donc la requête sur ce point et constate l'illégalité pour les motifs de cet arrêt. Une indemnité de procédure de 700 euros est accordée aux requérants à charge de la Région wallonne. L'arrêt est daté du 22 janvier 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.519 du 22 janvier 2026 – article 95, § 8, du décret du 11 mars 1999 relatif au permis d'environnement ; article 19 des lois coordonnées sur le Conseil d'État (intérêt au recours)",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265519. Par une requête introduite le 29 avril 2022 par la voie électronique, les parties requérantes demandent l",
+     "https://www.raadvst-consetat.be/arresten/265519"
+    ]
+   ],
+   "inbox": [
+    "rvs:265519"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265515",
+   "d": "2026-01-22",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate",
+    "environmental-law"
+   ],
+   "h": "Council of State annuls Walloon single permit for 870 MW gas-steam plant over contradictory reasoning",
+   "a": "The Council of State annulled a Walloon single permit for a gas-steam power plant because its reasoning was contradictory and one condition appeared only in the recitals. It left the authority's discretion to label climate-related clauses as urban planning charges untouched.",
+   "b": "The ruling concerns the review of single permits under the Walloon environmental permit decree, in particular permits that attach climate-related clauses, qualified as urban planning charges, to an industrial project. The Council holds that qualifying clauses as urban planning charges under the CoDT (arts. D.IV.54 and R.IV.54-1) is within the authority's discretion. It will not substitute its own assessment absent a manifest error, and none was shown. Whatever the qualification, the reasoning must be adequate and non-contradictory. Here the permit called heavy-goods traffic during operation 'substantial' in one place and 'marginal' in another, so the reason why the access-route requirement applied only during construction could not be understood. The reasoning on the cooling-system clause was also contradictory. The Council refuses partial annulment of that clause because it forms part of the authority's overall assessment. Separately, a condition must follow from the operative part of the decision; a statement in the recitals, here on scheduling maintenance during heatwaves, is not enough to infer that it was imposed. The first plea succeeds on these grounds, so the permit of 14 September 2021 is annulled, which withdrew and replaced an earlier permit. The other grievances are not examined. The ruling is dated 22 January 2026; no transitional rules are stated.",
+   "nl": [
+    "Raad van State vernietigt Waalse enige vergunning voor 870 MW stoom-en-gascentrale wegens tegenstrijdige motivering",
+    "De Raad van State vernietigt een Waalse enige vergunning voor een stoom-en-gascentrale omdat de motivering tegenstrijdig is en één voorwaarde enkel in de overwegingen voorkwam. De beoordelingsvrijheid van de overheid om klimaatgerelateerde clausules als stedenbouwkundige lasten te kwalificeren blijft ongemoeid.",
+    "Het arrest betreft de toetsing van enige vergunningen (permis unique) op grond van het Waalse decreet betreffende de milieuvergunning, in het bijzonder vergunningen die aan een industrieel project klimaatgerelateerde clausules koppelen die als stedenbouwkundige lasten zijn gekwalificeerd. De Raad oordeelt dat de kwalificatie van clausules als stedenbouwkundige lasten op grond van het CoDT (art. D.IV.54 en R.IV.54-1) tot de beoordelingsbevoegdheid van de overheid behoort. Bij gebreke van een kennelijke beoordelingsfout stelt hij zijn eigen beoordeling niet in de plaats, en een dergelijke fout werd niet aangetoond. Ongeacht de kwalificatie moet de motivering afdoende en niet tegenstrijdig zijn. In de vergunning werd het zwaar vrachtverkeer tijdens de exploitatie op één plaats als 'aanzienlijk' en op een andere als 'marginaal' omschreven, zodat niet te begrijpen was waarom de toegangsroute enkel in de bouwfase werd opgelegd. Ook de motivering van de koelingsclausule was tegenstrijdig. De Raad weigert een gedeeltelijke vernietiging van die clausule omdat ze deel uitmaakt van de globale beoordeling van de overheid. Daarnaast moet een voorwaarde uit het beschikkend gedeelte van de beslissing blijken; een vermelding in de overwegingen, hier over het plannen van onderhoud tijdens hittegolven, volstaat niet om af te leiden dat ze is opgelegd. Het eerste middel is op die gronden gegrond, zodat de vergunning van 14 september 2021, die een eerdere vergunning introk en verving, wordt vernietigd. De overige grieven worden niet onderzocht. Het arrest dateert van 22 januari 2026; overgangsregels worden niet vermeld."
+   ],
+   "fr": [
+    "Le Conseil d'État annule un permis unique wallon pour une centrale TGV de 870 MW en raison d'une motivation contradictoire",
+    "Le Conseil d'État annule un permis unique wallon pour une centrale électrique TGV, sa motivation étant contradictoire et une condition ne figurant que dans les motifs. Il laisse intact le pouvoir d'appréciation de l'autorité de qualifier de charges d'urbanisme des clauses relatives au climat.",
+    "L'arrêt porte sur le contrôle des permis uniques au regard du décret wallon relatif au permis d'environnement, en particulier ceux qui assortissent un projet industriel de clauses relatives au climat qualifiées de charges d'urbanisme. Le Conseil juge que la qualification de clauses en charges d'urbanisme sur la base du CoDT (art. D.IV.54 et R.IV.54-1) relève du pouvoir d'appréciation de l'autorité. À défaut d'erreur manifeste, il ne substitue pas son appréciation à la sienne, et aucune erreur de ce type n'est démontrée. Quelle que soit la qualification, la motivation doit être adéquate et non contradictoire. En l'espèce, le permis qualifiait le charroi de poids-lourds en phase d'exploitation tantôt de « conséquent », tantôt de « marginal », de sorte que l'on ne comprenait pas pourquoi l'accès par une route déterminée n'était imposé qu'en phase de construction. La motivation relative à la clause sur le système de refroidissement était elle aussi contradictoire. Le Conseil refuse l'annulation partielle de cette clause, qui s'inscrit dans l'appréciation globale de l'autorité. Par ailleurs, une condition doit ressortir du dispositif de la décision ; une mention dans les motifs, ici sur l'organisation des entretiens pendant les périodes de canicule, ne permet pas d'inférer qu'elle a été imposée. Le premier moyen est fondé sur ces points, ce qui entraîne l'annulation du permis du 14 septembre 2021, qui retirait et remplaçait un permis antérieur. Les autres griefs ne sont pas examinés. L'arrêt date du 22 janvier 2026 ; aucune règle transitoire n'est mentionnée."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.515 du 22 janvier 2026 : permis unique (décret du 11 mars 1999 relatif au permis d'environnement), charges d'urbanisme (CoDT, art. D.IV.54 et R.IV.54-1), motivation et dispositif",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265515. Par une requête introduite le 21 avril 2022 par la voie électronique, les parties requérantes demandent l",
+     "https://www.raadvst-consetat.be/arresten/265515"
+    ]
+   ],
+   "inbox": [
+    "rvs:265515"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265512",
+   "d": "2026-01-22",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council of State: a permit condition inseparable from the unique permit cannot be partially annulled",
+   "a": "The Council of State declared inadmissible a request to annul only one condition of a Walloon unique permit. The condition, which required carbon capture for part of a power plant's CO2, was held to form an indissociable whole with the permit.",
+   "b": "The ruling concerns permit holders and third parties who challenge a unique permit (permis unique) in the Walloon Region and want only one condition annulled. The Council of State restates that partial annulment is excluded where it would amount to reforming the act. It is possible only where the contested provisions can be severed from the rest and their annulment does not change the scope of what remains. The challenged condition required a gas-fired power plant of up to 870 MW to integrate carbon capture and storage or transformation of at least 30% of the CO2 produced, with any new environmental or planning permit applications to be filed before commissioning. The Council found that this condition is part of the overall balance of the permit and cannot be separated from it, so the request was inadmissible and rejected. It was handled under the summary-debates procedure, following the auditor's opinion that the appeal was manifestly inadmissible. The ruling was delivered on 22 January 2026, and costs were split between the applicant and the intervening municipality.",
+   "nl": [
+    "Raad van State: een voorwaarde die onlosmakelijk met de enige vergunning verbonden is, kan niet partieel vernietigd worden",
+    "De Raad van State verklaarde een verzoek tot vernietiging van slechts één voorwaarde van een Waalse enige vergunning (permis unique) onontvankelijk. De voorwaarde, die koolstofafvang voor een deel van de CO2 van een elektriciteitscentrale oplegde, vormde een onsplitsbaar geheel met de vergunning.",
+    "Het arrest betreft vergunninghouders en derden die een enige vergunning (permis unique) in het Waalse Gewest bestrijden en slechts één voorwaarde willen laten vernietigen. De Raad van State herhaalt dat gedeeltelijke vernietiging uitgesloten is wanneer ze neerkomt op een hervorming van de handeling. Ze is enkel mogelijk wanneer de bestreden bepalingen losgekoppeld kunnen worden van de rest en hun vernietiging de draagwijdte van het resterende deel niet wijzigt. De bestreden voorwaarde verplichtte een gestookte elektriciteitscentrale van maximaal 870 MW om een proces van koolstofafvang en -opslag of -omzetting van minstens 30% van de geproduceerde CO2 te integreren. Voor eventuele nieuwe milieu- of stedenbouwkundige vergunningsaanvragen gold dat ze vóór de indienstneming moesten worden ingediend. Volgens de Raad maakt die voorwaarde deel uit van het globale evenwicht van de vergunning en is ze er onlosmakelijk mee verbonden. Het verzoek is daarom onontvankelijk en wordt verworpen. De zaak werd behandeld in de procedure van korte debatten, na het advies van de auditeur dat het beroep kennelijk onontvankelijk was. Het arrest werd uitgesproken op 22 januari 2026; de kosten worden verdeeld tussen de verzoekende partij en de tussenkomende gemeente."
+   ],
+   "fr": [
+    "Conseil d'État : une condition indissociable du permis unique ne peut faire l'objet d'une annulation partielle",
+    "Le Conseil d'État a déclaré irrecevable une demande d'annulation limitée à une seule condition d'un permis unique wallon. Cette condition, qui imposait le captage du CO2 d'une partie des émissions d'une centrale électrique, formait un tout indissociable avec le permis.",
+    "L'arrêt concerne les titulaires de permis et les tiers qui contestent un permis unique en Région wallonne et ne veulent en faire annuler qu'une condition. Le Conseil d'État rappelle que l'annulation partielle est exclue lorsqu'elle équivaut à une réformation de l'acte. Elle n'est possible que si les dispositions attaquées peuvent être dissociées du reste de l'acte et que leur annulation ne modifie pas la portée de la partie qui survit. La condition contestée imposait à une centrale électrique de type TGV d'une puissance maximale de 870 MW d'intégrer un procédé de captage et de stockage ou de transformation d'au moins 30 % du CO2 produit, les éventuelles nouvelles demandes de permis d'environnement ou d'urbanisme devant être introduites avant la mise en service. Le Conseil juge que cette condition participe de l'équilibre global du permis et forme un tout indissociable avec celui-ci. La demande est donc irrecevable et rejetée. L'affaire a été traitée en débats succincts, l'auditeur ayant estimé le recours manifestement irrecevable. L'arrêt a été prononcé le 22 janvier 2026 et les dépens sont répartis entre la partie requérante et la commune intervenante."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.512 du 22 janvier 2026 : demande d'annulation partielle d'une condition particulière du permis unique du 12 octobre 2020 (centrale électrique TGV, Manage)",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265512. Par une requête introduite le 21 mai 2021 par la voie électronique, la partie requérante demande l’annula",
+     "https://www.raadvst-consetat.be/arresten/265512"
+    ]
+   ],
+   "inbox": [
+    "rvs:265512"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265506",
+   "d": "2026-01-22",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council of State: CoBAT fine doubling for repeat offences requires a prior final fine decision",
+   "a": "The Council of State annuls a Brussels decision that doubled an urban-planning administrative fine for a repeat offence. It rules that Article 313/11 CoBAT requires a prior final decision imposing a fine, which a suspended pronouncement does not satisfy.",
+   "b": "The ruling concerns Brussels administrative fines for urban-planning infringements, and so owners, operators and developers sanctioned under the CoBAT. Article 313/11 CoBAT doubles the fine amounts where a new infringement is established against the same person within five years of the first finding. Following Constitutional Court case law on the equivalent provision of the Brussels environmental inspection ordinance, the Council of State reads this provision in line with Articles 10 and 11 of the Constitution. It requires a prior final decision imposing an administrative fine, meaning one no longer subject to appeal or open to appeal. A decision by the sanctioning official that suspends the pronouncement under Article 313/5, §1, first paragraph, 2° and 3° CoBAT, subject to conditions, is not such a decision, because in criminal law repeat-offence rules apply only where a penalty was actually imposed. The Council of State therefore upholds the third plea and annuls the designated official's decision of 6 October 2021, which had upheld the doubled fine of 26 April 2021. The other pleas are not examined, and the Region bears the costs. The ruling was delivered on 22 January 2026.",
+   "nl": [
+    "Raad van State: verdubbeling van BWRO-boete bij herhaling vereist eerdere definitieve boetebeslissing",
+    "De Raad van State vernietigt een Brusselse beslissing die een stedenbouwkundige administratieve geldboete wegens herhaling verdubbelde. Artikel 313/11 BWRO vereist een voorafgaande definitieve beslissing tot oplegging van een boete, wat een opgeschorte uitspraak niet is.",
+    "Het arrest betreft Brusselse administratieve geldboeten voor stedenbouwkundige inbreuken, en dus eigenaars, exploitanten en ontwikkelaars die onder het BWRO worden gesanctioneerd. Artikel 313/11 BWRO verdubbelt de boetebedragen wanneer binnen vijf jaar na de eerste vaststelling een nieuwe inbreuk ten laste van dezelfde persoon wordt vastgesteld. In navolging van de rechtspraak van het Grondwettelijk Hof over de overeenkomstige bepaling van de Brusselse ordonnantie inzake milieu-inspectie, leest de Raad van State deze bepaling in overeenstemming met de artikelen 10 en 11 van de Grondwet. Zij vereist een voorafgaande definitieve beslissing tot oplegging van een administratieve geldboete, dat wil zeggen een beslissing waartegen geen beroep meer openstaat of mogelijk is. Een beslissing van de sanctionerend ambtenaar die de uitspraak onder voorwaarden opschort op grond van artikel 313/5, §1, eerste lid, 2° en 3° BWRO, is geen dergelijke beslissing, omdat de regels inzake herhaling in strafzaken enkel gelden wanneer effectief een straf is opgelegd. De Raad van State acht het derde middel dan ook gegrond en vernietigt de beslissing van de aangewezen ambtenaar van 6 oktober 2021, die de verdubbelde boete van 26 april 2021 bevestigde. De overige middelen worden niet onderzocht en het Gewest draagt de kosten. Het arrest werd uitgesproken op 22 januari 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le doublement d'amende du CoBAT en cas de récidive exige une décision définitive préalable",
+    "Le Conseil d'État annule une décision bruxelloise qui avait doublé une amende administrative urbanistique pour récidive. L'article 313/11 du CoBAT exige une décision préalable définitive infligeant une amende, ce que n'est pas une suspension du prononcé.",
+    "L'arrêt concerne les amendes administratives bruxelloises pour infractions urbanistiques, et donc les propriétaires, exploitants et promoteurs sanctionnés sur la base du CoBAT. L'article 313/11 du CoBAT double les montants des amendes lorsqu'une nouvelle infraction est constatée à charge de la même personne dans les cinq ans du premier constat. À la suite de la jurisprudence de la Cour constitutionnelle sur la disposition équivalente de l'ordonnance bruxelloise relative à l'inspection en matière d'environnement, le Conseil d'État interprète cette disposition conformément aux articles 10 et 11 de la Constitution. Elle suppose l'existence d'une décision préalable définitive infligeant une amende administrative, c'est-à-dire une décision qui ne fait plus l'objet ou n'est plus susceptible d'un recours. Une décision du fonctionnaire sanctionnateur suspendant le prononcé, sous conditions, en application de l'article 313/5, § 1er, alinéa 1er, 2° et 3° du CoBAT, n'en est pas une, car en matière pénale les règles de la récidive ne s'appliquent que si une peine a été infligée. Le Conseil d'État déclare donc le troisième moyen fondé et annule la décision du fonctionnaire désigné du 6 octobre 2021, qui avait confirmé l'amende doublée du 26 avril 2021. Les autres moyens ne sont pas examinés et la Région supporte les dépens. L'arrêt a été prononcé le 22 janvier 2026."
+   ],
+   "scope": "Code bruxellois de l'Aménagement du Territoire (CoBAT), art. 313/5, § 1er, al. 1er, 2° et 3°, et art. 313/11 : doublement des amendes administratives en cas de nouvelle infraction",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265506. Par une requête introduite, le 7 décembre 2021, la partie requérante demande l’annulation de « la décisio",
+     "https://www.raadvst-consetat.be/arresten/265506"
+    ]
+   ],
+   "inbox": [
+    "rvs:265506"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62023cj0423-res",
+   "d": "2026-01-22",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU: Member States may cap run-of-river hydro revenues below the EU cap without a 10% retention rule",
+   "a": "The Court of Justice held that neither Directive 2019/944 nor Regulation 2022/1854 precludes a national cap on market revenues of run-of-river hydropower producers that is lower than the EU cap and does not let producers keep 10% of the surplus. Whether such a lower cap respects investment signals and cost coverage is for the national court to assess.",
+   "b": "The ruling concerns electricity producers using the sources listed in Article 7(1) of Regulation 2022/1854, such as run-of-river hydropower, and the Member States that cap their market revenues. Article 5(4) of Directive 2019/944 governs public intervention in supply prices for certain customers, so it does not cover caps on producers' market revenues. Articles 6 to 8 of Regulation 2022/1854 applied only from 1 December 2022 to 30 June 2023, so they cannot be used against national measures for the earlier period (1 February to 30 November 2022). For the later period, the EU cap of EUR 180 per MWh may be applied by Member States to only 90% of the revenues, but they are not obliged to do so. Under Article 8, a Member State may maintain or introduce a lower cap in a crisis, provided it meets Article 8(2), notably by not jeopardising investment signals and by covering investment and operating costs. The Regulation prescribes no method for setting that lower cap, so a cap based on the inflation-adjusted average prices of 2010–2020 is not excluded as such. The national court must assess compatibility, taking into account factors such as the objective reference period, the exceptional and temporary nature of the cap, the plants' cost structure and levelised cost of energy, and any compensation mechanism acting as a guaranteed minimum price. Member States are also not required to cap hard coal revenues (Article 8(1)(d)) or to differentiate between solar, geothermal and wind (Article 8(1)(a)); they may apply a single cap.",
+   "nl": [
+    "HvJ: lidstaten mogen inkomsten van run-of-river-waterkracht lager plafonneren dan de EU, zonder 10%-regel",
+    "Het Hof van Justitie oordeelt dat noch Richtlijn 2019/944 noch Verordening 2022/1854 zich verzet tegen een nationaal plafond op de marktinkomsten van producenten van run-of-river-waterkracht dat lager ligt dan het EU-plafond en producenten niet 10% van het overschot laat behouden. Of zo'n lager plafond de investeringssignalen en de kostendekking respecteert, beoordeelt de nationale rechter.",
+    "De uitspraak betreft elektriciteitsproducenten die de in artikel 7, lid 1, van Verordening 2022/1854 opgesomde bronnen gebruiken, zoals run-of-river-waterkracht, en de lidstaten die hun marktinkomsten plafonneren. Artikel 5, lid 4, van Richtlijn 2019/944 regelt overheidsingrijpen in de leveringsprijzen voor bepaalde afnemers en heeft dus geen betrekking op plafonds voor de marktinkomsten van producenten. De artikelen 6 tot 8 van Verordening 2022/1854 waren slechts van toepassing van 1 december 2022 tot 30 juni 2023 en kunnen dus niet worden ingeroepen tegen nationale maatregelen voor de eerdere periode (1 februari tot 30 november 2022). Voor de latere periode mogen de lidstaten het EU-plafond van 180 EUR per MWh toepassen op slechts 90% van de inkomsten, maar ze zijn daartoe niet verplicht. Krachtens artikel 8 mag een lidstaat in een crisis een lager plafond handhaven of invoeren, mits voldaan is aan artikel 8, lid 2, met name dat de investeringssignalen niet in gevaar worden gebracht en dat de investerings- en exploitatiekosten gedekt blijven. De verordening schrijft geen methode voor het vaststellen van dat lagere plafond voor, zodat een plafond op basis van de aan inflatie aangepaste gemiddelde prijzen van 2010–2020 als zodanig niet is uitgesloten. De nationale rechter moet de verenigbaarheid beoordelen aan de hand van factoren zoals de objectieve referentieperiode, het uitzonderlijke en tijdelijke karakter van het plafond, de kostenstructuur van de installaties en de genormaliseerde energiekost, en een eventueel compensatiemechanisme dat als gegarandeerde minimumprijs fungeert. De lidstaten zijn evenmin verplicht de inkomsten uit steenkool te plafonneren (artikel 8, lid 1, d)) of een onderscheid te maken tussen zonne-, geothermische en windenergie (artikel 8, lid 1, a)); één enkel plafond is toegestaan."
+   ],
+   "fr": [
+    "CJUE : les États membres peuvent plafonner plus bas les revenus de l'hydroélectricité au fil de l'eau, sans règle des 10 %",
+    "La Cour de justice juge que ni la directive 2019/944 ni le règlement 2022/1854 ne s'opposent à un plafond national sur les revenus de marché des producteurs d'hydroélectricité au fil de l'eau, inférieur au plafond de l'Union et ne leur laissant pas conserver 10 % du surplus. Il appartient à la juridiction nationale de vérifier si ce plafond plus bas respecte les signaux d'investissement et la couverture des coûts.",
+    "L'arrêt concerne les producteurs d'électricité utilisant les sources énumérées à l'article 7, paragraphe 1, du règlement 2022/1854, comme l'hydroélectricité au fil de l'eau, et les États membres qui plafonnent leurs revenus de marché. L'article 5, paragraphe 4, de la directive 2019/944 encadre les interventions publiques dans la fixation des prix de fourniture à certains clients et ne vise donc pas les plafonds de revenus de marché des producteurs. Les articles 6 à 8 du règlement 2022/1854 n'étaient applicables que du 1er décembre 2022 au 30 juin 2023 et ne peuvent donc être invoqués contre des mesures nationales couvrant la période antérieure (du 1er février au 30 novembre 2022). Pour la période suivante, les États membres peuvent n'appliquer le plafond de l'Union de 180 EUR par MWh qu'à 90 % des revenus, sans y être obligés. En vertu de l'article 8, un État membre peut, en cas de crise, maintenir ou introduire un plafond plus bas, à condition de respecter l'article 8, paragraphe 2, notamment en ne compromettant pas les signaux d'investissement et en assurant la couverture des coûts d'investissement et d'exploitation. Le règlement ne prescrit aucune méthode pour fixer ce plafond plus bas, de sorte qu'un plafond fondé sur la moyenne des prix de 2010 à 2020 corrigée de l'inflation n'est pas exclu en soi. Il revient à la juridiction nationale d'apprécier la compatibilité à la lumière de facteurs tels que la période de référence objective, le caractère exceptionnel et temporaire du plafond, la structure des coûts des installations et le coût actualisé de l'énergie, ainsi qu'un éventuel mécanisme de compensation faisant office de prix minimal garanti. Les États membres ne sont pas non plus tenus de plafonner les revenus issus de la houille (article 8, paragraphe 1, point d)) ni de différencier les filières solaire, géothermique et éolienne (article 8, paragraphe 1, point a)) ; un plafond unique est permis."
+   ],
+   "scope": "Judgment of the Court of Justice in Case C-423/23, Secab: Article 5 of Directive (EU) 2019/944 and Articles 6 to 8 of Regulation (EU) 2022/1854",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Fourth Chamber) of 22 January 2026.#Secab Soc. coop. v Autorità di Regolazione per Energia Reti e Ambiente (ARERA) an",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0423_RES"
+    ]
+   ],
+   "inbox": [
+    "eu:62023CJ0423_RES"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62023cj0423",
+   "d": "2026-01-22",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU: national revenue cap on run-of-river hydropower not precluded by Regulation 2022/1854",
+   "a": "The Court of Justice held that EU law does not preclude a national cap on market revenues of run-of-river hydropower producers set below the EUR 180/MWh Union cap and without a 10% retention guarantee. The cap must still not adversely affect investments in renewable energy, which is assessed on all relevant circumstances.",
+   "b": "The ruling concerns electricity producers subject to national crisis caps on market revenues, and the authorities that apply them. It arose from an Italian cap on run-of-river hydropower producers, adopted before Regulation 2022/1854 and applied from 1 February 2022 to 30 June 2023. Article 5(4) of Directive 2019/944 governs public interventions in supply prices to customers, not caps on producers' revenues. Member States are not required to let producers keep 10% of revenues above the cap, since Regulation 2022/1854 only offers that as an option. A national cap based on the arithmetic average of market-zone prices from 2010 to 2020, adjusted for inflation, is not precluded, provided it does not adversely affect investments in the renewable sector under Article 8(2)(b) and (c). That condition is assessed on all relevant circumstances. National law is also not precluded from omitting a specific cap for hard coal or differentiated caps for solar, geothermal or wind producers. Articles 6 to 8 of the Regulation applied from 1 December 2022 to 30 June 2023. The judgment is dated 22 January 2026.",
+   "nl": [
+    "HvJ-EU: nationale inkomstenplafonnering voor run-of-river-waterkracht niet uitgesloten door Verordening 2022/1854",
+    "Het Hof van Justitie oordeelt dat het Unierecht een nationaal plafond op de marktinkomsten van producenten van run-of-river-waterkracht niet uitsluit, ook al ligt het onder het Uniplafond van 180 EUR/MWh en waarborgt het niet dat 10 % mag worden behouden. Het plafond mag investeringen in hernieuwbare energie niet nadelig beïnvloeden, wat wordt beoordeeld aan de hand van alle relevante omstandigheden.",
+    "Het arrest betreft elektriciteitsproducenten die onder nationale crisisplafonds voor marktinkomsten vallen, en de overheden die deze toepassen. Het ging om een Italiaans plafond voor producenten van run-of-river-waterkracht, vastgesteld vóór Verordening 2022/1854 en van toepassing van 1 februari 2022 tot 30 juni 2023. Artikel 5, lid 4, van Richtlijn 2019/944 regelt openbare interventies in de leveringsprijzen aan afnemers, niet plafonds op de inkomsten van producenten. De lidstaten hoeven producenten niet toe te staan 10 % van de inkomsten boven het plafond te behouden, aangezien Verordening 2022/1854 dat slechts als mogelijkheid biedt. Een nationaal plafond op basis van het rekenkundig gemiddelde van de prijzen in de marktzone van 2010 tot 2020, aangepast aan de inflatie, is niet uitgesloten, mits het de investeringen in de hernieuwbare sector niet nadelig beïnvloedt in de zin van artikel 8, lid 2, onder b) en c). Dat wordt beoordeeld aan de hand van alle relevante omstandigheden. Het nationale recht is evenmin uitgesloten wanneer het geen specifiek plafond voor steenkool en geen gedifferentieerde plafonds voor zonne-, geothermische of windenergieproducenten bevat. De artikelen 6 tot 8 van de verordening golden van 1 december 2022 tot 30 juni 2023. Het arrest is van 22 januari 2026."
+   ],
+   "fr": [
+    "CJUE : un plafonnement national des recettes de l'hydroélectricité au fil de l'eau n'est pas exclu par le règlement 2022/1854",
+    "La Cour de justice juge que le droit de l'Union n'exclut pas un plafond national sur les recettes de marché des producteurs d'hydroélectricité au fil de l'eau, même inférieur au plafond de l'Union de 180 EUR/MWh et sans garantie de conserver 10 %. Le plafond ne doit pas nuire aux investissements dans les énergies renouvelables, ce qui s'apprécie au regard de toutes les circonstances pertinentes.",
+    "L'arrêt concerne les producteurs d'électricité soumis à des plafonds nationaux de crise sur les recettes de marché, ainsi que les autorités qui les appliquent. Il est né d'un plafond italien visant les producteurs d'hydroélectricité au fil de l'eau, adopté avant le règlement 2022/1854 et applicable du 1er février 2022 au 30 juin 2023. L'article 5, paragraphe 4, de la directive 2019/944 encadre les interventions publiques dans la fixation des prix de fourniture aux clients, et non les plafonds de recettes des producteurs. Les États membres ne sont pas tenus de permettre aux producteurs de conserver 10 % des recettes excédant le plafond, le règlement 2022/1854 n'en faisant qu'une option. Un plafond national fondé sur la moyenne arithmétique des prix de la zone de marché de 2010 à 2020, ajustée de l'inflation, n'est pas exclu, à condition de ne pas nuire aux investissements dans le secteur des énergies renouvelables au sens de l'article 8, paragraphe 2, sous b) et c). Cela s'apprécie au regard de toutes les circonstances pertinentes. Le droit national n'est pas non plus exclu lorsqu'il ne prévoit ni plafond spécifique pour le charbon ni plafonds différenciés pour les producteurs d'énergie solaire, géothermique ou éolienne. Les articles 6 à 8 du règlement s'appliquaient du 1er décembre 2022 au 30 juin 2023. L'arrêt date du 22 janvier 2026."
+   ],
+   "scope": "Judgment of the Court (Fourth Chamber) in Case C-423/23, Secab: Article 5(4) of Directive (EU) 2019/944 and Articles 6, 7(5) and 8 of Regulation (EU) 2022/1854 (national caps on market revenues)",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Fourth Chamber) of 22 January 2026.#Secab Soc. coop. v Autorità di Regolazione per Energia Reti e Ambiente (ARERA) an",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0423"
+    ]
+   ],
+   "inbox": [
+    "eu:62023CJ0423"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62023cj0206-inf",
+   "d": "2026-01-22",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU imposes lump sum and daily penalty on Bulgaria for not transposing Renewable Energy Directive",
+   "a": "The Court of Justice found that Bulgaria failed to transpose Directive 2018/2001 and notify transposition measures. It ordered a EUR 1,500,000 lump sum and a EUR 9,000 daily penalty payment under Article 260(3) TFEU.",
+   "b": "The judgment concerns every Member State bound by Article 36 of Directive 2018/2001 (Renewable Energy Directive) to adopt and notify national transposition measures. The Court assessed the failure as it stood when the period in the Commission's reasoned opinion of 2 December 2021 expired. It held that, because the directive requires a reference to it in national measures, a positive transposition measure is needed, and that a failure to notify such measures is an infringement. It stated that force majeure is accepted only under strict conditions and that a Member State's national system cannot justify non-compliance. On Article 260(3) TFEU, it set the lump sum at EUR 1,500,000, taking into account the objectives of the directive and the Union's energy policy. It also found that the failure persisted when the Court examined the facts. A daily penalty payment of EUR 9,000 is payable only if the infringement is still ongoing on the date of the judgment, 22 January 2026, and runs from that date until it ends.",
+   "nl": [
+    "HvJ legt Bulgarije forfaitaire som en dwangsom op wegens niet-omzetting van de richtlijn hernieuwbare energie",
+    "Het Hof van Justitie oordeelde dat Bulgarije richtlijn 2018/2001 niet heeft omgezet en de omzettingsmaatregelen niet heeft meegedeeld. Het legde krachtens artikel 260, lid 3, VWEU een forfaitaire som van 1.500.000 EUR en een dwangsom van 9.000 EUR per dag op.",
+    "Het arrest geldt voor alle lidstaten die op grond van artikel 36 van richtlijn 2018/2001 (richtlijn hernieuwbare energie) nationale omzettingsmaatregelen moeten vaststellen en meedelen. Het Hof beoordeelde de tekortkoming zoals die bestond bij het verstrijken van de termijn van het met redenen omklede advies van de Commissie van 2 december 2021. Het oordeelde dat, omdat de richtlijn voorschrijft dat in de nationale maatregelen naar de richtlijn wordt verwezen, een positieve omzettingsmaatregel vereist is en dat het niet meedelen van dergelijke maatregelen een inbreuk vormt. Het stelde dat overmacht slechts onder strikte voorwaarden wordt aanvaard en dat het nationale stelsel van een lidstaat een niet-nakoming niet kan rechtvaardigen. Met toepassing van artikel 260, lid 3, VWEU stelde het de forfaitaire som vast op 1.500.000 EUR, rekening houdend met de doelstellingen van de richtlijn en van het energiebeleid van de Unie. Het stelde ook vast dat de tekortkoming voortduurde op het ogenblik waarop het Hof de feiten onderzocht. Een dwangsom van 9.000 EUR per dag is slechts verschuldigd indien de inbreuk nog voortduurt op de datum van het arrest, 22 januari 2026, en loopt vanaf die datum tot de inbreuk eindigt."
+   ],
+   "fr": [
+    "La CJUE inflige à la Bulgarie une somme forfaitaire et une astreinte pour non-transposition de la directive sur les énergies renouvelables",
+    "La Cour de justice a constaté que la Bulgarie n'a pas transposé la directive 2018/2001 ni communiqué les mesures de transposition. Elle a prononcé, sur la base de l'article 260, paragraphe 3, TFUE, une somme forfaitaire de 1 500 000 EUR et une astreinte de 9 000 EUR par jour.",
+    "L'arrêt concerne tous les États membres tenus, en vertu de l'article 36 de la directive 2018/2001 (directive sur les énergies renouvelables), d'adopter et de communiquer des mesures nationales de transposition. La Cour a apprécié le manquement tel qu'il se présentait à l'expiration du délai fixé dans l'avis motivé de la Commission du 2 décembre 2021. Elle a jugé que, la directive exigeant qu'il y soit fait référence dans les mesures nationales, une mesure positive de transposition est nécessaire et que l'absence de communication de ces mesures constitue un manquement. Elle a rappelé que la force majeure n'est admise que dans des conditions strictes et que l'ordre interne d'un État membre ne peut justifier un manquement. En application de l'article 260, paragraphe 3, TFUE, elle a fixé la somme forfaitaire à 1 500 000 EUR, en tenant compte des objectifs de la directive et de la politique énergétique de l'Union. Elle a aussi constaté que le manquement persistait à la date de l'examen des faits par la Cour. Une astreinte de 9 000 EUR par jour n'est due que si le manquement subsiste à la date de l'arrêt, le 22 janvier 2026, et court à partir de cette date jusqu'à ce qu'il y soit mis fin."
+   ],
+   "scope": "Arrêt de la Cour (huitième chambre), affaire C-206/23, Commission c. Bulgarie – articles 258 et 260, paragraphe 3, TFUE; article 36 de la directive (UE) 2018/2001",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Eighth Chamber) of 22 January 2026.#European Commission v Republic of Bulgaria.#Failure of a Member State to fulfil o",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0206_INF"
+    ]
+   ],
+   "inbox": [
+    "eu:62023CJ0206_INF"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
