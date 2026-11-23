@@ -67700,15 +67700,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 4,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 70,
 "api": {
-"calls": 4,
-"input_tokens": 31999,
-"output_tokens": 11835,
-"usd": 0.1823
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-23"
 },
