@@ -41213,7 +41213,8 @@
 ],
 "reason": "Transfers enforcement of EU waste shipment Regulation 2024/1157 to OLAF.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0681"
 },
 "eu:32026D0671": {
 "v": 4,
@@ -41260,7 +41261,8 @@
 ],
 "reason": "Designates local cluster manager in Antwerp port; scope unclear from title.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041924"
 },
 "codex:1041908": {
 "v": 4,
@@ -41361,7 +41363,9 @@
 ],
 "reason": "Amends Walloon Environment Code on the environmental information appeal commission.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only sets attendance fees for members of the Walloon environmental information appeals commission; no obligations change for companies, developers or authorities."
 },
 "rvvb:RVVB.S.2526.0606": {
 "v": 4,
@@ -41373,7 +41377,9 @@
 ],
 "reason": "Restates the suspension urgency test: a permit's executability alone does not prove urgency; petitioners must show concrete, verifiable harm, and temporary site-preparation nuisance is insufficient.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Suspension refused because the applicants did not substantiate urgency on the facts of one building permit; no rule is annulled or interpreted."
 },
 "rvvb:RVVB.S.2526.0605": {
 "v": 4,
@@ -41385,7 +41391,8 @@
 ],
 "reason": "States that a permit's feasibility or appeal duration alone does not prove urgency, and that a public authority's personal disadvantage requires the decision to seriously hinder its public task.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-s-2526-0605"
 },
 "rvvb:RVVB.A.2526.0607": {
 "v": 4,
@@ -41409,7 +41416,8 @@
 ],
 "reason": "Art. 4.4.23 VCRO functional-change test must assess impact on neighbouring farms from their perspective; outbuilding size must match intended functions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0604"
 },
 "rvvb:RVVB.A.2526.0603": {
 "v": 4,
@@ -41421,7 +41429,9 @@
 ],
 "reason": "Restates that the Raad cannot consider post factum motivation in answer briefs, and that structure plans are not grounds for assessing permit applications.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal rejected; the Council applies settled motivation and good spatial planning standards to the facts of one permit file, with no wider point of law."
 },
 "rvvb:RVVB.A.2526.0602": {
 "v": 4,
@@ -41434,7 +41444,8 @@
 ],
 "reason": "Interprets project-MER rubric 10 (industrial estate and urban development) for SME units and the 'onlosmakelijk verbonden' test for combined permit applications, both of wider use.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0602"
 },
 "rvvb:RVVB.A.2526.0600": {
 "v": 4,
@@ -41446,7 +41457,8 @@
 ],
 "reason": "Interprets Article 64 and 45 Omgevingsvergunningsdecreet: essential changes to an application during appeal require a new public inquiry and advice, so applicants and authorities must follow this.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0600"
 },
 "rvvb:RVVB.A.2526.0599": {
 "v": 4,
@@ -41459,7 +41471,8 @@
 ],
 "reason": "Holds that VLAREM II chapter 4.5 noise rules do not apply to airfields (rubric 57), so challenges based on them lack legal basis.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0599"
 },
 "rvvb:RVVB.A.2526.0598": {
 "v": 4,
@@ -41472,7 +41485,8 @@
 ],
 "reason": "States that appellants must substantiate Habitat-assessment challenges concretely, applies the 1% Stikstofdecreet threshold for nitrogen impact, and applies the VEN-besluit to applications filed after",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0598"
 },
 "rvvb:RVVB.A.2526.0597": {
 "v": 4,
@@ -41494,7 +41508,8 @@
 ],
 "reason": "Simplified permit procedure is unavailable where a municipal council decision on abolishing a municipal road is required; the appeal authority must investigate and may halt that procedure.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0593"
 },
 "rvvb:RVVB.A.2526.0592": {
 "v": 4,
@@ -41506,7 +41521,8 @@
 ],
 "reason": "Annuls a permit: hoofdzakelijk vergund cannot be waived, the Verzameldecreet's 'last permitted function' test applies, and deviation requests may be added later.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0592"
 },
 "rvvb:RVVB.A.2526.0591": {
 "v": 4,
@@ -41519,7 +41535,8 @@
 ],
 "reason": "School building counts as a general-interest act, so the forest-clearing ban exemption applies; old permit conditions do not bind new applications.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0591"
 },
 "rvvb:RVVB.A.2526.0590": {
 "v": 4,
@@ -67325,15 +67342,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 11,
+"found_not_relevant_on_reading": 3,
 "failed": 0,
-"waiting": 409,
+"waiting": 395,
 "api": {
 "calls": 14,
-"input_tokens": 141013,
-"output_tokens": 39992,
-"usd": 0.6819
+"input_tokens": 210921,
+"output_tokens": 36886,
+"usd": 0.7907
 },
 "updated": "2026-11-23"
 },
