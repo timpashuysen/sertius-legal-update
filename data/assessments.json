@@ -43600,7 +43600,8 @@
 ],
 "reason": "Sets the Union 2040 intermediate climate target, amending the climate law.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0667"
 },
 "eu:32026R0608": {
 "v": 4,
@@ -43982,7 +43983,8 @@
 ],
 "reason": "Circular bans financial incentives for standalone fossil-fuel boilers, a climate rule for installations.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041838"
 },
 "eu:52026PC0125": {
 "v": 4,
@@ -44020,7 +44022,8 @@
 ],
 "reason": "Regulation on greenhouse gas emissions accounting for transport services.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0121"
 },
 "eu:32026R1073": {
 "v": 4,
@@ -44105,7 +44108,8 @@
 ],
 "reason": "Flemish decree implementing EU renewables, critical raw materials and net-zero rules in environment policy.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041865"
 },
 "codex:1041857": {
 "v": 4,
@@ -44125,7 +44129,9 @@
 ],
 "reason": "Transfers enforcement tasks from the Flemish environment department to heritage agency; affects enforcement authority.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Internal staff transfer of named civil servants between Flemish bodies; it creates or changes no obligations for companies, developers or authorities."
 },
 "codex:1041854": {
 "v": 4,
@@ -64601,7 +64607,8 @@
 ],
 "reason": "UREBA energy-audit approval: confirms the authority must check application completeness, a refusal may rest on missing audits, and reasons may be given in a notification letter.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265927"
 },
 "rvs:265926": {
 "v": 4,
@@ -64693,7 +64700,8 @@
 ],
 "reason": "Regularisation permits are judged under the rules in force at decision time, not by the fait accompli; reasoning must concretely compare the altered and original state of the monument.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265918"
 },
 "rvs:265917": {
 "v": 4,
@@ -64737,7 +64745,9 @@
 ],
 "reason": "A permit authority departing from the appeal official's negative advice must give reasons showing why, under D.IV.53 CoDT and the 1991 motivation law; a general point of wider use.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annulment rests on a factual error in one permit's reasoning; settled motivation principles are only restated."
 },
 "rvs:265910": {
 "v": 4,
@@ -65007,7 +65017,8 @@
 ],
 "reason": "Restates when multiple motives in a permit refusal are non-determinant, and when a plea needs procedural interest; Seveso/Natura 2000 permit refusal.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265960"
 },
 "rvs:265959": {
 "v": 4,
@@ -65059,7 +65070,8 @@
 ],
 "reason": "Under CoDT D.IV.26 §2, a permit applicant must hold a real right in the plot; a purchase option does not suffice, and a company acting in its own name lacks standing.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265954"
 },
 "rvs:265953": {
 "v": 4,
@@ -65183,7 +65195,8 @@
 ],
 "reason": "Interprets CoDT art. D.IV.110 restrictively: it does not cover abrogation of a communal building regulation under D.III.15. Also holds that post-decision evidence is generally excluded and sets out ho",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265940"
 },
 "rvs:265939": {
 "v": 4,
@@ -65197,7 +65210,8 @@
 ],
 "reason": "Permit authorities are bound by a regulatory planning measure (mesure d'aménagement) attached to a plan revision and cannot depart from it on opportunity grounds.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265939"
 },
 "rvs:265938": {
 "v": 4,
@@ -65209,7 +65223,8 @@
 ],
 "reason": "Clarifies how CoDT art. D.IV.6 derogation applies to pre-existing buildings and extensions, and what a reasoned departure from an advice must contain.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265938"
 },
 "rvs:265937": {
 "v": 4,
@@ -65236,7 +65251,8 @@
 ],
 "reason": "A permit's statement of reasons must answer specific expert objections to compensation measures; post hoc explanations and permit conditions cannot cure that gap.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265936"
 },
 "rvs:265987": {
 "v": 4,
@@ -67408,15 +67424,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 339,
+"waiting": 325,
 "api": {
 "calls": 14,
-"input_tokens": 224591,
-"output_tokens": 40931,
-"usd": 0.8585
+"input_tokens": 157948,
+"output_tokens": 42785,
+"usd": 0.7437
 },
 "updated": "2026-11-23"
 },
