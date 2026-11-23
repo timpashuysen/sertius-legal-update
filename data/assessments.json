@@ -50099,7 +50099,8 @@
 ],
 "reason": "Collective suspension petitions require a separate rolrecht per petitioner under the DBRC decree, and a plea that merely cites a provision is not a serious plea.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-udn-2526-0458"
 },
 "eu:52026PC0067": {
 "v": 4,
@@ -50119,7 +50120,8 @@
 ],
 "reason": "Delegated act setting certification methodologies for permanent carbon removals.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0285"
 },
 "eu:32026R0244": {
 "v": 4,
@@ -50385,7 +50387,8 @@
 ],
 "reason": "Amends Flemish rules on strategic placement of EV charging infrastructure.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041824"
 },
 "codex:1041817": {
 "v": 4,
@@ -50432,7 +50435,8 @@
 ],
 "reason": "Changes procedure of Flemish administrative courts, which may include permit disputes.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041791"
 },
 "codex:1041789": {
 "v": 4,
@@ -50489,7 +50493,8 @@
 ],
 "reason": "Burden of proof for 'vergund geacht' registration covers construction date and function; cadastral sketches are not binding evidence; refusal reasons must be coherent and specific.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0454"
 },
 "rvvb:RVVB.A.2526.0452": {
 "v": 4,
@@ -50502,7 +50507,8 @@
 ],
 "reason": "Deviations from VLAREM sectoral conditions require technical reasons assessed in the decision, with proof that residual nuisance is acceptable; OVD art. 64 applies to late file changes after an unfavo",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0452"
 },
 "rvvb:RVVB.A.2526.0451": {
 "v": 4,
@@ -50514,7 +50520,8 @@
 ],
 "reason": "Where a municipal plan lacks specific rules on an aspect (density, building depth, privacy), the authority must assess it itself and motivate it; post factum motivation is disregarded.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0451"
 },
 "rvvb:RVVB.A.2526.0450": {
 "v": 4,
@@ -51232,7 +51239,8 @@
 ],
 "reason": "Restricts cobalt, a hazardous substance, in toys; a chemical-substance rule.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026l0192"
 },
 "eu:32026D0257": {
 "v": 4,
@@ -59347,7 +59355,8 @@
 ],
 "reason": "Confirms that a party contesting a expert body's appropriate assessment must prove its defects, and that arguments first raised in a reply pleading are inadmissible.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265587"
 },
 "rvs:265586": {
 "v": 4,
@@ -59384,7 +59393,8 @@
 ],
 "reason": "Grondstofverklaring conditions may bind sales abroad: supplying a material outside Flanders is waste export unless buyers accept the conditions; territorial limits do not bar such conditions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265583"
 },
 "rvs:265582": {
 "v": 4,
@@ -59397,7 +59407,8 @@
 ],
 "reason": "Screening-obligated projects where the municipal college is applicant must go to the deputation; the municipal environmental officer lacks the real autonomy Article 9bis EIA Directive requires.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265582"
 },
 "rvs:265581": {
 "v": 4,
@@ -59631,7 +59642,8 @@
 ],
 "reason": "Individual decisions declaring public utility for sewage infrastructure must be notified individually; the appeal period runs from the third working day after registered-mail dispatch, and a notice sl",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265626"
 },
 "rvs:265625": {
 "v": 4,
@@ -59713,7 +59725,8 @@
 ],
 "reason": "Under CoBAT art. 101 an interruption of works over one year lapses the permit, and a modificatory permit lapses with the initial permit, so the recourse is inadmissible.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265617"
 },
 "rvs:265616": {
 "v": 4,
@@ -59816,7 +59829,8 @@
 ],
 "reason": "Permit authority deviating from a specialist advisory body (GISER runoff advice) must explain why; the reasoning must show why it proceeds without requested studies.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265605"
 },
 "rvs:265604": {
 "v": 4,
@@ -67577,12 +67591,12 @@
 "this_run": 14,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 186,
+"waiting": 172,
 "api": {
 "calls": 14,
-"input_tokens": 199558,
-"output_tokens": 41992,
-"usd": 0.819
+"input_tokens": 166090,
+"output_tokens": 45301,
+"usd": 0.7852
 },
 "updated": "2026-11-23"
 },
