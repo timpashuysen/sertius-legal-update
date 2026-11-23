@@ -52584,7 +52584,8 @@
 ],
 "reason": "Court challenge to CLP delegated regulation classifying a chemical substance.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024tj0174-res"
 },
 "eu:62024TJ0174": {
 "v": 4,
@@ -52595,7 +52596,8 @@
 ],
 "reason": "Court challenge to CLP delegated regulation classifying a chemical substance.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024tj0174"
 },
 "eu:62024TJ0093_RES": {
 "v": 4,
@@ -52814,7 +52816,8 @@
 ],
 "reason": "Sets out cumulative conditions for the DABM plan-MER exemption (small local area or minor change, plus proof of no significant effects) and the Council's limited review of screening decisions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265489"
 },
 "rvs:265488": {
 "v": 4,
@@ -52827,7 +52830,8 @@
 ],
 "reason": "States the cumulative conditions for the DABM plan-MER exemption (small area or minor change, plus proof of no significant effects) and the Council's limited review of screening decisions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265488"
 },
 "rvs:265487": {
 "v": 4,
@@ -52839,7 +52843,8 @@
 ],
 "reason": "Rejects a challenge to a municipal spatial implementation plan; holds that criticism of a non-binding explanatory note does not vitiate a RUP whose binding provision is clear.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265487"
 },
 "rvs:265486": {
 "v": 4,
@@ -52991,7 +52996,8 @@
 ],
 "reason": "Annuls a Flemish ministerial atlas of classified watercourses as a regulatory act reserved to the Flemish government, and finds limited public participation conflicts with Aarhus Article 6.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265472"
 },
 "rvs:265471": {
 "v": 4,
@@ -53713,7 +53719,8 @@
 ],
 "reason": "Changes format of hazardous materials inventory certificate under the Ship Recycling Regulation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0121"
 },
 "eu:32026D0116": {
 "v": 4,
@@ -53725,7 +53732,8 @@
 ],
 "reason": "Changes format of ready-for-recycling certificate under the Ship Recycling Regulation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0116"
 },
 "eu:32026D00685": {
 "v": 4,
@@ -53755,7 +53763,8 @@
 ],
 "reason": "Flemish approval of sampling and analysis compendium used for environmental monitoring; title vague.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041741"
 },
 "rvs:265445": {
 "v": 4,
@@ -53817,7 +53826,8 @@
 ],
 "reason": "States general rules for regularisation permits: the fait accompli must not sway the decision, motivation must be scrupulous, and cost may be weighed. Also sets revirement d'attitude motivation duties",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265437"
 },
 "rvs:265436": {
 "v": 4,
@@ -53830,7 +53840,8 @@
 ],
 "reason": "Restates permit motivation duties (departing from advice), counts customer noise as nuisance, and holds one determinative ground suffices to uphold refusal.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265436"
 },
 "rvs:265435": {
 "v": 4,
@@ -53842,7 +53853,8 @@
 ],
 "reason": "Sets out how D.II.24 CoDT applies in habitat zones: two cumulative conditions, requiring a specific statement of reasons on compatibility with the neighbourhood.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265435"
 },
 "rvs:265434": {
 "v": 4,
@@ -53958,7 +53970,8 @@
 ],
 "reason": "Extends deadline for nature management subsidy applications on afforestation land; nature rule with general effect.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041751"
 },
 "codex:1041742": {
 "v": 4,
@@ -54079,7 +54092,8 @@
 ],
 "reason": "Clarifies that a neighbour's administrative appeal must be assessed generously under Aarhus Art. 9(3); 'betrokken publiek' needs only plausible likely effects, not formalistic proof; annuls the reject",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0423"
 },
 "rvvb:RVVB.A.2526.0422": {
 "v": 4,
@@ -67619,15 +67633,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 14,
+"found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 144,
+"waiting": 130,
 "api": {
 "calls": 14,
-"input_tokens": 173606,
-"output_tokens": 44029,
-"usd": 0.7875
+"input_tokens": 136444,
+"output_tokens": 40954,
+"usd": 0.6824
 },
 "updated": "2026-11-23"
 },
