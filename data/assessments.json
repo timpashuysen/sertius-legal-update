@@ -33960,15 +33960,16 @@
 "written": "d-rvvb-rvvb-2627-0111"
 },
 "rvvb:RVVB.2627.0109": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title gives no case description; may concern a general environmental rule.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Interprets VCRO art. 4.4.9/1: when a permit may deviate from BPA rules older than 15 years, and whether a preliminary question to the Constitutional Court is needed.",
+"confidence": "medium",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2627-0109"
 },
 "rvvb:RVVB.2627.0105": {
@@ -33985,13 +33986,18 @@
 "written": "d-rvvb-rvvb-2627-0105"
 },
 "rvvb:RVVB.2627.0104": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of refusal of one individual wind turbine permit.",
-"confidence": "high",
-"at": "2026-11-22"
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"reason": "Wind turbine refusal annulled or assessed: whether a KMI radar-impact advice can ground refusal, and whether an impact study can be a permit condition or monitoring measure.",
+"confidence": "medium",
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2627-0104"
 },
 "rvvb:RVVB.2627.0103": {
 "v": 3,
@@ -56463,15 +56469,16 @@
 "written": "d-rvvb-rvvb-2526-1089"
 },
 "rvvb:RVVB.2526.1088": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title only shows case number; RvVB ruling may interpret planning rules.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Annuls a permit for insufficient motivation of a parking-ordinance deviation: deviation grounds must be checked individually, and unlisted functions need reasoned classification.",
+"confidence": "high",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2526-1088"
 },
 "rvvb:RVVB.2526.1086": {
@@ -56677,15 +56684,17 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2526.1064": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"environmental-law",
+"permitting"
 ],
-"reason": "Title only shows case number; RvVB ruling may interpret planning rules.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Nature test under the Natuurdecreet: the zorgplicht must first check avoidable harm before compensation; the huiskavel exemption for hedge removal and expropriation as a concrete future fact.",
+"confidence": "high",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2526-1064"
 },
 "rvvb:RVVB.2526.1063": {
@@ -56762,7 +56771,8 @@
 ],
 "reason": "Interprets whether residential outbuildings fall under the zonevreemde woning rules (art. 4.4.13 VCRO, volume cap) or the constructions rules (art. 4.4.17 VCRO) when rebuilt on the same site.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1054"
 },
 "rvvb:RVVB.2526.1053": {
 "v": 2,
@@ -56826,7 +56836,8 @@
 ],
 "reason": "Annuls permit: binding ANB advice under art. 4.3.3 VCRO cannot be overridden; species/vegetation prohibitions must be resolved before permit, not deferred to later derogation.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1047"
 },
 "rvvb:RVVB.2526.1043": {
 "v": 3,
@@ -56838,7 +56849,8 @@
 ],
 "reason": "Clarifies VCRO 'vergund geacht' rules: applicant bears burden of proof, authority's active investigation duty is not a reversed burden, and Council reviews legality only.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1043"
 },
 "rvvb:RVVB.2526.1042": {
 "v": 2,
@@ -56932,7 +56944,8 @@
 ],
 "reason": "Holds that art. 3(2) of the Emergency Regulation applies independently of its unextended first paragraph and must be weighed in the good spatial planning assessment of a wind turbine permit.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1029"
 },
 "rvvb:RVVB.2526.1027": {
 "v": 2,
@@ -56955,7 +56968,8 @@
 ],
 "reason": "Council rules on wind turbine permit: visualisation study adequacy under RUP, noise/shadow cumulative assessment, and that mitigation measures included in the application need no separate condition; a",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1026"
 },
 "rvvb:RVVB.2526.1024": {
 "v": 3,
@@ -56967,7 +56981,8 @@
 ],
 "reason": "Art. 4.4.1/0 VCRO applies to pending files since 20 July 2024; deviations need a motivated applicant request, and later justification cannot cure the file.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1024"
 },
 "rvvb:RVVB.2526.1023": {
 "v": 3,
@@ -56980,7 +56995,8 @@
 ],
 "reason": "Annuls a class 3 notification for failing to assess compatibility with APA zoning (VLAREM II 4.1.1.1, OMV decree art. 111); authority must first locate the project in zones and test compliance.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1023"
 },
 "rvvb:RVVB.2526.1022": {
 "v": 3,
@@ -56992,7 +57008,9 @@
 ],
 "reason": "Confirms the 'betrokken publiek' standing test: adjacent owners need only show probable effects, and the opposing party must prove those effects are excluded.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Interim ruling: applies settled standing case law, reopens debates and postpones the case pending Council of State; nothing annulled."
 },
 "rvvb:RVVB.2526.1020": {
 "v": 3,
@@ -57005,7 +57023,8 @@
 ],
 "reason": "Annuls a permit: zonevreemde functiewijziging under art. 4.4.23 VCRO requires concrete testing of cumulative conditions; lack of future erkenning is not a legality ground.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1020"
 },
 "rvvb:RVVB.2526.1019": {
 "v": 3,
@@ -57017,7 +57036,8 @@
 ],
 "reason": "Annulment: the appeal authority must examine whether the simplified or ordinary permit procedure applies under art. 13 Omgevingsvergunningsbesluit, judged from the application.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1019"
 },
 "rvvb:RVVB.2526.1018": {
 "v": 2,
@@ -58655,16 +58675,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0914": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0914"
+"reason": "Annulment: permit authority must concretely motivate a farm's viability (seasonal leases, main occupation) when advice is divided, not just copy the applicant's arguments.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0912": {
 "v": 3,
@@ -59147,16 +59167,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0852": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Court ruling with no visible subject; permit case, needs checking.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0852"
+"reason": "Clarifies that a deviation from BPA rules (flat roof) excludes the simplified permit procedure, that the appeal body must check this, and that only the tacit final-instance refusal is appealable.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0851": {
 "v": 3,
@@ -59471,16 +59491,16 @@
 "written": "d-rvvb-rvvb-2526-0816"
 },
 "rvvb:RVVB.2526.0815": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title too vague; RvVB ruling on permit law, needs review.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0815"
+"reason": "Simplified permit procedure unavailable where application conflicts with subdivision and PRUP rules; appeal body must check the procedure ex officio and cannot cure it by conditions.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0814": {
 "v": 2,
@@ -59541,11 +59561,14 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0805": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on one individual regularisation permit for masts in a garden.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Deputation must give reasons why it departs from the provincial officer's advice; generic statements and unanswered safety objections don't satisfy the Motivation Act.",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -59987,16 +60010,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0752": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0752"
+"reason": "Restates who may appeal an omgevingsvergunning: no actio popularis, no suing for unnamed others, personal consequences and interest must be shown in the petition.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0751": {
 "v": 2,
@@ -64912,35 +64935,35 @@
 "summary": {
 "scope_from": "2026-01-01",
 "in_scope": 7042,
-"assessed": 5809,
-"waiting": 1233,
-"relevant": 604,
+"assessed": 5818,
+"waiting": 1224,
+"relevant": 613,
 "not_relevant": 4879,
 "excluded_by_rule": 326,
-"this_run": 13,
+"this_run": 9,
 "api": {
 "calls": 260,
-"input_tokens": 3695425,
-"output_tokens": 103338,
-"usd": 0.4212
+"input_tokens": 3666751,
+"output_tokens": 103777,
+"usd": 0.4186
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
+"this_run": 13,
+"found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 443,
+"waiting": 438,
 "api": {
 "calls": 14,
-"input_tokens": 249030,
-"output_tokens": 39571,
-"usd": 0.8938
+"input_tokens": 258380,
+"output_tokens": 45341,
+"usd": 0.9702
 },
 "updated": "2026-11-23"
 },
 "writer_v": 2,
 "rulings_reset": 228,
-"last_error": "Expecting value: line 1 column 13 (char 12)"
+"last_error": "no JSON in reply"
 }
