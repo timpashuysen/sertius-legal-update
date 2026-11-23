@@ -20914,7 +20914,8 @@
 ],
 "reason": "Amends the regulatory part of the Walloon Environment Code; title is general, so verify scope.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-140995"
 },
 "wallex:140895": {
 "v": 2,
@@ -20952,7 +20953,8 @@
 ],
 "reason": "Amends Forest Code rules on forest health phenomena, affecting nature management.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-140684"
 },
 "wallex:140566": {
 "v": 2,
@@ -20981,7 +20983,8 @@
 ],
 "reason": "Designates the administration for the waste prevention tax regime; scope is unclear from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-140547"
 },
 "wallex:140545": {
 "v": 2,
@@ -21048,7 +21051,9 @@
 ],
 "reason": "Amends CoDT regulatory part on territorial development conference subsidy rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Changes only the funding rules (duration, payment, monitoring) of a subsidy to the universities of the CPDT; no environmental obligations for companies or developers."
 },
 "gwh:92/2026": {
 "v": 2,
@@ -21259,7 +21264,8 @@
 ],
 "reason": "Habitats and birds directives: appropriate assessment of plans or projects affecting protected sites.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62025cj0027-res"
 },
 "eu:62025CJ0027": {
 "v": 2,
@@ -21270,7 +21276,8 @@
 ],
 "reason": "Habitats and birds directives: appropriate assessment of plans or projects affecting protected sites.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62025cj0027"
 },
 "eu:62025CJ0026": {
 "v": 2,
@@ -21497,7 +21504,9 @@
 ],
 "reason": "Accession to nuclear damage liability convention affects nuclear operators' compensation obligations; major accident relevance.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Only authorises Lithuania and Poland to join a nuclear liability convention; no obligations for Belgian companies, developers or authorities."
 },
 "eu:52026PC0170": {
 "v": 2,
@@ -21562,7 +21571,8 @@
 ],
 "reason": "Implementing rules for digital product passport registry under ESPR ecodesign regulation.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1778"
 },
 "eu:32026R1737": {
 "v": 2,
@@ -21701,7 +21711,8 @@
 ],
 "reason": "Flemish amendment to list of low-ammonia stable systems; ammonia emissions and manure rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042315"
 },
 "codex:1042262": {
 "v": 2,
@@ -57269,7 +57280,8 @@
 "topics": [],
 "reason": "No description; court ruling could not be assessed from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0980"
 },
 "rvvb:RVVB.2526.0979": {
 "v": 2,
@@ -57296,7 +57308,8 @@
 "topics": [],
 "reason": "No description; court ruling could not be assessed from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0977"
 },
 "rvvb:RVVB.2526.0976": {
 "v": 2,
@@ -57343,7 +57356,8 @@
 ],
 "reason": "Ruling on manure reduction notification for cattle farms and manure processing.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0971"
 },
 "rvvb:RVVB.2526.0970": {
 "v": 2,
@@ -57433,7 +57447,8 @@
 "topics": [],
 "reason": "No description; court ruling could not be assessed from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2526-0959"
 },
 "rvvb:RVVB.2526.0958": {
 "v": 2,
@@ -57469,7 +57484,9 @@
 "topics": [],
 "reason": "Title too vague to tell whether it concerns a general environmental rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Interim procedural ruling reopening debates over the registry's service of documents in a swimming pool permit appeal; no substantive environmental obligations clarified."
 },
 "rvvb:RVVB.2526.0954": {
 "v": 2,
@@ -62716,36 +62733,189 @@
 "reason": "Individual unique permit for one wind turbine.",
 "confidence": "medium",
 "at": "2026-11-23"
+},
+"rvs:265987": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual disciplinary dismissal of a civil servant; not an environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265986": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual withdrawal of a firearms licence by the Justice minister.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265985": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension and annulment of one urban planning permit for a single house.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265984": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual decision on a seized dog's return; animal welfare, one case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265983": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one unique permit for two wind turbines; individual project permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265981": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual immigration decision by the Office des Etrangers.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265980": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual provincial decision on building plans for one private house.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265979": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal to renew one individual professional card.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265978": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Seizure of birds of prey; individual animal welfare enforcement case.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265977": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Seizure of rabbits owned by one person; animal welfare case.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265974": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual food-chain safety measures against one company after PFOS contamination.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265971": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Inadmissibility of an administrative appeal in Departement Omgeving; procedural, context unclear.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265970": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Inadmissibility of an administrative appeal in Departement Omgeving; procedural, context unclear.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265969": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Inadmissibility of an administrative appeal in Departement Omgeving; procedural, context unclear.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265966": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"soil"
+],
+"reason": "Market consultation on public-domain concession for sand extraction and dredging spoil storage.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265965": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one grange conversion in Ath.",
+"confidence": "medium",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6835,
-"assessed": 6835,
+"in_scope": 6851,
+"assessed": 6851,
 "waiting": 0,
-"relevant": 861,
-"not_relevant": 5655,
+"relevant": 865,
+"not_relevant": 5667,
 "excluded_by_rule": 319,
-"this_run": 25,
+"this_run": 16,
 "api": {
 "calls": 1,
-"input_tokens": 5369,
-"output_tokens": 2117,
-"usd": 0.0016
+"input_tokens": 3863,
+"output_tokens": 2299,
+"usd": 0.0015
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
+"this_run": 11,
+"found_not_relevant_on_reading": 3,
 "failed": 0,
-"waiting": 593,
+"waiting": 583,
 "api": {
 "calls": 14,
-"input_tokens": 123106,
-"output_tokens": 34884,
-"usd": 0.5951
+"input_tokens": 152551,
+"output_tokens": 36823,
+"usd": 0.6733
 },
 "updated": "2026-11-23"
 }
