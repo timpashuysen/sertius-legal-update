@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:56:41Z",
+ "updated": "2026-11-23T19:09:28Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -32572,6 +32572,494 @@
    ],
    "inbox": [
     "eu:32026R0394"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0389",
+   "d": "2026-02-23",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU ETS: revised soda ash benchmark of 1.168 set for 2025 free allocation, adding intermediary CO2",
+   "a": "The Commission revises the soda ash benchmark value used for free allocation of emission allowances for 2025 to 1.168. The value for 2021-2024 stays at 0.753.",
+   "b": "The change concerns soda ash producers in the EU ETS and the authorities that calculate their free allocation. Since the revised definition of 'emissions' in Directive 2003/87/EC and the new system boundaries in Annex IV to Regulation (EU) 2018/2066, intermediary CO2 from soda ash is monitored from 1 January 2025 and reported as emitted from 2026. To reflect this, the stoichiometric factor of 0.415 tCO2/t soda ash is added to the existing value of 0.753, giving 1.168 for the calendar year 2025. The soda ash row in Section 1 of the Annex to Implementing Regulation (EU) 2021/447 is replaced accordingly, with 0.753 applying for 2021-2024 and 1.168 for 2025. The Regulation was adopted on 23 February 2026 and published on 26 February 2026. It enters into force on the twentieth day after publication, which is 18 March 2026.",
+   "nl": [
+    "ETS: herziene benchmarkwaarde natriumcarbonaat van 1,168 voor gratis toewijzing 2025, met tussenliggende CO2",
+    "De Commissie herziet de benchmarkwaarde voor natriumcarbonaat die voor de gratis toewijzing van emissierechten voor 2025 geldt, naar 1,168. De waarde voor 2021-2024 blijft 0,753.",
+    "De wijziging treft producenten van natriumcarbonaat onder het EU-ETS en de autoriteiten die hun gratis toewijzing berekenen. Sinds de herziene definitie van 'emissies' in Richtlijn 2003/87/EG en de nieuwe systeemgrenzen in bijlage IV bij Verordening (EU) 2018/2066 wordt tussenliggend CO2 van natriumcarbonaat vanaf 1 januari 2025 gemonitord en vanaf 2026 als uitgestoten gerapporteerd. Daarom wordt de stoichiometrische emissiefactor van 0,415 tCO2/t natriumcarbonaat opgeteld bij de bestaande waarde van 0,753, wat 1,168 oplevert voor kalenderjaar 2025. De rij voor natriumcarbonaat in deel 1 van de bijlage bij Uitvoeringsverordening (EU) 2021/447 wordt vervangen: 0,753 geldt voor 2021-2024 en 1,168 voor 2025. De verordening is vastgesteld op 23 februari 2026 en gepubliceerd op 26 februari 2026. Ze treedt in werking op de twintigste dag na publicatie, dus op 18 maart 2026."
+   ],
+   "fr": [
+    "SEQE : valeur de référentiel révisée du carbonate de soude de 1,168 pour l'allocation gratuite 2025, CO2 intermédiaire inclus",
+    "La Commission révise à 1,168 la valeur du référentiel pour le carbonate de soude utilisée pour l'allocation gratuite de quotas d'émission pour 2025. La valeur applicable pour 2021-2024 reste de 0,753.",
+    "La modification concerne les producteurs de carbonate de soude soumis au SEQE-UE et les autorités qui calculent leur allocation gratuite. Depuis la nouvelle définition des « émissions » dans la directive 2003/87/CE et les nouvelles limites du système fixées à l'annexe IV du règlement (UE) 2018/2066, le CO2 intermédiaire du carbonate de soude est surveillé à partir du 1er janvier 2025 et déclaré comme émis à partir de 2026. En conséquence, le facteur d'émission stœchiométrique de 0,415 tCO2/t de carbonate de soude est ajouté à la valeur existante de 0,753, ce qui donne 1,168 pour l'année civile 2025. La ligne relative au carbonate de soude à la section 1 de l'annexe du règlement d'exécution (UE) 2021/447 est remplacée : 0,753 s'applique pour 2021-2024 et 1,168 pour 2025. Le règlement a été adopté le 23 février 2026 et publié le 26 février 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 18 mars 2026."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/389 amending the soda ash row in Section 1 of the Annex to Implementing Regulation (EU) 2021/447 (EU ETS benchmark values)",
+   "dates": {
+    "adopted": "2026-02-23",
+    "published": "2026-02-26",
+    "in_force": "2026-03-18"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/389 of 23 February 2026 amending Implementing Regulation (EU) 2021/447 as regards the determina",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0389"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0389"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-udn-2526-0518",
+   "d": "2026-02-20",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb refuses urgent suspension of a permit: harm not shown per applicant, works already built, delay",
+   "a": "The Council for Permit Disputes rejected a request for suspension in extreme urgency of an environmental permit for a horticultural business in Wetteren. Neighbouring applicants must individually substantiate serious harm, and cannot create the urgency themselves by waiting after works start.",
+   "b": "The ruling concerns neighbours who ask the Council for Permit Disputes (RvVb) to suspend an environmental permit in extreme urgency (UDN), and the permit holders and authorities involved. The permit at issue covers a greenhouse, shed, office, hardstanding and Class 3 activities for a horticultural business in Wetteren; the dwelling was excluded. The Council recalls that under article 40, §3 of the DBRC decree the applicant must show precisely and plausibly both serious harm and that even a normal suspension procedure would come too late. The procedure must remain very exceptional. Fear of harm may suffice to establish an interest in the claim, but urgency requires more precise evidence. Visual harm must be tied to each applicant's own situation (sight lines, distance, photos from living spaces), no right to a view exists, and a pure legality objection does not establish urgency. The claim failed on three grounds. The harm was not individualised. The steel frame of the greenhouse and the overbuilding of the former neighbourhood path were already in place, so suspension could no longer prevent the harm. The applicants also waited over two months after works began on 3 December 2025 before filing on 10 February 2026, thereby creating the urgency themselves. The Council did not examine the merits of the grounds for annulment and charged the €300 registration fee to the applicants. The ruling was delivered on 20 February 2026 after a hearing on 17 February 2026; the permit is immediately enforceable.",
+   "nl": [
+    "RvVb weigert schorsing bij UDN van vergunning: nadeel niet per verzoeker aangetoond, werken reeds opgetrokken, getalm",
+    "De Raad voor Vergunningsbetwistingen verwerpt de vordering tot schorsing bij uiterst dringende noodzakelijkheid van een omgevingsvergunning voor een tuinbouwbedrijf in Wetteren. Omwonende verzoekers moeten zwaarwichtige nadelen individueel aantonen en mogen de hoogdringendheid niet zelf creëren door na de start van de werken te talmen.",
+    "Het arrest betreft omwonenden die de Raad voor Vergunningsbetwistingen (RvVb) vragen een omgevingsvergunning te schorsen bij uiterst dringende noodzakelijkheid (UDN), alsook de vergunninghouders en overheden die erbij betrokken zijn. De bestreden vergunning betreft een serre, loods, bureel, erfverharding en klasse 3-activiteiten voor een tuinbouwbedrijf in Wetteren; de bedrijfswoning werd uit de vergunning gesloten. De Raad herinnert eraan dat de verzoeker op grond van artikel 40, §3 DBRC-decreet voldoende precies en aannemelijk moet aantonen dat hij zwaarwichtige nadelige gevolgen kan ondervinden en dat zelfs een gewone schorsingsprocedure te laat zou komen. De procedure moet zeer uitzonderlijk blijven. De vrees voor nadelen kan volstaan voor het belang bij de vordering, maar de uiterst dringende noodzakelijkheid vergt een grotere nauwkeurigheid in de bewijsvoering. Visuele hinder moet worden gekoppeld aan de persoonlijke situatie van elke verzoeker (zichtlijnen, afstand, foto's vanuit de leefruimtes), er bestaat geen recht op een uitzicht, en een loutere wettigheidskritiek volstaat niet om de hoogdringendheid te onderbouwen. De vordering faalde om drie redenen. De nadelen werden niet geïndividualiseerd. Het metalen framewerk van de serre en de overbouwing van de voormalige buurtweg waren reeds uitgevoerd, zodat een schorsing de nadelen niet meer kon voorkomen. De verzoekers wachtten bovendien meer dan twee maanden na de start van de werken op 3 december 2025 met hun vordering van 10 februari 2026 en hebben de hoogdringendheid zo zelf bewerkstelligd. De Raad onderzocht de middelen ten gronde niet en legde het rolrecht van 300 euro ten laste van de verzoekers. Het arrest werd uitgesproken op 20 februari 2026 na de zitting van 17 februari 2026; de vergunning is onmiddellijk uitvoerbaar."
+   ],
+   "fr": [
+    "Le CCA refuse la suspension d'extrême urgence d'un permis : préjudice non établi par requérant, travaux avancés, retard",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette la demande de suspension d'extrême urgence d'un permis d'environnement pour une exploitation horticole à Wetteren. Les voisins requérants doivent établir individuellement un préjudice grave et ne peuvent créer eux-mêmes l'urgence en tardant après le début des travaux.",
+    "L'arrêt concerne des riverains qui demandent au Conseil pour les contestations des autorisations (RvVb) de suspendre un permis d'environnement en extrême urgence (UDN), ainsi que les titulaires de permis et les autorités concernées. Le permis attaqué porte sur une serre, un hangar, un bureau, des revêtements de cour et des activités de classe 3 pour une exploitation horticole à Wetteren ; le logement de l'exploitant a été exclu du permis. Le Conseil rappelle qu'en vertu de l'article 40, §3 du décret DBRC, le requérant doit démontrer de manière précise et plausible qu'il peut subir des conséquences préjudiciables graves et que même une procédure de suspension ordinaire interviendrait trop tard. La procédure doit rester très exceptionnelle. La crainte de préjudices peut suffire pour justifier l'intérêt à agir, mais l'extrême urgence exige une plus grande précision dans la preuve. Une nuisance visuelle doit être rattachée à la situation personnelle de chaque requérant (lignes de vue, distance, photos depuis les pièces de vie), il n'existe pas de droit à une vue, et une simple critique de légalité ne suffit pas à établir l'urgence. La demande a échoué pour trois motifs. Les préjudices n'ont pas été individualisés. L'ossature métallique de la serre et la construction sur l'ancien chemin vicinal étaient déjà réalisées, de sorte qu'une suspension ne pouvait plus prévenir ces préjudices. Les requérants ont en outre attendu plus de deux mois après le début des travaux, le 3 décembre 2025, pour agir le 10 février 2026, créant ainsi eux-mêmes l'urgence. Le Conseil n'a pas examiné les moyens au fond et a mis à charge des requérants le droit de rôle de 300 euros. L'arrêt a été prononcé le 20 février 2026 après l'audience du 17 février 2026 ; le permis est immédiatement exécutoire."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.UDN.2526.0518 – schorsing bij uiterst dringende noodzakelijkheid, artikel 40, §3 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-02-20"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.UDN.2526.0518. schorsing bij uiterst dringende noodzakelijkheid (UDN) van de beslissing van d",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.UDN.2526.0518.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.UDN.2526.0518"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-s-2526-0514",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council suspends wind farm permit: no purely formal check against wind circular for spatial planning",
+   "a": "The Council for Permit Disputes suspended an environmental permit for three repowered wind turbines in Brecht. It held that the assessment of good spatial planning cannot be reduced to a formal check against circular OMG/2025/01 and must be concrete and reasoned.",
+   "b": "The ruling concerns permitting authorities and wind developers in Flanders. It suspended the permit of 3 October 2025 for replacing three 150 m turbines with three turbines of up to 240 m tip height and 175 m rotor diameter. One of the new turbines is placed in a second line, further from the E19 motorway, in open farmland. The Council confirms that under Article 4.3.1 VCRO the authority has wide discretion on good spatial planning but must base its decision on clear reasons and the existing local situation. Circular OMG/2025/01 is not binding, but the authority may follow its assessment framework. It may not limit its review to a formal check against the circular's conditions and must assess the project concretely, while the applicant must submit a location note justifying the site. Where objections and an unfavourable municipal opinion raise the changed scale and siting, the Council considers that a stricter duty to give reasons applies. On first reading, the sections on scale, visual and formal elements and land use and building density were too brief or merely descriptive. This was sufficient for suspension, and the Council examined only the second part of the first ground. Costs of the suspension proceedings are borne by the authority. The ruling is dated 19 February 2026; the final decision on annulment is not part of it.",
+   "nl": [
+    "Raad schorst vergunning windturbines: geen louter formele toets aan windomzendbrief voor goede ruimtelijke ordening",
+    "De Raad voor Vergunningsbetwistingen schorst een omgevingsvergunning voor drie vervangende windturbines in Brecht. De beoordeling van de goede ruimtelijke ordening mag niet beperkt blijven tot een formalistische toets aan omzendbrief OMG/2025/01 en moet concreet en gemotiveerd zijn.",
+    "Het arrest treft vergunningverlenende overheden en windprojectontwikkelaars in Vlaanderen. Het schorst de vergunning van 3 oktober 2025 voor de vervanging van drie turbines van 150 m door drie turbines met een maximale tiphoogte van 240 m en een rotordiameter van 175 m. Eén van de nieuwe turbines wordt in tweede lijn ingeplant, verder van de E19, in open landbouwgebied. De Raad bevestigt dat de overheid krachtens artikel 4.3.1 VCRO een ruime beoordelingsbevoegdheid heeft inzake de goede ruimtelijke ordening, maar haar beslissing op duidelijke motieven en de bestaande toestand in de omgeving moet steunen. Omzendbrief OMG/2025/01 is niet verordenend, maar de overheid mag het afwegingskader ervan volgen. Ze mag zich niet beperken tot een formalistische toets aan de randvoorwaarden van de omzendbrief en moet het project concreet beoordelen, terwijl de aanvrager een lokalisatienota moet indienen waarin de locatiekeuze wordt gemotiveerd. Wanneer bezwaren en een ongunstig gemeentelijk advies wijzen op de gewijzigde schaal en inplanting, geldt volgens de Raad een verscherpte motiveringsplicht. Op het eerste gezicht waren de onderdelen schaal, visueel-vormelijke elementen en ruimtegebruik en bouwdichtheid te summier of louter beschrijvend. Dat volstond voor de schorsing; de Raad onderzocht enkel het tweede onderdeel van het eerste middel. De kosten van het schorsingsberoep komen ten laste van de overheid. Het arrest dateert van 19 februari 2026; de eindbeslissing over de vernietiging maakt er geen deel van uit."
+   ],
+   "fr": [
+    "Le Conseil suspend un permis éolien : pas de simple contrôle formel au regard de la circulaire pour le bon aménagement",
+    "Le Conseil pour les contestations des autorisations suspend un permis d'environnement pour trois éoliennes de remplacement à Brecht. L'appréciation du bon aménagement du territoire ne peut se limiter à un contrôle formel au regard de la circulaire OMG/2025/01 et doit être concrète et motivée.",
+    "L'arrêt concerne les autorités délivrant les permis et les développeurs de projets éoliens en Flandre. Il suspend le permis du 3 octobre 2025 prévoyant le remplacement de trois éoliennes de 150 m par trois éoliennes d'une hauteur de pale maximale de 240 m et d'un diamètre de rotor de 175 m. L'une des nouvelles éoliennes est implantée en seconde ligne, plus loin de l'E19, en zone agricole ouverte. Le Conseil confirme qu'en vertu de l'article 4.3.1 du VCRO (Code flamand de l'aménagement du territoire), l'autorité dispose d'un large pouvoir d'appréciation quant au bon aménagement du territoire, mais doit fonder sa décision sur des motifs clairs et sur la situation existante dans l'environnement. La circulaire OMG/2025/01 n'est pas réglementaire, mais l'autorité peut suivre son cadre d'évaluation. Elle ne peut se limiter à un contrôle formel des conditions de la circulaire et doit apprécier le projet concrètement, tandis que le demandeur doit introduire une note de localisation justifiant le choix du site. Lorsque des réclamations et un avis communal défavorable soulignent le changement d'échelle et d'implantation, le Conseil estime qu'une obligation de motivation renforcée s'applique. À première vue, les volets relatifs à l'échelle, aux éléments visuels et formels et à l'utilisation de l'espace et à la densité de construction étaient trop succincts ou purement descriptifs. Cela suffisait pour la suspension ; le Conseil n'a examiné que la deuxième branche du premier moyen. Les dépens de la procédure en suspension sont à charge de l'autorité. L'arrêt date du 19 février 2026 ; la décision finale sur l'annulation n'en fait pas partie."
+   ],
+   "scope": "Arrest RvVb.S.2526.0514 van 19 februari 2026: artikel 4.3.1, §1 en §2 VCRO en omzendbrief OMG/2025/01; schorsing omgevingsvergunning voor drie windturbines (Brecht)",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.S.2526.0514. schorsing en de vernietiging van de beslissing van de verwerende partij van 3 ok",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.S.2526.0514.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.S.2526.0514"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0515",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls permit for farm-to-housing conversion: 'mainly permitted' status was not properly motivated",
+   "a": "The Council for Permit Disputes annulled a provincial permit for converting a former farmstead in agricultural zoning to housing. The permitting authority only asserted that the buildings are 'mainly permitted' (hoofdzakelijk vergund) under Article 4.4.23 VCRO, although this was disputed in the appeal.",
+   "b": "The ruling concerns permit applicants and permitting authorities dealing with zone-alien function changes under Article 4.4.23 VCRO, here a former farmstead in agricultural zoning converted to residential use. The Council confirms that such a conversion is only possible if, among other conditions, the building complex is mainly permitted (Article 4.1.1, 7° VCRO). When this is contested in the administrative appeal and the file and permit history leave doubts, the authority must show it in its decision on the basis of the material and the motivation duty. A bare statement that the buildings are 'mainly permitted' does not meet that duty. A reference to the provincial environmental officer's report does not cure this either, since the authority described that report as differing from its own view and it did not clearly find all the buildings concerned to be mainly permitted. The Council annulled the permit of 6 February 2025 and ordered the deputation to take a new decision on the administrative appeal within three months, starting the day after notification of the ruling. The other grounds were not examined. Costs of 840 euro are charged to the deputation. The ruling was delivered on 19 February 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor functiewijziging landbouwzetel naar wonen: hoofdzakelijk vergund karakter onvoldoende gemotiveerd",
+    "De Raad voor Vergunningsbetwistingen vernietigt een provinciale vergunning voor de functiewijziging van een voormalige landbouwzetel in agrarisch gebied naar wonen. De vergunningverlenende overheid stelde enkel dat de gebouwen hoofdzakelijk vergund zijn (artikel 4.4.23 VCRO), terwijl dat in het beroep werd betwist.",
+    "Het arrest betreft aanvragers en vergunningverlenende overheden bij zonevreemde functiewijzigingen op grond van artikel 4.4.23 VCRO, hier een voormalige landbouwzetel in agrarisch gebied die naar wonen wordt omgevormd. De Raad bevestigt dat een dergelijke functiewijziging enkel kan als onder meer het gebouwencomplex hoofdzakelijk vergund is (artikel 4.1.1, 7° VCRO). Wanneer dit in het administratief beroep wordt betwist en het dossier en de vergunningshistoriek twijfels laten bestaan, moet de overheid dit in haar beslissing aantonen, op basis van de stukken en de motiveringsplicht. De loutere vaststelling dat de gebouwen 'hoofdzakelijk vergund' zijn, volstaat niet. Ook een verwijzing naar het verslag van de provinciale omgevingsambtenaar verhelpt dat niet, omdat de overheid dat verslag als andersluidend omschreef en daarin niet duidelijk voor alle betrokken gebouwen werd vastgesteld dat ze hoofdzakelijk vergund zijn. De Raad vernietigt de vergunning van 6 februari 2025 en beveelt de deputatie binnen drie maanden, te rekenen vanaf de dag na de betekening van het arrest, een nieuwe beslissing over het bestuurlijk beroep te nemen. De overige middelen werden niet onderzocht. De kosten van 840 euro komen ten laste van de deputatie. Het arrest werd uitgesproken op 19 februari 2026."
+   ],
+   "fr": [
+    "Le CCA annule un permis de changement d'affectation d'une ferme en logement : caractère principalement autorisé insuffisamment motivé",
+    "Le Conseil du contentieux des autorisations (RvVb) annule un permis provincial pour le changement d'affectation d'une ancienne exploitation agricole en zone agricole vers le logement. L'autorité délivrante s'est bornée à affirmer que les bâtiments sont principalement autorisés (article 4.4.23 VCRO), alors que ce point était contesté en recours.",
+    "L'arrêt concerne les demandeurs et les autorités délivrantes pour les changements d'affectation non conformes à la zone sur la base de l'article 4.4.23 VCRO, ici une ancienne exploitation agricole en zone agricole transformée en logement. Le Conseil confirme qu'un tel changement n'est possible que si, entre autres conditions, l'ensemble de bâtiments est principalement autorisé (article 4.1.1, 7° VCRO). Lorsque ce point est contesté en recours administratif et que le dossier et l'historique des permis laissent subsister des doutes, l'autorité doit le démontrer dans sa décision, sur la base des pièces et de l'obligation de motivation. La simple affirmation que les bâtiments sont « principalement autorisés » ne suffit pas. Un renvoi au rapport du fonctionnaire provincial de l'environnement n'y remédie pas non plus, car l'autorité a qualifié ce rapport de divergent et celui-ci ne constatait pas clairement que tous les bâtiments concernés étaient principalement autorisés. Le Conseil annule le permis du 6 février 2025 et ordonne à la députation de prendre une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. Les autres moyens n'ont pas été examinés. Les dépens de 840 euros sont à charge de la députation. L'arrêt a été prononcé le 19 février 2026."
+   ],
+   "scope": "Artikel 4.4.23 en artikel 4.1.1, 7° VCRO (zonevreemde functiewijziging, hoofdzakelijk vergund); artikelen 2 en 3 Motiveringswet",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0515. vernietiging van de beslissing van de verwerende partij van 6 februari 2025, waa",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0515.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0515"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0510",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: vakantieappartement mag in woonzone-RUP via interpretatie van een ander voorschrift van hetzelfde RUP",
+   "a": "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een omgevingsvergunning voor een vakantieappartement voor maximaal 6 personen in Nieuwpoort. Hij bevestigt dat de overheid bij de toets aan een RUP-voorschrift geen appreciatiebevoegdheid heeft, maar wel een ander verordenend voorschrift van hetzelfde RUP mag gebruiken om een onduidelijk begrip uit te leggen.",
+   "b": "Het arrest is van belang voor vergunningverlenende overheden, aanvragers en derden die een vergunning betwisten in een zone waarvan het RUP een begrip niet definieert. De Raad herhaalt dat de overheid bij de toets aan de stedenbouwkundige voorschriften (artikel 4.3.1, §1, eerste lid, 1°, a) VCRO) geen appreciatiebevoegdheid heeft: er bestaat slechts één juridisch correcte interpretatie, die zij moet achterhalen, en de Raad toetst dat enkel op wettigheid. In de 'specifieke projectzone' van het RUP 'Nieuwpoort Stadscentrum' zijn naast wonen ook 'activiteiten en voorzieningen die verwant zijn aan het wonen' toegelaten. Dat begrip wordt niet gedefinieerd en de voorbeeldenlijst in de toelichting is niet limitatief. De Raad oordeelt dat de overheid mag nagaan hoe een ander verordenend voorschrift van hetzelfde RUP het begrip invult, ook al geldt die invulling formeel enkel in een andere zone. Artikel 1 van het RUP rekent verblijfsrecreatie uitdrukkelijk tot die voorzieningen, en artikel 5 heeft geen limitatieve opsomming die dat uitsluit. De functiewijziging van een appartement naar een vakantieappartement is daardoor verenigbaar met artikel 5.1 van het RUP. Ook de vereenvoudigde vergunningsprocedure was correct, omdat de aanvraag niet strijdig bleek met het RUP. Het beroep tot vernietiging wordt verworpen, de vergunning van 7 november 2024 blijft bestaan en het verzoek tot indeplaatsstelling (artikel 37, §2 DBRC-decreet) wordt niet toegepast. De kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 840 euro) komen ten laste van de verzoeker. Het arrest werd uitgesproken op 19 februari 2026.",
+   "nl": [
+    "RvVb: vakantieappartement mag in woonzone-RUP via interpretatie van een ander voorschrift van hetzelfde RUP",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een omgevingsvergunning voor een vakantieappartement voor maximaal 6 personen in Nieuwpoort. Hij bevestigt dat de overheid bij de toets aan een RUP-voorschrift geen appreciatiebevoegdheid heeft, maar wel een ander verordenend voorschrift van hetzelfde RUP mag gebruiken om een onduidelijk begrip uit te leggen.",
+    "Het arrest is van belang voor vergunningverlenende overheden, aanvragers en derden die een vergunning betwisten in een zone waarvan het RUP een begrip niet definieert. De Raad herhaalt dat de overheid bij de toets aan de stedenbouwkundige voorschriften (artikel 4.3.1, §1, eerste lid, 1°, a) VCRO) geen appreciatiebevoegdheid heeft: er bestaat slechts één juridisch correcte interpretatie, die zij moet achterhalen, en de Raad toetst dat enkel op wettigheid. In de 'specifieke projectzone' van het RUP 'Nieuwpoort Stadscentrum' zijn naast wonen ook 'activiteiten en voorzieningen die verwant zijn aan het wonen' toegelaten. Dat begrip wordt niet gedefinieerd en de voorbeeldenlijst in de toelichting is niet limitatief. De Raad oordeelt dat de overheid mag nagaan hoe een ander verordenend voorschrift van hetzelfde RUP het begrip invult, ook al geldt die invulling formeel enkel in een andere zone. Artikel 1 van het RUP rekent verblijfsrecreatie uitdrukkelijk tot die voorzieningen, en artikel 5 heeft geen limitatieve opsomming die dat uitsluit. De functiewijziging van een appartement naar een vakantieappartement is daardoor verenigbaar met artikel 5.1 van het RUP. Ook de vereenvoudigde vergunningsprocedure was correct, omdat de aanvraag niet strijdig bleek met het RUP. Het beroep tot vernietiging wordt verworpen, de vergunning van 7 november 2024 blijft bestaan en het verzoek tot indeplaatsstelling (artikel 37, §2 DBRC-decreet) wordt niet toegepast. De kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 840 euro) komen ten laste van de verzoeker. Het arrest werd uitgesproken op 19 februari 2026."
+   ],
+   "fr": [
+    "CCE flamand : un appartement de vacances admis en zone d'habitat d'un PRU par interprétation d'une autre prescription du même PRU",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette le recours contre un permis d'environnement pour un appartement de vacances de 6 personnes au maximum à Nieuport. Il confirme que l'autorité n'a aucun pouvoir d'appréciation lors du contrôle au regard d'une prescription d'un PRU, mais qu'elle peut recourir à une autre prescription réglementaire du même PRU pour éclairer une notion peu claire.",
+    "L'arrêt concerne les autorités délivrantes, les demandeurs et les tiers qui contestent un permis dans une zone dont le PRU ne définit pas une notion. Le Conseil rappelle que, lors du contrôle au regard des prescriptions urbanistiques (article 4.3.1, §1er, alinéa 1er, 1°, a) du VCRO), l'autorité ne dispose d'aucun pouvoir d'appréciation : il n'existe qu'une seule interprétation juridiquement correcte, qu'elle doit trouver, et le Conseil n'exerce qu'un contrôle de légalité. Dans la « zone de projet spécifique » du PRU « Nieuwpoort Stadscentrum », sont admises, outre l'habitat, les « activités et équipements apparentés à l'habitat ». Cette notion n'est pas définie et la liste d'exemples figurant dans le commentaire n'est pas limitative. Le Conseil juge que l'autorité peut examiner comment une autre prescription réglementaire du même PRU précise cette notion, même si cette précision ne vaut formellement que dans une autre zone. L'article 1er du PRU range expressément l'hébergement récréatif parmi ces équipements, et l'article 5 ne contient pas de liste limitative qui l'exclurait. Le changement d'affectation d'un appartement en appartement de vacances est donc conforme à l'article 5.1 du PRU. La procédure d'autorisation simplifiée était elle aussi correcte, puisque la demande n'était pas contraire au PRU. Le recours en annulation est rejeté, le permis du 7 novembre 2024 subsiste et la demande de substitution (article 37, §2 du décret DBRC) n'est pas retenue. Les dépens (droit de rôle de 200 euros et indemnité de procédure de 840 euros) sont mis à charge du requérant. L'arrêt a été prononcé le 19 février 2026."
+   ],
+   "scope": "RvVb, arrest RVVB.A.2526.0510 van 19 februari 2026 – artikel 4.3.1, §1, eerste lid, 1°, a) VCRO; artikel 5.1 en artikel 1 GRUP 'Nieuwpoort Stadscentrum'; artikel 13 Omgevingsvergunningsbesluit",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0510. vernietiging van de beslissing van de verwerende partij van 7 november 2024, waa",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0510.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0510"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0509",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: RUP harmony rule looks to adjoining buildings; permit for 13-flat block annulled for inadequate reasoning",
+   "a": "The Council for Permit Disputes annulled an environmental permit for an apartment building because the deputation did not adequately justify compliance with a zoning plan's harmony rule or the scale of the project. It held that the harmony rule refers to the adjoining buildings and that a wider-area assessment cannot replace the immediate surroundings.",
+   "b": "The ruling concerns permitting authorities and developers of projects in areas covered by a spatial implementation plan (RUP) whose prescriptions set only maximum dimensions and leave room for appraisal. The Council held that a harmony rule requiring roof shape, cornice and facade materials to fit the adjoining buildings makes those buildings decisive; the wider area or a heterogeneous environment cannot justify non-compliance, and reasoning given only afterwards in the reply brief is disregarded. Where the plan leaves discretion, article 4.3.1, §2, first paragraph, 3° VCRO requires the authority to make its own assessment of good spatial planning. The authority may look at the wider surroundings, but it must start from the relevant existing situation and may not ignore the immediate surroundings determined by adjoining developments. When it departs from the municipality's refusal and the earlier findings, it is bound by a stricter duty to state reasons and must answer the specific objections on scale and carrying capacity. The Council annulled the permit and ordered a new decision on the administrative appeal within three months of the day after notification of the ruling, which was delivered on 19 February 2026.",
+   "nl": [
+    "RvVb: harmonieregel in RUP verwijst naar aanpalende gebouwen; vergunning meergezinswoning vernietigd wegens gebrekkige motivering",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een meergezinswoning omdat de deputatie de overeenstemming met de harmonieregel van een RUP en de schaal van het project onvoldoende motiveerde. Volgens de Raad verwijst de harmonieregel naar de aanpalende gebouwen en kan een toets aan de ruimere omgeving de onmiddellijke omgeving niet vervangen.",
+    "Het arrest is van belang voor vergunningverlenende overheden en projectontwikkelaars in gebieden met een ruimtelijk uitvoeringsplan (RUP) waarvan de voorschriften enkel maximale maten bepalen en beoordelingsruimte laten. De Raad oordeelt dat een harmonieregel die voorschrijft dat dakvorm, kroonlijst en materialen van de zichtbare gevels harmonieus aansluiten op de aanpalende gebouwen, die gebouwen bepalend maakt; de ruimere omgeving of een heterogeen karakter kan een afwijking niet verantwoorden, en een a posteriori motivering in de antwoordnota wordt niet in aanmerking genomen. Waar het plan beoordelingsruimte laat, moet de overheid volgens artikel 4.3.1, §2, eerste lid, 3° VCRO zelf de goede ruimtelijke ordening beoordelen. Ze mag de ruimere omgeving betrekken, maar moet uitgaan van de relevante bestaande toestand en mag de onmiddellijke omgeving, bepaald door aanpalende projecten, niet buiten beschouwing laten. Wanneer ze afwijkt van de weigering door de gemeente en van eerdere vaststellingen, geldt een verstrengde motiveringsplicht en moet ze de concrete bezwaren over schaal en draagkracht beantwoorden. De Raad vernietigt de vergunning en beveelt een nieuwe beslissing over het administratief beroep binnen drie maanden na de dag na de betekening van het arrest, dat op 19 februari 2026 is uitgesproken."
+   ],
+   "fr": [
+    "RvVb : la règle d'harmonie d'un RUP vise les bâtiments mitoyens ; permis pour un immeuble à appartements annulé",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis d'environnement pour un immeuble à appartements, la députation n'ayant pas motivé suffisamment la conformité à la règle d'harmonie d'un plan d'exécution spatial (RUP) ni l'échelle du projet. Selon le Conseil, la règle d'harmonie vise les bâtiments mitoyens et un examen de l'environnement élargi ne peut remplacer celui de l'environnement immédiat.",
+    "L'arrêt concerne les autorités délivrant les permis et les promoteurs de projets situés dans une zone couverte par un plan d'exécution spatial (RUP) dont les prescriptions ne fixent que des dimensions maximales et laissent une marge d'appréciation. Le Conseil juge qu'une règle d'harmonie imposant que la forme du toit, la corniche et les matériaux des façades visibles s'harmonisent avec les bâtiments mitoyens rend ceux-ci déterminants ; l'environnement élargi ou son caractère hétérogène ne peut justifier un écart, et une motivation a posteriori figurant dans la note de réponse n'est pas prise en compte. Lorsque le plan laisse une marge d'appréciation, l'autorité doit, en vertu de l'article 4.3.1, §2, alinéa 1er, 3° du VCRO, apprécier elle-même le bon aménagement du territoire. Elle peut tenir compte de l'environnement élargi, mais doit partir de la situation existante pertinente et ne peut négliger l'environnement immédiat, déterminé par les projets mitoyens. Lorsqu'elle s'écarte du refus de la commune et des constats antérieurs, elle est soumise à une obligation de motivation renforcée et doit répondre aux objections concrètes relatives à l'échelle et à la capacité de support. Le Conseil annule le permis et ordonne une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt, prononcé le 19 février 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0509 – artikel 4.3.1, §2 VCRO; harmonieregel in artikel 1 RUP 'Jabbeke Centrum Inbreiding'; motiveringsplicht",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0509.",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0509.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0509"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0508",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls acknowledgement of a notification: a changed number of dwellings requires a permit",
+   "a": "The Council for Permit Disputes annulled an act acknowledging a regularising notification of works on an outbuilding converted into two dwellings. The simplified notification regime cannot be used where the number of dwellings changes compared with the permitted situation.",
+   "b": "The ruling concerns project developers and permitting authorities handling regularising notifications of urban-planning acts under the Flemish Environmental Permit Decree. The Council holds that articles 2 and 3 of the Flemish Government Decree of 16 July 2010 on acts subject to notification replace the permit requirement only if the number of dwellings stays unchanged and no permit-requiring change of function occurs. Where works change the number of dwellings compared with the permitted situation, as with the conversion of a former pool house into two dwellings, these articles do not apply and an environmental permit for urban-planning acts is required. Article 3 also requires the physical building volume and floor area to remain unchanged. A bare statement in the decision that this condition is met, without support in the file, does not satisfy the duty of care. Under article 111 of the Decree, the authority must examine whether the notified acts are subject to notification and not prohibited. The Council annulled the acknowledgement and ordered the authority to take a new decision within one month from the day after notification of the ruling. Costs fall on the authority.",
+   "nl": [
+    "RvVb vernietigt akteneming van melding: gewijzigd aantal woongelegenheden vereist een vergunning",
+    "De Raad voor Vergunningsbetwistingen vernietigt een akteneming van een regulariserende melding van werken aan een bijgebouw dat tot twee woonunits werd omgevormd. De vereenvoudigde meldingsplicht is niet van toepassing wanneer het aantal woongelegenheden ten opzichte van de vergunde toestand wijzigt.",
+    "Het arrest betreft projectontwikkelaars en vergunningverlenende overheden die regulariserende meldingen van stedenbouwkundige handelingen behandelen onder het Omgevingsvergunningsdecreet. De Raad oordeelt dat de artikelen 2 en 3 van het besluit van de Vlaamse regering van 16 juli 2010 betreffende de meldingsplichtige handelingen de vergunningsplicht enkel vervangen door een melding als het aantal woongelegenheden ongewijzigd blijft en er geen vergunningsplichtige functiewijziging is. Wijzigt het aantal woongelegenheden ten opzichte van de vergunde toestand, zoals bij de verbouwing van een voormalig poolhouse tot twee wooneenheden, dan zijn die artikelen niet van toepassing en geldt de omgevingsvergunningsplicht voor stedenbouwkundige handelingen. Artikel 3 vereist bovendien dat het fysiek bouwvolume en de bouwoppervlakte ongewijzigd blijven. Een louter affirmatieve overweging in de beslissing dat aan die voorwaarde is voldaan, zonder steun in het dossier, voldoet niet aan het zorgvuldigheidsbeginsel. Op grond van artikel 111 van het decreet moet de overheid onderzoeken of de gemelde handelingen meldingsplichtig en niet verboden zijn. De Raad vernietigt de akteneming en beveelt de overheid binnen een maand na de dag na de betekening van het arrest een nieuwe beslissing te nemen. De kosten komen ten laste van de overheid."
+   ],
+   "fr": [
+    "Le RvVb annule l'acte de prise de connaissance d'une déclaration : un nombre de logements modifié exige un permis",
+    "Le Conseil du contentieux des permis annule la prise de connaissance d'une déclaration de régularisation de travaux à une dépendance transformée en deux unités d'habitation. Le régime simplifié de déclaration ne s'applique pas lorsque le nombre de logements change par rapport à la situation autorisée.",
+    "L'arrêt concerne les développeurs de projets et les autorités délivrantes qui traitent des déclarations de régularisation d'actes urbanistiques sous le décret sur le permis d'environnement flamand. Le Conseil juge que les articles 2 et 3 de l'arrêté du Gouvernement flamand du 16 juillet 2010 relatif aux actes soumis à déclaration ne remplacent l'obligation de permis par une déclaration que si le nombre de logements reste inchangé et qu'il n'y a pas de changement de fonction soumis à permis. Lorsque les travaux modifient le nombre de logements par rapport à la situation autorisée, comme la transformation d'un ancien pool house en deux logements, ces articles ne s'appliquent pas et un permis d'environnement pour actes urbanistiques est requis. L'article 3 exige en outre que le volume bâti physique et la surface bâtie restent inchangés. Une simple affirmation dans la décision que cette condition est remplie, sans appui dans le dossier, ne répond pas au devoir de minutie. En vertu de l'article 111 du décret, l'autorité doit examiner si les actes déclarés sont soumis à déclaration et non interdits. Le Conseil annule la prise de connaissance et ordonne à l'autorité de prendre une nouvelle décision dans un délai d'un mois à compter du lendemain de la notification de l'arrêt. Les dépens sont à charge de l'autorité."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0508: artikelen 2 en 3 Besluit Meldingsplichtige Handelingen (16 juli 2010); artikelen 6 en 111 Omgevingsvergunningsdecreet",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0508. vernietiging van de beslissing van de verwerende partij van 17 februari 2025 tot",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0508.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0508"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0507",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls 'deemed permitted' registration: aerial photo and house-number decision not enough proof",
+   "a": "The Council for Permit Disputes annuls a municipal decision entering a building in the permit register as 'deemed permitted' (vergund geacht), because the reasoning did not show that the evidence proved the building and its three dwellings. It also rules that only the registration decision can be challenged, not the register extract, and sets out how the appeal period runs after the Constitutional Court annulled the rule on its start.",
+   "b": "The ruling concerns municipalities deciding on requests to enter constructions in the permit register as 'deemed permitted', the owners who make such requests, and neighbours who may challenge the decision. Only the administrative registration decision is a constitutive act open to an annulment appeal (art. 4.8.2, 3° VCRO); an extract from the register is merely informative and cannot be challenged. Since the Constitutional Court (judgment 109/2024 of 3 October 2024) retroactively annulled art. 4.8.11, §2, 2°, b) VCRO, no statutory rule fixes when the 45-day period starts for third parties. A third party who knows or should reasonably know of a registration decision must act vigilantly within a reasonable time, and the party contesting timeliness must prove earlier knowledge. Here the period was counted from the date the decision was actually obtained. Neighbours living in the immediate vicinity have standing if a more than negligible nuisance, such as increased parking pressure, is plausible. On the merits, the presumption of art. 4.2.14, §2 and art. 5.1.3, §2 VCRO covers constructions proven to have been built between 22 April 1962 and the first entry into force of the zoning plan, and extends to their function. A function change before 9 September 1984 is disregarded, and a change in the number of dwellings counts only if it predates 1 May 2000 and involved no works requiring a permit. The municipality must examine the evidence carefully and give a formal, adequate statement of reasons. The Council found that a 1969 aerial photo shows only that a structure existed, not that it already had three dwellings, and that a 2005 decision allocating house numbers does not prove three dwellings before 1 May 2000. The service report added nothing, so the decision was annulled and the municipality must take a new decision within three months of notification of the ruling.",
+   "nl": [
+    "RvVb vernietigt opname als 'vergund geacht': luchtfoto en busnummerbesluit onvoldoende bewijs",
+    "De Raad voor Vergunningsbetwistingen vernietigt een gemeentelijke beslissing tot opname van een gebouw als 'vergund geacht' in het vergunningenregister, omdat uit de motivering niet blijkt dat het bewijs het gebouw en zijn drie woongelegenheden aantoont. De Raad oordeelt ook dat enkel de registratiebeslissing bestreden kan worden en niet het uittreksel, en verduidelijkt hoe de beroepstermijn loopt na de vernietiging van de startregel door het Grondwettelijk Hof.",
+    "Het arrest betreft gemeenten die over aanvragen tot opname van constructies als 'vergund geacht' in het vergunningenregister beslissen, de eigenaars die zulke aanvragen indienen en de buren die de beslissing kunnen bestrijden. Enkel de bestuurlijke registratiebeslissing is een constitutieve beslissing waartegen een vernietigingsberoep openstaat (art. 4.8.2, 3° VCRO); een uittreksel uit het register is louter informatief en kan niet worden bestreden. Sinds het Grondwettelijk Hof (arrest 109/2024 van 3 oktober 2024) artikel 4.8.11, §2, 2°, b) VCRO met terugwerkende kracht vernietigde, bepaalt geen wettelijke regel nog wanneer de beroepstermijn van 45 dagen voor derden ingaat. Een derde die het bestaan van een registratiebeslissing kent of redelijkerwijze moet kennen, moet waakzaam zijn en binnen een redelijke termijn stappen ondernemen, en wie de tijdigheid betwist, moet bewijzen dat er eerder kennis was. Hier werd de termijn geteld vanaf de feitelijke kennisneming van de beslissing. Omwonenden in de onmiddellijke nabijheid hebben belang als meer dan verwaarloosbare hinder, zoals toenemende parkeerdruk, aannemelijk is. Ten gronde geldt het vermoeden van artikel 4.2.14, §2 en artikel 5.1.3, §2 VCRO voor constructies waarvan bewezen is dat ze gebouwd werden tussen 22 april 1962 en de eerste inwerkingtreding van het gewestplan, en het strekt zich uit tot de functie. Een functiewijziging vóór 9 september 1984 blijft buiten beschouwing, en een wijziging van het aantal woongelegenheden telt enkel als ze dateert van vóór 1 mei 2000 en niet gepaard ging met vergunningsplichtige werken. De gemeente moet het bewijsmateriaal zorgvuldig onderzoeken en formeel en afdoende motiveren. De Raad oordeelde dat een luchtfoto van 1969 enkel aantoont dat er een constructie stond, niet dat er al drie woongelegenheden waren, en dat een besluit van 2005 over de toekenning van busnummers niet bewijst dat er vóór 1 mei 2000 drie woongelegenheden waren. Het verslag van de dienst ruimtelijke ordening voegde niets toe. De beslissing werd vernietigd en de gemeente moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen."
+   ],
+   "fr": [
+    "Le CCA annule une inscription comme « réputé permis » : photo aérienne et décision de numérotation insuffisantes",
+    "Le Conseil du contentieux des permis annule une décision communale inscrivant un bâtiment au registre des permis comme « réputé permis » (vergund geacht), car la motivation ne montre pas que les preuves établissent le bâtiment et ses trois logements. Il juge aussi que seule la décision d'enregistrement est attaquable, et non l'extrait du registre, et précise le cours du délai de recours après l'annulation par la Cour constitutionnelle de la règle sur son point de départ.",
+    "L'arrêt concerne les communes qui statuent sur les demandes d'inscription de constructions comme « réputées permises » au registre des permis (vergunningenregister), les propriétaires qui introduisent ces demandes et les voisins qui peuvent contester la décision. Seule la décision administrative d'enregistrement est un acte constitutif susceptible d'un recours en annulation (art. 4.8.2, 3° VCRO) ; un extrait du registre est purement informatif et ne peut être attaqué. Depuis que la Cour constitutionnelle (arrêt 109/2024 du 3 octobre 2024) a annulé avec effet rétroactif l'article 4.8.11, §2, 2°, b) VCRO, aucune règle légale ne fixe le point de départ du délai de recours de 45 jours pour les tiers. Le tiers qui connaît ou devrait raisonnablement connaître l'existence d'une décision d'enregistrement doit agir avec vigilance dans un délai raisonnable, et la partie qui conteste la recevabilité du recours pour tardiveté doit prouver une connaissance antérieure. Ici, le délai a été compté à partir de la prise de connaissance effective de la décision. Les riverains habitant à proximité immédiate justifient d'un intérêt si une gêne ou un inconvénient plus que négligeable, tel qu'une pression accrue sur le stationnement, est plausible. Sur le fond, la présomption des articles 4.2.14, §2 et 5.1.3, §2 VCRO vise les constructions dont il est prouvé qu'elles ont été érigées entre le 22 avril 1962 et la première entrée en vigueur du plan de secteur, et elle s'étend à leur fonction. Un changement de fonction antérieur au 9 septembre 1984 n'est pas pris en compte, et une modification du nombre de logements ne compte que si elle est antérieure au 1er mai 2000 et n'a pas impliqué de travaux soumis à permis. La commune doit examiner soigneusement les preuves et motiver sa décision de manière formelle et adéquate. Le Conseil a jugé qu'une photo aérienne de 1969 montre seulement qu'une construction existait, et non qu'elle comptait déjà trois logements, et qu'une décision de 2005 attribuant des numéros de boîte ne prouve pas l'existence de trois logements avant le 1er mai 2000. Le rapport du service de l'aménagement du territoire n'apportait rien. La décision est annulée et la commune doit prendre une nouvelle décision dans les trois mois de la notification de l'arrêt."
+   ],
+   "scope": "Vlaamse Codex Ruimtelijke Ordening, artt. 4.2.14 §2, 4.8.2 3°, 4.8.11 en 5.1.3 §2 (vergunningenregister, opname als 'vergund geacht')",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0507.",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0507.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0507"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0504",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: nature test challenge needs concrete harm data; no duty to examine alternatives",
+   "a": "The Council for Permit Disputes rejected an appeal against an environmental permit for a sewer project in Herzele and Ninove. It held that whoever alleges a breach of the duty of care in Article 16 §1 of the Nature Decree must give concrete data on the harm, and that a permitting authority need not examine alternatives.",
+   "b": "The ruling concerns a permit granted on 3 March 2025 for a separate sewer system with infiltration ditches, a buffer basin and a pumping station, which affected neighbouring landowners challenged. On the nature test, the Council holds that it matters only where avoidable harm to nature is at risk. A claimant invoking Article 16 §1 of the Nature Decree must name the nature elements in the immediate or wider surroundings that would suffer harm and the nature of that harm. A general reference to the Biological Valuation Map is not enough, and the claimants ignored the permit's extensive nature-test reasoning. On reasoning and care, the Council finds that no provision requires the permitting authority to carry out its own alternatives study or to address alternatives suggested during the procedure, since it assesses only the project as applied for. The authority may adopt the applicant's explanation, particularly where the competent services gave a favourable opinion, and the claimants' views on the need for and size of the ditch are criticism of expediency, which cannot lead to annulment. The appeal is rejected and the costs fall on the claimants (registry fee of EUR 600 and procedural indemnity of EUR 840). The ruling was delivered on 19 February 2026; the permit remains in place.",
+   "nl": [
+    "RvVb: natuurtoetskritiek vereist concrete schadegegevens; geen plicht tot alternatievenonderzoek",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een omgevingsvergunning voor een rioleringsproject in Herzele en Ninove. Wie een schending van de zorgplicht van artikel 16, §1 Natuurdecreet aanvoert, moet concrete gegevens over de schade aanbrengen, en de vergunningverlenende overheid moet geen alternatieven onderzoeken.",
+    "Het arrest betreft een vergunning van 3 maart 2025 voor een gescheiden rioleringsstelsel met infiltratiegrachten, een bufferbekken en een pompstation, die door aanpalende eigenaars werd bestreden. Inzake de natuurtoets oordeelt de Raad dat die enkel relevant is wanneer een risico op vermijdbare natuurschade bestaat. Een verzoekende partij die artikel 16, §1 Natuurdecreet inroept, moet aangeven welke natuurelementen in de onmiddellijke of ruimere omgeving schade zouden lijden en wat de aard van die schade is. Een algemene verwijzing naar de Biologische Waarderingskaart volstaat niet, en de verzoekende partijen lieten de uitgebreide motivering over de natuurtoets buiten beschouwing. Inzake motivering en zorgvuldigheid stelt de Raad dat geen enkele bepaling de vergunningverlenende overheid verplicht zelf een alternatievenonderzoek uit te voeren of in te gaan op alternatieven die tijdens de procedure worden gesuggereerd, aangezien ze enkel het aangevraagde project beoordeelt. De overheid mag het standpunt van de aanvrager bijtreden, zeker wanneer de bevoegde diensten gunstig adviseerden, en het standpunt van de verzoekende partijen over de noodzaak en de omvang van de gracht is opportuniteitskritiek die niet tot vernietiging kan leiden. Het beroep wordt verworpen en de kosten komen ten laste van de verzoekende partijen (rolrecht van 600 euro en rechtsplegingsvergoeding van 840 euro). Het arrest werd uitgesproken op 19 februari 2026; de vergunning blijft behouden."
+   ],
+   "fr": [
+    "CAAP: la critique du test de nature exige des données concrètes; pas d'obligation d'examiner des alternatives",
+    "Le Conseil du contentieux des autorisations rejette le recours contre un permis d'environnement pour un projet d'égouttage à Herzele et Ninove. Celui qui invoque la violation du devoir de vigilance de l'article 16, §1er du décret Nature doit fournir des données concrètes sur le dommage, et l'autorité délivrante n'est pas tenue d'examiner des alternatives.",
+    "L'arrêt concerne un permis du 3 mars 2025 pour un système d'égouttage séparatif comprenant des fossés d'infiltration, un bassin tampon et une station de pompage, contesté par des propriétaires voisins. Quant au test de nature, le Conseil juge qu'il n'est pertinent qu'en cas de risque de dommage évitable à la nature. La partie requérante qui invoque l'article 16, §1er du décret Nature doit indiquer quels éléments naturels de l'environnement immédiat ou plus large subiraient un dommage et la nature de celui-ci. Une référence générale à la carte d'évaluation biologique ne suffit pas, et les requérants ont ignoré la motivation détaillée du permis sur le test de nature. Quant à la motivation et à la minutie, le Conseil relève qu'aucune disposition n'oblige l'autorité délivrante à mener elle-même une étude d'alternatives ni à répondre aux alternatives suggérées au cours de la procédure, puisqu'elle n'apprécie que le projet tel que demandé. Elle peut se rallier à la position du demandeur, surtout lorsque les services compétents ont rendu un avis favorable, et le point de vue des requérants sur la nécessité et la taille du fossé relève d'une critique d'opportunité qui ne peut mener à l'annulation. Le recours est rejeté et les dépens sont à charge des requérants (droit de rôle de 600 euros et indemnité de procédure de 840 euros). L'arrêt a été prononcé le 19 février 2026; le permis est maintenu."
+   ],
+   "scope": "RvVb, arrest RVVB.A.2526.0504 van 19 februari 2026 – artikel 16, §1 Natuurdecreet (natuurtoets), motiverings- en zorgvuldigheidsbeginsel, goede ruimtelijke ordening (artikel 4.3.1, §2 VCRO)",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0504. vernietiging van de beslissing van de verwerende partij van 3 maart 2025 (“of mi",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0504.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0504"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0502",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law",
+    "environmental-safety"
+   ],
+   "h": "RvVb annuls permit for warehouse conversion: unverified waste, dust and parking findings; vague conditions",
+   "a": "The Council for Permit Disputes annulled a Flemish environmental permit for a Roeselare warehouse with a changed operation. The deciding authority accepted the applicant's statements on waste flows, dust and parking without critical examination, and two permit conditions were too imprecise.",
+   "b": "The ruling concerns an environmental permit (including classified activities such as waste and hazardous-substance storage, asbestos handling and a vehicle workshop) granted on appeal in Flanders. The Council held that the deciding authority may adopt the applicant's arguments, but must show it examined them critically against the objections raised. It found that carrying capacity of the site could not reasonably be derived from the site having been bought for these activities, from its location in an industrial zone, or from a four-month waste register that gave only global tonnage. The dust finding rested on a mist-spraying system that appears on no plan and for which no evidence was filed. On parking, the authority did not examine whether all site and work vehicles fit on the site. Under Article 74 of the Omgevingsvergunningsdecreet, conditions must be sufficiently precise, reasonable and achievable by the applicant. The condition to follow the operator's 'proposed preventive conditions' (dust covers or dust cannons) failed this: it left the choice between measures open, and left unclear what counts as a 'complaint' and to whom it must be addressed. A complaint about a third condition, raised only in the explanatory note, was held inadmissible as an extension of the plea. The decision of 7 November 2024 is annulled, and the authority must decide anew on the administrative appeal within three months of notification of the ruling, dated 19 February 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor ombouw magazijn: onvoldoende onderzoek van afval, stof en parkeren; vage voorwaarden",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een magazijn in Roeselare met gewijzigde exploitatie. De verwerende partij nam de verklaringen van de aanvrager over afvalstromen, stof en parkeren zonder kritisch onderzoek over, en twee vergunningsvoorwaarden waren onvoldoende precies.",
+    "Het arrest betreft een in beroep verleende omgevingsvergunning in Vlaanderen, mede voor ingedeelde activiteiten zoals opslag van afvalstoffen en gevaarlijke stoffen, asbestbehandeling en een herstelplaats voor voertuigen. De Raad oordeelt dat de vergunningverlenende overheid de argumenten van de aanvrager mag overnemen, maar moet aantonen dat ze die kritisch heeft onderzocht ten aanzien van de ingebrachte bezwaren. De draagkracht van het perceel kon niet redelijk worden afgeleid uit de aankoop van de site voor deze activiteiten, de ligging in een bedrijvenzone of een afvalstoffenregister van vier maanden met enkel een globaal tonnage. De beoordeling van de stofhinder steunde op een benevelingssysteem dat op geen enkel plan staat en waarvoor geen bewijs werd voorgelegd. Inzake parkeren onderzocht de overheid niet of alle werf- en werkvoertuigen op de site kunnen worden gestald. Overeenkomstig artikel 74 van het Omgevingsvergunningsdecreet moeten voorwaarden voldoende precies, redelijk en door toedoen van de aanvrager realiseerbaar zijn. De voorwaarde om de 'door de exploitant voorgestelde preventieve voorwaarden' na te leven (afdekzeilen of stofkanonnen) voldoet daar niet aan: de keuze tussen maatregelen blijft open en het is onduidelijk wat een 'klacht' is en aan wie ze moet worden gericht. Een grief over een derde voorwaarde, pas in de toelichtende nota aangevoerd, is een ontoelaatbare uitbreiding van het middel. De beslissing van 7 november 2024 wordt vernietigd en de verwerende partij moet binnen drie maanden na betekening van het arrest van 19 februari 2026 een nieuwe beslissing nemen over het bestuurlijk beroep."
+   ],
+   "fr": [
+    "Le CCA annule le permis pour la transformation d'un entrepôt : déchets, poussières, stationnement et conditions imprécises",
+    "Le Conseil pour les contestations des permis (RvVb) annule un permis d'environnement pour un entrepôt à Roulers dont l'exploitation est modifiée. L'autorité décisionnelle a repris sans examen critique les déclarations du demandeur sur les flux de déchets, les poussières et le stationnement, et deux conditions du permis étaient insuffisamment précises.",
+    "L'arrêt concerne un permis d'environnement délivré sur recours en Flandre, notamment pour des activités classées telles que le stockage de déchets et de substances dangereuses, le traitement de l'amiante et un atelier de réparation de véhicules. Le Conseil juge que l'autorité délivrante peut reprendre les arguments du demandeur, mais doit montrer qu'elle les a examinés de manière critique au regard des objections soulevées. La capacité de charge de la parcelle ne pouvait raisonnablement se déduire de l'achat du site en vue de ces activités, de sa situation en zone d'activité économique, ni d'un registre des déchets limité à quatre mois et ne donnant qu'un tonnage global. L'appréciation des poussières reposait sur un système de brumisation figurant sur aucun plan et pour lequel aucune preuve n'a été produite. Quant au stationnement, l'autorité n'a pas examiné si tous les véhicules de chantier et de travail peuvent être garés sur le site. Selon l'article 74 du Omgevingsvergunningsdecreet, les conditions doivent être suffisamment précises, raisonnables et réalisables par le demandeur. La condition de respecter les « conditions préventives proposées par l'exploitant » (bâches ou canons à poussière) ne satisfait pas à ces exigences : le choix entre les mesures reste ouvert, et on ignore ce qu'est une « plainte » et à qui elle doit être adressée. Un grief relatif à une troisième condition, soulevé seulement dans la note explicative, constitue une extension irrecevable du moyen. La décision du 7 novembre 2024 est annulée et l'autorité doit statuer à nouveau sur le recours administratif dans les trois mois de la notification de l'arrêt du 19 février 2026."
+   ],
+   "scope": "RvVb arrest RVVB.A.2526.0502 van 19 februari 2026: artikel 74 Omgevingsvergunningsdecreet (voorwaarden), motiveringsplicht en zorgvuldigheidsbeginsel, goede ruimtelijke ordening (artikel 4.3.1 VCRO)",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0502. vernietiging van de beslissing van de verwerende partij van 7 november 2024, waa",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0502.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0502"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0501",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: appropriate assessment required only if significant harm to a special protection zone is plausible",
+   "a": "The Council for Permit Disputes rejected an annulment claim against a Flemish farm permit and clarified the nature test under the Nature Decree. Claimants must concretely show how a project could harm protected nature values, and a critical deposition value being exceeded does not automatically require an appropriate assessment.",
+   "b": "The ruling concerns permit applicants, permitting authorities and third parties challenging permits in Flanders under articles 16, 26bis and 36ter §3 of the Nature Decree. The permit at issue covers a farm shed with farm shop, fertiliser and fuel storage and paving in Merchtem. The nearest special protection zone is about 6 km away and the nearest VEN area about 3.2 km. The Council holds that an appropriate assessment is required only where an activity may cause significant harm to the natural characteristics of a special protection zone. Exceeding a critical deposition value does not automatically trigger one. Articles 26bis and 36ter protect habitats inside a special protection zone and nature values inside the VEN, not habitats outside them. Outside those areas the general duty of care in article 16 applies, but the challenger must still show which nature elements would suffer which avoidable harm. Challengers must show concretely which species and habitats are affected, how nitrogen deposition would harm them and why the authority's reasoning is wrong. Repeating the grounds of the administrative appeal is not enough, and the Council does not reassess the application itself. Without a rule requiring it, the absence of an enhanced nature test or appropriate assessment does not make the application incomplete. The advice of the Agency for Nature and Forests is not required where the risk of unavoidable and irreparable harm in the VEN is not made plausible. The claim is rejected on 19 February 2026 and the 400 euro registration fee stays with the claimants. The permit was granted on 26 September 2024.",
+   "nl": [
+    "RvVb: passende beoordeling pas vereist als betekenisvolle aantasting van een speciale beschermingszone aannemelijk is",
+    "De Raad voor Vergunningsbetwistingen verwerpt een vernietigingsberoep tegen een Vlaamse omgevingsvergunning voor een landbouwbedrijf en verduidelijkt de natuurtoets onder het Natuurdecreet. Verzoekers moeten concreet aantonen hoe een project beschermde natuurwaarden kan schaden, en een overschreden kritische depositiewaarde vereist niet automatisch een passende beoordeling.",
+    "Het arrest betreft vergunningsaanvragers, vergunningverlenende overheden en derden die in Vlaanderen een vergunning betwisten op grond van de artikelen 16, 26bis en 36ter, §3 van het Natuurdecreet. De bestreden vergunning betreft een loods met hoevewinkel, opslag van kunstmest en brandstof en verharding in Merchtem. De dichtstbijzijnde speciale beschermingszone ligt op ongeveer 6 km en het dichtstbijzijnde VEN-gebied op ongeveer 3,2 km. De Raad oordeelt dat een passende beoordeling enkel vereist is wanneer een activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken. Een overschrijding van een kritische depositiewaarde leidt er niet automatisch toe. De artikelen 26bis en 36ter beschermen habitats binnen een speciale beschermingszone en natuurwaarden binnen het VEN, niet habitats daarbuiten. Buiten die gebieden geldt de algemene zorgplicht van artikel 16, maar de verzoeker moet nog steeds aantonen welke natuurelementen welke vermijdbare schade zouden lijden. Verzoekers moeten concreet aantonen welke soorten en habitats het betreft, hoe stikstofdepositie die zou schaden en waarom de motivering van de overheid fout is. Het herhalen van de grieven uit het administratief beroep volstaat niet en de Raad beoordeelt de aanvraag niet zelf opnieuw. Zonder een regel die dat voorschrijft maakt het ontbreken van een verscherpte natuurtoets of passende beoordeling de aanvraag niet onvolledig. Het advies van het Agentschap voor Natuur en Bos is niet vereist als het risico op onvermijdbare en onherstelbare schade in het VEN niet aannemelijk is gemaakt. Het beroep wordt verworpen op 19 februari 2026 en het rolrecht van 400 euro blijft ten laste van de verzoekers. De vergunning werd verleend op 26 september 2024."
+   ],
+   "fr": [
+    "CCA : évaluation appropriée requise seulement si une atteinte significative à une zone de protection spéciale est plausible",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette un recours en annulation contre un permis d'environnement flamand pour une exploitation agricole et précise le test de la nature du décret sur la conservation de la nature. Les requérants doivent démontrer concrètement comment un projet peut nuire à des valeurs naturelles protégées, et le dépassement d'une valeur critique de dépôt n'impose pas automatiquement une évaluation appropriée.",
+    "L'arrêt concerne les demandeurs de permis, les autorités délivrantes et les tiers qui contestent un permis en Flandre sur la base des articles 16, 26bis et 36ter, §3 du décret sur la conservation de la nature (Natuurdecreet). Le permis attaqué porte sur un hangar avec magasin à la ferme, le stockage d'engrais minéraux et de carburant et des revêtements durs à Merchtem. La zone de protection spéciale la plus proche se situe à environ 6 km et la zone VEN la plus proche à environ 3,2 km. Le Conseil juge qu'une évaluation appropriée n'est requise que si une activité peut porter atteinte de manière significative aux caractéristiques naturelles d'une zone de protection spéciale. Le dépassement d'une valeur critique de dépôt n'y conduit pas automatiquement. Les articles 26bis et 36ter protègent les habitats situés dans une zone de protection spéciale et les valeurs naturelles situées dans le VEN, et non les habitats situés en dehors. En dehors de ces zones, le devoir de prudence général de l'article 16 s'applique, mais le requérant doit encore démontrer quels éléments naturels subiraient quel dommage évitable. Les requérants doivent démontrer concrètement quelles espèces et quels habitats sont concernés, comment le dépôt d'azote leur nuirait et pourquoi la motivation de l'autorité est erronée. Reprendre les griefs du recours administratif ne suffit pas et le Conseil ne réexamine pas lui-même la demande. En l'absence de règle l'imposant, l'absence d'un test de la nature renforcé ou d'une évaluation appropriée ne rend pas la demande incomplète. L'avis de l'Agence de la nature et des forêts n'est pas requis lorsque le risque de dommage inévitable et irréparable dans le VEN n'est pas rendu plausible. Le recours est rejeté le 19 février 2026 et le droit de rôle de 400 euros reste à charge des requérants. Le permis avait été délivré le 26 septembre 2024."
+   ],
+   "scope": "Arrest RvVb.A.2526.0501 – artikelen 16, 26bis en 36ter, §3 Natuurdecreet (natuurtoets, passende beoordeling, VEN, SBZ)",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0501.",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0501.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0501"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0500",
+   "d": "2026-02-19",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb upholds acknowledgement of partial pig farm cessation; subsidy scheme rules are not part of the test",
+   "a": "The Council for Permit Disputes rejected an appeal against the acknowledgement of a notified partial cessation of a pig farm. It held that the conditions of the 2023 voluntary cessation scheme do not form part of the test for acknowledging such a notification, and that a nitrogen challenge must be measured against the earlier permit.",
+   "b": "The ruling concerns operators of classified establishments who notify a partial cessation, the authority that acknowledges the notification under Article 111 of the Environmental Permit Decree, and third parties who challenge it. The farm cut its pig places from 1,576 to 520 and its manure storage (rubric 28.2.c)1° VLAREM II) from 2,688 m³ to 1,728 m³. The Council held that the cessation does not by itself turn the remaining manure storage into a new classified installation needing a new notification. Rubric 28.2 makes no distinction between internal and external storage, and the challenger had not shown that the remaining rubrics no longer form the same technical whole as under the 2007 permit. It also held that Article 4 of the 2023 Cessation Decree (full closure, including the manure cellar, per the European Commission guidelines) only decides eligibility for cessation compensation. That article is not part of the regional test for acknowledging a notification. On nitrogen, the Council accepted that the VEN test (Art. 26bis) and the Habitats test (Art. 36ter Nature Decree, read with Art. 6(3) Habitats Directive) cover manure spreading as well as storage. It held, however, that the challenger must show concretely, against the earlier permit as reference situation, that the decision causes additional emissions or deposition, and had not done so. Whether Union law requires an appropriate assessment for a mere notification is the subject of a pending preliminary question and was left open. The appeal was dismissed on 19 February 2026, and the court fee of 200 euro was charged to the applicant. The challenged acknowledgement dates from 9 January 2025.",
+   "nl": [
+    "RvVb bevestigt aktename van gedeeltelijke stopzetting varkenshouderij; stopzettingsregeling geen toetsingskader",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de aktename van een gemelde gedeeltelijke stopzetting van een varkenshouderij. De voorwaarden van het stopzettingsbesluit van 2023 maken geen deel uit van het toetsingskader voor de aktename, en een stikstofkritiek moet worden afgezet tegen de eerdere vergunning.",
+    "Het arrest betreft exploitanten van ingedeelde inrichtingen die een gedeeltelijke stopzetting melden, de overheid die van de melding akte neemt op grond van artikel 111 van het Omgevingsvergunningsdecreet, en derden die dit betwisten. De varkenshouderij verminderde het aantal stalplaatsen van 1.576 tot 520 en de mestopslag (rubriek 28.2.c)1° VLAREM II) van 2.688 m³ tot 1.728 m³. De Raad oordeelt dat de stopzetting de resterende mestopslag op zich niet verandert in een nieuwe ingedeelde inrichting waarvoor een nieuwe melding nodig is. Rubriek 28.2 maakt geen onderscheid tussen interne en externe opslag, en de verzoekende partij toonde niet aan dat de resterende rubrieken niet langer hetzelfde samenhangend technisch geheel vormen als onder de vergunning van 2007. Artikel 4 van het Stopzettingsbesluit van 2023 (volledige stopzetting, inclusief mestkelder, volgens de richtsnoeren van de Europese Commissie) bepaalt enkel of men in aanmerking komt voor een stopzettingsvergoeding. Het maakt geen deel uit van het gewestelijke beoordelingskader voor de aktename van een melding. Inzake stikstof erkent de Raad dat de VEN-toets (art. 26bis) en de toets van artikel 36ter Natuurdecreet, gelezen met artikel 6, lid 3 Habitatrichtlijn, ook het uitrijden van mest omvatten, naast de opslag. De verzoekende partij moet echter concreet aantonen, met de eerdere vergunning als referentiesituatie, dat de beslissing bijkomende emissies of depositie veroorzaakt, en deed dat niet. Of het Unierecht een passende beoordeling vereist voor een louter meldingsplichtige handeling, is voorwerp van een hangende prejudiciële vraag en bleef open. Het beroep is verworpen op 19 februari 2026 en het rolrecht van 200 euro blijft ten laste van de verzoekende partij. De bestreden aktename dateert van 9 januari 2025."
+   ],
+   "fr": [
+    "Le CCA confirme la prise d'acte d'un arrêt partiel d'une porcherie ; le régime d'arrêt n'est pas un critère de contrôle",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette le recours contre la prise d'acte d'une déclaration d'arrêt partiel d'une porcherie. Les conditions de l'arrêté de 2023 sur l'arrêt volontaire ne font pas partie du cadre de contrôle de la prise d'acte, et une critique relative à l'azote doit être mesurée par rapport à l'autorisation antérieure.",
+    "L'arrêt concerne les exploitants d'établissements classés qui déclarent un arrêt partiel, l'autorité qui prend acte de la déclaration sur la base de l'article 111 du décret sur le permis d'environnement, et les tiers qui la contestent. La porcherie a réduit ses places d'étable de 1.576 à 520 et son stockage de lisier (rubrique 28.2.c)1° VLAREM II) de 2.688 m³ à 1.728 m³. Le Conseil juge que l'arrêt ne transforme pas, en soi, le stockage de fumier restant en un nouvel établissement classé nécessitant une nouvelle déclaration. La rubrique 28.2 ne distingue pas stockage interne et externe, et la partie requérante n'a pas démontré que les rubriques restantes ne forment plus le même ensemble technique cohérent que sous l'autorisation de 2007. L'article 4 de l'arrêté du Gouvernement flamand de 2023 sur l'arrêt volontaire (arrêt complet, fosse à lisier comprise, selon les lignes directrices de la Commission européenne) détermine uniquement l'éligibilité à l'indemnité d'arrêt. Il ne fait pas partie du cadre régional d'appréciation de la prise d'acte d'une déclaration. En matière d'azote, le Conseil admet que le test VEN (art. 26bis) et le test de l'article 36ter du décret sur la conservation de la nature, lu avec l'article 6, paragraphe 3 de la directive Habitats, couvrent aussi l'épandage du fumier, en plus du stockage. La partie requérante doit toutefois démontrer concrètement, avec l'autorisation antérieure comme situation de référence, que la décision entraîne des émissions ou dépôts supplémentaires, ce qu'elle n'a pas fait. La question de savoir si le droit de l'Union exige une évaluation appropriée pour une simple déclaration fait l'objet d'une question préjudicielle pendante et reste ouverte. Le recours est rejeté le 19 février 2026 et le droit de rôle de 200 euros reste à charge de la partie requérante. La prise d'acte attaquée date du 9 janvier 2025."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0500 van 19 februari 2026: aktename melding gedeeltelijke stopzetting (art. 111 Omgevingsvergunningsdecreet; rubriek 28.2 VLAREM II; art. 26bis en 36ter Natuurdecreet; art. 4 Stopzettingsbesluit)",
+   "dates": {
+    "adopted": "2026-02-19"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0500. vernietiging van de beslissing van de verwerende partij van 9 januari 2025, waar",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0500.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0500"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
