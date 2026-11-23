@@ -41548,7 +41548,8 @@
 ],
 "reason": "Applies art. 4.3.1 §1 VCRO and art. 30 Omgevingsvergunningsdecreet: a limited plan adjustment needs an applicant request, and a replique-note request must be addressed. Also restates the hearing-duty ",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0590"
 },
 "rvvb:RVVB.A.2526.0589": {
 "v": 4,
@@ -41560,7 +41561,8 @@
 ],
 "reason": "Holds that a restaurant is not automatically 'of the same nature' as a hotel under a local plan's villa/hotel-only zoning rule, and that exceptions are read restrictively; also says the whole business",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0589"
 },
 "rvvb:RVVB.A.2526.0587": {
 "v": 4,
@@ -41573,7 +41575,8 @@
 ],
 "reason": "Noise from sports fields must be assessed for cumulative effect with existing activities; regularisation is judged against the pre-works situation; parking must reflect existing use.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0587"
 },
 "rvvb:RVVB.A.2526.0586": {
 "v": 4,
@@ -41585,7 +41588,8 @@
 ],
 "reason": "Under art. 62 Omgevingsvergunningsdecreet, a supplementary report on an amended plan need not trigger a renewed oral hearing; written reply can satisfy the hearing right.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0586"
 },
 "rvvb:RVVB.A.2526.0585": {
 "v": 4,
@@ -41597,7 +41601,8 @@
 ],
 "reason": "Where an applicant explicitly invokes the deviation under art. 4.4.9/1 VCRO for a BPA over 15 years old, the permit decision must state why it is not granted.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0585"
 },
 "rvvb:RVVB.A.2526.0584": {
 "v": 4,
@@ -41621,7 +41626,8 @@
 ],
 "reason": "Reads Antwerp Bouwcode art. 26 to count student rooms lacking own kitchens as 'woningen' for waste storage; also reviews art. 3 deviation from the open-space rule.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0583"
 },
 "gwh:35/2026": {
 "v": 4,
@@ -41641,7 +41647,8 @@
 ],
 "reason": "Constitutional review of surface water pollution and Flemish groundwater management provisions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-34-2026"
 },
 "gwh:33/2026": {
 "v": 4,
@@ -41923,7 +41930,8 @@
 ],
 "reason": "EU position on IMO MARPOL amendments cutting ship greenhouse gas and pollution.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0127"
 },
 "eu:32026R0729": {
 "v": 4,
@@ -41988,7 +41996,9 @@
 ],
 "reason": "EU position on amending CMS appendices, which governs protection of listed wild species.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Sets EU voting position at an international conference; creates no direct obligations for Belgian companies, developers or authorities."
 },
 "eu:32026D0620": {
 "v": 4,
@@ -42045,7 +42055,8 @@
 ],
 "reason": "Royal Decree adopting the marine spatial plan 2026-2034 for Belgian sea areas.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041942"
 },
 "codex:1041868": {
 "v": 4,
@@ -42056,7 +42067,9 @@
 ],
 "reason": "Amends appointment of regional environmental supervisors under Flemish environmental policy decree.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Administrative update replacing one individual's name in the list of designated regional environmental supervisors; no change to obligations for companies, developers or authorities."
 },
 "eu:62025TJ0377_INF": {
 "v": 4,
@@ -42166,7 +42179,8 @@
 ],
 "reason": "Aarhus internal review ruling on access to justice for NGOs against forest taxonomy act.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62022tj0575-res"
 },
 "eu:62022TJ0575": {
 "v": 4,
@@ -65820,7 +65834,8 @@
 ],
 "reason": "Reads the gas-law term 'ondoordringbare omheining' into water-infrastructure public-utility declarations; a standard fence is not impermeable. Suspension rejected.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266079"
 },
 "rvs:266078": {
 "v": 4,
@@ -66432,7 +66447,9 @@
 ],
 "reason": "Defines 'bon aménagement des lieux' under PRAS 2.5.2 and says permit authorities must concretely explain how density and integration fit the surrounding urban context.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Court rejects annulment of a Brussels urban planning permit, applying settled motivation case-law to the facts of one file; no environmental obligation clarified."
 },
 "rvs:266090": {
 "v": 4,
@@ -67345,12 +67362,12 @@
 "this_run": 11,
 "found_not_relevant_on_reading": 3,
 "failed": 0,
-"waiting": 395,
+"waiting": 381,
 "api": {
 "calls": 14,
-"input_tokens": 210921,
-"output_tokens": 36886,
-"usd": 0.7907
+"input_tokens": 164954,
+"output_tokens": 38561,
+"usd": 0.7155
 },
 "updated": "2026-11-23"
 },
