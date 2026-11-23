@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 1 (char 3006)"
+"write_error": "Unterminated string starting at: line 9 column 5 (char 3112)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6776)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 6063)"
 },
 "codex:1042061": {
 "v": 2,
@@ -31686,7 +31686,8 @@
 ],
 "reason": "Changes general agri-environment subsidy rules, adding protective buffer strip management; title vague.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042042"
 },
 "codex:1042033": {
 "v": 2,
@@ -31697,7 +31698,8 @@
 ],
 "reason": "Amends general implementing rules for energy renovation support for emergency housing.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042033"
 },
 "wallex:135817": {
 "v": 2,
@@ -31771,7 +31773,8 @@
 ],
 "reason": "New EU rules on production and marketing of forest reproductive material; forest and nature related.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1392"
 },
 "eu:32026R1184": {
 "v": 2,
@@ -59322,7 +59325,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0823"
 },
 "rvvb:RVVB.2526.0821": {
 "v": 2,
@@ -59351,7 +59355,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0819"
 },
 "rvvb:RVVB.2526.0818": {
 "v": 2,
@@ -59380,7 +59385,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0816"
 },
 "rvvb:RVVB.2526.0815": {
 "v": 2,
@@ -59391,7 +59397,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0815"
 },
 "rvvb:RVVB.2526.0814": {
 "v": 2,
@@ -59465,7 +59472,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0804"
 },
 "rvvb:RVVB.2526.0802": {
 "v": 2,
@@ -59485,7 +59493,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0801"
 },
 "rvvb:RVVB.2526.0800": {
 "v": 2,
@@ -59496,7 +59505,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0800"
 },
 "rvvb:RVVB.2526.0799": {
 "v": 2,
@@ -59525,7 +59535,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0794"
 },
 "rvvb:RVVB.2526.0793": {
 "v": 2,
@@ -59536,7 +59547,8 @@
 ],
 "reason": "Title too vague; RvVB ruling on permit law, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0793"
 },
 "rvvb:RVVB.2526.0792": {
 "v": 2,
@@ -64566,15 +64578,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 1,
+"this_run": 12,
+"found_not_relevant_on_reading": 0,
 "failed": 2,
-"waiting": 482,
+"waiting": 470,
 "api": {
 "calls": 14,
-"input_tokens": 129317,
-"output_tokens": 41266,
-"usd": 0.6713
+"input_tokens": 214771,
+"output_tokens": 44807,
+"usd": 0.8776
 },
 "updated": "2026-11-23"
 }
