@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 1 column 2385 (char 2384)"
+"write_error": "Unterminated string starting at: line 8 column 5 (char 2583)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 6345)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6623)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 18 column 51 (char 7497)"
+"write_error": "Unterminated string starting at: line 1 column 5227 (char 5226)"
 },
 "codex:1042027": {
 "v": 2,
@@ -37935,7 +37935,8 @@
 ],
 "reason": "Corrigendum to the EU Batteries Regulation 2023/1542.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32023r1542r-13"
 },
 "codex:1042185": {
 "v": 2,
@@ -37946,7 +37947,8 @@
 ],
 "reason": "Ministerial authorisation to designate fining authority under Flemish enforcement decree.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042185"
 },
 "codex:1041970": {
 "v": 2,
@@ -37957,7 +37959,8 @@
 ],
 "reason": "Designation of Flemish bathing waters for 2026; water quality rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1041970"
 },
 "wallex:133886": {
 "v": 2,
@@ -37995,7 +37998,8 @@
 ],
 "reason": "Rules on automated lawnmower use, likely noise nuisance; title vague.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-133798"
 },
 "wallex:133563": {
 "v": 2,
@@ -38006,7 +38010,8 @@
 ],
 "reason": "Amends rules of the Walloon climate expert committee under climate governance.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-133563"
 },
 "wallex:133202": {
 "v": 2,
@@ -38017,7 +38022,9 @@
 ],
 "reason": "Walloon decree extending administrative deadlines after IT intrusion; may affect environmental permit procedures.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Confirms two articles of a special-powers order on deadline extensions after the 2025 IT intrusion, for matters transferred from the French Community; no environmental content."
 },
 "wallex:133200": {
 "v": 2,
@@ -38028,7 +38035,9 @@
 ],
 "reason": "Same Walloon deadline-extension decree; may affect environmental permit procedures.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Confirms special-powers order on deadline extensions after a 2025 IT intrusion, for matters transferred by the French Community; no environmental content."
 },
 "rvvb:RVVB.A.2526.0680": {
 "v": 2,
@@ -38066,7 +38075,8 @@
 ],
 "reason": "Title lacks detail; Flemish permit ruling, needs review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0677"
 },
 "rvvb:RVVB.A.2526.0676": {
 "v": 2,
@@ -38095,7 +38105,8 @@
 ],
 "reason": "Title lacks detail; Flemish permit ruling, needs review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0674"
 },
 "rvvb:RVVB.A.2526.0673": {
 "v": 2,
@@ -38142,7 +38153,8 @@
 ],
 "reason": "Title lacks detail; Flemish permit ruling, needs review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0666"
 },
 "rvvb:RVVB.A.2526.0664": {
 "v": 2,
@@ -62269,7 +62281,8 @@
 ],
 "reason": "Title too vague; VL permit-dispute ruling, may concern environmental permits.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0681"
 },
 "rvs:265889": {
 "v": 2,
@@ -64670,15 +64683,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 0,
+"this_run": 9,
+"found_not_relevant_on_reading": 2,
 "failed": 3,
-"waiting": 390,
+"waiting": 379,
 "api": {
 "calls": 14,
-"input_tokens": 196732,
-"output_tokens": 48106,
-"usd": 0.8745
+"input_tokens": 143610,
+"output_tokens": 38569,
+"usd": 0.6729
 },
 "updated": "2026-11-23"
 }
