@@ -54140,7 +54140,8 @@
 ],
 "reason": "Appeal must develop concrete criticism of the heritage agency advice to trigger the mandatory VCOE advice under art. 6.4.6 Decreet Onroerend Erfgoed; vague references do not suffice.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0418"
 },
 "rvvb:RVVB.A.2526.0417": {
 "v": 4,
@@ -54152,7 +54153,8 @@
 ],
 "reason": "Clarifies the 'vergund geacht' presumption under art. 5.1.3 §2 VCRO: burden of proof, post-cutoff extensions excluded, pavement re-laying not automatically maintenance, and the motivation required for",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0417"
 },
 "rvvb:RVVB.A.2526.0416": {
 "v": 4,
@@ -54164,7 +54166,8 @@
 ],
 "reason": "States that a deciding authority departing from the POA report must explain why and on which points, with stricter motivation when departing; also covers the scope of the devolutive appeal.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0416"
 },
 "rvvb:RVVB.A.2526.0414": {
 "v": 4,
@@ -54187,7 +54190,8 @@
 ],
 "reason": "Annuls permit: Art. 4.4.8/2 VCRO hobby-stable rules require checking existing stabling and graze land proximity; Art. 64 OVD: substantially changed application needs new public inquiry.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0413"
 },
 "rvvb:RVVB.A.2526.0412": {
 "v": 4,
@@ -54199,7 +54203,8 @@
 ],
 "reason": "States that authorities may refuse a modification request in the wijzigingslus (art. 64 Omgevingsvergunningsdecreet) without motivation, as it is no right; applicants cannot rely on it at any stage.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0412"
 },
 "rvvb:RVVB.A.2526.0410": {
 "v": 4,
@@ -54211,7 +54216,9 @@
 ],
 "reason": "Applies art. 105 §2 Omgevingsvergunningsdecreet: a party who did not appeal the first-instance permit decision cannot bring a judicial appeal, which bears on who may appeal.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal dismissed; the ruling applies settled case law to the facts of one bakery permit and sets no new rule."
 },
 "rvs:265432": {
 "v": 4,
@@ -54256,7 +54263,9 @@
 ],
 "reason": "Restates urgency rules for suspending permits: applicant bears burden, pre-existing harms count only if aggravated, and no impact report was automatically required for this project.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Interim ruling rejecting suspension of a Brussels planning permit for lack of urgency; it applies settled urgency criteria to the facts of one file."
 },
 "rvs:265426": {
 "v": 4,
@@ -54328,7 +54337,8 @@
 ],
 "reason": "Decides standing: neighbouring owners whose parcels are included in a nature reserve vision area or global framework may challenge recognition and management-plan decisions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265414"
 },
 "rvs:265412": {
 "v": 4,
@@ -54361,7 +54371,8 @@
 ],
 "reason": "Owners whose parcels sit in a nature plan's global framework (not the reserve) have standing to appeal the plan's approval.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265410"
 },
 "rvs:265409": {
 "v": 4,
@@ -54382,7 +54393,9 @@
 ],
 "reason": "Question on open government act exceptions; access to information may bear on environmental information. Title vague.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Ruling on access to administrative documents covered by lawyer-client privilege; not environmental information and no environmental obligations affected."
 },
 "gwh:8/2026": {
 "v": 4,
@@ -54418,7 +54431,9 @@
 "topics": [],
 "reason": "Constitutional Court suspension request against programme law articles; subject matter unclear from title.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Pension indexation case; the Court rejects suspension on financial grounds, with no environmental obligations affected."
 },
 "eu:62024CJ0822_SUM": {
 "v": 4,
@@ -54519,7 +54534,8 @@
 ],
 "reason": "Interprets Directive 2003/4/EC on public access to environmental information, applicant concept.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0129-res"
 },
 "eu:62024CJ0129": {
 "v": 4,
@@ -54530,7 +54546,8 @@
 ],
 "reason": "Interprets Directive 2003/4/EC on public access to environmental information, applicant concept.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0129"
 },
 "eu:62024CJ0126_INF": {
 "v": 4,
@@ -54901,7 +54918,8 @@
 ],
 "reason": "Amends VLAREL, Flemish environmental permitting; lab packages for water and air monitoring.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041724"
 },
 "codex:1041722": {
 "v": 4,
@@ -67633,15 +67651,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 10,
+"found_not_relevant_on_reading": 4,
 "failed": 0,
-"waiting": 130,
+"waiting": 116,
 "api": {
 "calls": 14,
-"input_tokens": 136444,
-"output_tokens": 40954,
-"usd": 0.6824
+"input_tokens": 185728,
+"output_tokens": 29843,
+"usd": 0.6699
 },
 "updated": "2026-11-23"
 },
