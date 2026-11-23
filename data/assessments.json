@@ -37186,7 +37186,8 @@
 ],
 "reason": "ETS Directive free allocation and national carbon tax interaction; interprets emissions trading rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0519-sum"
 },
 "eu:62024CJ0519": {
 "v": 4,
@@ -37197,7 +37198,8 @@
 ],
 "reason": "Same ETS free allocation and national carbon tax reference; interprets emissions trading rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0519"
 },
 "eu:62024CJ0496_SUM": {
 "v": 4,
@@ -37262,7 +37264,8 @@
 ],
 "reason": "Habitats Directive strict species protection and derogation rules; nature permitting interpretation.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0058-res"
 },
 "eu:62024CJ0058": {
 "v": 4,
@@ -37273,7 +37276,8 @@
 ],
 "reason": "Habitats Directive strict species protection and derogation rules; nature permitting interpretation.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0058"
 },
 "eu:62024CJ0050_RES": {
 "v": 4,
@@ -37953,7 +37957,9 @@
 ],
 "reason": "Confirms decree extending administrative deadlines; may cover environmental permit procedures.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Decree only confirms two articles of a special-powers order on deadline extensions; the text states no environmental content or obligations."
 },
 "wallex:133200": {
 "v": 4,
@@ -37964,7 +37970,9 @@
 ],
 "reason": "Confirms decree extending administrative deadlines; may cover environmental permit procedures.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Confirms a special-powers order extending deadlines for matters transferred from the French Community; the text contains no environmental obligations."
 },
 "rvvb:RVVB.A.2526.0680": {
 "v": 4,
@@ -37976,7 +37984,8 @@
 ],
 "reason": "Restates that deviating from a contrary provincial official's report requires a reinforced, concrete statement of reasons under art. 63/1 Omgevingsvergunningsdecreet, and that the authority need not q",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0680"
 },
 "rvvb:RVVB.A.2526.0679": {
 "v": 4,
@@ -37988,7 +37997,8 @@
 ],
 "reason": "Art. 11 Besluit Zonevreemde Functiewijzigingen: the authority must examine whether converted farm buildings are 'woningbijgebouwen' and justify large volumes; a large volume can show it is not a norma",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0679"
 },
 "rvvb:RVVB.A.2526.0678": {
 "v": 4,
@@ -38001,7 +38011,8 @@
 ],
 "reason": "Interim ruling applying CJEU C-236/24: the no-conflict-of-interest rule of Art. 9bis Project-MER directive also covers screening, so municipal initiators may not decide their own screening-stage permi",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0678"
 },
 "rvvb:RVVB.A.2526.0677": {
 "v": 4,
@@ -38013,7 +38024,8 @@
 ],
 "reason": "Holds that Art. 4.4.1/0 VCRO (deviations only on the applicant's motivated request) applies to pending files from 20 July 2024 without transitional rule, and that deviations must be assessed as 'beper",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0677"
 },
 "rvvb:RVVB.A.2526.0676": {
 "v": 4,
@@ -64180,7 +64192,8 @@
 ],
 "reason": "Interprets when the Flemish permit court may substitute its own decision under art. 37 §2 DBRC-decree: only for purely bound competence, not after repeated failed motivation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0689"
 },
 "rvvb:RVVB.2526.0688": {
 "v": 4,
@@ -64192,7 +64205,8 @@
 ],
 "reason": "Interprets art. 4.4.23 VCRO and art. 11 Besluit Zonevreemde Functiewijzigingen: last permitted function governs, long disuse does not change it, and the no-splitting rule is read restrictively.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0688"
 },
 "rvvb:RVVB.2526.0685": {
 "v": 4,
@@ -64205,7 +64219,8 @@
 ],
 "reason": "Permit conditions cannot leave impact assessment or expansion decisions to the operator; monitoring conditions must specify method, frequency and evaluation (VLAREM 3.3.0.2, decree art. 74).",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0685"
 },
 "rvvb:RVVB.2526.0684": {
 "v": 4,
@@ -64230,7 +64245,8 @@
 ],
 "reason": "States that building permits cannot impose operating conditions and are granted without prejudice to civil rights, so a pending civil noise case does not bar the authority deciding.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0683"
 },
 "rvvb:RVVB.2526.0682": {
 "v": 4,
@@ -67231,12 +67247,12 @@
 "this_run": 12,
 "found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 492,
+"waiting": 478,
 "api": {
 "calls": 14,
-"input_tokens": 232403,
-"output_tokens": 36686,
-"usd": 0.8317
+"input_tokens": 179328,
+"output_tokens": 36622,
+"usd": 0.7249
 },
 "updated": "2026-11-23"
 },
