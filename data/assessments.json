@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "no JSON in reply"
+"write_error": "Unterminated string starting at: line 9 column 1 (char 2884)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6168)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6088)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 5485)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5099)"
 },
 "codex:1042027": {
 "v": 2,
@@ -35869,7 +35869,8 @@
 ],
 "reason": "Amends Walloon renewable electricity and cogeneration promotion rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-134621"
 },
 "wallex:134320": {
 "v": 2,
@@ -60086,7 +60087,8 @@
 ],
 "reason": "Ruling on the livestock ammonia emission-reduction regime, a general rule for farms.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0731"
 },
 "rvvb:RVVB.2526.0729": {
 "v": 2,
@@ -60097,7 +60099,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0729"
 },
 "rvvb:RVVB.2526.0725": {
 "v": 2,
@@ -60117,7 +60120,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0724"
 },
 "rvvb:RVVB.2526.0723": {
 "v": 2,
@@ -60128,7 +60132,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0723"
 },
 "rvvb:RVVB.2526.0722": {
 "v": 2,
@@ -60139,7 +60144,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0722"
 },
 "rvvb:RVVB.2526.0721": {
 "v": 2,
@@ -60177,7 +60183,8 @@
 ],
 "reason": "Case title gives no detail; RvVb environmental permit case, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0716"
 },
 "rvvb:RVVB.2526.0715": {
 "v": 2,
@@ -60188,7 +60195,8 @@
 ],
 "reason": "Case title gives no detail; RvVb environmental permit case, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0715"
 },
 "rvs:265676": {
 "v": 2,
@@ -61967,7 +61975,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0714"
 },
 "rvvb:RVVB.2526.0713": {
 "v": 2,
@@ -61978,7 +61987,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0713"
 },
 "rvvb:RVVB.2526.0712": {
 "v": 2,
@@ -62016,7 +62026,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0708"
 },
 "rvvb:RVVB.2526.0707": {
 "v": 2,
@@ -64635,15 +64646,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 1,
+"this_run": 11,
+"found_not_relevant_on_reading": 0,
 "failed": 3,
-"waiting": 423,
+"waiting": 412,
 "api": {
 "calls": 14,
-"input_tokens": 125414,
-"output_tokens": 49231,
-"usd": 0.7431
+"input_tokens": 247638,
+"output_tokens": 49290,
+"usd": 0.9882
 },
 "updated": "2026-11-23"
 }
