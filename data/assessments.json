@@ -20476,7 +20476,9 @@
 ],
 "reason": "Corrigendum to act creating an Aarhus compliance review mechanism for environmental procedure.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Corrigendum on state aid procedure wording ('existing aid' to 'existing aid scheme'); no change to environmental obligations in Belgium."
 },
 "codex:1042382": {
 "v": 3,
@@ -20626,7 +20628,9 @@
 ],
 "reason": "Harmonises enforcement decrees with new Criminal Code; may affect environmental enforcement.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Technical alignment of penalty references with the new Criminal Code in cemetery, local government, electoral and justice decrees; no environmental obligations affected."
 },
 "codex:1042277": {
 "v": 3,
@@ -20881,7 +20885,8 @@
 ],
 "reason": "Urban development operations support rules; spatial planning relevance, subsidy-focused.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-139813"
 },
 "wallex:139711": {
 "v": 3,
@@ -34082,15 +34087,17 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2627.0096": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
+"permitting",
 "environmental-law"
 ],
-"reason": "Title gives no description; Council ruling may interpret permit rules.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Interprets art. 64 Omgevingsvergunningsdecreet: when amended plans need a new public inquiry, the burden of proof on objectors, and the limits of post-inquiry clarifying documents.",
+"confidence": "high",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2627-0096"
 },
 "rvvb:RVVB.2627.0095": {
@@ -57376,7 +57383,8 @@
 ],
 "reason": "Restates that permit conditions under art. 74 Omgevingsvergunningsdecreet must be proportionate and cannot substantially change the application; annuls permit for unlawful condition.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0983"
 },
 "rvvb:RVVB.2526.0981": {
 "v": 3,
@@ -57388,7 +57396,8 @@
 ],
 "reason": "Annuls a permit: art. 4.4.9/1 VCRO deviation from a BPA is unavailable where the BPA does not order the whole woonuitbreidingsgebied, so it is not a mere supplement.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0981"
 },
 "rvvb:RVVB.2526.0980": {
 "v": 2,
@@ -57411,7 +57420,8 @@
 ],
 "reason": "Permit annulled: the statement of reasons must answer a separately raised objection (subsoil shrink-swell risk), and post factum justification in written pleadings cannot be considered.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0979"
 },
 "rvvb:RVVB.2526.0978": {
 "v": 3,
@@ -57424,16 +57434,20 @@
 ],
 "reason": "Annuls permit: a project-MER screening must consider cumulative effects with related activities on the same site; screening can't be accepted without that examination.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0978"
 },
 "rvvb:RVVB.2526.0977": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "No description; court ruling could not be assessed from title.",
-"confidence": "low",
-"at": "2026-11-22",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Agricultural shed in agricultural zone: leefbaarheid is a non-economic planning test; authority must specially justify shed size against negative advice.",
+"confidence": "high",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2526-0977"
 },
 "rvvb:RVVB.2526.0976": {
@@ -57446,13 +57460,17 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2526.0975": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual permit for converting a shop with housing.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Annuls a permit: a RUP applies to renovation without transitional rules, so the building-depth rules bind; scale compatibility must be assessed.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0975"
 },
 "rvvb:RVVB.2526.0974": {
 "v": 3,
@@ -57465,7 +57483,8 @@
 ],
 "reason": "Adding an appropriate assessment (passende beoordeling) late in appeal is an essential change requiring a new public inquiry under art. 64 OVD; wachtmuur in art. 4.4.3 VCRO is strictly construed.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0974"
 },
 "rvvb:RVVB.2526.0972": {
 "v": 3,
@@ -57477,7 +57496,8 @@
 ],
 "reason": "Clarifies when permit conditions are valid under art. 74 Omgevingsvergunningsdecreet and art. 4.3.1 VCRO: precision, proportionality, and whether a condition can impose an unrequested rebuild.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0972"
 },
 "rvvb:RVVB.2526.0971": {
 "v": 2,
@@ -57510,7 +57530,8 @@
 ],
 "reason": "A BPA cannot define zoning by reference to private sales conditions; it is set aside under art. 159 Grondwet, so the permit must be assessed against the gewestplan.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0969"
 },
 "rvvb:RVVB.2526.0968": {
 "v": 2,
@@ -57532,7 +57553,8 @@
 ],
 "reason": "Where a municipality is both applicant and initiator of a screening-obligatory project, the deputation, not the college, is competent in first instance (art. 15/1 Omgevingsvergunningsdecreet, art. 9bi",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0967"
 },
 "rvvb:RVVB.2526.0966": {
 "v": 2,
@@ -57570,13 +57592,17 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0961": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual permit for fifteen assisted-living homes.",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Permit annulled because it relied on a digital atlas later annulled retroactively by the Council of State; a binding negative water-manager advice must be reassessed.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0960": {
 "v": 2,
@@ -58881,11 +58907,14 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0892": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual case on one house demolition and rebuild permit.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Deputation departing from the provincial environmental officer's negative advice must give precise, careful reasons; bare restatement of 'insufficient' as 'sufficient' fails, and a RUP silent on sitin",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -59218,15 +59247,14 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0850": {
-"v": 2,
-"verdict": "relevant",
+"v": 3,
+"verdict": "not relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [],
-"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Fact-specific rejection of suspension request in a neighbour dispute over a house terrace permit; no environmental obligations changed or clarified."
+"reason": "Rejects a suspension of a terrace regularisation permit for lack of urgency; it restates the standard test and applies it to one file's facts.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0849": {
 "v": 3,
@@ -59560,11 +59588,14 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0811": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on refusal of one individual permit for converting a dwelling.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Favourable heritage advice does not bind the permit authority, which may depart from it if it motivates why. A hearing request made after the 14-day deadline need not be granted.",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -59723,12 +59754,15 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0788": {
-"v": 2,
+"v": 3,
 "verdict": "not relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on one individual permit for building two dwellings.",
-"confidence": "high",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Rejects suspension for lack of urgency on one file's facts; no regulation annulled and no new point of law.",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0785": {
@@ -60008,11 +60042,14 @@
 "written": "d-rvvb-rvvb-2526-0757"
 },
 "rvvb:RVVB.2526.0756": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on one refused permit for temporary storage of materials.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Petition must state its grounds (middelen) itself under art. 15, 4° Procedurebesluit; grounds in annexes or later notes cannot cure this defect.",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -60224,12 +60261,15 @@
 "written": "d-rvvb-rvvb-2526-0729"
 },
 "rvvb:RVVB.2526.0725": {
-"v": 2,
+"v": 3,
 "verdict": "not relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Refused individual permit for tree felling and two houses.",
-"confidence": "high",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Routine single-file review of a refusal for two houses; restates settled standards on good spatial planning and motivation without a new point of law.",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0724": {
@@ -64972,35 +65012,35 @@
 "summary": {
 "scope_from": "2026-01-01",
 "in_scope": 7042,
-"assessed": 5829,
-"waiting": 1213,
-"relevant": 622,
-"not_relevant": 4881,
+"assessed": 5839,
+"waiting": 1203,
+"relevant": 629,
+"not_relevant": 4884,
 "excluded_by_rule": 326,
-"this_run": 11,
+"this_run": 10,
 "api": {
 "calls": 260,
-"input_tokens": 3674961,
-"output_tokens": 103677,
-"usd": 0.4193
+"input_tokens": 3685051,
+"output_tokens": 103690,
+"usd": 0.4204
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 433,
+"waiting": 426,
 "api": {
 "calls": 14,
-"input_tokens": 218839,
-"output_tokens": 42160,
-"usd": 0.8593
+"input_tokens": 211124,
+"output_tokens": 34777,
+"usd": 0.77
 },
 "updated": "2026-11-23"
 },
 "writer_v": 2,
 "rulings_reset": 228,
-"last_error": "Unterminated string starting at: line 1 column 56 (char 55)"
+"last_error": "no JSON in reply"
 }
