@@ -35837,7 +35837,8 @@
 ],
 "reason": "Constitutional Court ruling interpreting Walloon environmental and water code provisions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-56-2026"
 },
 "gwh:55/2026": {
 "v": 4,
@@ -36847,7 +36848,9 @@
 ],
 "reason": "Internal delegation of environmental permitting powers within the Flemish environment department.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Internal delegation of HR, procurement, correspondence and litigation powers within Departement Omgeving; no environmental obligations for companies or developers change."
 },
 "codex:1041961": {
 "v": 4,
@@ -36858,7 +36861,9 @@
 ],
 "reason": "Designates environmental enforcement inspectors with judicial police status.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appoints three named Flemish Land Agency supervisors as judicial police officers; no change to environmental obligations or enforcement rules."
 },
 "codex:1041960": {
 "v": 4,
@@ -64007,7 +64012,8 @@
 ],
 "reason": "Restates UDN suspension standards for permits: urgency must be shown with current evidence, harm must be serious and irreparable, and removable structures weigh against urgency.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0705"
 },
 "rvvb:RVVB.2526.0704": {
 "v": 4,
@@ -64029,7 +64035,8 @@
 ],
 "reason": "Simplified permit procedure does not apply to projects in gewestplan zones without a RUP/BPA/verkaveling, or above 3000 m³ outside industrial areas; appeal body must check procedure.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0703"
 },
 "rvvb:RVVB.2526.0701": {
 "v": 4,
@@ -64052,7 +64059,8 @@
 ],
 "reason": "Annuls a road-works permit: watertoets must be redone for flood-prone zone, and parking/mobility assessment must show an adequate investigation of parking demand.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0699"
 },
 "rvvb:RVVB.2526.0698_0": {
 "v": 4,
@@ -64065,7 +64073,8 @@
 ],
 "reason": "Essential studies added at appeal (nitrogen note) are an amendment under art. 64 Omgevingsvergunningsdecreet; withholding them from public inquiry breaches it when decisive.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0698-0"
 },
 "rvvb:RVVB.2526.0697": {
 "v": 4,
@@ -64077,7 +64086,8 @@
 ],
 "reason": "States that the spatial-yield criterion (art. 4.3.1 §2 VCRO) is a correction for deviating from the existing situation, and that new pleas raised late are inadmissible.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0697"
 },
 "rvvb:RVVB.2526.0696": {
 "v": 4,
@@ -64090,7 +64100,8 @@
 ],
 "reason": "Applies the plan-MER screening exemption (DABM art. 4.2.3 §3) and holds that a plea must engage with the planning authority's screening reasoning; also states standing rules for competitors and public",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0696"
 },
 "rvvb:RVVB.2526.0695": {
 "v": 4,
@@ -64102,7 +64113,8 @@
 ],
 "reason": "Clarifies that 'hoofdzakelijk vergund' covers function, that the one-year rule limits only counter-evidence against a registration, and that post factum motivation cannot be considered.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0695"
 },
 "rvvb:RVVB.2526.0694": {
 "v": 4,
@@ -64114,7 +64126,8 @@
 ],
 "reason": "Third-party appeal period for 'vergund geacht' registration runs from actual knowledge; no one-year cut-off; praetorian permit presumption for pre-1984 function changes.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0694"
 },
 "rvvb:RVVB.2526.0693": {
 "v": 4,
@@ -64127,7 +64140,8 @@
 ],
 "reason": "Sets out how the deemed-permit presumption (art. 4.2.14 VCRO) and 'hoofdzakelijk vergund' must be proven for zoning-nonconforming dwellings in nature areas; a cadastral plan alone is insufficient.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0693"
 },
 "rvvb:RVVB.2526.0692": {
 "v": 4,
@@ -64139,7 +64153,8 @@
 ],
 "reason": "Interprets art. 4.4.8/2 VCRO: authorities must check existing storage options and whether the dwelling is mainly permitted before allowing a horse stable in agricultural areas.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0692"
 },
 "rvvb:RVVB.2526.0690": {
 "v": 4,
@@ -64152,7 +64167,8 @@
 ],
 "reason": "Applies vermoeden van vergunning (art. 5.1.3 §2 VCRO): burden of proof on applicant, authority's active investigation duty, and reasoned statement required for 'vergund geacht' registration decisions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0690"
 },
 "rvvb:RVVB.2526.0689": {
 "v": 4,
@@ -67212,15 +67228,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 506,
+"waiting": 492,
 "api": {
 "calls": 14,
-"input_tokens": 248458,
-"output_tokens": 50825,
-"usd": 1.0052
+"input_tokens": 232403,
+"output_tokens": 36686,
+"usd": 0.8317
 },
 "updated": "2026-11-23"
 },
