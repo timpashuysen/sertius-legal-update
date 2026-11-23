@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 5 (char 2998)"
+"write_error": "Unterminated string starting at: line 9 column 1 (char 2816)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 5996)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 5877)"
 },
 "codex:1042061": {
 "v": 2,
@@ -33325,7 +33325,8 @@
 ],
 "reason": "Corrects national allocation tables under the EU emissions trading scheme, including Belgium.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d04727"
 },
 "eu:32024L2853R(01)": {
 "v": 2,
@@ -33507,7 +33508,9 @@
 ],
 "reason": "Corrigendum to cosmetics regulation restricting chemical substances; chemicals rule.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Corrigendum only corrects table reference numbers in a cosmetics ingredient annex; no change to obligations and no environmental subject matter."
 },
 "eu:32026R0274R(02)": {
 "v": 2,
@@ -33716,7 +33719,9 @@
 ],
 "reason": "Harmonised standard for fuel tank overfill prevention; spill and pollution prevention.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Updates a harmonised standard reference for ATEX explosion-safety conformity of fuel tank equipment; it sets no environmental obligations."
 },
 "eu:32024R1689R(04)": {
 "v": 2,
@@ -34846,7 +34851,8 @@
 ],
 "reason": "Adds enforcement measures register to property platform under Flemish enforcement framework decree.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042014"
 },
 "codex:1042003": {
 "v": 2,
@@ -35136,7 +35142,8 @@
 ],
 "reason": "Proposal changing waste export rules for mixed municipal waste destined for recovery.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-52026pc0183"
 },
 "eu:32026R1047": {
 "v": 2,
@@ -59865,7 +59872,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0757"
 },
 "rvvb:RVVB.2526.0756": {
 "v": 2,
@@ -59912,7 +59920,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0752"
 },
 "rvvb:RVVB.2526.0751": {
 "v": 2,
@@ -59950,7 +59959,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0748"
 },
 "rvvb:RVVB.2526.0747": {
 "v": 2,
@@ -59970,7 +59980,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0744"
 },
 "rvvb:RVVB.2526.0743": {
 "v": 2,
@@ -59990,7 +60001,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0742"
 },
 "rvvb:RVVB.2526.0741": {
 "v": 2,
@@ -60028,7 +60040,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0736"
 },
 "rvvb:RVVB.2526.0733": {
 "v": 2,
@@ -60039,7 +60052,8 @@
 ],
 "reason": "Title missing; Council ruling on an environmental permit, content unknown.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0733"
 },
 "rvvb:RVVB.2526.0732": {
 "v": 2,
@@ -64611,12 +64625,12 @@
 "this_run": 10,
 "found_not_relevant_on_reading": 2,
 "failed": 2,
-"waiting": 446,
+"waiting": 434,
 "api": {
 "calls": 14,
-"input_tokens": 206331,
-"output_tokens": 42083,
-"usd": 0.8335
+"input_tokens": 191143,
+"output_tokens": 35875,
+"usd": 0.741
 },
 "updated": "2026-11-23"
 }

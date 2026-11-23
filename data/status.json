@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-23T05:06:56+00:00",
+ "ran": "2026-11-23T05:16:35+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 811,
    "backfilled_to": "2026-11-01",
-   "seconds": 12.1
+   "seconds": 14.4
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 10.6
+   "seconds": 10.7
   },
   "codex": {
    "ok": true,
@@ -24,28 +24,28 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 26.2
+   "seconds": 28.6
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 0,
-   "errors": 12,
+   "errors": 8,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 92.0
+   "seconds": 75.3
   },
   "staatsblad": {
    "ok": true,
    "matched": 46,
    "read": 46,
    "backfilled_to": "2026-11-23",
-   "seconds": 10.7
+   "seconds": 11.1
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.4
+   "seconds": 0.1
   },
   "rvvb": {
    "ok": true,
@@ -74,13 +74,13 @@
     "last_error": "",
     "updated": "2026-11-23T03:55:30Z"
    },
-   "seconds": 0.3
+   "seconds": 0.4
   },
   "cass": {
    "ok": true,
    "listed": 144,
    "new": 0,
-   "seconds": 0.8
+   "seconds": 1.2
   },
   "editorial": {
    "ok": true,
@@ -88,7 +88,7 @@
    "reachable": 7,
    "articles": 3,
    "new": 0,
-   "seconds": 18.3
+   "seconds": 19.7
   }
  },
  "not_collected": {

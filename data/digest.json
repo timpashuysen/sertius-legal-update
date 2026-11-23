@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:14:46Z",
+ "updated": "2026-11-23T05:23:26Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -15882,6 +15882,409 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0759"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0757",
+   "d": "2026-05-07",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Evergem agricultural shed permit: size of shed and paving not justified, new decision due in 3 months",
+   "a": "The Council for Permit Disputes annulled the deputation's environmental permit for a 1,000 m² agricultural shed, paving and infiltration facility in agricultural zone in Evergem. The decision did not assess the necessity of the shed's size or of the paving.",
+   "b": "The ruling concerns a permit granted on administrative appeal for an agricultural shed, new concrete and permeable paving and an infiltration facility, together with an extension of a classified mixed cattle and arable farm in agricultural zone (gewestplan). The Council held that the permit decision gave no adequate answer to the provincial permit committee's view that the application had to be assessed as it stood, without confirmed active-farmer status; the permit only barred use until that status was officially confirmed. It also found that the decision contained no assessment of whether the 1,000 m² size of the shed is acceptable, given 24 additional cattle, 200 m³ of straw/hay, feed storage and eight vehicles, nor of the extent of the paving. Registration as an active farmer does not on its own justify either. The Council rejected the other criticisms: the clause on future stable space was only a point of attention, not a permit condition under article 74 of the Omgevingsvergunningsdecreet, and the fear of conversion into a riding hall was not substantiated. The decision is annulled and the deputation must take a new decision on the appeal within three months of service of the ruling. The costs (600 euro registration fee and 840 euro procedural indemnity) are borne by the deputation. The ruling was delivered on 7 May 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning landbouwloods Evergem: omvang loods en verharding niet verantwoord, nieuwe beslissing binnen drie maanden",
+    "De Raad voor Vergunningsbetwistingen vernietigt de omgevingsvergunning die in beroep was verleend voor een landbouwloods van 1.000 m², verharding en een infiltratievoorziening in agrarisch gebied te Evergem. De bestreden beslissing beoordeelde de noodzaak van de omvang van de loods en van de verharding niet.",
+    "Het arrest betreft een in administratief beroep verleende vergunning voor een landbouwloods, nieuwe betonverharding en waterdoorlatende steenslagverharding, een infiltratievoorziening en een uitbreiding van een ingedeeld gemengd rundvee- en akkerbouwbedrijf in agrarisch gebied (gewestplan). De Raad oordeelt dat de beslissing geen afdoende antwoord biedt op het standpunt van de provinciale omgevingsvergunningscommissie dat de aanvraag moest worden beoordeeld zoals ze voorlag, zonder bevestigd statuut van actieve landbouwer; de vergunning mocht pas in gebruik worden genomen na officiële bevestiging van dat statuut. Daarnaast bevat de beslissing geen beoordeling van de aanvaardbaarheid van de omvang van de loods van 1.000 m², gelet op 24 bijkomende runderen, 200 m³ stro/hooi, opslag van krachtvoeder en acht voertuigen, noch van de omvang van de verharding. De registratie als actieve landbouwer verantwoordt op zich geen van beide. De overige kritiek werd verworpen: de clausule over toekomstige stalruimte was slechts een aandachtspunt en geen vergunningsvoorwaarde in de zin van artikel 74 van het Omgevingsvergunningsdecreet, en de vrees voor omvorming tot rijhal werd niet onderbouwd. De bestreden beslissing wordt vernietigd en de verwerende partij moet binnen drie maanden na de dag van de betekening van het arrest een nieuwe beslissing nemen over het beroep. De kosten (rolrecht van 600 euro en rechtsplegingsvergoeding van 840 euro) komen ten laste van de verwerende partij. Het arrest is uitgesproken op 7 mei 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'un hangar agricole à Evergem: taille du hangar et revêtement non justifiés, nouvelle décision sous trois mois",
+    "Le Conseil pour les contestations de permis (RvVb) annule le permis d'environnement délivré en recours pour un hangar agricole de 1.000 m², un revêtement et une installation d'infiltration en zone agricole à Evergem. La décision attaquée n'évaluait pas la nécessité de la taille du hangar ni du revêtement.",
+    "L'arrêt concerne un permis délivré sur recours administratif pour un hangar agricole, un nouveau revêtement en béton et en empierrement perméable, une installation d'infiltration et l'extension d'une exploitation mixte classée (bovins et grandes cultures) en zone agricole (plan de secteur). Le Conseil juge que la décision ne répond pas valablement à l'avis de la commission provinciale des permis d'environnement, selon lequel la demande devait être appréciée telle qu'elle se présentait, sans statut confirmé d'agriculteur actif; le permis ne pouvait être mis en service qu'après confirmation officielle de ce statut. De plus, la décision ne contient aucune appréciation du caractère acceptable de la taille du hangar de 1.000 m², au regard de 24 bovins supplémentaires, de 200 m³ de paille/foin, du stockage d'aliments concentrés et de huit véhicules, ni de l'ampleur du revêtement. L'enregistrement comme agriculteur actif ne justifie ni l'un ni l'autre en soi. Les autres griefs sont rejetés: la clause sur l'espace d'étable futur n'était qu'un point d'attention et non une condition de permis au sens de l'article 74 du Omgevingsvergunningsdecreet, et la crainte d'une transformation en manège couvert n'était pas étayée. La décision attaquée est annulée et la partie adverse doit prendre une nouvelle décision sur le recours dans les trois mois suivant le jour de la signification de l'arrêt. Les dépens (droit de rôle de 600 euros et indemnité de procédure de 840 euros) sont à charge de la partie adverse. L'arrêt a été prononcé le 7 mai 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0757: omgevingsvergunning landbouwloods Evergem, artikel 74 Omgevingsvergunningsdecreet, artikel 11.4.1 Inrichtingsbesluit, Motiveringswet",
+   "dates": {
+    "adopted": "2026-05-07"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0757.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0757.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0757"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d04727",
+   "d": "2026-05-07",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Commission orders corrections to free ETS allocation tables for 2021-2025, incl. two Belgian installations",
+   "a": "The Commission instructs the Union Registry central administrator to enter corrected national allocation tables for Belgium, Ireland, Spain, France, Italy, Poland, Slovakia and Finland. They set final annual amounts of transitional free EU ETS allowances for 2021-2025.",
+   "b": "The decision concerns operators of EU ETS installations in eight Member States whose national allocation tables were amended after notification to the Commission, and the authorities responsible for those tables. For Belgium, two installations are affected. At BE-224 (AB InBev, Leuven) the electricity generator status is corrected. At BE-205758 (EuroChem Antwerpen) the non-ETS heat import of the nitric acid sub-installation and the historical activity levels of the heat and fuel sub-installations are corrected. The Commission found the notified tables in line with Article 10c of Directive 2003/87/EC, Delegated Regulation (EU) 2019/331 and Decision (EU) 2021/355. It instructs the central administrator to enter the corrected final annual amounts of transitional free allocation for 2021 to 2025 into the Union Registry. For Belgium, Annex I sets 284,836 allowances per year for EuroChem Antwerpen and 5,310 per year for AB InBev Leuven, 1,450,730 in total over the five years. The other seven Member States have corrections to sub-installations of their own installations, with amounts in Annexes II to VIII. The decision is dated 7 May 2026 and appears in the Official Journal of 2 September 2026; it does not state a separate entry into force.",
+   "nl": [
+    "Commissie gelast correcties van de gratis ETS-toewijzingstabellen 2021-2025, ook voor twee Belgische installaties",
+    "De Commissie gelast de centrale administrateur van het EU-register om gecorrigeerde nationale toewijzingstabellen van België, Ierland, Spanje, Frankrijk, Italië, Polen, Slowakije en Finland in te voeren. Zij bepalen de definitieve jaarlijkse hoeveelheden van de overgangsregeling voor gratis ETS-emissierechten voor 2021-2025.",
+    "Het besluit betreft exploitanten van ETS-installaties in acht lidstaten van wie de nationale toewijzingstabellen na kennisgeving aan de Commissie werden gewijzigd, en de autoriteiten die voor die tabellen instaan. Voor België zijn twee installaties betrokken. Bij BE-224 (AB InBev, Leuven) wordt de status van elektriciteitsproducent gecorrigeerd. Bij BE-205758 (EuroChem Antwerpen) worden de invoer van niet-ETS-warmte van de deelinstallatie salpeterzuur en de historische activiteitsniveaus van de deelinstallaties warmte en brandstof gecorrigeerd. De Commissie oordeelt dat de aangemelde tabellen in overeenstemming zijn met artikel 10quater van Richtlijn 2003/87/EG, Gedelegeerde Verordening (EU) 2019/331 en Besluit (EU) 2021/355. Zij gelast de centrale administrateur de gecorrigeerde definitieve jaarlijkse hoeveelheden van de overgangstoewijzing van gratis emissierechten voor 2021 tot 2025 in het EU-register in te voeren. Voor België bepaalt bijlage I 284.836 emissierechten per jaar voor EuroChem Antwerpen en 5.310 per jaar voor AB InBev Leuven, samen 1.450.730 over vijf jaar. Voor de zeven andere lidstaten gaat het om correcties van deelinstallaties van hun eigen installaties, met de hoeveelheden in de bijlagen II tot en met VIII. Het besluit is gedateerd op 7 mei 2026 en verschijnt in het Publicatieblad van 2 september 2026; een afzonderlijke inwerkingtreding wordt niet vermeld."
+   ],
+   "fr": [
+    "La Commission ordonne des corrections des tableaux d'allocation gratuite SEQE 2021-2025, dont deux installations belges",
+    "La Commission donne instruction à l'administrateur central du registre de l'Union de saisir les tableaux nationaux d'allocation corrigés de la Belgique, de l'Irlande, de l'Espagne, de la France, de l'Italie, de la Pologne, de la Slovaquie et de la Finlande. Ils fixent les quantités annuelles finales de quotas SEQE alloués à titre gratuit en régime transitoire pour 2021-2025.",
+    "La décision concerne les exploitants d'installations SEQE de huit États membres dont les tableaux nationaux d'allocation ont été modifiés après notification à la Commission, ainsi que les autorités responsables de ces tableaux. Pour la Belgique, deux installations sont concernées. Pour BE-224 (AB InBev, Louvain), le statut de producteur d'électricité est corrigé. Pour BE-205758 (EuroChem Antwerpen), l'importation de chaleur hors SEQE de la sous-installation acide nitrique et les niveaux d'activité historiques des sous-installations chaleur et combustible sont corrigés. La Commission considère que les tableaux notifiés sont conformes à l'article 10 quater de la directive 2003/87/CE, au règlement délégué (UE) 2019/331 et à la décision (UE) 2021/355. Elle charge l'administrateur central de saisir dans le registre de l'Union les quantités annuelles finales corrigées de l'allocation transitoire de quotas à titre gratuit pour 2021 à 2025. Pour la Belgique, l'annexe I fixe 284 836 quotas par an pour EuroChem Antwerpen et 5 310 par an pour AB InBev Louvain, soit 1 450 730 au total sur cinq ans. Pour les sept autres États membres, il s'agit de corrections de sous-installations de leurs propres installations, avec les quantités figurant aux annexes II à VIII. La décision est datée du 7 mai 2026 et paraît au Journal officiel du 2 septembre 2026 ; elle ne prévoit pas d'entrée en vigueur distincte."
+   ],
+   "scope": "Commission Decision C/2026/4727 – sole article and Annexes I–VIII (national allocation tables 2021-2025 under Article 10a of Directive 2003/87/EC)",
+   "dates": {
+    "adopted": "2026-05-07",
+    "published": "2026-09-02"
+   },
+   "u": [
+    [
+     "Commission Decision of 7 May 2026 instructing the Central Administrator of the Union Registry to enter corrections to the national allocatio",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D04727"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D04727"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0752",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: appeal against permit for DN500 water pipe in Kortrijk inadmissible for lack of demonstrated interest",
+   "a": "The Council for Permit Disputes rejected an appeal against an environmental permit changing the construction method of a DN500 water pipe in Kortrijk. The applicant did not show personal effects and was acting as an actio popularis.",
+   "b": "The ruling concerns a third-party appeal against an environmental permit of 5 March 2025 for a DN500 water pipe in Kortrijk. The permit is a limited change to a 2023 permit and replaces directed drilling with open trench over part of the route. Under the Environmental Permit Decree, appeals are open to the 'public concerned', meaning those who experience or are likely to experience effects or who have an interest in the decision-making; only the actio popularis is excluded. The Council held that the applicant could not act for eleven unnamed objectors or for the general interest. The application also did not state where the applicant lives relative to the project site, and gave only vague or general grounds (pipe impact, cost to taxpayers, clay soil, settlement risks). It therefore showed no personal effects, and the appeal is inadmissible. The ruling was delivered on 30 April 2026; costs, including a legal-aid allowance of 840 euros for the permitting authority and a 200 euro filing fee, fall on the applicant, while the intervening permit holder is not awarded such an allowance.",
+   "nl": [
+    "RvVb: beroep tegen vergunning voor waterleiding DN500 in Kortrijk onontvankelijk wegens ontbrekend belang",
+    "De Raad voor Vergunningsbetwistingen verwerpt een beroep tegen een omgevingsvergunning die de uitvoeringsmethode van een waterleiding DN500 in Kortrijk wijzigt. De verzoekende partij toonde geen persoonlijke gevolgen aan en trad op als actio popularis.",
+    "Het arrest betreft een derdenberoep tegen een omgevingsvergunning van 5 maart 2025 voor een waterleiding DN500 in Kortrijk. De vergunning is een beperkte wijziging van een vergunning uit 2023 en vervangt over een deel van het tracé de gestuurde boring door een open sleuf. Volgens het Omgevingsvergunningsdecreet staat beroep open voor 'het betrokken publiek', dat wil zeggen wie gevolgen ondervindt of waarschijnlijk ondervindt of belang heeft bij de besluitvorming; enkel de actio popularis is uitgesloten. De Raad oordeelt dat de verzoekende partij niet kan optreden voor elf niet nader genoemde bezwaarindieners of voor het algemeen belang. Ze duidde ook niet aan waar haar woonplaats zich situeert ten opzichte van de projectzone en voerde slechts vage of algemene bezwaren aan (impact van de leiding, belastinggeld, kleigevoelige grond, zettingsrisico's). Ze toont dus geen persoonlijke gevolgen aan en het beroep is onontvankelijk. Het arrest is uitgesproken op 30 april 2026; de kosten, met een rechtsplegingsvergoeding van 840 euro voor de vergunningverlenende overheid en een rolrecht van 200 euro, komen ten laste van de verzoekende partij, terwijl de tussenkomende vergunninghouder geen rechtsplegingsvergoeding krijgt."
+   ],
+   "fr": [
+    "CCAP: recours contre le permis pour une conduite d'eau DN500 à Courtrai irrecevable, faute d'intérêt démontré",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette un recours contre un permis d'environnement modifiant la méthode d'exécution d'une conduite d'eau DN500 à Courtrai. La partie requérante n'a pas démontré d'effets personnels et agissait par actio popularis.",
+    "L'arrêt porte sur un recours de tiers contre un permis d'environnement du 5 mars 2025 pour une conduite d'eau DN500 à Courtrai. Ce permis est une modification limitée d'un permis de 2023 et remplace, sur une partie du tracé, le forage dirigé par une tranchée ouverte. Selon le décret du 25 avril 2014 relatif au permis d'environnement, le recours est ouvert au « public concerné », c'est-à-dire à celui qui subit ou est susceptible de subir des effets ou qui a un intérêt dans la prise de décision; seule l'actio popularis est exclue. Le Conseil juge que la partie requérante ne peut agir pour onze auteurs de réclamations non identifiés ni pour l'intérêt général. Elle n'a pas non plus indiqué où elle habite par rapport à la zone du projet et n'a avancé que des griefs vagues ou généraux (impact de la conduite, deniers publics, sol argileux, risques de tassement). Elle ne démontre donc pas d'effets personnels et le recours est irrecevable. L'arrêt a été prononcé le 30 avril 2026; les dépens, dont une indemnité de procédure de 840 euros pour l'autorité délivrante et un droit de rôle de 200 euros, sont à charge de la partie requérante, tandis que le titulaire du permis intervenant ne reçoit pas d'indemnité de procédure."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0752 van 30 april 2026: belang van het betrokken publiek (art. 2 en 105 Omgevingsvergunningsdecreet; art. 56 Procedurebesluit)",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0752.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0752.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0752"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0748",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Antwerp permit for 17 room dwellings: public inquiry in appeal of simplified procedure poorly reasoned",
+   "a": "The Council for Permit Disputes annulled the Antwerp deputation's permit for converting a building into seventeen room dwellings. A public inquiry was held in appeal on an application that had followed the simplified procedure, without reasoning why the amended application did not require one.",
+   "b": "The ruling concerns applications under the simplified permit procedure of the Flemish Omgevingsvergunningsdecreet that are amended during administrative appeal. The Council holds that, read with article 64, article 45 does not allow an amendment in appeal that would require a public inquiry on the amended application. Article 64 conditions (no harm to people, environment or spatial planning; amendments meet advice or objections; no manifest infringement of third-party rights) are the test, not article 13 of the Omgevingsvergunningsbesluit. The Council accepts that an authority may organise a public inquiry that is not legally required, provided the amended application passes the article 64 test. Here the deputation had ordered a public inquiry after the fifth amendment (PIV5), yet its decision stated that no inquiry was needed and that only the neighbours had to be re-consulted. It gave no reasons for this change of view and did not address a new rear staircase structure. The decision of 19 December 2024 is annulled for a formal reasoning defect, and the request to substitute a refusal is rejected. The deputation must take a new decision within three months of notification of the ruling, and bears the costs (court fee of 800 euro and procedural indemnity of 840 euro).",
+   "nl": [
+    "RvVb vernietigt Antwerpse vergunning voor zeventien kamerwoningen: openbaar onderzoek in beroep onvoldoende gemotiveerd",
+    "De Raad voor Vergunningsbetwistingen vernietigt de vergunning van de deputatie voor de verbouwing tot zeventien kamerwoningen in Antwerpen. In beroep werd een openbaar onderzoek gehouden over een aanvraag uit de vereenvoudigde procedure, zonder te motiveren waarom de gewijzigde aanvraag er geen vereiste.",
+    "Het arrest betreft aanvragen in de vereenvoudigde vergunningsprocedure van het Omgevingsvergunningsdecreet die in bestuurlijk beroep worden gewijzigd. De Raad oordeelt dat artikel 45, samen gelezen met artikel 64, geen wijzigingen in beroep toelaat die een openbaar onderzoek over de gewijzigde aanvraag zouden vereisen. De voorwaarden van artikel 64 (geen afbreuk aan de bescherming van mens of milieu of de goede ruimtelijke ordening, tegemoetkoming aan adviezen of bezwaren, kennelijk geen schending van de rechten van derden) vormen de toetssteen, niet artikel 13 van het Omgevingsvergunningsbesluit. Een overheid mag een wettelijk niet vereist openbaar onderzoek organiseren, op voorwaarde dat de gewijzigde aanvraag de toets van artikel 64 doorstaat. De deputatie had na de vijfde gewijzigde projectinhoud (PIV5) een openbaar onderzoek bevolen, maar stelde in haar beslissing dat er geen nodig was en enkel de aanpalenden opnieuw moesten worden aangeschreven. Voor dat gewijzigde inzicht gaf ze geen motivering en ze ging niet in op de nieuwe buitentrap aan de achterzijde. De beslissing van 19 december 2024 wordt vernietigd wegens een formeel motiveringsgebrek en het verzoek tot indeplaatsstelling met een weigering wordt verworpen. De deputatie moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen en draagt de kosten (rolrecht van 800 euro en rechtsplegingsvergoeding van 840 euro)."
+   ],
+   "fr": [
+    "Le RvVb annule le permis anversois pour dix-sept logements en chambres : enquête publique en recours insuffisamment motivée",
+    "Le Conseil du contentieux des permis annule le permis délivré par la députation pour la transformation en dix-sept logements en chambres à Anvers. Une enquête publique a été tenue en recours sur une demande issue de la procédure simplifiée, sans motiver pourquoi la demande modifiée n'en requérait pas.",
+    "L'arrêt concerne les demandes suivant la procédure simplifiée du Omgevingsvergunningsdecreet (décret flamand sur le permis d'environnement) qui sont modifiées en recours administratif. Le Conseil juge que l'article 45, lu avec l'article 64, n'autorise pas en recours de modifications qui exigeraient une enquête publique sur la demande modifiée. Les conditions de l'article 64 (pas d'atteinte à la protection de l'homme ou de l'environnement ni au bon aménagement du territoire, prise en compte des avis ou réclamations, pas de violation manifeste des droits de tiers) constituent le critère, et non l'article 13 de l'Omgevingsvergunningsbesluit (arrêté d'exécution). Une autorité peut organiser une enquête publique non requise légalement, pour autant que la demande modifiée satisfasse au critère de l'article 64. Après la cinquième modification (PIV5), la députation avait ordonné une enquête publique, mais sa décision affirme qu'aucune n'était nécessaire et que seuls les voisins devaient être réinterrogés. Elle n'a pas motivé ce changement d'avis ni examiné le nouvel escalier extérieur à l'arrière. La décision du 19 décembre 2024 est annulée pour vice de motivation formelle et la demande de substitution par un refus est rejetée. La députation doit prendre une nouvelle décision dans les trois mois de la notification de l'arrêt et supporte les dépens (droit de rôle de 800 euros et indemnité de procédure de 840 euros)."
+   ],
+   "scope": "Arrest RvVb.2526.0748: artikelen 17, 45 en 64 Omgevingsvergunningsdecreet; artikel 13 Omgevingsvergunningsbesluit; gewijzigde aanvraag in bestuurlijk beroep, vereenvoudigde procedure",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0748.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0748.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0748"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0744",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Deinze farmstead permit: zone-alien change of function insufficiently assessed",
+   "a": "The Council for Permit Disputes annulled a provincial decision granting an environmental permit to convert a farmstead in agricultural zone in Deinze. The deputation had wrongly assessed dilapidation and had not adequately justified the former-function and splitting conditions.",
+   "b": "The ruling concerns permit authorities and applicants seeking a zone-alien change of function for farm buildings in agricultural zone under Article 4.4.23 VCRO and the Decree on zone-alien changes of function. The Council holds that dilapidation (verkrotting) must be assessed at the time of the application, not at the time of a first application, since Article 4.4.10 VCRO does not apply to changes of function. For Article 10 of the Decree (heritage-inventoried buildings), the deputation did not adequately show that continuing the agricultural function is not feasible, given the unfavourable advice of the Agency for Agriculture and Fisheries and the provincial permit officer's report. The Council also finds that the deputation did not adequately justify why separating the farm dwelling from the farm buildings was not an unlawful split under Article 11, despite a stricter duty to give reasons when departing from the provincial officer. The request for substitution was rejected, and the deputation must take a new decision on the administrative appeal within three months of the day after notification of the ruling. Costs: a procedural indemnity of EUR 840 is payable by the deputation, and the EUR 100 cost of intervention stays with the second intervening party.",
+   "nl": [
+    "RvVb vernietigt vergunning hoeve Deinze: zonevreemde functiewijziging onvoldoende getoetst",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing waarmee een omgevingsvergunning werd verleend voor de verbouwing van een hoeve in agrarisch gebied te Deinze. De deputatie beoordeelde het verkrotte karakter verkeerd en motiveerde de voorwaarden inzake vroegere functie en afsplitsing onvoldoende.",
+    "Het arrest betreft vergunningverlenende overheden en aanvragers van een zonevreemde functiewijziging voor landbouwgebouwen in agrarisch gebied op grond van artikel 4.4.23 VCRO en het Besluit Zonevreemde Functiewijzigingen. De Raad oordeelt dat het verkrotte karakter moet worden beoordeeld op het ogenblik van de aanvraag en niet op dat van een eerste aanvraag, aangezien artikel 4.4.10 VCRO niet van toepassing is op functiewijzigingen. Voor artikel 10 van het Besluit (gebouwen in de inventaris van het bouwkundig erfgoed) toonde de deputatie onvoldoende aan dat de voortzetting van de landbouwfunctie niet haalbaar is, gelet op het ongunstige advies van het Agentschap Landbouw en Zeevisserij en het verslag van de provinciale omgevingsambtenaar. Ook motiveerde de deputatie onvoldoende waarom de afsplitsing van de bedrijfswoning van de bedrijfsgebouwen geen onwettige splitsing in de zin van artikel 11 was, ondanks de verzwaarde motiveringsplicht wanneer ze afwijkt van de provinciale omgevingsambtenaar. Het verzoek tot indeplaatsstelling wordt verworpen en de deputatie moet binnen drie maanden na de dag na de betekening van het arrest een nieuwe beslissing nemen over het administratief beroep. Een rechtsplegingsvergoeding van 840 euro valt ten laste van de deputatie en de 100 euro kosten van de tussenkomst blijven ten laste van de tweede tussenkomende partij."
+   ],
+   "fr": [
+    "Le CCA annule le permis pour une ferme à Deinze : changement de destination hors zone insuffisamment examiné",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule la décision délivrant un permis d'environnement pour la transformation d'une ferme en zone agricole à Deinze. La députation a mal apprécié le caractère de délabrement et n'a pas suffisamment motivé les conditions relatives à l'ancienne fonction et à la scission.",
+    "L'arrêt concerne les autorités délivrant les permis et les demandeurs d'un changement de destination hors zone pour des bâtiments agricoles en zone agricole, sur la base de l'article 4.4.23 du VCRO et de l'arrêté relatif aux changements de fonction hors zone. Le Conseil juge que le caractère de délabrement (verkrotting) doit être apprécié au moment de la demande, et non lors d'une première demande, l'article 4.4.10 du VCRO ne s'appliquant pas aux changements de fonction. Pour l'article 10 de l'arrêté (bâtiments repris à l'inventaire du patrimoine architectural), la députation n'a pas suffisamment démontré que la poursuite de la fonction agricole n'est pas réalisable, vu l'avis défavorable de l'Agence de l'Agriculture et de la Pêche et le rapport du fonctionnaire provincial chargé de l'environnement. Elle n'a pas non plus suffisamment motivé pourquoi la séparation de l'habitation d'exploitation et des bâtiments d'exploitation n'était pas une scission illicite au sens de l'article 11, malgré l'obligation de motivation renforcée lorsqu'elle s'écarte du fonctionnaire provincial. La demande de substitution est rejetée et la députation doit prendre une nouvelle décision sur le recours administratif dans les trois mois suivant le lendemain de la notification de l'arrêt. Une indemnité de procédure de 840 euros est à charge de la députation, et les 100 euros de frais d'intervention restent à charge de la seconde partie intervenante."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0744: artikel 4.4.23 VCRO; artikelen 10 en 11 Besluit Zonevreemde Functiewijzigingen; omgevingsvergunning Deinze",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0744.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0744.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0744"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0742",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Mol permit: underground infiltration under Rainwater Regulation not shown to be unavoidable",
+   "a": "The Council for Permit Disputes annulled a permit for a multi-family building in Mol because the deputation's reasons for allowing underground rainwater infiltration were insufficient. It ordered a new decision within three months.",
+   "b": "The ruling concerns an environmental permit granted on appeal for demolishing two houses and building a six-unit apartment building with two units for professions, offices or services and an underground car park in Mol, and it affects permit authorities and applicants applying the Flemish Rainwater Regulation. The Council holds that infiltration facilities must be built above ground unless the applicant shows with reasons that underground construction is unavoidable (article 8, §3). The permitting authority has no discretion here and must check this in law and in fact, and the reasons must be visible in the decision. The permit relied only on the plot being almost fully built over in line with the zoning plan (RUP). The Council found this insufficient, because the RUP sets minimum and maximum building depths and does not require the whole plot to be built on, and the decision did not name any provision that rules out an above-ground facility. The plea on the rainwater rules was upheld. The pleas on parking and on a possible subdivision permit requirement were rejected. The permit is annulled and the authority must take a new decision on the administrative appeal within three months of the day after notification of the ruling, with costs charged to it. The ruling was delivered on 30 April 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning in Mol: ondergrondse infiltratie onder de Hemelwaterverordening niet onvermijdbaar aangetoond",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een meergezinswoning in Mol omdat de motivering voor een ondergrondse infiltratievoorziening ontoereikend was. De Raad beveelt een nieuwe beslissing binnen drie maanden.",
+    "Het arrest betreft een in beroep verleende omgevingsvergunning voor het slopen van twee woningen en het bouwen van een meergezinswoning met zes woonentiteiten, twee units voor vrije beroepen, kantoren of diensten en een ondergrondse parkeerkelder in Mol. Het is van belang voor vergunningverlenende overheden en aanvragers die de Vlaamse Hemelwaterverordening toepassen. Volgens de Raad moeten infiltratievoorzieningen bovengronds worden aangelegd, tenzij de aanvrager gemotiveerd aantoont dat ondergrondse aanleg onvermijdbaar is (artikel 8, §3). De vergunningverlenende overheid heeft hierbij geen appreciatiebevoegdheid en moet dit in rechte en in feite nagaan, wat uit de motivering van de beslissing moet blijken. De vergunning steunde enkel op het feit dat het perceel nagenoeg volledig wordt volgebouwd conform het RUP. De Raad oordeelt dat dit niet volstaat, omdat het RUP minimum- en maximumnormen voor de bouwdiepte oplegt en niet voorschrijft dat het volledige perceel moet worden volgebouwd, en omdat de beslissing geen voorschrift aanwijst dat een bovengrondse voorziening uitsluit. Het middel over de hemelwaterregels is gegrond. De middelen over de parkeerplaatsen en over een mogelijke verkavelingsvergunningsplicht worden verworpen. De vergunning wordt vernietigd en de verwerende partij moet binnen drie maanden na de dag na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep; de kosten komen ten laste van haar. Het arrest is uitgesproken op 30 april 2026."
+   ],
+   "fr": [
+    "Le CCAP annule un permis à Mol : le caractère inévitable de l'infiltration souterraine (règlement eaux pluviales) non démontré",
+    "Le Conseil pour les contestations des permis (RvVb) annule un permis d'environnement pour un immeuble à appartements à Mol, la motivation de l'infiltration souterraine étant insuffisante. Il ordonne une nouvelle décision dans les trois mois.",
+    "L'arrêt concerne un permis d'environnement accordé en recours pour la démolition de deux maisons et la construction d'un immeuble de six logements, de deux unités pour professions libérales, bureaux ou services et d'un parking souterrain à Mol. Il intéresse les autorités délivrant les permis et les demandeurs appliquant le règlement flamand sur les eaux pluviales. Selon le Conseil, les dispositifs d'infiltration doivent être aménagés en surface, sauf si le demandeur démontre de manière motivée que l'aménagement souterrain est inévitable (article 8, §3). L'autorité compétente ne dispose d'aucun pouvoir d'appréciation à cet égard et doit vérifier en droit et en fait, ce qui doit ressortir de la motivation de la décision. Le permis se fondait uniquement sur le fait que la parcelle est presque entièrement bâtie conformément au plan d'exécution spatial (RUP). Le Conseil juge cela insuffisant, car le RUP fixe des profondeurs de bâtisse minimales et maximales et n'impose pas de bâtir toute la parcelle, et la décision n'indique aucune prescription excluant un dispositif en surface. Le moyen relatif au règlement sur les eaux pluviales est fondé. Les moyens relatifs au stationnement et à une éventuelle obligation de permis de lotir sont rejetés. Le permis est annulé et l'autorité doit prendre une nouvelle décision sur le recours administratif dans les trois mois suivant le lendemain de la notification de l'arrêt, les frais étant à sa charge. L'arrêt a été prononcé le 30 avril 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0742 van 30 april 2026: artikel 8, §3 en artikel 12 gewestelijke Hemelwaterverordening; artikel 4.3.1 VCRO",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0742.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0742.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0742"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0736",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb rejects appeal against permit for relocated sand and gravel site in Nieuwpoort; nature tests and EIA screening upheld",
+   "a": "The Council for Permit Disputes dismissed an appeal against the environmental permit for relocating and expanding a sand and gravel trading site and mineral-processing plant in Nieuwpoort. It upheld the habitat, VEN and species assessments and the EIA screening.",
+   "b": "The ruling concerns a third-party appeal against the Flemish government's permit of 12 March 2025 (OMV_2023075410) for relocating a sand and gravel business and continuing, extending and changing a mineral-products treatment plant in the port of Nieuwpoort. The Council held that nitrogen deposition was assessed under the Nitrogen Decree, with an impact score below the 1% threshold. For VEN land, where the Decree does not apply, the permitting authority was found to have separately tested against the 'unavoidable and irreparable damage' threshold of article 26bis of the Nature Decree. It confirmed that the VEN test and the appropriate assessment may rely on one document, and that the alternatives and imperative-reasons test of article 36ter §5 applies only to the habitat test. On species, article 14 §1 of the Species Decree protects nests of protected birds but not their resting places, so disturbance of a curlew resting site does not breach it. On EIA screening, cumulative effects must be assessed only with existing or approved projects, so a brownfield covenant or a spatial plan allowing other developments does not bring them into the assessment. A late evidence document was excluded from the debate, and all pleas were rejected. The appeal was dismissed on 30 April 2026, with the claimant bearing the costs (EUR 200 registration fee and EUR 840 procedural indemnity).",
+   "nl": [
+    "RvVb verwerpt beroep tegen vergunning voor verplaatsing van zand- en grindhandel in Nieuwpoort; natuurtoetsen en mer-screening bevestigd",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de omgevingsvergunning voor het verplaatsen en uitbreiden van een zand- en grindhandel en een inrichting voor het behandelen van minerale producten in Nieuwpoort. De habitat-, VEN- en soortentoets en de mer-screening blijven overeind.",
+    "Het arrest betreft een beroep van een derde tegen de vergunning van 12 maart 2025 (OMV_2023075410) voor het verplaatsen van een zand- en grindhandel en het verder exploiteren, uitbreiden en wijzigen van een inrichting voor het behandelen van minerale producten in de haven van Nieuwpoort. De Raad oordeelt dat de stikstofdepositie werd beoordeeld volgens het Stikstofdecreet, met een impactscore onder de drempel van 1%. Voor het VEN, waarop het Stikstofdecreet niet van toepassing is, heeft de overheid de aanvraag afzonderlijk getoetst aan de schadedrempel 'onvermijdbare en onherstelbare schade' van artikel 26bis Natuurdecreet. De VEN-toets en de passende beoordeling mogen in één document worden onderzocht, en de toets van alternatieven en dwingende redenen van artikel 36ter, §5 geldt enkel voor de habitattoets. Wat soorten betreft, beschermt artikel 14, §1 Soortenbesluit de nesten van beschermde vogels maar niet hun rustplaatsen, zodat verstoring van een rustplaats van de wulp geen schending oplevert. Bij de mer-screening moeten cumulatieve effecten enkel worden beoordeeld met bestaande of goedgekeurde projecten; een brownfieldconvenant of een ruimtelijk uitvoeringsplan dat andere ontwikkelingen toelaat, brengt die niet binnen de beoordeling. Een laattijdig overtuigingsstuk werd uit de debatten geweerd en alle middelen werden verworpen. Het beroep werd op 30 april 2026 verworpen, met de kosten (rolrecht 200 euro en rechtsplegingsvergoeding 840 euro) ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Le CCP rejette le recours contre le permis de déplacement d'un commerce de sable et gravier à Nieuwpoort ; évaluations nature et screening EIE confirmés",
+    "Le Conseil du contentieux des autorisations rejette le recours contre le permis d'environnement pour le déplacement et l'extension d'un commerce de sable et gravier et d'une installation de traitement de produits minéraux à Nieuwpoort. Les évaluations Natura 2000, VEN et espèces ainsi que le screening EIE sont maintenus.",
+    "L'arrêt concerne le recours d'un tiers contre le permis du 12 mars 2025 (OMV_2023075410) pour le déplacement d'un commerce de sable et gravier et la poursuite, l'extension et la modification d'une installation de traitement de produits minéraux dans le port de Nieuwpoort. Le Conseil juge que le dépôt d'azote a été évalué selon le décret Azote, avec un score d'impact inférieur au seuil de 1 %. Pour le VEN (réseau écologique flamand), auquel le décret Azote ne s'applique pas, l'autorité a testé la demande séparément au regard du seuil de dommage « inévitable et irréparable » de l'article 26bis du décret Nature. Le test VEN et l'évaluation appropriée peuvent être examinés dans un seul document, et le test des alternatives et des raisons impératives de l'article 36ter, §5 ne vaut que pour le test d'habitat. Quant aux espèces, l'article 14, §1er de l'arrêté Espèces protège les nids des oiseaux protégés mais non leurs sites de repos, de sorte que la perturbation d'un site de repos du courlis ne constitue pas une violation. Pour le screening EIE, les effets cumulatifs ne doivent être appréciés qu'avec les projets existants ou approuvés ; une convention brownfield ou un plan d'exécution spatial autorisant d'autres développements ne les fait pas entrer dans l'évaluation. Une pièce déposée tardivement a été écartée des débats et tous les moyens ont été rejetés. Le recours a été rejeté le 30 avril 2026, les frais (droit de rôle de 200 euros et indemnité de procédure de 840 euros) étant à charge de la partie requérante."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0736: omgevingsvergunning OMV_2023075410 (Nieuwpoort); Stikstofdecreet, artikel 26bis en 36ter Natuurdecreet, artikel 14 Soortenbesluit, project-MER-screening (DABM)",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0736.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0736.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0736"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0733",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for farm-to-housing conversion with dog boarding in Ruislede; new decision due in three months",
+   "a": "The Council for Permit Disputes annulled the Flemish province's permit for converting a farm site in Ruislede to housing with a dog boarding facility. It found the reasoning inadequate on the zoning-alien function change, the effect on neighbouring farms and the size of the ancillary buildings.",
+   "b": "The ruling concerns a permit for changing a farm in agricultural zoning (Ruislede) to residential use, with dog boarding (28 dogs) as an ancillary activity in a former chicken shed. The Council held that Article 11 of the Flemish Government Decree on zoning-alien function changes allows only residential use as the new use, with farm buildings serving solely as ancillary buildings to the dwelling. The deputation did not explain how dog boarding fits this rule. Article 4.4.10 §2 VCRO, which lets a spatial implementation plan extend basic rights, applies only to basic rights and not to function changes under Article 4.4.23 VCRO. Article 9 of the Decree could not support the dog boarding either, since the main farming function disappears once the site becomes residential. The Council also found that the deputation adopted the farm assessment without verifying it and did not adequately justify departing from the unfavourable advice of the Agency for Agriculture and Fisheries. It found the reasoning on the volume of the ancillary buildings internally contradictory. The decision of 3 April 2025 is annulled, and the deputation must take a new decision on the administrative appeal within three months of notification of the ruling. Costs of EUR 840 fall on the deputation.",
+   "nl": [
+    "RvVb vernietigt vergunning voor functiewijziging hoeve naar wonen met hondenpension in Ruislede; nieuwe beslissing binnen drie maanden",
+    "De Raad voor Vergunningsbetwistingen vernietigde de omgevingsvergunning van de deputatie voor de omvorming van een landbouwsite in Ruislede naar wonen met een hondenpension. De motivering was ontoereikend over de zonevreemde functiewijziging, de impact op omliggende landbouwbedrijven en de omvang van de woningbijgebouwen.",
+    "Het arrest betreft een vergunning voor de wijziging van een hoeve in agrarisch gebied (Ruislede) naar wonen, met een hondenpension (28 honden) als nevenactiviteit in een voormalige kippenstal. De Raad oordeelt dat artikel 11 van het Besluit Zonevreemde Functiewijzigingen als nieuw gebruik uitsluitend wonen toelaat, waarbij de bedrijfsgebouwen enkel woningbijgebouwen kunnen worden. De verwerende partij verklaarde niet hoe een hondenpension daarmee verenigbaar is. Artikel 4.4.10, §2 VCRO, dat een RUP toelaat de basisrechten aan te vullen en uit te breiden, geldt enkel voor basisrechten en niet voor functiewijzigingen onder artikel 4.4.23 VCRO. Artikel 9 van het Besluit kon het hondenpension evenmin dragen, omdat de hoofdfunctie landbouw verdwijnt zodra de site wonen wordt. De Raad stelt ook vast dat de verwerende partij de landbouwtoets overnam zonder verificatie en het ongunstige advies van het Agentschap Landbouw en Zeevisserij onvoldoende weerlegde. De motivering over de omvang van de woningbijgebouwen is intern tegenstrijdig. De beslissing van 3 april 2025 wordt vernietigd en de verwerende partij moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De kosten van 840 euro komen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCA annule le permis de changement de fonction d'une ferme en logement avec pension canine à Ruislede",
+    "Le Conseil du contentieux des permis a annulé le permis d'environnement délivré par la députation pour la transformation d'un site agricole à Ruislede en logement avec pension canine. La motivation était insuffisante quant au changement de fonction non conforme à la zone, à l'impact sur les exploitations voisines et au volume des annexes.",
+    "L'arrêt porte sur un permis visant à changer une ferme située en zone agricole (Ruislede) en logement, avec une pension canine (28 chiens) comme activité accessoire dans un ancien poulailler. Le Conseil juge que l'article 11 de l'arrêté du Gouvernement flamand sur les changements de fonction non conformes à la zone n'autorise comme nouvel usage que le logement, les bâtiments d'exploitation ne pouvant devenir que des annexes de l'habitation. La partie adverse n'a pas expliqué comment une pension canine s'y concilie. L'article 4.4.10, §2 VCRO, qui permet à un plan d'exécution spatial de compléter et d'étendre les droits de base, ne vaut que pour ces droits de base et non pour les changements de fonction visés à l'article 4.4.23 VCRO. L'article 9 de l'arrêté ne pouvait pas non plus fonder la pension canine, la fonction principale agricole disparaissant dès que le site devient résidentiel. Le Conseil relève aussi que la partie adverse a repris le test agricole sans le vérifier et n'a pas suffisamment réfuté l'avis défavorable de l'Agence de l'Agriculture et de la Pêche. La motivation relative au volume des annexes est intrinsèquement contradictoire. La décision du 3 avril 2025 est annulée et la partie adverse doit prendre une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt. Les dépens de 840 euros sont à charge de la partie adverse."
+   ],
+   "scope": "RvVb arrest RVVB.2526.0733 van 30 april 2026: artikel 4.4.23 en 4.4.10 §2 VCRO; artikelen 2, 9 en 11 Besluit Zonevreemde Functiewijzigingen; gRUP Zonevreemde Woningen Ruislede",
+   "dates": {
+    "adopted": "2026-04-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0733.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0733.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0733"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042014",
+   "d": "2026-04-30",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders adds a transfer 'measures register' product to the VIP and sets its fees at €1.40 and €6.50 per parcel",
+   "a": "The Flemish Government adds a measures register product for property transfers to the Vastgoedinformatieplatform (VIP), covering the information duties in Article 83, §4 and §5 of the Flemish Enforcement Framework Decree. It sets a platform fee of €1.40 and a source fee of €6.50 per parcel, both excluding VAT, and lowers an amount in the 2024 VIP implementing decree from €36.50 to €21.60.",
+   "b": "The decree concerns anyone who consults enforcement-measure information on land when it is transferred, as provided in Article 83, §4 and §5 of the Kaderdecreet Vlaamse Handhaving of 14 July 2023. It also concerns the Agentschap Justitie en Handhaving and the Vlaams Datanutsbedrijf. The Vlaams Datanutsbedrijf will offer a 'maatregelenregister voor overdracht' product via the VIP, containing all data listed in those paragraphs, and will record it in the product catalogue in consultation with the agency. The agency, as supplying entity, makes the data available via the VIP under the conditions of Article 83. The platform fee is €1.40 excl. VAT per parcel, or per contiguous part where the land has no parcel number and lies within one municipality. Where one request for the same transfer covers more than ten parcels, the fee is zero from the eleventh parcel. The source fee under Article 83, §6, second paragraph is €6.50 excl. VAT per parcel or contiguous part. Both fees are indexed to consumer prices on 1 January each year and rounded up to the next ten cents. The decree also replaces the amount of €36.50 with €21.60 in Article 2, first paragraph, of the implementing decree of 20 September 2024 on the VIP. The decree enters into force on 1 May 2026, except Article 5 (the source fee), which enters into force on 1 July 2026.",
+   "nl": [
+    "Vlaanderen voegt product maatregelenregister voor overdracht toe aan het VIP, met retributies van 1,40 en 6,50 euro per perceel",
+    "De Vlaamse Regering voegt een product maatregelenregister voor overdracht toe aan het Vastgoedinformatieplatform (VIP), voor de informatieplichten van artikel 83, §4 en §5 van het Kaderdecreet Vlaamse Handhaving. Ze legt een platformretributie van 1,40 euro en een bronretributie van 6,50 euro per perceel vast, exclusief btw, en verlaagt een bedrag in het VIP-uitvoeringsbesluit van 2024 van 36,50 naar 21,60 euro.",
+    "Het besluit betreft wie bij de overdracht van grond informatie over handhavingsmaatregelen raadpleegt, zoals bepaald in artikel 83, §4 en §5 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en ook het Agentschap Justitie en Handhaving en het Vlaams Datanutsbedrijf. Het Vlaams Datanutsbedrijf biedt via het VIP een product maatregelenregister voor overdracht aan, met alle gegevens vermeld in die paragrafen, en legt dit in overleg met het agentschap vast in de productcatalogus. Het agentschap ontsluit als aanleverende entiteit de gegevens via het VIP onder de voorwaarden van artikel 83. De platformretributie bedraagt 1,40 euro exclusief btw per perceel, of per aaneengesloten deel als de grond geen perceelnummer heeft en in één gemeente ligt. Bij een aanvraag voor dezelfde overdracht van meer dan tien percelen bedraagt ze vanaf het elfde perceel nul euro. De bronretributie van artikel 83, §6, tweede lid bedraagt 6,50 euro exclusief btw per perceel of per aaneengesloten deel. Beide retributies worden elk jaar op 1 januari geïndexeerd op basis van het indexcijfer van de consumptieprijzen en afgerond naar de hogere tien cent. Verder wordt in artikel 2, eerste lid, van het uitvoeringsbesluit van 20 september 2024 over het VIP het bedrag van 36,50 euro vervangen door 21,60 euro. Het besluit treedt in werking op 1 mei 2026, behalve artikel 5 (de bronretributie), dat in werking treedt op 1 juli 2026."
+   ],
+   "fr": [
+    "La Flandre ajoute au VIP un produit « registre des mesures » pour les transferts, avec des redevances de 1,40 et 6,50 euros par parcelle",
+    "Le Gouvernement flamand ajoute à la plateforme d'information immobilière (VIP) un produit « registre des mesures pour transfert », lié aux obligations d'information de l'article 83, §4 et §5 du décret-cadre flamand sur l'application des normes. Il fixe une redevance de plateforme de 1,40 euro et une redevance de source de 6,50 euros par parcelle, hors TVA, et ramène un montant de l'arrêté d'exécution du VIP de 2024 de 36,50 à 21,60 euros.",
+    "L'arrêté concerne ceux qui consultent des informations sur des mesures de maintien lors du transfert d'un terrain, conformément à l'article 83, §4 et §5 du Kaderdecreet Vlaamse Handhaving du 14 juillet 2023, ainsi que l'Agentschap Justitie en Handhaving et le Vlaams Datanutsbedrijf. Le Vlaams Datanutsbedrijf proposera via le VIP un produit « registre des mesures pour transfert », contenant toutes les données visées par ces paragraphes, et l'inscrira dans le catalogue de produits en concertation avec l'agence. L'agence, en tant qu'entité fournisseuse, met les données à disposition via le VIP aux conditions de l'article 83. La redevance de plateforme s'élève à 1,40 euro hors TVA par parcelle, ou par partie contiguë lorsque le terrain n'a pas de numéro de parcelle et se situe sur le territoire d'une seule commune. Lorsqu'une même demande portant sur le même transfert concerne plus de dix parcelles, elle est de zéro euro à partir de la onzième. La redevance de source de l'article 83, §6, alinéa 2 est de 6,50 euros hors TVA par parcelle ou partie contiguë. Les deux redevances sont indexées chaque 1er janvier sur l'indice des prix à la consommation et arrondies à la dizaine de centimes supérieure. À l'article 2, alinéa 1er, de l'arrêté d'exécution du 20 septembre 2024 relatif au VIP, le montant de 36,50 euros est remplacé par 21,60 euros. L'arrêté entre en vigueur le 1er mai 2026, sauf l'article 5 (la redevance de source), qui entre en vigueur le 1er juillet 2026."
+   ],
+   "scope": "Besluit van de Vlaamse Regering van 30 april 2026: product maatregelenregister voor overdracht op het VIP (art. 2-5), wijziging art. 2, eerste lid, besluit van 20 september 2024 (art. 6)",
+   "dates": {
+    "adopted": "2026-04-30",
+    "published": "2026-05-18",
+    "in_force": "2026-05-01"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot toevoeging van het product maatregelenregister voor overdracht op het Vastgoedinformatieplatform, in het",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042014&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042014"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-52026pc0183",
+   "d": "2026-04-29",
+   "j": [
+    "EU"
+   ],
+   "t": "prop",
+   "s": "Proposal",
+   "k": [
+    "permitting"
+   ],
+   "h": "Commission proposes exempting Switzerland from the EU export ban on mixed municipal waste for recovery",
+   "a": "The Commission proposes to amend Article 44(2)(f) of the Waste Shipment Regulation (EU) 2024/1157 so that the ban on exporting mixed municipal waste for recovery no longer applies to Switzerland. Without the change, the ban would apply from 21 May 2026 to all third countries, Switzerland included.",
+   "b": "The proposal concerns exports of mixed municipal waste (waste referred to in Article 4(3)) destined for recovery in third countries. It affects waste operators and authorities in Member States bordering Switzerland, which currently send about 200 000 tonnes a year to Swiss facilities. Under Article 44(2)(f) of Regulation (EU) 2024/1157, those exports to Switzerland would end on 21 May 2026. The proposal replaces point (f) so that the ban on exporting this waste stays in place for all third countries except Switzerland. The Commission states that the ban would move the waste to more distant EU facilities, raising management costs and greenhouse gas emissions from extra road transport. The proposal would enter into force on the twentieth day after publication in the Official Journal. It is still a proposal, and the European Parliament and the Council have yet to adopt it. The text does not provide a transitional period or state how it would relate to the 21 May 2026 date.",
+   "nl": [
+    "Commissie stelt voor Zwitserland uit te zonderen van het uitvoerverbod voor gemengd stedelijk afval bestemd voor nuttige toepassing",
+    "De Commissie stelt voor artikel 44, lid 2, punt f), van Verordening (EU) 2024/1157 betreffende de overbrenging van afvalstoffen te wijzigen, zodat het uitvoerverbod voor gemengd stedelijk afval voor nuttige toepassing niet meer geldt voor Zwitserland. Zonder wijziging zou het verbod vanaf 21 mei 2026 gelden voor alle derde landen, inclusief Zwitserland.",
+    "Het voorstel betreft de uitvoer naar derde landen van gemengd stedelijk afval (afval bedoeld in artikel 4, lid 3) dat bestemd is voor nuttige toepassing. Het treft afvalbedrijven en overheden in lidstaten die aan Zwitserland grenzen en die jaarlijks ongeveer 200 000 ton naar Zwitserse installaties sturen. Volgens artikel 44, lid 2, punt f), van Verordening (EU) 2024/1157 zouden die uitvoer naar Zwitserland vanaf 21 mei 2026 stoppen. Het voorstel vervangt punt f), zodat het uitvoerverbod voor dit afval geldt voor alle derde landen behalve Zwitserland. Volgens de Commissie zou het verbod het afval naar verder gelegen EU-installaties verplaatsen, met hogere beheerskosten en extra broeikasgasemissies door bijkomend wegtransport. Het voorstel zou in werking treden op de twintigste dag na bekendmaking in het Publicatieblad van de Europese Unie. Het is nog een voorstel dat het Europees Parlement en de Raad moeten aannemen. De tekst voorziet niet in een overgangsperiode en zegt niet hoe het voorstel zich verhoudt tot de datum van 21 mei 2026."
+   ],
+   "fr": [
+    "La Commission propose d'exclure la Suisse de l'interdiction d'exporter des déchets municipaux en mélange destinés à être valorisés",
+    "La Commission propose de modifier l'article 44, paragraphe 2, point f), du règlement (UE) 2024/1157 concernant les transferts de déchets, afin que l'interdiction d'exporter des déchets municipaux en mélange destinés à la valorisation ne s'applique plus à la Suisse. Sans modification, l'interdiction s'appliquerait à partir du 21 mai 2026 à tous les pays tiers, Suisse comprise.",
+    "La proposition concerne l'exportation vers des pays tiers de déchets municipaux en mélange (déchets visés à l'article 4, paragraphe 3) destinés à être valorisés. Elle touche les opérateurs de gestion des déchets et les autorités des États membres limitrophes de la Suisse, qui envoient chaque année environ 200 000 tonnes vers des installations suisses. En vertu de l'article 44, paragraphe 2, point f), du règlement (UE) 2024/1157, ces exportations vers la Suisse cesseraient le 21 mai 2026. La proposition remplace le point f) de sorte que l'interdiction d'exporter ces déchets reste applicable à tous les pays tiers, à l'exception de la Suisse. Selon la Commission, l'interdiction reporterait les déchets vers des installations de l'UE plus éloignées, avec des coûts de gestion accrus et des émissions supplémentaires de gaz à effet de serre dues au transport routier. Le règlement entrerait en vigueur le vingtième jour suivant sa publication au Journal officiel de l'Union européenne. Il ne s'agit que d'une proposition, que le Parlement européen et le Conseil doivent encore adopter. Le texte ne prévoit pas de période transitoire et ne précise pas son articulation avec la date du 21 mai 2026."
+   ],
+   "scope": "Proposal COM(2026) 183 final amending Regulation (EU) 2024/1157 on shipments of waste: Article 44(2)(f), export ban on mixed municipal waste for recovery",
+   "dates": {
+    "published": "2026-04-29"
+   },
+   "u": [
+    [
+     "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2024/1157 as regards the prohibition to exp",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0183"
+    ]
+   ],
+   "inbox": [
+    "eu:52026PC0183"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
