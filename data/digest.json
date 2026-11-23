@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:16:45Z",
+ "updated": "2026-11-23T20:25:52Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -36284,6 +36284,493 @@
    ],
    "inbox": [
     "rvs:265582"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265576",
+   "d": "2026-01-26",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State annuls Bruges parking rules for large projects: no 'small modification' exemption from plan-MER",
+   "a": "The Council of State annulled the Bruges municipal council's August 2023 amendment to the parking chapter of its urban planning regulation. It held that the change is not a 'small modification' under Article 4.2.3 §3 DABM, so the exemption from the plan-MER requirement was wrongly used.",
+   "b": "The ruling concerns municipal and other planning authorities that amend urban planning regulations and want to avoid a plan-MER (strategic environmental assessment) through the 'small modification' exemption of Article 4.2.3 §3 DABM. That exemption requires cumulatively a small area or small modification and a showing that no significant environmental effects are possible. The Council of State held that whether a change is 'small' must be assessed first, by comparing the operative provisions of the new and the previous regulation, and that it is small only if it has no substantial or essential impact on the previous text. The former rule that parking must be provided on the building plot, subject to the listed derogations, was found to be an enforceable rule and not explanatory text. The amendment lets large projects (for example 200 or more parking spaces, or 150 or more dwellings) meet parking demand through public roads, public or private car parks and shared or remote parking. The Council found that this substantially changes the parking and mobility policy for the whole city and is therefore not a small modification, so reliance on the exemption was unjustified. It annulled the municipal council decision of 28 August 2023, ordered extract publication in the same way as the annulled decision, and had already suspended the decision in May 2024.",
+   "nl": [
+    "Raad van State vernietigt parkeerregels Brugge voor grote projecten: geen 'kleine wijziging', plan-MER vereist",
+    "De Raad van State heeft de wijziging van het parkeerhoofdstuk van de Brugse gemeentelijke stedenbouwkundige verordening van augustus 2023 vernietigd. De wijziging is geen 'kleine wijziging' in de zin van artikel 4.2.3, § 3, DABM, zodat de vrijstelling van de plan-MER-plicht ten onrechte werd toegepast.",
+    "Het arrest betreft gemeentelijke en andere planningsoverheden die een stedenbouwkundige verordening wijzigen en de plan-MER willen vermijden via de uitzondering voor een 'kleine wijziging' in artikel 4.2.3, § 3, DABM. Die uitzondering vereist cumulatief dat het gaat om een klein gebied of een kleine wijziging en dat wordt aangetoond dat er geen aanzienlijke milieueffecten kunnen zijn. Volgens de Raad van State moet eerst worden nagegaan of de wijziging klein is, door de verordenende voorschriften van de nieuwe en de vroegere verordening te vergelijken. Ze is enkel klein als ze geen substantiële of essentiële impact heeft op de eerdere tekst. De vroegere regel dat de parkeergelegenheid, behoudens de vermelde afwijkingen, op het terrein van het bouwperceel moet worden aangelegd, is een afdwingbare rechtsregel en geen louter toelichtende tekst. De wijziging laat voor grote projecten (bijvoorbeeld vanaf 200 parkeerplaatsen of 150 woongelegenheden) toe dat de parkeerbehoefte wordt opgevangen via openbare wegenis, publieke of private parkings en gedeelde of verafgelegen parkeeroplossingen. Dat wijzigt het parkeer- en mobiliteitsbeleid voor het hele grondgebied van de stad ingrijpend en is dus geen kleine wijziging, zodat de uitzondering ten onrechte werd ingeroepen. De Raad vernietigt het besluit van de gemeenteraad van 28 augustus 2023, beveelt de bekendmaking bij uittreksel op dezelfde wijze als het vernietigde besluit en had het besluit in mei 2024 al geschorst."
+   ],
+   "fr": [
+    "Le Conseil d'État annule les règles de stationnement de Bruges pour les grands projets : pas de « petite modification », plan-MER requis",
+    "Le Conseil d'État a annulé la modification, adoptée en août 2023, du chapitre relatif au stationnement du règlement communal d'urbanisme de Bruges. Elle ne constitue pas une « petite modification » au sens de l'article 4.2.3, § 3, DABM, de sorte que la dispense de plan-MER a été invoquée à tort.",
+    "L'arrêt concerne les communes et autres autorités de planification qui modifient un règlement d'urbanisme et veulent éviter un plan-MER (évaluation stratégique des incidences sur l'environnement) par l'exception de la « petite modification » de l'article 4.2.3, § 3, DABM. Cette exception exige cumulativement qu'il s'agisse d'une petite zone ou d'une petite modification et qu'il soit démontré que le plan ne peut avoir d'incidences notables sur l'environnement. Selon le Conseil d'État, il faut d'abord apprécier le caractère « petit » de la modification en comparant les prescriptions réglementaires du nouveau et de l'ancien règlement ; elle n'est petite que si elle n'a pas d'impact substantiel ou essentiel sur le texte antérieur. L'ancienne règle selon laquelle le stationnement doit être aménagé sur le terrain de la parcelle, sous réserve des dérogations prévues, est une règle de droit contraignante et non un simple texte explicatif. La modification permet, pour les grands projets (par exemple à partir de 200 places de stationnement ou 150 logements), de répondre à la demande de stationnement par la voirie publique, des parkings publics ou privés et des solutions partagées ou éloignées. Cela modifie profondément la politique de stationnement et de mobilité pour l'ensemble du territoire de la ville et ne constitue donc pas une petite modification, de sorte que l'exception a été invoquée à tort. Le Conseil annule la décision du conseil communal du 28 août 2023, ordonne la publication par extrait selon les mêmes modalités que la décision annulée et l'avait déjà suspendue en mai 2024."
+   ],
+   "scope": "Raad van State, arrest nr. 265.576 van 26 januari 2026: vernietiging van het gemeenteraadsbesluit van Brugge van 28 augustus 2023 (wijziging hoofdstuk 4 parkeerruimtes en fietsstallingen, gemeentelijke stedenbouwkundige verordening); artikel 4.2.3, § 3, DABM (plan-MER, kleine wijziging)",
+   "dates": {
+    "adopted": "2026-01-26"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265576. 1. Het beroep, ingesteld op 22 december 2023, strek t tot de nietigverklaring van het besluit van de geme",
+     "https://www.raadvst-consetat.be/arresten/265576"
+    ]
+   ],
+   "inbox": [
+    "rvs:265576"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265568",
+   "d": "2026-01-26",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permit court assesses bound competence for substitution on the date of its ruling",
+   "a": "In a cassation ruling, the Council of State holds that the Council for Permit Disputes may replace a permit decision with its own ruling if an insurmountable legality obstacle exists on the date of its ruling. It also confirms that the permit applicant named in the decision is an intervening party by operation of law.",
+   "b": "The ruling concerns appeals before the Flemish Council for Permit Disputes (RvVb) against environmental permit decisions, and the permit holder's position in those proceedings. The permit holder or applicant named in the contested decision is an intervening party by operation of law (art. 20 DBRC). The RvVb does not breach art. 6 ECHR or art. 59/2 of the procedural decree by treating a company as intervening party where the permit decision and the Omgevingsloket name its representative as applicant and operator. The 30-day period for a note then runs from service of the order and the application on that representative's address. Under art. 37 §2 DBRC, the RvVb may substitute its ruling for the new decision only if that decision follows from a bound competence of the permitting authority, and is not obliged to do so. Whether the competence is bound is assessed on the facts and law existing on the date of the RvVb ruling, so an insurmountable legality obstacle existing on that date suffices. Signs that the situation may change soon can lead the RvVb to refrain from substituting, but the Council of State treats that weighing as unreviewable in cassation. A constitutional objection to art. 37 §2 DBRC that was not raised before the RvVb is inadmissible in cassation, so no preliminary question goes to the Constitutional Court. The cassation appeal is dismissed; the ruling states no entry-into-force date.",
+   "nl": [
+    "Raad van State: vergunningsrechter beoordeelt gebonden bevoegdheid voor indeplaatsstelling op datum van arrest",
+    "In een cassatiearrest oordeelt de Raad van State dat de Raad voor Vergunningsbetwistingen zijn arrest in de plaats van een vergunningsbeslissing mag stellen als er op de datum van zijn arrest een onoverkomelijke legaliteitsbelemmering bestaat. Ook bevestigt de Raad dat de in de beslissing vermelde vergunningsaanvrager van rechtswege tussenkomende partij is.",
+    "Het arrest betreft beroepen bij de Vlaamse Raad voor Vergunningsbetwistingen (RvVb) tegen omgevingsvergunningsbeslissingen en de positie van de vergunninghouder in die procedures. De in de bestreden beslissing vermelde vergunninghouder of aanvrager is van rechtswege tussenkomende partij (artikel 20 DBRC). De RvVb miskent artikel 6 EVRM noch artikel 59/2 van het procedurebesluit wanneer hij een vennootschap als tussenkomende partij beschouwt, omdat de vergunningsbeslissing en het Omgevingsloket haar vertegenwoordiger als aanvrager en exploitant vermelden. De termijn van dertig dagen voor een nota loopt dan vanaf de betekening van de beschikking en het verzoekschrift op het adres van die vertegenwoordiger. Op grond van artikel 37, § 2, DBRC kan de RvVb zijn arrest enkel in de plaats stellen van de nieuw te nemen beslissing als die voortvloeit uit een gebonden bevoegdheid van het vergunningverlenend bestuur, maar hij is daartoe niet verplicht. Of de bevoegdheid gebonden is, wordt beoordeeld aan de hand van de feitelijke en juridische gegevens op de dag van het arrest van de RvVb, zodat een onoverkomelijke legaliteitsbelemmering op die datum volstaat. Aanwijzingen dat de situatie binnen afzienbare tijd kan wijzigen, kunnen de RvVb doen afzien van indeplaatsstelling, maar die afweging is volgens de Raad van State in cassatie onaantastbaar. Een grondwettigheidskritiek op artikel 37, § 2, DBRC die niet voor de RvVb is aangevoerd, is in cassatie niet ontvankelijk, zodat geen prejudiciële vraag aan het Grondwettelijk Hof wordt gesteld. Het cassatieberoep wordt verworpen; het arrest vermeldt geen datum van inwerkingtreding."
+   ],
+   "fr": [
+    "Conseil d'État : le juge des permis apprécie la compétence liée, en vue de la substitution, à la date de son arrêt",
+    "Dans un arrêt de cassation, le Conseil d'État juge que le Conseil pour les contestations des autorisations (RvVb) peut substituer son arrêt à une décision de permis s'il existe, à la date de son arrêt, un obstacle de légalité insurmontable. Il confirme aussi que le demandeur de permis mentionné dans la décision est partie intervenante de plein droit.",
+    "L'arrêt concerne les recours devant le Conseil flamand pour les contestations des autorisations (RvVb) contre des décisions de permis d'environnement, ainsi que la position du titulaire du permis dans ces procédures. Le titulaire du permis ou le demandeur mentionné dans la décision attaquée est partie intervenante de plein droit (article 20 du décret DBRC). Le RvVb ne méconnaît ni l'article 6 de la CEDH ni l'article 59/2 de l'arrêté de procédure lorsqu'il considère une société comme partie intervenante, parce que la décision de permis et l'Omgevingsloket désignent son représentant comme demandeur et exploitant. Le délai de trente jours pour déposer une note court alors à partir de la notification de l'ordonnance et de la requête à l'adresse de ce représentant. En vertu de l'article 37, § 2, du décret DBRC, le RvVb ne peut substituer son arrêt à la nouvelle décision à prendre que si celle-ci résulte d'une compétence liée de l'autorité délivrant le permis, mais il n'y est pas tenu. Le caractère lié de la compétence s'apprécie au regard des éléments de fait et de droit existant à la date de l'arrêt du RvVb, de sorte qu'un obstacle de légalité insurmontable existant à cette date suffit. Des indices d'une évolution prochaine de la situation peuvent amener le RvVb à ne pas substituer son arrêt, mais le Conseil d'État considère cette appréciation comme non censurable en cassation. Un grief d'inconstitutionnalité visant l'article 37, § 2, du décret DBRC, non invoqué devant le RvVb, est irrecevable en cassation, de sorte qu'aucune question préjudicielle n'est posée à la Cour constitutionnelle. Le pourvoi en cassation est rejeté ; l'arrêt ne mentionne pas de date d'entrée en vigueur."
+   ],
+   "scope": "Raad van State, arrest nr. 265.568 van 26 januari 2026 – artikel 20 en artikel 37, § 2, DBRC; artikel 59/2, § 1, procedurebesluit",
+   "dates": {
+    "adopted": "2026-01-26"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265568. 1. Het cassatieberoep, ingesteld op 16 september 20 24, strekt tot de nietigverklaring van arrest nr. RvV",
+     "https://www.raadvst-consetat.be/arresten/265568"
+    ]
+   ],
+   "inbox": [
+    "rvs:265568"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265566",
+   "d": "2026-01-26",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: short-debate handling at the Permit Disputes Council needs reasons only if contested",
+   "a": "The Council of State confirms that the chair of the Flemish Council for Permit Disputes need not state why a case requires only a short debate. The final judgment must give reasons for using that procedure only if a party contested it.",
+   "b": "The ruling concerns applicants, permit holders and authorities in proceedings before the Council for Permit Disputes (RvVb) against environmental permit decisions in Flanders. It dismisses a cassation appeal against an RvVb judgment that upheld a provincial deputation's decision granting a permit, with conditions, to regularise an external staircase. The Council of State holds that the order setting a case for short debate under Article 59/2 of the procedural decree need not state the reasons for that choice. Without such reasons, parties must assume that the short debate covers the whole case, both admissibility and merits, so that the appeal can be finally decided afterwards. In its final judgment the RvVb must explain why a short debate sufficed only if a party contested this in its note or at the hearing. Since parties have that opportunity, Article 6 ECHR requires nothing more. The Council also recalls that the constitutional duty to give reasons is limited: the judge need not answer every argument, and criticism aimed at the permit decision rather than at the judgment is inadmissible in cassation. Finally, it holds that the finding that no rights can be derived from a permit when works deviate from it does not amount to a finding that the permit has lapsed under Article 99, §3 of the permit decree.",
+   "nl": [
+    "Raad van State: korte debatten bij de RvVb enkel motiveren als een partij dit betwist",
+    "De Raad van State bevestigt dat de voorzitter van de Raad voor Vergunningsbetwistingen niet moet uiteenzetten waarom een zaak slechts korte debatten vereist. Het eindarrest moet de keuze voor die procedure enkel motiveren als een partij ze heeft betwist.",
+    "Het arrest betreft aanvragers, vergunninghouders en overheden in procedures voor de Raad voor Vergunningsbetwistingen (RvVb) tegen beslissingen over omgevingsvergunningen in Vlaanderen. De Raad van State verwerpt een cassatieberoep tegen een arrest van de RvVb dat de beslissing van een deputatie verwierp om onder voorwaarden een vergunning te verlenen voor de regularisatie van een externe trap. Volgens de Raad van State moet de beschikking waarbij een zaak naar korte debatten wordt verwezen overeenkomstig artikel 59/2 van het procedurebesluit, de redenen daarvoor niet vermelden. Bij gebreke daarvan moeten de partijen ervan uitgaan dat het korte debat de volledige zaak betreft, zowel de ontvankelijkheid als de gegrondheid, zodat het beroep nadien definitief kan worden beslecht. In het eindarrest moet de RvVb enkel motiveren waarom een kort debat volstond als een partij dat in haar nota of ter zitting heeft betwist. Aangezien de partijen die mogelijkheid hebben, vereist artikel 6 EVRM niet meer. De Raad herinnert er ook aan dat de grondwettelijke motiveringsplicht beperkt is: de rechter hoeft niet op elk argument te antwoorden, en kritiek die zich richt tegen de vergunningsbeslissing in plaats van tegen het arrest is niet ontvankelijk in cassatie. Ten slotte oordeelt hij dat de vaststelling dat geen rechten kunnen worden geput uit een vergunning bij niet-conforme uitvoering van de werken, niet inhoudt dat de vergunning is vervallen op grond van artikel 99, § 3, van het omgevingsvergunningsdecreet."
+   ],
+   "fr": [
+    "Conseil d'État : débats succincts devant le RvVb, motivation requise uniquement si une partie les conteste",
+    "Le Conseil d'État confirme que le président du Conseil du contentieux des autorisations n'a pas à indiquer pourquoi une affaire ne requiert que des débats succincts. L'arrêt final ne doit motiver le recours à cette procédure que si une partie l'a contesté.",
+    "L'arrêt concerne les demandeurs, les titulaires de permis et les autorités dans les procédures devant le Conseil du contentieux des autorisations (Raad voor Vergunningsbetwistingen, RvVb) contre des décisions relatives aux permis d'environnement en Flandre. Le Conseil d'État rejette un pourvoi en cassation dirigé contre un arrêt du RvVb qui avait rejeté le recours contre la décision d'une députation d'accorder, sous conditions, un permis pour la régularisation d'un escalier extérieur. Selon le Conseil d'État, l'ordonnance qui renvoie une affaire à des débats succincts en vertu de l'article 59/2 de l'arrêté de procédure ne doit pas en exposer les motifs. À défaut, les parties doivent considérer que les débats succincts portent sur l'ensemble de l'affaire, tant la recevabilité que le fond, de sorte que le recours peut ensuite être tranché définitivement. Dans son arrêt final, le RvVb ne doit motiver le caractère suffisant des débats succincts que si une partie l'a contesté dans sa note ou à l'audience. Les parties disposant de cette possibilité, l'article 6 de la CEDH n'exige rien de plus. Le Conseil rappelle aussi que l'obligation constitutionnelle de motivation est limitée : le juge ne doit pas répondre à chaque argument, et une critique dirigée contre la décision d'autorisation plutôt que contre l'arrêt est irrecevable en cassation. Enfin, il juge que la constatation qu'aucun droit ne peut être tiré d'un permis lorsque les travaux n'ont pas été exécutés conformément à celui-ci ne signifie pas que le permis est caduc au sens de l'article 99, § 3, du décret relatif au permis d'environnement."
+   ],
+   "scope": "Raad van State, arrest nr. 265.566 van 26 januari 2026 – artikelen 59 en 59/2 procedurebesluit Vlaamse bestuursrechtscolleges (korte debatten), artikel 149 Grondwet, artikel 6 EVRM",
+   "dates": {
+    "adopted": "2026-01-26"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265566. 1. Het cassatieberoep, ingesteld op 25 september 20 24, strekt tot de nietigverklaring van arrest nr. RvV",
+     "https://www.raadvst-consetat.be/arresten/265566"
+    ]
+   ],
+   "inbox": [
+    "rvs:265566"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265565",
+   "d": "2026-01-26",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Raad van State: 100 m² limit in Art. 4.4.6 VCRO applies only to reception infrastructure, not parkings",
+   "a": "The Council of State held that the 100 m² maximum floor area in Article 4.4.6, second paragraph, 1° VCRO applies only to reception infrastructure. It does not cap the other listed works, such as parkings, access roads or paving, near or within protected heritage.",
+   "b": "The ruling concerns permits for works at or near protected monuments, or within protected town or village views, cultural-historical landscapes or archaeological sites, under the derogation in Article 4.4.6, second paragraph VCRO. The Council of State reads the phrase 'with a maximum floor area of 100 square metres' as relating only to 'reception infrastructure' (onthaalinfrastructuur). The phrase is not separated from that term by a comma, and 'floor area' fits poorly with works such as relief changes or access roads. The parliamentary preparation does not show that the decree-maker wanted the cap to cover the other listed works. The intended limited scope of the derogation is already secured by the two conditions that must be met cumulatively: the works must be of a listed type, and they must promote the functioning or valorisation of the activities in the protected property. The Council therefore annulled the Council for Permit Disputes' judgment of 29 August 2024, which had refused to apply the derogation to a parking of more than 100 m² in a protected village view. The case is referred to a differently composed Council for Permit Disputes. The ruling is dated 26 January 2026.",
+   "nl": [
+    "Raad van State: grens van 100 m² in art. 4.4.6 VCRO geldt enkel voor onthaalinfrastructuur, niet voor parkings",
+    "De Raad van State oordeelt dat de maximale vloeroppervlakte van 100 m² in artikel 4.4.6, tweede lid, 1° VCRO enkel geldt voor onthaalinfrastructuur. Voor de andere opgesomde handelingen, zoals parkings, ontsluitingen of verhardingen, geldt die grens niet.",
+    "Het arrest betreft vergunningen voor handelingen aan of in de omgeving van beschermd erfgoed, of binnen een beschermd stads- of dorpsgezicht, cultuurhistorisch landschap of archeologische site, op grond van de afwijkingsregeling in artikel 4.4.6, tweede lid VCRO. De Raad van State leest de zinsnede 'met een maximale vloeroppervlakte van 100 vierkante meter' als enkel slaand op 'onthaalinfrastructuur'. Voor die zinsnede staat geen komma, en het begrip 'vloeroppervlakte' is moeilijk te rijmen met handelingen zoals reliëfwijzigingen of ontsluitingen. Uit de parlementaire voorbereiding blijkt niet dat de decreetgever de grens ook voor de andere handelingen wilde. De beperkte toepassing van de uitzondering wordt al bereikt doordat cumulatief aan twee voorwaarden moet worden voldaan: de handelingen moeten van de opgesomde soorten zijn en het functioneren of de valorisatie van de activiteiten in het beschermde goed bevorderen. De Raad vernietigt daarom het arrest van de Raad voor Vergunningsbetwistingen van 29 augustus 2024, dat de afwijking had geweigerd voor een parking van meer dan 100 m² in een beschermd dorpsgezicht. De zaak wordt verwezen naar een anders samengestelde Raad voor Vergunningsbetwistingen. Het arrest is gewezen op 26 januari 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la limite de 100 m² de l'art. 4.4.6 VCRO ne vise que l'infrastructure d'accueil, pas les parkings",
+    "Le Conseil d'État juge que la superficie plancher maximale de 100 m² de l'article 4.4.6, alinéa 2, 1° VCRO ne vise que l'infrastructure d'accueil. Elle ne s'applique pas aux autres actes énumérés, tels que les parkings, les accès ou les revêtements.",
+    "L'arrêt concerne les permis pour des actes à proximité de biens protégés ou dans un site urbain ou villageois protégé, un paysage culturel et historique ou un site archéologique, sur la base de la dérogation de l'article 4.4.6, alinéa 2 VCRO. Le Conseil d'État lit le membre de phrase « avec une superficie plancher maximale de 100 mètres carrés » comme visant uniquement l'« infrastructure d'accueil » (onthaalinfrastructuur). Aucune virgule ne le sépare de ce terme, et la notion de « superficie plancher » se concilie mal avec des actes tels que les modifications du relief ou les accès. Les travaux préparatoires ne montrent pas que le législateur décrétal voulait étendre cette limite aux autres actes. L'application restreinte voulue de l'exception est déjà assurée par les deux conditions cumulatives : les actes doivent relever des catégories énumérées et favoriser le fonctionnement ou la valorisation des activités dans le bien protégé. Le Conseil annule dès lors l'arrêt du Conseil pour les contestations des autorisations (RvVb) du 29 août 2024, qui avait refusé la dérogation pour un parking de plus de 100 m² dans un site villageois protégé. L'affaire est renvoyée devant le Conseil pour les contestations des autorisations autrement composé. L'arrêt date du 26 janvier 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 265.565 van 26 januari 2026 – artikel 4.4.6, tweede lid, 1° Vlaamse Codex Ruimtelijke Ordening (VCRO)",
+   "dates": {
+    "adopted": "2026-01-26"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265565. 1. Het cassatieberoep, ingesteld op 8 oktober 2024, strekt tot de nietigverklaring van arrest nr. RvVb-A-",
+     "https://www.raadvst-consetat.be/arresten/265565"
+    ]
+   ],
+   "inbox": [
+    "rvs:265565"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041750",
+   "d": "2026-01-24",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders: regional supervisors appointed to enforce gas distribution safety rules under the Environmental Policy Decree",
+   "a": "The Secretary-General of the Flemish Department of Environment has appointed regional supervisors to enforce the environmental provisions covered by Article 16.1.1, first paragraph, 5°/2 and 20° of the Decree of 5 April 1995. The appointment follows the Decree of 19 December 2025, which extends the temporary enforcement regime for gas distribution safety and confirms the competence of the staff concerned.",
+   "b": "The decision concerns operators and installations subject to the Flemish enforcement regime for the safety of gas distribution installations (Law of 24 December 1970, Energy Decree of 8 May 2009), and the authorities that supervise them. It designates regional supervisors competent to enforce the environmental provisions contained in or issued under the regulations listed in Article 16.1.1, first paragraph, 5°/2 and 20° of the Decree of 5 April 1995 containing general provisions on environmental policy. It is based on Article 16.3.9, §4 of that Decree, inserted by the Decree of 19 December 2025, which extends the temporary enforcement arrangement in Article 3 of the Law of 24 December 1970 and confirms the competence of the staff members concerned. The decision follows the Secretary-General's earlier appointment decision of 12 March 2025 on the same law. It was adopted on 24 January 2026 and published in the Belgian Official Gazette on 9 February 2026. The extract available does not state a specific entry-into-force date.",
+   "nl": [
+    "Vlaanderen: gewestelijke toezichthouders aangesteld voor handhaving van de veiligheidsvoorschriften voor gasdistributie onder het DABM",
+    "De secretaris-generaal van het Departement Omgeving heeft gewestelijke toezichthouders aangesteld voor de handhaving van de milieuvoorschriften vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20° van het decreet van 5 april 1995. De aanstelling volgt op het decreet van 19 december 2025, dat de tijdelijke handhavingsregeling voor gasdistributie verlengt en de bevoegdheid van de betrokken personeelsleden bevestigt.",
+    "Het besluit betreft exploitanten en installaties die onder de Vlaamse handhavingsregeling voor de veiligheid van gasdistributie-installaties vallen (wet van 24 december 1970, Energiedecreet van 8 mei 2009), en de overheden die daarop toezicht houden. Het stelt gewestelijke toezichthouders aan die bevoegd zijn voor de handhaving van de milieuvoorschriften die zijn opgenomen in of uitgevaardigd krachtens de regelgeving, vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20° van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Het steunt op artikel 16.3.9, §4 van dat decreet, ingevoegd door het decreet van 19 december 2025, dat de tijdelijke handhavingsregeling in artikel 3 van de wet van 24 december 1970 verlengt en de bevoegdheid van de betrokken personeelsleden bevestigt. Het besluit sluit aan bij het eerdere aanstellingsbesluit van de secretaris-generaal van 12 maart 2025 over dezelfde wet. Het werd genomen op 24 januari 2026 en bekendgemaakt in het Belgisch Staatsblad op 9 februari 2026. Een specifieke datum van inwerkingtreding blijkt niet uit het beschikbare uittreksel."
+   ],
+   "fr": [
+    "Flandre : désignation de contrôleurs régionaux pour l'application des règles de sécurité de la distribution de gaz au titre du DABM",
+    "Le secrétaire général du Département de l'Environnement a désigné des contrôleurs régionaux chargés de faire respecter les prescriptions environnementales visées à l'article 16.1.1, alinéa 1er, 5°/2 et 20° du décret du 5 avril 1995. Cette désignation fait suite au décret du 19 décembre 2025, qui prolonge le régime temporaire de maintien pour la distribution de gaz et confirme la compétence des agents concernés.",
+    "L'arrêté concerne les exploitants et les installations soumis au régime flamand de contrôle de la sécurité des installations de distribution de gaz (loi du 24 décembre 1970, décret sur l'énergie du 8 mai 2009), ainsi que les autorités qui en assurent le contrôle. Il désigne des contrôleurs régionaux compétents pour faire respecter les prescriptions environnementales contenues dans ou prises en vertu de la réglementation visée à l'article 16.1.1, alinéa 1er, 5°/2 et 20° du décret du 5 avril 1995 contenant des dispositions générales en matière de politique de l'environnement. Il se fonde sur l'article 16.3.9, §4 de ce décret, inséré par le décret du 19 décembre 2025, qui prolonge le régime temporaire de maintien prévu à l'article 3 de la loi du 24 décembre 1970 et confirme la compétence des agents concernés. Il fait suite à la précédente décision de désignation du secrétaire général du 12 mars 2025 relative à la même loi. Il a été adopté le 24 janvier 2026 et publié au Moniteur belge le 9 février 2026. Une date d'entrée en vigueur précise ne ressort pas de l'extrait disponible."
+   ],
+   "scope": "Besluit van de secretaris-generaal tot aanstelling van gewestelijke toezichthouders – artikel 16.1.1, eerste lid, 5°/2 en 20° en artikel 16.3.9, §4 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+   "dates": {
+    "adopted": "2026-01-24",
+    "published": "2026-02-09"
+   },
+   "u": [
+    [
+     "Besluit van de secretaris-generaal tot aanstelling van gewestelijke toezichthouders bevoegd voor de handhaving van de milieuvoorschriften di",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041750&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041750"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265559",
+   "d": "2026-01-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State suspends unique permit over inadequate reasoning on biodiversity and impact study criticism",
+   "a": "In summary proceedings, the Council of State suspended a Walloon unique permit for a large business park. The permit did not adequately answer the unfavourable appeal-stage opinion of the nature department (DNF) or the criticism of the impact study's completeness on biodiversity. The ruling also clarifies how urgency is assessed for such challenges.",
+   "b": "The ruling concerns permit authorities deciding administrative appeals on Walloon unique permits, applicants whose projects rely on an impact study (EIE), and associations challenging such permits. The Council of State suspended the permit of 18 August 2025 for a business village of about 17.5 ha in Wavre. On the serious-ground test, it held that the permit could not simply set aside the DNF's unfavourable appeal-stage opinion for lack of reasoning and fall back on its earlier conditional favourable opinion. That earlier opinion predated both the municipal college's unfavourable opinion and the administrative appeals. Where the completeness of an EIE is disputed, a reply that merely recalls how the study was carried out is insufficient. So is a reference to unspecified reasons in a note by the study author that is only partly reproduced in the permit and not annexed to it. On urgency, an incomplete EIE does not by itself establish urgency unless the gaps are fundamental, and the applicant must show a sufficiently serious personal risk. The mobility drawbacks were neither immediate nor free of hypothesis. The risk to biodiversity and the ecological network was personal to the association, given its collective aim of nature conservation, but the two individual applicants did not show it affected them personally. The Council weighed the large scale of the project, the felling of 84 poplars and other trees, and the clearing of 40,777 m² of woodland. It also noted that the beneficiary intends to implement the permit once the suspension procedure ends. The ruling is dated 23 January 2026, the annulment action remains pending and costs are reserved.",
+   "nl": [
+    "Raad van State schorst een unieke vergunning wegens onvoldoende motivering over biodiversiteit en kritiek op de effectenstudie",
+    "De Raad van State schorst in kort geding een Waalse unieke vergunning voor een groot bedrijvenpark. De vergunning beantwoordde het ongunstige advies in beroep van het natuur- en bosdepartement (DNF) en de kritiek op de volledigheid van de effectenstudie inzake biodiversiteit onvoldoende. Het arrest verduidelijkt ook hoe de hoogdringendheid wordt beoordeeld.",
+    "Het arrest betreft vergunningverlenende overheden die administratieve beroepen tegen Waalse unieke vergunningen beslechten, aanvragers van projecten waarvoor een effectenstudie (EIE) is opgesteld, en verenigingen die zulke vergunningen aanvechten. De Raad van State schorst de vergunning van 18 augustus 2025 voor een bedrijvendorp van ongeveer 17,5 ha in Waver. Bij het onderzoek van het ernstige middel oordeelt hij dat de vergunning het ongunstige advies in beroep van het DNF niet zomaar terzijde kon schuiven wegens gebrek aan motivering om terug te vallen op zijn eerdere voorwaardelijk gunstige advies. Dat eerdere advies dateerde van vóór het ongunstige advies van het gemeentecollege en vóór de administratieve beroepen. Wanneer de volledigheid van een EIE wordt betwist, volstaat een antwoord dat enkel in herinnering brengt hoe de studie is uitgevoerd niet. Dat geldt ook voor een verwijzing naar niet-gepreciseerde redenen in een nota van de studieopsteller, die slechts gedeeltelijk in de vergunning wordt overgenomen en er niet aan is gehecht. Wat de hoogdringendheid betreft, bewijst een onvolledige EIE op zich geen hoogdringendheid, tenzij de lacunes fundamenteel zijn, en moet de verzoeker een voldoende ernstig persoonlijk risico aantonen. De nadelen voor de mobiliteit waren niet onmiddellijk en deels hypothetisch. Het risico voor de biodiversiteit en het ecologisch netwerk was persoonlijk voor de vereniging, gelet op haar collectief doel van natuurbehoud, maar de twee individuele verzoekers toonden niet aan dat het hen persoonlijk raakte. De Raad woog de grote schaal van het project, de kap van 84 populieren en andere bomen en de ontbossing van 40.777 m² mee. Hij wees er ook op dat de vergunninghouder van plan is de vergunning uit te voeren zodra de schorsingsprocedure voorbij is. Het arrest dateert van 23 januari 2026, de vernietigingsprocedure blijft hangende en de kosten zijn aangehouden."
+   ],
+   "fr": [
+    "Le Conseil d'État suspend un permis unique pour motivation insuffisante sur la biodiversité et les critiques de l'étude d'incidences",
+    "Le Conseil d'État suspend en référé un permis unique wallon relatif à un grand parc d'entreprises. Le permis ne répondait pas de manière suffisante à l'avis défavorable sur recours du Département de la Nature et des Forêts (DNF) ni aux critiques sur la complétude de l'étude d'incidences en matière de biodiversité. L'arrêt précise aussi l'appréciation de l'urgence.",
+    "L'arrêt concerne les autorités qui statuent sur les recours administratifs contre des permis uniques wallons, les demandeurs dont le projet repose sur une étude d'incidences (EIE) et les associations qui contestent de tels permis. Le Conseil d'État suspend le permis du 18 août 2025 relatif à un village d'entreprises d'environ 17,5 ha à Wavre. Au titre du moyen sérieux, il juge que le permis ne pouvait écarter purement et simplement l'avis défavorable sur recours du DNF, pour défaut de motivation suffisante, afin de revenir à son avis antérieur favorable sous conditions. Cet avis antérieur précédait l'avis défavorable du collège communal et les recours administratifs. Lorsque la complétude d'une EIE est contestée, une réponse qui se borne à rappeler comment l'étude a été réalisée est insuffisante. Il en va de même d'un renvoi à des motifs non précisés figurant dans une note de l'auteur de l'étude, qui n'est que partiellement reproduite dans le permis et ne lui est pas annexée. Quant à l'urgence, le caractère lacunaire d'une EIE ne suffit pas à la démontrer, sauf lacunes fondamentales, et le requérant doit établir un risque suffisamment sérieux pour sa situation personnelle. Les inconvénients liés à la mobilité n'étaient pas immédiats et étaient en partie hypothétiques. Le risque d'atteinte à la biodiversité et au maillage écologique était personnel à l'association, compte tenu de son objet collectif de conservation du patrimoine naturel, mais les deux requérants individuels n'ont pas établi qu'il les touchait personnellement. Le Conseil a tenu compte de l'ampleur du projet, de l'abattage de 84 peupliers et d'autres arbres et du défrichement de 40.777 m² de zone boisée. Il a aussi relevé que la bénéficiaire entend mettre le permis en œuvre à l'issue de la procédure de suspension. L'arrêt est daté du 23 janvier 2026, le recours en annulation reste pendant et les dépens sont réservés."
+   ],
+   "scope": "Conseil d'État, section du contentieux administratif, arrêt n° 265.559 du 23 janvier 2026 (référé) : suspension du permis unique du 18 août 2025 ; article 17, § 1er, alinéa 3, 1°, des lois coordonnées sur le Conseil d'État",
+   "dates": {
+    "adopted": "2026-01-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265559. Par une requête introduite le 30 octobre 2025, les parties requérantes sollicitent la suspension de l’exé",
+     "https://www.raadvst-consetat.be/arresten/265559"
+    ]
+   ],
+   "inbox": [
+    "rvs:265559"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265542",
+   "d": "2026-01-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council of State: seizure costs fall on the person with habitual direct supervision of the animal, not the owner",
+   "a": "The Walloon Council of State dismissed an appeal against a ministerial decision allocating seized cats to a shelter and charging the seizure costs to the person in charge. It held that the 'responsable de l'animal' is whoever habitually manages or directly supervises the animal, whether or not owner or holder.",
+   "b": "The ruling concerns persons subject to administrative seizure of animals under the Walloon Environment Code (Book I, offences and seizure rules) and the cost liability that follows. The Council of State rejected the request to annul the minister's decision of 20 June 2024, which gave a shelter ownership of a cat and her three kittens and recalled that seizure costs, including housing, are borne by the person responsible under Article D.170, § 6. It read Article D.141, § 1, 13° as meaning that the person responsible is whoever habitually exercises management or direct supervision over the animal, so that ownership or detention under ordinary law does not matter. The applicant had sheltered, heated and fed the animals and had asked for their return, which established direct supervision and thus responsibility. The Council also held that a plea based on the decree of 14 April 2016 on administrative seizure was inadmissible because that decree was repealed by the Walloon Government decree of 2 June 2022. Pleas of misuse of power and manifest error were inadmissible because they were not substantiated. The decision to allocate the animals to the shelter was sufficiently reasoned: the file held no official declaration by the shelter, under Article R.153, § 1, of being unable to keep the animals, and its social media statement of being full counted the seized animals. The ruling was given on 23 January 2026; the applicant bears the costs, including a procedural indemnity of EUR 770.",
+   "nl": [
+    "Raad van State: kosten van inbeslagname komen ten laste van wie gewoonlijk rechtstreeks toezicht houdt op het dier, niet van de eigenaar",
+    "De Raad van State verwierp het beroep tegen een ministeriële beslissing die in beslag genomen katten aan een asiel toewees en de kosten aan de verantwoordelijke oplegde. Verantwoordelijke voor het dier is wie er gewoonlijk beheer of rechtstreeks toezicht over uitoefent, ongeacht of hij eigenaar of houder is.",
+    "Het arrest betreft personen bij wie dieren administratief in beslag worden genomen op grond van het Waalse Milieuwetboek (Boek I, misdrijven en inbeslagnemingsregels) en de kostenlast die daaruit voortvloeit. De Raad van State verwierp de vordering tot nietigverklaring van de beslissing van de minister van 20 juni 2024, waarbij een asiel de eigendom van een kat en haar drie kittens kreeg en eraan werd herinnerd dat de kosten van inbeslagname, met inbegrip van de huisvesting, krachtens artikel D.170, § 6, ten laste vallen van de verantwoordelijke. Artikel D.141, § 1, 13°, wordt aldus gelezen dat de verantwoordelijke de persoon is die gewoonlijk beheer of rechtstreeks toezicht over het dier uitoefent, zodat eigendom of detentie naar gemeen recht niet relevant is. De verzoeker had de dieren opgevangen, verwarmd en gevoed en om hun teruggave verzocht, wat rechtstreeks toezicht en dus verantwoordelijkheid aantoonde. De Raad oordeelde ook dat een middel gebaseerd op het besluit van 14 april 2016 over de administratieve inbeslagname van dieren onontvankelijk was omdat dat besluit was opgeheven bij het besluit van de Waalse Regering van 2 juni 2022. Middelen over machtsoverschrijding of machtsafwending en over een kennelijk onredelijke beoordeling waren onontvankelijk omdat ze niet waren toegelicht. De toewijzing van de dieren aan het asiel was voldoende gemotiveerd: het dossier bevatte geen officiële verklaring van het asiel, op grond van artikel R.153, § 1, dat het de dieren niet kon blijven opvangen, en zijn bericht op sociale media dat het vol zat, telde de in beslag genomen dieren mee. Het arrest werd uitgesproken op 23 januari 2026; de verzoeker draagt de kosten, met inbegrip van een rechtsplegingsvergoeding van 770 euro."
+   ],
+   "fr": [
+    "Conseil d'État : les frais de saisie incombent à celui qui exerce habituellement une surveillance directe sur l'animal, non au propriétaire",
+    "Le Conseil d'État a rejeté le recours contre une décision ministérielle attribuant des chats saisis à un refuge et mettant les frais à charge du responsable. Le responsable de l'animal est celui qui exerce habituellement sur lui une gestion ou une surveillance directe, qu'il soit propriétaire ou détenteur ou non.",
+    "L'arrêt concerne les personnes dont les animaux sont saisis administrativement en vertu du Code wallon de l'Environnement (Livre Ier, délinquance environnementale et règles de saisie) et la charge des frais qui en découle. Le Conseil d'État a rejeté la demande d'annulation de la décision de la ministre du 20 juin 2024, qui attribuait au refuge la propriété d'une chatte et de ses trois chatons et rappelait que les frais de saisie, notamment d'hébergement, sont à charge du responsable en vertu de l'article D.170, § 6. Il lit l'article D.141, § 1er, 13°, en ce sens que le responsable est la personne qui exerce habituellement une gestion ou une surveillance directe sur l'animal, de sorte que la qualité de propriétaire ou de détenteur au sens du droit commun n'importe pas. Le requérant avait abrité, chauffé et nourri les animaux et sollicité leur restitution, ce qui établissait une surveillance directe et donc sa qualité de responsable. Le Conseil a aussi jugé irrecevable un moyen pris de l'arrêté du 14 avril 2016 relatif à la saisie administrative d'animaux, abrogé par l'arrêté du Gouvernement wallon du 2 juin 2022. Les griefs d'excès ou de détournement de pouvoir et d'erreur manifeste d'appréciation étaient irrecevables faute d'être exposés. L'attribution des animaux au refuge était suffisamment motivée : le dossier ne contenait pas de déclaration officielle du refuge, au sens de l'article R.153, § 1er, de son impossibilité de continuer à héberger les animaux, et son message sur les réseaux sociaux indiquant qu'il était complet tenait compte des animaux saisis. L'arrêt a été prononcé le 23 janvier 2026 ; le requérant supporte les dépens, dont une indemnité de procédure de 770 euros."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.542 du 23 janvier 2026 : articles D.141, § 1er, 13°, D.170, §§ 4 et 6, et R.153 du Livre Ier du Code de l'Environnement (Région wallonne)",
+   "dates": {
+    "adopted": "2026-01-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265542. Par une requête introduite par la voie électronique le 23 août 2024, la partie requérante demande l’annul",
+     "https://www.raadvst-consetat.be/arresten/265542"
+    ]
+   ],
+   "inbox": [
+    "rvs:265542"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265538",
+   "d": "2026-01-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "soil",
+    "environmental-safety"
+   ],
+   "h": "Council of State: mayor's police order on farmland runoff annulled for inadequate statement of reasons",
+   "a": "The Council of State annulled a mayor's police order requiring straw bales on farmland to stop muddy runoff and flooding. It held that the order relied on an expert report that was neither summarised in it nor shown to have been known to the addressees, and that it did not justify the measure's relevance.",
+   "b": "The ruling concerns mayors who adopt individual police measures under articles 133(2) and 135(2) of the New Municipal Law, including measures on private land that is a source of public-order disturbance such as flooding or mud flows. The Council of State confirms that such land may be targeted, that public order can be disturbed without any fault by the owner or user, and that the authority need not establish who is responsible. It then applies the formal-motivation rules of the Law of 29 July 1991. A statement of reasons may refer to another document only if the act reports its substance or the addressee knew the document at the latest when the act was notified. Here the order relied on a report from a flood-risk unit but did not reproduce its content, and no proof was shown that the report was communicated or known to the addressees. The order also had to justify the relevance and proportionality of the chosen measure. It did not, because the report recommended straw bales only as a complement to a runoff-retention structure and not as the sole measure. The order of 23 October 2023 is therefore annulled, an earlier request for suspension having been rejected in May 2024, and the municipality bears the costs. The remaining pleas were not examined.",
+   "nl": [
+    "Raad van State: politiebesluit van burgemeester over afstromend water van landbouwgrond vernietigd wegens gebrekkige motivering",
+    "De Raad van State vernietigde een politiebesluit van een burgemeester dat strobalen op landbouwgrond oplegde om modderstromen en overstromingen tegen te gaan. Het besluit steunde op een deskundigenrapport waarvan de inhoud niet erin was weergegeven en waarvan niet bleek dat de geadresseerden het kenden, en het verantwoordde de relevantie van de maatregel niet.",
+    "Het arrest betreft burgemeesters die individuele politiemaatregelen nemen op grond van de artikelen 133, tweede lid, en 135, § 2, van de Nieuwe Gemeentewet, ook ten aanzien van privéterreinen die een bron van verstoring van de openbare orde zijn, zoals overstromingen of modderstromen. De Raad van State bevestigt dat zulke terreinen kunnen worden geviseerd, dat de openbare orde ook zonder fout van de eigenaar of gebruiker kan worden verstoord en dat de overheid niet hoeft vast te stellen wie verantwoordelijk is. Vervolgens past hij de regels inzake formele motivering van de wet van 29 juli 1991 toe. Een motivering mag enkel naar een ander document verwijzen als de inhoud ervan in de akte is weergegeven of als de bestemmeling het document kende uiterlijk bij de kennisgeving van de akte. Hier steunde het besluit op een rapport van een overstromingscel zonder de inhoud ervan te hernemen, en er was geen bewijs dat het rapport aan de geadresseerden was meegedeeld of hun bekend was. Het besluit moest ook de relevantie en de evenredigheid van de gekozen maatregel verantwoorden. Dat gebeurde niet, omdat het rapport strobalen slechts aanbeveelt als aanvulling op een structuur voor het vertragen van de afstroming en niet als enige maatregel. Het besluit van 23 oktober 2023 wordt daarom vernietigd, nadat een eerdere vordering tot schorsing in mei 2024 was verworpen, en de gemeente draagt de kosten. De overige middelen werden niet onderzocht."
+   ],
+   "fr": [
+    "Conseil d'État : arrêté de police du bourgmestre sur le ruissellement agricole annulé pour motivation insuffisante",
+    "Le Conseil d'État a annulé un arrêté de police du bourgmestre imposant des ballots de paille sur des terres agricoles pour limiter coulées de boue et inondations. L'arrêté se fondait sur un rapport d'expert dont le contenu n'y était pas repris et dont la connaissance par les destinataires n'était pas démontrée, et il ne justifiait pas la pertinence de la mesure.",
+    "L'arrêt concerne les bourgmestres qui adoptent des mesures de police à portée individuelle sur la base des articles 133, alinéa 2, et 135, § 2, de la Nouvelle loi communale, y compris à l'égard de lieux privés sources de trouble à l'ordre public, tels que des inondations ou des coulées de boue. Le Conseil d'État confirme que de tels terrains peuvent être visés, que l'ordre public peut être troublé sans faute du propriétaire ou de l'exploitant et que l'autorité n'a pas à déterminer les responsabilités. Il applique ensuite les règles de motivation formelle de la loi du 29 juillet 1991. Une motivation ne peut se référer à un autre document que si la substance de celui-ci est rapportée dans l'acte ou si le destinataire en a eu connaissance au plus tard au moment de la notification de l'acte. En l'espèce, l'arrêté se fondait sur un rapport d'une cellule de gestion des inondations sans en reprendre le contenu, et il n'était pas démontré que ce rapport avait été communiqué aux destinataires ou leur était connu. L'arrêté devait aussi justifier la pertinence et la proportionnalité de la mesure choisie. Tel n'était pas le cas, le rapport ne préconisant les ballots de paille qu'en complément d'un ouvrage de temporisation du ruissellement et non comme mesure unique. L'arrêté du 23 octobre 2023 est dès lors annulé, une demande de suspension ayant été rejetée en mai 2024, et la ville supporte les dépens. Les autres moyens n'ont pas été examinés."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.538 du 23 janvier 2026 – Nouvelle loi communale, art. 133, al. 2 et 135, § 2; loi du 29 juillet 1991 sur la motivation formelle, art. 2 et 3",
+   "dates": {
+    "adopted": "2026-01-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265538. Par une requête introduite le 22 décembre 2023, les parties requérantes demandent, d’une part, l’annulati",
+     "https://www.raadvst-consetat.be/arresten/265538"
+    ]
+   ],
+   "inbox": [
+    "rvs:265538"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265533",
+   "d": "2026-01-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: marine permit exemptions leave Natura 2000 appropriate assessment duty intact",
+   "a": "The Council of State dismissed the appeal by four environmental NGOs against the 2019 extension of a North Sea sand extraction concession. It held that the exemptions in Articles 25(3) and 28(1) of the 1999 Marine Environment Act do not exempt activities from the Natura 2000 permit and appropriate assessment regime.",
+   "b": "The ruling concerns project developers and authorities in Belgian sea areas, in particular holders of sand extraction concessions in the North Sea. Four environmental NGOs challenged the ministerial decree of 30 July 2019 extending a concession in control zones 1 to 4 from 1 January 2020 to 31 December 2029, and the North Sea minister's favourable opinion of 4 July 2019. They argued that the exemptions from the permit requirement (Art. 25(3)) and from the environmental impact assessment (Art. 28(1)) of the Act of 20 January 1999 conflict with Article 6(2) and (3) of the Habitats Directive, because the exempted activities are never assessed and their cumulative effects on the 'Vlaamse Banken' site cannot be taken into account. The Council of State found that the exemptions only cover permits, authorisations and the impact assessment. The Natura 2000 permit under Article 14(2) of the Royal Decree of 27 October 2016 is required for any project likely to have significant effects alone or in combination, whether or not a permit or authorisation is needed. The project initiator must itself gather the data to examine cumulative effects with other activities, whether or not those are subject to permits or appropriate assessment. The Court declared the direct invocation of Article 6(2) and (3) of the Habitats Directive inadmissible, because the provisions were transposed into Belgian law and the NGOs did not claim faulty transposition. It refused to refer a question to the Court of Justice of the EU as irrelevant and dismissed the appeal, so the concession extension stands. The judgment was delivered on 23 January 2026.",
+   "nl": [
+    "Raad van State: vrijstellingen in mariene vergunningsregeling laten plicht tot passende beoordeling onverlet",
+    "De Raad van State verwerpt het beroep van vier milieuverenigingen tegen de verlenging in 2019 van een concessie voor zandwinning in de Noordzee. Volgens de Raad ontheffen de vrijstellingen in de artikelen 25, § 3 en 28, § 1 van de wet van 20 januari 1999 niet van de Natura 2000-toelating en de passende beoordeling.",
+    "Het arrest betreft projectontwikkelaars en overheden in de Belgische zeegebieden, in het bijzonder houders van concessies voor zandwinning in de Noordzee. Vier milieuverenigingen bestreden het ministerieel besluit van 30 juli 2019 dat een concessie in controlezones 1 tot 4 verlengde van 1 januari 2020 tot 31 december 2029, en het positief advies van 4 juli 2019 van de minister bevoegd voor de Noordzee. Zij voerden aan dat de vrijstellingen van de vergunningsplicht (art. 25, § 3) en van de milieueffectenbeoordeling (art. 28, § 1) van de wet van 20 januari 1999 strijdig zijn met artikel 6, leden 2 en 3 van de habitatrichtlijn, omdat de vrijgestelde activiteiten nooit worden beoordeeld en hun cumulatieve effecten op “Vlaamse Banken” niet in aanmerking kunnen worden genomen. De Raad van State oordeelt dat de vrijstellingen enkel de vergunningen, machtigingen en de milieueffectenbeoordeling betreffen. De Natura 2000-toelating op grond van artikel 14, § 2 van het koninklijk besluit van 27 oktober 2016 is vereist voor elk project dat afzonderlijk of in combinatie significante gevolgen kan hebben, ongeacht of een vergunning of machtiging vereist is. De initiatiefnemer moet zelf de gegevens verzamelen om de cumulatieve effecten met andere activiteiten te onderzoeken, ongeacht of die vergunningsplichtig zijn of aan een passende beoordeling zijn onderworpen. De rechtstreekse aanvoering van artikel 6, leden 2 en 3 van de habitatrichtlijn is onontvankelijk, omdat die bepalingen in Belgisch recht zijn omgezet en de verzoekers geen gebrekkige omzetting aanvoeren. De gevraagde prejudiciële vraag aan het Hof van Justitie wordt als niet relevant niet gesteld en het beroep wordt verworpen, zodat de verlenging van de concessie blijft bestaan. Het arrest werd uitgesproken op 23 januari 2026."
+   ],
+   "fr": [
+    "Conseil d'État : les exemptions du régime d'autorisation marin n'écartent pas l'évaluation appropriée Natura 2000",
+    "Le Conseil d'État rejette le recours de quatre associations environnementales contre la prolongation en 2019 d'une concession d'extraction de sable en mer du Nord. Selon lui, les exemptions des articles 25, § 3 et 28, § 1 de la loi du 20 janvier 1999 ne dispensent pas de l'autorisation Natura 2000 ni de l'évaluation appropriée.",
+    "L'arrêt concerne les porteurs de projets et les autorités dans les espaces marins belges, en particulier les titulaires de concessions d'extraction de sable en mer du Nord. Quatre associations environnementales contestaient l'arrêté ministériel du 30 juillet 2019 prolongeant une concession dans les zones de contrôle 1 à 4 du 1er janvier 2020 au 31 décembre 2029, ainsi que l'avis favorable du 4 juillet 2019 du ministre compétent pour la mer du Nord. Elles soutenaient que les exemptions de l'obligation d'autorisation (art. 25, § 3) et de l'évaluation des incidences sur l'environnement (art. 28, § 1) de la loi du 20 janvier 1999 violent l'article 6, paragraphes 2 et 3 de la directive Habitats, parce que les activités exemptées ne sont jamais évaluées et que leurs effets cumulatifs sur le site « Vlaamse Banken » ne peuvent être pris en compte. Le Conseil d'État juge que les exemptions ne visent que les permis, autorisations et l'évaluation des incidences. L'autorisation Natura 2000 prévue à l'article 14, § 2 de l'arrêté royal du 27 octobre 2016 est requise pour tout projet susceptible d'avoir, seul ou en combinaison, des incidences significatives, qu'une autorisation soit ou non exigée par ailleurs. Il incombe à l'initiateur de rassembler lui-même les données nécessaires pour examiner les effets cumulatifs avec d'autres activités, qu'elles soient ou non soumises à autorisation ou à évaluation appropriée. L'invocation directe de l'article 6, paragraphes 2 et 3 de la directive Habitats est irrecevable, ces dispositions ayant été transposées en droit belge sans que les requérantes allèguent une transposition défectueuse. La question préjudicielle proposée à la Cour de justice n'est pas posée, faute de pertinence, et le recours est rejeté, de sorte que la prolongation de la concession subsiste. L'arrêt a été prononcé le 23 janvier 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 265.533 van 23 januari 2026 (XIV-39.560): artikelen 25, § 3 en 28, § 1 wet van 20 januari 1999; artikel 14, § 2 KB van 27 oktober 2016; artikel 6, leden 2 en 3 habitatrichtlijn",
+   "dates": {
+    "adopted": "2026-01-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265533. 1. Het beroep, ingesteld op 8 oktober 2019, strekt tot de nietigverklaring van het “ministerieel besluit ",
+     "https://www.raadvst-consetat.be/arresten/265533"
+    ]
+   ],
+   "inbox": [
+    "rvs:265533"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0447",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls Landen allotment permit amendment: amended allotment rules needed a new public inquiry",
+   "a": "The Council for Permit Disputes annulled an amended allotment permit because allotment rules changed on administrative appeal were adopted without a new public inquiry. It held that the administrative loop cannot cure this defect and rejected the challenge to the project EIA screening.",
+   "b": "The ruling concerns an allotment permit amendment in Landen that was granted on administrative appeal after the applicant submitted a changed project version with amended allotment rules. Those rules covered a green roof, water-permeable and greened parking, a minimum G/T index for the parking area and rainwater infiltration. They changed the application under art. 64 of the Omgevingsvergunningsdecreet and were decisive for granting the permit, so the Council held that they should have gone to a new public inquiry. Without it, third parties lost the safeguards of the inquiry. The updated mobility test and the nitrogen note did not require one, because they were not decisive for the decision. The Council also refused the administrative loop, because a missing public inquiry is more than a formal defect: it provides input and information that may change the decision. On the project EIA screening, the Council found that a challenger need not prove significant effects but must make it plausible that effects were not or insufficiently examined. For cumulative effects, it must show an existing or approved project that has to be taken into account under Annex II, 3°, g) DABM. That plea was rejected. The ruling of 22 January 2026 annuls the decision of 26 September 2024 and orders a new decision on the administrative appeal within three months of notification of the ruling.",
+   "nl": [
+    "RvVb vernietigt verkavelingsbijstelling Landen: gewijzigde verkavelingsvoorschriften vereisten nieuw openbaar onderzoek",
+    "De Raad voor Vergunningsbetwistingen vernietigt een bijgestelde verkavelingsvergunning omdat in beroep gewijzigde verkavelingsvoorschriften zonder nieuw openbaar onderzoek werden aanvaard. De bestuurlijke lus kan dit gebrek niet herstellen; de kritiek op de project-m.e.r.-screening wordt verworpen.",
+    "Het arrest betreft een bijstelling van een verkavelingsvergunning in Landen die in administratief beroep werd verleend nadat de aanvrager een gewijzigde projectinhoud met aangepaste verkavelingsvoorschriften had ingediend. Die voorschriften gingen over een groendak, waterdoorlatende en ingegroende parking, een minimale G/T-index van de parking en infiltratie van hemelwater. Ze wijzigden de aanvraag op grond van artikel 64 van het Omgevingsvergunningsdecreet en waren bepalend voor de toekenning van de vergunning, zodat ze aan een nieuw openbaar onderzoek hadden moeten worden onderworpen. Zonder dat onderzoek werden derden de waarborgen ervan ontnomen. De geactualiseerde mobiliteitstoets en de stikstofnota vereisten geen nieuw openbaar onderzoek, omdat ze niet bepalend waren voor de beslissing. De Raad weigert ook de bestuurlijke lus, omdat een ontbrekend openbaar onderzoek meer is dan een vormgebrek: het levert inspraak en informatie op die de beslissing kunnen wijzigen. Over de project-m.e.r.-screening oordeelt de Raad dat een verzoekende partij niet moet aantonen dat er aanzienlijke effecten zijn, maar wel aannemelijk moet maken dat effecten niet of onvoldoende werden onderzocht. Voor cumulatieve effecten moet ze een bestaand of goedgekeurd project aantonen dat volgens bijlage II, 3°, g) DABM in rekening moet worden genomen. Dat middel wordt verworpen. Het arrest van 22 januari 2026 vernietigt de beslissing van 26 september 2024 en beveelt een nieuwe beslissing over het administratief beroep binnen drie maanden na de betekening van het arrest."
+   ],
+   "fr": [
+    "Le CCA annule la modification d'un permis de lotir à Landen : les prescriptions modifiées exigeaient une nouvelle enquête publique",
+    "Le Conseil pour les contestations des autorisations annule une modification de permis de lotir, car des prescriptions de lotissement modifiées en recours administratif ont été acceptées sans nouvelle enquête publique. La boucle administrative ne peut réparer ce défaut ; la critique de la sélection préalable (screening) du projet est rejetée.",
+    "L'arrêt concerne la modification d'un permis de lotir à Landen, accordée en recours administratif après que le demandeur a déposé une version modifiée du projet avec des prescriptions de lotissement adaptées. Ces prescriptions portaient sur une toiture verte, un parking perméable et verdurisé, un indice G/T minimal du parking et l'infiltration des eaux pluviales. Elles modifiaient la demande sur la base de l'article 64 du Omgevingsvergunningsdecreet et ont été déterminantes pour l'octroi du permis ; elles auraient donc dû faire l'objet d'une nouvelle enquête publique. Faute d'enquête, les tiers ont été privés de ses garanties. L'actualisation du test de mobilité et la note azote n'exigeaient pas de nouvelle enquête, car elles n'étaient pas déterminantes pour la décision. Le Conseil refuse aussi la boucle administrative : l'absence d'enquête publique est plus qu'un vice de forme, car elle apporte participation et informations susceptibles de modifier la décision. Quant au screening project-m.e.r., le Conseil juge que le requérant ne doit pas prouver l'existence d'incidences notables, mais doit rendre plausible que des incidences n'ont pas été examinées ou l'ont été insuffisamment. Pour les effets cumulés, il doit démontrer l'existence d'un projet existant ou approuvé à prendre en compte selon l'annexe II, 3°, g) du DABM. Ce moyen est rejeté. L'arrêt du 22 janvier 2026 annule la décision du 26 septembre 2024 et ordonne une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0447: art. 64 Omgevingsvergunningsdecreet (gewijzigde aanvraag in beroep), openbaar onderzoek, bestuurlijke lus; art. 4.3.2, §2bis DABM en bijlage III Project-MER-besluit (screeningsnota)",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0447. vernietiging van de beslissing van de verwerende partij van 26 september 2024 , ",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0447.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0447"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0445",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit: zone-alien change of use of farm buildings needs own assessment and landscape test",
+   "a": "The Council for Permit Disputes annulled a permit for demolishing and rebuilding former farm buildings as dwelling annexes in landscape-valuable agricultural area. It held that the authority must itself carefully assess the new condition on neighbouring farms in Article 4.4.23 VCRO, Article 11 of the zone-alien change-of-use decree and the landscape aesthetic test.",
+   "b": "The ruling concerns permitting authorities and applicants seeking a zone-alien change of use of former farm buildings to dwelling annexes, here in landscape-valuable agricultural area under the Ieper-Poperinge sector plan. On Article 4.4.23(1), 3° VCRO (as amended by the decree of 17 May 2024), the Council held that the authority must form its own careful view on whether the change of use compromises the normal operation of permitted neighbouring farms. This includes whether the site and its land could serve those farms. Referring to an earlier permitted zone-alien dwelling is not enough, and copying the applicant's reply almost verbatim without critically testing it against unfavourable advice is not enough either. On Article 11 of the Flemish Government decree of 28 November 2003, which is a derogation to be read restrictively, the permit must show concretely what complementary functions the annexes will have and whether their size respects economical use of space; conversion cannot be quasi-automatic. Finally, even where Article 4.4.23 VCRO derogates from the zoning provisions, the aesthetic test of Article 15.4.6.1 of the Royal Decree of 28 December 1972 still applies, and the decision must state why the landscape's beauty is not endangered. The Council annulled the provincial decision of 16 January 2025 and ordered a new decision on the administrative appeal within three months of the day after notification of the ruling. Costs of EUR 840 are charged to the authority. The ruling was delivered on 22 January 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning: zonevreemde functiewijziging van landbouwgebouwen vereist eigen onderzoek en landschapstoets",
+    "De Raad voor Vergunningsbetwistingen vernietigde een omgevingsvergunning voor het slopen en herbouwen van voormalige landbouwgebouwen als woningbijgebouwen in landschappelijk waardevol agrarisch gebied. Hij oordeelde dat de overheid zelf zorgvuldig moet onderzoeken of voldaan is aan de nieuwe voorwaarde in artikel 4.4.23 VCRO, aan artikel 11 van het Besluit Zonevreemde Functiewijzigingen en aan het esthetisch criterium.",
+    "Het arrest treft vergunningverlenende overheden en aanvragers van een zonevreemde functiewijziging van voormalige landbouwbedrijfsgebouwen naar woningbijgebouwen, hier in landschappelijk waardevol agrarisch gebied van het gewestplan Ieper-Poperinge. Wat artikel 4.4.23, eerste lid, 3° VCRO (zoals gewijzigd bij decreet van 17 mei 2024) betreft, oordeelde de Raad dat de overheid zich zelf zorgvuldig moet uitspreken over de vraag of de functiewijziging de normale bedrijfsvoering van vergunde of vergund geachte bedrijven in de omgeving niet in het gedrang brengt. Daartoe behoort ook of de site en de gronden mogelijkheden bieden voor die bedrijven. Een verwijzing naar een eerder vergunde zonevreemde woning volstaat niet, en het quasi woordelijk overnemen van de replieknota van de aanvrager zonder kritische toetsing aan de ongunstige adviezen evenmin. Artikel 11 van het besluit van de Vlaamse regering van 28 november 2003 is een afwijkingsbepaling die restrictief moet worden geïnterpreteerd: uit de vergunning moet concreet blijken welke complementaire functies de bijgebouwen krijgen en of hun omvang een zuinig ruimtegebruik respecteert; de omzetting kan niet quasi automatisch gebeuren. Ten slotte blijft ook bij een afwijking op grond van artikel 4.4.23 VCRO de toets aan artikel 15.4.6.1 van het koninklijk besluit van 28 december 1972 (Inrichtingsbesluit) gelden, en moet de beslissing motiveren waarom de schoonheidswaarde van het landschap niet in gevaar komt. De Raad vernietigde de bestreden beslissing van 16 januari 2025 en beval een nieuwe beslissing over het bestuurlijk beroep binnen drie maanden vanaf de dag na de betekening van het arrest. De kosten van 840 euro komen ten laste van de verwerende overheid. Het arrest werd uitgesproken op 22 januari 2026."
+   ],
+   "fr": [
+    "Le CCA annule un permis: la modification de fonction non conforme à la zone exige un examen propre et un test paysager",
+    "Le Conseil pour les contestations des autorisations (RvVb) a annulé un permis d'environnement visant la démolition et la reconstruction d'anciens bâtiments agricoles en annexes d'habitation en zone agricole d'intérêt paysager. Il juge que l'autorité doit elle-même examiner avec soin la nouvelle condition de l'article 4.4.23 VCRO, l'article 11 de l'arrêté sur les modifications de fonction non conformes à la zone et le critère esthétique.",
+    "L'arrêt concerne les autorités délivrantes et les demandeurs d'une modification de fonction non conforme à la zone d'anciens bâtiments d'exploitation agricole en annexes d'habitation, ici en zone agricole d'intérêt paysager du plan de secteur d'Ypres-Poperinge. Quant à l'article 4.4.23, alinéa 1er, 3° VCRO (tel que modifié par le décret du 17 mai 2024), le Conseil a jugé que l'autorité doit se prononcer elle-même avec soin sur la question de savoir si la modification de fonction ne compromet pas l'exploitation normale des entreprises autorisées ou réputées autorisées dans les environs. Cela inclut la question de savoir si le site et les terrains offrent des possibilités à ces entreprises. Une simple référence à une habitation non conforme à la zone précédemment autorisée ne suffit pas, pas plus que la reprise quasi littérale de la note en réplique du demandeur sans examen critique au regard des avis défavorables. L'article 11 de l'arrêté du Gouvernement flamand du 28 novembre 2003, disposition dérogatoire d'interprétation restrictive, impose que le permis indique concrètement les fonctions complémentaires des annexes et si leur volume respecte une utilisation parcimonieuse de l'espace; la conversion ne peut être quasi automatique. Enfin, même lorsque l'article 4.4.23 VCRO déroge aux prescriptions d'affectation, le test de l'article 15.4.6.1 de l'arrêté royal du 28 décembre 1972 (arrêté d'organisation) reste applicable, et la décision doit motiver pourquoi la valeur esthétique du paysage n'est pas compromise. Le Conseil a annulé la décision attaquée du 16 janvier 2025 et ordonné une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. Les dépens de 840 euros sont à charge de l'autorité défenderesse. L'arrêt a été prononcé le 22 janvier 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0445 – artikel 4.4.23 VCRO, artikel 11 Besluit Zonevreemde Functiewijzigingen en artikel 15.4.6.1 Inrichtingsbesluit",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0445. vernietiging van de beslissing van de verwerende partij van 16 januari 2025, waa",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0445.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0445"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0443",
+   "d": "2026-01-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: neighbours must substantiate nature-test claims; LULUCF Regulation creates no permit screening duty",
+   "a": "The Council for Permit Disputes rejects an action against a subdivision permit for eleven lots with road works. It holds that a claimant relying on the nature, habitat and VEN tests must give concrete, specific data, and that the LULUCF Regulation does not require an assessment in the permit procedure.",
+   "b": "The ruling concerns third parties challenging environmental permits in Flanders, project developers, and permitting authorities, here for a subdivision with road works in residential zoning. The Council accepts that neighbours have an interest in pleas based on the nature test, the enhanced nature test and the habitat test, because everyone has a right to a healthy environment. It adds that the relativity requirement was annulled by the Constitutional Court (judgment 59/2023), so an objection based on it has no legal basis. Article 16 §1 of the Nature Decree imposes no special formal duty to state reasons: it is enough that the decision or the file shows the duty of care was met. A claimant invoking articles 16 §1, 26bis and 36ter must name the natural values at risk and make avoidable harm plausible. For nitrogen deposition, claimants need not prove significant harm, but it is not enough to say that a deposition study is missing: they must identify the nitrogen-sensitive values and take the conservation objectives into account. On the project-EIA screening, the Council holds that the LULUCF Regulation binds only the Member States and creates no duty to assess land-use effects on greenhouse gases in a permit application or screening note. It also finds that the mobility effects were not shown to exceed those in the mobility note, since complementary functions in the lots must remain subordinate to housing (maximum 100 m² for lots 1 to 10). The action is dismissed, with the 1,000 euro filing fee charged to the claimants; the ruling was delivered on 22 January 2026.",
+   "nl": [
+    "RvVb: omwonenden moeten natuurtoets-middelen concreet onderbouwen; LULUCF-verordening geen screeningsplicht",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een verkavelingsvergunning voor elf loten met wegenis. Wie de natuurtoets, habitattoets of VEN-toets inroept, moet concrete gegevens aanbrengen, en de LULUCF-verordening verplicht niet tot een beoordeling in de vergunningsprocedure.",
+    "Het arrest betreft derden die omgevingsvergunningen in Vlaanderen betwisten, projectontwikkelaars en vergunningverlenende overheden, hier voor een verkaveling met wegenis in woongebied. De Raad aanvaardt dat omwonenden belang hebben bij middelen over de natuurtoets, de verscherpte natuurtoets en de habitattoets, omdat ieder recht heeft op een gezond leefmilieu. Hij voegt toe dat de relativiteitseis door het Grondwettelijk Hof is vernietigd (arrest 59/2023), zodat een exceptie daarop geen rechtsgrond heeft. Artikel 16, §1 Natuurdecreet legt geen bijzondere formele motiveringsplicht op: het volstaat dat uit de beslissing of het dossier blijkt dat de zorgplicht is nageleefd. Wie de artikelen 16, §1, 26bis en 36ter inroept, moet de bedreigde natuurwaarden benoemen en vermijdbare schade aannemelijk maken. Voor stikstofdepositie hoeven verzoekers geen betekenisvolle aantasting te bewijzen, maar het volstaat niet te stellen dat een depositieonderzoek ontbreekt: ze moeten de stikstofgevoelige waarden aanduiden en rekening houden met de instandhoudingsdoelstellingen. Voor de project-m.e.r.-screening oordeelt de Raad dat de LULUCF-verordening enkel de lidstaten bindt en geen verplichting inhoudt om in een vergunningsaanvraag of screeningsnota de effecten van landgebruikswijziging op broeikasgassen te beoordelen. Ook werd niet aangetoond dat de mobiliteitseffecten groter zijn dan in de mobiliteitsnota, omdat complementaire functies in de loten ondergeschikt aan wonen moeten blijven (maximaal 100 m² voor loten 1 tot en met 10). Het beroep wordt verworpen, met het rolrecht van 1000 euro ten laste van de verzoekers; het arrest is uitgesproken op 22 januari 2026."
+   ],
+   "fr": [
+    "CCA : les voisins doivent étayer concrètement leurs griefs sur l'évaluation de la nature ; le règlement LULUCF n'impose pas de screening",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette le recours contre un permis de lotir de onze lots avec voirie. Celui qui invoque le test de la nature, l'évaluation des incidences sur les habitats ou le test VEN doit fournir des données concrètes, et le règlement LULUCF n'impose pas d'évaluation dans la procédure de permis.",
+    "L'arrêt concerne les tiers qui contestent des permis d'environnement en Flandre, les porteurs de projet et les autorités délivrantes, ici pour un lotissement avec voirie en zone d'habitat. Le Conseil admet que les riverains ont intérêt à invoquer des moyens relatifs au test de la nature, au test de la nature renforcé et à l'évaluation des incidences sur les habitats, car chacun a droit à un environnement sain. Il ajoute que l'exigence de relativité a été annulée par la Cour constitutionnelle (arrêt 59/2023), de sorte qu'une exception fondée sur elle est dépourvue de base juridique. L'article 16, §1er du décret sur la conservation de la nature n'impose pas d'obligation formelle particulière de motivation : il suffit que la décision ou le dossier montre que le devoir de diligence a été respecté. Celui qui invoque les articles 16, §1er, 26bis et 36ter doit désigner les valeurs naturelles menacées et rendre plausible un dommage évitable. Pour le dépôt d'azote, les requérants n'ont pas à prouver une atteinte significative, mais il ne suffit pas d'affirmer qu'une étude de dépôt fait défaut : ils doivent identifier les valeurs sensibles à l'azote et tenir compte des objectifs de conservation. Quant au screening de l'évaluation des incidences sur l'environnement du projet, le Conseil juge que le règlement LULUCF ne lie que les États membres et n'impose pas d'évaluer, dans une demande de permis ou une note de screening, les effets du changement d'affectation des terres sur les gaz à effet de serre. Il n'a pas non plus été démontré que les effets sur la mobilité dépassent ceux de la note de mobilité, les fonctions complémentaires devant rester subordonnées au logement (100 m² au maximum pour les lots 1 à 10). Le recours est rejeté, le droit de rôle de 1 000 euros restant à charge des requérants ; l'arrêt a été prononcé le 22 janvier 2026."
+   ],
+   "scope": "Arrest RvVb.A.2526.0443 van 22 januari 2026 – artikelen 16 §1, 26bis en 36ter Natuurdecreet; artikelen 4.3.2 §2bis en 4.3.3 §2 DABM; LULUCF-verordening",
+   "dates": {
+    "adopted": "2026-01-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0443.",
+     "https://www.dbrc.be/sites/default/files/2026-02/RVVB.A.2526.0443.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0443"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

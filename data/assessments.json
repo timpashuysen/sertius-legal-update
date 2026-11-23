@@ -51496,7 +51496,9 @@
 ],
 "reason": "Animal by-product rules on meat-and-bone meal export for combustion as fuel; waste-related.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Derogation covers only Irish-authorised exports of meat-and-bone meal to the UK; no change for Belgian operators or authorities."
 },
 "eu:32026R0175": {
 "v": 4,
@@ -51633,7 +51635,8 @@
 ],
 "reason": "Appoints regional supervisors enforcing Flemish environmental regulations under the 1995 environmental decree.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041750"
 },
 "eu:52026PC0041": {
 "v": 4,
@@ -51900,7 +51903,8 @@
 ],
 "reason": "Substantially changed subdivision prescriptions submitted in an amended project version required a new public inquiry; the permit was annulled on that ground.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0447"
 },
 "rvvb:RVVB.A.2526.0445": {
 "v": 4,
@@ -51913,7 +51917,8 @@
 ],
 "reason": "Annuls permit for zoning-exception change of farm buildings: under art. 4.4.23 VCRO the authority must itself assess that the change does not endanger neighbouring farms' normal operation, and must ju",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0445"
 },
 "rvvb:RVVB.A.2526.0444": {
 "v": 4,
@@ -51936,7 +51941,8 @@
 ],
 "reason": "Clarifies the scope of the natuurtoets (art. 16 Natuurdecreet), the no-threshold test for unavoidable irreversible damage in VEN areas (art. 26bis), and petitioners' burden of proof.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0443"
 },
 "rvvb:RVVB.A.2526.0442": {
 "v": 4,
@@ -59074,7 +59080,8 @@
 ],
 "reason": "Suspension of a permit: replying to EIE criticism by mere reference to the study is insufficient, and an environmental association has personal interest in biodiversity harm.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265559"
 },
 "rvs:265558": {
 "v": 4,
@@ -59226,7 +59233,8 @@
 ],
 "reason": "Interprets 'responsable de l'animal' under Code de l'Environnement D.141: ownership is irrelevant; habitual direct management or surveillance suffices for seizure and cost liability.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265542"
 },
 "rvs:265541": {
 "v": 4,
@@ -59259,7 +59267,8 @@
 ],
 "reason": "Mayor's police measure against erosion runoff from farmland annulled: police powers reach natural hazards; a referenced report must be disclosed, and measure's pertinence and proportionality must be j",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265538"
 },
 "rvs:265537": {
 "v": 4,
@@ -59282,7 +59291,8 @@
 ],
 "reason": "Natura 2000 permit and appropriate assessment apply to marine activities exempt from permit; applicant must assess cumulative effects regardless of others' exemptions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265533"
 },
 "rvs:265529": {
 "v": 4,
@@ -59471,7 +59481,8 @@
 ],
 "reason": "Annuls Bruges parking ordinance: a change is not a 'kleine wijziging' under the DABM plan-MER exemption where it substantially alters the prior text; screening must justify this.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265576"
 },
 "rvs:265575": {
 "v": 4,
@@ -59543,7 +59554,8 @@
 ],
 "reason": "Substitution power under art. 37 §2 DBRC: an unavoidable legality obstacle is assessed on the date of the RvVb ruling, not at later reinstatement.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265568"
 },
 "rvs:265567": {
 "v": 4,
@@ -59555,7 +59567,9 @@
 ],
 "reason": "Confirms that appellants must concretely plead grounds and their interest against permit decisions; courts won't develop pleas for them, and new cassation pleas are inadmissible.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Cassation appeal dismissed as inadmissible on settled procedural grounds; the court does not rule on the permit appeal-standing (betrokken publiek) question."
 },
 "rvs:265566": {
 "v": 4,
@@ -59567,7 +59581,8 @@
 ],
 "reason": "RvVb need not state reasons for short-debate treatment in permit appeals unless a party contests it; permit rights lapse where works deviate from the permit.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265566"
 },
 "rvs:265565": {
 "v": 4,
@@ -59579,7 +59594,8 @@
 ],
 "reason": "Council of State annuls RvVb ruling: the 100 m² floor-area limit in art. 4.4.6(2) VCRO applies only to 'onthaalinfrastructuur', not to parkings, access roads or other listed works near protected herit",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265565"
 },
 "rvs:265631": {
 "v": 4,
@@ -67588,15 +67604,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 172,
+"waiting": 158,
 "api": {
 "calls": 14,
-"input_tokens": 166090,
-"output_tokens": 45301,
-"usd": 0.7852
+"input_tokens": 170116,
+"output_tokens": 41530,
+"usd": 0.7555
 },
 "updated": "2026-11-23"
 },
