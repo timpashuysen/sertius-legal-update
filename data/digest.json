@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:53:09Z",
+ "updated": "2026-11-23T05:05:08Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -15152,6 +15152,334 @@
    ],
    "inbox": [
     "eu:32026R1392"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1165",
+   "d": "2026-05-20",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "Biocides: data protection for review-programme substances extended from 2025 to 31 December 2030",
+   "a": "Regulation (EU) 2026/1165 extends the data protection period under the Biocidal Products Regulation to 31 December 2030 for active substance/product-type combinations still without an approval decision on 7 June 2018. Data owners may claim compensation from suppliers who used the data during the gap in protection from 1 January to 15 June 2026.",
+   "b": "The Regulation concerns owners of data submitted in the review programme for existing biocidal active substances, and the substance and product suppliers on the Article 95 list of Regulation (EU) No 528/2012. It applies to active substance/product-type combinations for which no approval decision had been adopted by 7 June 2018. For these, all data protection periods now end on 31 December 2030 instead of 31 December 2025 (Article 95(5)). The extension covers all data in the application, not only data generated after 2018. Article 60(1) is amended so that the rule that expired protection does not start again no longer blocks this extension. Because the data were unprotected from 1 January to 15 June 2026, data owners may claim compensation for access to their data for that period from a substance or product supplier that benefited and was on the Article 95 list during that time. The Regulation enters into force on the twentieth day after its publication in the Official Journal on 26 May 2026, which is 15 June 2026.",
+   "nl": [
+    "Biociden: gegevensbescherming voor stoffen uit het toetsingsprogramma verlengd van 2025 tot 31 december 2030",
+    "Verordening (EU) 2026/1165 verlengt de gegevensbescherming onder de Biocideverordening tot 31 december 2030 voor combinaties van werkzame stof en productsoort waarvoor op 7 juni 2018 nog geen goedkeuringsbesluit was genomen. Gegevenseigenaars kunnen een vergoeding vorderen van leveranciers die tijdens de beschermingsonderbreking van 1 januari tot 15 juni 2026 van de gegevens hebben geprofiteerd.",
+    "De verordening betreft eigenaars van gegevens die in het toetsingsprogramma voor bestaande biocide-werkzame stoffen zijn ingediend, en de stof- en productleveranciers op de lijst van artikel 95 van Verordening (EU) nr. 528/2012. Ze geldt voor combinaties van werkzame stof en productsoort waarvoor op 7 juni 2018 nog geen goedkeuringsbesluit was genomen. Voor die combinaties eindigen alle gegevensbeschermingsperioden voortaan op 31 december 2030 in plaats van op 31 december 2025 (artikel 95, lid 5). De verlenging geldt voor alle gegevens in de aanvraag, dus niet alleen voor gegevens die na 2018 zijn gegenereerd. Artikel 60, lid 1 wordt gewijzigd, zodat de regel dat verstreken bescherming niet opnieuw ingaat de verlenging niet in de weg staat. Aangezien de gegevens van 1 januari tot 15 juni 2026 onbeschermd waren, kunnen gegevenseigenaars voor de toegang tot hun gegevens in die periode een vergoeding vorderen van een stof- of productleverancier die daarvan heeft geprofiteerd en toen op de lijst van artikel 95 stond. De verordening treedt in werking op de twintigste dag na de bekendmaking in het Publicatieblad op 26 mei 2026, namelijk op 15 juni 2026."
+   ],
+   "fr": [
+    "Biocides : protection des données prolongée de 2025 au 31 décembre 2030 pour les substances du programme d'examen",
+    "Le règlement (UE) 2026/1165 prolonge jusqu'au 31 décembre 2030 la protection des données prévue par le règlement sur les produits biocides pour les combinaisons substance active/type de produit pour lesquelles aucune décision d'approbation n'avait été adoptée au 7 juin 2018. Les propriétaires de données peuvent réclamer une compensation aux fournisseurs qui ont profité des données pendant l'interruption de la protection, du 1er janvier au 15 juin 2026.",
+    "Le règlement concerne les propriétaires de données soumises dans le cadre du programme d'examen des substances actives biocides existantes, ainsi que les fournisseurs de substances et de produits figurant sur la liste de l'article 95 du règlement (UE) n° 528/2012. Il vise les combinaisons substance active/type de produit pour lesquelles aucune décision d'approbation n'avait été adoptée au 7 juin 2018. Pour celles-ci, toutes les périodes de protection des données prennent désormais fin le 31 décembre 2030 au lieu du 31 décembre 2025 (article 95, paragraphe 5). La prolongation couvre toutes les données du dossier, et pas seulement celles générées après 2018. L'article 60, paragraphe 1, est modifié pour que la règle selon laquelle une protection expirée ne reprend pas ne fasse plus obstacle à cette prolongation. Les données n'ayant pas été protégées du 1er janvier au 15 juin 2026, les propriétaires de données peuvent réclamer une compensation pour l'accès à leurs données durant cette période auprès d'un fournisseur de substance ou de produit qui en a bénéficié et figurait alors sur la liste de l'article 95. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel le 26 mai 2026, soit le 15 juin 2026."
+   ],
+   "scope": "Regulation (EU) 2026/1165 — amendments to Articles 60(1) and 95(5) of Regulation (EU) No 528/2012 (biocidal products)",
+   "dates": {
+    "adopted": "2026-05-20",
+    "published": "2026-05-26",
+    "in_force": "2026-06-15"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/1165 of the European Parliament and of the Council of 20 May 2026 amending Regulation (EU) No 528/2012 as regards the e",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1165"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1165"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-136219",
+   "d": "2026-05-18",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Wallonia designates 2026 bathing zones: 24 open, 5 closed for the season, 2 permanently banned",
+   "a": "A ministerial order sets the 2026 bathing season in Wallonia at 15 May to 30 September and lists the zones where bathing is allowed or banned. Four sites are closed for danger, one for lack of a manager, and two are permanently banned for poor water quality.",
+   "b": "The order concerns the official bathing zones in the Walloon Region, their managers, the municipalities and bathers. The 2026 season runs from 15 May to 30 September. Where the mayor requires lifeguards, the zone is open only from 15 June to 15 September, and water-quality checks follow that shorter season (the zones concerned are listed in Annex 5). Bathing is allowed in 24 zones (Annex 1); at Péronnes and La Marlette (Seneffe), access is reserved for members of the Adeps centre. Bathing is banned for the whole season at Ry Jaune and Falemprise (Cerfontaine), Nimy and Rabais (Virton) because the sites are dangerous and being rehabilitated, and at Claire-Fontaine (Chapelle-lez-Herlaimont) because it has no manager. Hulsonniaux (Lesse) and Noiseux (Ourthe) are permanently banned after at least five years of insufficient water quality, and this ban must be publicised under Article R.115 of the Water Code. Annex 5 sets the monthly, bimonthly or weekly frequency of bacteriological monitoring for each zone. The order was adopted on 18 May 2026, published in the Moniteur belge on 11 June 2026, and applies from 15 May to 30 September 2026.",
+   "nl": [
+    "Wallonië wijst zwemzones aan voor 2026: 24 open, 5 gesloten voor het seizoen, 2 permanent verboden",
+    "Een ministerieel besluit legt het badseizoen 2026 in Wallonië vast van 15 mei tot 30 september en somt de zones op waar zwemmen is toegelaten of verboden. Vier locaties zijn gesloten wegens gevaar, één wegens het ontbreken van een beheerder en twee zijn permanent verboden wegens onvoldoende waterkwaliteit.",
+    "Het besluit betreft de officiële zwemzones in het Waals Gewest, hun beheerders, de gemeenten en de zwemmers. Het badseizoen 2026 loopt van 15 mei tot 30 september. Wanneer de burgemeester de aanwezigheid van redders eist, is de zone enkel open van 15 juni tot 15 september en volgen de waterkwaliteitscontroles dat kortere seizoen (de betrokken zones staan in bijlage 5). Zwemmen is toegelaten in 24 zones (bijlage 1); in Péronnes en La Marlette (Seneffe) is de toegang voorbehouden aan leden van het Adeps-centrum. Zwemmen is het hele seizoen verboden in Ry Jaune en Falemprise (Cerfontaine), Nimy en Rabais (Virton) omdat de sites gevaarlijk zijn en worden heraangelegd, en in Claire-Fontaine (Chapelle-lez-Herlaimont) omdat er geen beheerder is. Hulsonniaux (Lesse) en Noiseux (Ourthe) zijn permanent verboden na minstens vijf jaar onvoldoende waterkwaliteit; dit verbod moet worden bekendgemaakt overeenkomstig artikel R.115 van het Waterwetboek. Bijlage 5 bepaalt per zone of de bacteriologische opvolging maandelijks, tweemaandelijks of wekelijks gebeurt. Het besluit is genomen op 18 mei 2026, bekendgemaakt in het Belgisch Staatsblad op 11 juni 2026 en geldt van 15 mei tot 30 september 2026."
+   ],
+   "fr": [
+    "La Wallonie désigne les zones de baignade 2026 : 24 ouvertes, 5 fermées pour la saison, 2 interdites en permanence",
+    "Un arrêté ministériel fixe la saison balnéaire 2026 en Wallonie du 15 mai au 30 septembre et liste les zones où la baignade est autorisée ou interdite. Quatre sites sont fermés pour dangerosité, un pour absence de gestionnaire, et deux sont interdits en permanence en raison d'une qualité d'eau insuffisante.",
+    "L'arrêté concerne les zones de baignade officielles de la Région wallonne, leurs gestionnaires, les communes et les baigneurs. La saison balnéaire 2026 s'étend du 15 mai au 30 septembre. Lorsque le Bourgmestre exige la présence de maîtres-nageurs sauveteurs, la zone n'est accessible que du 15 juin au 15 septembre et les contrôles de la qualité de l'eau suivent cette saison écourtée (zones concernées à l'annexe 5). La baignade est autorisée dans 24 zones (annexe 1) ; au Grand Large de Péronnes et à La Marlette (Seneffe), l'accès est réservé aux adhérents du centre Adeps. La baignade est interdite pour toute la saison au Ry Jaune et à Falemprise (Cerfontaine), à Nimy et à Rabais (Virton) en raison de la dangerosité des sites, en cours de réhabilitation, ainsi qu'à Claire-Fontaine (Chapelle-lez-Herlaimont) faute de gestionnaire. Hulsonniaux (Lesse) et Noiseux (Ourthe) sont interdits de façon permanente après au moins cinq années de qualité insuffisante ; cette interdiction doit faire l'objet des mesures d'information du public prévues à l'article R.115 du Code de l'Eau. L'annexe 5 fixe pour chaque zone la fréquence mensuelle, bimensuelle ou hebdomadaire du suivi bactériologique. L'arrêté a été pris le 18 mai 2026, publié au Moniteur belge le 11 juin 2026 et s'applique du 15 mai au 30 septembre 2026."
+   ],
+   "scope": "Arrêté ministériel du 18 mai 2026 portant désignation des zones de baignade pour la saison balnéaire 2026 (Code de l'Eau, art. R.107, R.110 § 4, R.115) : art. 1 à 7 et annexes 1 à 5",
+   "dates": {
+    "adopted": "2026-05-18",
+    "published": "2026-06-11",
+    "in_force": "2026-05-15"
+   },
+   "u": [
+    [
+     "Arrêté ministériel portant désignation des zones de baignade pour la saison balnéaire 2026",
+     "https://wallex.wallonie.be/eli/arrete/2026/05/18/2026004235/2026/05/15"
+    ]
+   ],
+   "inbox": [
+    "wallex:136219"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042029",
+   "d": "2026-05-18",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "OVAM appoints 19 staff as environmental hygiene supervisors and remediation authorities in Flanders",
+   "a": "The OVAM Administrator-General appoints 19 OVAM staff members as supervisors for environmental hygiene legislation and as remediation authorities under the Omgevingshandhavingsbesluit of 23 May 2025. The decision of 12 June 2025 appointing regional supervisors is repealed.",
+   "b": "The decision concerns the enforcement of Flemish environmental hygiene legislation under the Decree of 5 April 1995 (DABM) and affects operators subject to OVAM supervision. Nineteen named OVAM staff members are appointed as supervisors under Article 6 §2 of the Omgevingshandhavingsbesluit of 23 May 2025, with powers limited to the environmental hygiene package of Article 6 §3, 1°, c). They are also appointed as remediation authorities under Article 11 §1, first and second paragraphs, for the regulation listed in Article 16.1.1 §1 DABM, covering securing and remediation for all interests protected by environmental rules in Title XVI. These persons are supervisors by operation of law under Article 107 of the Framework Decree on Flemish Enforcement of 14 July 2023, so they are exempt from training requirements. Each appointment ends on the day the person leaves OVAM or is assigned to a service not responsible for enforcement. The OVAM decision of 12 June 2025 appointing regional supervisors under the Decision of 12 December 2008 implementing Title XVI DABM is repealed. The decision was adopted on 18 May 2026, published on 26 May 2026 and takes effect on 5 June 2026.",
+   "nl": [
+    "OVAM stelt 19 personeelsleden aan als toezichthouder milieuhygiëne en herstelinstantie",
+    "De administrateur-generaal van OVAM stelt 19 personeelsleden aan als toezichthouder voor de milieuhygiëneregelgeving en als herstelinstantie overeenkomstig het Omgevingshandhavingsbesluit van 23 mei 2025. Het besluit van 12 juni 2025 tot aanstelling van gewestelijke toezichthouders wordt opgeheven.",
+    "Het besluit betreft de handhaving van de Vlaamse milieuhygiëneregelgeving op grond van het decreet van 5 april 1995 (DABM) en treft exploitanten die onder het toezicht van OVAM vallen. Negentien met naam genoemde OVAM-personeelsleden worden aangesteld als toezichthouder overeenkomstig artikel 6, §2 van het Omgevingshandhavingsbesluit van 23 mei 2025, met bevoegdheid beperkt tot het bevoegdheidspakket milieuhygiëneregelgeving van artikel 6, §3, 1°, c). Zij worden ook aangesteld als herstelinstantie overeenkomstig artikel 11, §1, eerste en tweede lid, voor de regelgeving vermeld in artikel 16.1.1, §1 DABM, wat de beveiliging en het herstel omvat voor alle door milieuvoorschriften beschermde belangen in titel XVI. Zij zijn van rechtswege toezichthouder krachtens artikel 107 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en zijn daarom vrijgesteld van opleidingsvereisten. Elke aanstelling eindigt op de dag dat de functiehouder OVAM verlaat of wordt ingedeeld bij een dienst die niet bevoegd is voor handhaving. Het besluit van de administrateur-generaal van 12 juni 2025 tot aanstelling van gewestelijke toezichthouders overeenkomstig het besluit van 12 december 2008 tot uitvoering van titel XVI DABM wordt opgeheven. Het besluit werd genomen op 18 mei 2026, bekendgemaakt op 26 mei 2026 en heeft effect vanaf 5 juni 2026."
+   ],
+   "fr": [
+    "L'OVAM désigne 19 agents comme contrôleurs en hygiène de l'environnement et instances de remise en état",
+    "L'administrateur général de l'OVAM désigne 19 membres du personnel comme contrôleurs pour la réglementation en matière d'hygiène de l'environnement et comme instances de remise en état, conformément à l'Omgevingshandhavingsbesluit du 23 mai 2025. La décision du 12 juin 2025 désignant des contrôleurs régionaux est abrogée.",
+    "La décision concerne le contrôle du respect de la réglementation flamande en matière d'hygiène de l'environnement fondée sur le décret du 5 avril 1995 (DABM) et touche les exploitants soumis à la surveillance de l'OVAM. Dix-neuf membres du personnel de l'OVAM, désignés nominativement, sont nommés contrôleurs en vertu de l'article 6, §2 de l'Omgevingshandhavingsbesluit du 23 mai 2025, avec une compétence limitée au volet hygiène de l'environnement de l'article 6, §3, 1°, c). Ils sont aussi désignés instances de remise en état en vertu de l'article 11, §1er, alinéas 1er et 2, pour la réglementation visée à l'article 16.1.1, §1er du DABM, ce qui couvre la sécurisation et la remise en état pour tous les intérêts protégés par les prescriptions environnementales du titre XVI. Ils sont contrôleurs de plein droit en vertu de l'article 107 du Kaderdecreet Vlaamse Handhaving du 14 juillet 2023 et sont donc dispensés des exigences de formation. Chaque désignation prend fin le jour où la personne quitte l'OVAM ou est affectée à un service non compétent en matière de contrôle. La décision de l'administrateur général du 12 juin 2025 désignant des contrôleurs régionaux, prise en application de l'arrêté du 12 décembre 2008 portant exécution du titre XVI du DABM, est abrogée. La décision a été adoptée le 18 mai 2026, publiée le 26 mai 2026 et produit ses effets le 5 juin 2026."
+   ],
+   "scope": "Besluit van de administrateur-generaal van OVAM (18 mei 2026): artikelen 1-3, aanstelling toezichthouders en herstelinstanties (Omgevingshandhavingsbesluit 23 mei 2025, art. 6 en 11)",
+   "dates": {
+    "adopted": "2026-05-18",
+    "published": "2026-05-26",
+    "in_force": "2026-06-05"
+   },
+   "u": [
+    [
+     "Besluit van de administrateur-generaal tot aanstelling van de toezichthouders en herstelinstanties overeenkomstig het Omgevingshandhavingsbe",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042029&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042029"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-135372",
+   "d": "2026-05-13",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Wallonia phases in mandatory electronic filing of urban planning permit applications from 31 May 2026",
+   "a": "A Walloon Government decree amends the regulatory part of the CoDT to roll out electronic filing of urban planning permit and certificate applications and appeals in pilot communes, then region-wide by 1 September 2028. It also sets rules on electronic forms, signatures, opinions and public inquiry files.",
+   "b": "The decree concerns applicants for urban planning permits, subdivision permits and urban planning certificates nos. 1 and 2, the authorities that handle them, and the bodies consulted. From 31 May 2026, applications and appeals falling under the competence of the fonctionnaire délégué or the Government must be filed electronically if the project lies entirely in one of the 20 group A pilot communes listed in new annex 29 (including Namur, Mons, Tournai and Mouscron). From 1 February 2027 this extends to group B communes for those applications, and to applications and appeals under the competence of the municipal executive (collège communal) in group A communes. Group B communes follow for municipal applications from 1 October 2027. From 1 January 2028, subdivision permits and certificates no. 2 are covered in group A and B communes. From 1 September 2028, all such applications and appeals, including certificates no. 1, must be filed electronically. The Minister may add communes to a group B and stagger their entry in waves, but annex 29 lists only group A. Applications exempt from the architect requirement may still use the paper form in annex 6 in the first three phases and in the final phase; the receiving authority then digitises them. Electronic filing goes through the administration's application, where validation after secure identification counts as signature and the Minister may set mandatory file nomenclature and formats. Decisions notified electronically carry an electronic signature, consulted bodies send opinions through the administration's tools, and the public inquiry file must be available in digital form. The authorities processing applications are designated as data controllers for electronically filed applications. The decree entered into force on 25 May 2026.",
+   "nl": [
+    "Wallonië voert stapsgewijs verplichte elektronische indiening van stedenbouwkundige vergunningsaanvragen in vanaf 31 mei 2026",
+    "Een besluit van de Waalse Regering wijzigt het reglementaire deel van het CoDT om de elektronische indiening van aanvragen en beroepen voor stedenbouwkundige vergunningen en attesten in te voeren, eerst in proefgemeenten en uiterlijk op 1 september 2028 in het hele gewest. Het regelt ook elektronische formulieren, handtekeningen, adviezen en het dossier van het openbaar onderzoek.",
+    "Het besluit betreft aanvragers van stedenbouwkundige vergunningen, verkavelingsvergunningen en stedenbouwkundige attesten nr. 1 en nr. 2, de overheden die deze behandelen en de geraadpleegde instanties. Vanaf 31 mei 2026 moeten aanvragen en beroepen die onder de bevoegdheid van de gemachtigd ambtenaar of de Regering vallen elektronisch worden ingediend als het project volledig in een van de 20 proefgemeenten van groep A ligt, opgelijst in de nieuwe bijlage 29 (onder meer Namen, Bergen, Doornik en Moeskroen). Vanaf 1 februari 2027 geldt dit ook voor de gemeenten van groep B voor die aanvragen, en voor aanvragen en beroepen onder de bevoegdheid van het gemeentecollege (collège communal) in de gemeenten van groep A. De gemeenten van groep B volgen voor de gemeentelijke aanvragen vanaf 1 oktober 2027. Vanaf 1 januari 2028 vallen ook verkavelingsvergunningen en attesten nr. 2 eronder in de gemeenten van groep A en B. Vanaf 1 september 2028 moeten alle aanvragen en beroepen, ook voor attesten nr. 1, elektronisch worden ingediend. De Minister kan gemeenten aan een groep B toevoegen en hun toetreding in golven spreiden, maar bijlage 29 bevat enkel groep A. Aanvragen die vrijgesteld zijn van de verplichte medewerking van een architect mogen in de eerste drie fasen en in de laatste fase nog op papier worden ingediend met het formulier van bijlage 6; de ontvangende overheid digitaliseert ze dan. De elektronische indiening verloopt via de toepassing van de administratie, waarbij validatie na beveiligde identificatie als handtekening geldt en de Minister een verplichte nomenclatuur en toegelaten formaten kan bepalen. Elektronisch betekende beslissingen dragen een elektronische handtekening, geraadpleegde instanties bezorgen hun advies via de tools van de administratie en het dossier van het openbaar onderzoek moet digitaal raadpleegbaar zijn. De overheden die de aanvragen behandelen zijn verwerkingsverantwoordelijke voor elektronisch ingediende aanvragen. Het besluit is in werking getreden op 25 mei 2026."
+   ],
+   "fr": [
+    "La Wallonie instaure par phases le dépôt électronique obligatoire des demandes de permis d'urbanisme dès le 31 mai 2026",
+    "Un arrêté du Gouvernement wallon modifie la partie réglementaire du CoDT pour déployer le dépôt électronique des demandes et recours en matière de permis et de certificats d'urbanisme, d'abord dans des communes pilotes, puis dans toute la Région au plus tard le 1er septembre 2028. Il règle aussi le formulaire électronique, les signatures, les avis et le dossier d'enquête publique.",
+    "L'arrêté concerne les demandeurs de permis d'urbanisme, de permis d'urbanisation et de certificats d'urbanisme nos 1 et 2, les autorités qui les traitent et les instances consultées. À partir du 31 mai 2026, les demandes et recours relevant du fonctionnaire délégué ou du Gouvernement doivent être introduits par voie électronique si le projet est entièrement situé dans l'une des 20 communes pilotes du groupe A reprises à la nouvelle annexe 29 (dont Namur, Mons, Tournai et Mouscron). À partir du 1er février 2027, cela s'étend aux communes du groupe B pour ces demandes, ainsi qu'aux demandes et recours relevant du collège communal dans les communes du groupe A. Les communes du groupe B suivent pour les demandes communales à partir du 1er octobre 2027. À partir du 1er janvier 2028, les permis d'urbanisation et les certificats d'urbanisme n° 2 sont couverts dans les communes des groupes A et B. À partir du 1er septembre 2028, toutes les demandes et tous les recours, y compris les certificats n° 1, sont introduits par voie électronique. Le Ministre peut ajouter des communes dans un groupe B et échelonner leur entrée par vagues, mais l'annexe 29 ne liste que le groupe A. Les demandes dispensées du concours d'un architecte peuvent encore être déposées sur le formulaire papier de l'annexe 6 durant les trois premières phases et la phase finale; l'autorité qui les reçoit les numérise alors. Le dépôt électronique passe par l'application de l'administration, où la validation après identification sécurisée vaut signature, et le Ministre peut fixer une nomenclature obligatoire et les formats autorisés. Les décisions notifiées par voie électronique portent une signature électronique, les instances consultées transmettent leur avis par les outils de l'administration et le dossier soumis à enquête publique doit être consultable sous forme numérique. Les administrations qui traitent les demandes sont responsables du traitement des données des demandes introduites par voie électronique. L'arrêté est entré en vigueur le 25 mai 2026."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 13 mai 2026 modifiant le CoDT, Partie réglementaire : art. R.I.13-1, R.IV.26-1 à R.IV.30-3, nouveaux art. R.IV.32-2, R.IV.37-1, R.IV.113/1-1 et R.VIII.17, annexe 29",
+   "dates": {
+    "adopted": "2026-05-13",
+    "published": "2026-05-27",
+    "in_force": "2026-05-25"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon modifiant le Code wallon du développement territorial, Partie réglementaire, en ce qui concerne la mise en oeu",
+     "https://wallex.wallonie.be/eli/arrete/2026/05/13/2026003800/2026/05/25"
+    ]
+   ],
+   "inbox": [
+    "wallex:135372"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0783",
+   "d": "2026-05-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit renewing a concrete plant in Sint-Truiden: weak zoning, nuisance and buffer reasoning",
+   "a": "The Council for Permit Disputes annulled the Flemish Government's decision of 25 April 2025 renewing the environmental permit for a concrete and mortar plant in Sint-Truiden. It found defects in the reasoning on spatial planning, the vague green or wind-reduction screen condition, and the unchecked 'mainly permitted' status. The Government must decide again within three months.",
+   "b": "The ruling concerns the renewal, under Article 5.6.7 VCRO (zoning-incompatible basic rights), of the operating permit for a classified concrete and mortar plant located in an area with a 'subsequent agricultural' designation under a municipal RUP; the building works were refused. A neighbouring fruit grower challenged the decision. The Council found that the reasons given for good spatial planning were factually unsound: nothing showed that the plot's location made the agricultural designation impossible, and the plant's scale and capacity could not be justified merely by comparison with a larger zone-compliant neighbouring business. The visual assessment also disregarded the green screening required by the RUP. The permit condition requiring a 'green screen or wind-reduction screen' at the rear was too imprecise, since it left height, width, materials and planting open. The Government also wrongly assumed that green buffers already existed on the east and west sides, which the file contradicted. Finally, the finding that the plant is 'mainly permitted' was not backed by any examination of the permit status of the structures needed for normal operation, and the RUP explanatory note relied on stated that the silos and other installations were not permitted. The Council annulled the decision of 25 April 2025 and ordered a new decision on the administrative appeal within three months of notification of the ruling. It left the other pleas unexamined and ordered the Government to pay the costs (EUR 200 court fee and EUR 840 procedural indemnity).",
+   "nl": [
+    "RvVb vernietigt vergunning voor betoncentrale in Sint-Truiden: gebrekkige motivering ruimtelijke ordening, hinder en buffers",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van de Vlaamse Regering van 25 april 2025 die de omgevingsvergunning voor een beton- en mortelcentrale in Sint-Truiden hernieuwt. Er zijn gebreken in de motivering over de ruimtelijke ordening, de onduidelijke voorwaarde voor een groen- of windreductiescherm en het niet onderzochte hoofdzakelijk vergunde karakter. De Vlaamse Regering moet binnen drie maanden opnieuw beslissen.",
+    "Het arrest betreft de hernieuwing, op grond van artikel 5.6.7 VCRO (zonevreemde basisrechten), van de exploitatievergunning voor een ingedeelde beton- en mortelcentrale in een gebied met de aanduiding 'nabestemming agrarisch gebied' in een gemeentelijk RUP; de stedenbouwkundige handelingen werden geweigerd. Een naburig fruitteeltbedrijf bestreed de beslissing. De Raad oordeelt dat de motivering inzake de goede ruimtelijke ordening feitelijk niet deugt: er was niets dat aantoonde dat de ligging van het perceel de agrarische bestemming onmogelijk maakt, en schaal en ruimtegebruik konden niet worden verantwoord door louter te verwijzen naar een groter zone-eigen bedrijf. Bij de visuele beoordeling werd bovendien de groene inkleding genegeerd die het RUP oplegt. De vergunningsvoorwaarde van een 'groenscherm of windreductiescherm' aan de achterzijde was te onduidelijk, want hoogte, breedte, materialen en beplanting bleven open. De Vlaamse Regering ging er ook ten onrechte van uit dat aan de oost- en westzijde al groenbuffers aanwezig waren, wat het dossier tegenspreekt. Ten slotte steunde de vaststelling dat de centrale 'hoofdzakelijk vergund' is op geen enkel onderzoek naar het vergunningsstatuut van de voor de normale bedrijfsvoering noodzakelijke constructies, terwijl de toelichtende nota bij het RUP net vermeldt dat de silo's en andere installaties niet vergund zijn. De Raad vernietigt de beslissing van 25 april 2025 en beveelt een nieuwe beslissing over het administratief beroep binnen drie maanden na de betekening van het arrest. De overige middelen werden niet onderzocht en de kosten (200 euro rolrecht en 840 euro rechtsplegingsvergoeding) komen ten laste van de Vlaamse Regering."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'une centrale à béton à Saint-Trond : motivation défaillante (aménagement, nuisances, écrans)",
+    "Le Conseil du contentieux des autorisations annule la décision du Gouvernement flamand du 25 avril 2025 renouvelant le permis d'environnement d'une centrale à béton et mortier à Saint-Trond. Il relève des défauts dans la motivation sur le bon aménagement du territoire, dans la condition imprécise d'un écran vert ou anti-vent et dans l'absence de vérification du caractère principalement autorisé. Le Gouvernement doit statuer à nouveau dans un délai de trois mois.",
+    "L'arrêt concerne le renouvellement, sur la base de l'article 5.6.7 du VCRO (droits de base des constructions en zone non conforme), du permis d'exploiter d'une centrale à béton et mortier classée, située dans une zone à « destination ultérieure agricole » d'un PRU communal ; les actes urbanistiques demandés ont été refusés. Un fruiticulteur voisin a contesté la décision. Le Conseil juge que la motivation relative au bon aménagement du territoire repose sur des motifs de fait inexacts : rien ne démontrait que la situation de la parcelle rend impossible la destination agricole, et l'échelle ainsi que l'occupation de l'espace ne pouvaient se justifier par la seule comparaison avec une entreprise voisine plus grande et conforme à la zone. L'appréciation visuelle a en outre fait abstraction de l'aménagement vert imposé par le PRU. La condition de permis imposant un « écran vert ou écran anti-vent » à l'arrière était trop imprécise, car la hauteur, la largeur, les matériaux et les plantations restaient libres. Le Gouvernement a aussi admis à tort que des tampons verts existaient déjà à l'est et à l'ouest, ce que le dossier contredit. Enfin, la constatation que la centrale est « principalement autorisée » ne reposait sur aucun examen du statut d'autorisation des constructions nécessaires à l'exploitation normale, alors que la note explicative du PRU invoquée indique précisément que les silos et autres installations ne sont pas autorisés. Le Conseil annule la décision du 25 avril 2025 et ordonne une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt. Les autres moyens n'ont pas été examinés et les dépens (200 euros de droit de rôle et 840 euros d'indemnité de procédure) sont à charge du Gouvernement flamand."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0783 van 13 mei 2026: artikel 5.6.7 VCRO, artikelen 72 en 74 Omgevingsvergunningsdecreet, hernieuwing exploitatievergunning betoncentrale Sint-Truiden",
+   "dates": {
+    "adopted": "2026-05-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0783.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0783.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0783"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0782",
+   "d": "2026-05-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: appeal against refused permit for 100 social homes inadmissible, appellant not the applicant on file",
+   "a": "The Council for Permit Disputes rejected an annulment appeal against the refusal of an environmental permit for a 100-unit social housing project in Kortenberg. The appellant company was not shown in the file as the permit applicant.",
+   "b": "The ruling concerns anyone bringing an appeal to the Council for Permit Disputes in permit cases, here a refused permit for 100 social dwellings in Kortenberg with deforestation, roads, drainage works, temporary dewatering and heat pumps. Under article 105, §2 of the Omgevingsvergunningsdecreet, only the permit applicant, permit holder, operator or person who made the notification may appeal. The Council found that the Omgevingsloket, the municipal decision and the contested decision all named a natural person as applicant (and operator and contact person), with no indication that this person acted for a legal entity. The company that lodged the appeal therefore could not show that it was the applicant, and the appeal was declared inadmissible without any ruling on the merits. The refusal of 5 December 2024, issued after the authority upheld the neighbours' administrative appeal, thus stands. The intervention of the neighbours was admissible, the claimant bears the 200 euro registry fee, and the interveners bear their own 200 euro costs. The ruling was delivered on 13 May 2026 by the fourth chamber.",
+   "nl": [
+    "RvVb: beroep tegen geweigerde vergunning voor 100 sociale woningen onontvankelijk, verzoeker niet de aanvrager in het dossier",
+    "De Raad voor Vergunningsbetwistingen verwerpt een vernietigingsberoep tegen de weigering van een omgevingsvergunning voor een sociaal woonproject van 100 woningen in Kortenberg. De verzoekende vennootschap bleek in het dossier niet de vergunningsaanvrager te zijn.",
+    "Het arrest is van belang voor wie bij de Raad voor Vergunningsbetwistingen beroep instelt in vergunningszaken, hier tegen een geweigerde vergunning voor 100 sociale woningen in Kortenberg met ontbossing, wegenis, afwateringswerken, tijdelijke bemaling en luchtwarmtepompen. Volgens artikel 105, §2 van het Omgevingsvergunningsdecreet kunnen enkel de vergunningsaanvrager, de vergunninghouder, de exploitant of de persoon die de melding heeft verricht beroep instellen. De Raad stelt vast dat het Omgevingsloket, de beslissing van de gemeente en de bestreden beslissing alle een natuurlijke persoon vermelden als aanvrager (en als exploitant en contactpersoon), zonder aanwijzing dat die voor een rechtspersoon optrad. De vennootschap die het beroep instelde, kon dus niet aantonen dat zij de aanvrager was, en het beroep wordt onontvankelijk verklaard zonder uitspraak over de grond van de zaak. De weigering van 5 december 2024, genomen nadat de overheid het administratief beroep van de buren had ingewilligd, blijft dus overeind. De tussenkomst van de buren is ontvankelijk, de verzoekende partij draagt het rolrecht van 200 euro en de tussenkomende partijen dragen hun eigen kosten van 200 euro. Het arrest werd uitgesproken op 13 mei 2026 door de vierde kamer."
+   ],
+   "fr": [
+    "CCA : recours contre le refus de permis pour 100 logements sociaux irrecevable, la requérante n'étant pas la demanderesse au dossier",
+    "Le Conseil pour les contestations des permis (RvVb) rejette un recours en annulation contre le refus d'un permis d'environnement pour un projet de 100 logements sociaux à Kortenberg. La société requérante n'apparaissait pas dans le dossier comme demanderesse du permis.",
+    "L'arrêt concerne toute personne qui introduit un recours devant le Conseil pour les contestations des permis (Raad voor Vergunningsbetwistingen) en matière de permis, ici contre le refus d'un permis pour 100 logements sociaux à Kortenberg, avec déboisement, voirie, travaux d'évacuation des eaux, pompage temporaire et pompes à chaleur air. Selon l'article 105, §2 du Omgevingsvergunningsdecreet (décret sur le permis d'environnement), seuls le demandeur du permis, le titulaire du permis, l'exploitant ou l'auteur de la déclaration peuvent introduire un recours. Le Conseil constate que le guichet de l'environnement (Omgevingsloket), la décision communale et la décision attaquée désignent tous une personne physique comme demandeur (et comme exploitant et personne de contact), sans indication qu'elle agissait pour une personne morale. La société qui a introduit le recours n'a donc pas pu établir qu'elle était la demanderesse, et le recours est déclaré irrecevable sans examen du fond. Le refus du 5 décembre 2024, pris après que l'autorité a fait droit au recours administratif des voisins, est donc maintenu. L'intervention des voisins est recevable, la partie requérante supporte le droit de rôle de 200 euros et les parties intervenantes supportent leurs propres frais de 200 euros. L'arrêt a été prononcé le 13 mai 2026 par la quatrième chambre."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0782 – artikel 105, §2 Omgevingsvergunningsdecreet (wie beroep kan instellen)",
+   "dates": {
+    "adopted": "2026-05-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0782.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0782.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0782"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-gwh-57-2026",
+   "d": "2026-05-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Constitutional Court rejects challenges to Phoenix Act nuclear waste cap and change-in-law protection",
+   "a": "The Constitutional Court dismissed the annulment actions brought by Belgian universities against provisions of the Phoenix Act of 26 April 2024. The provisions concern the cap on the nuclear operator's radioactive waste liability and its protection against changes in law.",
+   "b": "The actions were brought by Belgian universities as radioactive waste producers. They targeted articles 4, 6°, 7° and 25°, 8, 10, 39, 40 and 41 of the Act of 26 April 2024, which apply to the operator of Doel 4 and Tihange 3. The Court holds that the lump-sum payments under article 10, after which financial responsibility for the waste passes to Hedera, do not raise the contributions of other waste producers to NIRAS funding. It finds that the operator still bears the estimated management costs and the cost of bringing waste packages into line with the contractual transfer criteria. It also finds that the lump sums respect the polluter-pays principle and Directive 2011/70/Euratom, since a volume adjustment payment is due if the volume credits prove insufficient. Hedera bears any extra cost of meeting NIRAS's acceptance criteria, and the waste must in any case meet those criteria. The agreement protecting against changes in law (articles 39-41) benefits only the operator, who is not in a comparable position to the universities, and the waste classification in article 4, 6° applies only within the cap mechanism. The Court therefore rejects the actions, taking into account its interpretation in B.23.7; the judgment of 13 May 2026 does not set any further dates.",
+   "nl": [
+    "GwH verwerpt beroepen tegen Phoenix-wet: kernafval-cap en bescherming tegen wetswijzigingen",
+    "Het Grondwettelijk Hof verwerpt de beroepen tot vernietiging die Belgische universiteiten instelden tegen bepalingen van de Phoenix-wet van 26 april 2024. Die bepalingen betreffen de « cap » op de verantwoordelijkheid van de kernexploitant voor radioactief afval en zijn bescherming tegen wetswijzigingen.",
+    "De beroepen werden ingesteld door Belgische universiteiten als producenten van radioactief afval. Zij waren gericht tegen de artikelen 4, 6°, 7° en 25°, 8, 10, 39, 40 en 41 van de wet van 26 april 2024, die van toepassing zijn op de exploitant van Doel 4 en Tihange 3. Het Hof oordeelt dat de forfaitaire bedragen van artikel 10, na betaling waarvan de financiële verantwoordelijkheid voor het afval overgaat op Hedera, de bijdragen van de andere afvalproducenten aan de financiering van NIRAS niet verhogen. Het stelt vast dat de kernexploitant de geraamde beheerskosten en de kosten om de afvalpakketten in overeenstemming te brengen met de contractuele overdrachtscriteria blijft dragen. De forfaitaire bedragen respecteren volgens het Hof ook het beginsel dat de vervuiler betaalt en richtlijn 2011/70/Euratom, aangezien een volumeaanpassingsvergoeding verschuldigd is als de volumekredieten ontoereikend blijken. Hedera draagt de eventuele extra kosten om aan de acceptatiecriteria van NIRAS te voldoen, en het afval moet in elk geval met die criteria overeenstemmen. De overeenkomst ter bescherming tegen wetswijzigingen (artikelen 39-41) komt enkel de kernexploitant ten goede, die zich niet in een vergelijkbare situatie als de universiteiten bevindt, en de indeling van het afval in artikel 4, 6° geldt enkel binnen het « cap »-mechanisme. Het Hof verwerpt de beroepen dan ook, rekening houdend met zijn uitleg in B.23.7; het arrest van 13 mei 2026 vermeldt geen verdere data."
+   ],
+   "fr": [
+    "Cour constitutionnelle : recours rejetés contre la loi Phoenix (plafond déchets nucléaires, changements législatifs)",
+    "La Cour constitutionnelle rejette les recours en annulation introduits par des universités belges contre des dispositions de la loi Phoenix du 26 avril 2024. Ces dispositions concernent le plafonnement de la responsabilité de l'exploitant nucléaire pour les déchets radioactifs et sa protection contre les changements législatifs.",
+    "Les recours ont été introduits par des universités belges en tant que producteurs de déchets radioactifs. Ils visaient les articles 4, 6°, 7° et 25°, 8, 10, 39, 40 et 41 de la loi du 26 avril 2024, qui s'appliquent à l'exploitant de Doel 4 et Tihange 3. La Cour juge que les montants forfaitaires de l'article 10, dont le paiement entraîne le transfert de la responsabilité financière des déchets à Hedera, n'augmentent pas la participation des autres producteurs de déchets au financement de l'ONDRAF. Elle constate que l'exploitant nucléaire continue de supporter les coûts de gestion estimés ainsi que ceux de la mise en conformité des colis de déchets avec les critères de transfert contractuels. Selon la Cour, les montants forfaitaires respectent aussi le principe du pollueur-payeur et la directive 2011/70/Euratom, puisqu'une indemnité d'ajustement de volume est due si les crédits de volume s'avèrent insuffisants. Hedera supporte les éventuels coûts supplémentaires pour satisfaire aux critères d'acceptation de l'ONDRAF, et les déchets doivent en tout état de cause y répondre. Le contrat de protection contre les changements législatifs (articles 39 à 41) ne profite qu'à l'exploitant nucléaire, qui n'est pas dans une situation comparable à celle des universités, et la classification des déchets de l'article 4, 6° ne vaut que dans le mécanisme de plafonnement. La Cour rejette dès lors les recours, compte tenu de son interprétation au point B.23.7 ; l'arrêt du 13 mai 2026 ne mentionne pas d'autres dates."
+   ],
+   "scope": "Grondwettelijk Hof, arrest nr. 57/2026 van 13 mei 2026: artikelen 4, 6°, 7° en 25°, 8, 10, 39, 40 en 41 van de wet van 26 april 2024 (Phoenix-wet)",
+   "dates": {
+    "adopted": "2026-05-13"
+   },
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 57/2026: de beroepen tot vernietiging van de artikelen 4, 6°, 7° en 25°, 8, 10, 39, 40 en 41 van de wet van 2",
+     "https://nl.const-court.be/public/n/2026/2026-057n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:57/2026"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0777",
+   "d": "2026-05-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council for Permit Disputes suspends Antwerp restaurant permit: front-garden terrace breaches Building Code art. 23",
+   "a": "The Council for Permit Disputes suspended, under extreme urgency, an environmental permit for converting a corner building in Wilrijk into a restaurant with a front-garden terrace. On a first examination, a terrace covering the front garden is not an allowed paving under article 23 of the Antwerp Building Code.",
+   "b": "The ruling concerns an environmental permit granted on appeal on 27 April 2026 for rebuilding and extending a corner building in Wilrijk (Antwerp) and changing the ground floor from retail to restaurant, including a terrace in the front garden strip. The Council accepted extreme urgency: the terrace would lie about eight metres from the neighbouring home, the restaurant opens six days a week until 22:00, the furniture was already delivered, and the terrace can be built within days. On the serious-ground test, article 23, §4-5 of the Antwerp Building Code leaves no margin of appreciation and allows only listed constructions and pavings in front gardens, which do not include a terrace. The permit authority's reasoning that more than 25% of the front garden stays unpaved was held irrelevant to that rule. Because the permit is in principle indivisible and the applicant did not show that the terrace could be split off, the request for a partial suspension was not followed. The Council suspended the decision in full; the costs (€100 filing fee and €840 procedural indemnity) fall on the defendant authority. The ruling is dated 11 May 2026 and is a suspension only; the annulment proceedings remain to be decided.",
+   "nl": [
+    "RvVb schorst vergunning restaurant in Antwerpen: terras in voortuin strijdig met artikel 23 Antwerpse Bouwcode",
+    "De Raad voor Vergunningsbetwistingen schorst bij uiterst dringende noodzakelijkheid een omgevingsvergunning voor de omvorming van een hoekpand in Wilrijk tot restaurant met terras in de voortuin. Een terras dat de voortuin inneemt, is op het eerste gezicht geen toegelaten verharding volgens artikel 23 van de Antwerpse Bouwcode.",
+    "Het arrest betreft een omgevingsvergunning die in beroep werd verleend op 27 april 2026 voor het verbouwen en uitbreiden van een hoekpand in Wilrijk (Antwerpen) en het wijzigen van het gelijkvloers van detailhandel naar restaurant, met een terras in de voortuinstrook. De Raad aanvaardt de uiterst dringende noodzakelijkheid: het terras komt op ongeveer acht meter van de aanpalende woning, het restaurant is zes dagen op zeven open tot 22 uur, het terrasmeubilair is al geleverd en het terras kan binnen enkele dagen worden aangelegd. Wat het ernstig middel betreft, laat artikel 23, §4-5 van de Antwerpse Bouwcode geen beoordelingsmarge en staan in voortuinen enkel opgesomde constructies en verhardingen toe, waartoe een terras niet behoort. De motivering van de vergunningverlenende overheid dat meer dan 25% van de voortuin onverhard blijft, werd niet relevant bevonden voor dat voorschrift. Omdat een omgevingsvergunning in beginsel ondeelbaar is en de aanvrager niet aantoonde dat het terras kan worden afgesplitst, werd het verzoek tot gedeeltelijke schorsing niet gevolgd. De Raad schorst de beslissing volledig; de kosten (100 euro rolrecht en 840 euro rechtsplegingsvergoeding) komen ten laste van de verwerende partij. Het arrest dateert van 11 mei 2026 en betreft enkel de schorsing; de vernietigingsprocedure moet nog worden beslist."
+   ],
+   "fr": [
+    "Le CCE suspend le permis d'un restaurant à Anvers : terrasse en jardin avant contraire à l'art. 23 du Code de la construction anversois",
+    "Le Conseil du contentieux des permis (RvVb) suspend, en extrême urgence, un permis d'environnement pour la transformation d'un immeuble d'angle à Wilrijk en restaurant avec terrasse dans le jardin avant. Une terrasse occupant le jardin avant n'est, à première vue, pas un revêtement admis par l'article 23 du Code de la construction d'Anvers (Antwerpse Bouwcode).",
+    "L'arrêt concerne un permis d'environnement accordé en recours le 27 avril 2026 pour la transformation et l'extension d'un immeuble d'angle à Wilrijk (Anvers) et le changement d'affectation du rez-de-chaussée de commerce de détail en restaurant, avec une terrasse dans la zone de jardin avant. Le Conseil admet l'extrême urgence : la terrasse serait située à environ huit mètres de l'habitation voisine, le restaurant est ouvert six jours sur sept jusqu'à 22 h, le mobilier de terrasse est déjà livré et la terrasse peut être aménagée en quelques jours. Quant au moyen sérieux, l'article 23, §4-5 du Code de la construction d'Anvers ne laisse aucune marge d'appréciation et n'autorise dans les jardins avant que les constructions et revêtements énumérés, dont ne fait pas partie une terrasse. La motivation de l'autorité délivrante selon laquelle plus de 25 % du jardin avant reste non revêtu a été jugée sans pertinence au regard de cette prescription. Le permis étant en principe indivisible et le demandeur n'ayant pas démontré que la terrasse pouvait en être détachée, la demande de suspension partielle n'a pas été suivie. Le Conseil suspend la décision dans son intégralité ; les dépens (100 euros de droit de rôle et 840 euros d'indemnité de procédure) sont à charge de la partie adverse. L'arrêt date du 11 mai 2026 et ne porte que sur la suspension ; la procédure d'annulation reste à trancher."
+   ],
+   "scope": "Arrest RVVB.2526.0777 – artikel 40 DBRC-decreet, artikel 4.3.1, §1, eerste lid, 1°, a) VCRO en artikel 23, §4-5 Antwerpse Bouwcode",
+   "dates": {
+    "adopted": "2026-05-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0777.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0777.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0777"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

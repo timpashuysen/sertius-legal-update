@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 5 (char 3112)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5339)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 6063)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 6125)"
 },
 "codex:1042061": {
 "v": 2,
@@ -31794,7 +31794,8 @@
 ],
 "reason": "Amends biocides regulation data protection periods for chemical products.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1165"
 },
 "eu:32026R1140": {
 "v": 2,
@@ -31971,7 +31972,8 @@
 ],
 "reason": "Designates bathing water zones, which sets general water quality rules for 2026.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-136219"
 },
 "eu:52026PC1002": {
 "v": 2,
@@ -32135,7 +32137,8 @@
 ],
 "reason": "Appoints supervisors and restoration bodies under the Flemish environmental enforcement decree.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042029"
 },
 "cass:C.25.0154.F": {
 "v": 2,
@@ -32144,7 +32147,9 @@
 "topics": [],
 "reason": "Court ruling with a vague title; cannot tell subject, so flagged for review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Criminal-law ruling on the transfer of an interned person from a forensic psychiatric centre to prison; no environmental obligations involved."
 },
 "wallex:135413": {
 "v": 2,
@@ -32173,7 +32178,8 @@
 ],
 "reason": "Walloon spatial planning code change on digitalising permits and urban planning certificates.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-135372"
 },
 "gwh:59/2026": {
 "v": 2,
@@ -32182,7 +32188,9 @@
 "topics": [],
 "reason": "Constitutional Court case on unspecified programme law articles; content unclear from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Constitutional Court dismisses as manifestly inadmissible an annulment action against unemployment-regulation provisions; no environmental obligations concerned."
 },
 "gwh:58/2026": {
 "v": 2,
@@ -32204,7 +32212,8 @@
 ],
 "reason": "Constitutional Court challenge to 2024 energy supply security and nuclear reform law.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-57-2026"
 },
 "eu:62025TJ0390_INF": {
 "v": 2,
@@ -32766,7 +32775,9 @@
 ],
 "reason": "Amends French provisional REACH restriction on a chemical-treated wood product.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Addressed only to France; extends a French national creosote-wood measure and creates no obligations in Belgium."
 },
 "eu:32026D1328": {
 "v": 2,
@@ -32948,7 +32959,9 @@
 ],
 "reason": "Corrigendum to cosmetics regulation restricting hazardous substances; chemical-safety rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Corrects one reference number (1752 to 1767) in a cosmetics ingredient annex; it creates no environmental obligations."
 },
 "eu:32026D1023": {
 "v": 2,
@@ -59613,7 +59626,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0783"
 },
 "rvvb:RVVB.2526.0782": {
 "v": 2,
@@ -59624,7 +59638,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0782"
 },
 "rvvb:RVVB.2526.0781": {
 "v": 2,
@@ -59662,7 +59677,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0777"
 },
 "rvvb:RVVB.2526.0776": {
 "v": 2,
@@ -64578,15 +64594,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 0,
+"this_run": 8,
+"found_not_relevant_on_reading": 4,
 "failed": 2,
-"waiting": 470,
+"waiting": 458,
 "api": {
 "calls": 14,
-"input_tokens": 214771,
-"output_tokens": 44807,
-"usd": 0.8776
+"input_tokens": 130565,
+"output_tokens": 36213,
+"usd": 0.6233
 },
 "updated": "2026-11-23"
 }
