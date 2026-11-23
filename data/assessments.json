@@ -19693,7 +19693,8 @@
 ],
 "reason": "Publishes heavy-duty vehicle CO2 emission data under Regulation 2019/1242; climate-related.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d1815"
 },
 "eu:32026D1814": {
 "v": 3,
@@ -56144,15 +56145,16 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2627.0016": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Holds the one-year RUP-initiation duty after a principal agreement is only a directory term without sanction, so the PRIAK still applies; also addresses the transitional rule for woonreservegebied per",
+"confidence": "medium",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2627-0016"
 },
 "rvvb:RVVB.2627.0015": {
@@ -56871,13 +56873,16 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2526.1038": {
-"v": 2,
+"v": 3,
 "verdict": "not relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual permit annulment for one apartment building.",
-"confidence": "high",
-"at": "2026-11-22"
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Single-file permit review applying settled standards of marginal review and spatial integration; no new point of law or annulled plan is shown.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1037": {
 "v": 2,
@@ -57084,7 +57089,8 @@
 ],
 "reason": "Screening decision must concretely test the project against DABM Annex II criteria; a bare reference to advisory opinions cannot justify no project-MER for PFAS/arsenic dewatering discharge.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1015"
 },
 "rvvb:RVVB.2526.1014": {
 "v": 2,
@@ -57108,7 +57114,8 @@
 ],
 "reason": "Annulled a permit: art. 30 of Bruges' building regulation on party walls also applies to extensions and renovations, even without touching the wall.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1013"
 },
 "rvvb:RVVB.2526.1012": {
 "v": 3,
@@ -57120,7 +57127,8 @@
 ],
 "reason": "Annuls a building permit: widening a cycle path's bedding needs a prior municipal council decision on the road under the Gemeentewegendecreet, as the bedding change alters the road.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1012"
 },
 "rvvb:RVVB.2526.1011": {
 "v": 3,
@@ -57133,7 +57141,8 @@
 ],
 "reason": "A municipal college that is both applicant and initiator of a screening-obligated project lacks competence in first instance; the deputation must decide (Art. 9bis Project-MER directive, passende sche",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1011"
 },
 "rvvb:RVVB.2526.1010": {
 "v": 3,
@@ -57146,7 +57155,8 @@
 ],
 "reason": "Applies art. 105 §2 OVD: a third party who did not exhaust the administrative appeal is barred from judicial appeal, even after a restorative decision; Aarhus argument rejected.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1010"
 },
 "rvvb:RVVB.2526.1009": {
 "v": 2,
@@ -57216,7 +57226,8 @@
 ],
 "reason": "Annulment of a permit: noise assessment cannot be deferred to execution via a measurement condition, and reasons must address objections from advisory bodies.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1003"
 },
 "rvvb:RVVB.2526.1002": {
 "v": 2,
@@ -57237,7 +57248,8 @@
 ],
 "reason": "Neighbour light and view loss cannot be dismissed as civil-law matters; permit decisions must concretely assess such hindrance and answer detailed objections under the heightened motivation duty.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1001"
 },
 "rvvb:RVVB.2526.1000": {
 "v": 2,
@@ -57258,7 +57270,8 @@
 ],
 "reason": "Art. 64 OVD: an amended application accepted on appeal needs reasoning on why no new public inquiry is required; if one is held, advice must be re-obtained. Good-planning reasoning is also required.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0997"
 },
 "rvvb:RVVB.2526.0996": {
 "v": 3,
@@ -57270,7 +57283,8 @@
 ],
 "reason": "Interprets art. 4.4.3 VCRO (afwerkingsregel): only blind walls can be a wachtmuur; the 1 September 2009 reference date and the required statement of reasons apply.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0996"
 },
 "rvvb:RVVB.2526.0994": {
 "v": 2,
@@ -57294,7 +57308,9 @@
 ],
 "reason": "Restates the standing rule for adjacent owners under the Omgevingsvergunningsdecreet: owner status suffices, and the permit holder must prove no more than negligible effects.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Interim ruling applying settled standing case law to one file, rejecting the standing objection and reopening debates for settlement talks; no new point of law."
 },
 "rvvb:RVVB.2526.0992": {
 "v": 2,
@@ -57316,13 +57332,17 @@
 "written": "d-rvvb-rvvb-2526-0991"
 },
 "rvvb:RVVB.2526.0988": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one individual omgevingsvergunning for housing and parking.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Financial planning burdens may be imposed on permits only if a municipal stedenbouwkundige verordening regulates them; the permit decision must motivate imposing or not imposing such a burden.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0988"
 },
 "rvvb:RVVB.2526.0987": {
 "v": 2,
@@ -57343,7 +57363,8 @@
 ],
 "reason": "Registration as 'vergund geacht' needs proof the building predates the zoning plan. The permit presumption covers the building, not automatically its function. Decisions must motivate the building dat",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0984"
 },
 "rvvb:RVVB.2526.0983": {
 "v": 3,
@@ -59020,12 +59041,13 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0873": {
-"v": 2,
+"v": 3,
 "verdict": "not relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [],
-"reason": "Suspension and annulment of one individual permit for 13 SME units.",
-"confidence": "high",
+"reason": "Interlocutory order reopening debates on tacit waiver and current interest in one permit file; restates settled interest rules, decides no wider point of law.",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0872": {
@@ -59075,12 +59097,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0865": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Refusal of one individual permit to adjust a ministerial condition.",
-"confidence": "high",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Clarifies that neighbour status alone does not establish standing for an administrative appeal once the applicant substantively contests the claimed nuisance (omgevingsvergunning, betrokken publiek).",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0864": {
@@ -59748,11 +59774,14 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0781": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on one permit for demolition and rebuilding of a single outbuilding.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Zonevreemde basisrechten (art. 4.4.18 VCRO) do not exempt a permit from the esthetic criterion of art. 15.4.6.1 Inrichtingsbesluit in landscape-value areas; the authority must assess and motivate it.",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -59766,12 +59795,15 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0778": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one permit for demolishing a single outbuilding.",
-"confidence": "high",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "A permit holder's binding undertaking not to implement the permit pending annulment removes urgency for suspension; applicant bears the burden to show urgency (UDN).",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0777": {
@@ -59905,16 +59937,18 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0764": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting",
+"environmental-law",
+"soil"
 ],
-"reason": "Title too vague; only a case number is given, so a person should check.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0764"
+"reason": "Watertoets permit conditions must be sufficiently precise under art. 74 OVD, and the decision must formally motivate the water test on erosion and flooding risks.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0763": {
 "v": 2,
@@ -59983,12 +60017,15 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0755": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one individual housing permit for a specific site.",
-"confidence": "high",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Holds that a permit holder's binding declaration not to start works until the annulment ruling removes the urgency required for UDN suspension; applicants may re-file later.",
+"confidence": "medium",
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0754": {
@@ -60049,16 +60086,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0748": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0748"
+"reason": "Amendments to a permit application in appeal must meet art. 64 Omgevingsvergunningsdecreet conditions; the deputation must motivate why no public inquiry is needed, even in simplified procedure.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0747": {
 "v": 2,
@@ -60070,16 +60107,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0744": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0744"
+"reason": "Annuls a permit for a zonevreemde functiewijziging: verkrot status must be judged at application date under art. 4.4.23 VCRO, and reasons must justify departing from the provincial official's report.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0743": {
 "v": 2,
@@ -64935,17 +64972,17 @@
 "summary": {
 "scope_from": "2026-01-01",
 "in_scope": 7042,
-"assessed": 5818,
-"waiting": 1224,
-"relevant": 613,
-"not_relevant": 4879,
+"assessed": 5829,
+"waiting": 1213,
+"relevant": 622,
+"not_relevant": 4881,
 "excluded_by_rule": 326,
-"this_run": 9,
+"this_run": 11,
 "api": {
 "calls": 260,
-"input_tokens": 3666751,
-"output_tokens": 103777,
-"usd": 0.4186
+"input_tokens": 3674961,
+"output_tokens": 103677,
+"usd": 0.4193
 },
 "key_present": true,
 "updated": "2026-11-23"
@@ -64954,16 +64991,16 @@
 "this_run": 13,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 438,
+"waiting": 433,
 "api": {
 "calls": 14,
-"input_tokens": 258380,
-"output_tokens": 45341,
-"usd": 0.9702
+"input_tokens": 218839,
+"output_tokens": 42160,
+"usd": 0.8593
 },
 "updated": "2026-11-23"
 },
 "writer_v": 2,
 "rulings_reset": 228,
-"last_error": "no JSON in reply"
+"last_error": "Unterminated string starting at: line 1 column 56 (char 55)"
 }
