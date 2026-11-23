@@ -17,7 +17,7 @@ import llm
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SCOPE_START = "2026-01-01"
-VERSION = 3
+VERSION = 4
 BATCH = 20
 TOPICS = ["soil", "environmental-law", "environmental-safety", "permitting", "energy-climate", "circular-products"]
 
