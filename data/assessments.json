@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 13 column 1 (char 5006)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5621)"
 },
 "codex:1042165": {
 "v": 2,
@@ -29001,7 +29001,7 @@
 "reason": "Second general implementation of Flemish enforcement framework decree, affecting environmental enforcement.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Expecting property name enclosed in double quotes: line 17 column 1 (char 7331)"
+"write_error": "Unterminated string starting at: line 17 column 10 (char 6398)"
 },
 "codex:1042075": {
 "v": 2,
@@ -30062,7 +30062,8 @@
 ],
 "reason": "Sets continuing training rules for EPB certifiers under the building energy performance decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-136230"
 },
 "wallex:136051": {
 "v": 2,
@@ -30118,7 +30119,8 @@
 ],
 "reason": "Amends REACH Annex XVII restrictions on synthetic polymer microparticles.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1168"
 },
 "eu:32026R0687R(01)": {
 "v": 2,
@@ -30165,7 +30167,8 @@
 ],
 "reason": "Dutch version of the REACH Annex XVII microparticle restriction amendment.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042385"
 },
 "codex:1042067": {
 "v": 2,
@@ -30183,7 +30186,9 @@
 "topics": [],
 "reason": "Court ruling; title gives only a case number, so needs review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Extradition ruling on temporary protection for Ukrainians; no environmental obligations for companies, project developers or authorities."
 },
 "codex:1042281": {
 "v": 2,
@@ -30192,7 +30197,9 @@
 "topics": [],
 "reason": "Omnibus programme law; content unknown, may include environmental measures.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Only title and dates of a federal Programmawet are given; no provisions on environmental obligations are stated."
 },
 "codex:1042247": {
 "v": 2,
@@ -30248,7 +30255,8 @@
 ],
 "reason": "Safety rules for natural gas distribution installations and nearby works; dangerous substances.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042182"
 },
 "codex:1042159": {
 "v": 2,
@@ -30259,7 +30267,8 @@
 ],
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5614)"
 },
 "codex:1042061": {
 "v": 2,
@@ -59222,7 +59231,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0835"
 },
 "rvvb:RVVB.2526.0834": {
 "v": 2,
@@ -59231,7 +59241,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0834"
 },
 "rvvb:RVVB.2526.0832": {
 "v": 2,
@@ -59240,7 +59251,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0832"
 },
 "rvvb:RVVB.2526.0829": {
 "v": 2,
@@ -59258,7 +59270,9 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural ruling reopening debates and moving the case to the ordinary procedure; no substantive environmental obligation is decided or clarified."
 },
 "rvvb:RVVB.2526.0826": {
 "v": 2,
@@ -59267,7 +59281,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0826"
 },
 "rvvb:RVVB.2526.0825": {
 "v": 2,
@@ -64538,15 +64553,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 2,
-"failed": 2,
-"waiting": 505,
+"this_run": 8,
+"found_not_relevant_on_reading": 3,
+"failed": 3,
+"waiting": 494,
 "api": {
 "calls": 14,
-"input_tokens": 191324,
-"output_tokens": 39448,
-"usd": 0.7771
+"input_tokens": 154405,
+"output_tokens": 38206,
+"usd": 0.6909
 },
 "updated": "2026-11-23"
 }

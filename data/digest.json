@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:22:25Z",
+ "updated": "2026-11-23T04:33:01Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -13882,6 +13882,333 @@
    ],
    "inbox": [
     "codex:1042072"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-136230",
+   "d": "2026-06-01",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia sets mandatory e-learning for residential EPC certifiers ahead of new renovation-pathway software",
+   "a": "A Walloon ministerial order organises the continuing training of residential EPC (PEB) certifiers on the updated software and certificate, which will include a renovation pathway and works cost estimate. The e-learning is available from 1 June 2026 and must be completed by 30 June 2027.",
+   "b": "The order applies to individuals approved as residential-unit EPC (PEB) certifiers in Wallonia. It covers the continuing training under Article 50 of the Decree of 28 November 2013 on the energy performance of buildings, and concerns the changes to the software and the certificate that add a renovation pathway and an estimate of works costs towards the 2050 decarbonised housing stock objective. The administration provides the training as e-learning. It comprises a theoretical module on the rules and the data collection protocol, a theoretical module on the changes to the software and certificate, a practical module on using the software, and self-assessment modules. The training is available from 1 June 2026. Certifiers must complete the whole training by 30 June 2027 at the latest. The administration makes the adapted software available to certifiers who have followed the training from 1 September 2026. The order was adopted on 1 June 2026, published in the Moniteur belge on 11 June 2026 and in force from 21 June 2026.",
+   "nl": [
+    "Wallonië voorziet verplichte e-learning voor EPB-certificateurs woningen vóór de nieuwe renovatiepad-software",
+    "Een Waals ministerieel besluit organiseert de permanente opleiding van EPB-certificateurs voor residentiële eenheden over de aangepaste software en het aangepaste certificaat, met een renovatiepad en een kostenraming van de werken. De e-learning is beschikbaar vanaf 1 juni 2026 en moet uiterlijk 30 juni 2027 zijn voltooid.",
+    "Het besluit geldt voor natuurlijke personen die erkend zijn als EPB-certificateur voor residentiële eenheden in Wallonië. Het regelt de permanente opleiding bedoeld in artikel 50 van het decreet van 28 november 2013 betreffende de energieprestatie van gebouwen, en betreft de wijzigingen aan de software en het certificaat, die een renovatiepad en een raming van de werkkosten toevoegen met het oog op een gedecarboniseerd woningpark tegen 2050. De administratie biedt de opleiding aan als e-learning. Ze omvat een theoretische module over de regelgeving en het protocol voor gegevensverzameling, een theoretische module over de wijzigingen aan de software en het certificaat, een praktische module over het gebruik van de software en zelfevaluatiemodules. De opleiding is beschikbaar vanaf 1 juni 2026. Certificateurs moeten de volledige opleiding uiterlijk op 30 juni 2027 hebben voltooid. De administratie stelt de aangepaste software vanaf 1 september 2026 ter beschikking van certificateurs die de opleiding hebben gevolgd. Het besluit is aangenomen op 1 juni 2026, bekendgemaakt in het Belgisch Staatsblad op 11 juni 2026 en van kracht sinds 21 juni 2026."
+   ],
+   "fr": [
+    "La Wallonie organise une formation en ligne pour les certificateurs PEB avant le nouveau logiciel avec parcours de rénovation",
+    "Un arrêté ministériel wallon organise la formation permanente des certificateurs PEB d'unité résidentielle sur le logiciel et le certificat adaptés, qui intégreront un parcours de rénovation et une estimation des coûts des travaux. L'e-learning est disponible depuis le 1er juin 2026 et doit être achevé au plus tard le 30 juin 2027.",
+    "L'arrêté s'applique aux personnes physiques agréées en qualité de certificateur PEB d'unité résidentielle en Wallonie. Il organise la formation permanente visée à l'article 50 du décret du 28 novembre 2013 relatif à la performance énergétique des bâtiments et concerne l'évolution du logiciel et du certificat, qui intégreront un parcours de rénovation et une estimation des coûts des travaux en vue de l'objectif d'un parc de logements décarboné à l'horizon 2050. L'administration organise la formation sous forme d'e-learning. Elle comprend un module théorique sur la réglementation et le protocole de collecte des données, un module théorique sur l'évolution du logiciel et du certificat, un module pratique sur l'utilisation du logiciel et des modules d'auto-évaluation. La formation est disponible à partir du 1er juin 2026. Les certificateurs doivent l'achever dans son ensemble au plus tard le 30 juin 2027. L'administration met le logiciel adapté à disposition des certificateurs ayant suivi la formation à partir du 1er septembre 2026. L'arrêté a été adopté le 1er juin 2026, publié au Moniteur belge le 11 juin 2026 et est en vigueur depuis le 21 juin 2026."
+   ],
+   "scope": "Arrêté ministériel du 1er juin 2026 relatif à la formation permanente des certificateurs PEB (art. 50 du décret du 28 novembre 2013), art. 1 à 6",
+   "dates": {
+    "adopted": "2026-06-01",
+    "published": "2026-06-11",
+    "in_force": "2026-06-21"
+   },
+   "u": [
+    [
+     "Arrêté ministériel relatif à la formation permanente des certificateurs PEB, visée à l'article 50 du décret du 28 novembre 2013 relatif à la",
+     "https://wallex.wallonie.be/eli/arrete/2026/06/01/2026004208/2026/06/21"
+    ]
+   ],
+   "inbox": [
+    "wallex:136230"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1168",
+   "d": "2026-06-01",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "REACH microplastics: wider derogations for medicines and PPORD, narrower solid-matrix derogation",
+   "a": "Regulation (EU) 2026/1168 amends entry 78 of REACH Annex XVII (synthetic polymer microparticles). It extends the derogations to all medicinal products, including those used in clinical trials, and to PPORD up to 1 tonne per year, with retroactive effect from 17 October 2023. It also limits the solid-matrix derogation to end uses of one year or longer from 22 June 2028.",
+   "b": "The amendment concerns suppliers and users of synthetic polymer microparticles placed on the market under the restriction in entry 78 of REACH Annex XVII. This includes pharmaceutical companies, research institutions and manufacturers of products with microparticles permanently incorporated in a solid matrix. The derogation for medicinal products now refers to all medicinal products as defined in Directive 2001/83/EC and all veterinary medicinal products as defined in Regulation (EU) 2019/6. This covers products used in clinical trials and in the related pre-clinical safety testing. A new derogation covers microparticles, on their own or in mixtures, used in product and process-oriented research and development (PPORD) in quantities of 1 tonne per year or less. It applies also where PPORD takes place outside industrial sites, for example in hospitals and universities. The derogation for microparticles permanently incorporated in a solid matrix will only cover intended end uses lasting one year or longer. The Regulation enters into force on the twentieth day after publication in the Official Journal, which was on 2 June 2026. The medicinal products and PPORD changes apply retroactively from 17 October 2023. The solid-matrix change applies from 22 June 2028.",
+   "nl": [
+    "REACH-microplastics: ruimere afwijkingen voor geneesmiddelen en PPORD, strengere afwijking voor vaste matrix",
+    "Verordening (EU) 2026/1168 wijzigt vermelding 78 van bijlage XVII bij REACH (synthetische polymeermicrodeeltjes). Het past de afwijkingen uit voor alle geneesmiddelen, ook die in klinische proeven, en voor PPORD tot 1 ton per jaar, met terugwerkende kracht vanaf 17 oktober 2023. Vanaf 22 juni 2028 geldt de afwijking voor een vaste matrix enkel nog bij een beoogd eindgebruik van een jaar of langer.",
+    "De wijziging betreft leveranciers en gebruikers van synthetische polymeermicrodeeltjes die onder de beperking van vermelding 78 van bijlage XVII bij REACH in de handel worden gebracht. Het gaat onder meer om farmaceutische bedrijven, onderzoeksinstellingen en fabrikanten van producten waarin microdeeltjes permanent in een vaste matrix zijn opgenomen. De afwijking voor geneesmiddelen verwijst nu naar alle geneesmiddelen in de zin van Richtlijn 2001/83/EG en alle diergeneesmiddelen in de zin van Verordening (EU) 2019/6. Dit omvat producten die in klinische proeven en in de bijbehorende preklinische veiligheidstests worden gebruikt. Een nieuwe afwijking geldt voor microdeeltjes, op zichzelf of in mengsels, die worden gebruikt voor product- en procesgerichte onderzoek en ontwikkeling (PPORD) in hoeveelheden van 1 ton per jaar of minder. Ze geldt ook wanneer PPORD buiten industriële terreinen plaatsvindt, bijvoorbeeld in ziekenhuizen en universiteiten. De afwijking voor microdeeltjes die permanent in een vaste matrix zijn opgenomen, dekt enkel nog een beoogd eindgebruik van een jaar of langer. De verordening treedt in werking op de twintigste dag na de bekendmaking in het Publicatieblad, die op 2 juni 2026 plaatsvond. De wijzigingen voor geneesmiddelen en PPORD gelden met terugwerkende kracht vanaf 17 oktober 2023. De wijziging voor de vaste matrix geldt vanaf 22 juni 2028."
+   ],
+   "fr": [
+    "Microplastiques REACH : dérogations élargies pour les médicaments et la PPORD, dérogation matrice solide restreinte",
+    "Le règlement (UE) 2026/1168 modifie l'entrée 78 de l'annexe XVII de REACH (microparticules de polymère synthétique). Il étend les dérogations à tous les médicaments, y compris ceux utilisés dans les essais cliniques, et à la PPORD jusqu'à 1 tonne par an, avec effet rétroactif au 17 octobre 2023. À partir du 22 juin 2028, la dérogation relative à la matrice solide ne couvre plus que les utilisations finales prévues d'un an ou plus.",
+    "La modification concerne les fournisseurs et utilisateurs de microparticules de polymère synthétique mises sur le marché au titre de la restriction de l'entrée 78 de l'annexe XVII de REACH. Sont notamment visés les entreprises pharmaceutiques, les établissements de recherche et les fabricants de produits dont les microparticules sont incorporées de façon permanente dans une matrice solide. La dérogation pour les médicaments renvoie désormais à tous les médicaments au sens de la directive 2001/83/CE et à tous les médicaments vétérinaires au sens du règlement (UE) 2019/6. Cela comprend les produits utilisés dans les essais cliniques et dans les essais de sécurité précliniques correspondants. Une nouvelle dérogation couvre les microparticules, telles quelles ou en mélange, utilisées pour la recherche et le développement axés sur les produits et les processus (PPORD) en quantités d'une tonne par an ou moins. Elle s'applique aussi lorsque la PPORD a lieu hors des sites industriels, par exemple dans des hôpitaux et des universités. La dérogation pour les microparticules incorporées de façon permanente dans une matrice solide ne couvre plus que les utilisations finales prévues d'une durée d'un an ou plus. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel, intervenue le 2 juin 2026. Les modifications relatives aux médicaments et à la PPORD s'appliquent rétroactivement à partir du 17 octobre 2023. Celle relative à la matrice solide s'applique à partir du 22 juin 2028."
+   ],
+   "scope": "Commission Regulation (EU) 2026/1168 amending entry 78 (paragraphs 4(b), new 4(g) and 5(c)) of Annex XVII to Regulation (EC) No 1907/2006 (REACH)",
+   "dates": {
+    "adopted": "2026-06-01",
+    "published": "2026-06-02",
+    "in_force": "2026-06-22"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/1168 of 1 June 2026 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of th",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1168"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1168"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042385",
+   "d": "2026-06-01",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "EU Regulation 2026/1168 amends REACH Annex XVII on synthetic polymer microparticles",
+   "a": "The Commission has adopted Regulation (EU) 2026/1168, which amends Annex XVII (restrictions) of the REACH Regulation (EC) No 1907/2006 as regards synthetic polymer microparticles. It was published in the Official Journal of 2 June 2026.",
+   "b": "Regulation (EU) 2026/1168 amends Annex XVII of Regulation (EC) No 1907/2006 (REACH), which lists the restrictions on the manufacture, placing on the market and use of certain substances, mixtures and articles. The amendment concerns synthetic polymer microparticles. Companies that manufacture, import or supply such particles, or products containing them, fall within the subject matter of the amendment. As a Commission regulation amending a REACH annex, it applies in Belgium without national transposition. The Commission adopted it on 1 June 2026 and it was published in the Official Journal of 2 June 2026. No entry into force date or transitional periods are stated.",
+   "nl": [
+    "Verordening (EU) 2026/1168 wijzigt REACH-bijlage XVII inzake synthetische polymeermicrodeeltjes",
+    "De Europese Commissie heeft Verordening (EU) 2026/1168 aangenomen tot wijziging van bijlage XVII (beperkingen) bij de REACH-verordening (EG) nr. 1907/2006 wat synthetische polymeermicrodeeltjes betreft. Ze werd op 2 juni 2026 in het Publicatieblad bekendgemaakt.",
+    "Verordening (EU) 2026/1168 wijzigt bijlage XVII bij Verordening (EG) nr. 1907/2006 (REACH), die de beperkingen bevat op de vervaardiging, het in de handel brengen en het gebruik van bepaalde stoffen, mengsels en voorwerpen. De wijziging betreft synthetische polymeermicrodeeltjes. Bedrijven die dergelijke deeltjes of producten die ze bevatten vervaardigen, invoeren of leveren, vallen onder het onderwerp van de wijziging. Als verordening van de Commissie tot wijziging van een REACH-bijlage is ze in België van toepassing zonder omzetting in nationaal recht. De Commissie nam ze aan op 1 juni 2026 en ze werd op 2 juni 2026 in het Publicatieblad bekendgemaakt. Een datum van inwerkingtreding of overgangsperiodes worden niet vermeld."
+   ],
+   "fr": [
+    "Le règlement (UE) 2026/1168 modifie l'annexe XVII de REACH sur les microparticules de polymères synthétiques",
+    "La Commission européenne a adopté le règlement (UE) 2026/1168 modifiant l'annexe XVII (restrictions) du règlement REACH (CE) n° 1907/2006 en ce qui concerne les microparticules de polymères synthétiques. Il a été publié au Journal officiel du 2 juin 2026.",
+    "Le règlement (UE) 2026/1168 modifie l'annexe XVII du règlement (CE) n° 1907/2006 (REACH), qui énumère les restrictions applicables à la fabrication, à la mise sur le marché et à l'utilisation de certaines substances, mélanges et articles. La modification concerne les microparticules de polymères synthétiques. Les entreprises qui fabriquent, importent ou fournissent de telles particules, ou des produits qui en contiennent, relèvent de l'objet de la modification. En tant que règlement de la Commission modifiant une annexe de REACH, il s'applique en Belgique sans transposition en droit national. La Commission l'a adopté le 1er juin 2026 et il a été publié au Journal officiel du 2 juin 2026. Aucune date d'entrée en vigueur ni période transitoire n'est mentionnée."
+   ],
+   "scope": "Verordening (EU) 2026/1168 van de Commissie – wijziging van bijlage XVII bij Verordening (EG) nr. 1907/2006 (REACH) wat synthetische polymeermicrodeeltjes betreft",
+   "dates": {
+    "adopted": "2026-06-01",
+    "published": "2026-06-02"
+   },
+   "u": [
+    [
+     "Verordening (EU) 2026/1168 van de Commissie tot wijziging van bijlage XVII bij Verordening (EG) nr. 1907/2006 van het Europees Parlement en ",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042385&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042385"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042182",
+   "d": "2026-05-29",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "Flanders adopts Natural Gas Distribution Safety Code 2026, replacing the 1971 royal decree",
+   "a": "The Flemish Government sets safety rules for building and operating natural gas distribution installations and for third-party works near them. It repeals the royal decree of 28 June 1971.",
+   "b": "The code applies to gas distribution network operators, to anyone planning works near distribution installations and to anyone supervising such works. It covers new installations and extensions or complete relocations of more than 100 m. Repairs and comparable replacements on existing installations may follow either the code or the rules in force when they were built. Only certain articles apply to existing installations, some of them only where the operator holds the plans or data. The code sets minimum burial depths (60 cm, 80 cm for medium-pressure category C pipelines, 1.2 m under railways and watercourses) and minimum distances to other installations (10 cm at crossings, 20 cm in parallel). It also sets rules on corrosion protection, materials, welding, pressure and leak tests before commissioning, registration of construction data within six months, and notice to the supervisory officials at least eight days before laying a pipeline longer than 100 m. Third parties must consult KLIP before works, locate pipelines with hand-dug trial trenches, report any damage at once and follow the operator's instructions. If a third party does not comply, the operator can ask the supervisory officials to stop the works. The code also covers access, maintenance, gas odorisation, incident response, meter opening and reporting of leaks and major incidents. Further technical requirements are to be set jointly by the Flemish ministers for energy and for the environment. The code is dated 29 May 2026, was published on 16 July 2026 and takes effect on 26 July 2026. Articles 14-16, 18 and 27-36 also apply to existing installations designed before that date whose construction starts or continues after it.",
+   "nl": [
+    "Vlaanderen keurt Veiligheidscode Aardgasdistributie 2026 goed en heft KB van 1971 op",
+    "De Vlaamse Regering legt veiligheidsregels vast voor de oprichting en exploitatie van aardgasdistributie-installaties en voor werken van derden in hun nabijheid. Het koninklijk besluit van 28 juni 1971 wordt opgeheven.",
+    "De code is van toepassing op de aardgasdistributienetbeheerders, op wie werken in de nabijheid van distributie-installaties wil aanvatten en op wie toezicht houdt op die werken. Ze geldt voor nieuwe installaties en voor uitbreidingen of volledige verplaatsingen over meer dan 100 meter. Herstellingen en vergelijkbare vervangingen van bestaande installaties mogen gebeuren volgens de code of volgens de voorschriften die golden bij de aanleg. Op bestaande installaties zijn slechts bepaalde artikelen van toepassing, sommige enkel als de netbeheerder over de plannen of gegevens beschikt. De code bepaalt minimale ingravingsdiepten (60 cm, 80 cm voor middendrukleidingen categorie C, 1,2 m onder spoorbanen en waterlopen) en minimumafstanden tot andere installaties (10 cm bij kruisingen, 20 cm bij een parallel tracé). Ze bevat ook regels over corrosiebescherming, materialen, lassen, druk- en dichtheidsproeven vóór de ingebruikname, registratie van de constructiegegevens binnen zes maanden en kennisgeving aan de toezichthouders minstens acht dagen vóór de aanleg van een leiding langer dan 100 meter. Derden moeten vóór de werken het KLIP raadplegen, leidingen opsporen met proefsleuven die met de hand worden gegraven, elke beschadiging onmiddellijk melden en de instructies van de netbeheerder volgen. Bij niet-naleving kan de netbeheerder de toezichthouders vragen de werken te laten stopzetten. De code regelt verder de toegang, het onderhoud, de odorisatie, de tussenkomst bij incidenten, het openen van meters en de rapportering van gaslekken en grote incidenten. Aanvullende technische vereisten worden gezamenlijk vastgesteld door de Vlaamse ministers bevoegd voor energie en voor omgeving en natuur. De code dateert van 29 mei 2026, werd op 16 juli 2026 bekendgemaakt en treedt op 26 juli 2026 in werking. De artikelen 14 tot en met 16, 18 en 27 tot en met 36 gelden ook voor bestaande installaties die vóór die datum zijn ontworpen maar waarvan de aanleg na die datum begint of doorloopt."
+   ],
+   "fr": [
+    "La Flandre adopte le Code de sécurité de la distribution de gaz naturel 2026 et abroge l'AR de 1971",
+    "Le Gouvernement flamand fixe les mesures de sécurité pour la construction et l'exploitation des installations de distribution de gaz naturel et pour les travaux de tiers à proximité. L'arrêté royal du 28 juin 1971 est abrogé.",
+    "Le code s'applique aux gestionnaires de réseau de distribution de gaz naturel, à toute personne qui veut entamer des travaux à proximité d'installations de distribution et à toute personne chargée de surveiller ces travaux. Il vise les nouvelles installations ainsi que les extensions et déplacements complets de plus de 100 mètres. Les réparations et remplacements comparables sur des installations existantes peuvent suivre soit le code, soit les prescriptions en vigueur lors de leur construction. Seuls certains articles s'appliquent aux installations existantes, certains uniquement si le gestionnaire dispose des plans ou des données. Le code fixe des profondeurs d'enfouissement minimales (60 cm, 80 cm pour les conduites de moyenne pression catégorie C, 1,2 m sous les voies ferrées et les cours d'eau) et des distances minimales par rapport aux autres installations (10 cm aux croisements, 20 cm en tracé parallèle). Il prévoit aussi des règles sur la protection contre la corrosion, les matériaux, le soudage, les épreuves de résistance mécanique et d'étanchéité avant la mise en service, l'enregistrement des données de construction dans les six mois et la notification aux surveillants au moins huit jours avant la pose d'une conduite de plus de 100 mètres. Les tiers doivent consulter le KLIP avant les travaux, localiser les conduites au moyen de tranchées de sondage creusées à la main, signaler immédiatement tout dommage et suivre les instructions du gestionnaire. En cas de non-respect, le gestionnaire peut demander aux surveillants de faire arrêter les travaux. Le code régit en outre l'accès, l'entretien, l'odorisation, l'intervention en cas d'incident, l'ouverture des compteurs et le rapportage des fuites de gaz et des incidents majeurs. Des exigences techniques complémentaires seront fixées conjointement par les ministres flamands chargés de l'énergie et de l'environnement et de la nature. Le code date du 29 mai 2026, a été publié le 16 juillet 2026 et entre en vigueur le 26 juillet 2026. Les articles 14 à 16, 18 et 27 à 36 s'appliquent aussi aux installations existantes conçues avant cette date mais dont la construction commence ou se poursuit après celle-ci."
+   ],
+   "scope": "Besluit van de Vlaamse Regering tot regeling van de veiligheidsmaatregelen bij de oprichting en exploitatie van aardgasdistributie-installaties en bij werken in de nabijheid van die installaties (Veiligheidscode Aardgasdistributie van 2026): volledig besluit",
+   "dates": {
+    "adopted": "2026-05-29",
+    "published": "2026-07-16",
+    "in_force": "2026-07-26"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot regeling van de veiligheidsmaatregelen bij de oprichting en exploitatie van aardgasdistributie-installat",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042182&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042182"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0835",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council for Permit Disputes upholds PFAS discharge limits in permit for waste and tank-cleaning site in Oostrozebeke",
+   "a": "The Council for Permit Disputes (RvVb) rejected an environmental organisation's appeal against an environmental permit that extends a waste treatment and truck- and tank-cleaning site and revises its discharge limits, including temporary two-year limits for most PFAS. It found the pleas insufficiently developed.",
+   "b": "The ruling concerns an environmental permit granted on 28 March 2025 by the Flemish authority, on administrative appeal, for changing and extending a hazardous and non-hazardous waste treatment site with truck- and tank-cleaning and a fuel station in Oostrozebeke. The permit mainly revises discharge limits: PFOS, PFOA and PFHxS no longer have a specific limit, no limit is set for the long-chain PFAS, and the remaining PFAS limits apply for only two years. The operator must report every six months and evaluate its treatment techniques after one year. The Council rejected all parts of the single plea. On the water assessment, the POP Regulation (Art. 7) and the Water Framework Directive duties of protection and improvement, it held that the claimant did not show a breach, noting that the permit lowers PFAS loads and that a lack of a specific limit leaves the general VLAREM II limit of 20 ng/l applicable. It accepted that the 22 December 2027 environmental quality standard for PFOS is not guaranteed with current reporting limits, but held that this does not show a breach, given the possible extension of the deadline under Art. 1.7.2.5.1 of the Water Code. It also rejected the plea of illegality against the VLAREM II reference methods for measuring PFAS and the related VLAREL provision, finding they are not a plan or programme requiring a prior plan-EIA. The appeal was dismissed and the costs (EUR 200 filing fee and EUR 840 procedural indemnity) were charged to the claimant.",
+   "nl": [
+    "RvVb verwerpt beroep tegen PFAS-lozingsnormen in vergunning voor afvalverwerkings- en tankcleaningbedrijf in Oostrozebeke",
+    "De Raad voor Vergunningsbetwistingen verwierp het beroep van een milieuorganisatie tegen een omgevingsvergunning voor de uitbreiding van een afvalverwerkings- en truck- en tankcleaningbedrijf met herziene lozingsnormen, waaronder tijdelijke normen voor twee jaar voor de meeste PFAS. Volgens de Raad waren de middelen onvoldoende uitgewerkt.",
+    "Het arrest betreft een omgevingsvergunning van 28 maart 2025, verleend in bestuurlijk beroep door de Vlaamse overheid, voor de verandering en uitbreiding van een inrichting voor de verwerking van gevaarlijke en niet-gevaarlijke afvalstoffen met truck- en tankcleaning en een tankstation in Oostrozebeke. De vergunning herziet vooral de lozingsnormen: voor PFOS, PFOA en PFHxS geldt geen specifieke norm meer, voor de langketen-PFAS wordt geen norm meer opgelegd en de overige PFAS-normen gelden slechts twee jaar. De exploitant moet om de zes maanden rapporteren en na één jaar zijn zuiveringstechnieken evalueren. De Raad verwierp alle onderdelen van het enig middel. Wat de watertoets, artikel 7 van de POP-verordening en de beschermings- en verbeteringsverplichting van de Kaderrichtlijn Water betreft, oordeelde hij dat de verzoekende partij geen schending aantoont. Hij wees erop dat de vergunning de PFAS-vracht verlaagt en dat bij gebrek aan een specifieke norm de algemene VLAREM II-norm van 20 ng/l geldt. De Raad erkende dat het halen van de milieukwaliteitsnorm voor PFOS tegen 22 december 2027 met de huidige rapportagegrenzen niet gegarandeerd is, maar zag daarin geen schending, gelet op de mogelijke termijnverlenging op grond van artikel 1.7.2.5.1 Waterwetboek. Ook de exceptie van onwettigheid tegen de VLAREM II-referentiemeetmethoden voor PFAS en de overeenkomstige VLAREL-bepaling werd afgewezen: ze vormen geen plan of programma waarvoor een voorafgaand plan-MER vereist is. Het beroep werd verworpen en de kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 840 euro) komen ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Le CCAP rejette le recours contre les normes de rejet de PFAS d'un permis pour un site de traitement de déchets et de nettoyage de camions-citernes à Oostrozebeke",
+    "Le Conseil pour les contestations de permis (RvVb) a rejeté le recours d'une organisation environnementale contre un permis d'environnement autorisant l'extension d'un site de traitement de déchets et de nettoyage de camions et de citernes, avec des normes de rejet révisées, dont des normes temporaires de deux ans pour la plupart des PFAS. Il a jugé les moyens insuffisamment développés.",
+    "L'arrêt porte sur un permis d'environnement du 28 mars 2025, délivré sur recours administratif par l'autorité flamande, pour la modification et l'extension d'un établissement de traitement de déchets dangereux et non dangereux avec nettoyage de camions et de citernes et station-service à Oostrozebeke. Le permis révise surtout les normes de rejet : plus aucune norme spécifique pour le PFOS, le PFOA et le PFHxS, plus aucune norme pour les PFAS à longue chaîne, et les autres normes PFAS ne valent que deux ans. L'exploitant doit faire rapport tous les six mois et évaluer ses techniques d'épuration après un an. Le Conseil a rejeté toutes les branches du moyen unique. Concernant le test de l'eau, l'article 7 du règlement POP et les obligations de protection et d'amélioration de la directive-cadre sur l'eau, il a estimé que la partie requérante ne démontre aucune violation, relevant que le permis réduit la charge de PFAS et qu'à défaut de norme spécifique, la norme générale de 20 ng/l du VLAREM II s'applique. Il a admis que le respect de la norme de qualité environnementale pour le PFOS au 22 décembre 2027 n'est pas garanti avec les limites de rapportage actuelles, mais n'y a vu aucune violation, vu la possible prorogation du délai sur la base de l'article 1.7.2.5.1 du Code de l'eau. L'exception d'illégalité dirigée contre les méthodes de mesure de référence du VLAREM II pour les PFAS et la disposition correspondante du VLAREL a aussi été écartée : elles ne constituent pas un plan ou programme soumis à une évaluation environnementale préalable (plan-MER). Le recours est rejeté et les dépens (droit de rôle de 200 euros et indemnité de procédure de 840 euros) sont à charge de la partie requérante."
+   ],
+   "scope": "Arrest RvVb.2526.0835 inzake omgevingsvergunning OMV_2020101461: PFAS-lozingsnormen, POP-verordening, Waterwetboek, bijlage 4.2.5.2 VLAREM II, bijlage 3 VLAREL",
+   "dates": {
+    "adopted": "2026-05-28"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0835.",
+     "https://www.dbrc.be/sites/default/files/2026-06/RVVB.2526.0835.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0835"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0834",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Antwerp permit for five houses in Beerse's inner block for failing to answer negative POVC advice",
+   "a": "The Council for Permit Disputes annulled the deputation's permit for an apartment building and five terraced houses in Beerse. The deputation copied the provincial permit committee's reasoning but left out its negative findings without explaining why.",
+   "b": "The ruling concerns an environmental permit granted by the Antwerp deputation on appeal for demolition, a four-apartment building, five houses in the rear garden zone with an underground car park, and temporary dewatering at Kerkstraat 62, Beerse. The Council holds that an authority need not answer every argument or advice point by point, but its reasons must show why it departs from a negative advice of the provincial permit committee (POVC). The deputation accepted that the village centre suits densification, as the POVC did, but did not address the POVC's objection to the degree of densification: small plots, more building and paving, five houses judged too dense. It also left unanswered the objections on the large underground garage footprint, which limits tall greenery in the gardens of houses 1 to 3, and on the six-metre distance to the rear boundary instead of ten metres. Justification offered later by the intervening parties was disregarded. The Council annulled the decision, rejected the request to substitute a refusal itself, and ordered the deputation to take a new decision within three months of the day after notification of the ruling. Costs (€200 registration fee) fall on the deputation. The ruling is dated 28 May 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor vijf woningen in binnengebied Beerse: negatief POVC-advies niet beantwoord",
+    "De Raad voor Vergunningsbetwistingen vernietigt de vergunning van de deputatie voor een meergezinswoning en vijf eengezinswoningen in Beerse. De deputatie nam de motivering van het advies van de provinciale omgevingsvergunningscommissie over, maar liet de negatieve bevindingen weg zonder uitleg.",
+    "Het arrest betreft een omgevingsvergunning die de deputatie van Antwerpen in beroep verleende voor de sloop van een woning, een meergezinswoning met vier appartementen, vijf eengezinswoningen in de achterliggende tuinzone met ondergrondse garage en een tijdelijke bronbemaling aan de Kerkstraat 62 in Beerse. De Raad stelt dat een overheid niet elk argument of advies punt voor punt moet beantwoorden, maar dat uit de motivering moet blijken waarom ze afwijkt van een negatief advies van de provinciale omgevingsvergunningscommissie (POVC). De deputatie nam over dat de dorpskern zich leent tot verdichting, zoals ook de POVC oordeelde, maar ging niet in op het bezwaar tegen de mate van verdichting: kleine percelen, meer bebouwing en verharding, vijf woningen als te dens programma. Ook het bezwaar tegen de ruime footprint van de ondergrondse garage, die de aanplant van hoogstammig groen bij woningen 1 tot 3 beperkt, en tegen de afstand van zes meter in plaats van tien meter tot de achterste perceelgrens bleef onbeantwoord. Een verantwoording die de tussenkomende partijen achteraf gaven, wordt niet in aanmerking genomen. De Raad vernietigt de beslissing, verwerpt het verzoek om zelf tot weigering te besluiten en beveelt de deputatie een nieuwe beslissing te nemen binnen drie maanden na de dag na de betekening van het arrest. De kosten (rolrecht van 200 euro) komen ten laste van de deputatie. Het arrest is gedateerd op 28 mei 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis pour cinq maisons en intérieur d'îlot à Beerse: avis négatif de la POVC sans réponse",
+    "Le Conseil du contentieux des autorisations annule le permis de la députation pour un immeuble à appartements et cinq maisons unifamiliales à Beerse. La députation a repris la motivation de l'avis de la commission provinciale des permis d'environnement en supprimant ses constats négatifs sans explication.",
+    "L'arrêt concerne un permis d'environnement accordé en recours par la députation d'Anvers pour la démolition d'une habitation, un immeuble de quatre appartements, cinq maisons unifamiliales dans la zone de jardin arrière avec garage souterrain et un rabattement temporaire de nappe à la Kerkstraat 62 à Beerse. Le Conseil rappelle qu'une autorité n'est pas tenue de répondre point par point à chaque argument ou avis, mais que sa motivation doit faire apparaître pourquoi elle s'écarte d'un avis négatif de la commission provinciale des permis d'environnement (POVC). La députation a repris l'idée que le centre du village se prête à la densification, comme la POVC, mais n'a pas répondu à l'objection sur le degré de densification: parcelles petites, davantage de bâti et de surfaces imperméabilisées, cinq maisons jugées trop denses. Sont aussi restées sans réponse les objections sur l'emprise importante du garage souterrain, qui limite la plantation de grands arbres chez les maisons 1 à 3, et sur la distance de six mètres au lieu de dix mètres par rapport à la limite arrière de la parcelle. La justification avancée après coup par les parties intervenantes n'est pas prise en compte. Le Conseil annule la décision, rejette la demande de statuer lui-même par un refus et ordonne à la députation de prendre une nouvelle décision dans les trois mois suivant le lendemain de la notification de l'arrêt. Les dépens (droit de rôle de 200 euros) sont à charge de la députation. L'arrêt est daté du 28 mai 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0834: art. 4.3.1 VCRO, art. 60 Omgevingsvergunningsdecreet, art. 2-3 Motiveringswet (omgevingsvergunning Kerkstraat 62, Beerse)",
+   "dates": {
+    "adopted": "2026-05-28"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0834.",
+     "https://www.dbrc.be/sites/default/files/2026-06/RVVB.2526.0834.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0834"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0832",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb refuses to suspend Bruges subdivision permit: no urgency shown as the trees were already felled",
+   "a": "The Council for Permit Disputes rejected a request to suspend an environmental permit for an eight-lot subdivision, demolition and felling of 15 trees in Assebroek (Bruges). Urgency was not shown, because the claimed harm, the felling and transplanting of trees, had already occurred.",
+   "b": "The ruling concerns a neighbouring party's request to suspend an environmental permit granted in last administrative instance on 20 November 2025 for subdividing land in eight lots, demolishing four buildings and felling 15 trees. A suspension requires both urgency and a serious ground (article 40 DBRC Decree), and the applicant must substantiate the urgency in the request. The applicant relied only on the felling and transplanting of trees; the permit holder showed with photographs that this had already been done, so a suspension could no longer have a useful effect. The applicant did not invoke other harm and did not target the remaining construction works. The Council adds that immediate enforceability applies to every permit issued in last administrative instance and is not urgency in itself; case-specific, verifiable facts are required, and waiting for the normal annulment procedure is the common lot of every applicant. Because urgency was not shown, the serious grounds were not examined and the suspension request was rejected. The applicant bears the costs: a 100 euro registration fee and an 840 euro procedural indemnity owed to the defending authority; an intervening party can neither be ordered to pay nor be awarded such an indemnity. The annulment proceedings are not decided by this ruling, which was delivered on 28 May 2026.",
+   "nl": [
+    "RvVb verwerpt schorsing van verkavelingsvergunning in Brugge: geen hoogdringendheid want bomen al gerooid",
+    "De Raad voor Vergunningsbetwistingen verwerpt de vordering tot schorsing van een omgevingsvergunning voor de verkaveling in acht kavels, de sloop en het rooien van 15 bomen in Assebroek (Brugge). De hoogdringendheid is niet aangetoond omdat het rooien en verplanten van de bomen, de aangevoerde schade, al had plaatsgevonden.",
+    "Het arrest betreft de vordering van een naburige partij tot schorsing van een omgevingsvergunning die in laatste administratieve aanleg op 20 november 2025 werd verleend voor de verkaveling van een terrein in acht kavels, de sloop van vier gebouwen en het rooien van 15 bomen. Voor een schorsing zijn hoogdringendheid en een ernstig middel vereist (artikel 40 DBRC-decreet), en de verzoeker moet de hoogdringendheid in het verzoekschrift onderbouwen. De verzoeker steunde zich enkel op het rooien en verplanten van bomen; de vergunninghouder toonde met foto's aan dat dit al was uitgevoerd, zodat een schorsing geen nuttig effect meer kon hebben. De verzoeker voerde geen andere nadelen aan en viseerde de overige bouwwerken niet. De Raad voegt eraan toe dat de onmiddellijke uitvoerbaarheid geldt voor elke vergunning in laatste administratieve aanleg en op zich geen hoogdringendheid vormt; concrete, verifieerbare gegevens eigen aan de zaak zijn vereist, en het afwachten van de normale procedure is het lot van elke verzoeker. Omdat de hoogdringendheid niet is aangetoond, werden de ernstige middelen niet onderzocht en werd de schorsing verworpen. De verzoeker draagt de kosten: 100 euro rolrecht en 840 euro rechtsplegingsvergoeding aan de verwerende partij; een tussenkomende partij kan een dergelijke vergoeding noch verschuldigd zijn noch toegekend krijgen. Het arrest werd uitgesproken op 28 mei 2026 en beslist niet over de vernietiging."
+   ],
+   "fr": [
+    "Le CCA refuse de suspendre un permis de lotir à Bruges : pas d'extrême urgence, les arbres étant déjà abattus",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette la demande de suspension d'un permis d'environnement pour le lotissement en huit lots, la démolition et l'abattage de 15 arbres à Assebroek (Bruges). L'urgence n'est pas démontrée, car l'abattage et le déplacement des arbres, préjudice invoqué, avaient déjà eu lieu.",
+    "L'arrêt concerne la demande d'une partie voisine de suspendre un permis d'environnement délivré en dernière instance administrative le 20 novembre 2025 pour le lotissement d'un terrain en huit lots, la démolition de quatre bâtiments et l'abattage de 15 arbres. Une suspension requiert l'urgence et un moyen sérieux (article 40 du décret DBRC), et le requérant doit étayer l'urgence dans sa requête. Le requérant s'est fondé uniquement sur l'abattage et le déplacement d'arbres ; le titulaire du permis a prouvé par des photographies que ceux-ci étaient déjà réalisés, de sorte qu'une suspension ne pouvait plus avoir d'effet utile. Le requérant n'a invoqué aucun autre préjudice et n'a pas visé les autres travaux de construction. Le Conseil ajoute que l'exécution immédiate vaut pour tout permis délivré en dernière instance administrative et ne constitue pas en soi l'urgence ; des éléments concrets et vérifiables propres à l'affaire sont requis, et attendre la procédure normale est le sort de tout requérant. L'urgence n'étant pas démontrée, les moyens sérieux n'ont pas été examinés et la suspension a été rejetée. Les dépens sont à charge du requérant : 100 euros de droit de rôle et 840 euros d'indemnité de procédure dus à la partie adverse ; une partie intervenante ne peut ni être condamnée à une telle indemnité ni se la voir accorder. L'arrêt a été prononcé le 28 mai 2026 et ne tranche pas la question de l'annulation."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0832 van 28 mei 2026: schorsingsvordering tegen omgevingsvergunning (verkaveling, sloop, rooien), artikel 40 DBRC-decreet (hoogdringendheid) en artikel 21, §7 en 33 (kosten)",
+   "dates": {
+    "adopted": "2026-05-28"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0832.",
+     "https://www.dbrc.be/sites/default/files/2026-06/RVVB.2526.0832.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0832"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0826",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Aalter supermarket permit for lacking residential-zone compatibility test",
+   "a": "The Council for Permit Disputes annulled an environmental permit for rebuilding a supermarket with a food workshop in Aalter. The permitting authority had treated a supermarket as compatible with a residential zone in principle, without the double test of Art. 5.1.0 of the Inrichtingsbesluit.",
+   "b": "The ruling concerns the permit of 6 February 2025 for demolishing buildings and rebuilding a supermarket with a food workshop at Kloosterstraat 66 and 68 in Aalter, in a residential zone under the Eeklo-Aalter zoning plan, together with the acknowledgement of several class 3 notifications. The Council holds that in a residential zone housing is the main purpose, and trade is allowed only if it is compatible with that purpose (no need to separate it into a designated area, given its nature and size, any intrinsic nuisance and the character of the zone) and compatible with the immediate surroundings. The authority wrongly assumed that a supermarket supports housing and is compatible in principle, and its good spatial planning reasoning and noise assessment cannot replace this test, which has a different purpose. The reasoning was also insufficient because the appellant had expressly raised the objection, which triggers a stricter duty to state reasons. The plea that the amended project was a disguised new application, which would exclude Art. 64 of the Omgevingsvergunningsdecreet, was rejected, and the other pleas were not examined. The Council orders a new decision on the administrative appeal within three months of the day after notification of the ruling and puts the costs (EUR 200 registry fee and EUR 840 procedural indemnity) on the defending authority.",
+   "nl": [
+    "RvVb vernietigt supermarktvergunning in Aalter wegens ontbrekende toets aan woongebied",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor het herbouwen van een supermarkt met voedingsatelier in Aalter. De vergunningverlenende overheid achtte een supermarkt principieel bestaanbaar in woongebied, zonder de dubbele toets van artikel 5.1.0 van het Inrichtingsbesluit.",
+    "Het arrest betreft de vergunning van 6 februari 2025 voor het slopen van gebouwen en het herbouwen van een supermarkt met voedingsatelier aan de Kloosterstraat 66 en 68 in Aalter, in woongebied volgens het gewestplan Eeklo-Aalter, samen met de akte van enkele klasse 3-meldingen. De Raad oordeelt dat in een woongebied wonen de hoofdbestemming is en dat handel enkel kan worden toegelaten als die bestaanbaar is met die bestemming (geen afzondering in een daartoe aangewezen gebied nodig, gelet op aard en omvang, een eventueel intrinsiek hinderlijk karakter en het bijzondere karakter van het gebied) én verenigbaar is met de onmiddellijke omgeving. De overheid ging ten onrechte ervan uit dat een supermarkt de woonfunctie ondersteunt en principieel bestaanbaar is. De motivering over de goede ruimtelijke ordening en de geluidsbeoordeling kan deze toets niet vervangen, want die hebben een andere finaliteit. De motivering was bovendien onvoldoende omdat de verzoekende partij de bezwaren uitdrukkelijk had aangevoerd, wat een verstrengde motiveringsplicht meebrengt. Het middel dat de gewijzigde projectinhoud een verdoken nieuwe aanvraag zou zijn, waardoor artikel 64 van het Omgevingsvergunningsdecreet niet kon worden toegepast, werd verworpen. De overige middelen werden niet onderzocht. De Raad beveelt een nieuwe beslissing over het bestuurlijk beroep binnen drie maanden vanaf de dag na de betekening van het arrest en legt de kosten (200 euro rolrecht en 840 euro rechtsplegingsvergoeding) op aan de verwerende partij."
+   ],
+   "fr": [
+    "Le CCA annule un permis de supermarché à Aalter faute d'examen de la compatibilité avec la zone d'habitat",
+    "Le Conseil pour les contestations des autorisations annule un permis d'environnement pour la reconstruction d'un supermarché avec atelier alimentaire à Aalter. L'autorité avait jugé un supermarché compatible en principe avec la zone d'habitat, sans le double examen de l'article 5.1.0 de l'arrêté royal du 28 décembre 1972.",
+    "L'arrêt concerne le permis du 6 février 2025 pour la démolition de bâtiments et la reconstruction d'un supermarché avec atelier alimentaire à la Kloosterstraat 66 et 68 à Aalter, en zone d'habitat selon le plan de secteur Eeklo-Aalter, ainsi que la prise d'acte de plusieurs déclarations de classe 3. Le Conseil juge qu'en zone d'habitat, l'habitat est la destination principale et que le commerce n'est admis que s'il est compatible avec cette destination (pas de nécessité de l'isoler dans une zone désignée, compte tenu de sa nature et de son ampleur, de son éventuel caractère intrinsèquement gênant et du caractère particulier de la zone) et compatible avec l'environnement immédiat. L'autorité a admis à tort qu'un supermarché soutient la fonction d'habitat et est compatible en principe. La motivation relative au bon aménagement du territoire et l'appréciation du bruit ne peuvent remplacer cet examen, car leur finalité est différente. La motivation était en outre insuffisante, la partie requérante ayant expressément soulevé ces objections, ce qui entraîne une obligation de motivation renforcée. Le moyen selon lequel le projet modifié constituerait une demande nouvelle déguisée, excluant l'application de l'article 64 du décret sur le permis d'environnement, a été rejeté, et les autres moyens n'ont pas été examinés. Le Conseil ordonne de prendre une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt et met les dépens (200 euros de droit de rôle et 840 euros d'indemnité de procédure) à charge de la partie adverse."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0826: art. 5.1.0 Inrichtingsbesluit, art. 4.3.1 VCRO, art. 13 Handelsvestigingsdecreet, art. 64 Omgevingsvergunningsdecreet, Motiveringswet",
+   "dates": {
+    "adopted": "2026-05-28"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0826.",
+     "https://www.dbrc.be/sites/default/files/2026-06/RVVB.2526.0826.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0826"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
