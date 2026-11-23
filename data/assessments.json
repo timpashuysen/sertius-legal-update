@@ -49239,7 +49239,8 @@
 ],
 "reason": "Derogations from the ban on destroying unsold consumer products under ESPR.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0296"
 },
 "eu:32026R0294": {
 "v": 4,
@@ -49277,7 +49278,8 @@
 ],
 "reason": "Implementing rules for disclosing discarded unsold consumer products under ESPR.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0002"
 },
 "eu:32026L0288": {
 "v": 4,
@@ -49363,7 +49365,8 @@
 ],
 "reason": "Inter-regional agreement on extended producer responsibility for waste streams and litter.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041882"
 },
 "cass:F.23.0036.F": {
 "v": 4,
@@ -49475,7 +49478,8 @@
 ],
 "reason": "Amends Flemish list of notifiable spatial planning acts.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041787"
 },
 "codex:1041786": {
 "v": 4,
@@ -49487,7 +49491,8 @@
 ],
 "reason": "Changes urban acts exempt from permits, including watercourse-related rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041786"
 },
 "codex:1041769": {
 "v": 4,
@@ -49507,7 +49512,8 @@
 ],
 "reason": "Traffic rules inside a Walloon nature reserve; nature protection measure.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-130752"
 },
 "wallex:130751": {
 "v": 4,
@@ -49518,7 +49524,8 @@
 ],
 "reason": "Amends Walloon sustainability and GHG criteria for biomass energy.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-130751"
 },
 "wallex:130743": {
 "v": 4,
@@ -49529,7 +49536,8 @@
 ],
 "reason": "Map of roads under Walloon nature reserve circulation rules in Hautes Fagnes.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-130743"
 },
 "wallex:130636": {
 "v": 4,
@@ -49540,7 +49548,8 @@
 ],
 "reason": "Amends Walloon rules on energy communities and energy sharing.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-130636"
 },
 "wallex:130575": {
 "v": 4,
@@ -49570,7 +49579,8 @@
 ],
 "reason": "Where a RUP and a municipal parking ordinance conflict, the RUP's parking norms prevail; hearing duty in appeal does not require prior disclosure of the deciding authority's motives.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0477"
 },
 "rvvb:RVVB.A.2526.0475": {
 "v": 4,
@@ -49582,7 +49592,8 @@
 ],
 "reason": "A tacit rejection of an administrative appeal adopts the first-instance motives; a municipal road decision annulled by the minister cannot support the permit, and the deputation lost competence after ",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0475"
 },
 "rvvb:RVVB.A.2526.0474": {
 "v": 4,
@@ -49594,7 +49605,8 @@
 ],
 "reason": "A substitute of the absent head official may validly lodge a administrative appeal under the permit decree without a specific delegation; also reads 'woningbijgebouw' in the zoning-change decree.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0474"
 },
 "rvvb:RVVB.A.2526.0471": {
 "v": 4,
@@ -49606,7 +49618,9 @@
 ],
 "reason": "Restates that departing from an unfavourable POA advice requires explicit, concrete reasons; permits are issued without prejudice to civil rights; fire-advice compliance is an enforcement matter.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annulment action dismissed; the Council applies settled case law on motivation and civil rights to one apartment-building permit, with no new point of environmental law."
 },
 "rvvb:RVVB.A.2526.0470": {
 "v": 4,
@@ -62834,7 +62848,8 @@
 ],
 "reason": "After annulment of a pre-CoDT certificat d'urbanisme n° 2, the authority must refer the request under D.IV.110 al.3; a later mise en demeure yields no implicit refusal.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265686"
 },
 "rvs:265685": {
 "v": 4,
@@ -67548,12 +67563,12 @@
 "this_run": 13,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 214,
+"waiting": 200,
 "api": {
 "calls": 14,
-"input_tokens": 159305,
-"output_tokens": 42436,
-"usd": 0.743
+"input_tokens": 160714,
+"output_tokens": 45075,
+"usd": 0.7722
 },
 "updated": "2026-11-23"
 },
