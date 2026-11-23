@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:33:01Z",
+ "updated": "2026-11-23T04:41:36Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -14209,6 +14209,464 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0826"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042078",
+   "d": "2026-06-05",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flemish shipping, housing, KLIP and heritage decrees aligned with the Enforcement Framework Decree",
+   "a": "A Flemish decree makes the Framework Decree on Flemish Enforcement of 14 July 2023 applicable to the Shipping Decree, the Flemish Housing Code, the KLIP Decree and the movable heritage decree. It converts their criminal penalties into the Criminal Code's penalty levels with fixed fine ceilings, and sets alternative administrative fines.",
+   "b": "The decree affects operators, owners and masters of vessels, owners and holders of rights in residential property, parties subject to the KLIP Decree, holders of exceptionally important movable cultural heritage, and the designated enforcement authorities. Under the Shipping Decree, the offences become level 1 penalties (fine ceiling EUR 100,000) or level 2 penalties (ceiling EUR 400,000). Alternative administrative fines are EUR 50 to 100,000 and EUR 200 to 500,000 respectively, and infringement fines are EUR 50 to 10,000 each. All administrative fines are indexed every 1 January on the health index, with December 2026 as the base. The Shipping Decree and the KLIP Decree now follow the Framework Decree, and the Government or its delegate designates restoration and fining authorities. The Housing Code replaces its own repair-claim procedure and register with the Framework Decree's public restoration measures and measures register. Housing penalties become level 2 or 3 (ceilings EUR 200,000 and EUR 800,000). The KLIP Decree moves to level 1 with a ceiling of EUR 800,000, and the heritage decree to levels 2 and 3 (ceilings EUR 800,000 and EUR 1,600,000), with attempt punished like the completed offence. The Framework Decree itself is also amended: a definition of 'transport means' including drones, port companies and public-task bodies as supervisors, a default alternative fine of half the criminal fine, and a possible maximum restoration period. The decree enters into force on 8 September 2026. Articles 2 to 8 and 10 to 13 follow on 1 January 2028, articles 58 and 61, 1° two years after publication (12 June 2028, earlier if the Government decides), and article 82 on the day of publication.",
+   "nl": [
+    "Vlaamse decreten over scheepvaart, wonen, KLIP en erfgoed afgestemd op het Kaderdecreet Vlaamse Handhaving",
+    "Een Vlaams decreet maakt het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 van toepassing op het Scheepvaartdecreet, de Vlaamse Codex Wonen, het KLIP-decreet en het decreet over roerend cultureel erfgoed van uitzonderlijk belang. De strafbepalingen worden omgezet naar de strafniveaus van het Strafwetboek met vaste maxima voor de geldboete, en er komen alternatieve bestuurlijke geldboetes.",
+    "Het decreet treft exploitanten, eigenaars en gezagvoerders van schepen, eigenaars en houders van zakelijke rechten op woningen, partijen die onder het KLIP-decreet vallen, houders van roerend cultureel erfgoed van uitzonderlijk belang en de aangewezen handhavingsinstanties. In het Scheepvaartdecreet worden de misdrijven bestraft met een straf van niveau 1 (maximale geldboete 100.000 euro) of niveau 2 (maximum 400.000 euro). De alternatieve bestuurlijke geldboetes bedragen respectievelijk 50 tot 100.000 euro en 200 tot 500.000 euro, en de boetes voor inbreuken 50 tot 10.000 euro per inbreuk. Alle bestuurlijke geldboetes worden elk jaar op 1 januari geïndexeerd op basis van de gezondheidsindex, met december 2026 als aanvangsindexcijfer. Het Scheepvaartdecreet en het KLIP-decreet volgen voortaan het Kaderdecreet, en de Vlaamse Regering of haar gemachtigde wijst herstel- en beboetingsinstanties aan. De Vlaamse Codex Wonen vervangt de eigen herstelvordering en het register van herstelvorderingen door de publieke herstelmaatregelen en het maatregelenregister van het Kaderdecreet. De straffen in de Codex Wonen worden niveau 2 of 3 (maxima 200.000 en 800.000 euro). Het KLIP-decreet gaat naar niveau 1 met een maximum van 800.000 euro, en het erfgoeddecreet naar niveau 2 en 3 (maxima 800.000 en 1.600.000 euro), waarbij de poging met dezelfde straf wordt bestraft als het voltooide misdrijf. Ook het Kaderdecreet zelf wordt gewijzigd: een definitie van vervoermiddel met inbegrip van drones, havenbedrijven en instellingen met een publieke taak als toezichthouders, een standaard alternatieve geldboete ter hoogte van de helft van de strafrechtelijke geldboete en een mogelijke maximale hersteltermijn. Het decreet treedt in werking op 8 september 2026. Artikel 2 tot en met 8 en artikel 10 tot en met 13 volgen op 1 januari 2028, artikel 58 en artikel 61, 1° twee jaar na de bekendmaking (12 juni 2028, eerder als de Vlaamse Regering dat bepaalt) en artikel 82 op de dag van de bekendmaking."
+   ],
+   "fr": [
+    "Décrets flamands sur la navigation, le logement, le KLIP et le patrimoine alignés sur le décret-cadre sur l'application",
+    "Un décret flamand rend le décret-cadre flamand du 14 juillet 2023 relatif à l'application de la réglementation (Kaderdecreet Vlaamse Handhaving) applicable au décret sur la navigation, au Code flamand du logement, au décret KLIP et au décret sur le patrimoine culturel mobile d'importance exceptionnelle. Les peines pénales sont converties en niveaux de peine du Code pénal avec des plafonds d'amende fixes, et des amendes administratives alternatives sont prévues.",
+    "Le décret touche les exploitants, propriétaires et capitaines de navires, les propriétaires et titulaires de droits réels sur des logements, les parties soumises au décret KLIP, les détenteurs de patrimoine culturel mobile d'importance exceptionnelle et les autorités d'exécution désignées. Dans le décret sur la navigation, les infractions sont punies d'une peine de niveau 1 (amende maximale de 100.000 euros) ou de niveau 2 (maximum de 400.000 euros). Les amendes administratives alternatives s'élèvent respectivement à 50 à 100.000 euros et à 200 à 500.000 euros, et les amendes pour infractions à 50 à 10.000 euros par infraction. Toutes les amendes administratives sont indexées chaque 1er janvier sur l'indice santé, avec décembre 2026 comme indice de départ. Le décret sur la navigation et le décret KLIP suivent désormais le décret-cadre, et le Gouvernement flamand ou son délégué désigne les instances de remise en état et les instances d'amende. Le Code du logement remplace son propre procédé de demande de remise en état et son registre par les mesures de réparation publiques et le registre des mesures du décret-cadre. Les peines du Code du logement passent aux niveaux 2 ou 3 (plafonds de 200.000 et 800.000 euros). Le décret KLIP passe au niveau 1 avec un plafond de 800.000 euros, et le décret sur le patrimoine aux niveaux 2 et 3 (plafonds de 800.000 et 1.600.000 euros), la tentative étant punie comme l'infraction consommée. Le décret-cadre lui-même est aussi modifié : définition de moyen de transport incluant les drones, entreprises portuaires et organismes à mission publique comme surveillants, amende alternative par défaut égale à la moitié de l'amende pénale et possibilité de fixer un délai maximal de remise en état. Le décret entre en vigueur le 8 septembre 2026. Les articles 2 à 8 et 10 à 13 suivent le 1er janvier 2028, les articles 58 et 61, 1° deux ans après la publication (12 juin 2028, plus tôt si le Gouvernement le décide) et l'article 82 le jour de la publication."
+   ],
+   "scope": "Decreet van 5 juni 2026 tot wijziging van diverse decreten (tweede algemene implementatie Kaderdecreet Vlaamse Handhaving): o.a. Scheepvaartdecreet, Vlaamse Codex Wonen 2021, KLIP-decreet, erfgoeddecreet 2003 en het Kaderdecreet van 14 juli 2023",
+   "dates": {
+    "adopted": "2026-06-05",
+    "published": "2026-06-12",
+    "in_force": "2026-09-08"
+   },
+   "u": [
+    [
+     "Decreet tot wijziging van diverse decreten, wat betreft de tweede algemene implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042078&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042078"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-gwh-68-2026",
+   "d": "2026-05-28",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Constitutional Court dismisses annulment action against Walloon Subsurface Resources Code",
+   "a": "In judgment 68/2026 of 28 May 2026 the Constitutional Court dismisses in full the action to annul the Walloon decree of 14 March 2024 establishing the Code for the management of subsurface resources. The permit, easement and delegation rules examined stay in place.",
+   "b": "The judgment concerns operators seeking exclusive exploration or exploitation permits for subsurface resources in Wallonia, and owners of land above deposits. The Court rejects the action brought by an environmental association and three individuals against the decree and the Code it inserts into the Environmental Code. It holds that the statutory easements of public utility for permit holders are sufficiently precise and foreseeable, pursue a general-interest aim and are proportionate. It relies on the safeguards of articles D.VII.2 to D.VII.8: public inquiry, compensation, damages, relocation and purchase or expropriation. It accepts the easement arising by operation of the decree for installations deeper than 100 metres, as surface enjoyment down to that depth is preserved. It finds no unjustified difference in treatment in the rule that only legal persons, including one being formed, may hold an exploitation permit, nor in the right to demolish works built in breach of the easement rules. It also finds that the delegations to the Walloon Government (Subsurface Council, plans and progress reports, procedure for declaring public utility, prohibitions near installations, simplified applications) sufficiently define their subject. The ruling is dated 28 May 2026; the new rules were not suspended or amended by it.",
+   "nl": [
+    "Grondwettelijk Hof verwerpt beroep tegen het Waalse Wetboek van het beheer van de ondergrondse rijkdommen",
+    "Bij arrest nr. 68/2026 van 28 mei 2026 verwerpt het Grondwettelijk Hof volledig het beroep tot vernietiging van het Waalse decreet van 14 maart 2024 tot instelling van het Wetboek van het beheer van de ondergrondse rijkdommen. De onderzochte regels inzake vergunningen, erfdienstbaarheden en machtigingen blijven gelden.",
+    "Het arrest betreft exploranten en exploitanten die een exclusieve exploratie- of exploitatievergunning voor ondergrondse rijkdommen in Wallonië willen verkrijgen, en eigenaars van gronden boven afzettingen. Het Hof verwerpt het beroep van een milieuvereniging en drie natuurlijke personen tegen het decreet en het Wetboek dat daarbij in het Milieuwetboek is ingevoegd. Het oordeelt dat de wettelijke erfdienstbaarheden van openbaar nut ten voordele van vergunninghouders voldoende nauwkeurig en voorzienbaar zijn, een doel van algemeen belang nastreven en evenredig zijn. Het steunt daarbij op de waarborgen van de artikelen D.VII.2 tot D.VII.8: openbaar onderzoek, vergoeding, schadevergoeding, verplaatsing en aankoop of onteigening. Het aanvaardt de erfdienstbaarheid die van rechtswege uit het decreet voortvloeit voor installaties dieper dan honderd meter, aangezien het genot van de oppervlakte tot die diepte gewaarborgd blijft. Het vindt geen onverantwoord verschil in behandeling in de regel dat enkel rechtspersonen, ook in oprichting, een exploitatievergunning kunnen houden, noch in het recht om in strijd met de erfdienstbaarheid opgerichte werken af te breken. Ook de machtigingen aan de Waalse Regering (Ondergrondraad, plannen en voortgangsverslagen, procedure voor de verklaring van algemeen nut, verbodsbepalingen nabij installaties, vereenvoudigde aanvragen) bepalen volgens het Hof het onderwerp voldoende. Het arrest dateert van 28 mei 2026; het stelde de nieuwe regels niet buiten werking en wijzigde ze niet."
+   ],
+   "fr": [
+    "La Cour constitutionnelle rejette le recours contre le Code wallon de la gestion des ressources du sous-sol",
+    "Par son arrêt n° 68/2026 du 28 mai 2026, la Cour constitutionnelle rejette entièrement le recours en annulation du décret wallon du 14 mars 2024 instituant le Code de la gestion des ressources du sous-sol. Les règles examinées en matière de permis, de servitudes et d'habilitations restent applicables.",
+    "L'arrêt concerne les opérateurs qui souhaitent obtenir un permis exclusif d'exploration ou d'exploitation de ressources du sous-sol en Wallonie, ainsi que les propriétaires de terrains situés au-dessus de gisements. La Cour rejette le recours d'une association de protection de l'environnement et de trois personnes physiques contre le décret et le Code qu'il insère dans le Code de l'environnement. Elle juge que les servitudes légales d'utilité publique au profit des titulaires de permis sont suffisamment précises et prévisibles, poursuivent un but d'intérêt général et sont proportionnées. Elle s'appuie sur les garanties des articles D.VII.2 à D.VII.8 : enquête publique, indemnité, réparation des dommages, déplacement et acquisition ou expropriation. Elle admet la servitude résultant de plein droit du décret pour les installations situées à plus de cent mètres de profondeur, la jouissance de la surface étant préservée jusqu'à cette profondeur. Elle ne relève aucune différence de traitement injustifiée dans la règle selon laquelle seules les personnes morales, y compris en formation, peuvent détenir un permis d'exploitation, ni dans le droit de démolir les ouvrages érigés en violation des règles de la servitude. Elle estime aussi que les habilitations données au Gouvernement wallon (Conseil du sous-sol, plans et rapports d'avancement, procédure de déclaration d'utilité publique, interdictions à proximité des installations, demandes simplifiées) définissent suffisamment leur objet. L'arrêt date du 28 mai 2026 ; il n'a ni suspendu ni modifié les nouvelles règles."
+   ],
+   "scope": "Decreet van het Waalse Gewest van 14 maart 2024 tot instelling van het Wetboek van het beheer van de ondergrondse rijkdommen (o.a. artt. D.II.1, D.VI.3, D.VI.5, D.VI.51, D.VII.2 tot D.VII.10, D.XII.13)",
+   "dates": {
+    "adopted": "2026-05-28"
+   },
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 68/2026: het beroep tot vernietiging van het decreet van het Waalse Gewest van 14 maart 2024 « tot instelling",
+     "https://nl.const-court.be/public/n/2026/2026-068n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:68/2026"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042059",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders: Onroerend Erfgoed's administrator-general to designate the agency's administrative fining staff",
+   "a": "A ministerial decision authorises the administrator-general of the Flemish heritage agency Onroerend Erfgoed to designate the agency staff who act as the fining authority. It applies to the enforcement of the immovable and maritime (floating) heritage rules.",
+   "b": "The decision concerns the Flemish enforcement of the immovable heritage and floating heritage legislation, so it matters to heritage owners, project developers and authorities exposed to administrative fines under those rules. Under the Onroerenderfgoedbesluit, the minister or the minister's delegate designates the agency staff who act as the fining authority (beboetingsinstantie). The Flemish minister now authorises the administrator-general of the agency to make these designations. The decision sets no new substantive obligations or fine levels. It only specifies who designates the staff members who impose fines. It enters into force on the day of its publication in the Belgisch Staatsblad, 4 June 2026. The decision is dated 28 May 2026.",
+   "nl": [
+    "Vlaanderen: administrateur-generaal Onroerend Erfgoed wijst personeelsleden aan als beboetingsinstantie",
+    "Een ministerieel besluit machtigt de administrateur-generaal van het agentschap Onroerend Erfgoed om de personeelsleden aan te wijzen die als beboetingsinstantie optreden. Het geldt voor de handhaving van de regelgeving over onroerend en varend erfgoed.",
+    "Het besluit betreft de Vlaamse handhaving van de regelgeving over onroerend en varend erfgoed en is dus van belang voor eigenaars van erfgoed, projectontwikkelaars en overheden die met bestuurlijke geldboetes te maken kunnen krijgen. Krachtens het Onroerenderfgoedbesluit wijst de minister, of de gemachtigde van de minister, de personeelsleden van het agentschap aan die optreden als beboetingsinstantie. De Vlaamse minister machtigt nu de administrateur-generaal van het agentschap om die aanwijzingen te doen. Het besluit voert geen nieuwe inhoudelijke verplichtingen of boetebedragen in. Het bepaalt enkel wie de personeelsleden aanwijst die boetes opleggen. Het treedt in werking op de dag van de bekendmaking in het Belgisch Staatsblad, namelijk 4 juni 2026. Het besluit is gedateerd op 28 mei 2026."
+   ],
+   "fr": [
+    "Flandre : l'administrateur général d'Onroerend Erfgoed désigne les agents chargés d'infliger les amendes",
+    "Un arrêté ministériel autorise l'administrateur général de l'agence Onroerend Erfgoed (patrimoine immobilier) à désigner les membres du personnel qui agissent comme instance chargée d'infliger les amendes administratives. Il vise l'application des règles relatives au patrimoine immobilier et au patrimoine navigant.",
+    "L'arrêté concerne le maintien flamand de la réglementation sur le patrimoine immobilier et le patrimoine navigant. Il intéresse donc les propriétaires de biens patrimoniaux, les porteurs de projet et les autorités susceptibles d'être exposés à des amendes administratives. En vertu de l'Onroerenderfgoedbesluit, le ministre ou son délégué désigne les membres du personnel de l'agence qui agissent comme instance chargée d'infliger les amendes (beboetingsinstantie). Le ministre flamand autorise désormais l'administrateur général de l'agence à procéder à ces désignations. L'arrêté n'introduit ni nouvelle obligation de fond ni montant d'amende. Il précise seulement qui désigne les agents qui infligent les amendes. Il entre en vigueur le jour de sa publication au Moniteur belge, soit le 4 juin 2026. L'arrêté est daté du 28 mai 2026."
+   ],
+   "scope": "Ministerieel besluit van 28 mei 2026: aanduiding van de administrateur-generaal van Onroerend Erfgoed als gemachtigde (art. 12.5.1 Onroerenderfgoedbesluit van 12 juli 2013)",
+   "dates": {
+    "adopted": "2026-05-28",
+    "published": "2026-06-04",
+    "in_force": "2026-06-04"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot het aanduiden van een gemachtigde, bevoegd voor de aanwijzing van personeelsleden van het agentschap Onroerend Erfg",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042059&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042059"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042052",
+   "d": "2026-05-28",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders appoints 33 enforcement supervisors as judicial police officers and/or for visitations",
+   "a": "A ministerial decree designates supervisors for environmental and immovable heritage enforcement in Flanders. Some receive the status of judicial police officer and deputy public prosecutor, some may carry out visitations under the Flemish Enforcement Framework Decree, and some have both.",
+   "b": "The decree concerns supervisors of the municipalities of Rumst, Kontich, Herentals and the city of Antwerp, of the intermunicipal associations IGEMO and SOLVA, and one Flemish supervisor for environmental enforcement. It gives one supervisor for Rumst the status of judicial police officer and deputy public prosecutor. It designates 26 supervisors for IGEMO, Herentals and Antwerp as authorised for visitations under Article 22, §1, first paragraph, of the Flemish Enforcement Framework Decree of 14 July 2023. Six further supervisors (four for SOLVA, one for Kontich and one for environmental enforcement) receive both the judicial police status and the visitation authorisation. Each designation applies to the person's own tasks and powers. An appointment ends on the day the person leaves the local authority or the Flemish administration, or loses the supervisory powers concerned. The decree is based on the Environmental Enforcement Decree of 23 May 2025 and the Immovable Heritage Decree of 16 May 2014, and enters into force on 1 June 2026.",
+   "nl": [
+    "Vlaanderen wijst 33 toezichthouders aan als officier van gerechtelijke politie en/of voor visitaties",
+    "Een ministerieel besluit wijst toezichthouders aan voor de omgevingshandhaving en de handhaving van het Onroerenderfgoeddecreet in Vlaanderen. Sommigen krijgen de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings, anderen mogen visitaties uitvoeren op grond van het Kaderdecreet Vlaamse Handhaving, en sommigen hebben beide.",
+    "Het besluit betreft toezichthouders van de gemeenten Rumst, Kontich en Herentals, de stad Antwerpen, de intergemeentelijke samenwerkingsverbanden IGEMO en SOLVA en één Vlaamse toezichthouder voor de omgevingshandhaving. Een toezichthouder voor Rumst krijgt de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings. Zesentwintig toezichthouders voor IGEMO, Herentals en Antwerpen worden aangewezen als toezichthouder bevoegd voor een visitatie als vermeld in artikel 22, §1, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023. Zes andere toezichthouders (vier voor SOLVA, één voor Kontich en één voor de omgevingshandhaving) krijgen zowel de hoedanigheid van officier van gerechtelijke politie als de bevoegdheid voor visitaties. Elke aanwijzing geldt voor de eigen opdrachten en bevoegdheden. Een aanstelling eindigt op de dag dat de betrokkene de administratie van het lokaal bestuur of de Vlaamse administratie verlaat of de bevoegdheden als toezichthouder verliest. Het besluit steunt onder meer op het Omgevingshandhavingsbesluit van 23 mei 2025 en het Onroerenderfgoedbesluit van 16 mei 2014 en treedt in werking op 1 juni 2026."
+   ],
+   "fr": [
+    "La Flandre désigne 33 contrôleurs comme officiers de police judiciaire et/ou pour des visitations",
+    "Un arrêté ministériel désigne des contrôleurs pour le maintien de l'environnement et du patrimoine immobilier en Flandre. Certains reçoivent la qualité d'officier de police judiciaire – officier auxiliaire du procureur du Roi, d'autres peuvent procéder à des visitations en vertu du décret-cadre flamand sur le maintien, et certains cumulent les deux.",
+    "L'arrêté concerne des contrôleurs des communes de Rumst, Kontich et Herentals, de la ville d'Anvers, des intercommunales IGEMO et SOLVA, ainsi qu'un contrôleur flamand chargé du maintien de l'environnement. Un contrôleur de Rumst reçoit la qualité d'officier de police judiciaire – officier auxiliaire du procureur du Roi. Vingt-six contrôleurs d'IGEMO, de Herentals et d'Anvers sont désignés comme contrôleurs compétents pour une visitation au sens de l'article 22, §1er, alinéa 1er, du décret-cadre flamand sur le maintien du 14 juillet 2023. Six autres contrôleurs (quatre pour SOLVA, un pour Kontich et un pour le maintien de l'environnement) reçoivent à la fois la qualité d'officier de police judiciaire et la compétence de visitation. Chaque désignation vaut pour les missions et compétences propres de l'intéressé. Une désignation prend fin le jour où la personne quitte l'administration du pouvoir local ou l'administration flamande, ou perd ses compétences de contrôleur. L'arrêté repose notamment sur l'arrêté du 23 mai 2025 relatif au maintien de l'environnement et sur l'arrêté du 16 mai 2014 relatif au patrimoine immobilier, et entre en vigueur le 1er juin 2026."
+   ],
+   "scope": "Ministerieel besluit van 28 mei 2026 – aanwijzing van toezichthouders (OGP-hulpofficier van de procureur des Konings en visitatie, art. 22, §1, eerste lid Kaderdecreet Vlaamse Handhaving) voor omgevingshandhaving en Onroerenderfgoeddecreet",
+   "dates": {
+    "adopted": "2026-05-28",
+    "published": "2026-06-03",
+    "in_force": "2026-06-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot aanwijzing van toezichthouders met de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de pro",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042052&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042052"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1123",
+   "d": "2026-05-26",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "EU sets new plant protection product labelling rules with mandatory digital label, replacing Regulation 547/2011",
+   "a": "Regulation (EU) 2026/1123 lays down new labelling requirements for plant protection products, including a mandatory digital label accessible via a data carrier, and repeals Regulation (EU) No 547/2011. It applies from 1 January 2028, with transitional rules for existing authorisations.",
+   "b": "The Regulation concerns authorisation holders and parallel trade permit holders of plant protection products, as well as competent authorities. Products used for experiments or tests under Article 54 of Regulation (EC) No 1107/2009 are subject only to a reduced set of label elements. Labels must be provided in physical and digital form with identical content reflecting the authorisation. A data carrier printed on the physical label must link to the digital label, which must be free of charge and accessible without an account; it must be deactivated, or show that the product is no longer authorised, once the product is withdrawn or the grace period ends. The annexes set out the identification and conditions-of-use information, standard phrases for safe disposal, hazard communication (including a bee hazard pictogram), micro-organisms, risk mitigation measures and sowing of treated seeds, together with attribution criteria. Misleading statements are prohibited, the label must be in the official language(s) of the Member State of marketing unless that State provides otherwise, and parallel-traded products must show the permit number and permit holder details. The Regulation enters into force on the twentieth day after publication in the Official Journal (published 27 May 2026) and applies from 1 January 2028. Regulation (EU) No 547/2011 keeps applying to products whose authorisation or latest renewal was granted on an application submitted before 1 January 2028; a label amended after that date must include a digital label, and by 1 January 2030 all labels must carry one.",
+   "nl": [
+    "EU stelt nieuwe etiketteringsvoorschriften voor gewasbeschermingsmiddelen vast met verplicht digitaal etiket; Verordening 547/2011 ingetrokken",
+    "Verordening (EU) 2026/1123 bepaalt nieuwe etiketteringsvoorschriften voor gewasbeschermingsmiddelen, waaronder een verplicht digitaal etiket via een gegevensdrager, en trekt Verordening (EU) nr. 547/2011 in. Ze is van toepassing vanaf 1 januari 2028, met overgangsregels voor bestaande toelatingen.",
+    "De verordening betreft houders van een toelating of van een vergunning voor parallelhandel van gewasbeschermingsmiddelen, alsook de bevoegde autoriteiten. Middelen voor proeven of tests voor onderzoek of ontwikkeling krachtens artikel 54 van Verordening (EG) nr. 1107/2009 moeten slechts een beperkt aantal etiketelementen bevatten. Het etiket moet zowel fysiek als digitaal worden verstrekt, met dezelfde inhoud die de toelating weergeeft. Een gegevensdrager op het fysieke etiket moet naar het digitale etiket verwijzen; dit moet gratis en zonder account toegankelijk zijn en moet worden gedeactiveerd, of aangeven dat het product niet meer is toegelaten, zodra het product uit de handel is genomen of de afwikkelingsperiode eindigt. De bijlagen bevatten de informatie over identificatie en gebruiksvoorwaarden, standaardzinnen voor veilige verwijdering, gevarencommunicatie (met een pictogram voor bijengevaar), micro-organismen, risicobeperkende maatregelen en het zaaien van behandeld zaad, met de toewijzingscriteria. Misleidende vermeldingen zijn verboden, het etiket moet in de officiële taal of talen van de lidstaat van het in de handel brengen zijn tenzij die lidstaat anders bepaalt, en parallel verhandelde producten moeten het vergunningsnummer en de gegevens van de vergunninghouder vermelden. De verordening treedt in werking op de twintigste dag na bekendmaking in het Publicatieblad (gepubliceerd op 27 mei 2026) en is van toepassing vanaf 1 januari 2028. Verordening (EU) nr. 547/2011 blijft van toepassing op middelen waarvan de toelating of de laatste hernieuwing is verleend op basis van een aanvraag ingediend vóór 1 januari 2028; een etiket dat na die datum wordt gewijzigd moet een digitaal etiket bevatten, en uiterlijk op 1 januari 2030 moeten alle etiketten er een hebben."
+   ],
+   "fr": [
+    "L'UE fixe de nouvelles règles d'étiquetage des produits phytopharmaceutiques avec étiquette numérique obligatoire; abrogation du règlement 547/2011",
+    "Le règlement (UE) 2026/1123 établit de nouvelles exigences d'étiquetage des produits phytopharmaceutiques, dont une étiquette numérique obligatoire accessible via un support de données, et abroge le règlement (UE) no 547/2011. Il s'applique à partir du 1er janvier 2028, avec des mesures transitoires pour les autorisations existantes.",
+    "Le règlement concerne les titulaires d'une autorisation ou d'un permis de commerce parallèle de produits phytopharmaceutiques, ainsi que les autorités compétentes. Les produits destinés à des essais ou expériences à des fins de recherche ou de développement au titre de l'article 54 du règlement (CE) no 1107/2009 ne doivent respecter qu'un ensemble limité d'éléments d'étiquetage. L'étiquette doit être fournie sous forme physique et numérique, avec un contenu identique reflétant l'autorisation. Un support de données imprimé sur l'étiquette physique doit renvoyer à l'étiquette numérique, qui doit être gratuite et accessible sans compte; elle doit être désactivée, ou indiquer que le produit n'est plus autorisé, lors du retrait du produit du marché ou à la fin du délai de grâce. Les annexes contiennent les informations d'identification et les conditions d'utilisation, les phrases types pour l'élimination sûre, la communication des dangers (avec un pictogramme pour le danger pour les abeilles), les micro-organismes, les mesures d'atténuation des risques et le semis de semences traitées, ainsi que les critères d'attribution. Les mentions trompeuses sont interdites, l'étiquette doit être rédigée dans la ou les langues officielles de l'État membre de mise sur le marché sauf disposition contraire de celui-ci, et les produits faisant l'objet d'un commerce parallèle doivent indiquer le numéro de permis et les coordonnées du titulaire du permis. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel (publié le 27 mai 2026) et s'applique à partir du 1er janvier 2028. Le règlement (UE) no 547/2011 continue de s'appliquer aux produits dont l'autorisation ou le dernier renouvellement a été accordé sur la base d'une demande introduite avant le 1er janvier 2028; une étiquette modifiée après cette date doit comporter une étiquette numérique, et au plus tard le 1er janvier 2030 toutes les étiquettes doivent en comporter une."
+   ],
+   "scope": "Commission Regulation (EU) 2026/1123 laying down labelling requirements for plant protection products (Articles 1-14, Annexes I-V); repeals Regulation (EU) No 547/2011",
+   "dates": {
+    "adopted": "2026-05-26",
+    "published": "2026-05-27"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/1123 of 26 May 2026 laying down labelling requirements for plant protection products and repealing Regulatio",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1123"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1123"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1120",
+   "d": "2026-05-26",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "EU adds twelve unacceptable co-formulants to Annex III of the plant protection products Regulation",
+   "a": "Regulation (EU) 2026/1120 adds twelve substances (rows 145-156) to Annex III of Regulation (EC) No 1107/2009 as co-formulants not accepted in plant protection products. Member States must amend or withdraw authorisations of products and adjuvants containing them by 16 June 2028.",
+   "b": "The Regulation affects holders of authorisations for plant protection products and adjuvants, and the authorities that authorise them. Twelve co-formulants are added to Annex III of Regulation (EC) No 1107/2009 because they meet the criteria of Implementing Regulation (EU) 2023/574. They include carcinogens, mutagens and reproductive toxicants (e.g. acetaldehyde, propylene oxide, cumene, 1,4-dioxane), PBT/vPvB substances (the siloxanes D4, D5 and D6, and bumetrizole), a POP and a substance not approved as a biocide of product-type 6. Member States must amend or withdraw authorisations for plant protection products containing these co-formulants as soon as possible and no later than 16 June 2028. They may not authorise adjuvants containing co-formulants listed in Annex III, and must amend or withdraw existing adjuvant authorisations by the same date. Any grace period must be as short as possible: sale and distribution end at most 3 months, and disposal, storage and use at most 12 months, after the amendment or withdrawal. Unintentional impurities in other co-formulants are tolerated below 0.1 % w/w, or below a lower specific concentration limit set under the CLP Regulation. The Regulation enters into force on the twentieth day after its publication in the Official Journal of 27 May 2026.",
+   "nl": [
+    "EU voegt twaalf onaanvaardbare formuleringshulpstoffen toe aan bijlage III bij de gewasbeschermingsverordening",
+    "Verordening (EU) 2026/1120 voegt twaalf stoffen (rijen 145-156) toe aan bijlage III bij Verordening (EG) nr. 1107/2009 als formuleringshulpstoffen die niet worden aanvaard in gewasbeschermingsmiddelen. De lidstaten moeten toelatingen voor producten en hulpstoffen die ze bevatten uiterlijk 16 juni 2028 wijzigen of intrekken.",
+    "De verordening treft houders van toelatingen voor gewasbeschermingsmiddelen en hulpstoffen, en de overheden die deze toelaten. Twaalf formuleringshulpstoffen worden toegevoegd aan bijlage III bij Verordening (EG) nr. 1107/2009 omdat ze voldoen aan de criteria van Uitvoeringsverordening (EU) 2023/574. Het gaat onder meer om kankerverwekkende, mutagene en voor de voortplanting giftige stoffen (o.a. aceetaldehyde, propyleenoxide, cumeen, 1,4-dioxaan), PBT/zPzB-stoffen (de siloxanen D4, D5 en D6 en bumetrizool), een persistente organische verontreinigende stof en een stof die niet is goedgekeurd als biocide van productsoort 6. De lidstaten moeten toelatingen voor gewasbeschermingsmiddelen die deze formuleringshulpstoffen bevatten zo snel mogelijk en uiterlijk op 16 juni 2028 wijzigen of intrekken. Ze mogen geen hulpstoffen toelaten die formuleringshulpstoffen uit bijlage III bevatten en moeten bestaande toelatingen voor hulpstoffen uiterlijk op dezelfde datum wijzigen of intrekken. Een eventuele afnameperiode moet zo kort mogelijk zijn: verkoop en distributie eindigen uiterlijk 3 maanden, en verwijdering, opslag en gebruik uiterlijk 12 maanden na de wijziging of intrekking. Onopzettelijke onzuiverheden in andere formuleringshulpstoffen worden getolereerd onder 0,1 % w/w, of onder een lagere specifieke concentratiegrens volgens de CLP-verordening. De verordening treedt in werking op de twintigste dag na de bekendmaking in het Publicatieblad van 27 mei 2026."
+   ],
+   "fr": [
+    "L’UE ajoute douze coformulants inacceptables à l’annexe III du règlement sur les produits phytopharmaceutiques",
+    "Le règlement (UE) 2026/1120 ajoute douze substances (lignes 145 à 156) à l’annexe III du règlement (CE) no 1107/2009 en tant que coformulants ne pouvant pas entrer dans la composition des produits phytopharmaceutiques. Les États membres doivent modifier ou retirer les autorisations des produits et adjuvants qui les contiennent au plus tard le 16 juin 2028.",
+    "Le règlement concerne les titulaires d’autorisations de produits phytopharmaceutiques et d’adjuvants, ainsi que les autorités qui les autorisent. Douze coformulants sont ajoutés à l’annexe III du règlement (CE) no 1107/2009 car ils répondent aux critères du règlement d’exécution (UE) 2023/574. Il s’agit notamment de substances cancérogènes, mutagènes et toxiques pour la reproduction (p. ex. acétaldéhyde, oxyde de propylène, cumène, 1,4-dioxane), de substances PBT/vPvB (les siloxanes D4, D5 et D6 et le bumétrizole), d’un polluant organique persistant et d’une substance non approuvée comme biocide du type de produits 6. Les États membres doivent modifier ou retirer les autorisations de produits phytopharmaceutiques contenant ces coformulants dès que possible et au plus tard le 16 juin 2028. Ils ne peuvent pas autoriser d’adjuvants contenant des coformulants de l’annexe III et doivent modifier ou retirer les autorisations d’adjuvants existantes au plus tard à la même date. Tout délai de grâce doit être aussi court que possible: la vente et la distribution prennent fin au plus tard 3 mois, et l’élimination, le stockage et l’utilisation au plus tard 12 mois après la modification ou le retrait. Les impuretés non intentionnelles dans d’autres coformulants sont tolérées en dessous de 0,1 % p/p, ou en dessous d’une limite de concentration spécifique plus basse fixée par le règlement CLP. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel du 27 mai 2026."
+   ],
+   "scope": "Regulation (EC) No 1107/2009, Annex III (rows 145-156 added); Commission Regulation (EU) 2026/1120, Articles 1-5",
+   "dates": {
+    "adopted": "2026-05-26",
+    "published": "2026-05-27"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/1120 of 26 May 2026 amending Annex III to Regulation (EC) No 1107/2009 of the European Parliament and of the",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1120"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1120"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1116",
+   "d": "2026-05-26",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products",
+    "permitting"
+   ],
+   "h": "EU list of products and waste streams with critical raw materials recovery potential for national programmes",
+   "a": "Implementing Regulation (EU) 2026/1116 lists the products, components and waste streams considered to have relevant critical raw materials recovery potential. The list is the reference for the scope of the national circularity measures Member States must adopt under Article 26 of the Critical Raw Materials Act.",
+   "b": "The Regulation mainly concerns authorities drawing up national programmes on critical raw materials circularity under Article 26(1) of Regulation (EU) 2024/1252, and indirectly the sectors whose products and waste are listed. The Annex covers batteries, electrical and electronic equipment, wind turbines and related infrastructure, motor vehicles, light means of transport, energy and telecommunication infrastructure, industrial pumps and catalysts, digestate and compost from separately collected biowaste, sewage sludge and incineration ashes, and construction and demolition waste (notably aluminium, copper and cables). Many entries name specific components, such as magnets, circuit boards, cathode and anode materials or catalytic converters. Extractive waste is excluded because Article 27 of the Critical Raw Materials Act already covers it. The list is the reference for the measures in Article 26(1), points (b) and (c), but Member States may add further products, components and waste streams. The Commission may update the list as technology and regulation develop. The Regulation enters into force on the twentieth day after its publication on 27 May 2026, i.e. on 16 June 2026.",
+   "nl": [
+    "EU-lijst van producten en afvalstromen met potentieel voor terugwinning van kritieke grondstoffen",
+    "Uitvoeringsverordening (EU) 2026/1116 somt de producten, onderdelen en afvalstromen op die een relevant potentieel voor terugwinning van kritieke grondstoffen hebben. De lijst dient als referentie voor de nationale circulariteitsmaatregelen uit artikel 26 van de verordening kritieke grondstoffen.",
+    "De verordening betreft vooral overheden die nationale programma's inzake circulariteit van kritieke grondstoffen opstellen op grond van artikel 26, lid 1, van Verordening (EU) 2024/1252, en indirect de sectoren waarvan producten en afval zijn opgenomen. De bijlage omvat batterijen, elektrische en elektronische apparatuur, windturbines en bijbehorende infrastructuur, motorvoertuigen, lichte vervoermiddelen, energie- en telecommunicatie-infrastructuur, industriële pompen en katalysatoren, digestaat en compost uit selectief ingezameld gft-afval, rioolslib en verbrandingsassen, en bouw- en sloopafval (met name aluminium, koper en kabels). Veel vermeldingen noemen specifieke onderdelen, zoals magneten, printplaten, kathode- en anodematerialen of katalysatoren van voertuigen. Winningsafval is uitgesloten omdat artikel 27 van de verordening kritieke grondstoffen dit al regelt. De lijst is de referentie voor de maatregelen van artikel 26, lid 1, punten b) en c), maar de lidstaten mogen extra producten, onderdelen en afvalstromen opnemen. De Commissie kan de lijst bijwerken naargelang de technologische en regelgevende ontwikkelingen. De verordening treedt in werking op de twintigste dag na bekendmaking op 27 mei 2026, dus op 16 juni 2026."
+   ],
+   "fr": [
+    "Liste UE des produits et flux de déchets à potentiel de valorisation des matières premières critiques",
+    "Le règlement d'exécution (UE) 2026/1116 énumère les produits, composants et flux de déchets considérés comme présentant un potentiel pertinent de valorisation des matières premières critiques. Cette liste sert de référence pour le champ des mesures nationales de circularité prévues à l'article 26 du règlement sur les matières premières critiques.",
+    "Le règlement concerne principalement les autorités qui élaborent des programmes nationaux de circularité des matières premières critiques au titre de l'article 26, paragraphe 1, du règlement (UE) 2024/1252, et indirectement les secteurs dont les produits et déchets sont repris. L'annexe couvre les batteries, les équipements électriques et électroniques, les éoliennes et leurs infrastructures, les véhicules à moteur, les moyens de transport légers, les infrastructures énergétiques et de télécommunication, les pompes et catalyseurs industriels, le digestat et le compost issus de biodéchets collectés séparément, les boues d'épuration et les cendres d'incinération, ainsi que les déchets de construction et de démolition (notamment aluminium, cuivre et câbles). Plusieurs entrées visent des composants précis, comme les aimants, les cartes de circuits imprimés, les matériaux de cathode et d'anode ou les pots catalytiques. Les déchets d'extraction sont exclus, l'article 27 du règlement sur les matières premières critiques les couvrant déjà. La liste sert de référence pour les mesures de l'article 26, paragraphe 1, points b) et c), mais les États membres peuvent y ajouter d'autres produits, composants et flux de déchets. La Commission peut la mettre à jour selon l'évolution technologique et réglementaire. Le règlement entre en vigueur le vingtième jour suivant sa publication le 27 mai 2026, soit le 16 juin 2026."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/1116 – Articles 1–2 and Annex (list under Article 26(7) of Regulation (EU) 2024/1252)",
+   "dates": {
+    "adopted": "2026-05-26",
+    "published": "2026-05-27",
+    "in_force": "2026-06-16"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/1116 of 26 May 2026 listing the products, components and waste streams considered as having a r",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1116"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1116"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042081",
+   "d": "2026-05-22",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "soil"
+   ],
+   "h": "Flanders approves PROMAZ contribution increase to €0.010 per litre of heating gasoil for soil remediation fund",
+   "a": "The Flemish Government approved the request of PROMAZ to raise the mandatory contribution on heating gasoil to €0.01 per litre released for consumption or found missing. It also approved the finding that the fund lacks the resources to finance its expenditure until its recognition ends.",
+   "b": "The decision concerns the mandatory contribution under Article 15(3) of the 25 July 2018 cooperation agreement on soil remediation of petrol stations and heating-oil tanks. It affects those who pay the contribution on heating gasoil released for consumption or found missing, and the PROMAZ fund, which assists with remediation of soil contamination caused by operating heating-oil tanks. The Government approved the conclusion of the Interregional Soil Remediation Commission that the fund has insufficient means to finance all further expenditure until its recognition ends. It also approved raising the contribution to €0.01 per litre of fuel released for consumption or found missing, as requested by PROMAZ on 4 February 2026. The Commission advised on 13 February 2026 and the Finance Inspectorate on 17 April 2026. The decision was adopted on 22 May 2026, published on 17 June 2026 and takes effect on 27 June 2026.",
+   "nl": [
+    "Vlaamse Regering keurt verhoging van de PROMAZ-bijdrage tot 0,010 euro per liter gasolie voor verwarming goed",
+    "De Vlaamse Regering keurt de aanvraag van de vzw PROMAZ goed om de verplichte bijdrage op gasolie voor verwarming te verhogen tot 0,01 euro per liter die tot verbruik wordt uitgeslagen of waarvan een tekort wordt vastgesteld. Ze keurt ook de vaststelling goed dat het Fonds onvoldoende middelen heeft tot het einde van zijn erkenning.",
+    "Het besluit betreft de verplichte bijdrage van artikel 15, §3, van het samenwerkingsakkoord van 25 juli 2018 betreffende de bodemsanering van tankstations en gasolietanks voor verwarmingsdoeleinden. Het treft wie de bijdrage verschuldigd is op gasolie voor verwarming die tot verbruik wordt uitgeslagen of waarvan een tekort wordt vastgesteld, en de vzw PROMAZ, die tegemoetkomt in de sanering van bodemverontreiniging door de exploitatie van gasolietanks. De Regering keurt de conclusie van de Interregionale Bodemsaneringscommissie goed dat het Fonds over onvoldoende financiële middelen beschikt om alle verdere uitgaven tot het einde van zijn erkenning te financieren. Ze keurt ook de verhoging van de bijdrage tot 0,01 euro per liter brandstof goed, zoals gevraagd door PROMAZ op 4 februari 2026. De Commissie adviseerde op 13 februari 2026 en de Inspectie van Financiën op 17 april 2026. Het besluit is genomen op 22 mei 2026, gepubliceerd op 17 juni 2026 en treedt in werking op 27 juni 2026."
+   ],
+   "fr": [
+    "Le Gouvernement flamand approuve le relèvement de la cotisation PROMAZ à 0,010 euro par litre de gasoil de chauffage",
+    "Le Gouvernement flamand approuve la demande de l'asbl PROMAZ de relever la cotisation obligatoire sur le gasoil de chauffage à 0,01 euro par litre mis à la consommation ou dont un manquant est constaté. Il approuve aussi la conclusion selon laquelle le Fonds manque de moyens financiers jusqu'à la fin de son agrément.",
+    "L'arrêté concerne la cotisation obligatoire visée à l'article 15, §3, de l'accord de coopération du 25 juillet 2018 relatif à l'exécution et au financement de l'assainissement du sol des stations-service et des réservoirs de gasoil de chauffage. Il touche les redevables de la cotisation sur le gasoil de chauffage mis à la consommation ou dont un manquant est constaté, ainsi que l'asbl PROMAZ, qui intervient dans l'assainissement des pollutions du sol causées par l'exploitation de réservoirs de gasoil. Le Gouvernement approuve la conclusion de la Commission interrégionale d'assainissement du sol selon laquelle le Fonds ne dispose pas de moyens financiers suffisants pour couvrir toutes ses dépenses jusqu'à la fin de son agrément. Il approuve également le relèvement de la cotisation à 0,01 euro par litre de carburant, comme demandé par PROMAZ le 4 février 2026. La Commission a rendu son avis le 13 février 2026 et l'Inspection des Finances le 17 avril 2026. L'arrêté a été adopté le 22 mai 2026, publié le 17 juin 2026 et entre en vigueur le 27 juin 2026."
+   ],
+   "scope": "Besluit van de Vlaamse Regering tot goedkeuring van de aanvraag van de vzw PROMAZ tot verhoging van de bijdrage (samenwerkingsakkoord van 25 juli 2018, art. 15, §3)",
+   "dates": {
+    "adopted": "2026-05-22",
+    "published": "2026-06-17",
+    "in_force": "2026-06-27"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot goedkeuring van de aanvraag van de vzw PROMAZ tot verhoging van de bijdrage als vermeld in het samenwerk",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042081&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042081"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042070",
+   "d": "2026-05-22",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders inserts an air title in the Environmental Policy Decree and repeals parts of the 1964 Act",
+   "a": "A Flemish decree adds a new Title IX 'Air' to the Decree of 5 April 1995 (DABM). It partly transposes Directives 2016/2284 and 2024/2881 and repeals five articles of the 1964 air pollution Act. It enters into force on 11 December 2026.",
+   "b": "The new Title IX applies to air policy in the Flemish Region and affects authorities, operators of classified establishments, approved heating technicians and persons who suffer health damage. It names the VMM as the authority coordinating and organising air policy. The Flemish Government must set a scheme for temporary episodes of increased air pollution caused by particular weather conditions, with an information phase and an alarm phase. In the alarm phase, operators and competent authorities take the emission-reduction measures set by the Government. The Government must adopt a Flemish air policy plan at least every five years, with a progress report at least every two and a half years. It may adopt special plans for specific pollutants, sectors or areas, and determines when air quality plans, air quality roadmaps and emission reduction programmes are drawn up. Natural persons who suffer health damage from a breach of the short-term action plan rules (art. 9.2.1) or of the rules on air quality plans and roadmaps (arts. 9.3.2 and 9.3.3), or of their implementing decrees, may claim compensation under extra-contractual liability law. Limitation periods start only once the breach has ended and the claimant knows, or should know, of the damage. The VEKA may impose an administrative fine of EUR 500 to 10,000 on an approved technician who fails to meet the notification duties on inspection and maintenance of central heating appliances. Article 2.2.8 DABM and articles 2, 5, 6, 9 and 10 of the Act of 28 December 1964 are repealed. The decree enters into force on 11 December 2026.",
+   "nl": [
+    "Vlaanderen voegt een titel Lucht in het DABM in en heft delen van de wet van 1964 op",
+    "Een Vlaams decreet voegt een nieuwe titel IX 'Lucht' toe aan het decreet van 5 april 1995 (DABM). Het zet richtlijnen 2016/2284 en 2024/2881 gedeeltelijk om en heft vijf artikelen van de wet van 1964 op. Het treedt in werking op 11 december 2026.",
+    "De nieuwe titel IX is van toepassing op het luchtbeleid in het Vlaamse Gewest en heeft gevolgen voor overheden, exploitanten van ingedeelde inrichtingen, erkende technici en personen die gezondheidsschade lijden. De VMM wordt aangewezen als autoriteit die het luchtbeleid coördineert en organiseert. De Vlaamse Regering moet een regeling vaststellen voor tijdelijke situaties van verhoogde luchtverontreiniging door bijzondere meteorologische omstandigheden, met een informatiefase en een alarmfase. In de alarmfase nemen exploitanten en bevoegde overheden de emissiereducerende kortetermijnmaatregelen die de Vlaamse Regering bepaalt. De Vlaamse Regering stelt minimaal vijfjaarlijks een Vlaams luchtbeleidsplan vast, met minstens om de twee en een half jaar een voortgangsrapport. Ze mag bijzondere luchtbeleidsplannen voor specifieke polluenten, sectoren of gebieden vaststellen en bepaalt wanneer luchtkwaliteitsplannen, routekaarten inzake luchtkwaliteit en emissiereductieprogramma's worden opgesteld. Natuurlijke personen die gezondheidsschade lijden door een schending van het kortetermijnactieplan (art. 9.2.1) of van de regels over luchtkwaliteitsplannen en routekaarten (art. 9.3.2 en 9.3.3), of van de uitvoeringsbesluiten, kunnen schadevergoeding vorderen volgens het buitencontractuele aansprakelijkheidsrecht. De verjaringstermijnen beginnen pas te lopen nadat de schending is beëindigd en de eiser weet of redelijkerwijs behoort te weten dat hij schade heeft geleden. Het VEKA kan een administratieve geldboete van 500 tot 10.000 euro opleggen aan een erkende technicus die de meldingsplichten inzake keuring en onderhoud van een centraal stooktoestel niet naleeft. Artikel 2.2.8 DABM en de artikelen 2, 5, 6, 9 en 10 van de wet van 28 december 1964 worden opgeheven. Het decreet treedt in werking op 11 december 2026."
+   ],
+   "fr": [
+    "La Flandre insère un titre Air dans le DABM et abroge des articles de la loi de 1964",
+    "Un décret flamand insère un nouveau titre IX « Air » dans le décret du 5 avril 1995 (DABM). Il transpose partiellement les directives 2016/2284 et 2024/2881 et abroge cinq articles de la loi de 1964. Il entre en vigueur le 11 décembre 2026.",
+    "Le nouveau titre IX s'applique à la politique de l'air en Région flamande et concerne les autorités, les exploitants d'établissements classés, les techniciens agréés et les personnes qui subissent un dommage sanitaire. La VMM est désignée comme autorité chargée de la coordination et de l'organisation de la politique de l'air. Le Gouvernement flamand doit fixer un régime applicable aux situations temporaires de pollution atmosphérique accrue dues à des conditions météorologiques particulières, avec une phase d'information et une phase d'alarme. Durant la phase d'alarme, les exploitants et les autorités compétentes prennent les mesures de réduction des émissions à court terme arrêtées par le Gouvernement flamand. Le Gouvernement flamand adopte au moins tous les cinq ans un plan flamand de politique de l'air, accompagné d'un rapport d'avancement au moins tous les deux ans et demi. Il peut adopter des plans particuliers pour des polluants, secteurs ou zones spécifiques et détermine dans quels cas des plans pour la qualité de l'air, des feuilles de route pour la qualité de l'air et des programmes de réduction des émissions sont établis. Les personnes physiques qui subissent un dommage sanitaire du fait d'une violation du plan d'action à court terme (art. 9.2.1) ou des règles relatives aux plans et feuilles de route pour la qualité de l'air (art. 9.3.2 et 9.3.3), ou de leurs arrêtés d'exécution, peuvent demander réparation selon le droit de la responsabilité extracontractuelle. Les délais de prescription ne commencent à courir qu'après la fin de la violation et lorsque le demandeur sait, ou devrait raisonnablement savoir, qu'il a subi un dommage. La VEKA peut infliger une amende administrative de 500 à 10.000 euros au technicien agréé qui ne respecte pas les obligations de notification relatives au contrôle et à l'entretien d'un appareil de chauffage central. L'article 2.2.8 du DABM et les articles 2, 5, 6, 9 et 10 de la loi du 28 décembre 1964 sont abrogés. Le décret entre en vigueur le 11 décembre 2026."
+   ],
+   "scope": "Decreet van 22 mei 2026 tot wijziging van de wet van 28 december 1964 en het DABM (decreet van 5 april 1995): nieuwe titel IX Lucht (art. 9.1.1–9.5.1), opheffing van art. 2.2.8 DABM en art. 2, 5, 6, 9 en 10 van de wet van 1964",
+   "dates": {
+    "adopted": "2026-05-22",
+    "published": "2026-06-09",
+    "in_force": "2026-12-11"
+   },
+   "u": [
+    [
+     "Decreet tot  wijziging van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging en het decreet van 5 april 199",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042070&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042070"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042055",
+   "d": "2026-05-22",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders designates four Omgeving department officials as fining authority for environmental and planning enforcement",
+   "a": "The Secretary-General of the Department of Environment has designated four department staff members as the fining authority (beboetingsinstantie) under Article 10 of the Environmental Enforcement Decree of 23 May 2025. This authority handles administrative prosecution and sanctioning under the Flemish environmental policy decree and the Flemish Planning Code.",
+   "b": "The decision concerns anyone subject to administrative enforcement in Flanders under the Decree of 5 April 1995 on general provisions on environmental policy or the Flemish Codex on Spatial Planning of 15 May 2009. It designates four staff members of the Department of Environment as the fining authority under Article 10 of the Environmental Enforcement Decree of 23 May 2025. This authority is responsible for administrative prosecution and sanctioning under both instruments. Each appointment ends on the day the officeholder leaves the department or is moved to a service that is not competent for enforcement. The decision enters into force on 26 May 2026, was adopted on 22 May 2026 and was published on 4 June 2026.",
+   "nl": [
+    "Vlaanderen wijst vier ambtenaren van het departement Omgeving aan als beboetingsinstantie voor milieu- en ruimtelijke handhaving",
+    "De secretaris-generaal van het departement Omgeving heeft vier personeelsleden van het departement aangewezen als beboetingsinstantie overeenkomstig artikel 10 van het Omgevingshandhavingsbesluit van 23 mei 2025. Deze instantie staat in voor de bestuurlijke vervolging en sanctionering op grond van het decreet algemene bepalingen inzake milieubeleid en de Vlaamse Codex Ruimtelijke Ordening.",
+    "Het besluit heeft betrekking op iedereen die in Vlaanderen onderworpen is aan bestuurlijke handhaving op grond van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid of de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009. Vier personeelsleden van het departement Omgeving worden aangewezen als beboetingsinstantie overeenkomstig artikel 10 van het Omgevingshandhavingsbesluit van 23 mei 2025. Deze instantie staat in voor de bestuurlijke vervolging en sanctionering op grond van beide regelgevingen. Elke aanstelling eindigt op de dag dat de functiehouder het departement verlaat of wordt ingedeeld bij een dienst die niet bevoegd is voor handhaving. Het besluit treedt in werking op 26 mei 2026; het is genomen op 22 mei 2026 en bekendgemaakt op 4 juni 2026."
+   ],
+   "fr": [
+    "La Flandre désigne quatre agents du département Omgeving comme autorité chargée des amendes en matière d'environnement et d'urbanisme",
+    "Le secrétaire général du département de l'Environnement (Omgeving) a désigné quatre membres du personnel du département comme autorité chargée d'infliger les amendes administratives (beboetingsinstantie), conformément à l'article 10 de l'Omgevingshandhavingsbesluit du 23 mai 2025. Cette autorité assure les poursuites et les sanctions administratives au titre du décret flamand relatif à la politique de l'environnement et du Code flamand de l'aménagement du territoire.",
+    "L'arrêté concerne toute personne soumise en Flandre à l'application administrative du décret du 5 avril 1995 contenant des dispositions générales en matière de politique de l'environnement ou du Code flamand de l'aménagement du territoire du 15 mai 2009. Quatre membres du personnel du département de l'Environnement sont désignés comme autorité chargée des amendes conformément à l'article 10 de l'Omgevingshandhavingsbesluit du 23 mai 2025. Cette autorité est chargée des poursuites et des sanctions administratives au titre de ces deux instruments. Chaque désignation prend fin le jour où le titulaire quitte le département ou est affecté à un service non compétent en matière de maintien de l'ordre juridique (handhaving). L'arrêté entre en vigueur le 26 mai 2026; il a été adopté le 22 mai 2026 et publié le 4 juin 2026."
+   ],
+   "scope": "Besluit van de secretaris-generaal van 22 mei 2026 tot aanstelling van de beboetingsinstantie overeenkomstig artikel 10 van het Omgevingshandhavingsbesluit van 23 mei 2025 (art. 1-3)",
+   "dates": {
+    "adopted": "2026-05-22",
+    "published": "2026-06-04",
+    "in_force": "2026-05-26"
+   },
+   "u": [
+    [
+     "Besluit van de secretaris-generaal tot aanstelling van de beboetingsinstantie overeenkomstig het Omgevingshandhavingsbesluit van 23 mei 2025",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042055&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042055"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0824",
+   "d": "2026-05-21",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb refuses suspension of Wortegem-Petegem permit as holder pledges not to build before ruling",
+   "a": "The Council for Permit Disputes rejected a request to suspend an environmental permit for rebuilding a business building into five units. The permit holder stated it will not execute the works before the annulment ruling, so urgency was not shown.",
+   "b": "The ruling concerns neighbours seeking suspension of an environmental permit granted on administrative appeal for rebuilding a non-conforming business building into five units, re-laying hardened surfaces and altering the culverting of a ditch in Wortegem-Petegem. The site lies in landscape-valuable agricultural zone. The Council recalls that an applicant for suspension must show urgency with a reasoned, sufficiently precise and plausible account, and that suspension is only ordered if it has a useful effect. The permit holder declared that it neither plans nor foresees executing the permit pending the Council's ruling on annulment. The Council held that this declaration prevents the alleged harm, so urgent treatment is not required at present, and rejected the request without examining the seriousness of the grounds. The applicants may request suspension again at any stage, even in extreme urgency, if new facts undermine the declaration. Costs (a €200 filing fee) are split equally between the applicants and the permit holder, with no procedural indemnity. The ruling was delivered on 21 May 2026 and the annulment claim remains to be decided.",
+   "nl": [
+    "RvVb weigert schorsing vergunning Wortegem-Petegem nu vergunninghouder niet zal uitvoeren vóór uitspraak",
+    "De Raad voor Vergunningsbetwistingen verwerpt een vordering tot schorsing van een omgevingsvergunning voor het herbouwen van een bedrijfsgebouw tot vijf units. De vergunninghouder verklaarde de werken niet uit te voeren vóór de uitspraak over de vernietiging, zodat hoogdringendheid niet is aangetoond.",
+    "Het arrest betreft buren die de schorsing vorderen van een omgevingsvergunning, in bestuurlijk beroep verleend, voor het herbouwen van een zonevreemd bedrijfsgebouw tot vijf units, de heraanleg van verhardingen en het wijzigen van de overwelving van een gracht in Wortegem-Petegem. Het terrein ligt in landschappelijk waardevol agrarisch gebied. De Raad herinnert eraan dat wie schorsing vraagt de hoogdringendheid onderbouwd, voldoende precies en aannemelijk moet aantonen, en dat schorsing enkel kan worden bevolen als ze een nuttig effect heeft. De tussenkomende partij verklaarde dat zij in afwachting van de uitspraak over de vernietiging geen uitvoering van de vergunning plant of voorziet. Volgens de Raad voorkomt die verklaring de ingeroepen nadelen, zodat een hoogdringende behandeling nu niet vereist is; de vordering wordt verworpen zonder onderzoek van de ernst van de middelen. De verzoekende partijen kunnen in elke stand van het geding opnieuw schorsing vorderen, zelfs bij uiterst dringende noodzakelijkheid, als nieuwe feiten die verklaring ondermijnen. De kosten (rolrecht van 200 euro) worden gelijk verdeeld tussen de verzoekende partijen en de tussenkomende partij, zonder rechtsplegingsvergoeding. Het arrest werd uitgesproken op 21 mei 2026; de vordering tot vernietiging moet nog worden beslecht."
+   ],
+   "fr": [
+    "Le RvVb refuse de suspendre le permis de Wortegem-Petegem, le titulaire s'engageant à ne pas exécuter avant l'arrêt",
+    "Le Conseil du contentieux des autorisations rejette une demande de suspension d'un permis d'environnement pour la reconstruction d'un bâtiment d'entreprise en cinq unités. Le titulaire ayant déclaré ne pas exécuter les travaux avant l'arrêt sur l'annulation, l'extrême urgence n'est pas établie.",
+    "L'arrêt concerne des voisins qui demandent la suspension d'un permis d'environnement, délivré sur recours administratif, pour la reconstruction d'un bâtiment d'entreprise non conforme à la zone en cinq unités, le réaménagement des revêtements et la modification du voûtement d'un fossé à Wortegem-Petegem. Le terrain se situe en zone agricole de valeur paysagère. Le Conseil rappelle que le demandeur de la suspension doit démontrer l'urgence de manière motivée, suffisamment précise et plausible, et que la suspension ne peut être ordonnée que si elle a un effet utile. La partie intervenante a déclaré qu'elle ne prévoit pas d'exécuter le permis dans l'attente de l'arrêt sur l'annulation. Selon le Conseil, cette déclaration prévient les inconvénients invoqués, de sorte qu'un traitement urgent n'est pas requis actuellement; la demande est rejetée sans examen du sérieux des moyens. Les requérants peuvent à tout moment demander à nouveau la suspension, même en extrême urgence, si des faits nouveaux remettent en cause cette déclaration. Les dépens (un droit de rôle de 200 euros) sont répartis à parts égales entre les requérants et la partie intervenante, sans indemnité de procédure. L'arrêt a été prononcé le 21 mai 2026; la demande d'annulation reste à trancher."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0824: schorsingsvordering tegen omgevingsvergunning OMV_2025005007 (artikel 40 en 21, §7 DBRC-decreet)",
+   "dates": {
+    "adopted": "2026-05-21"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0824.",
+     "https://www.dbrc.be/sites/default/files/2026-06/RVVB.2526.0824.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0824"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

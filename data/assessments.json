@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5621)"
+"write_error": "Unterminated string starting at: line 9 column 1 (char 3006)"
 },
 "codex:1042165": {
 "v": 2,
@@ -29001,7 +29001,8 @@
 "reason": "Second general implementation of Flemish enforcement framework decree, affecting environmental enforcement.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 17 column 10 (char 6398)"
+"write_error": "Unterminated string starting at: line 17 column 10 (char 6398)",
+"written": "d-codex-1042078"
 },
 "codex:1042075": {
 "v": 2,
@@ -30268,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5614)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6776)"
 },
 "codex:1042061": {
 "v": 2,
@@ -30334,7 +30335,8 @@
 ],
 "reason": "Constitutional Court annulment case on Walloon underground resources code, which governs mining and subsurface permits.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-68-2026"
 },
 "eu:52026PC0265": {
 "v": 2,
@@ -30597,7 +30599,8 @@
 ],
 "reason": "Designates fining authority officials for Flemish heritage enforcement; borderline enforcement rule.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042059"
 },
 "codex:1042056": {
 "v": 2,
@@ -30617,7 +30620,8 @@
 ],
 "reason": "Designates Flemish environmental enforcement officers and inspection powers under Kaderdecreet Handhaving.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042052"
 },
 "codex:1042047": {
 "v": 2,
@@ -30700,7 +30704,9 @@
 "topics": [],
 "reason": "Court ruling number only; cannot tell subject, so flagged for review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Cassation ruling on the internment of a mentally ill person (ECHR arts 3, 5.1.e); no environmental obligations for companies, developers or authorities."
 },
 "eu:52026PC0360": {
 "v": 2,
@@ -30747,7 +30753,8 @@
 ],
 "reason": "General labelling rules for plant protection products, which are hazardous chemicals.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1123"
 },
 "eu:32026R1122": {
 "v": 2,
@@ -30767,7 +30774,8 @@
 ],
 "reason": "General list of co-formulants unacceptable in plant protection products; chemical safety rule.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1120"
 },
 "eu:32026R1119": {
 "v": 2,
@@ -30806,7 +30814,8 @@
 ],
 "reason": "Lists waste streams with critical raw materials recovery potential under CRMA.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1116"
 },
 "eu:32026R1115": {
 "v": 2,
@@ -31177,7 +31186,8 @@
 ],
 "reason": "Raises contribution under the federal-regional petrol station soil remediation funding agreement.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042081"
 },
 "codex:1042080": {
 "v": 2,
@@ -31215,7 +31225,8 @@
 ],
 "reason": "Amends air pollution control law and general environmental policy decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042070"
 },
 "codex:1042055": {
 "v": 2,
@@ -31226,7 +31237,8 @@
 ],
 "reason": "Appoints the fining authority under the Flemish environmental enforcement decree; a general enforcement rule.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042055"
 },
 "codex:1042054": {
 "v": 2,
@@ -59300,7 +59312,8 @@
 "topics": [],
 "reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0824"
 },
 "rvvb:RVVB.2526.0823": {
 "v": 2,
@@ -64553,15 +64566,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 8,
-"found_not_relevant_on_reading": 3,
-"failed": 3,
-"waiting": 494,
+"this_run": 11,
+"found_not_relevant_on_reading": 1,
+"failed": 2,
+"waiting": 482,
 "api": {
 "calls": 14,
-"input_tokens": 154405,
-"output_tokens": 38206,
-"usd": 0.6909
+"input_tokens": 129317,
+"output_tokens": 41266,
+"usd": 0.6713
 },
 "updated": "2026-11-23"
 }
