@@ -28698,7 +28698,7 @@
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "no JSON in reply"
+"write_error": "Unterminated string starting at: line 13 column 5 (char 5008)"
 },
 "codex:1042165": {
 "v": 4,
@@ -29009,7 +29009,8 @@
 ],
 "reason": "Infringement ruling on urban waste water treatment directive 91/271/EEC; water.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0841-inf"
 },
 "eu:62024CJ0841": {
 "v": 4,
@@ -29982,7 +29983,9 @@
 "topics": [],
 "reason": "Programmawet title is too vague; may contain environmental provisions.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only metadata of a federal Programmawet is given; no provisions on environmental obligations are stated."
 },
 "codex:1042247": {
 "v": 4,
@@ -30049,7 +30052,8 @@
 ],
 "reason": "Flemish decree amending energy and climate provisions; likely affects compliance.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1042159"
 },
 "codex:1042061": {
 "v": 4,
@@ -30115,7 +30119,8 @@
 ],
 "reason": "Annulment action against Walloon subsurface resources code, a general environmental regulatory act.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-68-2026"
 },
 "eu:52026PC0265": {
 "v": 4,
@@ -60631,7 +60636,8 @@
 ],
 "reason": "A permit condition cannot cure an unassessed zoning-change criterion. Authorities must check during completeness review whether storage thresholds trigger a VLAREM class 3 installation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0841"
 },
 "rvvb:RVVB.2526.0840": {
 "v": 4,
@@ -60657,7 +60663,8 @@
 ],
 "reason": "MER-screening must assess effects of a dewatering works split off from the permit, and late dewatering advice counts as new essential document needing public inquiry.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0839"
 },
 "rvvb:RVVB.2526.0838": {
 "v": 4,
@@ -60679,7 +60686,8 @@
 ],
 "reason": "Annulment holding that a refusal must give a full good-spatial-planning assessment, answer the POA report, and cannot rest on pending civil-rights disputes, which permit authorities must follow.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0837"
 },
 "rvvb:RVVB.2526.0836": {
 "v": 4,
@@ -60691,7 +60699,8 @@
 ],
 "reason": "Applies article 64 OVD: modifications during administrative appeal need no new public inquiry if three conditions are met; the petitioner must show non-compliance, and zoning alone does not decide fun",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0836"
 },
 "rvvb:RVVB.2526.0835": {
 "v": 4,
@@ -60705,7 +60714,8 @@
 ],
 "reason": "Interprets POP Regulation art. 7 as allowing non-destruction of PFAS in waste water, and applies VLAREM II art. 4.3.2.1 default 20 ng/l where no specific discharge norm exists.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0835"
 },
 "rvvb:RVVB.2526.0834": {
 "v": 4,
@@ -60717,7 +60727,8 @@
 ],
 "reason": "Deputation must answer the substantive objections of the advisory commission when departing from its advice; selectively copying advice without reasons breaches the duty to state reasons.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0834"
 },
 "rvvb:RVVB.2526.0832": {
 "v": 4,
@@ -60739,7 +60750,8 @@
 ],
 "reason": "A permit authority departing from a reasoned negative advice must explain why; merely contradicting the advice does not satisfy the duty to state reasons.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0829"
 },
 "rvvb:RVVB.2526.0827": {
 "v": 4,
@@ -60762,7 +60774,8 @@
 ],
 "reason": "Annuls permit: a supermarket in woongebied is not principally compatible; the Council requires separate test of bestaanbaarheid and compatibility with immediate surroundings under art. 5.1.0 Inrichtin",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0826"
 },
 "rvvb:RVVB.2526.0825": {
 "v": 4,
@@ -60774,7 +60787,8 @@
 ],
 "reason": "Annuls a Leuven permit refusal; holds that a gRUP prevails over the general building regulation (ABL 0.3) and that a refusal must explain why parking flanking measures fail.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0825"
 },
 "rvvb:RVVB.2526.0824": {
 "v": 4,
@@ -67107,15 +67121,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 2,
+"this_run": 12,
+"found_not_relevant_on_reading": 1,
 "failed": 1,
-"waiting": 600,
+"waiting": 587,
 "api": {
 "calls": 14,
-"input_tokens": 224636,
-"output_tokens": 38216,
-"usd": 0.8314
+"input_tokens": 231992,
+"output_tokens": 50834,
+"usd": 0.9723
 },
 "updated": "2026-11-23"
 },
