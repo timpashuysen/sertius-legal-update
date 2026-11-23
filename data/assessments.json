@@ -28698,7 +28698,7 @@
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "Unterminated string starting at: line 13 column 5 (char 5008)"
+"write_error": "Unterminated string starting at: line 13 column 1 (char 5447)"
 },
 "codex:1042165": {
 "v": 4,
@@ -60800,7 +60800,8 @@
 ],
 "reason": "Permit holder's written declaration not to implement pending annulment removes the urgency needed for suspension; applicants may re-seek suspension at any stage.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0824"
 },
 "rvvb:RVVB.2526.0823": {
 "v": 4,
@@ -60823,7 +60824,9 @@
 ],
 "reason": "Applies art. 7 §2 joint-submission and completeness rules, and treats deforestation for land-use change as project-MER screening under rubric 1d; outcome is truncated.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal dismissed; Council applies settled motivation and completeness rules to the facts of one subdivision permit."
 },
 "rvvb:RVVB.2526.0820": {
 "v": 4,
@@ -60835,7 +60838,8 @@
 ],
 "reason": "Interprets the zoning-deviation rules for converting farm buildings to housing and confirms the deputation may independently rule on appeal admissibility despite the provincial official's view.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0820"
 },
 "rvvb:RVVB.2526.0819": {
 "v": 4,
@@ -60858,7 +60862,8 @@
 ],
 "reason": "Applies the verkavelingsvergunning duty: a split is subject to it only if made with a view to house-building; intent at the time of division, not later buyer plans, governs.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0818"
 },
 "rvvb:RVVB.2526.0817": {
 "v": 4,
@@ -60870,7 +60875,8 @@
 ],
 "reason": "Annuls a permit for agricultural-to-residential land-use change; holds that authorities must test the site's own farming potential and critically check inconsistent plans under the zonevreemde functie",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0817"
 },
 "rvvb:RVVB.2526.0816": {
 "v": 4,
@@ -60883,7 +60889,8 @@
 ],
 "reason": "Interprets Omzendbrief OMG/2024/1 for wind turbine siting: the bundling ladder's examples are illustrative and need a concrete test; energy optimisation does not automatically outweigh other criteria.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0816"
 },
 "rvvb:RVVB.2526.0815": {
 "v": 4,
@@ -60896,7 +60903,8 @@
 ],
 "reason": "Annuls permit granted under a PRUP; holds the simplified permit procedure cannot be used when the application conflicts with plan and subdivision rules, and that the authority must check the procedure",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0815"
 },
 "rvvb:RVVB.2526.0814": {
 "v": 4,
@@ -60909,7 +60917,8 @@
 ],
 "reason": "Applies the rule that a new or expanded plea in the reply note is inadmissible (art. 17 DBRC-decreet, art. 15 4° Procedurebesluit); also says monitoring a dewatering can be a precaution, not a risk-as",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0814"
 },
 "rvvb:RVVB.2526.0813": {
 "v": 4,
@@ -60921,7 +60930,8 @@
 ],
 "reason": "Clarifies that a BPA's permissive garage and green-index rules do not settle mobility or green quality under good spatial planning, so authorities may still refuse on those grounds.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0813"
 },
 "rvvb:RVVB.2526.0812": {
 "v": 4,
@@ -60935,7 +60945,8 @@
 ],
 "reason": "Annuls a groundwater abstraction notification: Natuurdecreet art. 16 §2 natuurtoets applies to non-protected nature near the site; authorities must examine avoidable damage and motivate it.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0812"
 },
 "rvvb:RVVB.2526.0811": {
 "v": 4,
@@ -60947,7 +60958,8 @@
 ],
 "reason": "A late hearing request after the 14-day deadline need not be granted; a favourable advice binds the permit authority only if it departs from it with careful reasons.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0811"
 },
 "rvvb:RVVB.2526.0810": {
 "v": 4,
@@ -60959,7 +60971,8 @@
 ],
 "reason": "Confirms that the simplified omgevingsvergunning procedure requires no public inquiry or yellow notice, only neighbour consultation for shared walls; also rejects late-added arguments in a note.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0810"
 },
 "rvvb:RVVB.2526.0807": {
 "v": 4,
@@ -60981,7 +60994,9 @@
 ],
 "reason": "Restates that a deciding authority departing from an adverse official report must explain why, and that generic or stylistic motivation does not answer objections (Motiveringswet).",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annuls one permit for radio masts for inadequate reasoning; applies settled principles, no wider point of law."
 },
 "rvvb:RVVB.2526.0804": {
 "v": 4,
@@ -67121,15 +67136,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 1,
+"this_run": 11,
+"found_not_relevant_on_reading": 2,
 "failed": 1,
-"waiting": 587,
+"waiting": 574,
 "api": {
 "calls": 14,
-"input_tokens": 231992,
-"output_tokens": 50834,
-"usd": 0.9723
+"input_tokens": 218871,
+"output_tokens": 44930,
+"usd": 0.887
 },
 "updated": "2026-11-23"
 },
