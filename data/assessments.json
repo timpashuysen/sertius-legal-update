@@ -47371,7 +47371,8 @@
 ],
 "reason": "Akte-neming of a partial cessation notification creates no rights; remaining manure storage is not a new installation; the cessation subsidy scheme does not shape the assessment framework.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0499"
 },
 "rvvb:RVVB.A.2526.0498": {
 "v": 4,
@@ -47384,7 +47385,8 @@
 ],
 "reason": "Partial shutdown of a permitted installation is allowed without full closure; the shutdown scheme does not govern assessment of a notification, and no nature test is needed for reductions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0498"
 },
 "rvvb:RVVB.A.2526.0497": {
 "v": 4,
@@ -47396,7 +47398,8 @@
 ],
 "reason": "Interprets 'hoofdzakelijk vergund' for zoning-deviant function changes (art. 4.4.23 VCRO): the last permitted state governs, unexecuted or altered parts cannot offset each other, and a building must b",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0497"
 },
 "eu:52026PC0088": {
 "v": 4,
@@ -47407,7 +47410,8 @@
 ],
 "reason": "EU position on amending CMS appendices changes protected migratory species listings.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0088"
 },
 "eu:32026R0425": {
 "v": 4,
@@ -47472,7 +47476,8 @@
 ],
 "reason": "Recognises Spanish wheat GHG data for renewable energy accounting; affects biofuel compliance.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0371"
 },
 "eu:32026D0364": {
 "v": 4,
@@ -47556,7 +47561,8 @@
 ],
 "reason": "Council position on amending water and groundwater directives affects water quality rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0039"
 },
 "eu:32026R0400": {
 "v": 4,
@@ -62917,7 +62923,8 @@
 ],
 "reason": "Annuls permit: 'minime importance' architect exemption requires bin in immediate proximity; also sets when third-party 60-day appeal period starts without publication.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265767"
 },
 "rvs:265766": {
 "v": 4,
@@ -62999,7 +63006,8 @@
 ],
 "reason": "Council of State annuls part of a municipal spatial policy plan: a ban on subdividing existing business sites is binding despite Art. 2.1.2 VCRO saying policy plans have no regulatory force.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265757"
 },
 "rvs:265756": {
 "v": 4,
@@ -63012,7 +63020,8 @@
 ],
 "reason": "Annuls a spatial implementation plan: plan-MER screening must test planning-law changes against the existing gewestplan zoning, not the actual factual situation, unless a special factual situation app",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265756"
 },
 "rvs:265755": {
 "v": 4,
@@ -63035,7 +63044,8 @@
 ],
 "reason": "Reads CoBAT art. 101 §7: an urban permit for a mixed project is suspended by law until the environmental permit is final, so it is not executory and cannot be suspended.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265754"
 },
 "rvs:265753": {
 "v": 4,
@@ -63047,7 +63057,9 @@
 ],
 "reason": "Council of State holds that a reply filed by registered post after choosing e-procedure need not end the appeal's interest; a point of procedure for environmental permit appellants.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural ruling on electronic filing in Council of State litigation, decided on case circumstances; it interprets no environmental rule or obligation."
 },
 "rvs:265752": {
 "v": 4,
@@ -63099,7 +63111,8 @@
 ],
 "reason": "Annuls a permit-withdrawal decision; states that withdrawal of a rights-creating permit refusal requires the withdrawing authority to identify the illegality with reasons, and post hoc justification c",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265747"
 },
 "rvs:265746": {
 "v": 4,
@@ -63142,7 +63155,8 @@
 ],
 "reason": "Annuls a Flemish government designation of a water-sensitive open space area, holding it must account for an existing bijzonder plan van aanleg. Affects how such designations are made.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265743"
 },
 "rvs:265741": {
 "v": 4,
@@ -63608,7 +63622,8 @@
 ],
 "reason": "Sets wider rule: permit challengers must proactively check implementation timing; extreme-urgency suspension needs diligence and is generally barred after ten-day delay.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265780"
 },
 "rvs:265778": {
 "v": 4,
@@ -67500,15 +67515,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
+"this_run": 13,
+"found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 255,
+"waiting": 241,
 "api": {
 "calls": 14,
-"input_tokens": 216117,
-"output_tokens": 40890,
-"usd": 0.8411
+"input_tokens": 157701,
+"output_tokens": 44011,
+"usd": 0.7555
 },
 "updated": "2026-11-23"
 },

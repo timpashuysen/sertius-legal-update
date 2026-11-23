@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-23T18:58:34+00:00",
+ "ran": "2026-11-23T19:11:17+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 835,
+   "matched": 833,
    "backfilled_to": "2026-11-01",
-   "seconds": 14.3
+   "seconds": 11.7
   },
   "gwh": {
    "ok": true,
@@ -16,33 +16,36 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 13.0
+   "seconds": 11.0
   },
   "codex": {
-   "ok": false,
-   "error": "<HTTPError 504: 'Gateway Time-out'>",
-   "seconds": 20.9
+   "ok": true,
+   "total_in_codex": 39968,
+   "read": 4000,
+   "matched": 2676,
+   "oldest_date_seen": "2024-01-01",
+   "seconds": 41.0
   },
   "wallex": {
    "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 48,
+   "errors": 39,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 279.4
+   "seconds": 231.3
   },
   "staatsblad": {
    "ok": true,
    "matched": 62,
    "read": 62,
    "backfilled_to": "2026-11-23",
-   "seconds": 13.9
+   "seconds": 13.5
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.3
+   "seconds": 0.4
   },
   "rvvb": {
    "ok": true,
@@ -71,7 +74,7 @@
     "last_error": "",
     "updated": "2026-11-23T03:55:30Z"
    },
-   "seconds": 0.3
+   "seconds": 0.2
   },
   "cass": {
    "ok": true,
@@ -85,7 +88,7 @@
    "reachable": 7,
    "articles": 3,
    "new": 0,
-   "seconds": 24.5
+   "seconds": 21.6
   }
  },
  "not_collected": {
