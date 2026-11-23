@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5339)"
+"write_error": "Unterminated string starting at: line 9 column 5 (char 2998)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 6125)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 5996)"
 },
 "codex:1042061": {
 "v": 2,
@@ -33026,7 +33026,8 @@
 ],
 "reason": "Equivalence of training for environmental enforcement officials; enforcement rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042065"
 },
 "codex:1042041": {
 "v": 2,
@@ -33082,7 +33083,9 @@
 ],
 "reason": "Language use at Flemish administrative courts, which include the permit dispute court.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Sets Dutch as the procedural language before Flemish administrative courts; no environmental subject matter or environmental obligations in the text."
 },
 "codex:1042031": {
 "v": 2,
@@ -33111,7 +33114,9 @@
 ],
 "reason": "Procedural authentication rule for Flemish administrative courts, which hear permit disputes; title vague.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Adds MyGov.be as a login method for the Flemish administrative courts' digital platform; no environmental obligations are changed or clarified."
 },
 "codex:1042013": {
 "v": 2,
@@ -59689,7 +59694,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0776"
 },
 "rvvb:RVVB.2526.0775": {
 "v": 2,
@@ -59700,7 +59706,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0775"
 },
 "rvvb:RVVB.2526.0774": {
 "v": 2,
@@ -59711,7 +59718,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0774"
 },
 "rvvb:RVVB.2526.0773": {
 "v": 2,
@@ -59722,7 +59730,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0773"
 },
 "rvvb:RVVB.2526.0772": {
 "v": 2,
@@ -59733,7 +59742,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0772"
 },
 "rvvb:RVVB.2526.0771": {
 "v": 2,
@@ -59798,7 +59808,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0764"
 },
 "rvvb:RVVB.2526.0763": {
 "v": 2,
@@ -59809,7 +59820,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0763"
 },
 "rvvb:RVVB.2526.0762": {
 "v": 2,
@@ -59820,7 +59832,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0762"
 },
 "rvvb:RVVB.2526.0759": {
 "v": 2,
@@ -59831,7 +59844,8 @@
 ],
 "reason": "Title too vague; only a case number is given, so a person should check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0759"
 },
 "rvvb:RVVB.2526.0758": {
 "v": 2,
@@ -64594,15 +64608,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 8,
-"found_not_relevant_on_reading": 4,
+"this_run": 10,
+"found_not_relevant_on_reading": 2,
 "failed": 2,
-"waiting": 458,
+"waiting": 446,
 "api": {
 "calls": 14,
-"input_tokens": 130565,
-"output_tokens": 36213,
-"usd": 0.6233
+"input_tokens": 206331,
+"output_tokens": 42083,
+"usd": 0.8335
 },
 "updated": "2026-11-23"
 }
