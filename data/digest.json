@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:57:45Z",
+ "updated": "2026-11-23T21:08:27Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -38277,6 +38277,501 @@
    ],
    "inbox": [
     "codex:1041724"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041722",
+   "d": "2026-01-15",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders approves updated LUC air sampling, measurement and analysis compendium, applying from 15 January 2026",
+   "a": "A Flemish ministerial decree approves the updated compendium for air sampling, measurement and analysis (LUC), which accredited laboratories must apply under VLAREL. The approval applies to laboratories from 15 January 2026 and to everyone else from 7 February 2026.",
+   "b": "The decree affects laboratories accredited in Flanders for air sampling, testing, measurement and analysis, and operators who use LUC methods, for example for self-monitoring. It approves the updated LUC compendium, which amends a number of existing methods and adds two new ones. The compendium covers emission measurements (dust, gaseous components, volatile organic compounds, heavy components such as dioxins, PAHs, PCBs and PFAS, and diffuse emissions) and deposition measurements of dioxins. For laboratories, the approval takes effect on 15 January 2026, which is before publication, for compliance with the VLAREL recognition conditions (chapter 4) and the conditions of use (chapter 8). For all other purposes, including operators, it takes effect on the tenth day after publication in the Belgian Official Gazette, i.e. 7 February 2026. The decree was published on 28 January 2026. The 15 January date is meant to align the start of all the compendia that recognised laboratories must apply under VLAREL (water, air, soil protection, manure decree, materials and soil decree).",
+   "nl": [
+    "Vlaanderen keurt geactualiseerd compendium LUC voor lucht goed, geldig voor laboratoria vanaf 15 januari 2026",
+    "Een Vlaams ministerieel besluit keurt het geactualiseerde compendium voor de monsterneming, meting en analyse van lucht (LUC) goed, dat erkende laboratoria krachtens het VLAREL moeten toepassen. De goedkeuring geldt voor laboratoria vanaf 15 januari 2026 en voor alle anderen vanaf 7 februari 2026.",
+    "Het besluit treft in Vlaanderen erkende laboratoria voor monsterneming, beproeving, meting en analyse van lucht, en exploitanten die LUC-methoden gebruiken, bijvoorbeeld voor zelfcontrole. Het keurt het geactualiseerde LUC-compendium goed, waarin een aantal bestaande methoden zijn aangepast en twee nieuwe methoden zijn opgenomen. Het compendium omvat emissiemetingen (stof, gasvormige componenten, vluchtige organische stoffen, zware componenten zoals dioxines, PAK's, PCB's en PFAS, en diffuse emissies) en depositiemetingen van dioxines. Voor de laboratoria heeft de goedkeuring uitwerking op 15 januari 2026, dus vóór de bekendmaking, voor de naleving van de erkenningsvoorwaarden (hoofdstuk 4 VLAREL) en de gebruikseisen (hoofdstuk 8). Voor het overige, ook voor exploitanten, heeft ze uitwerking vanaf de tiende dag na de bekendmaking in het Belgisch Staatsblad, dus op 7 februari 2026. Het besluit werd op 28 januari 2026 bekendgemaakt. De datum van 15 januari moet de inwerkingtreding afstemmen van alle compendia die erkende laboratoria krachtens het VLAREL moeten toepassen (water, lucht, bodembescherming, Mestdecreet, Materialen- en Bodemdecreet)."
+   ],
+   "fr": [
+    "La Flandre approuve le compendium LUC actualisé pour l'air, applicable aux laboratoires dès le 15 janvier 2026",
+    "Un arrêté ministériel flamand approuve le compendium actualisé pour l'échantillonnage, le mesurage et l'analyse de l'air (LUC), que les laboratoires agréés doivent appliquer en vertu du VLAREL. L'approbation produit ses effets le 15 janvier 2026 pour les laboratoires et le 7 février 2026 pour les autres.",
+    "L'arrêté concerne les laboratoires agréés en Flandre pour l'échantillonnage, les essais, les mesurages et les analyses de l'air, ainsi que les exploitants qui utilisent les méthodes LUC, par exemple dans le cadre de l'autocontrôle. Il approuve le compendium LUC actualisé, dans lequel plusieurs méthodes existantes sont adaptées et deux nouvelles méthodes sont insérées. Le compendium couvre les mesurages d'émissions (poussières, composants gazeux, composés organiques volatils, composants lourds tels que dioxines, HAP, PCB et PFAS, et émissions diffuses) ainsi que les mesurages de dépôt de dioxines. Pour les laboratoires, l'approbation produit ses effets le 15 janvier 2026, soit avant la publication, pour le respect des conditions d'agrément (chapitre 4 du VLAREL) et des exigences d'utilisation (chapitre 8). Pour le reste, y compris pour les exploitants, elle produit ses effets le dixième jour après la publication au Moniteur belge, soit le 7 février 2026. L'arrêté a été publié le 28 janvier 2026. La date du 15 janvier vise à aligner l'entrée en vigueur de tous les compendiums que les laboratoires agréés doivent appliquer en vertu du VLAREL (eau, air, protection des sols, décret sur les engrais, décret sur les matériaux et les sols)."
+   ],
+   "scope": "Ministerieel besluit van 15 januari 2026 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van lucht (LUC): artikelen 1-2 en bijlage; VLAREL art. 45, §1, hoofdstukken 4 en 8",
+   "dates": {
+    "adopted": "2026-01-15",
+    "published": "2026-01-28",
+    "in_force": "2026-02-07"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot goedkeuring van het compendium voor de monsterneming, meting en analyse van lucht (LUC)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041722&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041722"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041721",
+   "d": "2026-01-15",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders approves updated water sampling and analysis compendium (WAC), effective 15 Jan 2026 for labs",
+   "a": "A ministerial decree of 15 January 2026 approves the updated Flemish compendium for water sampling, measurement and analysis (WAC). It applies to accredited laboratories from 15 January 2026 and to others ten days after publication.",
+   "b": "The updated WAC is relevant to laboratories accredited under VLAREL and to operators who rely on WAC methods, for example for self-monitoring. The decree approves the compendium and its table of contents. These cover sampling and pre-treatment, organoleptic, inorganic, organic and biological methods, and validation (performance characteristics, measurement uncertainty, quality requirements and reporting conditions). Methods were amended and new ones added, including methods for PFAS and ultra-short-chain PFAS in water. The approval takes effect on 15 January 2026 for laboratories, as regards the accreditation conditions in chapter 4 of VLAREL and the usage requirements in chapter 8. For all other purposes, including operators, it takes effect on the tenth day after publication in the Belgisch Staatsblad. The decree was published on 28 January 2026 and the start date in the database is 7 February 2026. The same date of entry into force was chosen for all compendia for accredited laboratories, because they cross-refer to each other. The full compendium is available online on the EMIS VITO website.",
+   "nl": [
+    "Vlaanderen keurt bijgewerkt compendium voor monsterneming en analyse van water (WAC) goed, voor laboratoria van 15 januari 2026",
+    "Een ministerieel besluit van 15 januari 2026 keurt het bijgewerkte Vlaamse compendium voor de monsterneming, meting en analyse van water (WAC) goed. Het geldt voor erkende laboratoria vanaf 15 januari 2026 en voor anderen tien dagen na de bekendmaking.",
+    "Het bijgewerkte WAC is van belang voor laboratoria die erkend zijn volgens VLAREL en voor exploitanten die de WAC-methoden gebruiken, bijvoorbeeld voor zelfcontrole. Het besluit keurt het compendium en de inhoudstafel goed. Die omvatten monsterneming en voorbehandeling, organoleptische, anorganische, organische en biologische analysemethoden en validatie (prestatiekenmerken, meetonzekerheid, kwaliteitseisen en rapporteringsvoorwaarden). Methoden werden aangepast en nieuwe methoden toegevoegd, onder meer voor PFAS en ultrakorte keten PFAS in water. De goedkeuring heeft uitwerking op 15 januari 2026 voor de laboratoria, wat betreft de erkenningsvoorwaarden in hoofdstuk 4 van het VLAREL en de gebruikseisen in hoofdstuk 8. Voor het overige, ook voor exploitanten, geldt ze vanaf de tiende dag na de bekendmaking in het Belgisch Staatsblad. Het besluit werd op 28 januari 2026 bekendgemaakt en de ingangsdatum in de databank is 7 februari 2026. Voor alle compendia voor erkende laboratoria werd dezelfde datum van inwerkingtreding gekozen, omdat ze naar elkaar verwijzen. Het volledige compendium is online beschikbaar op de website EMIS VITO."
+   ],
+   "fr": [
+    "La Flandre approuve le compendium actualisé pour l'échantillonnage et l'analyse de l'eau (WAC), pour les laboratoires dès le 15 janvier 2026",
+    "Un arrêté ministériel du 15 janvier 2026 approuve le compendium flamand actualisé pour l'échantillonnage, la mesure et l'analyse de l'eau (WAC). Il s'applique aux laboratoires agréés dès le 15 janvier 2026 et aux autres dix jours après la publication.",
+    "Le WAC actualisé concerne les laboratoires agréés en vertu du VLAREL et les exploitants qui appliquent les méthodes du WAC, par exemple pour l'autocontrôle. L'arrêté approuve le compendium et sa table des matières. Ceux-ci couvrent l'échantillonnage et le prétraitement, les méthodes d'analyse organoleptiques, inorganiques, organiques et biologiques, ainsi que la validation (caractéristiques de performance, incertitude de mesure, exigences de qualité et conditions de rapportage). Des méthodes ont été modifiées et de nouvelles ont été ajoutées, notamment pour les PFAS et les PFAS à chaîne ultracourte dans l'eau. L'approbation produit ses effets le 15 janvier 2026 pour les laboratoires, quant aux conditions d'agrément du chapitre 4 du VLAREL et aux exigences d'utilisation du chapitre 8. Pour le surplus, notamment pour les exploitants, elle produit ses effets le dixième jour après la publication au Moniteur belge. L'arrêté a été publié le 28 janvier 2026 et la date de début dans la base de données est le 7 février 2026. La même date d'entrée en vigueur a été retenue pour tous les compendiums destinés aux laboratoires agréés, car ils se renvoient les uns aux autres. Le compendium complet est disponible en ligne sur le site EMIS VITO."
+   ],
+   "scope": "Ministerieel besluit van 15 januari 2026 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC); enig artikel, artikel 2 en bijlage; VLAREL hoofdstukken 4 en 8",
+   "dates": {
+    "adopted": "2026-01-15",
+    "published": "2026-01-28",
+    "in_force": "2026-02-07"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC)",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041721&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041721"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0109",
+   "d": "2026-01-14",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Union Registry rules for Effort Sharing Regulation updated to reflect the 2023 amendment",
+   "a": "Delegated Regulation 2019/1122 is amended so the Union Registry follows the revised Effort Sharing Regulation: annual emission allocation creation, transfer conditions, flexibility ceilings and LULUCF removal units. An erroneous cross-reference on reversing transfers is also corrected.",
+   "b": "The changes concern the central administrator and the Member States' national administrators operating accounts in the Union Registry under the Effort Sharing Regulation (EU) 2018/842, not installations under the EU ETS. The central administrator must create annual emission allocations (AEAs) in the EU Annex II AEA Total Quantity Account on the basis of the percentages Member States notify for the ETS flexibility, including upward revisions. Transfers of AEAs between Member States are blocked where the Member State has not informed the Climate Change Committee of its intended transfer. The percentage ceilings in the registry rules are realigned with the amended Regulation: for example 7.5 % instead of 10 % in Article 59i, 25 % instead of 30 % in Article 59j, 10 % and 15 % instead of 5 % and 10 % in Article 59l, and 60 % instead of 70 % in Article 59n. Transfers of land removal units from the LULUCF Compliance Account to the ESR Compliance Account are capped at half of the maximum net removals in Annex III for each of the periods 2021–2025 and 2026–2030. The term 'land mitigation units' (LMUs) becomes 'land removal units' (LRUs), and transfers to ESR or LULUCF Compliance Accounts made in error may be reversed at the national administrator's request. The Regulation was adopted on 14 January 2026, published on 7 April 2026 and enters into force on the twentieth day after publication.",
+   "nl": [
+    "Regels voor het Unieregister onder de Effort Sharing-verordening aangepast aan de wijziging van 2023",
+    "Gedelegeerde Verordening 2019/1122 wordt gewijzigd zodat het Unieregister de herziene Effort Sharing-verordening volgt: aanmaak van jaarlijkse emissietoewijzingen, overdrachtsvoorwaarden, plafonds voor flexibiliteit en LULUCF-verwijderingseenheden. Een foutieve verwijzing over het ongedaan maken van overdrachten wordt gecorrigeerd.",
+    "De wijzigingen betreffen de centrale administrateur en de nationale administrateurs van de lidstaten die rekeningen in het Unieregister beheren onder de Effort Sharing-verordening (EU) 2018/842, niet de installaties onder het EU ETS. De centrale administrateur moet jaarlijkse emissietoewijzingen (AEA's) aanmaken op de EU Annex II AEA Total Quantity Account op basis van de percentages die lidstaten melden voor de ETS-flexibiliteit, met inbegrip van herzieningen naar boven. Overdrachten van AEA's tussen lidstaten worden geweigerd wanneer de lidstaat het Comité voor klimaatverandering niet heeft geïnformeerd over de voorgenomen overdracht. De percentageplafonds in de registerregels worden afgestemd op de gewijzigde verordening: bijvoorbeeld 7,5 % in plaats van 10 % in artikel 59i, 25 % in plaats van 30 % in artikel 59j, 10 % en 15 % in plaats van 5 % en 10 % in artikel 59l, en 60 % in plaats van 70 % in artikel 59n. Overdrachten van landverwijderingseenheden van de LULUCF-nalevingsrekening naar de ESR-nalevingsrekening zijn begrensd tot de helft van de maximale totale nettoverwijderingen uit bijlage III, voor elk van de periodes 2021-2025 en 2026-2030. De term 'land mitigation units' (LMU's) wordt 'land removal units' (LRU's), en overdrachten naar ESR- of LULUCF-nalevingsrekeningen die per vergissing zijn gestart, kunnen op verzoek van de nationale administrateur ongedaan worden gemaakt. De verordening is aangenomen op 14 januari 2026, bekendgemaakt op 7 april 2026 en treedt in werking op de twintigste dag na bekendmaking."
+   ],
+   "fr": [
+    "Règles du registre de l'Union sous le règlement sur la répartition de l'effort adaptées à la modification de 2023",
+    "Le règlement délégué 2019/1122 est modifié pour que le registre de l'Union suive le règlement sur la répartition de l'effort révisé : création des allocations annuelles d'émissions, conditions de transfert, plafonds de flexibilité et unités d'absorption LULUCF. Une référence erronée relative à l'annulation des transferts est corrigée.",
+    "Les modifications concernent l'administrateur central et les administrateurs nationaux des États membres qui gèrent des comptes dans le registre de l'Union au titre du règlement (UE) 2018/842 sur la répartition de l'effort, et non les installations relevant du SEQE-UE. L'administrateur central doit créer des allocations annuelles d'émissions (AEA) sur le compte EU Annex II AEA Total Quantity Account à partir des pourcentages notifiés par les États membres pour la flexibilité SEQE, y compris en cas de révision à la hausse. Les transferts d'AEA entre États membres sont refusés lorsque l'État membre n'a pas informé le Comité du changement climatique de son intention de transfert. Les plafonds en pourcentage des règles du registre sont alignés sur le règlement modifié : par exemple 7,5 % au lieu de 10 % à l'article 59i, 25 % au lieu de 30 % à l'article 59j, 10 % et 15 % au lieu de 5 % et 10 % à l'article 59l, et 60 % au lieu de 70 % à l'article 59n. Les transferts d'unités d'absorption des terres du compte de conformité LULUCF vers le compte de conformité ESR sont limités à la moitié du maximum des absorptions nettes totales de l'annexe III, pour chacune des périodes 2021-2025 et 2026-2030. Le terme « land mitigation units » (LMU) devient « land removal units » (LRU), et les transferts vers des comptes de conformité ESR ou LULUCF initiés par erreur peuvent être annulés à la demande de l'administrateur national. Le règlement a été adopté le 14 janvier 2026, publié le 7 avril 2026 et entre en vigueur le vingtième jour suivant sa publication."
+   ],
+   "scope": "Delegated Regulation (EU) 2019/1122 (Union Registry) — Articles 59a, 59b, 59f, 59h to 59l, 59m, 59n, 59o, 59q, 59s and Annex I, as amended and corrected",
+   "dates": {
+    "adopted": "2026-01-14",
+    "published": "2026-04-07",
+    "in_force": "2026-04-27"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/109 of 14 January 2026 amending and correcting Delegated Regulation (EU) 2019/1122 as regards the ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0109"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0109"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265393",
+   "d": "2026-01-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State annuls permit: 5% nitrogen threshold alone is no sound basis for Natura 2000 assessment",
+   "a": "The Council of State annulled a Walloon single permit for a wood-waste cogeneration plant at Visé. The Natura 2000 assessment relied on a 5% nitrogen deposition threshold without considering the conservation status of the sites, and ignored Dutch sites beyond the study area.",
+   "b": "The ruling concerns permit authorities and applicants whose projects emit acidifying or nitrogen-based atmospheric deposition near Natura 2000 sites, including across borders. The Council of State accepts that an authority may use a standard set by another authority as a reference, but only if it meets the scientific soundness required by the nature conservation law. The assessment used the Flemish significance threshold of 5% of the critical deposition load, which the Flemish Permit Disputes Council had already set aside in 2021. A stricter 1% threshold adopted afterwards was also rejected by that Council in 2022. The Council of State finds that the assessment did not consider whether the habitats concerned (calcareous grasslands) were already saturated, so it could not show that the integrity of the sites under Article 29, § 3 of the Nature Conservation Act of 12 July 1973 would not be harmed. A permit condition requiring later monitoring does not cure this gap. The study also left out two Dutch Natura 2000 sites about 4 to 5 km away, whose critical deposition value was reportedly exceeded, and did not examine their conservation objectives, although a municipality and a Dutch province had raised the point during the public inquiry. The permit of 17 January 2022 is annulled on this basis, the other grievances are not examined, and the remainder of the application is dismissed.",
+   "nl": [
+    "Raad van State vernietigt vergunning: drempel van 5 % stikstofdepositie volstaat niet voor Natura 2000-beoordeling",
+    "De Raad van State vernietigde een Waalse enige vergunning voor een warmtekrachtcentrale op houtafval te Wezet. De Natura 2000-beoordeling steunde op een drempel van 5 % stikstofdepositie zonder rekening te houden met de staat van instandhouding, en liet Nederlandse gebieden buiten het studiegebied buiten beschouwing.",
+    "De uitspraak treft vergunningverlenende overheden en aanvragers van projecten die verzurende of stikstofhoudende atmosferische depositie veroorzaken in de buurt van Natura 2000-gebieden, ook grensoverschrijdend. De Raad van State aanvaardt dat een overheid een door een andere overheid vastgestelde norm als referentie mag gebruiken, maar alleen als die norm voldoet aan de wetenschappelijke deugdelijkheid die de natuurbehoudswet vereist. De beoordeling hanteerde de Vlaamse significantiedrempel van 5 % van de kritische depositiewaarde, die de Vlaamse Raad voor Vergunningsbetwistingen in 2021 al had terzijde geschoven. Een daarna ingevoerde strengere drempel van 1 % werd door die Raad in 2022 eveneens verworpen. Volgens de Raad van State hield de beoordeling geen rekening met de vraag of de betrokken habitats (kalkgraslanden) al verzadigd waren. Daardoor kon niet worden aangetoond dat de natuurlijke kenmerken van de gebieden in de zin van artikel 29, § 3 van de Waalse natuurbehoudswet van 12 juli 1973 niet zouden worden aangetast. Een vergunningsvoorwaarde voor latere opvolging herstelt dat gebrek niet. Bovendien werden twee Nederlandse Natura 2000-gebieden op circa 4 tot 5 km, waar de kritische depositiewaarde naar verluidt overschreden was, niet onderzocht en werden hun instandhoudingsdoelstellingen niet beoordeeld, hoewel een gemeente en een Nederlandse provincie dit tijdens het openbaar onderzoek hadden opgeworpen. De vergunning van 17 januari 2022 wordt op die grond vernietigd, de overige grieven worden niet onderzocht en het beroep wordt voor het overige verworpen."
+   ],
+   "fr": [
+    "Le Conseil d'État annule un permis : le seuil de 5 % de dépôt d'azote ne suffit pas pour l'évaluation Natura 2000",
+    "Le Conseil d'État a annulé un permis unique wallon pour une centrale de cogénération à déchets de bois à Visé. L'évaluation des incidences Natura 2000 reposait sur un seuil de 5 % de dépôt d'azote sans tenir compte de l'état de conservation des sites et ignorait des sites néerlandais situés hors du périmètre d'étude.",
+    "L'arrêt concerne les autorités délivrant les permis et les demandeurs de projets qui génèrent des retombées atmosphériques acidifiantes ou azotées à proximité de sites Natura 2000, y compris au-delà des frontières. Le Conseil d'État admet qu'une autorité puisse prendre pour référence une norme établie par une autre autorité, mais à condition qu'elle réponde à la solidité scientifique exigée par la loi sur la conservation de la nature. L'évaluation appliquait le seuil flamand de 5 % de la valeur de charge critique, que le Conseil flamand pour la contestation des autorisations avait déjà écarté en 2021. Un seuil plus strict de 1 %, adopté ensuite, a aussi été rejeté par ce Conseil en 2022. Selon le Conseil d'État, l'évaluation n'a pas examiné si les habitats concernés (pelouses calcaires) étaient déjà saturés. Elle ne permettait donc pas de s'assurer qu'il ne serait pas porté atteinte à l'intégrité des sites au sens de l'article 29, § 3, de la loi du 12 juillet 1973 sur la conservation de la nature. Une condition de suivi ultérieur ne corrige pas cette lacune. L'étude a en outre omis deux sites Natura 2000 néerlandais situés à environ 4 à 5 km, dont la charge critique était selon les rapports déjà dépassée, et n'a pas examiné leurs objectifs de conservation, alors qu'une commune et une province néerlandaises avaient soulevé la question lors de l'enquête publique. Le permis du 17 janvier 2022 est annulé pour ce motif, les autres griefs ne sont pas examinés et le recours est rejeté pour le surplus."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.393 du 13 janvier 2026 – article 29, § 3, de la loi du 12 juillet 1973 sur la conservation de la nature; permis unique (centrale de cogénération à déchets de bois, Visé/Lixhe)",
+   "dates": {
+    "adopted": "2026-01-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265393. Par une requête introduite le 12 septembre 2023 par la voie électronique, les parties requérantes demande",
+     "https://www.raadvst-consetat.be/arresten/265393"
+    ]
+   ],
+   "inbox": [
+    "rvs:265393"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0081",
+   "d": "2026-01-13",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Union Registry rules extended to LULUCF accounts, units and flexibilities under Regulation (EU) 2018/841",
+   "a": "Delegated Regulation (EU) 2019/1122 is amended so that the Union Registry records LULUCF emissions and removals and handles the units and flexibilities of Regulation (EU) 2018/841. Member States must use the Registry for these obligations, alongside the ETS and Effort Sharing ones.",
+   "b": "The amendment concerns Member State national administrators, who must use the Union Registry for their obligations under Regulation (EU) 2018/841, and the central administrator of the Registry. It adds definitions for the two LULUCF compliance periods (2021–2025 and 2026–2030) and for land removal units, managed forest land, Finland and land use flexibility allocation units. It provides for LULUCF compliance accounts per Member State and for central accounts, and sets out how LULUCF data are entered (in 2027 and 2032), how balances and compliance status figures are calculated, and how units are created, transferred and deleted when accounts close. Detailed conditions govern transfers of land removal units between Member States and to Effort Sharing accounts, transfers of annual emission allocations from Effort Sharing accounts to LULUCF accounts (requests within three months of the balance calculation), and transfers under the flexibilities of Articles 13, 13a and 13b. For the second period, excess net emissions are multiplied by a factor of 1.08. The Registry's automated checks and the information displayed to account holders are adapted through the annexes. The Regulation enters into force on the twentieth day after its publication in the Official Journal of 7 April 2026.",
+   "nl": [
+    "Regels voor het EU-register uitgebreid naar LULUCF-rekeningen, -eenheden en -flexibiliteiten (Verordening (EU) 2018/841)",
+    "Gedelegeerde Verordening (EU) 2019/1122 wordt gewijzigd zodat het EU-register LULUCF-emissies en -verwijderingen registreert en de eenheden en flexibiliteiten van Verordening (EU) 2018/841 verwerkt. De lidstaten moeten het register hiervoor gebruiken, naast de verplichtingen onder het ETS en de inspanningsverdeling.",
+    "De wijziging betreft de nationale administrateurs van de lidstaten, die het EU-register moeten gebruiken voor hun verplichtingen onder Verordening (EU) 2018/841, en de centrale administrateur van het register. Zij voegt definities toe voor de twee LULUCF-nalevingsperioden (2021–2025 en 2026–2030) en voor landverwijderingseenheden, beheerd bosland, Finland en eenheden voor de flexibiliteit inzake landgebruik. Zij voorziet in LULUCF-nalevingsrekeningen per lidstaat en in centrale rekeningen, en bepaalt hoe LULUCF-gegevens worden ingevoerd (in 2027 en 2032), hoe saldi en nalevingsstatuscijfers worden berekend en hoe eenheden worden aangemaakt, overgedragen en geschrapt bij de afsluiting van rekeningen. Gedetailleerde voorwaarden gelden voor overdrachten van landverwijderingseenheden tussen lidstaten en naar rekeningen voor de inspanningsverdeling, voor overdrachten van jaarlijkse emissietoewijzingen van die rekeningen naar LULUCF-rekeningen (aanvragen binnen drie maanden na de saldoberekening) en voor overdrachten in het kader van de flexibiliteiten van de artikelen 13, 13a en 13b. Voor de tweede periode worden overtollige nettoemissies vermenigvuldigd met een factor 1,08. De geautomatiseerde controles van het register en de informatie voor rekeninghouders worden aangepast via de bijlagen. De verordening treedt in werking op de twintigste dag na publicatie in het Publicatieblad van 7 april 2026."
+   ],
+   "fr": [
+    "Règles du registre de l'Union étendues aux comptes, unités et flexibilités LULUCF du règlement (UE) 2018/841",
+    "Le règlement délégué (UE) 2019/1122 est modifié pour que le registre de l'Union enregistre les émissions et absorptions UTCATF et traite les unités et flexibilités du règlement (UE) 2018/841. Les États membres doivent utiliser le registre à cette fin, en plus des obligations relevant du SEQE et de la répartition de l'effort.",
+    "La modification concerne les administrateurs nationaux des États membres, qui doivent utiliser le registre de l'Union pour leurs obligations au titre du règlement (UE) 2018/841, ainsi que l'administrateur central du registre. Elle ajoute des définitions pour les deux périodes de conformité UTCATF (2021-2025 et 2026-2030) et pour les unités d'absorption de terres, les terres forestières gérées, la Finlande et les unités d'allocation de flexibilité en matière d'utilisation des terres. Elle prévoit des comptes de conformité UTCATF par État membre et des comptes centraux, et fixe les modalités d'introduction des données UTCATF (en 2027 et 2032), de calcul des soldes et des chiffres de statut de conformité, ainsi que de création, de transfert et de suppression des unités lors de la clôture des comptes. Des conditions détaillées régissent les transferts d'unités d'absorption de terres entre États membres et vers les comptes de la répartition de l'effort, les transferts d'allocations annuelles d'émissions de ces comptes vers les comptes UTCATF (demandes dans les trois mois suivant le calcul du solde) et les transferts au titre des flexibilités des articles 13, 13 bis et 13 ter. Pour la seconde période, les émissions nettes excédentaires sont multipliées par un facteur de 1,08. Les contrôles automatisés du registre et les informations affichées aux titulaires de compte sont adaptés par les annexes. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel du 7 avril 2026."
+   ],
+   "scope": "Règlement délégué (UE) 2026/81 modifiant le règlement délégué (UE) 2019/1122 (registre de l'Union) : articles 2, 3, 4, 7, 12, 27ter, 59t à 59ad, 70 et annexes I et XIII, en lien avec le règlement (UE) 2018/841",
+   "dates": {
+    "adopted": "2026-01-13",
+    "published": "2026-04-07",
+    "in_force": "2026-04-27"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/81 of 13 January 2026 amending Delegated Regulation (EU) 2019/1122 as regards the functioning of t",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0081"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0081"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265386",
+   "d": "2026-01-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: municipal road via permit route must fit land zoning; Ranst Nieuwe Maasweg decisions annulled",
+   "a": "The Council of State rules that the permit-integrated route for creating a municipal road requires the road to fit the realisation of the land's zoning, as a standalone legality condition for the municipal council's decision. It annulled the Ranst council decision and the Flemish minister's decision on the Nieuwe Maasweg.",
+   "b": "The ruling concerns municipalities and project developers who create or change municipal roads in Flanders through an environmental permit application under the Municipal Roads Decree of 3 May 2019. The regular route runs through a municipal alignment plan (articles 16 to 19), with a provisional adoption, a separate public inquiry and a final adoption by the municipal council. Article 12, § 2 allows an exceptional route in which the road is included in an environmental permit application and the council takes a single decision. The Council of State holds that the condition that the change 'fits within the realisation of the zoning of the land' is a standalone legality requirement for the council's decision, independent of the lawfulness of the permit and of the other limits in the decree. It is for the municipal council to assess this condition. Here the new access road to a business zone also crossed nature zone and agricultural zone, which it does not fit, and the municipality did not deny the conflict. The regular procedure therefore had to be used, absent an initiative for a spatial implementation plan. The Council of State annulled the council decision of 26 June 2023 and the Flemish minister's decision of 5 December 2023, which had wrongly rejected the complaint about article 17. The ruling was delivered on 12 January 2026 and is to be published by extract in the same way as the annulled decisions.",
+   "nl": [
+    "Raad van State: gemeenteweg via vergunningsspoor moet passen in bestemming; besluiten Nieuwe Maasweg Ranst vernietigd",
+    "De Raad van State oordeelt dat de inpasbaarheid in de realisatie van de bestemming van de gronden een zelfstandige wettigheidsvoorwaarde is voor het afwijkende spoor via de omgevingsvergunning. Het besluit van de gemeenteraad van Ranst en dat van de Vlaamse minister over de Nieuwe Maasweg worden vernietigd.",
+    "Het arrest betreft gemeenten en projectontwikkelaars die in Vlaanderen een gemeenteweg aanleggen of wijzigen via een omgevingsvergunningsaanvraag op grond van het gemeentewegendecreet van 3 mei 2019. De reguliere procedure verloopt via een gemeentelijk rooilijnplan (artikelen 16 tot 19), met voorlopige vaststelling, een afzonderlijk openbaar onderzoek en definitieve vaststelling door de gemeenteraad. Artikel 12, § 2 laat bij uitzondering toe de weg op te nemen in een omgevingsvergunningsaanvraag, waarbij de gemeenteraad één beslissing neemt. De Raad van State oordeelt dat de voorwaarde dat de wijziging 'past in het kader van de realisatie van de bestemming van de gronden' een zelfstandige wettigheidsvereiste is voor het besluit van de gemeenteraad, los van de wettigheid van de vergunning en van de andere beperkingen van het decreet. Het komt de gemeenteraad toe dit te beoordelen. Hier doorsneed de nieuwe ontsluitingsweg voor een bedrijvenzone ook natuurgebied en agrarisch gebied, waarin hij niet past, en de gemeente betwistte de tegenstrijdigheid niet. De reguliere procedure moest dus worden gevolgd, bij gebrek aan een initiatief voor een ruimtelijk uitvoeringsplan. Het gemeenteraadsbesluit van 26 juni 2023 en het ministerieel besluit van 5 december 2023, dat de grief over artikel 17 ten onrechte verwierp, worden vernietigd. Het arrest werd uitgesproken op 12 januari 2026 en moet bij uittreksel worden bekendgemaakt op dezelfde wijze als de vernietigde besluiten."
+   ],
+   "fr": [
+    "Conseil d'État : voie communale par permis d'environnement doit s'inscrire dans l'affectation ; décisions Ranst annulées",
+    "Le Conseil d'État juge que l'inscription dans la réalisation de l'affectation des terrains est une condition de légalité autonome de la voie dérogatoire par permis d'environnement. Il annule la décision du conseil communal de Ranst et celle du ministre flamand relatives à la Nieuwe Maasweg.",
+    "L'arrêt concerne les communes et les porteurs de projet qui créent ou modifient une voie communale en Flandre par une demande de permis d'environnement, sur la base du décret du 3 mai 2019 relatif aux voiries communales. La procédure ordinaire passe par un plan d'alignement communal (articles 16 à 19), avec adoption provisoire, enquête publique distincte et adoption définitive par le conseil communal. L'article 12, § 2 permet, par exception, d'inclure la voie dans une demande de permis d'environnement, le conseil communal prenant alors une seule décision. Le Conseil d'État juge que la condition selon laquelle la modification « s'inscrit dans le cadre de la réalisation de l'affectation des terrains » est une exigence de légalité autonome pour la décision du conseil communal, indépendante de la légalité du permis et des autres limites du décret. Il appartient au conseil communal de l'apprécier. En l'espèce, la nouvelle voie de desserte d'une zone d'entreprises traversait aussi une zone naturelle et une zone agricole, dans lesquelles elle ne s'inscrit pas, et la commune ne contestait pas la contradiction. La procédure ordinaire devait donc être suivie, en l'absence d'initiative de plan d'exécution spatial. La décision du conseil communal du 26 juin 2023 et celle du ministre du 5 décembre 2023, qui avait rejeté à tort le grief tiré de l'article 17, sont annulées. L'arrêt a été prononcé le 12 janvier 2026 et doit être publié par extrait de la même manière que les décisions annulées."
+   ],
+   "scope": "Raad van State, arrest nr. 265.386 van 12 januari 2026: gemeentewegendecreet van 3 mei 2019, artt. 12 § 2 en 16-19 (rooilijnplan Nieuwe Maasweg, Ranst)",
+   "dates": {
+    "adopted": "2026-01-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265386. 1. Het beroep, ingesteld op 11 april 2024, strekt t ot de nietigverklaring van: 1° het besluit van de gem",
+     "https://www.raadvst-consetat.be/arresten/265386"
+    ]
+   ],
+   "inbox": [
+    "rvs:265386"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265366",
+   "d": "2026-01-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: public-safety risk must be weighed in 'good planning' review of demolition permits",
+   "a": "The Council of State rejected a challenge to a Walloon refusal of a demolition permit for a dilapidated building. It held that the permit authority must factor a sufficiently substantiated public-safety risk into its assessment of the good planning of the area, even though municipal police rules are not the legality test.",
+   "b": "The ruling concerns permit applicants, municipalities and Walloon authorities deciding on urban planning permits under the CoDT, especially for demolishing unsafe buildings that are also the subject of a mayoral police order. Legality of a permit is assessed under planning police and not under another administrative police, so Articles 133 and 135 §2 of the New Municipal Law are not planning rules. However, the needs listed in Article D.I.1 §1 CoDT can be affected by a public-safety risk. An authority whose attention is specifically drawn to a sufficiently substantiated risk to material public order must therefore take it into account when assessing good planning. That assessment is one of expediency, which the Council of State reviews only for manifest error. A minister ruling on an administrative appeal acts as active administration, need not answer each argument point by point, and may use grounds different from those of the first decision. Documents that post-date the decision are in principle disregarded unless the authority should have known their content. Demolition under a police order without a prior permit is possible only in extreme urgency amounting to force majeure, which was not shown. The refusal of 3 June 2022 was upheld because the building has heritage features, no replacement project existed and demolition risked leaving a gap on the square. The appeal was dismissed on 12 January 2026 and costs were charged to the applicant.",
+   "nl": [
+    "Raad van State: veiligheidsrisico moet meegewogen worden bij de beoordeling van de goede ruimtelijke ordening bij sloopvergunningen",
+    "De Raad van State verwierp het beroep tegen de weigering door het Waalse Gewest van een sloopvergunning voor een vervallen gebouw. Hij oordeelde dat de vergunningverlenende overheid een voldoende onderbouwd risico voor de openbare veiligheid moet meewegen in haar beoordeling van de goede plaatselijke ordening, ook al is de gemeentelijke politieregeling niet de wettigheidstoets.",
+    "Het arrest betreft vergunningsaanvragers, gemeenten en Waalse overheden die beslissen over stedenbouwkundige vergunningen onder het CoDT, in het bijzonder voor de sloop van onveilige gebouwen waarvoor ook een politiebesluit van de burgemeester bestaat. De wettigheid van een vergunning wordt beoordeeld in het licht van de politie van de ruimtelijke ordening en niet van een andere bestuurspolitie. De artikelen 133 en 135, § 2 van de Nieuwe Gemeentewet zijn dus geen regels van ruimtelijke ordening. De behoeften opgesomd in artikel D.I.1, § 1 CoDT kunnen echter worden beïnvloed door een risico voor de openbare veiligheid. Een overheid wier aandacht specifiek op een voldoende onderbouwd risico voor de materiële openbare orde is gevestigd, moet dit dus meenemen bij de beoordeling van de goede ruimtelijke ordening. Die beoordeling betreft de opportuniteit en wordt door de Raad van State enkel op kennelijke appreciatiefout getoetst. De minister die over een administratief beroep beslist, treedt op als actief bestuur, hoeft niet punt per punt te antwoorden en mag andere motieven hanteren dan de eerste beslissing. Stukken van na de beslissing worden in beginsel geweerd, tenzij de overheid de inhoud had moeten kennen. Sloop op grond van een politiebesluit zonder voorafgaande vergunning kan enkel bij uiterst dringende noodzakelijkheid die neerkomt op overmacht, wat niet werd aangetoond. De weigering van 3 juni 2022 bleef in stand, omdat het gebouw erfgoedkenmerken heeft, er geen vervangend project was en de sloop een leemte op het plein dreigde te creëren. Het beroep werd op 12 januari 2026 verworpen en de kosten werden ten laste van de verzoekende partij gelegd."
+   ],
+   "fr": [
+    "Conseil d'État : le risque pour la sécurité publique doit être pris en compte dans le bon aménagement des lieux pour un permis de démolition",
+    "Le Conseil d'État a rejeté le recours contre le refus, par la Région wallonne, d'un permis de démolition d'un immeuble vétuste. Il juge que l'autorité doit tenir compte d'un risque suffisamment étayé pour la sécurité publique dans son appréciation du bon aménagement des lieux, même si la police communale n'est pas le critère de légalité.",
+    "L'arrêt concerne les demandeurs de permis, les communes et les autorités wallonnes qui statuent sur des permis d'urbanisme sous le CoDT, en particulier pour la démolition d'immeubles dangereux faisant aussi l'objet d'un arrêté de police du bourgmestre. La légalité d'un permis s'apprécie au regard de la police de l'aménagement du territoire et non d'une autre police administrative. Les articles 133 et 135, § 2, de la Nouvelle loi communale ne sont donc pas des règles de cette police. Toutefois, les besoins visés à l'article D.I.1, § 1er, du CoDT peuvent être affectés par un risque pour la sécurité publique. L'autorité dont l'attention a été spécialement attirée sur un risque suffisamment étayé pour l'ordre public matériel doit dès lors en tenir compte dans son appréciation du bon aménagement des lieux. Cette appréciation relève de l'opportunité et n'est censurée par le Conseil d'État qu'en cas d'erreur manifeste. Le ministre qui statue sur un recours administratif agit comme administration active, n'a pas à répondre point par point et peut retenir des motifs différents de ceux de la première décision. Les pièces postérieures à la décision sont en principe écartées, sauf si l'autorité aurait dû en connaître le contenu. Une démolition en exécution d'un arrêté de police sans permis préalable n'est possible qu'en cas d'extrême urgence constitutive de force majeure, non démontrée en l'espèce. Le refus du 3 juin 2022 a été confirmé : l'immeuble présente des caractéristiques patrimoniales, aucun projet de remplacement n'existait et la démolition risquait de créer un trou béant sur la place. Le recours a été rejeté le 12 janvier 2026 et les dépens mis à charge de la partie requérante."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.366 du 12 janvier 2026 – CoDT, art. D.I.1, § 1er (bon aménagement des lieux) ; Nouvelle loi communale, art. 133 et 135, § 2 ; loi du 29 juillet 1991, art. 2 et 3",
+   "dates": {
+    "adopted": "2026-01-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265366. 1. Par une requête introduite le 4 août 2022, la partie requérante demande l’annulation de l’arrêté du 3 ",
+     "https://www.raadvst-consetat.be/arresten/265366"
+    ]
+   ],
+   "inbox": [
+    "rvs:265366"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0078",
+   "d": "2026-01-12",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "EU cosmetics: new CMR substances banned; conditional uses set for silver, hexyl salicylate, o-phenylphenol",
+   "a": "Regulation (EU) 2026/78 amends Annexes II–V of the Cosmetics Regulation (EC) No 1223/2009 to reflect the CMR classifications in Delegated Regulation (EU) 2024/2564. New CMR substances are banned, while micron-sized silver, hexyl salicylate and o-phenylphenol/sodium o-phenylphenate are allowed under set conditions.",
+   "b": "The amendments concern manufacturers, importers and responsible persons placing cosmetic products on the EU market, and the national authorities that enforce the rules. Newly classified CMR substances without an exemption request, such as multi-walled carbon nanotubes, acetone oxime, S-metolachlor and pyraclostrobin, are added to the Annex II list of prohibited substances (new entries 1752–1766). Silver in nano and massive forms is added to prohibited entry 1727, and the three perboric acid entries 1397–1399 are merged into entry 1397. Micron-sized silver powder (100 nm to 1 mm) is allowed as a white colorant at up to 0.2 % in lip products and eye shadow (Annex IV, entry 142) and at up to 0.05 % in toothpaste and mouthwash (Annex III, entry 379). Hexyl salicylate is added to Annex III (entry 380) with maximum concentrations from 2 % in hydroalcoholic fragrances down to 0.001 % in toothpaste and mouthwash, and 0.1 % in the listed products for children under 3; other preparations for that age group are excluded. Sodium o-phenylphenate is added to the preservatives in Annex V, entry 7, with the same limits as o-phenylphenol (0.2 % rinse-off, 0.15 % leave-on, as phenol, combined), and it may not be used in applications that expose the lungs by inhalation or in oral products. The Regulation enters into force on the twentieth day after publication in the Official Journal (13 January 2026) and applies from 1 May 2026.",
+   "nl": [
+    "EU-cosmetica: nieuwe CMR-stoffen verboden; voorwaarden voor zilver, hexylsalicylaat en o-fenylfenol",
+    "Verordening (EU) 2026/78 wijzigt de bijlagen II tot en met V van de Cosmeticaverordening (EG) nr. 1223/2009 om de CMR-indelingen uit Gedelegeerde Verordening (EU) 2024/2564 door te voeren. Nieuwe CMR-stoffen worden verboden, terwijl zilver in micrometergrootte, hexylsalicylaat en o-fenylfenol/natrium-o-fenylaat onder voorwaarden zijn toegestaan.",
+    "De wijzigingen zijn van belang voor fabrikanten, importeurs en verantwoordelijke personen die cosmetische producten op de EU-markt brengen, en voor de nationale autoriteiten die toezien op de naleving. Nieuw ingedeelde CMR-stoffen waarvoor geen vrijstellingsaanvraag is ingediend, zoals meerwandige koolstofnanobuizen, acetonoxim, S-metolachloor en pyraclostrobine, worden opgenomen in de lijst van verboden stoffen in bijlage II (nieuwe vermeldingen 1752–1766). Zilver in nano- en massieve vorm wordt toegevoegd aan de verboden vermelding 1727, en de drie vermeldingen over perboorzuur (1397–1399) worden samengevoegd tot vermelding 1397. Zilverpoeder in micrometergrootte (100 nm tot 1 mm) is toegestaan als witte kleurstof tot 0,2 % in lippenproducten en oogschaduw (bijlage IV, vermelding 142) en tot 0,05 % in tandpasta en mondwater (bijlage III, vermelding 379). Hexylsalicylaat wordt toegevoegd aan bijlage III (vermelding 380) met maximumconcentraties van 2 % in hydroalcoholische parfums tot 0,001 % in tandpasta en mondwater, en 0,1 % in de opgesomde producten voor kinderen jonger dan 3 jaar; andere preparaten voor die leeftijdsgroep zijn uitgesloten. Natrium-o-fenylaat wordt toegevoegd aan de toegelaten conserveermiddelen in bijlage V, vermelding 7, met dezelfde grenzen als o-fenylfenol (0,2 % afspoelproducten, 0,15 % niet-afspoelproducten, uitgedrukt als fenol, gecombineerd); gebruik is niet toegestaan in toepassingen met blootstelling van de longen door inademing of in orale producten. De verordening treedt in werking op de twintigste dag na bekendmaking in het Publicatieblad (13 januari 2026) en is van toepassing vanaf 1 mei 2026."
+   ],
+   "fr": [
+    "Cosmétiques UE : nouvelles substances CMR interdites ; usages encadrés pour argent, salicylate d'hexyle",
+    "Le règlement (UE) 2026/78 modifie les annexes II à V du règlement (CE) no 1223/2009 relatif aux produits cosmétiques afin de refléter les classifications CMR du règlement délégué (UE) 2024/2564. De nouvelles substances CMR sont interdites, tandis que l'argent de taille micrométrique, le salicylate d'hexyle et l'o-phénylphénol/o-phénylphénate de sodium sont autorisés sous conditions.",
+    "Les modifications concernent les fabricants, importateurs et personnes responsables qui mettent des produits cosmétiques sur le marché de l'UE, ainsi que les autorités nationales chargées du contrôle. Les substances CMR nouvellement classées pour lesquelles aucune demande de dérogation n'a été introduite, comme les nanotubes de carbone multi-parois, l'acétone oxime, le S-métolachlore et la pyraclostrobine, sont ajoutées à la liste des substances interdites de l'annexe II (nouvelles entrées 1752 à 1766). L'argent sous forme nano et massive est ajouté à l'entrée interdite 1727, et les trois entrées relatives à l'acide perborique (1397 à 1399) sont fusionnées en une seule entrée 1397. La poudre d'argent de taille micrométrique (100 nm à 1 mm) est autorisée comme colorant blanc jusqu'à 0,2 % dans les produits pour les lèvres et les fards à paupières (annexe IV, entrée 142) et jusqu'à 0,05 % dans les dentifrices et bains de bouche (annexe III, entrée 379). Le salicylate d'hexyle est ajouté à l'annexe III (entrée 380), avec des concentrations maximales allant de 2 % dans les parfums hydroalcooliques à 0,001 % dans les dentifrices et bains de bouche, et de 0,1 % dans les produits énumérés destinés aux enfants de moins de 3 ans ; les autres préparations pour cette tranche d'âge sont exclues. L'o-phénylphénate de sodium est ajouté aux conservateurs autorisés de l'annexe V, entrée 7, avec les mêmes limites que l'o-phénylphénol (0,2 % pour les produits rincés, 0,15 % pour les produits non rincés, exprimés en phénol, de manière combinée) ; il ne peut être utilisé dans des applications exposant les poumons par inhalation ni dans des produits buccaux. Le règlement entre en vigueur le vingtième jour suivant sa publication au Journal officiel (13 janvier 2026) et s'applique à partir du 1er mai 2026."
+   ],
+   "scope": "Commission Regulation (EU) 2026/78 amending Annexes II, III, IV and V to Regulation (EC) No 1223/2009 (cosmetic products; CMR substances)",
+   "dates": {
+    "adopted": "2026-01-12",
+    "published": "2026-01-13",
+    "in_force": "2026-02-02"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/78 of 12 January 2026 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0078"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0078"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026l0074",
+   "d": "2026-01-12",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Domestic local space heaters added to the repair obligation list in Annex II to the Right to Repair Directive",
+   "a": "Delegated Directive (EU) 2026/74 adds domestic local space heaters to Annex II of Directive (EU) 2024/1799, by reference to the repairability rules of Ecodesign Regulation (EU) 2024/1103. Member States must transpose it and apply the rules from 31 July 2026.",
+   "b": "The directive concerns manufacturers of domestic local space heaters and the Member States, including Belgium and its regions, that must transpose it. Annex II to Directive (EU) 2024/1799 lists the goods for which manufacturers must repair on request, because EU repairability requirements already exist for them. A new point 11 adds domestic local space heaters, referring to Regulation (EU) 2024/1103. That regulation requires, among other things, that certain spare parts remain available for at least 10 years after the last unit of a model is placed on the market. It also requires that repairers have access to repair and maintenance information. Member States must adopt and publish the necessary national provisions by 31 July 2026 and apply them from that date, with a reference to the directive, and must communicate the texts to the Commission. The directive was published in the Official Journal on 20 April 2026 and enters into force on the twentieth day after publication.",
+   "nl": [
+    "Huishoudelijke toestellen voor lokale ruimteverwarming opgenomen in bijlage II bij de Richtlijn recht op reparatie",
+    "Gedelegeerde Richtlijn (EU) 2026/74 voegt huishoudelijke toestellen voor lokale ruimteverwarming toe aan bijlage II bij Richtlijn (EU) 2024/1799, met verwijzing naar de reparatieerisen van Ecodesignverordening (EU) 2024/1103. De lidstaten moeten de richtlijn omzetten en de regels toepassen vanaf 31 juli 2026.",
+    "De richtlijn betreft fabrikanten van huishoudelijke toestellen voor lokale ruimteverwarming en de lidstaten, waaronder België en zijn gewesten, die ze moeten omzetten. Bijlage II bij Richtlijn (EU) 2024/1799 bevat de goederen die fabrikanten op verzoek moeten herstellen, omdat er voor die goederen al EU-eisen inzake herstelbaarheid bestaan. Een nieuw punt 11 voegt huishoudelijke toestellen voor lokale ruimteverwarming toe, met verwijzing naar Verordening (EU) 2024/1103. Die verordening vereist onder meer dat bepaalde reserveonderdelen beschikbaar blijven gedurende ten minste 10 jaar nadat de laatste eenheid van een model in de handel is gebracht. Ze vereist ook dat reparateurs toegang hebben tot reparatie- en onderhoudsinformatie. De lidstaten moeten de nodige nationale bepalingen uiterlijk op 31 juli 2026 aannemen en bekendmaken en vanaf die datum toepassen, met verwijzing naar de richtlijn, en de teksten aan de Commissie meedelen. De richtlijn is op 20 april 2026 in het Publicatieblad verschenen en treedt in werking op de twintigste dag na die bekendmaking."
+   ],
+   "fr": [
+    "Les dispositifs de chauffage décentralisés domestiques ajoutés à l’annexe II de la directive sur le droit à la réparation",
+    "La directive déléguée (UE) 2026/74 ajoute les dispositifs de chauffage décentralisés domestiques à l’annexe II de la directive (UE) 2024/1799, par renvoi aux exigences de réparabilité du règlement écoconception (UE) 2024/1103. Les États membres doivent la transposer et appliquer les règles à partir du 31 juillet 2026.",
+    "La directive concerne les fabricants de dispositifs de chauffage décentralisés domestiques et les États membres, dont la Belgique et ses régions, qui doivent la transposer. L’annexe II de la directive (UE) 2024/1799 énumère les biens que les fabricants doivent réparer sur demande, car des exigences de réparabilité existent déjà au niveau de l’UE pour ces biens. Un nouveau point 11 ajoute les dispositifs de chauffage décentralisés domestiques, par renvoi au règlement (UE) 2024/1103. Ce règlement impose notamment que certaines pièces détachées restent disponibles pendant au moins 10 ans après la mise sur le marché de la dernière unité d’un modèle. Il impose aussi que les réparateurs aient accès aux informations relatives à la réparation et à l’entretien. Les États membres doivent adopter et publier les dispositions nationales nécessaires au plus tard le 31 juillet 2026 et les appliquer à partir de cette date, avec une référence à la directive, et en communiquer le texte à la Commission. La directive a été publiée au Journal officiel le 20 avril 2026 et entre en vigueur le vingtième jour suivant cette publication."
+   ],
+   "scope": "Commission Delegated Directive (EU) 2026/74 of 12 January 2026: new point 11 in Annex II to Directive (EU) 2024/1799 (Article 1), transposition (Article 2)",
+   "dates": {
+    "adopted": "2026-01-12",
+    "published": "2026-04-20",
+    "in_force": "2026-05-10"
+   },
+   "u": [
+    [
+     "Commission Delegated Directive (EU) 2026/74 of 12 January 2026 amending Annex II to Directive (EU) 2024/1799 of the European Parliament and ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0074"
+    ]
+   ],
+   "inbox": [
+    "eu:32026L0074"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265357",
+   "d": "2026-01-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: annulled permits create no consistent line of conduct when a permit appeal is re-decided",
+   "a": "The Council of State rejected an appeal against a Walloon ministerial decision on a single permit that allowed demolition of a petrol station but refused its reconstruction. It held that annulled permits disappear retroactively, so they cannot ground a claim of unjustified change of position or breach of legitimate expectations.",
+   "b": "The ruling concerns applicants for Walloon single permits (permis unique) and the authority deciding administrative appeals against them. After the Council of State annulled two earlier permits for the same project, the ministers granted demolition of a petrol station but refused its reconstruction with two dwellings. The Council held that annulled acts are deemed never to have existed. Their assessments therefore cannot be a line of conduct for the re-decision, and neither an unjustified change of position nor a breach of legitimate expectations can be based on them. It confirmed that an authority deciding a reformation appeal decides afresh and need not rebut the first-instance reasons point by point. The authority could adopt a ground from the annulment judgment, namely the missing traffic assessment, and treat the absence of an acoustic study as making the application incomplete. That no such study had been required before did not change this, since it falls within the authority's discretion and only manifest error is reviewable. A note sent informally to the minister's cabinet, outside the procedure of the decree of 11 March 1999 and not to the administrations that prepare the synthesis report, did not have to be answered once the appeal procedure had restarted from the beginning and the applicant had not resubmitted it. A communal college's favourable position in principle on keeping pumps on public land is not a domain concession. The annulment request was rejected on 9 January 2026, with procedural costs against the applicant.",
+   "nl": [
+    "Raad van State: vernietigde vergunningen vormen geen gedragslijn wanneer opnieuw over een vergunningsberoep wordt beslist",
+    "De Raad van State verwierp een beroep tegen een Waalse ministeriële beslissing over een enige vergunning die de afbraak van een tankstation toestond maar de heropbouw weigerde. Vernietigde vergunningen verdwijnen met terugwerkende kracht en kunnen dus geen onverantwoorde koerswijziging of schending van het gewettigd vertrouwen aantonen.",
+    "Het arrest betreft aanvragers van een Waalse enige vergunning (permis unique) en de overheid die over het administratief beroep beslist. Nadat de Raad van State twee eerdere vergunningen voor hetzelfde project had vernietigd, verleenden de ministers de afbraak van een tankstation maar weigerden zij de heropbouw met twee woningen. De Raad oordeelde dat vernietigde akten geacht worden nooit te hebben bestaan. De beoordelingen erin kunnen dus geen gedragslijn vormen voor de nieuwe beslissing, en op die basis kan noch een onverantwoorde koerswijziging noch een schending van het gewettigd vertrouwen worden aangevoerd. Hij bevestigde dat de overheid die over een reformatieberoep beslist opnieuw uitspraak doet en de motieven van de eerste aanleg niet punt per punt moet weerleggen. De overheid mocht een motief uit het vernietigingsarrest overnemen, namelijk het ontbreken van een verkeersevaluatie, en het ontbreken van een akoestische studie als een onvolledige aanvraag beschouwen. Dat zulk een studie voordien nooit was vereist, doet daaraan niet af: dat behoort tot de discretionaire bevoegdheid van de overheid en enkel een kennelijk onredelijke beoordeling kan worden getoetst. Een nota die informeel aan het kabinet van de minister was bezorgd, buiten de procedure van het decreet van 11 maart 1999 en niet aan de administraties die het syntheseverslag opstellen, moest niet worden beantwoord nu de beroepsprocedure van nul was hervat en de aanvrager de nota niet opnieuw had ingediend. Een principieel gunstig standpunt van het gemeentecollege over het behoud van pompen op openbaar domein is geen domeinconcessie. Het beroep tot nietigverklaring werd op 9 januari 2026 verworpen, met de kosten ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Conseil d'État : les permis annulés ne constituent pas une ligne de conduite lors de la réfection d'une décision sur recours",
+    "Le Conseil d'État rejette le recours contre une décision ministérielle wallonne qui, par permis unique, autorisait la démolition d'une station-service mais refusait sa reconstruction. Les permis annulés disparaissent rétroactivement et ne peuvent fonder ni revirement d'attitude injustifié ni atteinte à la légitime confiance.",
+    "L'arrêt concerne les demandeurs de permis unique en Région wallonne et l'autorité qui statue sur le recours administratif. Après l'annulation par le Conseil d'État de deux permis antérieurs pour le même projet, les ministres ont autorisé la démolition d'une station-service mais refusé sa reconstruction avec deux logements. Le Conseil juge que les actes annulés sont censés n'avoir jamais existé. Les appréciations qu'ils contiennent ne peuvent donc constituer une ligne de conduite pour la nouvelle décision, et il ne peut être question ni de revirement d'attitude ni d'atteinte à la légitime confiance. Il confirme que l'autorité saisie d'un recours en réformation statue à nouveau et n'est pas tenue de réfuter point par point les motifs de la décision de première instance. L'autorité pouvait faire sien un motif de l'arrêt d'annulation, à savoir l'absence d'évaluation de l'intensité du trafic, et considérer que l'absence d'étude acoustique rendait la demande lacunaire. Le fait qu'une telle étude n'ait jamais été exigée auparavant n'y change rien, ce choix relevant du pouvoir discrétionnaire de l'autorité et seule l'erreur manifeste d'appréciation pouvant être censurée. Une note adressée de manière informelle au cabinet du ministre, en dehors de la procédure du décret du 11 mars 1999 et sans copie aux administrations chargées du rapport de synthèse, ne devait pas être rencontrée dès lors que l'instruction du recours avait été reprise ab initio et que le demandeur ne l'avait pas réintroduite. La position favorable de principe du collège communal quant au maintien des pompes sur le domaine public ne vaut pas concession domaniale. La requête en annulation est rejetée le 9 janvier 2026, les dépens étant mis à charge de la partie requérante."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.357 du 9 janvier 2026 (XIIIe chambre) – recours contre l'arrêté ministériel du 25 février 2022 (permis unique, Ham-sur-Heure-Nalinnes) ; loi du 29 juillet 1991 sur la motivation formelle ; décret du 11 mars 1999, art. 95",
+   "dates": {
+    "adopted": "2026-01-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265357. Par une requête introduite le 2 mai 2022 par la voie électronique, la partie requérante demande l’annulat",
+     "https://www.raadvst-consetat.be/arresten/265357"
+    ]
+   ],
+   "inbox": [
+    "rvs:265357"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265356",
+   "d": "2026-01-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permit conditions and sector-plan derogation upheld for Mouscron water treatment plant",
+   "a": "The Council of State rejected the appeal against the single permit for a drinking-water treatment centre and two wells in Mouscron. It clarified how a derogation from the plan de secteur must be justified and which limits apply to permit conditions.",
+   "b": "The ruling concerns a single permit (permis unique) granted in 2021 for a drinking-water treatment centre and two groundwater wells in a green-space zone of the plan de secteur, so it matters to developers and authorities handling derogations and permit conditions in Wallonia. On the derogation under article D.IV.13, 1° CoDT, the Council held that the justification must rest on the project's specific features at its own location, not on other sites. Formal motivation does not oblige the authority to check that the project could not be built in a zone that conforms to the plan. An écart from the indicative communal development scheme under article D.IV.5 CoDT was accepted on an a fortiori reasoning from the plan de secteur derogation, because the applicants did not say which condition of that article was missing. On conditions (article D.IV.53 CoDT, made applicable to single permits by article 97 of the decree of 11 March 1999), the Council restated that they must be precise, limited to secondary and accessory elements, leave no discretion in their execution, and not depend on a future uncertain event, a third party or another authority. These limits are cumulative. A condition requiring a planting plan to be approved by the city's green-spaces service was upheld, because the application file and the nature-department opinion (native species, within two years) fix its content, and the approval is only a measure for executing the permit. The appeal was rejected on 9 January 2026 and costs were charged to the applicants and the intervening parties.",
+   "nl": [
+    "Raad van State: vergunningsvoorwaarden en afwijking van het gewestplan bevestigd voor waterzuiveringscentrum Moeskroen",
+    "De Raad van State verwierp het beroep tegen de enige vergunning voor een drinkwaterproductiecentrum en twee putten in Moeskroen. Hij verduidelijkte hoe een afwijking van het gewestplan moet worden verantwoord en welke grenzen gelden voor vergunningsvoorwaarden.",
+    "Het arrest betreft een enige vergunning (permis unique) die in 2021 werd afgegeven voor een drinkwaterproductiecentrum en twee grondwaterputten in een groengebied van het gewestplan (plan de secteur). Het is dus van belang voor ontwikkelaars en overheden die in Wallonië afwijkingen en vergunningsvoorwaarden behandelen. Wat de afwijking op grond van artikel D.IV.13, 1° CoDT betreft, oordeelde de Raad dat de verantwoording moet steunen op de specifieke kenmerken van het project op zijn eigen locatie en niet op andere locaties. De formele motivering verplicht de overheid niet na te gaan dat het project niet in een met het plan conforme zone kan worden gerealiseerd. Een afwijking (écart) van het indicatieve gemeentelijk ontwikkelingsschema op grond van artikel D.IV.5 CoDT werd aanvaard op basis van een a fortiori-redenering vanuit de afwijking van het gewestplan, omdat de verzoekers niet aangaven welke voorwaarde van dat artikel ontbrak. Over de voorwaarden (artikel D.IV.53 CoDT, van toepassing op enige vergunningen via artikel 97 van het decreet van 11 maart 1999) herhaalde de Raad dat ze nauwkeurig moeten zijn, beperkt tot bijkomstige en bijzaak-elementen, geen beoordelingsruimte bij de uitvoering mogen laten en niet mogen afhangen van een toekomstige onzekere gebeurtenis, een derde of een andere overheid. Deze grenzen zijn cumulatief. Een voorwaarde die oplegt dat een beplantingsplan door de dienst groene ruimten van de stad wordt goedgekeurd, bleef overeind: de inhoud ervan ligt vast in het aanvraagdossier en het advies van het Departement Natuur en Bossen (inheemse soorten, binnen twee jaar), en de goedkeuring is louter een maatregel ter uitvoering van de vergunning. Het beroep werd op 9 januari 2026 verworpen en de kosten werden aan de verzoekers en de tussenkomende partijen opgelegd."
+   ],
+   "fr": [
+    "Conseil d'État : conditions de permis et dérogation au plan de secteur validées pour le centre de potabilisation de Mouscron",
+    "Le Conseil d'État a rejeté le recours contre le permis unique relatif à un centre de potabilisation et à deux prises d'eau souterraine à Mouscron. Il précise comment justifier une dérogation au plan de secteur et les limites applicables aux conditions de permis.",
+    "L'arrêt porte sur un permis unique délivré en 2021 pour un centre de potabilisation et deux prises d'eau souterraine situés en zone d'espaces verts du plan de secteur ; il intéresse donc les porteurs de projet et les autorités qui traitent des dérogations et des conditions de permis en Wallonie. Sur la dérogation visée à l'article D.IV.13, 1° du CoDT, le Conseil juge que la justification doit reposer sur les spécificités du projet au regard du lieu où il s'implante et non ailleurs. L'exigence de motivation formelle n'impose pas à l'autorité de s'assurer que le projet ne peut pas être réalisé en zone conforme. Un écart au schéma de développement communal à valeur indicative, au titre de l'article D.IV.5 du CoDT, est admis par un raisonnement a fortiori à partir de la dérogation au plan de secteur, les requérants n'indiquant pas quelle condition de cet article faisait défaut. Quant aux conditions (article D.IV.53 du CoDT, rendu applicable aux permis uniques par l'article 97 du décret du 11 mars 1999), le Conseil rappelle qu'elles doivent être précises, limitées à des éléments secondaires et accessoires, ne laisser aucune marge d'appréciation dans leur exécution et ne pas dépendre d'un événement futur ou incertain, d'un tiers ou d'une autre autorité. Ces limites sont cumulatives. La condition de soumettre un plan de plantation à l'approbation du service des espaces verts de la ville est validée, son contenu étant fixé par le dossier de demande et l'avis du Département de la Nature et des Forêts (essences indigènes, dans les deux ans), et l'approbation constituant une simple mesure d'exécution du permis. Le recours a été rejeté le 9 janvier 2026 et les dépens ont été mis à charge des requérants et des parties intervenantes."
+   ],
+   "scope": "Arrêt du Conseil d'État n° 265.356 du 9 janvier 2026 – art. D.IV.5, D.IV.13 et D.IV.53 du CoDT ; art. 97 du décret du 11 mars 1999 relatif au permis d'environnement",
+   "dates": {
+    "adopted": "2026-01-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265356. Par une requête introduite le 13 décembre 2021 par la voie électronique, les parties requérantes demanden",
+     "https://www.raadvst-consetat.be/arresten/265356"
+    ]
+   ],
+   "inbox": [
+    "rvs:265356"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041704",
+   "d": "2026-01-09",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders partly transposes TEN-T Directive 2021/1187: priority for core-network projects in permitting",
+   "a": "A Flemish Government decree partly transposes Directive (EU) 2021/1187 on faster completion of the trans-European transport network. It calls on permitting bodies to give priority to certain core-network projects and clarifies the four-year permitting period.",
+   "b": "The decree concerns authorities involved in environmental permit procedures under the Flemish Environmental Permit Decree, and developers of trans-European transport network (TEN-T) projects. Courts and administrative jurisdictions are excluded. Flanders calls on these bodies to give priority to projects in the predefined core-network segments listed in Annex 1 of the directive, and to other core-network corridor projects costing more than EUR 300,000,000. Projects relating solely to telematics applications, new technologies and innovation are excluded. The four-year period in Article 5(1) of the directive is stated not to affect international and EU law obligations, and excludes the time needed for administrative and judicial appeals, court requests for measures, and the resulting decisions. For projects involving two or more Member States, Flemish authorities cooperate with the designated bodies to coordinate timetables and agree a joint permitting schedule. European coordinators receive information on the procedures. If the four-year period is exceeded, the competent authority must, on request, inform them of the measures taken or planned to complete the procedure with minimal delay. The decree does not apply to environmental permit applications submitted before 10 August 2023. It was adopted on 9 January 2026, published on 19 January 2026 and takes effect on 29 January 2026.",
+   "nl": [
+    "Vlaanderen zet TEN-T-richtlijn 2021/1187 deels om: voorrang voor kernnetwerkprojecten bij vergunningverlening",
+    "Een besluit van de Vlaamse Regering zet richtlijn (EU) 2021/1187 over een snellere voltooiing van het trans-Europees vervoersnetwerk gedeeltelijk om. Het roept vergunningverlenende instanties op om bepaalde kernnetwerkprojecten voorrang te geven en verduidelijkt de termijn van vier jaar.",
+    "Het besluit betreft de instanties die betrokken zijn bij de omgevingsvergunningsprocedure volgens het decreet betreffende de omgevingsvergunning, en de initiatiefnemers van projecten van het trans-Europees vervoersnetwerk (TEN-T). Hoven, rechtbanken en administratieve rechtscolleges zijn uitgesloten. Het Vlaamse Gewest roept deze instanties op om voorrang te geven aan projecten in de vooraf bepaalde segmenten van het kernnetwerk uit bijlage 1 van de richtlijn en aan andere projecten op de kernnetwerkcorridors met een totale kostprijs van meer dan 300 000 000 EUR. Projecten die uitsluitend betrekking hebben op telematicatoepassingen, nieuwe technologieën en innovatie vallen erbuiten. De termijn van vier jaar uit artikel 5, lid 1, van de richtlijn doet geen afbreuk aan de verplichtingen uit internationaal en Unierecht en omvat niet de periodes voor administratieve en gerechtelijke beroepsprocedures, verzoeken bij een hof of rechtbank om maatregelen of voorzieningen, en de daaruit voortvloeiende besluiten. Bij projecten waarbij twee of meer lidstaten betrokken zijn, werken de Vlaamse overheden samen met de aangewezen instanties om tijdschema’s te coördineren en een gezamenlijke planning overeen te komen. Europese coördinatoren ontvangen informatie over de procedures; wordt de termijn van vier jaar overschreden, dan geeft de bevoegde overheid hun op verzoek informatie over de genomen of geplande maatregelen om de procedure met zo weinig mogelijk vertraging af te ronden. Het besluit is niet van toepassing op aanvragen voor een omgevingsvergunning die voor 10 augustus 2023 zijn ingediend. Het besluit is genomen op 9 januari 2026, bekendgemaakt op 19 januari 2026 en geldt vanaf 29 januari 2026."
+   ],
+   "fr": [
+    "La Flandre transpose en partie la directive RTE-T 2021/1187 : priorité aux projets du réseau central",
+    "Un arrêté du Gouvernement flamand transpose en partie la directive (UE) 2021/1187 sur l’achèvement plus rapide du réseau transeuropéen de transport. Il invite les instances compétentes en matière de permis à donner la priorité à certains projets du réseau central et précise le délai de quatre ans.",
+    "L’arrêté concerne les instances impliquées dans la procédure de permis d’environnement prévue par le décret flamand relatif au permis d’environnement, ainsi que les porteurs de projets du réseau transeuropéen de transport (RTE-T). Les cours, tribunaux et juridictions administratives en sont exclus. La Région flamande invite ces instances à donner la priorité aux projets situés dans les segments prédéfinis du réseau central énumérés à l’annexe 1 de la directive, ainsi qu’aux autres projets sur les corridors du réseau central dont le coût total dépasse 300 000 000 EUR. Les projets portant uniquement sur des applications télématiques, de nouvelles technologies et l’innovation sont exclus. Le délai de quatre ans de l’article 5, paragraphe 1, de la directive ne porte pas atteinte aux obligations découlant du droit international et du droit de l’Union et n’inclut pas les périodes nécessaires aux recours administratifs et juridictionnels, aux demandes de mesures adressées à une cour ou un tribunal, ni aux décisions qui en découlent. Pour les projets impliquant au moins deux États membres, les autorités flamandes coopèrent avec les instances désignées afin de coordonner les calendriers et de convenir d’un planning commun. Les coordinateurs européens reçoivent des informations sur les procédures ; si le délai de quatre ans n’est pas respecté, l’autorité compétente leur fournit, sur demande, des informations sur les mesures prises ou envisagées pour achever la procédure avec le moins de retard possible. L’arrêté ne s’applique pas aux demandes de permis d’environnement introduites avant le 10 août 2023. Il a été adopté le 9 janvier 2026, publié le 19 janvier 2026 et applicable à partir du 29 janvier 2026."
+   ],
+   "scope": "Besluit van de Vlaamse Regering houdende maatregelen met het oog op een snellere voltooiing van het trans-Europees vervoersnetwerk (gedeeltelijke omzetting richtlijn (EU) 2021/1187)",
+   "dates": {
+    "adopted": "2026-01-09",
+    "published": "2026-01-19",
+    "in_force": "2026-01-29"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering houdende maatregelen met het oog op een snellere voltooiing van het trans-Europees vervoersnetwerk",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041704&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041704"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

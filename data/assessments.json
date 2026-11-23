@@ -54930,7 +54930,8 @@
 ],
 "reason": "Approves official compendium for air sampling and analysis, used in environmental monitoring.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041722"
 },
 "codex:1041721": {
 "v": 4,
@@ -54941,7 +54942,8 @@
 ],
 "reason": "Approves official compendium for water sampling and analysis, used in environmental monitoring.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041721"
 },
 "codex:1041716": {
 "v": 4,
@@ -55325,7 +55327,8 @@
 ],
 "reason": "Amends ETS Union Registry rules under the greenhouse gas effort-sharing framework.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0109"
 },
 "eu:32026R0092": {
 "v": 4,
@@ -55417,7 +55420,9 @@
 ],
 "reason": "Call for demonstration projects; field unclear from title, so check.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Subsidy call for agricultural demonstration projects (animal health, IPM, occupational safety); sets application rules, imposes no environmental obligations."
 },
 "codex:1041671": {
 "v": 4,
@@ -55479,7 +55484,8 @@
 ],
 "reason": "Annuls a permit: Natura 2000 appropriate assessment cannot rely on an unjustified 5% nitrogen-deposition threshold without checking habitat saturation and conservation status.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265393"
 },
 "rvs:265391": {
 "v": 4,
@@ -55518,7 +55524,8 @@
 ],
 "reason": "Amends ETS and LULUCF Union Registry functioning rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0081"
 },
 "eu:32026D0082": {
 "v": 4,
@@ -55584,7 +55591,8 @@
 ],
 "reason": "Annuls a municipal road-alignment plan; holds that the Gemeentewegendecreet art. 12 §2 conformity-with-zoning condition is an independent legality requirement for the council, separate from the permit",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265386"
 },
 "rvs:265385": {
 "v": 4,
@@ -55766,7 +55774,8 @@
 ],
 "reason": "Permit authority must weigh a substantiated public-safety risk in good spatial planning; demolition without a permit requires extreme urgency; post-decision documents are excluded.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265366"
 },
 "rvs:265365": {
 "v": 4,
@@ -55837,7 +55846,8 @@
 ],
 "reason": "Restricts CMR substances in cosmetics; chemical substance rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0078"
 },
 "eu:32026R0071": {
 "v": 4,
@@ -55857,7 +55867,8 @@
 ],
 "reason": "Adds space heaters to repair directive via ecodesign requirements.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026l0074"
 },
 "eu:32026D0107": {
 "v": 4,
@@ -55905,7 +55916,9 @@
 ],
 "reason": "Rules on ozone-depleting substances as process agents under the ODS regulation.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Decision addresses only three undertakings in France, Germany and the Netherlands; no Belgian undertaking or authority is covered or given obligations."
 },
 "eu:32026D0075": {
 "v": 4,
@@ -55963,7 +55976,8 @@
 ],
 "reason": "Annulled unique permits are deemed never to have existed, so they cannot ground a reversal-of-attitude or legitimate-expectation claim; informal notes outside the recours procedure need not be answere",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265357"
 },
 "rvs:265356": {
 "v": 4,
@@ -55975,7 +55989,8 @@
 ],
 "reason": "Clarifies that a planning derogation's reasoning need not show the project cannot fit a conforming zone, and how permit conditions must be precise (CoDT D.IV.53).",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265356"
 },
 "rvs:265355": {
 "v": 4,
@@ -56209,7 +56224,8 @@
 ],
 "reason": "Measures to speed up TEN-T network works, likely including permit procedures.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041704"
 },
 "wallex:129622": {
 "v": 4,
@@ -67651,15 +67667,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 4,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 116,
+"waiting": 102,
 "api": {
 "calls": 14,
-"input_tokens": 185728,
-"output_tokens": 29843,
-"usd": 0.6699
+"input_tokens": 118310,
+"output_tokens": 38361,
+"usd": 0.6202
 },
 "updated": "2026-11-23"
 },
