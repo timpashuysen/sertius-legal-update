@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:22:06Z",
+ "updated": "2026-11-23T13:30:45Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -17213,6 +17213,491 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.1053"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1052",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "RvVb upholds refusal of a wind turbine permit in landscape-valuable agricultural area (Waregem)",
+   "a": "The Council for Permit Disputes dismissed an appeal against the refusal of an environmental permit for a 230 m wind turbine in landscape-valuable agricultural area. It held that a refusal based on the aesthetic test is validly reasoned, even where it departs from favourable advice.",
+   "b": "The ruling concerns permit authorities and wind developers applying for turbines in agricultural area marked on the regional plan as landscape-valuable. Such turbines can in principle be permitted through the derogation of Article 4.4.9 VCRO. The authority must then test the impact on the area's beauty value, and the localisation note must describe and assess the landscape effects. The authority assesses this at its own discretion. The Council only checks whether the facts are correct, whether they were correctly assessed, and whether the conclusion is reasonable. The decision must state its reasons in the decision itself (Articles 2 and 3 of the Motivation Act), but it need not answer every argument point by point. The authority may depart from favourable advice of the Department of Environment's permit division (afdeling GOP) and the provincial permit committee (GOVC), provided it states why. Access road, crane pad and medium-voltage cabins belong in the assessment alongside the turbine. Here the refusal of 7 August 2025 for a 230 m turbine (6,000 kW) in Waregem was upheld, because the open character of the area was reasonably held to be undermined. This single determinative ground was enough to carry the refusal, so the Council did not examine the second plea, which concerned Emergency Regulation 2022/2577, and it rejected the request to postpone the hearing. The ruling was delivered on 13 August 2026, and the applicant bears the costs (EUR 200 registry fee and EUR 910 procedural indemnity).",
+   "nl": [
+    "RvVb bevestigt weigering van windturbinevergunning in landschappelijk waardevol agrarisch gebied (Waregem)",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de weigering van een omgevingsvergunning voor een windturbine van 230 m in landschappelijk waardevol agrarisch gebied. Een weigering op basis van de esthetische toets is afdoende gemotiveerd, ook als ze afwijkt van gunstige adviezen.",
+    "Het arrest betreft vergunningverlenende overheden en windprojectontwikkelaars die een turbine aanvragen in agrarisch gebied dat op het gewestplan als landschappelijk waardevol is aangeduid. Zulke turbines kunnen in principe worden vergund via de afwijking van artikel 4.4.9 VCRO. De overheid moet dan toetsen aan de schoonheidswaarde van het gebied, en de lokalisatienota moet de landschappelijke effecten beschrijven en evalueren. Die beoordeling behoort tot haar discretionaire bevoegdheid. De Raad onderzoekt enkel of ze van juiste feiten uitging, die correct beoordeelde en in redelijkheid tot haar besluit kwam. De beslissing moet zelf haar motieven vermelden (artikelen 2 en 3 Motiveringswet), maar hoeft niet elk argument puntsgewijs te beantwoorden. De overheid mag afwijken van gunstige adviezen van de afdeling GOP en de GOVC, mits ze uitlegt waarom. Toegangsweg, kraanopstelvlak en middenspanningscabines worden samen met de turbine in de beoordeling betrokken. Hier bleef de weigering van 7 augustus 2025 voor een turbine van 230 m (6.000 kW) in Waregem overeind, omdat de aantasting van het open karakter van het gebied redelijk werd geacht. Dat ene determinerende weigeringsmotief volstond. De Raad onderzocht het tweede middel over Noodverordening 2022/2577 daarom niet en wees het verzoek tot uitstel van de zitting af. Het arrest werd uitgesproken op 13 augustus 2026; de kosten (200 euro rolrecht en 910 euro rechtsplegingsvergoeding) vallen ten laste van de verzoeker."
+   ],
+   "fr": [
+    "Le CCA confirme le refus d'un permis d'éolienne en zone agricole d'intérêt paysager (Waregem)",
+    "Le Conseil du contentieux des permis rejette le recours contre le refus d'un permis d'environnement pour une éolienne de 230 m en zone agricole d'intérêt paysager. Un refus fondé sur le test esthétique est suffisamment motivé, même s'il s'écarte d'avis favorables.",
+    "L'arrêt concerne les autorités délivrant les permis et les développeurs éoliens qui demandent une éolienne en zone agricole désignée au plan de secteur comme ayant une valeur paysagère. De telles éoliennes peuvent en principe être autorisées par la dérogation de l'article 4.4.9 du VCRO. L'autorité doit alors apprécier l'atteinte à la valeur esthétique de la zone, et la note de localisation doit décrire et évaluer les effets paysagers. Cette appréciation relève de son pouvoir discrétionnaire. Le Conseil vérifie seulement si les faits sont exacts, s'ils ont été correctement appréciés et si la conclusion est raisonnable. La décision doit énoncer elle-même ses motifs (articles 2 et 3 de la loi sur la motivation), sans devoir répondre point par point à chaque argument. L'autorité peut s'écarter d'avis favorables de la division GOP et de la commission provinciale des permis (GOVC), à condition d'en indiquer les raisons. Le chemin d'accès, l'aire de grutage et les cabines moyenne tension sont examinés avec l'éolienne. En l'espèce, le refus du 7 août 2025 pour une éolienne de 230 m (6.000 kW) à Waregem est maintenu, l'atteinte au caractère ouvert de la zone ayant été raisonnablement retenue. Ce seul motif déterminant de refus suffisait. Le Conseil n'a donc pas examiné le second moyen, relatif au règlement d'urgence 2022/2577, et a rejeté la demande de report de l'audience. L'arrêt a été prononcé le 13 août 2026 et les dépens (200 euros de droit de rôle et 910 euros d'indemnité de procédure) sont à charge de la requérante."
+   ],
+   "scope": "RvVb arrest RVVB.2526.1052 van 13 augustus 2026: esthetische toets in landschappelijk waardevol agrarisch gebied (art. 4.4.9 VCRO, art. 15.4.6.1 Inrichtingsbesluit) en motiveringsplicht (art. 2-3 Motiveringswet)",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1052. vernietiging van de beslissing van de verwerende partij van 7 augustus 2025, waarm",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1052.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1052"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1051",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: subdivision permit annulled for lack of concrete assessment of height, shade and density gain",
+   "a": "The Council for Permit Disputes annulled a subdivision permit for three lots in Ieper. The permitting authority had not concretely assessed the 12 m ridge height against the immediately adjoining dwellings, nor shade nuisance, and had not justified the density gain towards existing homes.",
+   "b": "The ruling concerns permitting authorities, applicants and neighbours in permit appeals where compatibility with good spatial planning (art. 4.3.1 VCRO) is at issue. The Council annulled the deputation's decision of 17 July 2025 granting a conditional environmental permit to subdivide land in Ieper into three lots for detached houses with a maximum ridge height of 12 m. It held that, when assessing scale and ridge height, the characteristics of the immediately adjoining dwellings must take precedence, and that taking a wider surrounding into account may never lead to ignoring the immediate surroundings. Where objections were raised during the procedure, the authority must reason more carefully on that point, even though it need not answer every argument one by one; a concrete assessment of shade nuisance was missing. The criterion of increased spatial yield (art. 4.3.1, §2, first paragraph, 2°, b VCRO) allows deviation from the existing situation only if the quality of the living environment is respected and the deviation is justified in the area. Reasoning limited to the quality of the new dwellings is insufficient, because the existing surrounding dwellings must also be assessed. The Council rejected the objection on the number of storeys, as the neighbouring house has two above-ground storeys on the relevant side. It ordered the deputation to take a new decision on the administrative appeal within three months of the day after notification of the ruling, and set the costs (€400 filing fee and €910 procedural indemnity) against the deputation. The ruling was delivered on 13 August 2026.",
+   "nl": [
+    "RvVb: verkavelingsvergunning vernietigd wegens ontbrekende concrete beoordeling van hoogte, schaduw en verdichting",
+    "De Raad voor Vergunningsbetwistingen vernietigde een verkavelingsvergunning voor drie loten in Ieper. De vergunningverlenende overheid had de nokhoogte van 12 m niet concreet getoetst aan de onmiddellijk aanpalende woningen, de schaduwhinder niet onderzocht en de verhoging van het ruimtelijk rendement niet verantwoord ten aanzien van de bestaande woningen.",
+    "Het arrest treft vergunningverlenende overheden, aanvragers en buren in vergunningsbetwistingen waarin de verenigbaarheid met de goede ruimtelijke ordening (art. 4.3.1 VCRO) in het geding is. De Raad vernietigde de beslissing van de deputatie van 17 juli 2025 waarmee onder voorwaarden een omgevingsvergunning werd verleend voor het verkavelen van grond in Ieper in drie loten voor eengezinswoningen met een maximale nokhoogte van 12 m. Volgens de Raad moeten bij de beoordeling van schaal en nokhoogte de kenmerken van de onmiddellijk aanpalende woningen primeren, en mag het betrekken van een ruimere omgeving er nooit toe leiden dat de onmiddellijke omgeving buiten beschouwing blijft. Wanneer tijdens de procedure bezwaren zijn geformuleerd, moet de overheid op dat punt zorgvuldiger motiveren, ook al hoeft ze niet elk argument punt na punt te beantwoorden; een concrete beoordeling van de schaduwhinder ontbrak. Het criterium van de verhoging van het ruimtelijk rendement (art. 4.3.1, §2, eerste lid, 2°, b VCRO) laat enkel afwijking van de bestaande toestand toe als de kwaliteit van de woon- en leefomgeving wordt gerespecteerd en de afwijking in de betrokken omgeving verantwoord is. Een motivering die zich beperkt tot de kwaliteit van de nieuwe woningen volstaat niet, want ook de bestaande omliggende woningen moeten worden beoordeeld. Het bezwaar over het aantal bouwlagen verwierp de Raad, omdat de aanpalende woning aan de relevante zijde twee bovengrondse bouwlagen heeft. De Raad beval de deputatie binnen drie maanden na de dag na de betekening van het arrest een nieuwe beslissing over het bestuurlijk beroep te nemen en legde de kosten (400 euro rolrecht en 910 euro rechtsplegingsvergoeding) ten laste van de deputatie. Het arrest werd uitgesproken op 13 augustus 2026."
+   ],
+   "fr": [
+    "CCA: permis de lotir annulé faute d'appréciation concrète de la hauteur, de l'ombre et de la densification",
+    "Le Conseil pour les contestations des autorisations (RvVb) a annulé un permis de lotir pour trois lots à Ypres. L'autorité n'avait pas confronté concrètement la hauteur de faîte de 12 m aux habitations immédiatement voisines, n'avait pas examiné les nuisances d'ombre et n'avait pas justifié l'augmentation du rendement spatial à l'égard des habitations existantes.",
+    "L'arrêt concerne les autorités délivrant les permis, les demandeurs et les voisins dans les contentieux où la compatibilité avec le bon aménagement du territoire (art. 4.3.1 VCRO) est en cause. Le Conseil a annulé la décision de la députation du 17 juillet 2025 accordant sous conditions un permis d'environnement pour lotir un terrain à Ypres en trois lots destinés à des habitations unifamiliales d'une hauteur de faîte maximale de 12 m. Selon le Conseil, l'appréciation de l'échelle et de la hauteur de faîte doit donner priorité aux caractéristiques des habitations immédiatement voisines, et la prise en compte d'un environnement plus large ne peut jamais conduire à ignorer l'environnement immédiat. Lorsque des objections ont été formulées durant la procédure, l'autorité doit motiver plus soigneusement sur ce point, même si elle ne doit pas répondre à chaque argument un par un; une appréciation concrète de l'ombre portée faisait défaut. Le critère de l'augmentation du rendement spatial (art. 4.3.1, §2, alinéa 1er, 2°, b VCRO) n'autorise un écart par rapport à la situation existante que si la qualité du cadre de vie est respectée et si l'écart est justifié dans l'environnement concerné. Une motivation limitée à la qualité des nouvelles habitations ne suffit pas, car les habitations voisines existantes doivent aussi être évaluées. Le Conseil a rejeté l'objection relative au nombre de niveaux, la maison voisine comptant deux niveaux hors sol du côté pertinent. Il a ordonné à la députation de prendre une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt, et a mis à sa charge les dépens (400 euros de droit de rôle et 910 euros d'indemnité de procédure). L'arrêt a été prononcé le 13 août 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.1051 – art. 4.3.1, §1, eerste lid, 1°, d) en §2, eerste lid, 1° en 2°, b) VCRO; art. 2 en 3 Motiveringswet",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1051. vernietiging van de beslissing van de verwerende partij van 17 juli 2025, waarmee ",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1051.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1051"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1049",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls Grimbergen second-row subdivision refusal: reasoning inadequate and contradictory",
+   "a": "The Council for Permit Disputes annulled the Flemish deputation's refusal of a subdivision permit for one second-row plot in Grimbergen. A refusal resting on the reference-image article of a municipal ordinance that does not exclude second-row building, and departing from the provincial officer's favourable report, was not adequately reasoned.",
+   "b": "The ruling concerns permit applicants and permit-granting authorities assessing good spatial planning against a municipal urban-planning ordinance, here that of Grimbergen. The deputation had refused a permit to subdivide one plot for a detached house in second building order and to demolish a stable and storage shed, relying on the reference-image provision (art. 2.5.2.1) of the ordinance. The Council found that the ordinance does not rule out second-row building and that art. 2.4.8 provides a framework for it. The decision did not explain why art. 2.4.8 could not apply, or why the examples of second-row dwellings put forward by the applicant fell outside the relevant surroundings. The decision was also internally contradictory: it treated art. 2.5.2 as irrelevant when handling the objections, yet used art. 2.5.2.1 as the ground for refusal. Because the deputation departed from the provincial officer's favourable report, it was bound by a heightened duty of reasoning, which it did not meet. The Council annulled the decision of 26 June 2025 in a ruling of 13 August 2026 and ordered a new decision within three months from the day after notification of the ruling. It did not examine the third part of the plea.",
+   "nl": [
+    "RvVb vernietigt weigering verkaveling in tweede bouworde in Grimbergen: motivering ontoereikend en tegenstrijdig",
+    "De Raad voor Vergunningsbetwistingen vernietigde de weigering door de deputatie van een verkavelingsvergunning voor één kavel in tweede bouworde in Grimbergen. Een weigering die steunt op het artikel over het referentiebeeld van een gemeentelijke verordening die bouwen in tweede orde niet uitsluit, en afwijkt van het gunstige verslag van de provinciale omgevingsambtenaar, was niet afdoende gemotiveerd.",
+    "Het arrest betreft aanvragers van een vergunning en vergunningverlenende overheden die de goede ruimtelijke ordening toetsen aan een gemeentelijke stedenbouwkundige verordening, hier die van Grimbergen. De deputatie had een vergunning geweigerd voor het verkavelen van één perceel voor een open eengezinswoning in tweede bouworde en voor de sloop van een stal en berging, met steun op de bepaling over het referentiebeeld (art. 2.5.2.1) van de verordening. De Raad oordeelde dat de verordening bouwen in tweede orde niet uitsluit en dat artikel 2.4.8 daarvoor een kader biedt. De beslissing legde niet uit waarom artikel 2.4.8 hier niet toepasbaar was, noch waarom de door de aanvrager aangehaalde voorbeelden van woningen in tweede orde buiten de relevante omgeving vielen. De beslissing was ook intern tegenstrijdig: bij de bezwaren werd artikel 2.5.2 als niet relevant beschouwd, terwijl artikel 2.5.2.1 als weigeringsgrond werd gebruikt. Doordat de deputatie afweek van het gunstige verslag van de provinciale omgevingsambtenaar, gold een verstrengde motiveringsplicht, waaraan ze niet voldeed. De Raad vernietigde de beslissing van 26 juni 2025 in het arrest van 13 augustus 2026 en beval een nieuwe beslissing binnen drie maanden vanaf de dag na de betekening van het arrest. Het derde middelonderdeel werd niet onderzocht."
+   ],
+   "fr": [
+    "Le CCA annule le refus de lotir en second rang à Grimbergen : motivation insuffisante et contradictoire",
+    "Le Conseil du contentieux des autorisations (RvVb) a annulé le refus, par la députation, d'un permis de lotir pour un lot en second rang à Grimbergen. Le refus, fondé sur l'article relatif à l'image de référence d'un règlement communal qui n'exclut pas la construction en second rang et s'écartant du rapport favorable du fonctionnaire provincial, n'était pas suffisamment motivé.",
+    "L'arrêt concerne les demandeurs de permis et les autorités délivrantes qui apprécient le bon aménagement du territoire au regard d'un règlement communal d'urbanisme, ici celui de Grimbergen. La députation avait refusé un permis de lotir une parcelle pour une habitation unifamiliale à quatre façades en second rang, ainsi que la démolition d'une étable et d'un débarras, en s'appuyant sur la disposition relative à l'image de référence (art. 2.5.2.1) du règlement. Le Conseil a jugé que le règlement n'exclut pas la construction en second rang et que son article 2.4.8 en offre le cadre. La décision n'expliquait pas pourquoi l'article 2.4.8 ne pouvait s'appliquer, ni pourquoi les exemples d'habitations en second rang cités par le demandeur sortaient de l'environnement pertinent. La décision était en outre contradictoire en elle-même : lors du traitement des réclamations, l'article 2.5.2 était jugé non pertinent, alors que l'article 2.5.2.1 servait de motif de refus. La députation s'étant écartée du rapport favorable du fonctionnaire provincial, une obligation de motivation renforcée pesait sur elle, à laquelle elle n'a pas satisfait. Le Conseil a annulé la décision du 26 juin 2025 par arrêt du 13 août 2026 et ordonné une nouvelle décision dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. Il n'a pas examiné la troisième branche du moyen."
+   ],
+   "scope": "Arrest RvVb.2526.1049 van 13 augustus 2026 – art. 4.3.1 VCRO, art. 2.4.8 en 2.5.2.1 gemeentelijke stedenbouwkundige verordening Grimbergen, Motiveringswet (art. 2-3)",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1049.",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1049.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1049"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1039",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: art. 4.4.1 VCRO cannot ground a derogation where the municipal regulation has its own derogation rule",
+   "a": "The Council for Permit Disputes annulled a permit for an apartment building because the permitting authority granted a derogation from a municipal urban-planning regulation under art. 4.4.1 VCRO, without assessing the regulation's own derogation clause. The Council also clarified when a neighbour has an interest in a ground of annulment.",
+   "b": "The ruling concerns permitting authorities and applicants whose projects deviate from municipal urban-planning or parking regulations that contain their own derogation clause. It annulled the permit for a nine-apartment building after demolition. The Council held that art. 4.4.1, §1 VCRO can serve as a legal basis for a derogation only if the plan or regulation has no derogation scheme of its own, or if the conditions of that scheme are not met. The permit allowed an internal height of 2.20 m instead of the required 2.50 m on that basis alone, without any finding that the regulation's own clause could not apply. The applicant had also considered the project compliant and had not requested a derogation under art. 4.4.1/0 VCRO, so the decision was held insufficiently reasoned and careless. The parking derogation was upheld, because the regulation has its own derogation scheme and the decision assessed parking under good spatial planning (art. 1.1.4 VCRO). The challenge to the raised roof base profile failed, because the neighbour did not engage with the decision's reasoning, and arguments first raised in the reply brief were inadmissible as an extension of the plea. A neighbour who suffers a disadvantage from the execution of a permit is deemed harmed by the alleged breach of urban-planning rules (art. 35, third para. DBRC decree). The permit was annulled on 13 August 2026, and the deputation must take a new decision within three months from the day after notification of the ruling. Costs are borne by the deputation: 200 euro filing fee and 910 euro procedural indemnity, the base amount in force since 17 June 2026.",
+   "nl": [
+    "RvVb: artikel 4.4.1 VCRO kan geen afwijking steunen als de gemeentelijke verordening zelf in een afwijking voorziet",
+    "De Raad voor Vergunningsbetwistingen vernietigt een vergunning voor een meergezinswoning omdat de verwerende partij een afwijking van een gemeentelijke stedenbouwkundige verordening toestond op grond van artikel 4.4.1 VCRO, zonder de eigen afwijkingsregeling van de verordening te onderzoeken. De Raad verduidelijkt ook wanneer een buur belang heeft bij een middel.",
+    "Het arrest treft vergunningverlenende overheden en aanvragers van projecten die afwijken van gemeentelijke stedenbouwkundige of parkeerverordeningen met een eigen afwijkingsregeling. Het vernietigt de vergunning voor een meergezinswoning met negen appartementen na sloop. Volgens de Raad kan artikel 4.4.1, §1 VCRO alleen als rechtsgrond voor een afwijking dienen als het plan of de verordening niet in een eigen afwijkingsregeling voorziet, of als de toepassingsvoorwaarden daarvan niet zijn vervuld. De vergunning stond een inwendige bouwhoogte van 2,20 m toe in plaats van de vereiste 2,50 m, uitsluitend op die grondslag, zonder vast te stellen dat de eigen afwijkingsregeling van de verordening niet kon worden toegepast. De aanvrager achtte het project bovendien conform en had geen afwijking gevraagd op grond van artikel 4.4.1/0 VCRO. De beslissing werd daarom onvoldoende gemotiveerd en onzorgvuldig bevonden. De afwijking op het aantal parkeerplaatsen blijft overeind, omdat de parkeerverordening een eigen afwijkingsregeling bevat en de beslissing de parkeergelegenheid heeft getoetst aan de goede ruimtelijke ordening (artikel 1.1.4 VCRO). De kritiek op het basisprofiel van het dakvolume faalt, omdat de buur de motieven van de beslissing niet betrekt; argumenten die pas in de wederantwoordnota worden opgeworpen, zijn als uitbreiding van het middel onontvankelijk. Een buur die nadeel ondervindt van de tenuitvoerlegging van een vergunning, wordt geacht benadeeld te worden door de aangevoerde schending van stedenbouwkundige voorschriften (artikel 35, derde lid DBRC-decreet). De vergunning werd op 13 augustus 2026 vernietigd. De deputatie moet binnen drie maanden vanaf de dag na de betekening een nieuwe beslissing nemen. De kosten komen ten laste van de verwerende partij: 200 euro rolrecht en 910 euro rechtsplegingsvergoeding, het basisbedrag dat sinds 17 juni 2026 geldt."
+   ],
+   "fr": [
+    "CCA : l'art. 4.4.1 VCRO ne peut fonder une dérogation lorsque le règlement communal prévoit sa propre dérogation",
+    "Le Conseil du contentieux des autorisations (RvVb) annule un permis pour un immeuble à appartements, car l'autorité a accordé une dérogation à un règlement urbanistique communal sur la base de l'article 4.4.1 VCRO, sans examiner le régime de dérogation propre au règlement. Le Conseil précise aussi quand un voisin a intérêt à invoquer un moyen.",
+    "L'arrêt concerne les autorités délivrantes et les demandeurs dont les projets s'écartent de règlements communaux d'urbanisme ou de stationnement comportant un régime de dérogation propre. Il annule le permis délivré pour un immeuble de neuf appartements après démolition. Selon le Conseil, l'article 4.4.1, §1er VCRO ne peut servir de base juridique à une dérogation que si le plan ou le règlement ne prévoit pas de régime de dérogation propre, ou si les conditions de celui-ci ne sont pas remplies. Le permis autorisait une hauteur intérieure de 2,20 m au lieu des 2,50 m requis, sur cette seule base, sans constater que le régime de dérogation propre au règlement ne pouvait s'appliquer. Le demandeur considérait en outre le projet comme conforme et n'avait pas sollicité de dérogation au titre de l'article 4.4.1/0 VCRO. La décision a donc été jugée insuffisamment motivée et peu soigneuse. La dérogation relative au nombre d'emplacements de stationnement est maintenue, car le règlement de stationnement contient son propre régime de dérogation et la décision a examiné le stationnement au regard du bon aménagement du territoire (article 1.1.4 VCRO). La critique relative au profil de base du volume de toiture échoue, car le voisin ne rencontre pas les motifs de la décision ; les arguments avancés pour la première fois dans le mémoire en réplique sont irrecevables en tant qu'extension du moyen. Un voisin qui subit un préjudice de l'exécution d'un permis est réputé lésé par la violation alléguée de prescriptions urbanistiques (article 35, alinéa 3 du décret DBRC). Le permis a été annulé le 13 août 2026. La députation doit prendre une nouvelle décision dans les trois mois à compter du lendemain de la notification de l'arrêt. Les frais sont à charge de la partie défenderesse : 200 euros de droit de rôle et 910 euros d'indemnité de procédure, montant de base en vigueur depuis le 17 juin 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1039 van 13 augustus 2026: artikel 4.4.1 en 4.4.1/0 VCRO, artikel 35 DBRC-decreet, gemeentelijke stedenbouwkundige en parkeerverordening",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1039. vernietiging van de beslissing van de verwerende partij van 11 september 2025, waa",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1039.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1039"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1037",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: permit for farm-to-residential change annulled for missing landscape test and storage check",
+   "a": "The Council for Permit Disputes annulled a permit for a zone-alien change of use from farm to housing. The permit authority had not concretely assessed the landscape's aesthetic value, nor whether the planned hay and wood storage made the project subject to a class 2 or 3 notification or permit requirement.",
+   "b": "The ruling concerns permit authorities and applicants in landscape-valuable agricultural zones, and applications that combine a change of use with storage that may be a classified activity. The Council holds that the aesthetic test of Article 15.4.6.1 of the Inrichtingsbesluit is separate from the good spatial planning test, but can be carried out within it. It requires a concrete examination of the landscape's characteristics, of the application and of whether the project fits into the landscape, and reasons given only in the answer note cannot make up for the missing reasoning. For a zone-alien change of use under Article 4.4.23 VCRO and Article 11 of the Besluit Zonevreemde Functiewijzigingen, the authority must itself determine what the application really covers and check that the outbuildings, with their planned storage, still qualify as residential outbuildings. Where the file states that hay will be stored without giving any quantity, a careful authority must check at the admissibility and completeness stage whether a class 2 or 3 facility under VLAREM II rubric 19.6 is involved. Storage of more than 40 m³ in a room outside an industrial zone is class 3, and more than 200 m³ is class 2. If such a facility is inseparably linked to the project, a single application covering all aspects is required on pain of inadmissibility (Article 7 §2 Omgevingsvergunningsdecreet). The permit was annulled and the authority must take a new decision on the administrative appeal within three months of notification of the ruling. The procedural costs, EUR 910, are borne by the authority.",
+   "nl": [
+    "RvVb vernietigt vergunning voor functiewijziging landbouw naar wonen: esthetische toets en opslagcontrole ontbreken",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een zonevreemde functiewijziging van landbouw naar wonen. De vergunningverlenende overheid had de schoonheidswaarde van het landschap niet concreet beoordeeld en evenmin nagegaan of de geplande hooi- en houtopslag een melding of vergunning van klasse 2 of 3 vereiste.",
+    "Het arrest treft vergunningverlenende overheden en aanvragers in landschappelijk waardevol agrarisch gebied, en aanvragen waarin een functiewijziging samengaat met opslag die een ingedeelde activiteit kan zijn. De Raad oordeelt dat de esthetische toets van artikel 15.4.6.1 van het Inrichtingsbesluit te onderscheiden is van de toets aan de goede ruimtelijke ordening, maar daarbinnen kan worden uitgevoerd. Ze vergt een concreet onderzoek van de kenmerken van het landschap, van de aanvraag en van de inpasbaarheid, en motieven die pas in de antwoordnota worden aangevoerd kunnen de ontbrekende motivering niet aanvullen. Bij een zonevreemde functiewijziging op grond van artikel 4.4.23 VCRO en artikel 11 van het Besluit Zonevreemde Functiewijzigingen moet de overheid zelf bepalen wat het werkelijke voorwerp van de aanvraag is en nagaan of de bijgebouwen met hun geplande opslag nog als woningbijgebouw kunnen gelden. Als het dossier hooiopslag vermeldt zonder hoeveelheid, moet een zorgvuldige overheid bij het ontvankelijkheids- en volledigheidsonderzoek nagaan of een ingedeelde inrichting van klasse 2 of 3 volgens rubriek 19.6 van VLAREM II in het spel is. Opslag van meer dan 40 m³ in een lokaal buiten industriegebied is klasse 3, meer dan 200 m³ is klasse 2. Is zo'n inrichting onlosmakelijk verbonden met het project, dan is op straffe van onontvankelijkheid één aanvraag voor alle aspecten nodig (artikel 7, § 2 Omgevingsvergunningsdecreet). De vergunning wordt vernietigd en de overheid moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De kosten, 910 euro rechtsplegingsvergoeding, komen ten laste van de overheid."
+   ],
+   "fr": [
+    "Le CCA annule un permis de changement de fonction agricole en résidentiel : test esthétique et contrôle du stockage absents",
+    "Le Conseil pour les contestations de permis annule un permis d'environnement pour un changement de fonction hors zone, d'exploitation agricole en habitation. L'autorité n'avait pas évalué concrètement la valeur esthétique du paysage ni vérifié si le stockage prévu de foin et de bois imposait une déclaration ou un permis de classe 2 ou 3.",
+    "L'arrêt concerne les autorités délivrantes et les demandeurs en zone agricole de valeur paysagère, ainsi que les demandes où un changement de fonction s'accompagne d'un stockage pouvant constituer une activité classée. Le Conseil juge que le test esthétique de l'article 15.4.6.1 de l'arrêté d'organisation (Inrichtingsbesluit) se distingue du test du bon aménagement du territoire, mais peut être mené dans le cadre de celui-ci. Il exige un examen concret des caractéristiques du paysage, de la demande et de son intégration, et des motifs avancés seulement dans la note de réponse ne peuvent pallier l'absence de motivation. Pour un changement de fonction hors zone fondé sur l'article 4.4.23 du VCRO et l'article 11 de l'arrêté sur les changements de fonction hors zone (Besluit Zonevreemde Functiewijzigingen), l'autorité doit elle-même déterminer l'objet réel de la demande et vérifier que les annexes, avec le stockage prévu, peuvent encore être qualifiées d'annexes d'habitation. Lorsque le dossier mentionne un stockage de foin sans en indiquer la quantité, une autorité diligente doit vérifier, lors de l'examen de recevabilité et de complétude, si une installation de classe 2 ou 3 relevant de la rubrique 19.6 du VLAREM II est en cause. Le stockage de plus de 40 m³ dans un local hors zone industrielle relève de la classe 3, et de plus de 200 m³ de la classe 2. Si une telle installation est indissociablement liée au projet, une demande unique couvrant tous les aspects est requise sous peine d'irrecevabilité (article 7, § 2 du décret sur le permis d'environnement). Le permis est annulé et l'autorité doit prendre une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt. Les dépens, soit 910 euros d'indemnité de procédure, sont à charge de l'autorité."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.1037: art. 4.4.23 VCRO, art. 11 Besluit Zonevreemde Functiewijzigingen, art. 15.4.6.1 Inrichtingsbesluit, art. 7 §2 en 63 Omgevingsvergunningsdecreet, art. 5.2.1 §6 DABM, rubriek 19.6 VLAREM II",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1037.",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1037.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1037"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1036",
+   "d": "2026-08-13",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: authority need not expressly answer a request to extend the permit decision period",
+   "a": "The Council for Permit Disputes dismisses an appeal against a refused environmental permit. It holds that an authority deciding an administrative appeal has discretion over a request to extend its decision period and need not give reasons for not granting it. It also confirms that a conditionally favourable heritage advice may be set aside if the authority explains why.",
+   "b": "The ruling concerns permit applicants and the authorities deciding permit appeals in Flanders. The case involved a refused permit for demolishing and rebuilding two houses and converting a barn into a two-unit apartment building, with deviations requested from a special zoning plan (BPA) under Article 4.4.9/1 VCRO. On the extension, the Council holds that under Article 66, §2/1 of the Omgevingsvergunningsdecreet an extension is not automatic and lies within the authority's discretion. The authority need not grant it or state its reasons, and a request filed through the Omgevingsloket counts as noted. The Council also rejects an equality argument based on extensions granted in other files, because comparable situations were not shown. On the merits, the authority is not bound by a conditionally favourable heritage advice but must explain why it departs from it. It may do so where the commitments on which the advice rests do not appear in the plans and so cannot simply be imposed as conditions. The Council finds no manifest error in the assessment that the deviations sought under Article 4.4.9/1 VCRO indicated maximisation of the project and failed the housing-density test. The authority also has discretion to define the relevant surroundings, and an extra ground under Article 4.4.1 VCRO is a superfluous reason. The appeal is dismissed and the applicant bears the registry fee of 200 euro. The ruling was delivered on 13 August 2026.",
+   "nl": [
+    "RvVb: overheid hoeft verzoek tot verlenging van de beslissingstermijn niet uitdrukkelijk te beantwoorden",
+    "De Raad voor Vergunningsbetwistingen verwerpt een beroep tegen een geweigerde omgevingsvergunning. Hij oordeelt dat de overheid over een verzoek tot verlenging van de beslissingstermijn discretionair beslist en de niet-inwilliging niet moet motiveren. Een voorwaardelijk gunstig erfgoedadvies mag worden terzijde geschoven mits dit afdoende wordt gemotiveerd.",
+    "Het arrest treft aanvragers van een omgevingsvergunning en de overheden die over vergunningsberoepen beslissen in Vlaanderen. De zaak betrof een geweigerde vergunning voor het slopen en herbouwen van twee eengezinswoningen en het verbouwen van een schuur tot een meergezinswoning met twee wooneenheden, met gevraagde afwijkingen op een bijzonder plan van aanleg (BPA) op grond van artikel 4.4.9/1 VCRO. Wat de termijnverlenging betreft, oordeelt de Raad dat een verlenging op grond van artikel 66, §2/1 van het Omgevingsvergunningsdecreet niet van rechtswege geschiedt en tot de discretionaire vrijheid van de overheid behoort. De overheid moet ze niet inwilligen en de beslissing daarover niet motiveren, en een verzoek via het Omgevingsloket geldt als aktename. De Raad verwerpt ook een gelijkheidsargument dat steunt op termijnverlengingen in andere dossiers, omdat vergelijkbare situaties niet worden aangetoond. Ten gronde is de overheid niet gebonden door een voorwaardelijk gunstig advies van de onroerend erfgoeddienst, maar moet ze afdoende motiveren waarom ze het niet volgt. Dat kan wanneer de engagementen waarop het advies steunt niet op de plannen voorkomen en dus niet zomaar als voorwaarde kunnen worden opgelegd. De Raad ziet geen kennelijke onredelijkheid in de beoordeling dat de gevraagde afwijkingen op grond van artikel 4.4.9/1 VCRO wijzen op een maximalisatie van het project en de toets van de woondichtheid niet doorstaan. De overheid beschikt ook over een beoordelingsvrijheid bij het bepalen van de relevante omgeving, en een bijkomend motief op grond van artikel 4.4.1 VCRO is overtollig. Het beroep wordt verworpen en de verzoekende partij draagt het rolrecht van 200 euro. Het arrest werd uitgesproken op 13 augustus 2026."
+   ],
+   "fr": [
+    "CCA : l'autorité n'est pas tenue de répondre expressément à une demande de prolongation du délai de décision",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette un recours contre un permis d'environnement refusé. Il juge que l'autorité statue discrétionnairement sur une demande de prolongation du délai de décision et n'a pas à motiver l'absence d'octroi. Un avis patrimonial favorable sous conditions peut être écarté moyennant une motivation suffisante.",
+    "L'arrêt concerne les demandeurs de permis d'environnement et les autorités qui statuent sur les recours en matière de permis en Flandre. L'affaire portait sur le refus d'un permis pour la démolition et la reconstruction de deux maisons unifamiliales et la transformation d'une grange en un immeuble à deux logements, avec des dérogations demandées à un plan particulier d'aménagement (BPA) sur la base de l'article 4.4.9/1 du VCRO. Quant à la prolongation du délai, le Conseil juge qu'elle n'intervient pas de plein droit en vertu de l'article 66, §2/1 du décret sur le permis d'environnement (Omgevingsvergunningsdecreet) et relève du pouvoir discrétionnaire de l'autorité. Celle-ci n'est pas tenue de l'accorder ni de motiver sa décision à ce sujet, et une demande introduite via l'Omgevingsloket vaut prise d'acte. Le Conseil écarte également un moyen tiré du principe d'égalité fondé sur des prolongations accordées dans d'autres dossiers, faute de situations comparables démontrées. Sur le fond, l'autorité n'est pas liée par un avis favorable sous conditions du service du patrimoine immobilier, mais doit expliquer de manière suffisante pourquoi elle ne le suit pas. Elle le peut lorsque les engagements sur lesquels l'avis repose ne figurent pas sur les plans et ne peuvent donc pas simplement être imposés comme conditions. Le Conseil ne relève pas d'erreur manifeste dans l'appréciation selon laquelle les dérogations demandées sur la base de l'article 4.4.9/1 du VCRO révèlent une maximalisation du projet et ne satisfont pas au critère de la densité de logements. L'autorité dispose aussi d'une marge d'appréciation pour déterminer l'environnement pertinent, et un motif supplémentaire fondé sur l'article 4.4.1 du VCRO est surabondant. Le recours est rejeté et la partie requérante supporte le droit de rôle de 200 euros. L'arrêt a été prononcé le 13 août 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1036: artikel 66, §2/1 en 74 Omgevingsvergunningsdecreet; artikelen 4.3.1, 4.4.1 en 4.4.9/1 VCRO",
+   "dates": {
+    "adopted": "2026-08-13"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1036.",
+     "https://www.dbrc.be/sites/default/files/2026-09/RVVB.2526.1036.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1036"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1034",
+   "d": "2026-08-06",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "RvVb: wind turbine permit may rely on maximum dimensions and power, assessed on a worst-case basis",
+   "a": "The Council for Permit Disputes rejected the appeals against an environmental permit for one wind turbine in Assenede. It held that an application may state only maximum dimensions and power, without fixing the turbine type, if the authority assesses the worst case.",
+   "b": "The ruling concerns applicants for wind turbine permits in Flanders and the authorities that decide on them. The appeals targeted the permit of 18 September 2025 for one turbine with a maximum tip height of 240 m, a rotor diameter of up to 175 m, a maximum of 7.2 MW and a sound power of 107.8 dB(A). The Council held that neither the permit rules nor the spatial planning assessment (art. 4.3.1 VCRO) require the exact turbine type, dimensions or power to be stated. The application may give maximum values of the parameters relevant to the assessment, and the authority must then test the project against the turbine with the greatest impact within those maxima, as confirmed by the Council of State (27 November 2025, no. 265.003). The Council added that addendum R20.1.6 of the addenda library itself expresses power and dimensions as maxima, so the objection is aimed at the regulation and not at the permit. It also held that art. 4.2.8 VCRO (the building tolerance margin) concerns whether the works as built match the permit, not how precisely the permit object must be defined. The Council also found it reasonable to treat noise and shadow-flicker nuisance as acceptable under the special conditions imposed: a shadow-flicker module, an evening and night noise reduction schedule, and a minimum capacity of 7 MW. The appeals were rejected and the costs were charged to the applicants; the ruling was delivered on 6 August 2026.",
+   "nl": [
+    "RvVb: windturbinevergunning mag steunen op maximale afmetingen en vermogen, getoetst aan worstcasescenario",
+    "De Raad voor Vergunningsbetwistingen verwerpt de beroepen tegen een omgevingsvergunning voor één windturbine in Assenede. Een aanvraag mag enkel maximale afmetingen en maximaal vermogen vermelden, zonder turbinetype vast te leggen, zolang het worstcasescenario wordt getoetst.",
+    "Het arrest betreft aanvragers van vergunningen voor windturbines in Vlaanderen en de overheden die erover beslissen. De beroepen waren gericht tegen de vergunning van 18 september 2025 voor één turbine met een maximale tiphoogte van 240 m, een rotordiameter tot 175 m, maximaal 7,2 MW en een bronvermogen van 107,8 dB(A). De Raad oordeelt dat noch de vergunningsregelgeving noch de toets aan de goede ruimtelijke ordening (artikel 4.3.1 VCRO) vereist dat het exacte turbinetype, de exacte afmetingen of het exacte vermogen worden vermeld. De aanvraag mag de maximale waarden opgeven van de parameters die relevant zijn voor de beoordeling, en de overheid moet het project dan toetsen aan de turbine met de meeste impact binnen die maxima, zoals ook de Raad van State bevestigde (27 november 2025, nr. 265.003). Volgens de Raad drukt addendum R20.1.6 uit de addendabibliotheek vermogen en dimensies zelf uit in maxima, zodat de kritiek tegen de regelgeving zelf gericht is en niet tegen de vergunning. Artikel 4.2.8 VCRO (het metsershaar) gaat volgens de Raad over de vraag of het uitgevoerde overeenstemt met de vergunning, niet over hoe nauwkeurig het vergunde voorwerp moet worden omschreven. De Raad acht het ook redelijk dat de geluids- en slagschaduwhinder aanvaardbaar wordt geacht mits de opgelegde bijzondere voorwaarden: een slagschaduwmodule, een geluidsreductieschema voor avond en nacht en een minimaal vermogen van 7 MW. De beroepen worden verworpen en de kosten komen ten laste van de verzoekende partijen; het arrest werd uitgesproken op 6 augustus 2026."
+   ],
+   "fr": [
+    "CCA : un permis d'éolienne peut reposer sur des dimensions et une puissance maximales, évaluées dans le pire scénario",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette les recours contre un permis d'environnement pour une éolienne à Assenede. Une demande peut n'indiquer que des dimensions et une puissance maximales, sans fixer le type de turbine, pour autant que le pire scénario soit évalué.",
+    "L'arrêt concerne les demandeurs de permis pour des éoliennes en Flandre et les autorités qui statuent sur ces demandes. Les recours visaient le permis du 18 septembre 2025 pour une éolienne d'une hauteur de pale maximale de 240 m, d'un diamètre de rotor allant jusqu'à 175 m, de 7,2 MW au maximum et d'une puissance acoustique de 107,8 dB(A). Le Conseil juge que ni la réglementation relative au permis ni l'examen du bon aménagement du territoire (article 4.3.1 VCRO) n'exigent d'indiquer le type exact, les dimensions exactes ou la puissance exacte de la turbine. La demande peut indiquer les valeurs maximales des paramètres pertinents pour l'appréciation, et l'autorité doit alors évaluer le projet au regard de la turbine ayant le plus d'impact dans ces maxima, comme l'a confirmé le Conseil d'État (27 novembre 2025, n° 265.003). Selon le Conseil, l'addendum R20.1.6 de la bibliothèque d'addenda exprime lui-même la puissance et les dimensions en maxima, de sorte que la critique vise la réglementation elle-même et non le permis. L'article 4.2.8 VCRO (la marge de tolérance de construction) porte sur la conformité de l'exécution au permis, et non sur la précision avec laquelle l'objet autorisé doit être décrit. Le Conseil estime en outre raisonnable de juger acceptables les nuisances sonores et d'ombre stroboscopique moyennant les conditions particulières imposées : un module d'arrêt pour l'ombre portée, un schéma de réduction du bruit en soirée et la nuit, et une puissance minimale de 7 MW. Les recours sont rejetés et les dépens sont mis à charge des parties requérantes ; l'arrêt a été prononcé le 6 août 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.1034 – artikelen 4.2.8 en 4.3.1 VCRO, artikel 18 Omgevingsvergunningsdecreet, artikelen 15 en 154 Omgevingsvergunningsbesluit (addendum R20.1.6): windturbine, voorwerp van de vergunning en worstcasetoets",
+   "dates": {
+    "adopted": "2026-08-06"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1034. vernietiging van de beslissing van de verwerende partij van 18 september 2025, waa",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1034.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1034"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1030",
+   "d": "2026-08-06",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "RvVb annuls wind turbine permit in Zelzate/Assenede over heritage and energy-optimisation reasoning",
+   "a": "The Council for Permit Disputes annulled an environmental permit for one 238 m wind turbine, finding the reasoning on impact on a protected farm and on the 5 MW minimum capacity condition insufficient. The permitting authority must take a new decision within three months of notification.",
+   "b": "The ruling concerns an environmental permit for one wind turbine (WT03, 8 MW, 238 m tip height) at Zelzate/Assenede, part of a three-turbine project, with the foot about 150 m from the boundary of a protected monument farm. The Council holds that the permitting authority could not justify the siting by saying the monument's value was already devalued by a degraded surrounding landscape. Part of that infrastructure already existed when the site was protected in 2005, and the turbine remains visible all year from the protected tree-lined drive. The authority also dealt only in general terms with the enclosure of the monument, which the project EIA and the unfavourable advices of the municipality and the second applicant had assessed negatively, so a more detailed reasoning on fit with the existing surroundings was required. On energy optimisation, the permit imposed a minimum capacity of 5 MW per turbine without explaining the gap with the 8 MW applied for or how that stays within the optimisation principle on which the authority relied. Explanations added later by the intervening parties cannot be taken into account. The decision is annulled and the authority must decide again within three months of the day after notification of the ruling. The costs (400 euro filing fee and 910 euro procedural indemnity) fall on the authority.",
+   "nl": [
+    "RvVb vernietigt windturbinevergunning in Zelzate/Assenede wegens gebrekkige motivering over erfgoed en energie",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor één windturbine van 238 m, omdat de motivering over de impact op een beschermde hoeve en over de minimale vermogensvoorwaarde van 5 MW ontoereikend is. De vergunningverlenende overheid moet binnen drie maanden na betekening een nieuwe beslissing nemen.",
+    "Het arrest betreft een omgevingsvergunning voor één windturbine (WT03, 8 MW, tiphoogte 238 m) te Zelzate/Assenede, deel van een project van drie windturbines, met de voet op ongeveer 150 m van de grens van een beschermde monumentale hoeve. De Raad oordeelt dat de vergunningverlenende overheid de inplanting niet kon verantwoorden door te stellen dat de waarde van het monument al gedevalueerd was door een aangetast omliggend landschap. Een deel van die infrastructuur was er immers al toen de site in 2005 werd beschermd, en de turbine blijft het hele jaar zichtbaar vanaf de beschermde dreef. De overheid ging bovendien slechts in algemene bewoordingen voorbij aan de insluiting van het monument, die in het project-MER en in de ongunstige adviezen van de gemeente en de tweede verzoekende partij negatief was beoordeeld; een meer doorgedreven motivering over de inpasbaarheid in de bestaande omgeving was dus nodig. Wat de energetische optimalisatie betreft, werd een minimaal vermogen van 5 MW per turbine opgelegd zonder het verschil met de aangevraagde 8 MW te duiden of aan te geven hoe dat binnen het principe van energetische optimalisatie blijft waarop de overheid steunde. Verduidelijkingen die de tussenkomende partijen later aanbrengen, kunnen niet in aanmerking worden genomen. De beslissing wordt vernietigd en de overheid moet binnen drie maanden na de dag na de betekening van het arrest opnieuw beslissen. De kosten (400 euro rolrecht en 910 euro rechtsplegingsvergoeding) komen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'une éolienne à Zelzate/Assenede pour motivation insuffisante (patrimoine, optimisation énergétique)",
+    "Le Conseil pour les contestations des autorisations annule un permis d'environnement pour une éolienne de 238 m, la motivation relative à l'impact sur une ferme protégée et à la condition de puissance minimale de 5 MW étant insuffisante. L'autorité qui a délivré le permis doit statuer à nouveau dans les trois mois de la notification.",
+    "L'arrêt concerne un permis d'environnement pour une éolienne (WT03, 8 MW, hauteur en bout de pale de 238 m) à Zelzate/Assenede, faisant partie d'un projet de trois éoliennes, dont le pied se situe à environ 150 m de la limite d'une ferme classée comme monument. Le Conseil juge que l'autorité ne pouvait justifier l'implantation en affirmant que la valeur du monument était déjà dépréciée par un paysage environnant altéré. Une partie de ces infrastructures existait en effet déjà lors du classement du site en 2005, et l'éolienne reste visible toute l'année depuis le drive protégé. L'autorité a en outre écarté en termes généraux l'enclavement du monument, jugé négatif dans le rapport d'incidences du projet (project-MER) et dans les avis défavorables de la commune et de la deuxième partie requérante ; une motivation plus approfondie sur l'insertion dans l'environnement existant était donc requise. Quant à l'optimisation énergétique, une puissance minimale de 5 MW par éolienne a été imposée sans expliquer l'écart avec les 8 MW demandés ni comment cela reste conforme au principe d'optimisation énergétique invoqué par l'autorité. Les explications ajoutées ultérieurement par les parties intervenantes ne peuvent être prises en considération. La décision est annulée et l'autorité doit statuer à nouveau dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. Les dépens (400 euros de droit de rôle et 910 euros d'indemnité de procédure) sont à charge de la partie défenderesse."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.1030 – omgevingsvergunning windturbine WT03 (Zelzate/Assenede): art. 4.3.1, §2 VCRO, art. 6.4.3 Onroerenderfgoeddecreet, motiveringsplicht",
+   "dates": {
+    "adopted": "2026-08-06"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1030. vernietiging van de beslissing van de verwerende partij van 31 januari 2025, waarm",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1030.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1030"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1027",
+   "d": "2026-08-06",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-safety",
+    "energy-climate"
+   ],
+   "h": "Flemish permit council upholds wind turbine permit: noise, shadow-flicker and safety conditions clarified",
+   "a": "The Council for Permit Disputes rejected an appeal against an environmental permit for a 6 MW wind turbine in Dilsen-Stokkem. It clarified when special environmental conditions are needed, how nuisance is assessed and when a corrected appeal counts as filed in time.",
+   "b": "The ruling concerns appeals against environmental permits for wind turbines, here a 200 m tip-height, 6 MW turbine in Dilsen-Stokkem. A petition corrected in time after a request from the registry is treated as filed on the date of the first submission. Nuisance that stays within the VLAREM II guideline values does not require refusal, because under Article 5.3.1, 1° DABM a permit can only be refused where the nuisance is unacceptable. The permitting authority does not have to weigh the individual medical situation of objectors, nor explain why vibrations are imperceptible. An automatic shadow-flicker stop module that forms part of the application is permitted with it and needs no separate special environmental condition. A special condition requiring compliance with the boundary conditions of the safety study was held sufficient to bind the turbine to the dimensions assessed in that study. Criticism of where documents were placed in the Omgevingsloket was held not to target the permit decision itself and was declared inadmissible, as no prejudice resulted from the alleged defect. The appeal was rejected and costs fell on the applicants; the ruling was delivered on 6 August 2026.",
+   "nl": [
+    "RvVb bevestigt vergunning windturbine: geluid, slagschaduw en veiligheidsvoorwaarden verduidelijkt",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een omgevingsvergunning voor een windturbine van 6 MW in Dilsen-Stokkem. Het arrest verduidelijkt wanneer bijzondere milieuvoorwaarden nodig zijn, hoe hinder wordt beoordeeld en wanneer een geregulariseerd verzoekschrift tijdig is.",
+    "Het arrest betreft beroepen tegen omgevingsvergunningen voor windturbines, hier een turbine van 6 MW met een tiphoogte van 200 m in Dilsen-Stokkem. Een verzoekschrift dat tijdig wordt geregulariseerd na een verzoek van de griffie, wordt geacht te zijn ingediend op de datum van de eerste verzending of neerlegging. Hinder die binnen de richtwaarden van VLAREM II blijft, noopt niet tot weigering, want volgens artikel 5.3.1, 1° DABM kan een vergunning enkel worden geweigerd als de hinder onaanvaardbaar is. De vergunningverlenende overheid moet geen rekening houden met de individuele medische situatie van bezwaarindieners en moet evenmin motiveren waarom trillingen onvoelbaar of onhoorbaar zijn. Een automatische stilstandmodule voor slagschaduw die deel uitmaakt van de aanvraag, is mee vergund en vereist geen afzonderlijke bijzondere milieuvoorwaarde. Een bijzondere voorwaarde die de naleving oplegt van de randvoorwaarden uit de veiligheidsstudie, volstond om de turbine te binden aan de in die studie beoordeelde afmetingen. Kritiek op de plaats waar documenten in het Omgevingsloket werden opgeladen, richt zich niet tegen de bestreden beslissing en werd onontvankelijk verklaard, omdat de beweerde onwettigheid de verzoekers niet heeft benadeeld. Het beroep wordt verworpen en de kosten komen ten laste van de verzoekende partijen; het arrest is uitgesproken op 6 augustus 2026."
+   ],
+   "fr": [
+    "Le CCA flamand confirme le permis d'une éolienne : bruit, ombre portée et conditions de sécurité précisés",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette le recours contre un permis d'environnement pour une éolienne de 6 MW à Dilsen-Stokkem. L'arrêt précise quand des conditions environnementales particulières sont nécessaires, comment la nuisance est appréciée et quand une requête régularisée est introduite en temps utile.",
+    "L'arrêt concerne des recours contre des permis d'environnement pour des éoliennes, ici une éolienne de 6 MW dont la hauteur de pale atteint 200 m à Dilsen-Stokkem. Une requête régularisée dans le délai après une demande du greffe est réputée introduite à la date de son premier envoi ou dépôt. Une nuisance qui reste dans les valeurs guides du VLAREM II n'impose pas le refus, car selon l'article 5.3.1, 1° du DABM un permis ne peut être refusé que si la nuisance est inacceptable. L'autorité délivrante ne doit pas tenir compte de la situation médicale individuelle des auteurs de réclamations, ni expliquer pourquoi les vibrations sont imperceptibles. Un module d'arrêt automatique pour l'ombre portée qui fait partie de la demande est autorisé avec celle-ci et ne requiert pas de condition environnementale particulière distincte. Une condition particulière imposant le respect des conditions limites de l'étude de sécurité a suffi pour lier l'éolienne aux dimensions évaluées dans cette étude. La critique portant sur l'endroit où des documents ont été téléversés dans l'Omgevingsloket ne vise pas la décision attaquée et a été déclarée irrecevable, l'illégalité alléguée n'ayant causé aucun préjudice aux requérants. Le recours est rejeté et les frais sont à charge des requérants ; l'arrêt a été prononcé le 6 août 2026."
+   ],
+   "scope": "Arrest RvVb.2526.1027 van 6 augustus 2026: art. 5.3.1, 1° DABM, art. 4.3.1 §1 VCRO, art. 72-74 Omgevingsvergunningsdecreet, art. 5 §3 Verdrag van Aarhus, art. 35 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-08-06"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1027. vernietiging van de beslissing van de verwerende partij van 3 juli 2025, waarmee a",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1027.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1027"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1018",
+   "d": "2026-08-06",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council loses jurisdiction over expropriation decree appeal once summons before the justice of the peace is issued",
+   "a": "The Council for Permit Disputes (RvVb) ruled that its jurisdiction over an annulment action against a definitive expropriation decree ends once the applicant is summoned before the justice of the peace on the basis of that decree. The action then becomes inadmissible.",
+   "b": "The ruling concerns owners and other right-holders who challenge a definitive expropriation decree before the RvVb, and the expropriating authorities that bring the judicial phase. Under Articles 43 and 46 §1 of the Flemish Expropriation Decree of 24 February 2017, the legality of the decree can be challenged before the RvVb or before the civil courts. The RvVb held that its jurisdiction lapses once a summons for expropriation based on the decree is served and the applicant is one of the defendants. Referring to the preparatory works, it noted that the loss runs from the summons and that persons without a real or personal right in the property are not excluded in the same way. The loss takes effect once the Council is aware of the summons. It arises by operation of law and concerns public order. Here the summons was served on 5 December 2025, after the annulment action was filed in July 2025. The action was therefore rejected as inadmissible, and the costs fell on the expropriating authority. These comprised a 200 euro filing fee and a 910 euro legal costs indemnity, the base amount since 17 June 2026. The ruling is dated 6 August 2026.",
+   "nl": [
+    "Raad voor Vergunningsbetwistingen verliest rechtsmacht over beroep tegen onteigeningsbesluit zodra dagvaarding voor de vrederechter is uitgebracht",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat zijn rechtsmacht over een vernietigingsberoep tegen een definitief onteigeningsbesluit eindigt zodra de verzoekende partij op grond van dat besluit voor de vrederechter wordt gedagvaard. Het beroep is dan niet langer ontvankelijk.",
+    "Het arrest betreft eigenaars en andere rechthebbenden die een definitief onteigeningsbesluit bij de Raad voor Vergunningsbetwistingen bestrijden, en de onteigenende instanties die de gerechtelijke fase inleiden. Krachtens de artikelen 43 en 46, §1 van het Vlaams Onteigeningsdecreet van 24 februari 2017 kan de wettigheid van het besluit zowel bij de Raad als bij de burgerlijke rechter worden bestreden. De Raad oordeelt dat zijn rechtsmacht vervalt zodra een dagvaarding tot onteigening op grond van het besluit is uitgebracht en de verzoekende partij een van de gedaagden is. Met verwijzing naar de memorie van toelichting vermeldt hij dat het verlies ingaat vanaf de dagvaarding en dat personen zonder zakelijk of persoonlijk recht op het goed niet op dezelfde wijze worden uitgesloten. Het verlies treedt in zodra de Raad kennis heeft van de dagvaarding. Het dringt zich van rechtswege op en raakt de openbare orde. Hier werd de dagvaarding uitgebracht op 5 december 2025, na het indienen van het vernietigingsberoep in juli 2025. Het beroep werd daarom als onontvankelijk verworpen en de kosten kwamen ten laste van de onteigenende instantie. Die bestaan uit een rolrecht van 200 euro en een rechtsplegingsvergoeding van 910 euro, het basisbedrag sinds 17 juni 2026. Het arrest is gewezen op 6 augustus 2026."
+   ],
+   "fr": [
+    "Le Conseil pour les contestations des autorisations perd sa compétence à l'égard d'un recours contre un arrêté d'expropriation dès la citation devant le juge de paix",
+    "Le Conseil pour les contestations des autorisations (RvVb) juge que sa compétence à l'égard d'un recours en annulation contre un arrêté d'expropriation définitif prend fin dès que la partie requérante est citée devant le juge de paix sur la base de cet arrêté. Le recours n'est alors plus recevable.",
+    "L'arrêt concerne les propriétaires et autres titulaires de droits qui contestent un arrêté d'expropriation définitif devant le RvVb, ainsi que les autorités expropriantes qui engagent la phase judiciaire. En vertu des articles 43 et 46, §1er du décret flamand du 24 février 2017 relatif à l'expropriation, la légalité de l'arrêté peut être contestée devant le Conseil ou devant le juge civil. Le Conseil juge que sa compétence s'éteint dès qu'une citation en expropriation fondée sur l'arrêté est signifiée et que la partie requérante figure parmi les défendeurs. Se référant aux travaux préparatoires, il relève que la perte de compétence court dès la citation et que les personnes sans droit réel ou personnel sur le bien ne sont pas exclues de la même manière. Cette perte prend effet dès que le Conseil a connaissance de la citation. Elle s'impose de plein droit et touche à l'ordre public. En l'espèce, la citation a été signifiée le 5 décembre 2025, après l'introduction du recours en annulation en juillet 2025. Le recours a donc été rejeté comme irrecevable et les dépens ont été mis à charge de l'autorité expropriante. Ils comprennent un droit de rôle de 200 euros et une indemnité de procédure de 910 euros, montant de base en vigueur depuis le 17 juin 2026. L'arrêt a été prononcé le 6 août 2026."
+   ],
+   "scope": "Arrest RvVb.2526.1018 – artikelen 43 en 46, §1 Vlaams Onteigeningsdecreet van 24 februari 2017; rechtsmacht van de Raad voor Vergunningsbetwistingen na dagvaarding voor de vrederechter",
+   "dates": {
+    "adopted": "2026-08-06"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1018.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1018.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1018"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1014",
+   "d": "2026-07-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: permit annulled for lack of reasoning on good spatial planning when departing from POA report",
+   "a": "The Council for Permit Disputes annulled a permit that allowed a 1,970.56 m³ former stable to become a dwelling annex despite an unfavourable provincial officer report. An appeal authority that departs from that report and from agency advice must give specific reasoning on spatial acceptability.",
+   "b": "The ruling concerns permit applicants and the authorities deciding administrative appeals under the Omgevingsvergunningsdecreet, in particular when assessing a change of function of a former agricultural building in agricultural area. The permit covered the change of a farm dwelling to residential use and the conversion of a former stable of 1,970.56 m³ into a non-zone-conforming dwelling annex in Haaltert. The Council recalls that the appeal authority examines the whole application and need not answer every argument point by point. It must, however, show the considerations on which it relies, state how it takes the provincial officer's (POA) report into account (art. 63/1 OVD), and give more concrete and careful reasons when it departs from that report, from advice or from the appeal grounds. Here the authority had found the stable physically unsuitable for conversion of part of it (911.17 m³) into tourist accommodation, yet permitted the whole stable as a dwelling annex. It did not assess the scale and volume against good spatial planning (art. 4.3.1 VCRO). Its remark that the spatial impact is limited (a few sheep, storage of maintenance material) was held insufficient, given the POA's view and the Agriculture Agency's advice that the whole stable is not a usual annex. The permit is annulled and the authority must take a new decision on the administrative appeal within two months of notification of the ruling of 30 July 2026. The costs (€200 filing fee and €910 procedural indemnity) fall on the authority.",
+   "nl": [
+    "RvVb: vergunning vernietigd wegens gebrekkige motivering van de goede ruimtelijke ordening bij afwijking van POA-verslag",
+    "De Raad voor Vergunningsbetwistingen vernietigt een vergunning die de functiewijziging van een stal van 1.970,56 m³ tot woningbijgebouw toestond, ondanks een ongunstig verslag van de provinciale omgevingsambtenaar. Een beroepsinstantie die afwijkt van dat verslag en van het advies van het landbouwagentschap, moet de ruimtelijke aanvaardbaarheid specifiek motiveren.",
+    "De uitspraak is van belang voor vergunningsaanvragers en voor de overheden die over bestuurlijke beroepen in de omgevingsvergunning beslissen, met name bij de beoordeling van een functiewijziging van een voormalig landbouwgebouw in agrarisch gebied. De vergunning betrof de functiewijziging van een landbouwerswoning naar wonen en de omvorming van een voormalige stal van 1.970,56 m³ tot zonevreemd woningbijgebouw in Haaltert. De Raad herinnert eraan dat de beroepsinstantie de aanvraag in haar geheel onderzoekt en niet elk argument punt na punt moet beantwoorden. Ze moet wel duidelijk maken op welke overwegingen ze steunt, aangeven hoe ze met het verslag van de provinciale omgevingsambtenaar (POA) rekening houdt (art. 63/1 OVD) en haar beslissing concreter en zorgvuldiger motiveren wanneer ze afwijkt van dat verslag, van adviezen of van de beroepsgrieven. Hier had de overheid de stal bouwfysisch ongeschikt geacht voor de omvorming van een deel ervan (911,17 m³) tot toeristisch logies, maar vergunde ze toch de volledige stal als woningbijgebouw. De schaal en het volume werden niet getoetst aan de goede ruimtelijke ordening (art. 4.3.1 VCRO). De overweging dat de ruimtelijke impact beperkt is (enkele schapen, stalling van onderhoudsmateriaal) volstond niet, gelet op het standpunt van de POA en het advies van het Agentschap voor Landbouw en Zeevisserij dat de volledige stal geen gangbaar woningbijgebouw is. De vergunning wordt vernietigd en de overheid moet binnen twee maanden na de betekening van het arrest van 30 juli 2026 een nieuwe beslissing nemen over het bestuurlijk beroep. De kosten (200 euro rolrecht en 910 euro rechtsplegingsvergoeding) komen ten laste van de overheid."
+   ],
+   "fr": [
+    "CCAE (RvVb) : permis annulé faute de motivation du bon aménagement du territoire en cas d'écart avec le rapport du POA",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis qui autorisait la transformation d'une étable de 1.970,56 m³ en annexe d'habitation malgré un rapport défavorable du fonctionnaire provincial de l'environnement. L'autorité de recours qui s'écarte de ce rapport et de l'avis de l'agence de l'agriculture doit motiver spécifiquement l'acceptabilité spatiale.",
+    "L'arrêt concerne les demandeurs de permis et les autorités statuant sur les recours administratifs en matière de permis d'environnement, notamment lors de l'appréciation d'un changement de fonction d'un ancien bâtiment agricole en zone agricole. Le permis portait sur le changement de fonction d'une habitation d'exploitant agricole en habitation résidentielle et sur la transformation d'une ancienne étable de 1.970,56 m³ en annexe d'habitation non conforme à la zone, à Haaltert. Le Conseil rappelle que l'autorité de recours examine la demande dans son ensemble et ne doit pas répondre à chaque argument point par point. Elle doit toutefois indiquer clairement les considérations sur lesquelles elle se fonde, préciser comment elle tient compte du rapport du fonctionnaire provincial de l'environnement (POA) (art. 63/1 du décret sur le permis d'environnement) et motiver de manière plus concrète et plus soigneuse lorsqu'elle s'écarte de ce rapport, des avis ou des griefs du recours. En l'espèce, l'autorité avait jugé l'étable physiquement inadaptée à la transformation d'une partie de celle-ci (911,17 m³) en logement touristique, mais a autorisé l'ensemble de l'étable comme annexe d'habitation. L'échelle et le volume n'ont pas été examinés au regard du bon aménagement du territoire (art. 4.3.1 VCRO). La considération selon laquelle l'impact spatial est limité (quelques moutons, entreposage de matériel d'entretien) a été jugée insuffisante, vu la position du POA et l'avis de l'Agence de l'agriculture et de la pêche maritime selon lequel l'étable entière n'est pas une annexe d'habitation usuelle. Le permis est annulé et l'autorité doit prendre une nouvelle décision sur le recours administratif dans un délai de deux mois à compter de la notification de l'arrêt du 30 juillet 2026. Les frais (200 euros de droit de rôle et 910 euros d'indemnité de procédure) sont mis à charge de l'autorité."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.1014 – artikel 4.3.1 VCRO, artikelen 63 en 63/1 Omgevingsvergunningsdecreet, artikelen 2 en 3 Motiveringswet",
+   "dates": {
+    "adopted": "2026-07-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1014.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1014.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1014"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-1009",
+   "d": "2026-07-30",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls permit for café terrace roof: compatibility with rural residential zone needs full nuisance review",
+   "a": "The Council for Permit Disputes annulled a permit regularising a café terrace roof and building a storage room in a rural residential zone. A permitting authority must examine the nuisance of the whole café business, not refer to environmental enforcement. The request to substitute a refusal was rejected.",
+   "b": "The ruling concerns permit authorities and operators of commercial activities, here a café with terrace and car park, in a residential area with rural character under the regional plan (Articles 5.1.0 and 6.1.2.2 of the Royal Decree of 28 December 1972). Such activities are allowed only if they need not be set apart in a dedicated zone, and if they are compatible with the immediate surroundings. The Council holds that this assessment must cover the whole business, existing authorised or deemed-authorised parts included, and not only the applied-for works. An extension of an existing business cannot be presumed admissible. The reasoning must also be adequate: statements about a \"limited scale\" are mere stock phrases. Nuisance such as noise cannot be left to environmental enforcement, and short opening hours do not answer the daytime noise complaints. Parking capacity does not answer the complaint about noise next to the neighbours' gardens. The permit of 23 January 2025 is annulled, and the deputation must take a new decision within three months of notification of the ruling. The request to replace that decision with a refusal under Article 37 §2 of the DBRC Decree is rejected, because the authority's discretion is not yet fully bound.",
+   "nl": [
+    "RvVb vernietigt vergunning voor terrasoverkapping café: bestaanbaarheid met woongebied vereist volledig hinderonderzoek",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor de regularisatie van een terrasoverkapping en de bouw van een stockageruimte bij een café in woongebied met landelijk karakter. De overheid moet de hinder van de volledige horeca-uitbating onderzoeken en mag niet naar milieuhandhaving verwijzen. Het verzoek tot indeplaatsstelling met een weigering wordt verworpen.",
+    "Het arrest betreft vergunningverlenende overheden en exploitanten van handels- of horeca-activiteiten, hier een café met terras en parking, in woongebied met landelijk karakter volgens het gewestplan (artikelen 5.1.0 en 6.1.2.2 van het Inrichtingsbesluit van 28 december 1972). Dergelijke activiteiten zijn alleen toegelaten als ze niet in een daartoe aangewezen gebied moeten worden afgezonderd en verenigbaar zijn met de onmiddellijke omgeving. Volgens de Raad moet die beoordeling de volledige uitbating omvatten, dus ook de vergunde of vergund geachte onderdelen, en niet alleen de aangevraagde werken. Dat een bestaande uitbating mag worden uitgebreid, mag niet zomaar worden aangenomen. De motivering moet ook draagkrachtig zijn: overwegingen over een 'beperkte schaal' zijn stijlclausules. Hinder zoals geluid mag niet aan milieuhandhaving worden overgelaten, en beperkte openingsuren beantwoorden de grieven over geluidshinder overdag niet. Voldoende parkeergelegenheid beantwoordt de grief over geluid naast de tuinen van de buren evenmin. De vergunning van 23 januari 2025 wordt vernietigd en de deputatie moet binnen drie maanden na betekening van het arrest een nieuwe beslissing nemen. Het verzoek om een weigering in de plaats te stellen op grond van artikel 37, §2 DBRC-decreet wordt verworpen, omdat de bevoegdheid van de overheid nog niet volledig gebonden is."
+   ],
+   "fr": [
+    "Le CCA annule le permis pour la couverture de terrasse d'un café : examen complet des nuisances en zone d'habitat",
+    "Le Conseil du contentieux des autorisations annule un permis d'environnement pour la régularisation d'une couverture de terrasse et la construction d'un local de stockage près d'un café en zone d'habitat à caractère rural. L'autorité doit examiner les nuisances de l'ensemble de l'exploitation et ne peut renvoyer à la police de l'environnement. La demande de substitution par un refus est rejetée.",
+    "L'arrêt concerne les autorités délivrantes et les exploitants d'activités commerciales ou horeca, ici un café avec terrasse et parking, en zone d'habitat à caractère rural selon le plan de secteur (articles 5.1.0 et 6.1.2.2 de l'arrêté royal du 28 décembre 1972). Ces activités ne sont admises que si elles ne doivent pas être isolées dans une zone désignée à cet effet et si elles sont compatibles avec l'environnement immédiat. Selon le Conseil, cet examen doit porter sur l'ensemble de l'exploitation, y compris les éléments autorisés ou réputés autorisés, et pas seulement sur les travaux demandés. L'extension d'une exploitation existante ne peut être présumée admissible. La motivation doit aussi être adéquate : les considérations sur une « échelle limitée » sont des clauses de style. Les nuisances, notamment sonores, ne peuvent être renvoyées à la police de l'environnement, et des heures d'ouverture limitées ne répondent pas aux griefs sur le bruit de jour. Une capacité de stationnement suffisante ne répond pas non plus au grief du bruit près des jardins voisins. Le permis du 23 janvier 2025 est annulé et la députation doit prendre une nouvelle décision dans les trois mois de la notification de l'arrêt. La demande de substituer un refus en application de l'article 37, §2 du décret DBRC est rejetée, car la compétence de l'autorité n'est pas encore entièrement liée."
+   ],
+   "scope": "RvVb arrest RVVB.2526.1009 – artikelen 4.3.1, §1 VCRO, 5.1.0 en 6.1.2.2 Inrichtingsbesluit, artikel 37, §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-07-30"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.1009. vernietiging van de beslissing van de verwerende partij van 23 januari 2025 tot af",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.1009.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.1009"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
