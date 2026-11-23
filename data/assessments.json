@@ -48168,7 +48168,8 @@
 ],
 "reason": "Immediate enforceability of a permit alone does not establish urgency for suspension; applicants must show concrete, case-specific, serious harm. Replique notes not admitted in suspension cases.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-s-2526-0487"
 },
 "rvvb:RVVB.S.2526.0482": {
 "v": 4,
@@ -48181,7 +48182,8 @@
 ],
 "reason": "Suspension of a refusal to amend permit noise conditions gives no direct benefit; urgency requires concrete proof of economic harm, a point applicable to other permit applicants.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-s-2526-0482"
 },
 "rvvb:RVVB.A.2526.0517": {
 "v": 4,
@@ -48194,7 +48196,8 @@
 ],
 "reason": "Under art. 111 Omgevingsvergunningsdecreet, a timely express notification decision means no tacit aktename exists; publication only starts the appeal period for third parties.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"write_error": "missing fr"
 },
 "rvvb:RVVB.A.2526.0496": {
 "v": 4,
@@ -48207,7 +48210,8 @@
 ],
 "reason": "Applies water deterioration rules: claimant must show the permit itself causes a discharge; precautionary-principle arguments need concrete substantiation. Largely file-specific, so borderline.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0496"
 },
 "rvvb:RVVB.A.2526.0495": {
 "v": 4,
@@ -48221,7 +48225,8 @@
 ],
 "reason": "Adjusting permit conditions for PFAS: authority must examine water-deterioration and precaution issues; appellants must substantiate middelen; no point-by-point rebuttal of objections needed.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0495"
 },
 "rvvb:RVVB.A.2526.0494": {
 "v": 4,
@@ -48233,7 +48238,8 @@
 ],
 "reason": "Art. 64 amendments in administrative appeal apply regardless of procedure; simplified-procedure amendments need no public inquiry; permits issued under civil-rights reservation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0494"
 },
 "rvvb:RVVB.A.2526.0491": {
 "v": 4,
@@ -48245,7 +48251,8 @@
 ],
 "reason": "Art. 4.4.9/1 VCRO cannot authorise deviations for public roads; BPAs over 15 years old remain the benchmark, not an automatic non-ground; deviations must be reasoned against concrete prescriptions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0491"
 },
 "rvvb:RVVB.A.2526.0490": {
 "v": 4,
@@ -48257,7 +48264,8 @@
 ],
 "reason": "Interprets Omgevingsvergunningsdecreet art. 7 §2: whether inseparably linked permit-requiring acts must be bundled in one application is assessed case by case, and the authority cannot assess unlisted",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0490"
 },
 "rvvb:RVVB.A.2526.0488": {
 "v": 4,
@@ -48270,7 +48278,8 @@
 ],
 "reason": "Customer noise from a café is relevant nuisance under good spatial planning even though not VLAREM-classified; permit annulled for inadequate reasoning.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0488"
 },
 "rvvb:RVVB.A.2526.0486": {
 "v": 4,
@@ -48283,7 +48292,8 @@
 ],
 "reason": "Applies the exception for public-interest acts with limited spatial impact in buffer zones (art. 4.4.7 §2 VCRO, Besluit Handelingen Algemeen Belang art. 3 §3), including the review scope and the requi",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0486"
 },
 "rvvb:RVVB.A.2526.0484": {
 "v": 4,
@@ -48295,7 +48305,8 @@
 ],
 "reason": "Annuls permit: a 'limited' deviation under art. 4.4.1 VCRO must be judged against the plan prescription, not the existing situation; parking and collective-residence rules also need reasoned applicati",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0484"
 },
 "rvvb:RVVB.A.2526.0483": {
 "v": 4,
@@ -48318,7 +48329,8 @@
 ],
 "reason": "Dewatering may be applied for later, but its effects must still be assessed in the project MER screening, which may draw on other file documents.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0481"
 },
 "rvvb:RVVB.A.2526.0480": {
 "v": 4,
@@ -63179,7 +63191,9 @@
 ],
 "reason": "States the wider procedural rule that extreme-urgency suspension requests must set out concrete, documented facts ab initio; theoretical or precedent-based urgency claims fail. Also notes no Walloon l",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Extreme-urgency suspension refused on the facts of one permit; it applies the settled urgency test and decides no new point of law."
 },
 "rvs:265739": {
 "v": 4,
@@ -63201,7 +63215,8 @@
 ],
 "reason": "Restates standing rules for urban permit appeals: co-owners' associations may act only for collective specific interest; avocat's ad litem mandate presumed, rebuttable.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265738"
 },
 "rvs:265737": {
 "v": 4,
@@ -67515,15 +67530,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
+"this_run": 12,
 "found_not_relevant_on_reading": 1,
-"failed": 0,
-"waiting": 241,
+"failed": 1,
+"waiting": 228,
 "api": {
 "calls": 14,
-"input_tokens": 157701,
-"output_tokens": 44011,
-"usd": 0.7555
+"input_tokens": 223139,
+"output_tokens": 46733,
+"usd": 0.9136
 },
 "updated": "2026-11-23"
 },
