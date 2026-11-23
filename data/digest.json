@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:17:16Z",
+ "updated": "2026-11-23T07:42:37Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -10484,6 +10484,371 @@
    ],
    "inbox": [
     "eu:62025CJ0395"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62025cj0121",
+   "d": "2026-11-05",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "CJEU dismisses appeal on harmonised STOT RE 2 classification of treated nano silica (SAS-HMDS)",
+   "a": "The Court of Justice dismissed the appeal against the General Court's judgment upholding the harmonised classification of surface-treated synthetic amorphous silica (SAS-HMDS) as STOT RE 2 (H373, lungs, inhalation) under the CLP Regulation. It confirmed that Article 37(4) CLP gives no right to be consulted on the RAC opinion itself.",
+   "b": "The judgment concerns manufacturers, importers and downstream users of substances subject to harmonised classification under the CLP Regulation, and in particular the producer of SAS-HMDS. The appeal was against the General Court's dismissal of an action against Delegated Regulation (EU) 2022/692, in so far as it entered the substance in Annex VI, Part 3 as STOT RE 2, H373 (lungs, inhalation). On the first ground, the Court held that any error by the General Court in distinguishing 'specific toxic effects' from 'intrinsic properties' did not affect the outcome. The General Court had applied the principle that classification rests on intrinsic properties and had examined, and rejected, the argument that the effects came from particle deposition or high doses in the studies. The Court noted that its judgment of 1 August 2025 (C-71/23 P and C-82/23 P) did not endorse the General Court's reading of 'intrinsic properties' in the titanium dioxide case. On the second ground, it confirmed that Article 37(4) CLP gives the parties concerned an opportunity to comment during the RAC procedure, but no right to be consulted on the opinion the RAC adopts. The appeal was dismissed in full and the appellant was ordered to pay the costs of the Commission and ECHA. The classification therefore stands; the judgment sets no new date.",
+   "nl": [
+    "HvJ wijst hogere voorziening over geharmoniseerde STOT RE 2-indeling van behandeld nanosilica (SAS-HMDS) af",
+    "Het Hof van Justitie heeft de hogere voorziening verworpen tegen het arrest van het Gerecht dat de geharmoniseerde indeling van oppervlaktebehandeld synthetisch amorf silica (SAS-HMDS) als STOT RE 2 (H373, longen, inhalatie) onder de CLP-verordening bevestigde. Het bevestigt dat artikel 37, lid 4, CLP geen recht geeft om geraadpleegd te worden over het advies van het RAC zelf.",
+    "Het arrest betreft fabrikanten, importeurs en downstreamgebruikers van stoffen waarvoor een geharmoniseerde indeling onder de CLP-verordening geldt, en in het bijzonder de producent van SAS-HMDS. De hogere voorziening richtte zich tegen de afwijzing door het Gerecht van een beroep tegen gedelegeerde verordening (EU) 2022/692, voor zover daarbij de stof in bijlage VI, deel 3, werd opgenomen als STOT RE 2, H373 (longen, inhalatie). Wat het eerste middel betreft oordeelde het Hof dat een eventuele fout van het Gerecht bij het onderscheid tussen 'specifieke toxische effecten' en 'intrinsieke eigenschappen' de uitkomst niet beïnvloedt. Het Gerecht had het beginsel toegepast dat de indeling berust op intrinsieke eigenschappen en had het argument onderzocht en verworpen dat de effecten voortkwamen uit deeltjesdepositie of hoge doses in de studies. Het Hof merkte op dat zijn arrest van 1 augustus 2025 (C-71/23 P en C-82/23 P) de lezing van het Gerecht van 'intrinsieke eigenschappen' in de zaak over titaandioxide niet heeft onderschreven. Wat het tweede middel betreft bevestigde het Hof dat artikel 37, lid 4, CLP de betrokken partijen de mogelijkheid geeft om tijdens de RAC-procedure opmerkingen te maken, maar geen recht om te worden geraadpleegd over het door het RAC aangenomen advies. De hogere voorziening werd volledig verworpen en de appellante werd veroordeeld tot de kosten van de Commissie en het ECHA. De indeling blijft dus gelden; het arrest bepaalt geen nieuwe datum."
+   ],
+   "fr": [
+    "La CJUE rejette le pourvoi sur la classification harmonisée STOT RE 2 du nanosilice traité (SAS-HMDS)",
+    "La Cour de justice a rejeté le pourvoi contre l'arrêt du Tribunal qui a confirmé la classification harmonisée de la silice amorphe synthétique traitée en surface (SAS-HMDS) en STOT RE 2 (H373, poumons, inhalation) au titre du règlement CLP. Elle confirme que l'article 37, paragraphe 4, du règlement CLP ne confère pas de droit d'être consulté sur l'avis du RAC lui-même.",
+    "L'arrêt concerne les fabricants, importateurs et utilisateurs en aval de substances faisant l'objet d'une classification harmonisée au titre du règlement CLP, et en particulier le producteur du SAS-HMDS. Le pourvoi visait le rejet par le Tribunal d'un recours contre le règlement délégué (UE) 2022/692, en ce qu'il inscrit la substance à l'annexe VI, partie 3, avec la classification STOT RE 2, H373 (poumons, inhalation). Sur le premier moyen, la Cour a jugé qu'une éventuelle erreur du Tribunal dans la distinction entre « effets toxiques spécifiques » et « propriétés intrinsèques » n'affecte pas l'issue. Le Tribunal avait appliqué le principe selon lequel la classification repose sur les propriétés intrinsèques et avait examiné, puis écarté, l'argument selon lequel les effets résultaient du dépôt de particules ou de fortes doses dans les études. La Cour relève que son arrêt du 1er août 2025 (C-71/23 P et C-82/23 P) n'a pas approuvé l'interprétation des « propriétés intrinsèques » retenue par le Tribunal dans l'affaire du dioxyde de titane. Sur le second moyen, elle confirme que l'article 37, paragraphe 4, du règlement CLP offre aux parties concernées la possibilité de formuler des observations durant la procédure devant le RAC, mais non un droit d'être consultées sur l'avis adopté par celui-ci. Le pourvoi est rejeté dans son intégralité et la requérante est condamnée aux dépens de la Commission et de l'ECHA. La classification demeure donc applicable; l'arrêt ne fixe aucune nouvelle date."
+   ],
+   "scope": "Judgment C-121/25 P Evonik Operations v Commission – Regulation (EC) No 1272/2008 (CLP), Art. 37(4) and Annex I section 3.9; Delegated Regulation (EU) 2022/692",
+   "dates": {
+    "adopted": "2026-11-05"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Third Chamber) of 5 November 2026.#Evonik Operations GmbH v European Commission.#Appeal – Environment and protection ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CJ0121"
+    ]
+   ],
+   "inbox": [
+    "eu:62025CJ0121"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0156",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: kosteloze grondafstand als vergunningslast moet afdoende gemotiveerd zijn; last vernietigd",
+   "a": "De Raad voor Vergunningsbetwistingen oordeelt dat een kosteloze grondafstand in een vergunning voor ontbossen en verkavelen een last is in de zin van artikel 75 Omgevingsvergunningsdecreet, ook als hij 'voorwaarde' heet. Hij vernietigt die last wegens ontoereikende en tegenstrijdige motivering.",
+   "b": "Het arrest betreft vergunningverlenende overheden en aanvragers wanneer een omgevingsvergunning een kosteloze grondafstand aan de overheid oplegt. Een verplichting die niet dient om de aanvraag verenigbaar te maken met de goede ruimtelijke ordening of met het recht, is een last en geen voorwaarde, ongeacht hoe de vergunning ze noemt. Volgens artikel 75 van het Omgevingsvergunningsdecreet (versie van 2021 tot en met 2023) kan een gratis grondafstand enkel slaan op openbare wegen, groene of verharde ruimten, openbare gebouwen of nutsvoorzieningen, of de gronden daarvoor, die in de vergunningsaanvraag vermeld zijn. De overheid moet uitdrukkelijk motiveren dat daaraan voldaan is. Dat geldt des te meer wanneer de provinciale omgevingsambtenaar anders adviseerde, beroepsindieners en aanvrager bezwaren uitten, en de strook slechts een doorgang naar een uit de verkaveling gesloten lot is, zonder zekerheid over een toekomstige wandelweg. Hier nam de deputatie de overwegingen van de ambtenaar over (de doorgang hoeft niet te worden afgestaan) maar legde de grondafstand toch op; die tegenstrijdige motivering staat gelijk aan een gebrek aan motivering. Omdat de last afsplitsbaar is, vernietigt de Raad enkel die last en beveelt hij de deputatie binnen drie maanden na de dag van betekening een nieuwe beslissing te nemen over het bestuurlijk beroep, beperkt tot die last. Het arrest is van 22 oktober 2026 en volgt op verwijzing door de Raad van State, die op 5 maart 2026 de eerdere arresten van 12 december 2024 vernietigde.",
+   "nl": [
+    "RvVb: kosteloze grondafstand als vergunningslast moet afdoende gemotiveerd zijn; last vernietigd",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat een kosteloze grondafstand in een vergunning voor ontbossen en verkavelen een last is in de zin van artikel 75 Omgevingsvergunningsdecreet, ook als hij 'voorwaarde' heet. Hij vernietigt die last wegens ontoereikende en tegenstrijdige motivering.",
+    "Het arrest betreft vergunningverlenende overheden en aanvragers wanneer een omgevingsvergunning een kosteloze grondafstand aan de overheid oplegt. Een verplichting die niet dient om de aanvraag verenigbaar te maken met de goede ruimtelijke ordening of met het recht, is een last en geen voorwaarde, ongeacht hoe de vergunning ze noemt. Volgens artikel 75 van het Omgevingsvergunningsdecreet (versie van 2021 tot en met 2023) kan een gratis grondafstand enkel slaan op openbare wegen, groene of verharde ruimten, openbare gebouwen of nutsvoorzieningen, of de gronden daarvoor, die in de vergunningsaanvraag vermeld zijn. De overheid moet uitdrukkelijk motiveren dat daaraan voldaan is. Dat geldt des te meer wanneer de provinciale omgevingsambtenaar anders adviseerde, beroepsindieners en aanvrager bezwaren uitten, en de strook slechts een doorgang naar een uit de verkaveling gesloten lot is, zonder zekerheid over een toekomstige wandelweg. Hier nam de deputatie de overwegingen van de ambtenaar over (de doorgang hoeft niet te worden afgestaan) maar legde de grondafstand toch op; die tegenstrijdige motivering staat gelijk aan een gebrek aan motivering. Omdat de last afsplitsbaar is, vernietigt de Raad enkel die last en beveelt hij de deputatie binnen drie maanden na de dag van betekening een nieuwe beslissing te nemen over het bestuurlijk beroep, beperkt tot die last. Het arrest is van 22 oktober 2026 en volgt op verwijzing door de Raad van State, die op 5 maart 2026 de eerdere arresten van 12 december 2024 vernietigde."
+   ],
+   "fr": [
+    "RvVb : une cession gratuite de terrain imposée comme charge de permis doit être motivée à suffisance ; charge annulée",
+    "Le Conseil du contentieux des permis juge qu'une cession gratuite de terrain imposée dans un permis de défrichement et de lotissement est une charge au sens de l'article 75 du décret sur le permis d'environnement (Omgevingsvergunningsdecreet), même si elle est qualifiée de condition. Il l'annule pour motivation insuffisante et contradictoire.",
+    "L'arrêt concerne les autorités délivrantes et les demandeurs lorsqu'un permis d'environnement impose la cession gratuite d'un terrain à l'autorité. Une obligation qui ne sert pas à rendre la demande compatible avec le bon aménagement du territoire ou avec le droit est une charge et non une condition, quelle que soit la qualification retenue par le permis. Selon l'article 75 de l'Omgevingsvergunningsdecreet (version applicable de 2021 à 2023), une cession gratuite ne peut porter que sur des voiries publiques, des espaces verts ou revêtus, des bâtiments publics ou des équipements d'utilité publique, ou sur les terrains qui leur sont destinés, mentionnés dans la demande de permis. L'autorité doit motiver expressément que ces conditions sont remplies, et ce d'autant plus lorsque le fonctionnaire provincial de l'environnement a émis un avis différent, que les requérants en recours et le demandeur ont formulé des objections, et que la bande de terrain n'est qu'un passage vers un lot exclu du lotissement, sans certitude quant à un futur sentier. En l'espèce, la députation a repris les considérations du fonctionnaire (le passage ne doit pas être cédé) tout en imposant la cession ; cette motivation contradictoire équivaut à une absence de motivation. La charge étant dissociable, le Conseil l'annule seule et ordonne à la députation de prendre une nouvelle décision sur le recours administratif, limitée à cette charge, dans un délai de trois mois à compter du lendemain de la notification. L'arrêt date du 22 octobre 2026 et fait suite au renvoi par le Conseil d'État, qui avait annulé le 5 mars 2026 les arrêts antérieurs du 12 décembre 2024."
+   ],
+   "scope": "Artikel 75 Omgevingsvergunningsdecreet (lasten, kosteloze grondafstand) en artikelen 2-3 Motiveringswet; RvVb, arrest RVVB.2627.0156 (omgevingsvergunning Bonheiden)",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0156.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0156.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0156"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0144",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for municipal project: deputation, not the municipal college, was competent at first instance",
+   "a": "The Council for Permit Disputes held that a screening-liable project of which the municipal executive is the applicant must be filed with the deputation at first instance. The college's permit was lifted and the appeal decision annulled.",
+   "b": "The ruling concerns environmental permits for municipal projects in Flanders that are subject to project-EIA screening, where the municipality is itself the applicant and initiator. Following the Court of Justice (C-236/24) and the Council of State (judgment 265.582), the Council finds that former Article 15/1 of the Omgevingsvergunningsdecreet only partly transposed Article 9bis of the EIA Directive. The required 'appropriate separation' is not achieved when the municipal college decides on a screening-liable project it initiated. Article 9bis has direct effect, so the application had to be filed with the deputation as the competent authority at first instance. The deputation therefore could not lawfully hear the administrative appeal. The Council rejects the arguments that Article 63 of the Decree (full reassessment on appeal, including the screening) or the correct application of the rules then in force cures the defect. It annulled the appeal decision and substituted its own judgment by lifting the permit for a care home, service centre and childcare, with costs borne by the defendant. The ruling is dated 22 October 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor gemeentelijk project: deputatie, niet het college, was bevoegd in eerste aanleg",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat een screeningsplichtig project waarvan het college van burgemeester en schepenen aanvrager is, in eerste aanleg bij de deputatie moet worden ingediend. De door het college verleende vergunning werd opgeheven en de beroepsbeslissing vernietigd.",
+    "Het arrest betreft omgevingsvergunningen voor screeningsplichtige gemeentelijke projecten in Vlaanderen waarbij de gemeente zelf aanvrager en initiatiefnemer is. Naar aanleiding van het Hof van Justitie (C-236/24) en de Raad van State (arrest 265.582) stelt de Raad vast dat het toenmalige artikel 15/1 van het Omgevingsvergunningsdecreet artikel 9bis van de Project-MER-richtlijn onvolledig omzette. De vereiste 'passende scheiding' wordt niet bereikt wanneer het college beslist over een screeningsplichtig project dat het zelf initieerde. Artikel 9bis heeft rechtstreekse werking, zodat de aanvraag in eerste aanleg bij de deputatie moest worden ingediend. De deputatie kon dan ook niet wettig kennisnemen van het bestuurlijk beroep. De Raad verwerpt het argument dat artikel 63 van het decreet (volledige herbeoordeling in beroep, inclusief de screening) of de correcte toepassing van de toen geldende regels het gebrek herstelt. Hij vernietigde de beroepsbeslissing en stelde zijn arrest in de plaats door de vergunning voor een woonzorgcentrum, dienstencentrum en kinderopvang op te heffen; de kosten zijn voor de verwerende partij. Het arrest dateert van 22 oktober 2026."
+   ],
+   "fr": [
+    "Le CCAP annule un permis pour un projet communal : la députation, et non le collège, était compétente en premier ressort",
+    "Le Conseil pour les contestations des autorisations (RvVb) juge qu'un projet soumis au screening, dont le collège des bourgmestre et échevins est le demandeur, doit être introduit en premier ressort auprès de la députation. Le permis délivré par le collège est levé et la décision sur recours est annulée.",
+    "L'arrêt concerne les permis d'environnement pour les projets communaux flamands soumis au screening EIE, lorsque la commune est elle-même demanderesse et initiatrice. À la suite de la Cour de justice (C-236/24) et du Conseil d'État (arrêt 265.582), le Conseil constate que l'ancien article 15/1 de l'Omgevingsvergunningsdecreet a transposé de manière incomplète l'article 9bis de la directive EIE. La « séparation appropriée » requise n'est pas réalisée lorsque le collège décide d'un projet soumis au screening dont il est l'initiateur. L'article 9bis a un effet direct, de sorte que la demande devait être introduite en premier ressort auprès de la députation. La députation ne pouvait donc pas connaître légalement du recours administratif. Le Conseil écarte l'argument selon lequel l'article 63 du décret (réexamen complet en recours, y compris le screening) ou la bonne application des règles alors en vigueur remédierait au vice. Il a annulé la décision sur recours et substitué son arrêt en levant le permis pour une maison de repos et de soins, un centre de services et une crèche ; les dépens sont à charge de la partie défenderesse. L'arrêt date du 22 octobre 2026."
+   ],
+   "scope": "Arrest RvVb.2627.0144 – artikel 9bis Project-MER-richtlijn, artikel 15/1 en 63 Omgevingsvergunningsdecreet, artikel 37, §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0144.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0144.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0144"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0135",
+   "d": "2026-10-22",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: onregelmatige aanplakking van een vergunning laat de beroepstermijn van 30 dagen niet ingaan",
+   "a": "De Raad voor Vergunningsbetwistingen vernietigt een beslissing die het bestuurlijk beroep van een aanpalende buur wegens laattijdigheid onontvankelijk verklaarde. Een affiche die niet voldoet aan artikel 59, §2 van het Omgevingsvergunningsbesluit zet de beroepstermijn niet in gang, ook al kon de buur de affiche fotograferen.",
+   "b": "Het arrest raakt aanvragers van een omgevingsvergunning, derden die bestuurlijk beroep willen instellen en de overheden die dat beroep beoordelen. De Raad vernietigt de beslissing waarmee het beroep van een aanpalende buur tegen een gemeentelijke regularisatievergunning voor de bouwhoogte van twee woningen als laattijdig werd afgewezen. Volgens het arrest hing de affiche niet aan een muur, schutting of paal op de grens met de openbare weg. Ze was met plakband bevestigd op een bord dat op de grond stond, achter een fietspad en een haag. Zo'n aanplakking is volgens het arrest onregelmatig en gelijk te stellen met het ontbreken van aanplakking, zodat de termijn van artikel 54, 3° van het Omgevingsvergunningsdecreet niet is beginnen lopen. Dat het normdoel bereikt zou zijn omdat de buur een foto kon nemen, verhelpt de onregelmatigheid niet. De betrokken derde hoeft ook geen persoonlijk nadeel door de gebrekkige aanplakking aan te tonen. Een derde kan de start van de termijn evenwel niet naar eigen goeddunken uitstellen. Hier was het beroep tijdig, want het werd ingesteld binnen dertig dagen na de feitelijke kennisname. Verder oordeelt de Raad dat een aanpalende eigenaar of bewoner in beginsel voldoende belang heeft als betrokken publiek, en dat de onontvankelijkverklaring van het bestuurlijk beroep dat belang niet automatisch verleent. De Raad wijst de bestuurlijke lus en de indeplaatsstelling af. De verwerende partij moet binnen drie maanden na de dag volgend op de betekening van het arrest een nieuwe beslissing nemen over de ontvankelijkheid en eventueel de gegrondheid van het beroep.",
+   "nl": [
+    "RvVb: onregelmatige aanplakking van een vergunning laat de beroepstermijn van 30 dagen niet ingaan",
+    "De Raad voor Vergunningsbetwistingen vernietigt een beslissing die het bestuurlijk beroep van een aanpalende buur wegens laattijdigheid onontvankelijk verklaarde. Een affiche die niet voldoet aan artikel 59, §2 van het Omgevingsvergunningsbesluit zet de beroepstermijn niet in gang, ook al kon de buur de affiche fotograferen.",
+    "Het arrest raakt aanvragers van een omgevingsvergunning, derden die bestuurlijk beroep willen instellen en de overheden die dat beroep beoordelen. De Raad vernietigt de beslissing waarmee het beroep van een aanpalende buur tegen een gemeentelijke regularisatievergunning voor de bouwhoogte van twee woningen als laattijdig werd afgewezen. Volgens het arrest hing de affiche niet aan een muur, schutting of paal op de grens met de openbare weg. Ze was met plakband bevestigd op een bord dat op de grond stond, achter een fietspad en een haag. Zo'n aanplakking is volgens het arrest onregelmatig en gelijk te stellen met het ontbreken van aanplakking, zodat de termijn van artikel 54, 3° van het Omgevingsvergunningsdecreet niet is beginnen lopen. Dat het normdoel bereikt zou zijn omdat de buur een foto kon nemen, verhelpt de onregelmatigheid niet. De betrokken derde hoeft ook geen persoonlijk nadeel door de gebrekkige aanplakking aan te tonen. Een derde kan de start van de termijn evenwel niet naar eigen goeddunken uitstellen. Hier was het beroep tijdig, want het werd ingesteld binnen dertig dagen na de feitelijke kennisname. Verder oordeelt de Raad dat een aanpalende eigenaar of bewoner in beginsel voldoende belang heeft als betrokken publiek, en dat de onontvankelijkverklaring van het bestuurlijk beroep dat belang niet automatisch verleent. De Raad wijst de bestuurlijke lus en de indeplaatsstelling af. De verwerende partij moet binnen drie maanden na de dag volgend op de betekening van het arrest een nieuwe beslissing nemen over de ontvankelijkheid en eventueel de gegrondheid van het beroep."
+   ],
+   "fr": [
+    "CCE flamand : un affichage irrégulier du permis ne fait pas courir le délai de recours de 30 jours",
+    "Le Conseil pour les contestations des autorisations annule une décision qui avait déclaré irrecevable pour tardiveté le recours administratif d'un voisin direct. Une affiche non conforme à l'article 59, §2 de l'Omgevingsvergunningsbesluit ne fait pas courir le délai de recours, même si le voisin a pu la photographier.",
+    "L'arrêt concerne les demandeurs d'un permis d'environnement, les tiers qui souhaitent introduire un recours administratif et les autorités qui examinent ce recours. Le Conseil annule la décision qui avait rejeté comme tardif le recours d'un voisin direct contre un permis communal de régularisation de la hauteur de construction de deux habitations. Selon l'arrêt, l'affiche n'était pas apposée sur un mur, une clôture ou un poteau à la limite de la voie publique. Elle était fixée avec du ruban adhésif sur un panneau posé au sol, derrière une piste cyclable et une haie. Un tel affichage est irrégulier et assimilé à l'absence d'affichage, de sorte que le délai de l'article 54, 3° de l'Omgevingsvergunningsdecreet n'a pas commencé à courir. Le fait que le but de la norme serait atteint parce que le voisin a pu prendre une photo ne répare pas l'irrégularité. Le tiers concerné n'a pas non plus à démontrer un préjudice personnel causé par l'affichage défectueux. Un tiers ne peut toutefois pas reporter à sa guise le début du délai. En l'espèce, le recours était recevable, car il a été introduit dans les trente jours de la prise de connaissance effective. Le Conseil juge en outre qu'un propriétaire ou habitant adjacent a en principe un intérêt suffisant comme public concerné, et que l'irrecevabilité du recours administratif ne lui confère pas automatiquement cet intérêt. Le Conseil écarte la boucle administrative et la substitution. La partie défenderesse doit prendre une nouvelle décision sur la recevabilité et, le cas échéant, sur le fond du recours dans les trois mois suivant le lendemain de la signification de l'arrêt."
+   ],
+   "scope": "RvVb, arrest RVVB.2627.0135: artikelen 54, 3° Omgevingsvergunningsdecreet en 58-59 Omgevingsvergunningsbesluit (aanplakking en beroepstermijn), artikel 105, §2 Omgevingsvergunningsdecreet (belang), artikelen 34 en 37 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-22"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0135. vernietiging van de beslissing van de verwerende partij van 15 oktober 2025.",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0135.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0135"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0128",
+   "d": "2026-10-15",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: municipal college cannot rule on its own road permit; art. 9bis EIA Directive has direct effect",
+   "a": "The Flemish Council for Permit Disputes annulled the 2024 permit for the Nieuwe Maasweg in Ranst. Where a municipality is the applicant for a project subject to EIA screening, the municipal college cannot decide at first instance, because Flanders only partly transposed art. 9bis of the EIA Directive.",
+   "b": "The ruling concerns permit applications for municipal projects that require an EIA screening note, here a road under Annex III to the Project-EIA Decree. The Council holds that art. 15/1 of the Environmental Permit Decree, as it applied, only partly transposed art. 9bis of Directive 2011/92/EU, in line with CJEU C-236/24 and Council of State no. 265.582. Art. 9bis, which prohibits conflicts of interest, has direct effect. The required 'appropriate separation' is not achieved when the municipal environmental officer assesses the screening of a project of which the municipality is the applicant. The municipal college was therefore not competent at first instance, and the application had to be submitted to and handled by the deputation at first instance. The fact that the deputation re-assessed the screening on appeal (art. 63 Environmental Permit Decree) does not remedy this, since it had no power to act as appeal authority. The Council annulled the permit of 1 August 2024, substituted its ruling for the new decision and set aside the college's permit of 13 July 2023. It refused to maintain the legal effects, as no exceptional reasons were shown. Judgment of 15 October 2026.",
+   "nl": [
+    "RvVb: college van burgemeester en schepenen kan niet oordelen over eigen wegenisaanvraag; art. 9bis project-MER-richtlijn heeft rechtstreekse werking",
+    "De Raad voor Vergunningsbetwistingen vernietigde de omgevingsvergunning van 2024 voor de Nieuwe Maasweg in Ranst. Wanneer een gemeente aanvrager is van een screeningsplichtig project, kan het college van burgemeester en schepenen niet in eerste aanleg beslissen, omdat Vlaanderen artikel 9bis van de project-MER-richtlijn onvolledig heeft omgezet.",
+    "Het arrest betreft vergunningsaanvragen voor gemeentelijke projecten waarvoor een screeningsnota moet worden ingediend, hier een weg uit bijlage III bij het Project-MER-besluit. De Raad oordeelt dat artikel 15/1 van het Omgevingsvergunningsdecreet, zoals het toen gold, artikel 9bis van richtlijn 2011/92/EU onvolledig omzette, in lijn met HvJ C-236/24 en RvS nr. 265.582. Artikel 9bis, dat belangenvermenging verbiedt, heeft rechtstreekse werking. De vereiste 'passende scheiding' is niet verwezenlijkt wanneer de gemeentelijke omgevingsambtenaar de screening beoordeelt van een project waarvan de gemeente de aanvrager is. Het college van burgemeester en schepenen was dus niet bevoegd in eerste aanleg, en de aanvraag moest in eerste aanleg bij de deputatie worden ingediend en behandeld. Dat de deputatie in beroep de screening opnieuw beoordeelde (artikel 63 Omgevingsvergunningsdecreet), herstelt dat niet, aangezien zij niet bevoegd was om als beroepsinstantie op te treden. De Raad vernietigde de vergunning van 1 augustus 2024, stelde zijn arrest in de plaats van de nieuwe beslissing en heft de vergunning van het college van 13 juli 2023 op. De handhaving van de rechtsgevolgen werd geweigerd, omdat geen uitzonderlijke redenen werden aangetoond. Arrest van 15 oktober 2026."
+   ],
+   "fr": [
+    "CCAB: le collège communal ne peut statuer sur sa propre demande de voirie; l'art. 9bis de la directive EIE a un effet direct",
+    "Le Conseil flamand du contentieux des permis a annulé le permis d'environnement de 2024 pour la Nieuwe Maasweg à Ranst. Lorsqu'une commune est demanderesse d'un projet soumis au screening, le collège des bourgmestre et échevins ne peut statuer en premier ressort, la Flandre n'ayant transposé que partiellement l'article 9bis de la directive EIE.",
+    "L'arrêt concerne les demandes de permis pour des projets communaux soumis à une note de screening, ici une route relevant de l'annexe III de l'arrêté sur le rapport d'incidences sur l'environnement des projets. Le Conseil juge que l'article 15/1 du décret sur le permis d'environnement, dans sa version applicable, a transposé de manière incomplète l'article 9bis de la directive 2011/92/UE, conformément à CJUE C-236/24 et au Conseil d'État n° 265.582. L'article 9bis, qui interdit les conflits d'intérêts, a un effet direct. La « séparation appropriée » requise n'est pas réalisée lorsque le fonctionnaire communal chargé de l'environnement apprécie le screening d'un projet dont la commune est la demanderesse. Le collège des bourgmestre et échevins n'était donc pas compétent en premier ressort, et la demande devait être introduite et traitée en premier ressort par la députation. Le fait que la députation ait réexaminé le screening en recours (article 63 du décret) n'y remédie pas, puisqu'elle n'était pas compétente pour statuer comme autorité de recours. Le Conseil a annulé le permis du 1er août 2024, substitué son arrêt à la nouvelle décision et supprimé le permis du collège du 13 juillet 2023. Il a refusé de maintenir les effets juridiques, faute de raisons exceptionnelles démontrées. Arrêt du 15 octobre 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2627.0128 van 15 oktober 2026: artikel 15/1 en artikel 63 Omgevingsvergunningsdecreet, artikel 9bis project-MER-richtlijn 2011/92/EU, artikelen 36 en 37 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-10-15"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0128. vernietiging van de beslissing van de verwerende partij van 1 augustus 2024 , RvVb",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0128.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0128"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0126",
+   "d": "2026-10-15",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: spatial return is a strict exception; dated policy and VITO data alone cannot justify a refusal",
+   "a": "The Council for Permit Disputes annulled a provincial refusal of a permit to convert a house into two semi-detached dwellings. It held that contribution to spatial return is a derogation requiring strict reasoning, not an autonomous criterion, and that old policy visions and a 2016 VITO study cannot alone carry a refusal.",
+   "b": "The ruling concerns permitting authorities deciding administrative appeals and applicants for small densification projects outside village cores in Flanders. The Council holds that the contribution of a project to spatial return (art. 4.3.1, §2, first para., 2° VCRO) is not an autonomous criterion. It is a derogation from the existing situation in the surroundings, comes into play only after the assessment under 1°, and needs strict interpretation and concrete reasoning. Finding a project consistent with the surrounding building density and then finding it inconsistent is contradictory. A 'policy-desired development' taken from a municipal structure plan more than 20 years old, never given legal force, can be used only if it stands on its own and is tested in concreto. Coupling it to the 2016 VITO study on nodal and amenity values is not enough, because the Department of Environment attributes no policy or legal value to that data. Adding the Mobiscore brings no new argument, and one extra dwelling is not comparable to core strengthening. The municipal RUP 'Perimeter Meergezinswoningen', which is binding and addresses densification, must be taken into account. The Council annulled the refusal of 23 October 2025, the third annulment in this file. It ordered a new decision within three months of notification of the ruling and again barred three motives: that the semi-detached houses at the nearby junction cannot serve as a reference, that the surroundings are rural, and that the project causes mobility problems.",
+   "nl": [
+    "RvVb: ruimtelijk rendement is een strikte uitzondering; oude beleidsvisie en VITO-data volstaan niet voor weigering",
+    "De Raad voor Vergunningsbetwistingen vernietigt de weigering van een omgevingsvergunning voor het verbouwen van een eengezinswoning tot twee gekoppelde woningen. De bijdrage aan het ruimtelijk rendement is een afwijking die strikt moet worden gemotiveerd, geen autonoom criterium, en een oude beleidsvisie met een VITO-studie van 2016 volstaat niet als weigeringsgrond.",
+    "Het arrest is van belang voor vergunningverlenende overheden die over administratief beroep beslissen en voor aanvragers van kleine verdichtingsprojecten buiten de dorpskernen in Vlaanderen. De Raad oordeelt dat de bijdrage van een project aan het ruimtelijk rendement (art. 4.3.1, §2, eerste lid, 2° VCRO) geen autonoom criterium is. Het is een afwijking van de in de omgeving bestaande toestand, komt pas aan bod na de toetsing aan 1°, en vereist een strikte interpretatie en concrete motivering. Het is tegenstrijdig te oordelen dat een project qua bouwdichtheid bij de omgeving past en vervolgens van niet. Een 'beleidsmatig gewenste ontwikkeling' uit een gemeentelijk ruimtelijk structuurplan van meer dan 20 jaar oud, dat nooit juridisch werd verankerd, kan alleen worden gebruikt als dat motief op zichzelf kan staan en in concreto wordt getoetst. Het koppelen ervan aan de VITO-studie van 2016 over knooppunt- en voorzieningenwaarde volstaat niet, omdat het Departement Omgeving aan die data geen beleidsmatige of juridische waarde toekent. De Mobiscore voegt geen nieuw argument toe en één extra woning valt niet te vergelijken met kernversterking. Het gemeentelijk RUP 'Perimeter Meergezinswoningen', dat verordenende kracht heeft en over verdichting gaat, moet bij de beoordeling worden betrokken. De Raad vernietigt de weigering van 23 oktober 2025, de derde vernietiging in dit dossier. Hij beveelt een nieuwe beslissing binnen drie maanden na de betekening van het arrest en verbiedt opnieuw drie motieven: dat de gekoppelde woningen aan het nabije kruispunt niet als referentie kunnen dienen, dat de omgeving landelijk is en dat het project mobiliteitsproblemen veroorzaakt."
+   ],
+   "fr": [
+    "CCAP : le rendement spatial est une dérogation stricte ; une vision ancienne et les données VITO ne justifient pas un refus",
+    "Le Conseil du contentieux des autorisations annule le refus d'un permis d'environnement pour transformer une maison unifamiliale en deux habitations jumelées. La contribution au rendement spatial est une dérogation à motiver strictement, non un critère autonome, et une vieille vision politique avec une étude VITO de 2016 ne suffit pas à fonder un refus.",
+    "L'arrêt concerne les autorités délivrant les permis qui statuent sur recours administratif et les demandeurs de petits projets de densification hors des centres de village en Flandre. Le Conseil juge que la contribution d'un projet au rendement spatial (art. 4.3.1, §2, alinéa 1er, 2° VCRO) n'est pas un critère autonome. Il s'agit d'une dérogation à la situation existante dans l'environnement, qui n'intervient qu'après l'examen au titre du 1° et exige une interprétation stricte et une motivation concrète. Il est contradictoire de juger qu'un projet s'accorde à la densité de bâti environnante, puis qu'il ne s'y accorde pas. Un « développement souhaité par la politique » issu d'un plan de structure d'aménagement communal vieux de plus de 20 ans, jamais ancré juridiquement, ne peut être invoqué que si ce motif se suffit à lui-même et est examiné in concreto. Le lier à l'étude VITO de 2016 sur la valeur de nœud et le niveau d'équipements ne suffit pas, le Département de l'Environnement n'attribuant à ces données aucune valeur politique ou juridique. Le Mobiscore n'apporte aucun argument nouveau, et une habitation supplémentaire ne se compare pas à un renforcement de noyau. Le PRU communal « Perimeter Meergezinswoningen », qui a force obligatoire et porte sur la densification, doit être pris en compte. Le Conseil annule le refus du 23 octobre 2025, troisième annulation dans ce dossier. Il ordonne une nouvelle décision dans les trois mois de la notification de l'arrêt et interdit à nouveau trois motifs : que les habitations jumelées au carrefour voisin ne peuvent servir de référence, que l'environnement est rural et que le projet cause des problèmes de mobilité."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0126: artikel 4.3.1, §2 VCRO (ruimtelijk rendement, beleidsmatig gewenste ontwikkelingen) en artikel 37 DBRC-decreet (bevel bij vernietiging)",
+   "dates": {
+    "adopted": "2026-10-15"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0126. vernietiging van de beslissing van de verwerende partij van 23 oktober 2025, waarm",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0126.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0126"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62025cj0120",
+   "d": "2026-10-15",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU: organiser of online prize draw offering a TV is a 'dealer' under energy labelling rules",
+   "a": "The Court of Justice rules that a person who, in the course of a commercial activity, runs an online prize draw with a television as prize is a 'dealer' under the Energy Labelling Regulation. That person must therefore give the energy efficiency class and the class range in visual advertisements for the model.",
+   "b": "The ruling concerns businesses that promote energy-related products, here a television, outside a sale, for example as a prize in an online prize draw run as part of their commercial activity. The Court holds that such an organiser is a 'dealer' within Article 2(13) of Regulation (EU) 2017/1369. It bases this on the purpose of the energy labelling system and on the legislative history, and notes that the German-language version differs from other language versions. It finds that 'whether or not in return for payment' covers display as well as sale, and that a 'customer' under Article 2(16) includes a person who receives a product free of charge, such as a prize-draw participant. An online image of the product with its model designation and no other information is a 'visual advertisement' under Article 6(a) of the Regulation. The organiser must therefore comply with Article 6(a) and with Article 4(d) of Delegated Regulation (EU) 2019/2013. Under that provision, visual advertisements for a specific model of electronic display, including online, must show the energy efficiency class and the range of classes on the label. The judgment gives no transitional rules or separate entry-into-force date.",
+   "nl": [
+    "HvJ: organisator van online prijsvraag met tv als prijs is 'handelaar' onder de energie-etiketteringsregels",
+    "Het Hof van Justitie oordeelt dat wie in het kader van een commerciële activiteit een online prijsvraag organiseert met een televisie als prijs, een 'handelaar' is in de zin van de Energie-etiketteringsverordening. Die persoon moet in visuele reclame voor het model dus de energie-efficiëntieklasse en het bereik van de klassen vermelden.",
+    "Het arrest betreft bedrijven die energiegerelateerde producten, hier een televisie, buiten een verkoop om promoten, bijvoorbeeld als prijs in een online prijsvraag die deel uitmaakt van hun commerciële activiteit. Het Hof oordeelt dat zo'n organisator een 'handelaar' is in de zin van artikel 2, punt 13, van Verordening (EU) 2017/1369. Het steunt zich daarvoor op het doel van het energie-etiketteringssysteem en op de wordingsgeschiedenis, en wijst erop dat de Duitse taalversie afwijkt van andere taalversies. Het stelt vast dat 'al dan niet tegen betaling' zowel de verkoop als het uitstallen omvat, en dat een 'klant' in de zin van artikel 2, punt 16, ook wie een product kosteloos ontvangt omvat, zoals een deelnemer aan een prijsvraag. Een online afbeelding van het product met de modelaanduiding en zonder andere informatie is 'visuele reclame' in de zin van artikel 6, eerste alinea, onder a), van de verordening. De organisator moet daarom voldoen aan artikel 6, onder a), en aan artikel 4, onder d), van Gedelegeerde Verordening (EU) 2019/2013. Volgens die bepaling moet visuele reclame voor een specifiek model van elektronische display, ook op het internet, de energie-efficiëntieklasse en het bereik van de klassen op het etiket vermelden. Het arrest bevat geen overgangsregels of aparte datum van inwerkingtreding."
+   ],
+   "fr": [
+    "CJUE : l'organisateur d'un jeu-concours en ligne dont le lot est un téléviseur est un « revendeur » au sens de l'étiquetage énergétique",
+    "La Cour de justice juge que celui qui, dans le cadre d'une activité commerciale, organise un jeu-concours en ligne dont le lot est un téléviseur est un « revendeur » au sens du règlement sur l'étiquetage énergétique. Il doit donc indiquer, dans les publicités visuelles pour ce modèle, la classe d'efficacité énergétique et la plage des classes disponibles.",
+    "L'arrêt concerne les entreprises qui promeuvent des produits liés à l'énergie, ici un téléviseur, en dehors d'une vente, par exemple comme lot d'un jeu-concours en ligne organisé dans le cadre de leur activité commerciale. La Cour juge qu'un tel organisateur est un « revendeur » au sens de l'article 2, point 13, du règlement (UE) 2017/1369. Elle se fonde sur l'objectif du système d'étiquetage énergétique et sur les travaux préparatoires, et relève que la version allemande diffère d'autres versions linguistiques. Elle constate que la mention « à titre onéreux ou gratuit » vise tant la vente que l'exposition, et que la notion de « client » de l'article 2, point 16, couvre aussi celui qui reçoit un produit gratuitement, comme le participant à un jeu-concours. Une image du produit diffusée en ligne avec la désignation du modèle, sans autre information, est une « publicité visuelle » au sens de l'article 6, premier alinéa, point a), du règlement. L'organisateur doit donc respecter l'article 6, point a), ainsi que l'article 4, point d), du règlement délégué (UE) 2019/2013. Selon cette disposition, toute publicité visuelle pour un modèle spécifique d'écran électronique, y compris sur internet, doit mentionner la classe d'efficacité énergétique et la plage des classes figurant sur l'étiquette. L'arrêt ne prévoit ni régime transitoire ni date d'entrée en vigueur distincte."
+   ],
+   "scope": "Judgment of the Court of Justice, Case C-120/25: Regulation (EU) 2017/1369, Art. 2(13), 2(16) and 6(a); Delegated Regulation (EU) 2019/2013, Art. 4(d)",
+   "dates": {
+    "adopted": "2026-10-15"
+   },
+   "u": [
+    [
+     "Judgment of the Court (First Chamber) of 15 October 2026.#Verband Wirtschaft im Wettbewerb, Verein für Lauterkeit in Handel und Industrie e.",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CJ0120"
+    ]
+   ],
+   "inbox": [
+    "eu:62025CJ0120"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0117",
+   "d": "2026-10-09",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting",
+    "environmental-safety"
+   ],
+   "h": "RvVb suspends acknowledgement of a music venue notification: noise impact must be assessed before acknowledgement",
+   "a": "The Council for Permit Disputes suspended, under extreme urgency, an acknowledgement of a notification for a class 3 music venue. The authority must itself check compliance with the general and sectoral environmental conditions before acknowledging, and cannot defer the acoustic study to a later condition.",
+   "b": "The ruling concerns notifications of class 3 establishments (here a venue with music activities, heading 32.1.1° of the VLAREM II classification list, 85–95 dB(A)) and the authorities that acknowledge them. When acknowledging a notification, the competent authority has only a limited power of assessment: it must acknowledge if the activity is subject to notification and not prohibited under Article 5.4.3, §3 DABM and Article 4.2.2, §1 VCRO, and it may attach conditions. It cannot refuse because of alleged or feared nuisance. The Council found, on a first examination, that the authority could not simply assume that the general and sectoral environmental conditions could be met, because it had itself found that the notification contained no plan and that the impact on a neighbour sharing a party wall had not been examined. Imposing a condition requiring an acoustic study and noise plan within three months does not relieve it of checking compliance when assessing the notification. Only after such a check can it conclude that the activity is admissible and not prohibited, and impose effective special conditions. Extreme urgency was accepted because the neighbour already suffered noise nuisance and further events were planned. The acknowledgement of 5 August 2026 is suspended by judgment of 9 October 2026; the annulment proceedings remain pending.",
+   "nl": [
+    "RvVb schorst aktename van melding muziekinrichting: geluidsimpact moet vóór de aktename worden beoordeeld",
+    "De Raad voor Vergunningsbetwistingen schorst bij uiterst dringende noodzakelijkheid een aktename van een melding van een inrichting van klasse 3 met muziekactiviteit. De overheid moet zelf nagaan of aan de algemene en sectorale milieuvoorwaarden is voldaan en kan het akoestisch onderzoek niet doorschuiven naar een latere voorwaarde.",
+    "Het arrest betreft meldingen van ingedeelde inrichtingen van klasse 3 (hier een inrichting met muziekactiviteiten, rubriek 32.1.1° van de Indelingslijst van VLAREM II, 85–95 dB(A)) en de overheden die akte nemen. Bij de aktename van een melding heeft de bevoegde overheid slechts een beperkte beoordelingsbevoegdheid: ze moet akte nemen indien de activiteit meldingsplichtig en niet verboden is bij of krachtens artikel 5.4.3, §3 DABM en artikel 4.2.2, §1 VCRO, en kan voorwaarden opleggen. Ze kan niet weigeren wegens een beweerde of gevreesde hinder. De Raad oordeelt op het eerste gezicht dat de overheid er niet zonder meer van kon uitgaan dat de algemene en sectorale milieuvoorwaarden kunnen worden nageleefd, omdat ze zelf vaststelde dat de melding geen plan bevatte en dat de impact op de buur met een gemeenschappelijke muur niet was onderzocht. De voorwaarde om binnen drie maanden een akoestisch onderzoek en geluidsplan op te maken, ontslaat haar niet van de plicht om bij de beoordeling van de melding de naleving na te gaan. Pas daarna kan ze de toelaatbaarheid en het niet-verboden karakter vaststellen en doeltreffende bijzondere voorwaarden opleggen. De uiterst dringende noodzakelijkheid werd aanvaard omdat de buur reeds geluidshinder ondervond en er nog evenementen gepland waren. De aktename van 5 augustus 2026 wordt geschorst bij arrest van 9 oktober 2026; de vernietigingsprocedure blijft hangende."
+   ],
+   "fr": [
+    "Le CCA suspend l'acte de prise d'acte d'une déclaration d'établissement musical : l'impact sonore doit être examiné avant",
+    "Le Conseil du contentieux des autorisations suspend, en extrême urgence, une prise d'acte de la déclaration d'un établissement de classe 3 avec activité musicale. L'autorité doit elle-même vérifier le respect des conditions environnementales générales et sectorielles et ne peut reporter l'étude acoustique à une condition ultérieure.",
+    "L'arrêt concerne les déclarations d'établissements classés de classe 3 (ici un établissement avec activités musicales, rubrique 32.1.1° de la liste de classification du VLAREM II, 85–95 dB(A)) et les autorités qui prennent acte. Lors de la prise d'acte d'une déclaration, l'autorité compétente dispose d'un pouvoir d'appréciation limité : elle doit prendre acte si l'activité est soumise à déclaration et n'est pas interdite en vertu de l'article 5.4.3, §3 du DABM et de l'article 4.2.2, §1 du VCRO, et elle peut imposer des conditions. Elle ne peut refuser en raison d'une nuisance alléguée ou redoutée. Le Conseil estime, prima facie, que l'autorité ne pouvait pas simplement présumer que les conditions environnementales générales et sectorielles pouvaient être respectées, puisqu'elle constatait elle-même que la déclaration ne comportait aucun plan et que l'impact sur le voisin partageant un mur mitoyen n'avait pas été examiné. La condition d'effectuer, dans les trois mois, une étude acoustique et un plan de bruit ne la dispense pas de vérifier ce respect lors de l'examen de la déclaration. Ce n'est qu'ensuite qu'elle peut conclure à l'admissibilité et au caractère non interdit de l'activité et imposer des conditions particulières efficaces. L'extrême urgence a été admise, le voisin subissant déjà des nuisances sonores et d'autres événements étant programmés. La prise d'acte du 5 août 2026 est suspendue par l'arrêt du 9 octobre 2026 ; la procédure en annulation reste pendante."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0117 – artikel 111 Omgevingsvergunningsdecreet, artikel 5.4.3, §3 DABM, rubriek 32.1.1° VLAREM II (aktename melding klasse 3)",
+   "dates": {
+    "adopted": "2026-10-09"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0117. vernietiging van de beslissing van de verwerende partij van 5 augustus 2026 waarme",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0117.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0117"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2627-0102",
+   "d": "2026-10-08",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for Elsemheide flood area: province cannot rule on its own screening-subject project",
+   "a": "The Flemish Permit Disputes Council annulled the Flemish Government's permit of 12 June 2025 for extending the Elsemheide controlled flood area and set aside the provincial permit. A province that is both applicant and initiator of a project subject to EIA screening cannot have its own deputation or provincial environmental officer decide on it, because Article 9bis of the EIA Directive requires a proper separation of functions.",
+   "b": "The ruling concerns projects subject to EIA screening (a project-MER or screening note) where a province is both initiator and applicant, here flood relief works. Following the CJEU judgment of 8 May 2025 (C-236/24), the Council of State judgment of 27 January 2026 and Constitutional Court judgment 122/2025, the Council holds that former Article 15/1 of the Environmental Permit Decree transposed Article 9bis of the EIA Directive incompletely. A provincial environmental officer appointed by the deputation, with a legal duty to act neutrally, lacks the 'real autonomy' needed to decide on completeness, admissibility and the EIA question for the province's own application. The application therefore had to be lodged with the Flemish Government, as permitting authority in first and last administrative instance. The deputation's permit of 19 December 2024 was thus issued without competence, and the Flemish Government could not validly hear the administrative appeal. That the authorities applied the rules in force at the time does not change this, as the Directive has direct effect and the national rule cannot be applied. The Council annulled the permit of 12 June 2025 and, using its power of substitution, set aside the permit granted in first instance on 19 December 2024. It did not examine the other grounds and ordered the Flemish Government to pay the costs, including a legal-proceedings allowance of 910 euro. The ruling was delivered on 8 October 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning overstromingsgebied Elsemheide: provincie kan niet oordelen over eigen screeningsplichtig project",
+    "De Raad voor Vergunningsbetwistingen vernietigde de omgevingsvergunning van 12 juni 2025 voor de uitbreiding van het gecontroleerd overstromingsgebied Elsemheide en heft de provinciale vergunning op. Een provincie die zowel aanvrager als initiatiefnemer is van een screeningsplichtig project kan dit niet laten beoordelen door haar eigen deputatie of provinciale omgevingsambtenaar, omdat artikel 9bis van de project-MER-richtlijn een passende scheiding van functies vereist.",
+    "Het arrest betreft screeningsplichtige projecten (project-MER of screeningsnota) waarvoor een provincie zowel initiatiefnemer als aanvrager is, hier overstromingswerken (flood relief). Na het arrest van het Hof van Justitie van 8 mei 2025 (C-236/24), het arrest van de Raad van State van 27 januari 2026 en arrest 122/2025 van het Grondwettelijk Hof oordeelt de Raad dat het toenmalige artikel 15/1 van het Omgevingsvergunningsdecreet artikel 9bis van de project-MER-richtlijn onvolledig omzette. Een provinciale omgevingsambtenaar die door de deputatie wordt aangeduid en wettelijk neutraal moet optreden, beschikt niet over de vereiste 'werkelijke autonomie' om te beslissen over de volledigheid, de ontvankelijkheid en de m.e.r.-vraag voor de eigen aanvraag van de provincie. De aanvraag moest dus worden ingediend bij de Vlaamse Regering, als vergunningverlenende overheid in eerste en laatste administratieve aanleg. De vergunning van de deputatie van 19 december 2024 werd bijgevolg onbevoegd verleend en de Vlaamse Regering kon het administratief beroep niet wettig behandelen. Dat de overheden de toen geldende regels toepasten, verandert niets, omdat de richtlijn rechtstreekse werking heeft en de nationale regel niet kan worden toegepast. De Raad vernietigde de vergunning van 12 juni 2025 en heft via indeplaatsstelling de in eerste aanleg verleende vergunning van 19 december 2024 op. De overige middelen werden niet onderzocht en de kosten, met een rechtsplegingsvergoeding van 910 euro, komen ten laste van de Vlaamse Regering. Het arrest is uitgesproken op 8 oktober 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis de la zone inondable Elsemheide : une province ne peut statuer sur son propre projet soumis à screening",
+    "Le Conseil pour les contestations des autorisations (RvVb) a annulé le permis d'environnement du 12 juin 2025 pour l'extension de la zone d'inondation contrôlée Elsemheide et supprimé le permis provincial. Une province à la fois demanderesse et initiatrice d'un projet soumis à screening ne peut le faire examiner par sa propre députation ou son fonctionnaire provincial de l'environnement, l'article 9bis de la directive EIE exigeant une séparation appropriée des fonctions.",
+    "L'arrêt concerne les projets soumis à screening (rapport d'incidences ou note de screening) pour lesquels une province est à la fois initiatrice et demanderesse, ici des travaux de lutte contre les inondations. À la suite de l'arrêt de la Cour de justice du 8 mai 2025 (C-236/24), de l'arrêt du Conseil d'État du 27 janvier 2026 et de l'arrêt n° 122/2025 de la Cour constitutionnelle, le Conseil juge que l'ancien article 15/1 du décret sur le permis d'environnement a transposé de manière incomplète l'article 9bis de la directive EIE. Un fonctionnaire provincial de l'environnement désigné par la députation, tenu légalement à la neutralité, ne dispose pas de l'« autonomie réelle » requise pour statuer sur le caractère complet et recevable de la demande et sur la question de l'évaluation des incidences pour la demande de la province elle-même. La demande devait donc être introduite auprès du Gouvernement flamand, autorité compétente en première et dernière instance administrative. Le permis de la députation du 19 décembre 2024 a ainsi été délivré sans compétence, et le Gouvernement flamand ne pouvait valablement connaître du recours administratif. Le fait que les autorités aient appliqué les règles alors en vigueur n'y change rien, la directive ayant un effet direct et la règle nationale ne pouvant être appliquée. Le Conseil a annulé le permis du 12 juin 2025 et, par substitution, supprimé le permis délivré en première instance le 19 décembre 2024. Les autres moyens n'ont pas été examinés et les dépens, dont une indemnité de procédure de 910 euros, sont mis à charge du Gouvernement flamand. L'arrêt a été prononcé le 8 octobre 2026."
+   ],
+   "scope": "RvVb arrest RVVB.2627.0102 van 8 oktober 2026: artikel 15/1 Omgevingsvergunningsdecreet, artikel 9bis project-MER-richtlijn 2011/92/EU, omgevingsvergunning Elsemheide (OMV_2024078148)",
+   "dates": {
+    "adopted": "2026-10-08"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2627.0102. vernietiging van de beslissing van de verwerende partij van 12 juni 2025 , waarmee",
+     "https://www.dbrc.be/sites/default/files/2026-11/RVVB.2627.0102.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2627.0102"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
