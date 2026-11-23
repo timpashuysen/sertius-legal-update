@@ -44216,7 +44216,9 @@
 ],
 "reason": "Annuls a subdivision permit: the water test must expressly assess flood impacts on neighbouring plots, and deviations from the POA report require reasoned motivation.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "The ruling was quashed on cassation by Council of State judgment 265.902 of 5 March 2026, so its findings no longer stand."
 },
 "rvvb:RVVB.S.2526.0556": {
 "v": 4,
@@ -44229,7 +44231,8 @@
 ],
 "reason": "A permit holder's declaration not to implement the permit before a merits ruling removes urgency for suspension, and suspension can be re-sought later if facts change.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-s-2526-0556"
 },
 "rvvb:RVVB.A.2526.0554": {
 "v": 4,
@@ -44241,7 +44244,8 @@
 ],
 "reason": "Reads Art. 14.4.4 Inrichtingsbesluit: agricultural structures are incompatible with parkgebied; a 'vergund geacht' farmland status cannot alter zoning; applicant's visietekst does not change a use's n",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0554"
 },
 "rvvb:RVVB.A.2526.0553": {
 "v": 4,
@@ -44253,7 +44257,8 @@
 ],
 "reason": "Administrative appellants served digitally via the Omgevingsloket have the 45-day Raad appeal period run from service, not posting; the Inzageloket third-party deadline does not override this.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0553"
 },
 "rvvb:RVVB.A.2526.0552": {
 "v": 4,
@@ -44266,7 +44271,8 @@
 ],
 "reason": "Reads Stikstofdecreet mobility rules: relocating an existing pharmacy and practice nearby still counts as additional traffic versus the authorised situation, so the nitrogen assessment applies.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0552"
 },
 "rvvb:RVVB.A.2526.0551": {
 "v": 4,
@@ -44278,7 +44284,8 @@
 ],
 "reason": "Permit authority may not replace binding heritage advice on direct-working norms under art. 4.3.3 VCRO; time-limited permit conditions do not remedy such conflicts.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0551"
 },
 "rvvb:RVVB.A.2526.0550": {
 "v": 4,
@@ -44290,7 +44297,8 @@
 ],
 "reason": "Annuls a permit for a complementary frituur in a residential area; sets the dual test of art. 5.1.0 Inrichtingsbesluit and the art. 2 §3 functiewijziging exemption conditions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0550"
 },
 "rvvb:RVVB.A.2526.0549": {
 "v": 4,
@@ -44302,7 +44310,8 @@
 ],
 "reason": "Sets aside the 7 July 2023 ministerial overmacht extension as unlawful: urgency to skip Council of State advice must be concretely reasoned. Late permit decisions are then tacit refusals.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0549"
 },
 "gwh:29/2026": {
 "v": 4,
@@ -44412,7 +44421,8 @@
 ],
 "reason": "Enforcement ruling on Habitats Directive 92/43/EEC, Natura 2000 sites, Article 260(2) TFEU.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0613-inf"
 },
 "eu:62024CJ0613": {
 "v": 4,
@@ -64413,7 +64423,8 @@
 ],
 "reason": "Under Walloon permit decree art. 95, no administrative appeal lies against a late express permit decision; appeal is limited to three listed cases, and the act was annulled.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265889"
 },
 "rvs:265882": {
 "v": 4,
@@ -64895,7 +64906,8 @@
 ],
 "reason": "Confirms that applying the administrative loop under the Flemish permit decree must be reasoned in the decision taken within the initial term; an unlawful loop leaves a tacit refusal and later decisio",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265896"
 },
 "rvs:265895": {
 "v": 4,
@@ -64908,7 +64920,8 @@
 ],
 "reason": "For the VCRO 4.4.7 §2 deviation for wildlife shelters, a shelter need only exist when applying. Aarhus arts 6-8 do not apply to that regulation.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265895"
 },
 "rvs:265894": {
 "v": 4,
@@ -64922,7 +64935,8 @@
 ],
 "reason": "Inert-waste definition in VLAREM II must weigh percolate ecotoxicity; landfill leaching limits are not automatically the test; storage conditions not decisive.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265894"
 },
 "rvs:265893": {
 "v": 4,
@@ -64954,7 +64968,8 @@
 ],
 "reason": "Annuls a Brussels planning permit: any act or work affecting a building block's interior, however slight, triggers the public-inquiry rules of GBP general prescription 0.6.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265891"
 },
 "rvs:265890": {
 "v": 4,
@@ -67424,15 +67439,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
+"this_run": 13,
+"found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 325,
+"waiting": 311,
 "api": {
 "calls": 14,
-"input_tokens": 157948,
-"output_tokens": 42785,
-"usd": 0.7437
+"input_tokens": 202112,
+"output_tokens": 41378,
+"usd": 0.818
 },
 "updated": "2026-11-23"
 },
