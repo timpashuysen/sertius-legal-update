@@ -24255,7 +24255,8 @@
 ],
 "reason": "CJEU ruling on waste shipment objections under Regulation 1013/2006.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62025cj0447"
 },
 "eu:62025CJ0409_INF": {
 "v": 2,
@@ -24401,7 +24402,9 @@
 ],
 "reason": "Updates list of cross-border renewable energy projects under a delegated regulation.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Updates the EU list of cross-border renewable projects eligible for CEF funding; no Belgian project listed and no obligations created."
 },
 "eu:32026R1444": {
 "v": 2,
@@ -24412,7 +24415,8 @@
 ],
 "reason": "Repeals leakage-checking rules for F-gas equipment; climate rules for installations.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1444"
 },
 "eu:32026R1427": {
 "v": 2,
@@ -24441,7 +24445,8 @@
 ],
 "reason": "Corrects ETS list of shipping companies and administering authorities.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1453"
 },
 "codex:1042349": {
 "v": 2,
@@ -24452,7 +24457,8 @@
 ],
 "reason": "Dutch version of regulation repealing F-gas leakage checking rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042349"
 },
 "eu:62025TJ0615_RES": {
 "v": 2,
@@ -24744,7 +24750,8 @@
 ],
 "reason": "Regional ministerial form for periodic environmental data notification; reporting duty for operators.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141187"
 },
 "eu:32026R1434": {
 "v": 2,
@@ -24811,7 +24818,8 @@
 ],
 "reason": "Rules on recycled plastic content calculation and reporting for single-use beverage bottles.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1425"
 },
 "eu:32026D1424": {
 "v": 2,
@@ -24849,7 +24857,8 @@
 ],
 "reason": "Designates environmental enforcement officers and visitation powers under Flemish enforcement decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042174"
 },
 "eu:52026PC0343": {
 "v": 2,
@@ -25112,7 +25121,8 @@
 ],
 "reason": "Revised ETS benchmark values for free allocation of emission allowances.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1412"
 },
 "eu:32026R1410": {
 "v": 2,
@@ -25195,7 +25205,8 @@
 ],
 "reason": "Commission decision on French national ban on destroying unsold products; circular economy.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1435"
 },
 "eu:32026D1407": {
 "v": 2,
@@ -25216,7 +25227,8 @@
 ],
 "reason": "Omnibus decree on environment, nature, spatial planning and agriculture changes permit and nature rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5877)"
 },
 "codex:1042238": {
 "v": 2,
@@ -25452,7 +25464,8 @@
 ],
 "reason": "Procedural rules for Flemish administrative courts, which include permit disputes.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042168"
 },
 "codex:1042167": {
 "v": 2,
@@ -58483,7 +58496,8 @@
 ],
 "reason": "Case number only; title too vague to assess",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0923"
 },
 "rvvb:RVVB.2526.0921": {
 "v": 2,
@@ -58494,7 +58508,8 @@
 ],
 "reason": "Case number only; title too vague to assess",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0921"
 },
 "rvvb:RVVB.2526.0920": {
 "v": 2,
@@ -63643,36 +63658,283 @@
 "reason": "Rail operator training services tender award; not environmental.",
 "confidence": "high",
 "at": "2026-11-23"
+},
+"rvs:266118": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence public procurement award decision; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266117": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement exclusion for container supply; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266115": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mayor's withdrawal of one business's late-closing exemption; individual local decision.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266114": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual waste-transshipment fine and liability for one party; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266113": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual waste-transshipment fine and liability for one party; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266112": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Guardianship and age determination; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266107": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Infrabel tender irregularity for weeding services; no general environmental rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266106": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police recruitment decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266105": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence staff selection decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266104": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Chamber of Representatives internal decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266103": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appointment of a social action centre director; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266101": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal decree on civil servant promotion; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266100": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal decree on civil servant promotion; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266099": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal decree on civil servant promotion; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266098": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Royal decree on civil servant promotion; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266097": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal council representative nomination; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266096": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Teacher appointment decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266095": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Teacher appointment decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266094": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Teacher appointment decision; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266093": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"soil"
+],
+"reason": "Interprets Flemish soil decree art. 116 §3 on owner status, though about one plot.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266092": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Provincial public works tender award for bleachers; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266091": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Brussels government appeal decision on a collège ruling; subject unclear from title.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266090": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mayor's refusal of a sex-establishment operating licence; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266089": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal general director appointment; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266086": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation in a foreigners' case; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266085": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council of State cassation order in an immigration case; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266084": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council of State cassation order in an immigration case; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6930,
-"assessed": 6930,
+"in_scope": 6957,
+"assessed": 6957,
 "waiting": 0,
-"relevant": 875,
-"not_relevant": 5736,
+"relevant": 877,
+"not_relevant": 5761,
 "excluded_by_rule": 319,
-"this_run": 41,
+"this_run": 27,
 "api": {
 "calls": 2,
-"input_tokens": 9589,
-"output_tokens": 3883,
-"usd": 0.0029
+"input_tokens": 6585,
+"output_tokens": 2530,
+"usd": 0.0019
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
+"this_run": 12,
 "found_not_relevant_on_reading": 1,
-"failed": 0,
-"waiting": 565,
+"failed": 1,
+"waiting": 554,
 "api": {
 "calls": 14,
-"input_tokens": 170939,
-"output_tokens": 40078,
-"usd": 0.7427
+"input_tokens": 141894,
+"output_tokens": 39589,
+"usd": 0.6797
 },
 "updated": "2026-11-23"
 }

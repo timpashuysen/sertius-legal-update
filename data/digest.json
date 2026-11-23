@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:13:11Z",
+ "updated": "2026-11-23T03:30:31Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -11630,6 +11630,501 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0924"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0923",
+   "d": "2026-07-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: neighbour's appeal cannot be dismissed as inadmissible merely because it invokes civil property rights",
+   "a": "The Council for Permit Disputes annulled a provincial decision that declared an administrative appeal against an Antwerp environmental permit inadmissible. Invoking an easement does not deprive an adjoining owner of the required interest, and the provincial environmental officer must decide again within one month.",
+   "b": "The ruling concerns neighbours and other members of the public who appeal to the provincial environmental officer against a municipal environmental permit in Flanders, and the authorities that rule on the admissibility of such appeals. The provincial officer had declared the appeal of an adjoining owner inadmissible because it only relied on civil property rights (an easement of way), which are for the civil courts. The Council holds that this reflects a wrong view of the law: a permit is granted subject to civil rights, but a probable infringement of those rights can still give a party an interest in the decision-making on the permit. It adds that the owner of an adjoining plot generally only has to state that capacity to show the likely effects of the permit, and that admissibility requirements must be read in line with Article 9(3) of the Aarhus Convention, without excessive formalism. The Council annuls the decision of 30 September 2025 and orders a new decision on admissibility within one month of notification of the ruling. Claims aimed at the merits of the permit, at its compliance with the municipal spatial implementation plan, or at the first-instance decision are declared inadmissible, because the Council can only annul. The ruling is dated 2 July 2026; the registry fee of 200 euro is charged to the provincial authority.",
+   "nl": [
+    "RvVb: beroep van buur niet onontvankelijk louter omdat het burgerlijke zakelijke rechten inroept",
+    "De Raad voor Vergunningsbetwistingen vernietigt een provinciale beslissing die het administratief beroep tegen een Antwerpse omgevingsvergunning onontvankelijk verklaarde. Het inroepen van een erfdienstbaarheid ontneemt een aanpalende eigenaar het vereiste belang niet; de provinciale omgevingsambtenaar moet binnen één maand opnieuw beslissen.",
+    "Het arrest betreft buren en andere leden van het betrokken publiek die in Vlaanderen bij de provinciale omgevingsambtenaar beroep aantekenen tegen een gemeentelijke omgevingsvergunning, en de overheden die over de ontvankelijkheid van dat beroep oordelen. De provinciale omgevingsambtenaar had het beroep van een aanpalende eigenaar onontvankelijk verklaard omdat het enkel steunde op burgerlijke zakelijke rechten (een erfdienstbaarheid van doorgang), waarover de burgerlijke rechter beslist. De Raad oordeelt dat dit op een verkeerde rechtsopvatting berust: een vergunning wordt verleend onder voorbehoud van burgerlijke rechten, maar een waarschijnlijke schending ervan kan een partij wel een belang bij de besluitvorming over de vergunning geven. Daarnaast hoeft de eigenaar van een aanpalend perceel in de regel enkel zijn hoedanigheid te vermelden om de waarschijnlijke gevolgen aannemelijk te maken, en moeten de ontvankelijkheidsvereisten conform artikel 9, derde lid van het Verdrag van Aarhus zonder overdreven formalisme worden toegepast. De Raad vernietigt de beslissing van 30 september 2025 en beveelt een nieuwe beslissing over de ontvankelijkheid binnen één maand na de betekening van het arrest. Grieven over de grond van de vergunning, de strijdigheid met het gemeentelijk RUP of de beslissing in eerste aanleg zijn onontvankelijk, omdat de Raad enkel kan vernietigen. Het arrest dateert van 2 juli 2026; het rolrecht van 200 euro komt ten laste van de provinciale overheid."
+   ],
+   "fr": [
+    "CCAP : le recours d'un voisin n'est pas irrecevable du seul fait qu'il invoque des droits civils réels",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule une décision provinciale qui avait déclaré irrecevable un recours administratif contre un permis d'environnement délivré à Anvers. Invoquer une servitude ne prive pas un propriétaire voisin de l'intérêt requis ; le fonctionnaire provincial de l'environnement doit statuer à nouveau dans un délai d'un mois.",
+    "L'arrêt concerne les voisins et autres membres du public concerné qui introduisent en Flandre un recours auprès du fonctionnaire provincial de l'environnement contre un permis d'environnement communal, ainsi que les autorités qui statuent sur la recevabilité de ce recours. Le fonctionnaire provincial avait déclaré irrecevable le recours d'un propriétaire voisin parce qu'il reposait uniquement sur des droits civils réels (une servitude de passage), qui relèvent du juge civil. Le Conseil juge que cette approche repose sur une conception erronée du droit : un permis est délivré sous réserve des droits civils, mais une atteinte probable à ces droits peut malgré tout donner à une partie un intérêt à la décision sur le permis. Il ajoute que le propriétaire d'une parcelle voisine doit en règle seulement indiquer sa qualité pour rendre plausibles les effets probables du permis, et que les conditions de recevabilité doivent être appliquées, conformément à l'article 9, paragraphe 3, de la Convention d'Aarhus, sans formalisme excessif. Le Conseil annule la décision du 30 septembre 2025 et ordonne une nouvelle décision sur la recevabilité dans un délai d'un mois après la notification de l'arrêt. Les griefs portant sur le fond du permis, sur sa conformité au plan d'exécution spatial communal ou sur la décision de première instance sont irrecevables, le Conseil ne pouvant qu'annuler. L'arrêt date du 2 juillet 2026 ; le droit de rôle de 200 euros est mis à la charge de l'autorité provinciale."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0923 van 2 juli 2026: ontvankelijkheid van het administratief beroep (art. 53, 56 en 78 Omgevingsvergunningsdecreet; art. 74 §1 Omgevingsvergunningsbesluit)",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0923.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0923.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0923"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0921",
+   "d": "2026-07-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for manure separation and storage at a contractor site in agricultural zone, Damme",
+   "a": "The Council for Permit Disputes annulled a Flemish permit for expanding an agricultural contractor's manure separation and storage in agricultural zone. The authority had not adequately justified why the project is local and mobility-neutral, as circular RO/2006/01 requires.",
+   "b": "The ruling concerns the environmental permit granted on appeal on 2 July 2025 for a contractor business in Damme: manure separation of 20,000 tonnes a year, extra manure storage in a new shed, two manure bag lagoons and several regularisations, on land in agricultural zone. The Council accepted the plea that the finding of compatibility with the agricultural zone was not properly reasoned. The permitting authority applied circular RO/2006/01 on manure treatment in agricultural zone. The Council held that the circular is not binding and may be used as a guideline, but that testing against it must rest on motives acceptable in fact and in law. The decision largely copied the applicant's justification note on local transport and ignored the negative advice of the regional planning department. That advice pointed to customers up to 40 km away, to existing transport flows that were never mapped, and to the lack of objective evidence that mobility improves. The decision of 2 July 2025 is annulled, and the authority must take a new decision on the administrative appeal within three months from the day after notification of the ruling. The other pleas were not examined. The costs (court fee of 200 euro and legal costs allowance of 910 euro) are borne by the authority. The ruling was given on 2 July 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning voor mestscheiding en mestopslag bij loonwerkbedrijf in agrarisch gebied te Damme",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor de uitbreiding van een loonwerkbedrijf met mestscheiding en mestopslag in agrarisch gebied. Het lokale karakter en de mobiliteitsimpact werden niet afdoende gemotiveerd, terwijl omzendbrief RO/2006/01 daar om vraagt.",
+    "Het arrest betreft de omgevingsvergunning die in administratief beroep op 2 juli 2025 werd verleend aan een loonwerkbedrijf in Damme: mestscheiding van 20.000 ton per jaar, bijkomende mestopslag in een nieuwe loods, twee mestzaklagunes en een aantal regularisaties, op gronden in agrarisch gebied. De Raad aanvaardt het middel dat de vaststelling van de overeenstemming met de bestemming agrarisch gebied niet deugdelijk is gemotiveerd. De vergunningverlenende overheid toetste aan omzendbrief RO/2006/01 over mestbehandeling in agrarisch gebied. Volgens de Raad is die omzendbrief niet verordenend en mag ze als richtkader worden gebruikt, maar moet de toetsing steunen op in feite en in rechte aanvaardbare motieven. De beslissing nam grotendeels de verantwoordingsnota van de aanvrager over over het lokale vervoer en liet het ongunstige advies van het departement ruimtelijke ordening buiten beschouwing. Dat advies wees op klanten tot 40 km van de site, op bestaande transporten die niet in kaart zijn gebracht en op het ontbreken van objectieve stukken die een verbetering van de mobiliteit aantonen. De beslissing van 2 juli 2025 wordt vernietigd en de overheid moet binnen drie maanden vanaf de dag na de betekening van het arrest een nieuwe beslissing nemen over het administratief beroep. De overige middelen werden niet onderzocht. De kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 910 euro) komen ten laste van de overheid. Het arrest werd uitgesproken op 2 juli 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis de séparation et de stockage d'effluents d'élevage d'une entreprise de travaux agricoles en zone agricole à Damme",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis d'environnement pour l'extension d'une entreprise de travaux agricoles avec séparation et stockage d'effluents d'élevage en zone agricole. Le caractère local et l'impact sur la mobilité n'étaient pas motivés à suffisance, alors que la circulaire RO/2006/01 l'exige.",
+    "L'arrêt concerne le permis d'environnement accordé en recours administratif le 2 juillet 2025 à une entreprise de travaux agricoles à Damme : séparation de 20.000 tonnes d'effluents d'élevage par an, stockage supplémentaire dans un nouveau hangar, deux lagunes à sacs et plusieurs régularisations, sur des terrains en zone agricole. Le Conseil accueille le moyen selon lequel la constatation de conformité avec l'affectation de zone agricole n'est pas correctement motivée. L'autorité délivrante s'est référée à la circulaire RO/2006/01 relative au traitement des effluents d'élevage en zone agricole. Selon le Conseil, cette circulaire n'a pas de caractère réglementaire et peut servir de cadre indicatif, mais l'examen doit reposer sur des motifs admissibles en fait et en droit. La décision a largement repris la note de justification du demandeur sur le transport local et a écarté l'avis défavorable de l'administration régionale de l'aménagement du territoire. Cet avis relevait des clients situés jusqu'à 40 km du site, des transports existants non cartographiés et l'absence de pièces objectives démontrant une amélioration de la mobilité. La décision du 2 juillet 2025 est annulée et l'autorité doit statuer à nouveau sur le recours administratif dans les trois mois à compter du lendemain de la notification de l'arrêt. Les autres moyens n'ont pas été examinés. Les dépens (droit de rôle de 200 euros et indemnité de procédure de 910 euros) sont à charge de l'autorité. L'arrêt a été prononcé le 2 juillet 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0921 van 2 juli 2026: omgevingsvergunning OMV_2023115001 en toetsing aan omzendbrief RO/2006/01 (mestbehandeling in agrarisch gebied)",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0921.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0921.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0921"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62025cj0447",
+   "d": "2026-07-02",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "CJEU: waste shipments for recovery may be refused if contrary to the destination state's waste management plan",
+   "a": "The Court of Justice held that a Member State of destination may object to a shipment of waste for recovery without incineration if it does not comply with that state's waste management plan. The plan must have been established under Article 28 of Directive 2008/98.",
+   "b": "The ruling concerns notifiers of shipments of waste for recovery between Member States, and the competent authorities of dispatch and destination under Regulation 1013/2006. It covers recovery without incineration. Article 16(1) of Directive 2008/98, which concerns incinerators classified as recovery, was found not relevant to the dispute. The Court held that Article 12(1)(a) of Regulation 1013/2006, read in the light of recital 39 of Directive 2008/98, allows the destination state to raise objections where the shipment does not comply with its waste management plan. The reference in the Regulation to Directive 2006/12 is read as a reference to Directive 2008/98, so the former Article 7 now corresponds to Article 28 on waste management plans. The plan must have been established in accordance with Article 28. The national court must also check that the objections rest on specific grounds particular to each planned shipment or each set of shipments with the same characteristics. The case concerned about 1,100 shipments (25,000 tonnes) of refuse-derived fuel from Slovenia to Hungary. The Court also noted that Regulation (EU) 2024/1157, applicable from 21 May 2026, expressly includes this ground of objection. The judgment is dated 2 July 2026; as an interpretative ruling it does not set an entry-into-force date.",
+   "nl": [
+    "HvJ-EU: overbrenging van afval voor nuttige toepassing kan worden geweigerd bij strijd met het afvalbeheerplan van de bestemming",
+    "Het Hof van Justitie oordeelt dat een lidstaat van bestemming bezwaar kan maken tegen de overbrenging van afval voor nuttige toepassing zonder verbranding wanneer die niet in overeenstemming is met zijn afvalbeheerplan. Het plan moet zijn opgesteld overeenkomstig artikel 28 van Richtlijn 2008/98.",
+    "Het arrest betreft kennisgevers van overbrengingen van voor nuttige toepassing bestemd afval tussen lidstaten en de bevoegde autoriteiten van verzending en bestemming krachtens Verordening 1013/2006. Het gaat om nuttige toepassing zonder verbranding. Artikel 16, lid 1, van Richtlijn 2008/98, dat betrekking heeft op verbrandingsinstallaties die als nuttige toepassing zijn ingedeeld, was niet relevant voor het geschil. Het Hof oordeelt dat artikel 12, lid 1, onder a), van Verordening 1013/2006, gelezen in het licht van overweging 39 van Richtlijn 2008/98, de lidstaat van bestemming toelaat bezwaar te maken wanneer de overbrenging niet in overeenstemming is met zijn afvalbeheerplan. De verwijzing in de verordening naar Richtlijn 2006/12 wordt gelezen als een verwijzing naar Richtlijn 2008/98, zodat het voormalige artikel 7 nu overeenkomt met artikel 28 over afvalbeheerplannen. Het plan moet overeenkomstig artikel 28 zijn opgesteld. De nationale rechter moet ook nagaan of de bezwaren steunen op specifieke gronden die eigen zijn aan elke geplande overbrenging of elke reeks overbrengingen met dezelfde kenmerken. De zaak betrof circa 1 100 overbrengingen (25 000 ton) van uit afval verkregen brandstof van Slovenië naar Hongarije. Het Hof wees er ook op dat Verordening (EU) 2024/1157, van toepassing vanaf 21 mei 2026, deze bezwaargrond uitdrukkelijk opneemt. Het arrest is gedateerd 2 juli 2026; als uitlegging bevat het geen datum van inwerkingtreding."
+   ],
+   "fr": [
+    "CJUE : un transfert de déchets destinés à la valorisation peut être refusé s'il est contraire au plan de gestion des déchets de destination",
+    "La Cour de justice juge qu'un État membre de destination peut s'opposer au transfert de déchets destinés à la valorisation sans incinération lorsqu'il n'est pas conforme à son plan de gestion des déchets. Ce plan doit avoir été établi conformément à l'article 28 de la directive 2008/98.",
+    "L'arrêt concerne les notifiants de transferts de déchets destinés à la valorisation entre États membres et les autorités compétentes d'expédition et de destination au titre du règlement 1013/2006. Il vise la valorisation sans incinération. L'article 16, paragraphe 1, de la directive 2008/98, relatif aux incinérateurs classés comme valorisation, n'était pas pertinent pour le litige. La Cour juge que l'article 12, paragraphe 1, sous a), du règlement 1013/2006, lu à la lumière du considérant 39 de la directive 2008/98, permet à l'État membre de destination de formuler des objections lorsque le transfert n'est pas conforme à son plan de gestion des déchets. La référence du règlement à la directive 2006/12 s'entend comme une référence à la directive 2008/98, de sorte que l'ancien article 7 correspond désormais à l'article 28 sur les plans de gestion des déchets. Le plan doit avoir été établi conformément à l'article 28. Le juge national doit aussi vérifier que les objections reposent sur des motifs spécifiques propres à chaque transfert envisagé ou à chaque ensemble de transferts présentant les mêmes caractéristiques. L'affaire concernait environ 1 100 transferts (25 000 tonnes) de combustibles dérivés de déchets de la Slovénie vers la Hongrie. La Cour relève aussi que le règlement (UE) 2024/1157, applicable à partir du 21 mai 2026, prévoit expressément ce motif d'objection. L'arrêt est daté du 2 juillet 2026 ; s'agissant d'une interprétation, il ne fixe pas de date d'entrée en vigueur."
+   ],
+   "scope": "Regulation (EC) No 1013/2006, Article 12(1)(a); Directive 2008/98/EC, Article 28, Article 16(1) and recital 39 (Case C-447/25)",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Sixth Chamber) of 2 July 2026.#Surovina RECE d.o.o. v Pest Vármegyei Kormányhivatal.#Request for a preliminary ruling",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CJ0447"
+    ]
+   ],
+   "inbox": [
+    "eu:62025CJ0447"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1444",
+   "d": "2026-07-02",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Commission repeals 2007 standard leak-checking regulations for F-gas equipment",
+   "a": "Implementing Regulation (EU) 2026/1444 repeals Regulations (EC) No 1497/2007 and No 1516/2007, which set standard leakage checking requirements for fire protection systems and for refrigeration, air-conditioning and heat pump equipment containing fluorinated greenhouse gases. The two Regulations are not replaced.",
+   "b": "The repeal concerns the standard leakage checking requirements for stationary fire protection systems (Regulation 1497/2007) and for stationary refrigeration, air-conditioning and heat pump equipment (Regulation 1516/2007) containing certain fluorinated greenhouse gases. Both were adopted under the former F-gas Regulation (EC) No 842/2006, which has since been replaced by Regulation (EU) 2024/573. The Commission considers them redundant given later EU rules on leakage prevention, monitoring, certification and record-keeping. It also considers their technical methods outdated and too loosely framed to ensure harmonised application, and notes that they are no longer widely used in practice. Both Regulations are therefore repealed without replacement, with the stated aims of legal clarity and lower administrative burden. The Regulation was adopted on 2 July 2026 and published on 3 July 2026. It enters into force on the twentieth day after publication, i.e. 23 July 2026. It does not contain transitional rules.",
+   "nl": [
+    "Commissie trekt de standaardverordeningen van 2007 over lekcontrole van F-gasapparatuur in",
+    "Uitvoeringsverordening (EU) 2026/1444 trekt de Verordeningen (EG) nr. 1497/2007 en nr. 1516/2007 in. Die bevatten standaardvoorschriften voor lekcontrole van brandbeveiligingssystemen en van koelinstallaties, airconditioning en warmtepompen met gefluoreerde broeikasgassen. Ze worden niet vervangen.",
+    "De intrekking betreft de standaardvoorschriften voor lekcontrole van vaste brandbeveiligingssystemen (Verordening 1497/2007) en van vaste koelinstallaties, airconditioning en warmtepompen (Verordening 1516/2007) die bepaalde gefluoreerde broeikasgassen bevatten. Beide werden vastgesteld onder de vroegere F-gassenverordening (EG) nr. 842/2006, die inmiddels is vervangen door Verordening (EU) 2024/573. Volgens de Commissie zijn ze overbodig door latere EU-regels over lekpreventie, monitoring, certificering en registratie. Ze acht de technische methoden bovendien verouderd en te ruim geformuleerd om een geharmoniseerde toepassing te verzekeren, en zegt dat ze in de praktijk niet meer breed worden gebruikt. Beide verordeningen worden daarom ingetrokken zonder vervanging, met het oog op rechtszekerheid en een lagere administratieve last. De verordening werd vastgesteld op 2 juli 2026 en gepubliceerd op 3 juli 2026. Ze treedt in werking op de twintigste dag na bekendmaking, dus op 23 juli 2026. Overgangsregels bevat ze niet."
+   ],
+   "fr": [
+    "La Commission abroge les règlements standard de 2007 sur le contrôle d'étanchéité des équipements à gaz fluorés",
+    "Le règlement d'exécution (UE) 2026/1444 abroge les règlements (CE) no 1497/2007 et no 1516/2007, qui fixaient des exigences standard de contrôle d'étanchéité pour les systèmes de protection contre l'incendie et pour les équipements de réfrigération, de climatisation et les pompes à chaleur contenant des gaz à effet de serre fluorés. Ils ne sont pas remplacés.",
+    "L'abrogation vise les exigences standard de contrôle d'étanchéité des systèmes fixes de protection contre l'incendie (règlement 1497/2007) et des équipements fixes de réfrigération, de climatisation et des pompes à chaleur (règlement 1516/2007) contenant certains gaz à effet de serre fluorés. Ces deux textes avaient été adoptés sous l'ancien règlement F-gaz (CE) no 842/2006, depuis remplacé par le règlement (UE) 2024/573. La Commission les juge redondants au regard des règles européennes ultérieures sur la prévention des fuites, la surveillance, la certification et la tenue de registres. Elle estime aussi que leurs méthodes techniques sont dépassées et trop larges pour assurer une application harmonisée, et note qu'elles ne sont plus guère utilisées en pratique. Les deux règlements sont donc abrogés sans remplacement, dans un objectif de sécurité juridique et d'allègement de la charge administrative. Le règlement a été adopté le 2 juillet 2026 et publié le 3 juillet 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 23 juillet 2026. Il ne prévoit pas de mesures transitoires."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/1444: Article 1 (repeal of Regulations (EC) No 1497/2007 and No 1516/2007) and Article 2 (entry into force)",
+   "dates": {
+    "adopted": "2026-07-02",
+    "published": "2026-07-03",
+    "in_force": "2026-07-23"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/1444 of 2 July 2026 repealing Regulations (EC) No 1497/2007 and (EC) No 1516/2007 on leakage ch",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1444"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1444"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1453",
+   "d": "2026-07-02",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU corrects the list of shipping companies and their ETS administering authority, including Belgium's",
+   "a": "Implementing Decision (EU) 2026/1453 replaces the Annex to Decision (EU) 2024/411, the list of shipping companies and their administering Member State under the EU ETS. It corrects the attribution of four companies and the IMO numbers of 21 companies.",
+   "b": "The Decision concerns shipping companies covered by Directive 2003/87/EC (EU ETS) and the Member States acting as their administering authority, Belgium among them. The Annex to Decision (EU) 2024/411 did not accurately reflect four attributions of shipping companies, nor changes to the IMO numbers of 21 companies recorded in Thetis-MRV before 11 August 2025. The whole Annex is therefore replaced by a new list, organised by Member State, giving each company's IMO unique company and registered owner identification number and its name. Entries recorded in a way that deviates from the IMO identification scheme are left blank, to keep the data format consistent. The Decision was adopted on 2 July 2026 and published in the Official Journal on 10 July 2026. It enters into force on the twentieth day after publication, i.e. 30 July 2026.",
+   "nl": [
+    "EU corrigeert de lijst van scheepvaartmaatschappijen en hun administrerende autoriteit onder het ETS, ook voor België",
+    "Uitvoeringsbesluit (EU) 2026/1453 vervangt de bijlage bij Besluit (EU) 2024/411, de lijst van scheepvaartmaatschappijen en hun administrerende lidstaat onder het EU-ETS. Het corrigeert de toewijzing van vier maatschappijen en de IMO-nummers van 21 maatschappijen.",
+    "Het besluit betreft scheepvaartmaatschappijen die onder Richtlijn 2003/87/EG (EU-ETS) vallen en de lidstaten die als hun administrerende autoriteit optreden, waaronder België. De bijlage bij Besluit (EU) 2024/411 gaf vier toewijzingen van scheepvaartmaatschappijen niet correct weer, evenmin als de wijzigingen in de IMO-nummers van 21 maatschappijen die vóór 11 augustus 2025 in Thetis-MRV zijn geregistreerd. De volledige bijlage wordt daarom vervangen door een nieuwe lijst, per lidstaat ingedeeld, met voor elke maatschappij het unieke IMO-identificatienummer van maatschappij en geregistreerde eigenaar en de naam. Vermeldingen die afwijken van het IMO-identificatieschema blijven blanco, zodat het gegevensformaat consistent blijft. Het besluit is vastgesteld op 2 juli 2026 en gepubliceerd in het Publicatieblad op 10 juli 2026. Het treedt in werking op de twintigste dag na publicatie, dus op 30 juli 2026."
+   ],
+   "fr": [
+    "L'UE corrige la liste des compagnies maritimes et de leur autorité responsable dans le SEQE, y compris pour la Belgique",
+    "La décision d'exécution (UE) 2026/1453 remplace l'annexe de la décision (UE) 2024/411, la liste des compagnies maritimes et de leur État membre responsable dans le SEQE-UE. Elle corrige l'attribution de quatre compagnies et les numéros OMI de 21 compagnies.",
+    "La décision concerne les compagnies maritimes relevant de la directive 2003/87/CE (SEQE-UE) et les États membres qui agissent comme leur autorité responsable, dont la Belgique. L'annexe de la décision (UE) 2024/411 ne reflétait pas correctement quatre attributions de compagnies maritimes, ni les changements de numéros OMI de 21 compagnies enregistrés dans Thetis-MRV avant le 11 août 2025. L'annexe est donc intégralement remplacée par une nouvelle liste, ordonnée par État membre, qui indique pour chaque compagnie le numéro d'identification OMI unique de la compagnie et du propriétaire inscrit, ainsi que son nom. Les entrées enregistrées d'une manière qui s'écarte du système d'identification OMI sont laissées en blanc, afin de garder un format de données cohérent. La décision a été adoptée le 2 juillet 2026 et publiée au Journal officiel le 10 juillet 2026. Elle entre en vigueur le vingtième jour suivant sa publication, soit le 30 juillet 2026."
+   ],
+   "scope": "Implementing Decision (EU) 2024/411, Annex (list of shipping companies and administering authorities, Directive 2003/87/EC, Art. 3gf(2)(b)), replaced by Article 1",
+   "dates": {
+    "adopted": "2026-07-02",
+    "published": "2026-07-10",
+    "in_force": "2026-07-30"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/1453 of 2 July 2026 correcting Commission Implementing Decision (EU) 2024/411 on the list of ship",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1453"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1453"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042349",
+   "d": "2026-07-02",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU repeals Regulations 1497/2007 and 1516/2007 on leak checks of equipment containing fluorinated greenhouse gases",
+   "a": "Commission Regulation (EU) 2026/1444 repeals Regulations (EC) No 1497/2007 and (EC) No 1516/2007, which set leak-checking requirements for certain equipment containing fluorinated greenhouse gases.",
+   "b": "The regulation concerns operators and companies working with certain equipment containing fluorinated greenhouse gases, as well as the authorities supervising them. It repeals two Commission regulations that laid down leak-checking requirements for such equipment: Regulation (EC) No 1497/2007 and Regulation (EC) No 1516/2007. The act is dated 2 July 2026. The available text does not state an entry into force date or any transitional rules.",
+   "nl": [
+    "EU trekt Verordeningen 1497/2007 en 1516/2007 over lekcontroles van apparatuur met gefluoreerde broeikasgassen in",
+    "Verordening (EU) 2026/1444 van de Commissie trekt de Verordeningen (EG) nr. 1497/2007 en (EG) nr. 1516/2007 in, die voorschriften inzake lekcontrole van bepaalde apparatuur met gefluoreerde broeikasgassen bevatten.",
+    "De verordening betreft exploitanten en bedrijven die werken met bepaalde apparatuur die gefluoreerde broeikasgassen bevat, en de overheden die erop toezien. Ze trekt twee verordeningen van de Commissie in die voorschriften inzake lekcontrole voor die apparatuur vastlegden: Verordening (EG) nr. 1497/2007 en Verordening (EG) nr. 1516/2007. De akte is gedateerd op 2 juli 2026. Uit de beschikbare tekst blijken geen datum van inwerkingtreding en geen overgangsregels."
+   ],
+   "fr": [
+    "L'UE abroge les règlements 1497/2007 et 1516/2007 sur le contrôle des fuites d'équipements contenant des gaz à effet de serre fluorés",
+    "Le règlement (UE) 2026/1444 de la Commission abroge les règlements (CE) n° 1497/2007 et (CE) n° 1516/2007, qui fixaient des exigences de contrôle des fuites pour certains équipements contenant des gaz à effet de serre fluorés.",
+    "Le règlement concerne les exploitants et les entreprises qui utilisent certains équipements contenant des gaz à effet de serre fluorés, ainsi que les autorités chargées de leur contrôle. Il abroge deux règlements de la Commission qui fixaient des exigences de contrôle des fuites pour ces équipements : le règlement (CE) n° 1497/2007 et le règlement (CE) n° 1516/2007. L'acte est daté du 2 juillet 2026. Le texte disponible ne mentionne ni date d'entrée en vigueur ni mesures transitoires."
+   ],
+   "scope": "Verordening (EU) 2026/1444 van de Commissie: intrekking van Verordeningen (EG) nr. 1497/2007 en (EG) nr. 1516/2007 (lekcontrole, gefluoreerde broeikasgassen)",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Verordening (EU) 2026/1444 van de Commissie tot intrekking van de Verordeningen (EG) nr. 1497/2007 en (EG) nr. 1516/2007 betreffende voorsch",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042349&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042349"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-141187",
+   "d": "2026-06-30",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Wallonia sets new periodic environmental data form, to be filed electronically via REIWa from 25 September 2026",
+   "a": "A Walloon ministerial order sets the model form for the periodic notification of environmental data and names the REIWa application as the recognised electronic reporting channel. It also lists which sections of the form each installation and activity must complete.",
+   "b": "The order concerns establishments in Wallonia subject to the periodic notification of environmental data under the Walloon Government Decree of 19 April 2024, which replaced the 2007 decree. It sets the form model in Annex 1, a modernised version of the form previously annexed to the repealed 2007 decree. Annex 2 lists the sections of the form to be completed for each installation and activity listed in the annex to the 2024 decree. The REIWa application (Registre des Emissions Industrielles Wallonnes), available at reiwa.wallonie.be, is recognised as the means of electronic reporting. The order is dated 30 June 2026, was published in the Moniteur belge on 15 September 2026 and is in force from 25 September 2026.",
+   "nl": [
+    "Wallonië legt nieuw formulier voor periodieke milieugegevens vast, elektronisch in te dienen via REIWa vanaf 25 september 2026",
+    "Een Waals ministerieel besluit legt het modelformulier voor de periodieke kennisgeving van milieugegevens vast en erkent de toepassing REIWa als elektronisch rapportagekanaal. Het somt ook op welke delen van het formulier elke installatie en activiteit moet invullen.",
+    "Het besluit betreft de inrichtingen in Wallonië die onderworpen zijn aan de periodieke kennisgeving van milieugegevens op grond van het besluit van de Waalse Regering van 19 april 2024, dat het besluit van 2007 heeft opgeheven. Bijlage 1 bevat het model van het formulier, een gemoderniseerde versie van het formulier dat vroeger als bijlage bij het opgeheven besluit van 2007 was gevoegd. Bijlage 2 somt de delen van het formulier op die moeten worden ingevuld voor elke installatie en activiteit die is opgenomen in de bijlage bij het besluit van 2024. De toepassing REIWa (Registre des Emissions Industrielles Wallonnes), beschikbaar op reiwa.wallonie.be, wordt erkend als middel voor elektronische rapportage. Het besluit is gedateerd 30 juni 2026, werd op 15 september 2026 in het Belgisch Staatsblad bekendgemaakt en is van kracht vanaf 25 september 2026."
+   ],
+   "fr": [
+    "La Wallonie établit un nouveau formulaire de notification périodique de données environnementales, via REIWa dès le 25 septembre 2026",
+    "Un arrêté ministériel wallon établit le modèle de formulaire de notification périodique de données environnementales et reconnaît l'application REIWa comme procédé de rapportage électronique. Il liste aussi les volets du formulaire à compléter pour chaque installation et activité.",
+    "L'arrêté concerne les établissements wallons soumis à l'obligation de notification périodique de données environnementales prévue par l'arrêté du Gouvernement wallon du 19 avril 2024, qui a abrogé l'arrêté de 2007. L'annexe 1 contient le modèle de formulaire, version modernisée du formulaire précédemment annexé à l'arrêté de 2007 abrogé. L'annexe 2 liste les volets du formulaire à compléter pour chaque installation et activité visée à l'annexe de l'arrêté de 2024. L'application REIWa (Registre des Emissions Industrielles Wallonnes), disponible à l'adresse reiwa.wallonie.be, est reconnue comme procédé de rapportage par voie électronique. L'arrêté date du 30 juin 2026, a été publié au Moniteur belge le 15 septembre 2026 et est en vigueur depuis le 25 septembre 2026."
+   ],
+   "scope": "Arrêté ministériel du 30 juin 2026 établissant le formulaire de notification périodique de données environnementales (art. 1 à 3, annexes 1 et 2)",
+   "dates": {
+    "adopted": "2026-06-30",
+    "published": "2026-09-15",
+    "in_force": "2026-09-25"
+   },
+   "u": [
+    [
+     "Arrêté ministériel établissant le formulaire de notification périodique de données environnementales",
+     "https://wallex.wallonie.be/eli/arrete/2026/06/30/2026006642/2026/09/25"
+    ]
+   ],
+   "inbox": [
+    "wallex:141187"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1425",
+   "d": "2026-06-30",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products"
+   ],
+   "h": "EU replaces rules on calculating and verifying recycled content in PET beverage bottles, adds mass balance",
+   "a": "Implementing Decision (EU) 2026/1425 sets new rules for calculating, verifying and reporting recycled plastic content in PET beverage bottles under Directive 2019/904. It repeals Implementing Decision (EU) 2023/2683 and allows recycling technologies not covered by Regulation (EU) 2022/1616 to count, using mass balance accounting.",
+   "b": "The Decision applies to Member States and to economic operators in the PET bottle supply chain: recyclers, converters, food business operators, importers and waste collectors or treaters. It covers single-use plastic beverage bottles of up to three litres, including cap, lid, label and sleeve, but excludes glass or metal bottles with plastic caps and bottles for liquid food for special medical purposes. Member States must collect data from operators placing PET bottles on their market and calculate the annual recycled content as recycled plastic weight divided by total plastic weight, with optional adjustment for exports and intra-EU movements. Where recycling is not purely mechanical or otherwise covered by Regulation (EU) 2022/1616, calculation points and mass balance accounting apply: accounting periods of at most three months, no negative balance, and no transfer of attributed amounts between facilities or companies. From 21 November 2027, post-consumer waste recycled in certain third countries (OECD countries, or countries with an Union agreement or arrangement ensuring equivalent standards) also counts as recycled plastic. Operators must issue a recycled-content declaration with each batch and keep received declarations for five years. Operators using mass balance on non-polymer material need an on-site verification by an accredited verifier, annually or every three years for SMEs, with certificates recognised in all Member States. Member States verify data on a risk basis and report annually in the Annex II format, with the quality check report in the Annex III format. The Decision enters into force on the twentieth day after publication in the Official Journal (3 July 2026) and is to be reviewed by 1 January 2030.",
+   "nl": [
+    "EU vervangt regels voor berekening en verificatie van gerecycleerd gehalte in PET-drankflessen en voert massabalans in",
+    "Uitvoeringsbesluit (EU) 2026/1425 stelt nieuwe regels vast voor de berekening, verificatie en rapportage van het gehalte aan gerecyclede kunststof in PET-drankflessen onder Richtlijn 2019/904. Het trekt Uitvoeringsbesluit (EU) 2023/2683 in en laat recyclagetechnologieën die niet onder Verordening (EU) 2022/1616 vallen meetellen via massabalansberekening.",
+    "Het besluit geldt voor de lidstaten en voor marktdeelnemers in de PET-flessenketen: recyclers, converters, exploitanten van levensmiddelenbedrijven, importeurs en inzamelaars of verwerkers van afval. Het betreft kunststof drankflessen voor eenmalig gebruik tot drie liter, met dop, deksel, etiket en sleeve, maar sluit glazen of metalen flessen met kunststof doppen en flessen voor vloeibare voeding voor medisch gebruik uit. De lidstaten moeten gegevens verzamelen bij marktdeelnemers die PET-flessen in de handel brengen en het jaarlijkse gerecycleerde gehalte berekenen als gewicht aan gerecyclede kunststof gedeeld door het totale kunststofgewicht, met een optionele correctie voor uitvoer en verplaatsingen binnen de EU. Wanneer de recyclage niet louter mechanisch is of niet onder Verordening (EU) 2022/1616 valt, gelden berekeningspunten en massabalansberekening: boekingsperiodes van maximaal drie maanden, geen negatief saldo en geen overdracht van toegerekende hoeveelheden tussen installaties of bedrijven. Vanaf 21 november 2027 telt ook postconsumentenafval dat in bepaalde derde landen is gerecycleerd (OESO-landen, of landen met een Unie-overeenkomst of -regeling die gelijkwaardige normen waarborgt) als gerecyclede kunststof. Marktdeelnemers moeten bij elke partij een verklaring over het gerecycleerde gehalte afgeven en ontvangen verklaringen vijf jaar bewaren. Marktdeelnemers die massabalans toepassen op niet-polymeermateriaal moeten ter plaatse worden geverifieerd door een geaccrediteerde verificateur, jaarlijks of om de drie jaar voor kmo's, met certificaten die in alle lidstaten worden erkend. De lidstaten verifiëren de gegevens op risicobasis en rapporteren jaarlijks in het formaat van bijlage II, met het kwaliteitscontroleverslag in het formaat van bijlage III. Het besluit treedt in werking op de twintigste dag na bekendmaking in het Publicatieblad (3 juli 2026) en wordt uiterlijk op 1 januari 2030 herzien."
+   ],
+   "fr": [
+    "L'UE remplace les règles de calcul et de vérification de la teneur en recyclé des bouteilles PET et introduit le bilan massique",
+    "La décision d'exécution (UE) 2026/1425 fixe de nouvelles règles de calcul, de vérification et de communication de la teneur en plastique recyclé des bouteilles pour boissons en PET au titre de la directive 2019/904. Elle abroge la décision d'exécution (UE) 2023/2683 et permet aux technologies de recyclage non couvertes par le règlement (UE) 2022/1616 d'être comptabilisées par bilan massique.",
+    "La décision s'applique aux États membres et aux opérateurs économiques de la chaîne des bouteilles en PET : recycleurs, transformateurs, exploitants du secteur alimentaire, importateurs et collecteurs ou traiteurs de déchets. Elle couvre les bouteilles pour boissons en plastique à usage unique jusqu'à trois litres, avec bouchon, couvercle, étiquette et manchon, mais exclut les bouteilles en verre ou en métal à bouchons en plastique et les bouteilles destinées aux denrées liquides à des fins médicales spéciales. Les États membres doivent collecter les données auprès des opérateurs mettant des bouteilles en PET sur leur marché et calculer chaque année la teneur en recyclé comme le poids de plastique recyclé divisé par le poids total de plastique, avec un ajustement facultatif pour les exportations et les mouvements intra-UE. Lorsque le recyclage n'est pas purement mécanique ou n'est pas couvert par le règlement (UE) 2022/1616, des points de calcul et un bilan massique s'appliquent : périodes de comptabilisation de trois mois au maximum, aucun solde négatif et aucun transfert de quantités attribuées entre installations ou entreprises. À partir du 21 novembre 2027, les déchets de plastique postconsommation recyclés dans certains pays tiers (pays de l'OCDE, ou pays liés à l'Union par un accord ou un arrangement garantissant des normes équivalentes) comptent aussi comme plastique recyclé. Les opérateurs doivent délivrer pour chaque lot une déclaration relative à la teneur en recyclé et conserver cinq ans les déclarations reçues. Les opérateurs appliquant le bilan massique à des matières non polymères doivent faire l'objet d'une vérification sur site par un vérificateur accrédité, chaque année ou tous les trois ans pour les PME, avec des certificats reconnus dans tous les États membres. Les États membres vérifient les données selon une approche fondée sur les risques et les communiquent chaque année dans le format de l'annexe II, le rapport de contrôle de la qualité suivant le format de l'annexe III. La décision entre en vigueur le vingtième jour suivant sa publication au Journal officiel (3 juillet 2026) et sera réexaminée au plus tard le 1er janvier 2030."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/1425 – recycled plastic content in PET beverage bottles (Directive (EU) 2019/904, Art. 6(5) and 13(4)); repeals Implementing Decision (EU) 2023/2683",
+   "dates": {
+    "adopted": "2026-06-30",
+    "published": "2026-07-03",
+    "in_force": "2026-07-23"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the Euro",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1425"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1425"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042174",
+   "d": "2026-06-30",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Eight local environmental enforcement supervisors designated in Ghent, WVI and Interleuven areas",
+   "a": "A ministerial decree designates eight local supervisors for environmental enforcement in Flanders, authorising them to carry out administrative visitations. Seven of them also receive the status of judicial police officer and auxiliary officer of the Crown Prosecutor.",
+   "b": "The decree concerns local environmental enforcement in the city of Ghent and in the areas of the intermunicipal associations WVI and Interleuven. One supervisor for the territory of Ghent is designated as supervisor competent for visitations under Article 22 §1, first paragraph, of the Framework Decree on Flemish Enforcement of 14 July 2023. Seven supervisors (six for the WVI area, one for the Interleuven area) are designated both as judicial police officer and auxiliary officer of the Crown Prosecutor and as supervisors competent for such visitations. Each acts within their own tasks and powers. The designations follow proposals from the Interleuven board (22 April 2026), the Ghent college of mayor and aldermen (28 May 2026) and the WVI board (16 June 2026), and rest on the Environmental Enforcement Decree of 23 May 2025. A designation ends on the day the person leaves the local administration or loses the supervisory powers. The decree was adopted on 30 June 2026, published on 9 July 2026 and takes effect on 1 July 2026.",
+   "nl": [
+    "Acht lokale toezichthouders omgevingshandhaving aangewezen in Gent en de werkingsgebieden van WVI en Interleuven",
+    "Een ministerieel besluit wijst acht lokale toezichthouders voor omgevingshandhaving aan die bestuurlijke visitaties mogen uitvoeren. Zeven van hen krijgen ook de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings.",
+    "Het besluit betreft de lokale omgevingshandhaving in de stad Gent en in de werkingsgebieden van de intergemeentelijke samenwerkingsverbanden WVI en Interleuven. Eén toezichthouder voor het grondgebied van Gent wordt aangewezen als toezichthouder bevoegd voor een visitatie als vermeld in artikel 22, §1, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023. Zeven toezichthouders (zes voor het werkingsgebied van WVI, één voor dat van Interleuven) worden aangewezen als officier van gerechtelijke politie – hulpofficier van de procureur des Konings en als toezichthouder voor dergelijke visitaties, ieder voor hun respectieve opdrachten en bevoegdheden. De aanwijzingen volgen op voordrachten van de raad van bestuur van Interleuven (22 april 2026), het college van burgemeester en schepenen van Gent (28 mei 2026) en de raad van bestuur van WVI (16 juni 2026) en steunen op het Omgevingshandhavingsbesluit van 23 mei 2025. Een aanstelling eindigt op de dag dat de functiehouder de administratie van het lokaal bestuur verlaat of de bevoegdheden als toezichthouder verliest. Het besluit is genomen op 30 juni 2026, gepubliceerd op 9 juli 2026 en treedt in werking op 1 juli 2026."
+   ],
+   "fr": [
+    "Huit surveillants locaux de l'application environnementale désignés à Gand et dans les zones de WVI et d'Interleuven",
+    "Un arrêté ministériel désigne huit surveillants locaux chargés de l'application de la réglementation environnementale, habilités à effectuer des visites administratives. Sept d'entre eux reçoivent aussi la qualité d'officier de police judiciaire – officier auxiliaire du procureur du Roi.",
+    "L'arrêté concerne l'application locale de la réglementation environnementale dans la ville de Gand et dans les zones d'action des associations intercommunales WVI et Interleuven. Un surveillant pour le territoire de Gand est désigné comme surveillant compétent pour une visite au sens de l'article 22, §1er, alinéa 1er, du décret-cadre sur l'application flamande (Kaderdecreet Vlaamse Handhaving) du 14 juillet 2023. Sept surveillants (six pour la zone de WVI, un pour celle d'Interleuven) sont désignés à la fois comme officier de police judiciaire – officier auxiliaire du procureur du Roi et comme surveillants compétents pour de telles visites, chacun dans le cadre de ses missions et compétences. Les désignations font suite aux propositions du conseil d'administration d'Interleuven (22 avril 2026), du collège des bourgmestre et échevins de Gand (28 mai 2026) et du conseil d'administration de WVI (16 juin 2026), et reposent sur l'arrêté flamand relatif à l'application en matière d'environnement (Omgevingshandhavingsbesluit) du 23 mai 2025. Une désignation prend fin le jour où le titulaire quitte l'administration locale ou perd ses compétences de surveillant. L'arrêté a été adopté le 30 juin 2026, publié le 9 juillet 2026 et entre en vigueur le 1er juillet 2026."
+   ],
+   "scope": "Ministerieel besluit van 30 juni 2026: aanwijzing van toezichthouders (OGP – hulpofficier van de procureur des Konings; visitatie art. 22, §1, eerste lid Kaderdecreet Vlaamse Handhaving) in het kader van de omgevingshandhaving, art. 1-4",
+   "dates": {
+    "adopted": "2026-06-30",
+    "published": "2026-07-09",
+    "in_force": "2026-07-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot aanwijzing van toezichthouders met de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de pro",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042174&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042174"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1412",
+   "d": "2026-06-26",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU sets revised free-allocation benchmark values for 54 ETS benchmarks for 2026-2030",
+   "a": "Implementing Regulation (EU) 2026/1412 sets new benchmark values for the free allocation of emission allowances under the EU ETS for 2026 to 2030. They replace the 2021-2025 values and are based on 2021 and 2022 installation data.",
+   "b": "The Regulation concerns operators of stationary installations covered by the EU ETS that receive free allocation, and the authorities that calculate it. It sets values for the 54 benchmarks: product benchmarks with and without electricity consumption data, and the heat and fuel benchmarks. The values are derived from the average efficiency of the 10 % most efficient installations in 2021 and 2022, extrapolated over 20 years with a reduction between 6 % and 50 %. Several methodological choices apply: installations excluded from the EU ETS under Articles 27 and 27a are left out, and data of installations brought into scope from 1 January 2024 for earlier periods are not considered. Steel produced by direct reduction under the hot metal benchmark is not counted, and the soda ash value includes intermediary emissions. Heat produced from electricity is taken into account under the heat and fuel benchmarks. The Annex lists the values, for example hot metal 1,248, grey cement clinker 0,656, heat 31,2 allowances/TJ and fuel 28,1 allowances/TJ. They apply to free allocation for 2026 to 2030, and the Regulation enters into force on the day after its publication on 29 June 2026. The Commission announces a separate proposal on the fall-back benchmarks, which these values do not change.",
+   "nl": [
+    "EU stelt herziene benchmarkwaarden voor kosteloze toewijzing vast voor 54 ETS-benchmarks, 2026-2030",
+    "Uitvoeringsverordening (EU) 2026/1412 stelt nieuwe benchmarkwaarden vast voor de kosteloze toewijzing van emissierechten onder het EU-ETS voor 2026 tot en met 2030. Zij vervangen de waarden voor 2021-2025 en zijn gebaseerd op gegevens van installaties uit 2021 en 2022.",
+    "De verordening betreft exploitanten van stationaire installaties onder het EU-ETS die kosteloze toewijzing ontvangen, en de autoriteiten die deze berekenen. Zij stelt waarden vast voor de 54 benchmarks: productbenchmarks met en zonder gegevens over elektriciteitsverbruik, en de warmte- en brandstofbenchmarks. De waarden zijn afgeleid van het gemiddelde van de 10 % meest efficiënte installaties in 2021 en 2022, geëxtrapoleerd over 20 jaar met een vermindering tussen 6 % en 50 %. Verschillende methodologische keuzes gelden: installaties die op grond van de artikelen 27 en 27 bis van het EU-ETS zijn uitgesloten, blijven buiten beschouwing, evenals gegevens van installaties die vanaf 1 januari 2024 onder het toepassingsgebied vallen voor eerdere perioden. Staal geproduceerd via directe reductie onder de benchmark voor ruwijzer telt niet mee, en de waarde voor soda omvat intermediaire emissies. Warmte geproduceerd uit elektriciteit wordt meegerekend onder de warmte- en brandstofbenchmarks. De bijlage bevat de waarden, bijvoorbeeld ruwijzer 1,248, grijze cementklinker 0,656, warmte 31,2 emissierechten/TJ en brandstof 28,1 emissierechten/TJ. Zij gelden voor de kosteloze toewijzing van 2026 tot en met 2030, en de verordening treedt in werking op de dag na haar bekendmaking op 29 juni 2026. De Commissie kondigt een afzonderlijk voorstel aan over de fall-backbenchmarks, die door deze waarden niet worden gewijzigd."
+   ],
+   "fr": [
+    "L'UE fixe les valeurs révisées des référentiels d'allocation gratuite de 54 référentiels SEQE, 2026-2030",
+    "Le règlement d'exécution (UE) 2026/1412 fixe de nouvelles valeurs de référentiels pour l'allocation de quotas d'émission à titre gratuit dans le SEQE-UE pour la période 2026-2030. Elles remplacent les valeurs 2021-2025 et reposent sur les données des installations de 2021 et 2022.",
+    "Le règlement concerne les exploitants d'installations fixes relevant du SEQE-UE qui bénéficient d'une allocation gratuite, ainsi que les autorités qui la calculent. Il fixe les valeurs des 54 référentiels: référentiels de produits avec et sans données sur la consommation d'électricité, et référentiels de chaleur et de combustible. Les valeurs sont dérivées de la moyenne des 10 % d'installations les plus efficaces en 2021 et 2022, extrapolée sur 20 ans avec une réduction comprise entre 6 % et 50 %. Plusieurs choix méthodologiques s'appliquent: les installations exclues du SEQE-UE en vertu des articles 27 et 27 bis ne sont pas prises en compte, pas plus que les données des installations entrées dans le champ d'application à partir du 1er janvier 2024 pour les périodes antérieures. L'acier produit par réduction directe au titre du référentiel de la fonte liquide n'est pas pris en compte, et la valeur du carbonate de sodium intègre les émissions intermédiaires. La chaleur produite à partir d'électricité est prise en compte dans les référentiels de chaleur et de combustible. L'annexe énumère les valeurs, par exemple fonte liquide 1,248, clinker de ciment gris 0,656, chaleur 31,2 quotas/TJ et combustible 28,1 quotas/TJ. Elles s'appliquent à l'allocation gratuite de 2026 à 2030, et le règlement entre en vigueur le lendemain de sa publication, le 29 juin 2026. La Commission annonce une proposition distincte sur les référentiels de repli, que ces valeurs ne modifient pas."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/1412 – revised benchmark values for free allocation 2026-2030 under Article 10a(2) of Directive 2003/87/EC (Articles 1-2 and Annex)",
+   "dates": {
+    "adopted": "2026-06-26",
+    "published": "2026-06-29",
+    "in_force": "2026-06-30"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/1412 of 26 June 2026 determining revised benchmark values for free allocation of emission allow",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1412"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1412"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1435",
+   "d": "2026-06-26",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Commission approves stricter French rules on destruction of unsold consumer products, with limits in time",
+   "a": "The Commission has approved France's request to keep stricter national rules on unsold consumer products than Regulation (EU) 2024/1781. The notification was rejected as inadmissible for products other than consumer products.",
+   "b": "The Decision is addressed to France. It concerns producers, importers and distributors of non-food products on the French market, which can include Belgian businesses selling there. France's Environmental Code (Article L.541-15-8) requires unsold products to be reused, prepared for reuse or recycled, following the waste hierarchy. For apparel, clothing accessories and footwear (Annex VII of Regulation (EU) 2024/1781), the French rules on medium-sized enterprises are approved until 19 July 2030, when the EU prohibition on destruction starts to apply to those enterprises. For consumer products not listed in Annex VII, the French rules are approved until, if ever, EU harmonised provisions that are equally or more stringent become applicable. The notification is rejected as inadmissible for products other than consumer products, because the Regulation does not harmonise their destruction. The Commission found the rules justified on environmental grounds and not a means of arbitrary discrimination, a disguised restriction on trade or a disproportionate obstacle to the internal market. The Decision is dated 26 June 2026 and was published on 29 June 2026. It does not state a separate date of entry into force. The EU prohibition on destruction applies to large enterprises from 19 July 2026.",
+   "nl": [
+    "Commissie keurt strengere Franse regels over vernietiging van onverkochte consumentenproducten goed, met beperkte duur",
+    "De Europese Commissie heeft het verzoek van Frankrijk goedgekeurd om strengere nationale regels voor onverkochte consumentenproducten te handhaven dan Verordening (EU) 2024/1781. De aanmelding is niet-ontvankelijk verklaard voor andere producten dan consumentenproducten.",
+    "Het besluit is gericht aan Frankrijk. Het betreft producenten, importeurs en distributeurs van non-foodproducten op de Franse markt, waaronder ook Belgische bedrijven die daar verkopen. Het Franse Milieuwetboek (artikel L.541-15-8) verplicht tot hergebruik, voorbereiding voor hergebruik of recycling van onverkochte producten, in overeenstemming met de afvalhiërarchie. Voor kleding, kledingaccessoires en schoeisel (bijlage VII bij Verordening (EU) 2024/1781) zijn de Franse regels voor middelgrote ondernemingen goedgekeurd tot 19 juli 2030, wanneer het Europese vernietigingsverbod voor die ondernemingen gaat gelden. Voor consumentenproducten die niet in bijlage VII staan, zijn de Franse regels goedgekeurd tot, indien ooit, geharmoniseerde Europese bepalingen van gelijke of grotere strengheid van toepassing worden. De aanmelding wordt niet-ontvankelijk verklaard voor andere producten dan consumentenproducten, omdat de verordening de vernietiging ervan niet harmoniseert. Volgens de Commissie zijn de regels gerechtvaardigd om redenen van milieubescherming en vormen ze geen willekeurige discriminatie, geen verkapte beperking van het handelsverkeer en geen onevenredige belemmering van de interne markt. Het besluit dateert van 26 juni 2026 en is op 29 juni 2026 bekendgemaakt. Een afzonderlijke datum van inwerkingtreding wordt niet vermeld. Het Europese vernietigingsverbod geldt voor grote ondernemingen vanaf 19 juli 2026."
+   ],
+   "fr": [
+    "La Commission approuve des règles françaises plus strictes sur la destruction des produits de consommation invendus, avec limites dans le temps",
+    "La Commission européenne a approuvé la demande de la France de maintenir des règles nationales plus strictes que le règlement (UE) 2024/1781 pour les produits de consommation invendus. La notification est rejetée comme irrecevable pour les produits autres que les produits de consommation.",
+    "La décision est adressée à la France. Elle concerne les producteurs, importateurs et distributeurs de produits non alimentaires sur le marché français, y compris des entreprises belges qui y vendent. Le Code de l'environnement français (article L.541-15-8) impose le réemploi, la préparation en vue du réemploi ou le recyclage des produits invendus, conformément à la hiérarchie des modes de traitement des déchets. Pour l'habillement, les accessoires vestimentaires et les chaussures (annexe VII du règlement (UE) 2024/1781), les règles françaises applicables aux moyennes entreprises sont approuvées jusqu'au 19 juillet 2030, date à laquelle l'interdiction européenne de destruction s'appliquera à ces entreprises. Pour les produits de consommation non repris à l'annexe VII, les règles françaises sont approuvées jusqu'à ce que, le cas échéant, des dispositions européennes harmonisées d'une rigueur égale ou supérieure deviennent applicables. La notification est rejetée comme irrecevable pour les produits autres que les produits de consommation, le règlement n'harmonisant pas leur destruction. La Commission estime que les règles sont justifiées par la protection de l'environnement et ne constituent ni une discrimination arbitraire, ni une restriction déguisée au commerce, ni un obstacle disproportionné au marché intérieur. La décision date du 26 juin 2026 et a été publiée le 29 juin 2026. Elle ne fixe pas de date d'entrée en vigueur distincte. L'interdiction européenne de destruction s'applique aux grandes entreprises à partir du 19 juillet 2026."
+   ],
+   "scope": "Commission Decision (EU) 2026/1435 – approval under Article 114(4)-(6) TFEU of Article L.541-15-8 of the French Environmental Code, Articles 1-3 (Regulation (EU) 2024/1781, Article 25 and Annex VII)",
+   "dates": {
+    "adopted": "2026-06-26",
+    "published": "2026-06-29"
+   },
+   "u": [
+    [
+     "Commission Decision (EU) 2026/1435 of 26 June 2026 concerning national provisions notified by French Republic on the destruction of unsold p",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1435"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1435"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042168",
+   "d": "2026-06-26",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flemish administrative courts: interpreter at hearings and procedural amendments from 1 Sept 2026",
+   "a": "The Flemish Government amends its 2014 procedural decree for the Flemish administrative courts. A party with insufficient Dutch may be assisted by a sworn interpreter at the hearing, and several provisions are amended or repealed, including a reference to the Complex Projects Decree.",
+   "b": "The amendments concern parties to proceedings before the Flemish administrative courts under the procedural decree of 16 May 2014. A new article 12/1 allows a party who shows that its command of Dutch is insufficient to be assisted by an interpreter at the hearing. The chamber president appoints a sworn interpreter from the National Register of sworn translators, interpreters and translator-interpreters, the clerk records the assistance in the minutes, and the costs are borne by the Fonds Bestuursrechtscolleges. Article 4 no longer refers to the Decree of 25 April 2014 on complex projects. The words \"or decision\" and \"contested decision\" are removed from articles 1, 8, 16, 17, 69 and 71. Articles 26/13, 43, 68/1, 91/1 and 112/19 are repealed, as are points 4° to 6° of article 54 and point 4° and the third and fourth paragraphs of article 58/1. Cross-references in articles 26/5, 61 and 97 are adjusted. The decree and the Decree of 8 May 2026 on language use before the Flemish administrative courts enter into force on 1 September 2026. The amended article 4 applies to appeals filed from that date, but not to additional claims whose main claim was filed before 1 September 2026.",
+   "nl": [
+    "Vlaamse bestuursrechtscolleges: tolk ter zitting en procedurewijzigingen vanaf 1 september 2026",
+    "De Vlaamse Regering wijzigt haar rechtsplegingsbesluit van 2014 voor de Vlaamse bestuursrechtscolleges. Een partij die onvoldoende Nederlands kent, kan ter zitting worden bijgestaan door een beëdigd tolk, en verschillende bepalingen worden gewijzigd of opgeheven, waaronder een verwijzing naar het decreet complexe projecten.",
+    "De wijzigingen gelden voor partijen in procedures voor de Vlaamse bestuursrechtscolleges op grond van het rechtsplegingsbesluit van 16 mei 2014. Een nieuw artikel 12/1 laat een partij die aannemelijk maakt dat ze de Nederlandse taal onvoldoende beheerst, toe zich ter zitting door een tolk te laten bijstaan. De kamervoorzitter wijst de beëdigde tolk aan uit het Nationaal Register van beëdigd vertalers, tolken en vertalers-tolken, de griffier maakt melding van de bijstand in het proces-verbaal van de zitting en de kosten komen ten laste van het Fonds Bestuursrechtscolleges. Artikel 4 verwijst niet langer naar het decreet van 25 april 2014 betreffende complexe projecten. De woorden \"of besluit\" en \"het bestreden besluit\" worden geschrapt in de artikelen 1, 8, 16, 17, 69 en 71. De artikelen 26/13, 43, 68/1, 91/1 en 112/19 worden opgeheven, evenals de punten 4° tot en met 6° van artikel 54 en punt 4° en het derde en vierde lid van artikel 58/1. Verwijzingen in de artikelen 26/5, 61 en 97 worden aangepast. Het besluit en het decreet van 8 mei 2026 over het taalgebruik bij de Vlaamse bestuursrechtscolleges treden in werking op 1 september 2026. Het gewijzigde artikel 4 is van toepassing op beroepen die vanaf die datum worden ingediend, maar niet op aanvullende vorderingen waarvan de hoofdvordering vóór 1 september 2026 is ingediend."
+   ],
+   "fr": [
+    "Juridictions administratives flamandes : interprète à l'audience et modifications de procédure dès le 1er septembre 2026",
+    "Le Gouvernement flamand modifie son arrêté de 2014 relatif à la procédure devant les juridictions administratives flamandes. Une partie qui maîtrise insuffisamment le néerlandais peut être assistée d'un interprète juré à l'audience, et plusieurs dispositions sont modifiées ou abrogées, dont une référence au décret relatif aux projets complexes.",
+    "Les modifications concernent les parties aux procédures devant les juridictions administratives flamandes en vertu de l'arrêté de procédure du 16 mai 2014. Un nouvel article 12/1 permet à une partie qui rend plausible qu'elle maîtrise insuffisamment le néerlandais de se faire assister d'un interprète à l'audience. Le président de chambre désigne l'interprète juré dans le Registre national des traducteurs, interprètes et traducteurs-interprètes jurés, le greffier mentionne l'assistance dans le procès-verbal de l'audience et les frais sont à charge du Fonds Bestuursrechtscolleges. L'article 4 ne renvoie plus au décret du 25 avril 2014 relatif aux projets complexes. Les mots « ou décision » et « la décision attaquée » sont supprimés aux articles 1er, 8, 16, 17, 69 et 71. Les articles 26/13, 43, 68/1, 91/1 et 112/19 sont abrogés, de même que les points 4° à 6° de l'article 54 ainsi que le point 4° et les alinéas 3 et 4 de l'article 58/1. Des renvois aux articles 26/5, 61 et 97 sont adaptés. L'arrêté et le décret du 8 mai 2026 relatif à l'emploi des langues devant les juridictions administratives flamandes entrent en vigueur le 1er septembre 2026. L'article 4 modifié s'applique aux recours introduits à partir de cette date, mais pas aux demandes complémentaires dont la demande principale a été introduite avant le 1er septembre 2026."
+   ],
+   "scope": "Besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges: artikelen 1, 4, 8, 12/1 (nieuw), 16, 17, 26/5, 26/13, 43, 54, 58/1, 61, 68/1, 69, 71, 91/1, 97 en 112/19",
+   "dates": {
+    "adopted": "2026-06-26",
+    "published": "2026-07-08",
+    "in_force": "2026-09-01"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042168&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042168"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
