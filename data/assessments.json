@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 1 (char 2498)"
+"write_error": "Unterminated string starting at: line 1 column 2385 (char 2384)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 17 column 10 (char 7482)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 6345)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6678)"
+"write_error": "Unterminated string starting at: line 18 column 51 (char 7497)"
 },
 "codex:1042027": {
 "v": 2,
@@ -37242,7 +37242,8 @@
 ],
 "reason": "ETS Directive 2003/87/EC: free allocation and national carbon tax interaction.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0519-sum"
 },
 "eu:62024CJ0519": {
 "v": 2,
@@ -37253,7 +37254,8 @@
 ],
 "reason": "ETS Directive 2003/87/EC: free allocation and national carbon tax interaction.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0519"
 },
 "eu:62024CJ0496_SUM": {
 "v": 2,
@@ -37318,7 +37320,8 @@
 ],
 "reason": "CJEU ruling on Habitats Directive strict protection and derogation rules for species.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0058-res"
 },
 "eu:62024CJ0058": {
 "v": 2,
@@ -37329,7 +37332,8 @@
 ],
 "reason": "CJEU ruling on Habitats Directive strict protection and derogation rules for species.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0058"
 },
 "eu:62024CJ0050_RES": {
 "v": 2,
@@ -37799,7 +37803,8 @@
 ],
 "reason": "Walloon methodology for sub-basin fish management diagnostics; water and aquatic environment.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-138803"
 },
 "codex:1042392": {
 "v": 2,
@@ -37819,7 +37824,8 @@
 ],
 "reason": "Appoints fining authority under the Flemish environmental enforcement decree.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042186"
 },
 "codex:1041941": {
 "v": 2,
@@ -62149,7 +62155,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0695"
 },
 "rvvb:RVVB.2526.0694": {
 "v": 2,
@@ -62160,7 +62167,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0694"
 },
 "rvvb:RVVB.2526.0693": {
 "v": 2,
@@ -62180,7 +62188,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0692"
 },
 "rvvb:RVVB.2526.0690": {
 "v": 2,
@@ -62227,7 +62236,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0684"
 },
 "rvvb:RVVB.2526.0683": {
 "v": 2,
@@ -62238,7 +62248,8 @@
 ],
 "reason": "Title too vague; VL permit-dispute ruling, may concern environmental permits.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0683"
 },
 "rvvb:RVVB.2526.0682": {
 "v": 2,
@@ -64659,15 +64670,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 9,
-"found_not_relevant_on_reading": 2,
+"this_run": 11,
+"found_not_relevant_on_reading": 0,
 "failed": 3,
-"waiting": 401,
+"waiting": 390,
 "api": {
 "calls": 14,
-"input_tokens": 169247,
-"output_tokens": 39657,
-"usd": 0.7351
+"input_tokens": 196732,
+"output_tokens": 48106,
+"usd": 0.8745
 },
 "updated": "2026-11-23"
 }
