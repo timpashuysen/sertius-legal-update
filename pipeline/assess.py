@@ -71,7 +71,9 @@ RELEVANT only if both hold:
 2. it annuls or suspends a regulation or plan, or it decides a point of law or procedure that permit applicants, operators or authorities elsewhere should know (how a rule is to be read or applied, what an assessment or a statement of reasons must contain, who may appeal and when).
 NOT relevant: other fields (aliens, civil service, public procurement, education, tax, local government staff), withdrawals and purely procedural endings, and rulings that only weigh the facts of one file without a statement of wider use.
 
-Answer with one JSON object only:
+Most rulings are NOT relevant under this test: a dispute about one building, one permit or one neighbour is not relevant unless the ruling states a rule of wider use.
+
+Do not explain or think aloud. Your whole reply is one JSON object, starting with {"relevant":
 {"relevant": true|false, "topics": [any of "soil","environmental-law","environmental-safety","permitting","energy-climate","circular-products"], "reason": "<at most 25 words: the point of law, or why not relevant>", "confidence": "high"|"medium"|"low"}"""
 
 
@@ -137,13 +139,20 @@ def assess(items, log, client, today, limit=1000, rulings=260):
     # rulings of the Council of State and the permit tribunal are read in full, one by one
     full = [i for i in rest if i["src"] in ("rvvb", "rvs") and text_path(i).exists()]
     rest = [i for i in rest if not (i["src"] in ("rvvb", "rvs") and text_path(i).exists())]
+    bad = 0
     for it in full[:rulings]:
         try:
-            r = llm.json_block(client.ask(llm.MODELS["small"], RULING_SYSTEM, text_path(it).read_text("utf-8")[:34000], max_tokens=400))
+            reply = client.ask(llm.MODELS["small"], RULING_SYSTEM,
+                               "RULING\n" + text_path(it).read_text("utf-8")[:34000] + "\n\nNow give the JSON object and nothing else.", max_tokens=1500)
+            r = llm.json_block(reply[reply.rfind('{"relevant"'):] if '{"relevant"' in reply else reply)
+            bad = 0
         except llm.CapReached:
             break
         except Exception as e:
-            log["last_error"] = str(e)[:900]
+            log["last_error"] = str(e)[:300] + " | reply: " + (reply[:300] if "reply" in dir() else "")
+            bad += 1
+            if bad >= 5:          # something is wrong with the replies: stop spending and leave the rest for a look
+                break
             continue
         log["items"][it["id"]] = {"v": VERSION, "verdict": "relevant" if r.get("relevant") else "not relevant", "by": llm.MODELS["small"],
                                   "basis": "full text", "topics": [t for t in r.get("topics", []) if t in TOPICS],
