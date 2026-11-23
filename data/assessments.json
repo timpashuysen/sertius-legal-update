@@ -44996,7 +44996,8 @@
 ],
 "reason": "Flemish ministerial decree amending list of low-ammonia-emission stable systems.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041859"
 },
 "codex:1041831": {
 "v": 4,
@@ -45007,7 +45008,8 @@
 ],
 "reason": "Amends Flemish decree designating wolf-damage shooting zone; nature management rule, though zone-specific.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041831"
 },
 "codex:1041830": {
 "v": 4,
@@ -45018,7 +45020,8 @@
 ],
 "reason": "Amends Flemish decree designating wolf-damage shooting zone; nature management rule, though zone-specific.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041830"
 },
 "codex:1041829": {
 "v": 4,
@@ -45036,7 +45039,9 @@
 "topics": [],
 "reason": "Cassation ruling; title and extract give no clear environmental link, so needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Criminal procedure ruling on police capacity and investigating judges in a computer fraud case; no environmental obligations involved."
 },
 "eu:52026PC0109": {
 "v": 4,
@@ -45254,7 +45259,8 @@
 ],
 "reason": "Amends biocide regulation Annex I, restricting use of carbon dioxide active substance.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0447"
 },
 "eu:32026D0485": {
 "v": 4,
@@ -45292,7 +45298,8 @@
 ],
 "reason": "Updates European list of ship recycling facilities; hazardous waste and pollution rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0448"
 },
 "codex:1041855": {
 "v": 4,
@@ -45321,7 +45328,8 @@
 ],
 "reason": "Energy and climate provisions; likely affects energy and climate obligations.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041836"
 },
 "codex:1041835": {
 "v": 4,
@@ -45397,7 +45405,8 @@
 ],
 "reason": "Amends nature conservation law and Environment Code Book 1 in Wallonia.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-132007"
 },
 "wallex:131851": {
 "v": 4,
@@ -45456,7 +45465,8 @@
 ],
 "reason": "Water-test reasoning may sit under other permit considerations without separate treatment; motives can be read with attached water note; applies existing watertoets rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0544"
 },
 "rvvb:RVVB.A.2526.0543": {
 "v": 4,
@@ -63697,7 +63707,8 @@
 ],
 "reason": "Upholds the Walloon spatial development scheme; holds the SDT's environmental assessment adequate and defers Natura 2000 appropriate assessment to later communal initiatives.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265859"
 },
 "rvs:265857": {
 "v": 4,
@@ -63730,7 +63741,8 @@
 ],
 "reason": "Plan-MER screening rule (DABM art. 4.3.2) protects nature interests, not agricultural interests, so farmers cannot invoke it against a RUP.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265854"
 },
 "rvs:265853": {
 "v": 4,
@@ -63743,7 +63755,8 @@
 ],
 "reason": "Explanatory notes to a RUP lack binding force (art. 2.2.5 VCRO); developers seeking more building lack interest to invoke plan-MER and nature assessment rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265853"
 },
 "rvs:265852": {
 "v": 4,
@@ -63826,7 +63839,8 @@
 ],
 "reason": "Annuls a municipal spatial implementation plan for departing from the structure plan's densification objective without the special motivation required by art. 2.1.2 §3 VCRO.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265844"
 },
 "rvs:265843": {
 "v": 4,
@@ -64506,7 +64520,8 @@
 ],
 "reason": "Minister lacks power to impose a 1.2-coefficient penalty for fish quota overshoot; provision set aside under art. 159 Grondwet.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265868"
 },
 "rvs:265867": {
 "v": 4,
@@ -67442,12 +67457,12 @@
 "this_run": 13,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 311,
+"waiting": 297,
 "api": {
 "calls": 14,
-"input_tokens": 202112,
-"output_tokens": 41378,
-"usd": 0.818
+"input_tokens": 162449,
+"output_tokens": 43351,
+"usd": 0.7584
 },
 "updated": "2026-11-23"
 },

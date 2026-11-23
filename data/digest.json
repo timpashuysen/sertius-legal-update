@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:26:10Z",
+ "updated": "2026-11-23T18:36:04Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -30976,6 +30976,545 @@
    ],
    "inbox": [
     "rvs:265889"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041859",
+   "d": "2026-03-04",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders adds Cowtoilet urine-collection system (35% ammonia reduction) to list of low-ammonia housing systems",
+   "a": "A Flemish ministerial decree adds the Cowtoilet urine collection station for dairy cows and cows over 2 years old to the list of low-ammonia-emission housing systems, with a 35% emission reduction. It sets design, use, maintenance and registration requirements.",
+   "b": "The decree concerns livestock keepers and permit holders with housing for dairy and calving cows over 2 years old (animal category R-1) who want to use the Cowtoilet urine collection station (code R-1.29) as a recognised low-ammonia system. It adds sub-section 7.1.31 to chapter 7 of Annex I to the Ministerial Decree of 19 March 2004, and the system is assigned an emission reduction of 35%. The system collects urine in a station before it contacts manure or the floor and sends it to a separate closed storage. Design requirements include a slatted or solid floor, a manure cellar, a maximum manure-soiled floor area of 5.5 m² per animal place, and at least one station per 25 animals linked to animal-recognition software, with registration equipment. Use requirements include access for all animals (except during treatment, milking-wait use or grazing), an average of at least five urination visits per animal per day, weekly cleaning, daily checks, a maintenance contract and inspection at least every 6 months. Registered data must be kept for at least 5 years, a digital log must be maintained, and both the data and the maintenance contract must be producible on request to the supervising authority. The decree was signed on 4 March 2026, published on 20 March 2026 and enters into force on 21 March 2026, the day after publication.",
+   "nl": [
+    "Vlaanderen voegt Cowtoilet (urine-opvangstation, 35% emissiereductie) toe aan de lijst van ammoniakemissiearme stalsystemen",
+    "Een Vlaams ministerieel besluit voegt het urine-opvangstation Cowtoilet voor melk- en kalfkoeien ouder dan 2 jaar toe aan de lijst van ammoniakemissiearme stalsystemen, met een emissiereductie van 35%. Het legt eisen op inzake uitvoering, gebruik, onderhoud en registratie.",
+    "Het besluit betreft veehouders en vergunninghouders met stallen voor melk- en kalfkoeien ouder dan 2 jaar (diercategorie R-1) die het urine-opvangstation Cowtoilet (code R-1.29) als erkend ammoniakemissiearm systeem willen gebruiken. Aan bijlage I van het ministerieel besluit van 19 maart 2004 wordt in hoofdstuk 7 onderafdeling 7.1.31 toegevoegd, met een emissiereductie van 35%. Het systeem vangt de urine op in een station voordat ze met mest of vloer in contact komt en voert ze af naar een aparte afgesloten opslag. De uitvoeringseisen omvatten een roostervloer of dichte vloer, een mestkelder, een met mest besmeurd vloeroppervlak van maximaal 5,5 m² per dierplaats en minstens één station per 25 dieren, gekoppeld aan software voor individuele dierherkenning, met registratieapparatuur. De gebruikseisen omvatten toegang voor alle dieren (behalve bij behandeling, gebruik van de wachtruimte tijdens het melken of weidegang), gemiddeld minstens vijf bezoeken met urinelozing per dier per etmaal, wekelijkse reiniging, dagelijkse controle, een onderhoudscontract en een controle minstens om de 6 maanden. De geregistreerde gegevens moeten minstens 5 jaar worden bewaard, een digitaal logboek moet worden bijgehouden en gegevens en onderhoudscontract moeten op eenvoudige vraag aan de toezichthoudende overheid kunnen worden voorgelegd. Het besluit is gedateerd 4 maart 2026, bekendgemaakt op 20 maart 2026 en treedt in werking op 21 maart 2026, de dag na de bekendmaking."
+   ],
+   "fr": [
+    "La Flandre ajoute le Cowtoilet (station de collecte d'urine, réduction de 35 %) à la liste des systèmes d'étable à faibles émissions d'ammoniac",
+    "Un arrêté ministériel flamand ajoute la station de collecte d'urine Cowtoilet pour vaches laitières et vaches allaitantes de plus de 2 ans à la liste des systèmes d'étable à faibles émissions d'ammoniac, avec une réduction d'émissions de 35 %. Il fixe des exigences de conception, d'utilisation, d'entretien et d'enregistrement.",
+    "L'arrêté concerne les éleveurs et titulaires de permis disposant d'étables pour vaches laitières et vaches à veaux de plus de 2 ans (catégorie animale R-1) qui souhaitent utiliser la station de collecte d'urine Cowtoilet (code R-1.29) comme système reconnu à faibles émissions d'ammoniac. Il ajoute la sous-section 7.1.31 au chapitre 7 de l'annexe I de l'arrêté ministériel du 19 mars 2004, avec une réduction d'émissions de 35 %. Le système recueille l'urine dans une station avant tout contact avec le fumier ou le sol et l'évacue vers un stockage fermé distinct. Les exigences de conception comprennent un sol à caillebotis ou un sol plein, une fosse à fumier, une surface de sol souillée de fumier de 5,5 m² au maximum par place d'animal et au moins une station par 25 animaux, reliée à un logiciel d'identification individuelle des animaux, avec un équipement d'enregistrement. Les exigences d'utilisation comprennent l'accès de tous les animaux (sauf lors d'un traitement, de l'utilisation de la zone d'attente pendant la traite ou du pâturage), en moyenne au moins cinq visites avec miction par animal et par jour, un nettoyage hebdomadaire, un contrôle quotidien, un contrat d'entretien et un contrôle au moins tous les 6 mois. Les données enregistrées doivent être conservées au moins 5 ans, un journal numérique doit être tenu, et les données ainsi que le contrat d'entretien doivent pouvoir être présentés sur simple demande à l'autorité de contrôle. L'arrêté date du 4 mars 2026, a été publié le 20 mars 2026 et entre en vigueur le 21 mars 2026, le lendemain de sa publication."
+   ],
+   "scope": "Ministerieel besluit van 19 maart 2004 (lijst ammoniakemissiearme stalsystemen), bijlage I, hoofdstuk 7: nieuwe onderafdeling 7.1.31 (Cowtoilet – urine-opvangstation, code R-1.29)",
+   "dates": {
+    "adopted": "2026-03-04",
+    "published": "2026-03-20",
+    "in_force": "2026-03-21"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041859&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041859"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041831",
+   "d": "2026-03-04",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Limburg wolf protection zone (schutkring) renewed for 27 municipalities from 1 March to 31 August 2026",
+   "a": "A Flemish ministerial decision renews the Limburg 'schutkring' for wolf damage for six months, from 1 March 2026 to 31 August 2026, covering 27 municipalities. Within it, non-professional cattle and horse keepers can keep applying for subsidies for wolf-proof fencing.",
+   "b": "The decision affects non-professional cattle and horse keepers in the listed Limburg municipalities, and the authorities that handle subsidy applications for wolf-proof measures. Under the Flemish Government decree of 26 November 2021, these keepers can only receive subsidies if a schutkring has been designated. The decision replaces the sole article of the ministerial decision of 3 May 2022 and designates the schutkring for 27 municipalities: As, Balen, Beringen, Bocholt, Bree, Dessel, Dilsen-Stokkem, Geel, Genk, Hamont-Achel, Hechtel-Eksel, Heusden-Zolder, Houthalen-Helchteren, Kinrooi, Lanaken, Leopoldsburg, Lommel, Maaseik, Maasmechelen, Meerhout, Mol, Oudsbergen, Peer, Pelt, Tessenderlo-Ham, Zonhoven and Zutendaal. The designation is based on an evaluation by the Research Institute for Nature and Forest (INBO) of 22 January 2026, which found a wolf pack in the eastern part of the zone and several recent damage cases, including among cattle and horses. The designation applies from 1 March 2026 to 31 August 2026. The decision takes effect on the date of signature, 4 March 2026, and was published on 20 March 2026.",
+   "nl": [
+    "Schutkring Limburg voor wolvenschade verlengd voor 27 gemeenten van 1 maart tot 31 augustus 2026",
+    "Een Vlaams ministerieel besluit verlengt de schutkring Limburg in functie van wolvenschade met zes maanden, van 1 maart 2026 tot en met 31 augustus 2026, voor 27 gemeenten. Binnen die schutkring kunnen niet-professionele rundvee- en paardenhouders verder subsidies aanvragen voor wolfwerende omheiningen.",
+    "Het besluit treft niet-professionele rundvee- en paardenhouders in de opgesomde Limburgse gemeenten en de overheden die de subsidieaanvragen voor wolfwerende maatregelen behandelen. Volgens het besluit van de Vlaamse Regering van 26 november 2021 kunnen deze houders enkel subsidies krijgen als een schutkring is aangeduid. Het besluit vervangt het enige artikel van het ministerieel besluit van 3 mei 2022 en duidt de schutkring aan voor 27 gemeenten: As, Balen, Beringen, Bocholt, Bree, Dessel, Dilsen-Stokkem, Geel, Genk, Hamont-Achel, Hechtel-Eksel, Heusden-Zolder, Houthalen-Helchteren, Kinrooi, Lanaken, Leopoldsburg, Lommel, Maaseik, Maasmechelen, Meerhout, Mol, Oudsbergen, Peer, Pelt, Tessenderlo-Ham, Zonhoven en Zutendaal. De aanduiding steunt op een evaluatie van het Instituut voor Natuur- en Bosonderzoek (INBO) van 22 januari 2026, waaruit een wolvenroedel in het oostelijke deel van de zone en meerdere recente schadegevallen bleken, ook bij runderen en paarden. De aanduiding geldt van 1 maart 2026 tot en met 31 augustus 2026. Het besluit treedt in werking op de datum van ondertekening, 4 maart 2026, en werd op 20 maart 2026 bekendgemaakt."
+   ],
+   "fr": [
+    "Zone de protection (schutkring) Limburg contre les dégâts de loups prolongée pour 27 communes du 1er mars au 31 août 2026",
+    "Un arrêté ministériel flamand prolonge de six mois, du 1er mars 2026 au 31 août 2026, la zone de protection (schutkring) du Limbourg en matière de dégâts causés par le loup, pour 27 communes. Dans cette zone, les détenteurs non professionnels de bovins et de chevaux peuvent continuer à demander des subventions pour des clôtures anti-loups.",
+    "L'arrêté concerne les détenteurs non professionnels de bovins et de chevaux dans les communes limbourgeoises énumérées, ainsi que les autorités qui traitent les demandes de subvention pour les mesures anti-loups. Selon l'arrêté du Gouvernement flamand du 26 novembre 2021, ces détenteurs ne peuvent obtenir de subventions que si une zone de protection (schutkring) a été désignée. L'arrêté remplace l'article unique de l'arrêté ministériel du 3 mai 2022 et désigne la zone de protection pour 27 communes : As, Balen, Beringen, Bocholt, Bree, Dessel, Dilsen-Stokkem, Geel, Genk, Hamont-Achel, Hechtel-Eksel, Heusden-Zolder, Houthalen-Helchteren, Kinrooi, Lanaken, Leopoldsburg, Lommel, Maaseik, Maasmechelen, Meerhout, Mol, Oudsbergen, Peer, Pelt, Tessenderlo-Ham, Zonhoven et Zutendaal. La désignation repose sur une évaluation de l'Institut de recherche sur la nature et la forêt (INBO) du 22 janvier 2026, qui a constaté une meute de loups dans la partie orientale de la zone et plusieurs cas récents de dégâts, y compris sur des bovins et des chevaux. La désignation vaut du 1er mars 2026 au 31 août 2026. L'arrêté entre en vigueur à la date de sa signature, le 4 mars 2026, et a été publié le 20 mars 2026."
+   ],
+   "scope": "Ministerieel besluit van 4 maart 2026 tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade (schutkring Limburg): enig artikel",
+   "dates": {
+    "adopted": "2026-03-04",
+    "published": "2026-03-20",
+    "in_force": "2026-03-04"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041831&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041831"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041830",
+   "d": "2026-03-04",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders extends the Noord-Antwerpen wolf protection zone for subsidies until 31 August 2026",
+   "a": "A ministerial decree renews the Noord-Antwerpen 'schutkring' (protection zone) for wolf damage for 1 March to 31 August 2026, covering 13 municipalities. This keeps subsidies for wolf-proof fencing open to non-professional cattle and horse keepers in the zone.",
+   "b": "The decree affects non-professional cattle and horse keepers in the Noord-Antwerpen area. Under the 2021 Flemish Government decree on wolf-proof measures, they can only receive subsidies if a protection zone has been designated. Professional keepers have a separate route via the VLIF non-productive investment support. The ministerial decree of 3 May 2022 is amended so that the zone applies from 1 March 2026 to 31 August 2026 for Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschat, Kapellen, Stabroek and Antwerpen. The motivation refers to an INBO evaluation of 22 January 2026: one settled solitary female wolf, 15 possible damage cases on small livestock since July 2025, and no confirmed wolf attack on cattle or horses since October 2023. The risk to cattle and large equines is therefore described as currently low. The extension is justified by the continuity of the subsidy and by public support among keepers preparing wolf-proof fencing. The decree entered into force on the date of signing, 4 March 2026, and was published on 20 March 2026.",
+   "nl": [
+    "Vlaanderen verlengt schutkring Noord-Antwerpen voor wolfwerende subsidies tot 31 augustus 2026",
+    "Een ministerieel besluit verlengt de schutkring Noord-Antwerpen in functie van wolvenschade voor de periode 1 maart tot en met 31 augustus 2026 voor 13 gemeenten. Daardoor blijft de subsidie voor wolfwerende omheiningen open voor niet-professionele rundvee- en paardenhouders in deze zone.",
+    "Het besluit treft niet-professionele rundvee- en paardenhouders in de regio Noord-Antwerpen. Krachtens het besluit van de Vlaamse Regering van 26 november 2021 over wolfwerende maatregelen kunnen zij enkel subsidies krijgen als een schutkring is aangeduid. Professionele houders kunnen een beroep doen op de Niet-Productieve Investeringssteun van het VLIF. Het ministerieel besluit van 3 mei 2022 wordt gewijzigd zodat de schutkring van 1 maart 2026 tot en met 31 augustus 2026 geldt voor Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschaat, Kapellen, Stabroek en Antwerpen. De motivering verwijst naar een INBO-evaluatie van 22 januari 2026: één gevestigde solitaire wolvin, 15 mogelijke schadegevallen op kleinvee sinds juli 2025 en geen bevestigde wolfaanval op runderen of paardachtigen sinds oktober 2023. Het risico voor runderen en grote paardachtigen wordt daarom momenteel laag genoemd. De verlenging wordt verantwoord door de continuïteit van de subsidie en het maatschappelijk draagvlak bij houders die een wolfwerende omheining voorbereiden. Het besluit trad in werking op de datum van ondertekening, 4 maart 2026, en werd op 20 maart 2026 bekendgemaakt."
+   ],
+   "fr": [
+    "La Flandre prolonge le cercle de protection Noord-Antwerpen pour les subsides anti-loup jusqu'au 31 août 2026",
+    "Un arrêté ministériel prolonge le « schutkring » (cercle de protection) Noord-Antwerpen en raison des dégâts de loup pour la période du 1er mars au 31 août 2026, pour 13 communes. Les subsides pour les clôtures anti-loup restent ainsi accessibles aux détenteurs non professionnels de bovins et de chevaux dans cette zone.",
+    "L'arrêté concerne les détenteurs non professionnels de bovins et de chevaux dans la région du nord d'Anvers. En vertu de l'arrêté du Gouvernement flamand du 26 novembre 2021 relatif aux mesures anti-loup, ils ne peuvent obtenir des subsides que si un cercle de protection a été désigné. Les détenteurs professionnels peuvent recourir au soutien aux investissements non productifs du VLIF. L'arrêté ministériel du 3 mai 2022 est modifié de sorte que le cercle de protection s'applique du 1er mars 2026 au 31 août 2026 pour Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschaat, Kapellen, Stabroek et Anvers. La motivation renvoie à une évaluation de l'INBO du 22 janvier 2026 : une louve solitaire établie, 15 cas de dégâts possibles sur du petit bétail depuis juillet 2025 et aucune attaque de loup confirmée sur des bovins ou équidés depuis octobre 2023. Le risque pour les bovins et les grands équidés est donc actuellement qualifié de faible. La prolongation est justifiée par la continuité du subside et par l'adhésion des détenteurs qui préparent une clôture anti-loup. L'arrêté est entré en vigueur à la date de sa signature, le 4 mars 2026, et a été publié le 20 mars 2026."
+   ],
+   "scope": "Ministerieel besluit van 4 maart 2026 tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade (schutkring Noord-Antwerpen, enig artikel)",
+   "dates": {
+    "adopted": "2026-03-04",
+    "published": "2026-03-20",
+    "in_force": "2026-03-04"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041830&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041830"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265868",
+   "d": "2026-03-03",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council of State: 1.2 coefficient on sole quota overshoot in Flemish sea fisheries decree is unlawful, sanction annulled",
+   "a": "The Council of State annulled a decision deducting 7,300 kg from a vessel's 2025 sole quota under Article 28 §2 of the Flemish ministerial decree of 20 December 2023. It held that the 1.2 coefficient is an administrative sanction the minister had no power to impose, and set the provision aside under Article 159 of the Constitution.",
+   "b": "The ruling concerns Flemish sea fishing vessel owners whose catch exceeded their allocated quota, and the Flemish administration that applies the quota deduction. The Council of State first accepted jurisdiction, because the challenge was that the ministerial rule itself was unlawful (Article 159 of the Constitution) and not a dispute over an individual right. It held that Article 28 §2 of the ministerial decree of 20 December 2023 goes beyond a mere redistribution of fishing opportunities. Deducting the overshoot multiplied by 1.2 from the next year's quota is a penalty coefficient, so it amounts to an administrative sanction. Article 18 of the Flemish Government decree of 16 December 2005 only allows the minister to restrict, allocate or redistribute catches and to restrict or withdraw fishing licences, so it does not cover this sanction. Articles 89 and 105 of Regulation (EC) No 1224/2009 do not require a 20% penalty coefficient either. The Council therefore set Article 28 §2, first paragraph, aside under Article 159 of the Constitution and annulled the decision of 26 July 2024, which had deducted 7,300 kg from the sole quota for ICES areas VIIf,g in the period 1 January to 30 June 2025. The ruling was delivered on 3 March 2026 and the Flemish Region bears the costs.",
+   "nl": [
+    "Raad van State: coëfficiënt 1,2 bij tongquotumoverschrijding is onwettig, sanctie vernietigd",
+    "De Raad van State vernietigde een beslissing die 7.300 kg in mindering bracht op het tongquotum 2025 op grond van artikel 28, § 2, van het ministerieel besluit van 20 december 2023. Volgens de Raad is de coëfficiënt 1,2 een bestuurlijke sanctie waarvoor de minister niet bevoegd is, en de bepaling wordt buiten toepassing gelaten op grond van artikel 159 van de Grondwet.",
+    "De uitspraak betreft eigenaars van Vlaamse zeevissersvaartuigen die hun toegewezen quotum hebben overschreden, en de Vlaamse administratie die de quotumvermindering toepast. De Raad van State aanvaardde eerst zijn rechtsmacht, omdat de onwettigheid van de ministeriële regeling zelf (artikel 159 van de Grondwet) werd aangevoerd en niet een betwisting over een subjectief recht. Hij oordeelde dat artikel 28, § 2, van het ministerieel besluit van 20 december 2023 verder gaat dan een loutere herverdeling van vangstmogelijkheden. De vermindering van het volgende jaar met de overschrijding vermenigvuldigd met 1,2 is een strafcoëfficiënt en dus een bestuurlijke sanctie. Artikel 18 van het besluit van de Vlaamse regering van 16 december 2005 laat de minister enkel toe de vangst te beperken, toe te wijzen of te herverdelen en de visvergunning te beperken of in te trekken, en dekt die sanctie dus niet. De artikelen 89 en 105 van Verordening (EG) nr. 1224/2009 leggen evenmin een strafcoëfficiënt van 20 % op. De Raad liet artikel 28, § 2, eerste lid, daarom buiten toepassing krachtens artikel 159 van de Grondwet en vernietigde de beslissing van 26 juli 2024, die 7.300 kg in mindering bracht op het tongquotum voor de ICES-gebieden VIIf,g in de periode 1 januari tot 30 juni 2025. Het arrest is uitgesproken op 3 maart 2026 en de kosten komen ten laste van het Vlaamse Gewest."
+   ],
+   "fr": [
+    "Conseil d'État : le coefficient 1,2 en cas de dépassement du quota de sole est illégal, sanction annulée",
+    "Le Conseil d'État a annulé une décision qui déduisait 7.300 kg du quota de sole 2025 sur la base de l'article 28, § 2, de l'arrêté ministériel du 20 décembre 2023. Il juge que le coefficient 1,2 est une sanction administrative que le ministre n'avait pas le pouvoir d'infliger, et écarte la disposition en vertu de l'article 159 de la Constitution.",
+    "L'arrêt concerne les propriétaires de navires de pêche maritime flamands ayant dépassé leur quota et l'administration flamande qui applique la réduction de quota. Le Conseil d'État a d'abord admis sa compétence, car l'illégalité de la réglementation ministérielle elle-même (article 159 de la Constitution) était invoquée, et non un litige sur un droit subjectif. Il a jugé que l'article 28, § 2, de l'arrêté ministériel du 20 décembre 2023 va au-delà d'une simple redistribution des possibilités de capture. La déduction sur le quota de l'année suivante du dépassement multiplié par 1,2 constitue un coefficient de pénalité, donc une sanction administrative. L'article 18 de l'arrêté du Gouvernement flamand du 16 décembre 2005 permet seulement au ministre de limiter, d'attribuer ou de redistribuer les captures et de limiter ou de retirer le permis de pêche, et ne couvre donc pas cette sanction. Les articles 89 et 105 du règlement (CE) n° 1224/2009 n'imposent pas non plus un coefficient de pénalité de 20 %. Le Conseil a dès lors écarté l'article 28, § 2, alinéa 1er, sur la base de l'article 159 de la Constitution et annulé la décision du 26 juillet 2024, qui déduisait 7.300 kg du quota de sole pour les zones CIEM VIIf,g sur la période du 1er janvier au 30 juin 2025. L'arrêt a été rendu le 3 mars 2026 et les dépens sont à charge de la Région flamande."
+   ],
+   "scope": "Raad van State, arrest nr. 265.868 van 3 maart 2026: artikel 28, § 2, ministerieel besluit van 20 december 2023 (tijdelijke aanvullende maatregelen visbestanden 2024), artikel 18 BVR 16 december 2005, artikel 159 Grondwet",
+   "dates": {
+    "adopted": "2026-03-03"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265868. 1. Het beroep, ingesteld op 20 september 2024, stre kt tot de nietigverklaring de beslissing “van 26.07.2",
+     "https://www.raadvst-consetat.be/arresten/265868"
+    ]
+   ],
+   "inbox": [
+    "rvs:265868"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265859",
+   "d": "2026-03-02",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State dismisses annulment action against the 2024 Walloon spatial development scheme (SDT)",
+   "a": "On 2 March 2026 the Council of State rejected the action brought by an association and two cities against the Walloon Government's decree of 23 April 2024 adopting the SDT. It held the environmental impact assessment of the SDT adequate and sufficient, with the appropriate assessment for Natura 2000 deferred to later municipal initiatives.",
+   "b": "The ruling concerns the Walloon spatial development scheme (SDT) adopted definitively on 23 April 2024, which replaced the 1999 regional spatial development scheme. It is relevant to municipalities, project developers and authorities applying the SDT and the Code du développement territorial (CoDT). The Council of State found that the Government could reasonably consider that the SDT is not, by itself, likely to significantly affect Natura 2000 sites in or near its centralities. The appropriate assessment under the nature conservation rules must therefore be carried out at the stage of later municipal or multi-municipal initiatives. The centralities mapped in the SDT only play a supplementary role where no centralities or urbanisation-guiding measures were adopted in a municipal or pluri-municipal scheme within six years of the CoDT's entry into force, apart from existing commercial location permits. The claimants did not show a significant reduction in the level of protection in breach of the standstill obligation in Article 23 of the Constitution, so no question was referred to the Constitutional Court. A preliminary question to the Court of Justice of the EU first raised in the reply memorandum was declared late and inadmissible, which the Council held compatible with the principle of effectiveness. A ground raised by an intervening municipality, alleging that the draft SDT relied on CoDT provisions not yet in force, was inadmissible: it amounted to an error of law, not a matter of public order. The action was dismissed and the SDT stands; costs were allocated to the claimants and interveners.",
+   "nl": [
+    "Raad van State verwerpt het beroep tot nietigverklaring van het Waalse ruimtelijk ontwikkelingsschema (SDT) van 2024",
+    "Op 2 maart 2026 heeft de Raad van State het beroep van een vereniging en twee steden tegen het besluit van de Waalse Regering van 23 april 2024 tot definitieve vaststelling van het SDT verworpen. Het milieueffectenrapport van het SDT werd adequaat en voldoende bevonden, waarbij de passende beoordeling voor Natura 2000 wordt doorgeschoven naar latere gemeentelijke initiatieven.",
+    "Het arrest betreft het Waalse ruimtelijk ontwikkelingsschema (SDT), definitief vastgesteld op 23 april 2024 ter vervanging van het gewestelijk ruimtelijk ontwikkelingsschema van 1999. Het is relevant voor gemeenten, projectontwikkelaars en overheden die het SDT en het Code du développement territorial (CoDT) toepassen. De Raad van State oordeelde dat de Regering redelijkerwijs kon aannemen dat het SDT op zich geen significante gevolgen kan hebben voor Natura 2000-gebieden in of nabij de centraliteiten. De passende beoordeling krachtens de natuurbehoudsregels moet dus gebeuren bij latere gemeentelijke of meergemeentelijke initiatieven. De in het SDT afgebakende centraliteiten hebben slechts een aanvullende rol wanneer binnen zes jaar na de inwerkingtreding van het CoDT geen centraliteiten of sturende maatregelen voor de verstedelijking zijn vastgesteld in een gemeentelijk of meergemeentelijk schema, behoudens bestaande vergunningen voor handelsvestigingen. De verzoekers toonden geen aanzienlijke vermindering van het beschermingsniveau aan in strijd met de standstill-verplichting van artikel 23 van de Grondwet, zodat geen prejudiciële vraag aan het Grondwettelijk Hof werd gesteld. Een prejudiciële vraag aan het Hof van Justitie van de EU, die pas in de wederantwoordnota werd opgeworpen, werd laattijdig en onontvankelijk verklaard, wat volgens de Raad verenigbaar is met het effectiviteitsbeginsel. Een middel van een tussenkomende gemeente, dat het ontwerp-SDT steunde op nog niet in werking getreden CoDT-bepalingen, was onontvankelijk: het kwam neer op een rechtsdwaling en niet op een kwestie van openbare orde. Het beroep werd verworpen en het SDT blijft bestaan; de kosten werden verdeeld over de verzoekende en tussenkomende partijen."
+   ],
+   "fr": [
+    "Le Conseil d'État rejette le recours en annulation du schéma de développement du territoire (SDT) wallon de 2024",
+    "Le 2 mars 2026, le Conseil d'État a rejeté le recours d'une association et de deux villes contre l'arrêté du Gouvernement wallon du 23 avril 2024 adoptant définitivement le SDT. Il a jugé le rapport sur les incidences environnementales adéquat et suffisant, l'évaluation appropriée pour Natura 2000 étant reportée aux initiatives communales ultérieures.",
+    "L'arrêt porte sur le schéma de développement du territoire (SDT) wallon, adopté définitivement le 23 avril 2024 en remplacement du schéma de développement de l'espace régional de 1999. Il intéresse les communes, les porteurs de projets et les autorités qui appliquent le SDT et le Code du développement territorial (CoDT). Le Conseil d'État a jugé que le Gouvernement a pu raisonnablement considérer que le SDT n'est pas susceptible, par lui-même, d'affecter de manière significative des sites Natura 2000 situés dans ou à proximité des centralités. L'évaluation appropriée au regard des règles de conservation de la nature doit donc être réalisée au stade des initiatives communales ou pluricommunales ultérieures. Les centralités cartographiées dans le SDT n'ont qu'un rôle supplétif lorsqu'aucune centralité ni mesure guidant l'urbanisation n'a été adoptée dans un schéma communal ou pluricommunal dans les six ans de l'entrée en vigueur du CoDT, hormis les permis d'implantation commerciale déjà en vigueur. Les parties requérantes n'ont pas établi de réduction significative du degré de protection en méconnaissance de l'obligation de standstill de l'article 23 de la Constitution, de sorte qu'aucune question préjudicielle n'a été posée à la Cour constitutionnelle. Une question préjudicielle à la Cour de justice de l'UE, formulée pour la première fois dans le mémoire en réplique, a été déclarée tardive et irrecevable, ce que le Conseil juge compatible avec le principe d'effectivité. Un moyen d'une commune intervenante, selon lequel le projet de SDT reposait sur des dispositions du CoDT non encore en vigueur, a été jugé irrecevable : il relevait de l'erreur de droit et non de l'ordre public. Le recours est rejeté et le SDT demeure ; les dépens sont répartis entre les parties requérantes et intervenantes."
+   ],
+   "scope": "Conseil d'État, XIIIe chambre, arrêt n° 265.859 du 2 mars 2026 : recours en annulation de l'arrêté du Gouvernement wallon du 23 avril 2024 adoptant le schéma de développement du territoire (CoDT, évaluation des incidences, Natura 2000, article 23 de la Constitution)",
+   "dates": {
+    "adopted": "2026-03-02"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265859. 1. Par une requête introduite le 20 août 2024, les parties requérantes demandent l’annulation de : - l’ar",
+     "https://www.raadvst-consetat.be/arresten/265859"
+    ]
+   ],
+   "inbox": [
+    "rvs:265859"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265854",
+   "d": "2026-02-27",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: plan-EIA rule in DABM protects nature, not farming interests; Ghent green RUP upheld",
+   "a": "The Council of State dismissed the appeal against Ghent's RUP 169 bis (Drongen-Assels), which places private paddocks and meadows in a nature zone. It held that the plan-EIA provision of the Flemish Environmental Policy Decree protects nature interests, so a challenger invoking only agricultural interests cannot rely on it.",
+   "b": "The ruling concerns municipal spatial implementation plans (RUPs) in Flanders and landowners or farmers who challenge the zoning of their land. Three owners, including a stud farm, sought annulment of the Ghent municipal council decision of 22 April 2024 definitively adopting RUP 169 bis for the Drongen-Assels sub-area. Their paddock and meadows were placed in a nature zone. The Council of State confirmed that the duty to hold a public inquiry requires objections to be examined with due care and, where they are not followed, requires the reasons to be made understandable. It added that there is no duty to grant them, that it does not replace the planning authority's assessment, and that the challenger must show concretely why the reply is insufficient. The planning commission's replies were found adequate. The Council also ruled that article 4.2.3 DABM (now 4.3.2), which determines when a plan is subject to environmental assessment, protects nature interests and not agricultural interests. Applicants who invoke only their farming interests therefore cannot rely on it to demand a plan-EIA instead of a screening. As a supplementary point, it found that the screening's premise that the area was not buildable matched the 2005 RUP, which made the zone building-free apart from shelters for grazing livestock. It also noted that a nature zone does not rule out extensive agricultural use. The appeal was dismissed on 27 February 2026 and the applicants bear the costs, each for one third.",
+   "nl": [
+    "Raad van State: plan-MER-regel in DABM beschermt natuur, niet landbouwbelangen; Gents RUP Groen blijft overeind",
+    "De Raad van State verwierp het beroep tegen het Gentse RUP 169 bis (Drongen-Assels), dat private paardenpiste en weides in een zone voor natuur opneemt. Artikel 4.2.3 DABM over de plan-MER-plicht beschermt natuurbelangen, zodat wie enkel landbouwbelangen inroept zich er niet op kan beroepen.",
+    "Het arrest betreft gemeentelijke ruimtelijke uitvoeringsplannen (RUP's) in Vlaanderen en eigenaars of landbouwers die de bestemming van hun gronden betwisten. Drie eigenaars, onder wie een stoeterij, vorderden de nietigverklaring van het besluit van de Gentse gemeenteraad van 22 april 2024 houdende de definitieve vaststelling van RUP 169 bis voor het deelgebied Drongen-Assels. Hun paardenpiste en weides worden daarbij in een zone voor natuur opgenomen. De Raad van State bevestigt dat de verplichting om een openbaar onderzoek te organiseren impliceert dat bezwaren met gepaste zorgvuldigheid worden onderzocht en dat, wanneer ze niet worden gevolgd, afdoende wordt begrijpelijk gemaakt waarom. Er is geen plicht om ze in te willigen, de Raad stelt zijn beoordeling niet in de plaats van die van de planoverheid, en de verzoeker moet concreet aantonen waarom de weerlegging onvoldoende is. De antwoorden van de Gecoro werden afdoende bevonden. De Raad oordeelt ook dat artikel 4.2.3 DABM (thans 4.3.2), dat bepaalt wanneer een plan aan milieueffectrapportage is onderworpen, de natuurbelangen en niet de landbouwbelangen beschermt. Verzoekers die enkel hun landbouwbelangen inroepen, kunnen zich er dus niet op beroepen om een plan-MER in plaats van een screening te eisen. Ten overvloede stelt de Raad vast dat de uitgangspunten van de screening, dat het gebied niet bebouwbaar was, aansluiten bij het RUP van 2005, dat de zone bouwvrij maakte behalve schuilhokken voor grazend vee. Hij wijst er ook op dat een natuurbestemming extensief agrarisch gebruik niet uitsluit. Het beroep werd op 27 februari 2026 verworpen, en de verzoekers dragen de kosten, elk voor een derde."
+   ],
+   "fr": [
+    "Conseil d'État : la règle d'évaluation des incidences des plans du DABM protège la nature, pas l'agriculture ; le PRU vert gantois est maintenu",
+    "Le Conseil d'État a rejeté le recours contre le PRU gantois 169 bis (Drongen-Assels), qui classe une piste équestre et des prairies privées en zone de nature. L'article 4.2.3 du DABM sur l'évaluation des incidences des plans protège les intérêts de la nature ; celui qui n'invoque que des intérêts agricoles ne peut s'en prévaloir.",
+    "L'arrêt concerne les plans d'exécution spatiaux communaux (RUP/PRU) en Flandre et les propriétaires ou agriculteurs qui contestent l'affectation de leurs terrains. Trois propriétaires, dont un haras, demandaient l'annulation de la décision du conseil communal de Gand du 22 avril 2024 arrêtant définitivement le RUP 169 bis pour la zone partielle Drongen-Assels. Leur piste équestre et leurs prairies y sont classées en zone de nature. Le Conseil d'État confirme que l'obligation d'organiser une enquête publique implique d'examiner les réclamations avec la diligence requise et, lorsqu'elles ne sont pas suivies, d'en faire comprendre suffisamment les raisons. Il n'existe aucune obligation d'y faire droit, le Conseil ne substitue pas son appréciation à celle de l'autorité planificatrice, et le requérant doit exposer concrètement en quoi la réfutation est insuffisante. Les réponses de la commission consultative communale (Gecoro) ont été jugées suffisantes. Le Conseil juge aussi que l'article 4.2.3 du DABM (actuellement 4.3.2), qui détermine quand un plan est soumis à une évaluation des incidences sur l'environnement, protège les intérêts de la nature et non ceux de l'agriculture. Les requérants qui n'invoquent que leurs intérêts agricoles ne peuvent donc s'en prévaloir pour exiger un plan-MER au lieu d'un simple screening. À titre surabondant, le Conseil constate que le postulat du screening, selon lequel la zone n'était pas constructible, correspond au RUP de 2005, qui la rendait non bâtissable, sauf des abris pour bétail au pâturage. Il relève encore qu'une affectation en zone de nature n'exclut pas un usage agricole extensif. Le recours a été rejeté le 27 février 2026 et les requérants supportent les dépens, chacun pour un tiers."
+   ],
+   "scope": "Raad van State, arrest nr. 265.854 van 27 februari 2026 – gemeentelijk RUP nr. 169 bis 'Thematisch RUP Groen, deelgebied 700 - Drongen - Assels' (Gent); artikel 4.2.3 (thans 4.3.2) DABM; zorgvuldige behandeling van bezwaren",
+   "dates": {
+    "adopted": "2026-02-27"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265854. 1. Het beroep, ingesteld op 14 augustus 2024, strek t tot de nietigverklaring van het besluit van de geme",
+     "https://www.raadvst-consetat.be/arresten/265854"
+    ]
+   ],
+   "inbox": [
+    "rvs:265854"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265853",
+   "d": "2026-02-27",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: only a RUP's graphic plan and prescriptions are binding, not its explanatory notes",
+   "a": "The Council of State dismissed an annulment appeal against a municipal spatial implementation plan (RUP). It ruled on the binding force of explanatory notes, on undefined terms in prescriptions, and on landowners' interest in invoking plan-EIA and habitat assessment rules.",
+   "b": "The ruling concerns municipalities that adopt RUPs, owners and developers with land inside a plan area, and permit-issuing authorities. The Council held that under Article 2.2.5, §1, second paragraph VCRO only the graphic plan and its urban-planning prescriptions have binding force. Explanatory notes do not, so a defect in them does not in principle invalidate the RUP. An undefined term such as 'hoofdzakelijk' (mainly) does not in itself breach legal certainty, because prescriptions may be flexible and leave permit authorities a reasonable margin of discretion. The principle of equality before public burdens is compensatory, not prohibitive, so it cannot lead to annulment. Spatial-planning restrictions on property are an interference under Article 1 of the First Protocol to the ECHR but are lawful if proportionate, and applicants must engage with the plan's stated reasons to show otherwise. Owners who want to build had no interest in invoking the plan-EIA and appropriate assessment rules (Article 4.2.3, §3 DABM; Articles 26bis and 36ter of the Nature Decree), since those rules aim to limit building and paving in order to protect nature. Being able to rely on the plan's impact assessment in a later permit application does not create such an interest. The appeal against the municipal council decision of 27 February 2024 was dismissed by judgment of 27 February 2026, with costs on the applicants.",
+   "nl": [
+    "Raad van State: enkel grafisch plan en voorschriften van een RUP zijn verordenend, niet de toelichting",
+    "De Raad van State verwierp een beroep tot nietigverklaring van een gemeentelijk ruimtelijk uitvoeringsplan (RUP). Het arrest preciseert de verordenende kracht van toelichtende vermeldingen, niet-gedefinieerde begrippen in voorschriften en het belang om plan-MER- en passende-beoordelingsregels in te roepen.",
+    "Het arrest betreft gemeenten die RUP's vaststellen, eigenaars en ontwikkelaars met gronden in een plangebied en vergunningverlenende overheden. Volgens de Raad hebben op grond van artikel 2.2.5, § 1, tweede lid VCRO enkel het grafisch plan en de bijbehorende stedenbouwkundige voorschriften verordenende kracht. De toelichtende vermeldingen hebben die kracht niet, zodat een gebrek daaraan het RUP in beginsel niet vitieert. Een niet-gedefinieerd begrip zoals 'hoofdzakelijk' schendt op zich het rechtszekerheidsbeginsel niet, want voorschriften mogen flexibel zijn en laten de vergunningverlenende overheid binnen redelijke grenzen een beoordelingsmarge. Het beginsel van de gelijkheid van de burgers voor de openbare lasten heeft een vergoedend en geen verbiedend karakter en kan dus niet tot vernietiging leiden. Eigendomsbeperkingen uit ruimtelijke ordening zijn een inmenging in de zin van artikel 1 van het Eerste Aanvullend Protocol bij het EVRM, maar zijn rechtmatig indien ze evenredig zijn. Verzoekers moeten daarvoor ingaan op de motieven van het plan. Eigenaars die willen bouwen hadden geen belang bij een middel over de plan-MER-plicht en de passende beoordeling (artikel 4.2.3, § 3 DABM; artikelen 26bis en 36ter Natuurdecreet), omdat die regels bebouwing en verharding juist willen beperken ter bescherming van de natuur. De mogelijkheid om bij een latere omgevingsvergunningsaanvraag naar de effectbeoordeling van het plan te verwijzen, schept dat belang niet. Het beroep tegen het besluit van de gemeenteraad van 27 februari 2024 werd bij arrest van 27 februari 2026 verworpen, met de kosten ten laste van de verzoekers."
+   ],
+   "fr": [
+    "Conseil d'État : seuls le plan graphique et les prescriptions d'un RUP sont réglementaires, pas la note explicative",
+    "Le Conseil d'État a rejeté un recours en annulation contre un plan d'exécution spatial communal (RUP). L'arrêt précise la force réglementaire des mentions explicatives, la portée de termes non définis dans les prescriptions et l'intérêt à invoquer les règles relatives au plan-MER et à l'évaluation appropriée.",
+    "L'arrêt concerne les communes qui adoptent des RUP, les propriétaires et développeurs disposant de terrains dans un périmètre de plan et les autorités délivrant les permis. Selon le Conseil, en vertu de l'article 2.2.5, § 1er, alinéa 2 du VCRO (Code flamand de l'aménagement du territoire), seuls le plan graphique et les prescriptions urbanistiques qui l'accompagnent ont force réglementaire. Les mentions explicatives n'ont pas cette force, de sorte qu'un vice qui les affecte n'entache en principe pas le RUP. Un terme non défini comme « hoofdzakelijk » (principalement) ne viole pas en soi le principe de sécurité juridique, car les prescriptions peuvent être flexibles et laisser à l'autorité délivrante une marge d'appréciation raisonnable. Le principe d'égalité des citoyens devant les charges publiques a un caractère indemnitaire et non prohibitif, et ne peut donc conduire à l'annulation. Les restrictions de propriété issues de l'aménagement du territoire constituent une ingérence au sens de l'article 1er du Premier Protocole additionnel à la CEDH, mais sont légales si elles sont proportionnées. Les requérants doivent pour cela s'attaquer aux motifs du plan. Les propriétaires souhaitant bâtir n'avaient pas intérêt à invoquer un moyen relatif à l'obligation de plan-MER et à l'évaluation appropriée (article 4.2.3, § 3 du DABM ; articles 26bis et 36ter du décret sur la conservation de la nature), ces règles visant précisément à limiter le bâti et l'imperméabilisation pour protéger la nature. La possibilité de se référer à l'évaluation des incidences du plan dans une future demande de permis d'environnement ne crée pas cet intérêt. Le recours dirigé contre la décision du conseil communal du 27 février 2024 a été rejeté par arrêt du 27 février 2026, les dépens étant mis à charge des requérants."
+   ],
+   "scope": "Raad van State, arrest nr. 265.853 van 27 februari 2026 – gemeentelijk RUP 'Gedeeltelijke herziening Suikerfabrieksite' (Moerbeke); art. 2.2.5, § 1 VCRO; art. 4.2.3, § 3 DABM; art. 26bis en 36ter Natuurdecreet",
+   "dates": {
+    "adopted": "2026-02-27"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265853. 1. Het beroep, ingesteld op 9 juli 2024, strekt tot de nietigverklaring van het besluit van de gemeentera",
+     "https://www.raadvst-consetat.be/arresten/265853"
+    ]
+   ],
+   "inbox": [
+    "rvs:265853"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265844",
+   "d": "2026-02-27",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "soil"
+   ],
+   "h": "Council of State annuls Holsbeek village-centres RUP for unmotivated deviation from structure plan",
+   "a": "The Council of State annulled the municipal spatial implementation plan (RUP) 'dorpskernen Holsbeek' because it departs from the densification objective of the municipal structure plan (GRS) without the special motivation required by Article 2.1.2 §3 VCRO. The decision that no plan-EIA (plan-MER) was needed was not annulled.",
+   "b": "The ruling concerns municipalities that adopt spatial implementation plans (RUPs) and landowners within a plan area. Owners of plots inside the plan area have in principle the interest required to challenge the plan. The Council found that the directive part of the Holsbeek GRS clearly aims at densifying the village centres of Holsbeek-Centrum and Holsbeek-Plein. The RUP instead pursues no densification, restricts closed building to party-wall situations or replacement of existing closed building, and limits the zones and heights for multi-family dwellings. Under Article 2.1.2 §3 VCRO, a planning authority may depart from the directive part of its structure plan only for unforeseen developments in spatial needs or urgent social, economic or budgetary reasons, and only with a special motivation, which was absent here. The Council therefore annulled the municipal council decision of 28 May 2024 adopting the RUP. It did not annul the 4 August 2023 decision of the Flemish environmental-effects team that no plan-MER was required, because that decision is merely preparatory and the review of the RUP did not establish its illegality. The judgment of 27 February 2026 is to be published by extract in the same way as the annulled decision.",
+   "nl": [
+    "Raad van State vernietigt RUP 'dorpskernen Holsbeek' wegens ongemotiveerde afwijking van het GRS",
+    "De Raad van State vernietigde het gemeentelijk ruimtelijk uitvoeringsplan (RUP) 'dorpskernen Holsbeek' omdat het afwijkt van de verdichtingsdoelstelling van het gemeentelijk ruimtelijk structuurplan (GRS), zonder de bijzondere motivering die artikel 2.1.2, § 3 VCRO vereist. De beslissing dat geen plan-MER nodig was, werd niet vernietigd.",
+    "Het arrest is van belang voor gemeenten die ruimtelijke uitvoeringsplannen (RUP's) vaststellen en voor eigenaars van percelen binnen een plangebied. Eigenaars van percelen binnen het plangebied hebben in beginsel het vereiste belang om het plan te bestrijden. De Raad oordeelde dat het richtinggevend gedeelte van het GRS van Holsbeek duidelijk verdichting van de dorpskernen Holsbeek-Centrum en Holsbeek-Plein vooropstelt. Het RUP streeft daarentegen geen verdichting na, beperkt gesloten bebouwing tot situaties met een wachtgevel of de vervanging van bestaande gesloten bebouwing, en beperkt de zones en de hoogte voor meergezinswoningen. Op grond van artikel 2.1.2, § 3 VCRO mag een plannende overheid enkel van het richtinggevend gedeelte van haar structuurplan afwijken om redenen van onvoorziene ontwikkelingen van de ruimtelijke behoeften of dringende sociale, economische of budgettaire redenen, en mits een bijzondere motivering. Die ontbrak hier. De Raad vernietigde daarom het besluit van de gemeenteraad van 28 mei 2024 houdende de definitieve vaststelling van het RUP. De beslissing van het team Omgevingseffecten van 4 augustus 2023 dat geen plan-MER moest worden opgesteld, werd niet vernietigd, omdat zij louter voorbereidend is en het onderzoek van het RUP de onwettigheid ervan niet aantoonde. Het arrest van 27 februari 2026 moet bij uittreksel worden bekendgemaakt op dezelfde wijze als het vernietigde besluit."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le RUP « dorpskernen Holsbeek » pour écart non motivé par rapport au schéma de structure",
+    "Le Conseil d'État a annulé le plan d'exécution spatial communal (RUP) « dorpskernen Holsbeek » parce qu'il s'écarte de l'objectif de densification du schéma de structure d'aménagement communal (GRS) sans la motivation spéciale exigée par l'article 2.1.2, § 3 du VCRO. La décision selon laquelle aucun plan-MER n'était requis n'a pas été annulée.",
+    "L'arrêt concerne les communes qui adoptent des plans d'exécution spatiaux (RUP) et les propriétaires de parcelles situées dans un périmètre de plan. Les propriétaires de parcelles situées dans le périmètre du plan justifient en principe de l'intérêt requis pour le contester. Le Conseil a constaté que la partie directrice du GRS de Holsbeek vise clairement la densification des noyaux villageois de Holsbeek-Centrum et de Holsbeek-Plein. Le RUP ne poursuit au contraire aucune densification, limite la construction fermée aux situations avec pignon d'attente ou au remplacement d'une construction fermée existante, et restreint les zones et la hauteur pour les habitations multifamiliales. En vertu de l'article 2.1.2, § 3 du VCRO, une autorité planificatrice ne peut s'écarter de la partie directrice de son schéma de structure que pour des développements imprévus des besoins spatiaux ou pour des raisons sociales, économiques ou budgétaires urgentes, et moyennant une motivation spéciale, qui faisait défaut en l'espèce. Le Conseil a donc annulé la décision du conseil communal du 28 mai 2024 portant adoption définitive du RUP. La décision de l'équipe Effets sur l'environnement du 4 août 2023 selon laquelle aucun rapport d'évaluation des incidences sur l'environnement du plan (plan-MER) n'était requis n'a pas été annulée, car elle est purement préparatoire et l'examen du RUP n'a pas établi son illégalité. L'arrêt du 27 février 2026 doit être publié par extrait de la même manière que la décision annulée."
+   ],
+   "scope": "Raad van State, arrest nr. 265.844 van 27 februari 2026 – artikel 2.1.2, § 3 VCRO; gemeentelijk RUP 'dorpskernen Holsbeek'; beslissing plan-MER-screening",
+   "dates": {
+    "adopted": "2026-02-27"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265844. 1. Het beroep, ingesteld op 14 oktober 2024, strekt tot de nietigverklaring van: a. het besluit van de ge",
+     "https://www.raadvst-consetat.be/arresten/265844"
+    ]
+   ],
+   "inbox": [
+    "rvs:265844"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0447",
+   "d": "2026-02-27",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "Carbon dioxide in biocides: exposure limits replace the canister-only restriction in Annex I",
+   "a": "The restriction on carbon dioxide as a biocidal active substance in Annex I, Category 6, of Regulation (EU) No 528/2012 is replaced. The old condition limiting use to ready-for-use gas canisters with a trapping device gives way to exposure limits that apply at product authorisation.",
+   "b": "The change concerns companies seeking authorisation for biocidal products containing carbon dioxide as active substance, and the authorities that assess those applications. The existing restriction, which allows use only in ready-for-use gas canisters working with a trapping device, is removed. In its place, authorisation is subject to three conditions. Professional users' exposure must stay below the acceptable exposure concentration of 1,5 % v/v for the 15-minute short-term limit and 0,5 % v/v for the 8-hour time-weighted average. Exposure of general public users or bystanders must stay below 0,1 % v/v. Where appropriate, users must take the measures described in the summary of product characteristics. The Commission states that this allows broader authorisation of such products while safe use is ensured at the authorisation stage. The Regulation was adopted on 27 February 2026 and enters into force on the twentieth day after its publication in the Official Journal, which is 19 August 2026 on a publication date of 30 July 2026.",
+   "nl": [
+    "Koolstofdioxide in biociden: blootstellingsgrenzen vervangen de beperking tot gascilinders in bijlage I",
+    "De beperking voor koolstofdioxide als werkzame stof in bijlage I, categorie 6, van Verordening (EU) nr. 528/2012 wordt vervangen. De voorwaarde dat alleen gebruiksklare gascilinders met een vangtoestel mogen worden gebruikt, maakt plaats voor blootstellingsgrenzen die bij de toelating van het product gelden.",
+    "De wijziging treft bedrijven die een toelating aanvragen voor biociden met koolstofdioxide als werkzame stof, en de autoriteiten die die aanvragen beoordelen. De bestaande beperking, die het gebruik beperkt tot gebruiksklare gascilinders die samen met een vangtoestel werken, wordt geschrapt. In de plaats komen drie voorwaarden voor de toelating. De blootstelling van professionele gebruikers moet onder de aanvaardbare blootstellingsconcentratie blijven: 1,5 % v/v voor de kortetermijngrenswaarde van 15 minuten en 0,5 % v/v voor het tijdgewogen gemiddelde over 8 uur. De blootstelling van niet-professionele gebruikers of omstanders moet onder 0,1 % v/v blijven. Waar passend moeten gebruikers de maatregelen nemen die in de samenvatting van de productkenmerken staan. Volgens de Commissie maakt dit een bredere toelating van dergelijke producten mogelijk, terwijl het veilige gebruik bij de toelating wordt gewaarborgd. De verordening is aangenomen op 27 februari 2026 en treedt in werking op de twintigste dag na bekendmaking in het Publicatieblad, dit is 19 augustus 2026 bij een bekendmaking op 30 juli 2026."
+   ],
+   "fr": [
+    "Dioxyde de carbone dans les biocides : des limites d'exposition remplacent la restriction aux cartouches de gaz",
+    "La restriction applicable au dioxyde de carbone comme substance active à l'annexe I, catégorie 6, du règlement (UE) no 528/2012 est remplacée. La condition limitant l'usage aux cartouches de gaz prêtes à l'emploi avec dispositif de piégeage cède la place à des limites d'exposition appliquées lors de l'autorisation du produit.",
+    "La modification concerne les entreprises qui demandent l'autorisation de produits biocides contenant du dioxyde de carbone comme substance active, ainsi que les autorités qui évaluent ces demandes. La restriction actuelle, qui limite l'usage aux cartouches de gaz prêtes à l'emploi fonctionnant avec un dispositif de piégeage, est supprimée. Elle est remplacée par trois conditions d'autorisation. L'exposition des utilisateurs professionnels doit rester inférieure à la concentration d'exposition acceptable : 1,5 % v/v pour la valeur limite d'exposition à court terme de 15 minutes et 0,5 % v/v pour la moyenne pondérée dans le temps sur 8 heures. L'exposition du grand public ou des personnes se trouvant à proximité doit rester inférieure à 0,1 % v/v. Le cas échéant, les utilisateurs doivent prendre les mesures décrites dans le résumé des caractéristiques du produit. Selon la Commission, cela permet une autorisation plus large de ces produits tout en garantissant une utilisation sûre au stade de l'autorisation. Le règlement a été adopté le 27 février 2026 et entre en vigueur le vingtième jour suivant sa publication au Journal officiel, soit le 19 août 2026 pour une publication le 30 juillet 2026."
+   ],
+   "scope": "Delegated Regulation (EU) 2026/447 – Annex I, Category 6 of Regulation (EU) No 528/2012: entry for carbon dioxide (EC 204-696-9)",
+   "dates": {
+    "adopted": "2026-02-27",
+    "published": "2026-07-30",
+    "in_force": "2026-08-19"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/447 of 27 February 2026 amending Regulation (EU) No 528/2012 of the European Parliament and of the",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0447"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0447"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d0448",
+   "d": "2026-02-27",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "European List of ship recycling facilities replaced; Belgian facility NV Galloo listed until 2030",
+   "a": "The Commission has replaced the whole Annex to Implementing Decision (EU) 2016/2323 with an updated European List of ship recycling facilities. Ship owners may only use listed facilities for ships destined to be recycled.",
+   "b": "Ship owners must ensure that ships destined to be recycled are recycled only at facilities on the European List (Article 6(2)(a) of Regulation (EU) No 1257/2013). The list covers facilities in Europe (Part A) and in third countries (Part B). The Decision replaces the whole Annex to Implementing Decision (EU) 2016/2323 with a new list. Among other updates, it records the five-year renewal of the authorisation of UAB APK in Lithuania, together with new maximum ship dimensions, and the renewal for DDR Vessels XXI in Spain. The Belgian entry, NV Galloo in Ghent, is listed until 31 March 2030. It may recycle ships up to 366 m long, 49 m wide and with a 14.5 m draught, under tacit approval of the ship recycling plan with a review period of at most 30 days. Its maximum annual output is 34 000 LDT. Each entry carries its own expiry date for inclusion, which follows the expiry of the facility's national authorisation. The Decision was adopted on 27 February 2026 and published on 2 March 2026. It enters into force on the third day after publication, that is 5 March 2026.",
+   "nl": [
+    "Europese lijst van scheepsrecyclinginrichtingen vervangen; Belgische inrichting NV Galloo vermeld tot 2030",
+    "De Commissie heeft de volledige bijlage bij Uitvoeringsbesluit (EU) 2016/2323 vervangen door een geactualiseerde Europese lijst van scheepsrecyclinginrichtingen. Scheepseigenaars mogen voor te recycleren schepen enkel vermelde inrichtingen gebruiken.",
+    "Scheepseigenaars moeten ervoor zorgen dat schepen die bestemd zijn voor recycling uitsluitend worden gerecycleerd in inrichtingen die op de Europese lijst staan (artikel 6, lid 2, punt a, van Verordening (EU) nr. 1257/2013). De lijst omvat inrichtingen in Europa (deel A) en in derde landen (deel B). Het besluit vervangt de volledige bijlage bij Uitvoeringsbesluit (EU) 2016/2323 door een nieuwe lijst. Onder meer wordt de verlenging met vijf jaar van de vergunning van UAB APK in Litouwen opgenomen, samen met nieuwe maximale scheepsafmetingen, alsook de verlenging voor DDR Vessels XXI in Spanje. De Belgische vermelding, NV Galloo te Gent, staat op de lijst tot 31 maart 2030. Zij mag schepen recycleren tot 366 m lengte, 49 m breedte en 14,5 m diepgang, met stilzwijgende goedkeuring van het scheepsrecyclageplan binnen een beoordelingstermijn van maximaal 30 dagen. De maximale jaarlijkse output bedraagt 34 000 LDT. Elke vermelding heeft een eigen vervaldatum voor de opname op de lijst, die volgt op de vervaldatum van de nationale vergunning van de inrichting. Het besluit is aangenomen op 27 februari 2026 en gepubliceerd op 2 maart 2026. Het treedt in werking op de derde dag na de bekendmaking, namelijk op 5 maart 2026."
+   ],
+   "fr": [
+    "Liste européenne des installations de recyclage de navires remplacée ; NV Galloo (Belgique) inscrite jusqu'en 2030",
+    "La Commission a remplacé l'intégralité de l'annexe de la décision d'exécution (UE) 2016/2323 par une liste européenne actualisée des installations de recyclage de navires. Les armateurs ne peuvent recourir qu'à des installations inscrites pour les navires destinés au recyclage.",
+    "Les armateurs doivent veiller à ce que les navires destinés à être recyclés ne le soient que dans des installations figurant sur la liste européenne (article 6, paragraphe 2, point a, du règlement (UE) n° 1257/2013). La liste couvre des installations situées en Europe (partie A) et dans des pays tiers (partie B). La décision remplace l'ensemble de l'annexe de la décision d'exécution (UE) 2016/2323 par une nouvelle liste. Elle enregistre notamment le renouvellement pour cinq ans de l'autorisation d'UAB APK en Lituanie, avec de nouvelles dimensions maximales de navires, ainsi que le renouvellement pour DDR Vessels XXI en Espagne. L'entrée belge, NV Galloo à Gand, est inscrite jusqu'au 31 mars 2030. Elle peut recycler des navires jusqu'à 366 m de longueur, 49 m de largeur et 14,5 m de tirant d'eau, avec approbation tacite du plan de recyclage du navire dans un délai d'examen de 30 jours au maximum. Sa production annuelle maximale est de 34 000 LDT. Chaque entrée comporte sa propre date d'expiration de l'inscription, qui suit l'expiration de l'autorisation nationale de l'installation. La décision a été adoptée le 27 février 2026 et publiée le 2 mars 2026. Elle entre en vigueur le troisième jour suivant sa publication, soit le 5 mars 2026."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/448 amending Implementing Decision (EU) 2016/2323: replacement of the Annex (European List of ship recycling facilities, Parts A and B), under Regulation (EU) No 1257/2013",
+   "dates": {
+    "adopted": "2026-02-27",
+    "published": "2026-03-02",
+    "in_force": "2026-03-05"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/448 of 27 February 2026 amending Implementing Decision (EU) 2016/2323 as regards updates to the E",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0448"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D0448"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041836",
+   "d": "2026-02-27",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders amends Energy Decree: building automation, EPC enforcement, fuel supplier reporting, new fines",
+   "a": "A Flemish omnibus decree amends the Energy Decree of 8 May 2009 and partly transposes the revised EU ETS and Energy Performance of Buildings directives. It extends building automation requirements, tightens energy performance certificate (EPC) and building-data rules, and adds reporting duties with administrative fines.",
+   "b": "The decree affects building owners and users, public bodies, fuel suppliers, energy experts, grid operators and energy suppliers in Flanders, and partly transposes Directive (EU) 2023/959 (EU ETS) and Directive (EU) 2024/1275 (energy performance of buildings). The building automation and control requirement also applies from 31 December 2029 to systems above 70 kW, indoor environmental quality monitoring is added, and VEKA can fine non-compliance EUR 500 to 200,000. The Flemish Government may set minimum energy performance labels for buildings and building units; the minimum level on transfer now covers sale, exchange, donation or contribution to a legal entity, with exceptions for spouses or legal cohabitants and for certain expropriations. Fuel suppliers must report to VEKA at least annually the addresses where they delivered heating oil or propane (fine EUR 500 to 50,000, plus EUR 50 per day after a new deadline). Grid operators may be required to report annual consumption per EAN code of company, non-profit and public buildings, with a EUR 100 per day penalty after notice. Public bodies' building data duties are limited to buildings of at least 250 m² useful floor area. VEKA gets wider powers over energy experts (inspection protocol, new EPCs), and the Flemish Utility Regulator must decide on supply licences and technical documents within 90 days, extendable once by 30 days. Article 33 enters into force on 1 March 2026 and articles 42 and 70 on 8 April 2026; articles 23, 27, 36 and 65 enter into force on a date set by the Flemish Government.",
+   "nl": [
+    "Vlaanderen wijzigt Energiedecreet: gebouwautomatisering, EPC-handhaving, rapportering brandstofleveranciers, boetes",
+    "Een Vlaams omnibusdecreet wijzigt het Energiedecreet van 8 mei 2009 en zet gedeeltelijk de herziene EU ETS-richtlijn en de richtlijn energieprestatie van gebouwen om. Het breidt de eisen voor gebouwautomatisering uit, past de regels voor energieprestatiecertificaten (EPC) en gebouwgegevens aan en voert meldingsplichten met administratieve geldboeten in.",
+    "Het decreet treft gebouweigenaars en -gebruikers, openbare besturen, brandstofleveranciers, energiedeskundigen, netbeheerders en energieleveranciers in Vlaanderen en zet richtlijn (EU) 2023/959 (EU ETS) en richtlijn (EU) 2024/1275 (energieprestatie van gebouwen) gedeeltelijk om. De eis voor gebouwautomatisering en -controle geldt vanaf 31 december 2029 ook voor systemen met een nominaal vermogen van meer dan 70 kW, het monitoren van de binnenmilieukwaliteit komt erbij en het VEKA kan niet-naleving beboeten met 500 tot 200.000 euro. De Vlaamse Regering kan minimale energieprestatielabels opleggen voor gebouwen en gebouweenheden; het minimale energieprestatieniveau bij overdracht geldt nu voor verkoop, ruil, schenking of inbreng in een rechtspersoon, met uitzonderingen voor gehuwden of wettelijk samenwonenden en voor bepaalde onteigeningen. Brandstofleveranciers moeten minstens jaarlijks aan het VEKA de adressen melden waar ze stookolie of propaan hebben geleverd (boete van 500 tot 50.000 euro, plus 50 euro per dag na een nieuwe termijn). Netbeheerders kunnen een meldingsplicht krijgen voor het jaarlijkse energieverbruik per EAN-code van gebouwen van ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen, met een dwangsom van 100 euro per dag na aanmaning. De gegevensplicht van openbare besturen wordt beperkt tot gebouwen met een bruikbare vloeroppervlakte van minstens 250 m². Het VEKA krijgt ruimere bevoegdheden ten aanzien van energiedeskundigen (inspectieprotocol, nieuwe EPC's), en de Vlaamse Nutsregulator moet binnen negentig dagen beslissen over leveringsvergunningen en technische documenten, eenmalig verlengbaar met dertig dagen. Artikel 33 treedt in werking op 1 maart 2026 en artikel 42 en 70 op 8 april 2026; artikel 23, 27, 36 en 65 treden in werking op een datum die de Vlaamse Regering vaststelt."
+   ],
+   "fr": [
+    "La Flandre modifie le Décret Énergie : gestion technique du bâtiment, contrôle des PEB, rapportage des fournisseurs de combustibles, amendes",
+    "Un décret-programme flamand modifie le Décret Énergie du 8 mai 2009 et transpose partiellement les directives révisées SEQE-UE et performance énergétique des bâtiments. Il étend les exigences d'automatisation et de contrôle des bâtiments, adapte les règles sur les certificats de performance énergétique (PEB) et les données des bâtiments, et crée des obligations de déclaration assorties d'amendes administratives.",
+    "Le décret concerne les propriétaires et utilisateurs de bâtiments, les pouvoirs publics, les fournisseurs de combustibles, les experts énergétiques, les gestionnaires de réseau et les fournisseurs d'énergie en Flandre, et transpose partiellement la directive (UE) 2023/959 (SEQE-UE) et la directive (UE) 2024/1275 (performance énergétique des bâtiments). L'exigence d'automatisation et de contrôle des bâtiments s'applique aussi, à partir du 31 décembre 2029, aux systèmes d'une puissance nominale supérieure à 70 kW, le suivi de la qualité de l'environnement intérieur est ajouté et la VEKA peut sanctionner le non-respect d'une amende de 500 à 200.000 euros. Le Gouvernement flamand peut imposer des labels de performance énergétique minimaux pour les bâtiments et unités de bâtiment ; le niveau minimal de performance lors d'un transfert vise désormais la vente, l'échange, la donation ou l'apport à une personne morale, avec des exceptions pour les époux ou cohabitants légaux et pour certaines expropriations. Les fournisseurs de combustibles doivent déclarer à la VEKA, au moins une fois par an, les adresses où ils ont livré du mazout ou du propane (amende de 500 à 50.000 euros, plus 50 euros par jour après un nouveau délai). Les gestionnaires de réseau peuvent se voir imposer une obligation de déclaration de la consommation annuelle par code EAN des bâtiments d'entreprises, d'institutions non commerciales et de personnes morales de droit public, avec une astreinte de 100 euros par jour après mise en demeure. L'obligation de données des pouvoirs publics est limitée aux bâtiments d'une surface utile d'au moins 250 m². La VEKA obtient des pouvoirs accrus à l'égard des experts énergétiques (protocole d'inspection, nouveaux PEB), et le régulateur flamand des services publics (Vlaamse Nutsregulator) doit statuer dans les nonante jours sur les licences de fourniture et les documents techniques, avec une prolongation unique de trente jours. L'article 33 entre en vigueur le 1er mars 2026 et les articles 42 et 70 le 8 avril 2026 ; les articles 23, 27, 36 et 65 entrent en vigueur à une date fixée par le Gouvernement flamand."
+   ],
+   "scope": "Decreet houdende diverse bepalingen inzake energie en klimaat: wijzigingen aan het Energiedecreet van 8 mei 2009 (o.a. art. 7.6.3, 7.7.2, 11.1/1.2, 11.2.1, 11.2/2.1, 12.3.1, 13.4.9/3, 13.4.10, 13.4.18, 13.4.19)",
+   "dates": {
+    "adopted": "2026-02-27",
+    "published": "2026-03-11",
+    "in_force": "2026-03-21"
+   },
+   "u": [
+    [
+     "Decreet houdende diverse bepalingen inzake energie en klimaat",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041836&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041836"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-132007",
+   "d": "2026-02-26",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Wallonia reforms nature conservation law: species derogations, notifications, damage compensation",
+   "a": "A Walloon decree amends the 1973 Nature Conservation Law and Book I of the Environmental Code. It reworks the derogation regime for protected species, adds notification rules for research and monitoring, bans non-selective bird capture methods and puts damage compensation on a new legal basis.",
+   "b": "The decree concerns derogation applicants and holders for protected species, researchers and surveyors, nature reserve managers, municipalities, and farmers, foresters and fish farmers. Derogations are in principle individual and personal. The holder may mandate a third party or transfer the derogation by joint notification, and the transferee then becomes responsible. Applications must show the harm to species and habitats and objective evidence that no satisfactory alternative exists, and an estimated number of specimens is accepted where a precise figure is objectively impossible. The Government may modify a derogation before it expires, holders must file periodic reports (failure can lead to suspension or withdrawal), and an administrative appeal is open against decisions, failures to decide and modifications. Temporary immobilisation of a protected specimen for identification, and sampling of aerial plant parts, for research, education or biological monitoring no longer count as prohibited acts, but they require prior notification, an annual report and, where there is a risk to the specimen, imposed conditions or the full derogation regime. The Government may also require prior notification of activities likely to need a derogation, and the receiving authority may set avoidance or mitigation measures that remove the need for one. Further changes include a ban on massive or non-selective means of capturing or killing birds (new Annex Vbis), a 60-day deemed-favourable opinion from the communal college on nature reserve projects, and a public inquiry with individual notification of owners for communal rules on protected non-game species covering defined perimeters. A new compensation and subsidy scheme for damage caused by protected species to crops, livestock, woodland and fish ponds is also created, within budget limits and with listed exclusions. The decree was published in the Moniteur belge on 23 March 2026 and has been in force since 2 April 2026.",
+   "nl": [
+    "Wallonië hervormt de natuurbehoudswet: afwijkingen voor soorten, meldingen en schadevergoeding",
+    "Een Waals decreet wijzigt de wet van 12 juli 1973 op het natuurbehoud en Boek I van het Milieuwetboek. Het hervormt de afwijkingsregeling voor beschermde soorten, voert meldingsregels in voor onderzoek en monitoring, verbiedt niet-selectieve vangstmethoden voor vogels en geeft de schadevergoeding een nieuwe rechtsgrond.",
+    "Het decreet treft aanvragers en houders van afwijkingen voor beschermde soorten, onderzoekers en inventarisatoren, beheerders van natuurreservaten, gemeenten en landbouwers, bosbouwers en viskwekers. Afwijkingen zijn in beginsel individueel en persoonlijk. De houder kan een derde machtigen of de afwijking overdragen via een gezamenlijke melding, waarna de overnemer verantwoordelijk wordt. Aanvragen moeten de schade aan soorten en habitats aantonen en objectieve elementen bevatten dat er geen andere bevredigende oplossing bestaat. Een schatting van het aantal specimens is toegelaten wanneer een precies aantal objectief onmogelijk is. De Regering kan een afwijking vóór het einde van de geldigheid wijzigen, houders moeten periodiek rapporteren (bij niet-naleving kan schorsing of intrekking volgen) en tegen beslissingen, uitblijven van een beslissing en wijzigingen staat administratief beroep open. Het tijdelijk vasthouden van een beschermd specimen voor identificatie en het nemen van bovengrondse plantendelen voor onderzoek, onderwijs of biologische monitoring gelden niet meer als verboden handelingen, maar vereisen voorafgaande melding, een jaarverslag en, bij risico voor het specimen, opgelegde voorwaarden of de volledige afwijkingsregeling. De Regering kan ook een voorafgaande melding opleggen voor activiteiten waarvoor mogelijk een afwijking nodig is, en de ontvangende overheid kan vermijdings- of milderende maatregelen bepalen waardoor geen afwijking nodig is. Verder komen er een verbod op massale of niet-selectieve middelen voor het vangen of doden van vogels (nieuwe bijlage Vbis), een advies van het gemeentecollege binnen 60 dagen, bij ontstentenis geacht gunstig, over projecten voor natuurreservaten, en een openbaar onderzoek met individuele kennisgeving aan de eigenaars voor gemeentelijke regels over beschermde niet-jachtsoorten binnen afgebakende perimeters. Ten slotte wordt een nieuwe regeling voor vergoeding en subsidie ingevoerd voor schade door beschermde soorten aan gewassen, vee, bossen en visvijvers, binnen de beschikbare kredieten en met opgesomde uitsluitingen. Het decreet werd op 23 maart 2026 in het Belgisch Staatsblad bekendgemaakt en is sinds 2 april 2026 van kracht."
+   ],
+   "fr": [
+    "La Wallonie réforme la loi sur la conservation de la nature : dérogations, notifications, indemnisation",
+    "Un décret wallon modifie la loi du 12 juillet 1973 sur la conservation de la nature et le Livre 1er du Code de l'Environnement. Il réforme le régime des dérogations pour les espèces protégées, instaure des règles de notification pour la recherche et les suivis, interdit les méthodes non sélectives de capture d'oiseaux et donne une nouvelle base à l'indemnisation des dégâts.",
+    "Le décret concerne les demandeurs et titulaires de dérogations pour des espèces protégées, les chercheurs et auteurs d'inventaires, les gestionnaires de réserves naturelles, les communes, ainsi que les exploitants agricoles, forestiers et pisciculteurs. Les dérogations sont en principe individuelles et personnelles. Le titulaire peut mandater un tiers ou céder la dérogation par notification conjointe, le cessionnaire devenant alors responsable. Les demandes doivent exposer les atteintes aux espèces et à leurs habitats et fournir des éléments objectifs démontrant l'absence d'autre solution satisfaisante. Une estimation du nombre de spécimens est admise lorsqu'un chiffre précis est objectivement impossible. Le Gouvernement peut modifier une dérogation avant la fin de sa validité, les titulaires doivent transmettre un rapport périodique (le défaut peut entraîner la suspension ou le retrait) et un recours administratif est ouvert contre les décisions, l'absence de décision et les modifications. L'immobilisation temporaire d'un spécimen protégé pour son identification et le prélèvement de parties aériennes de plantes à des fins de recherche, d'enseignement ou de suivis biologiques ne constituent plus des actes interdits, mais exigent une notification préalable, un rapport annuel et, en cas de risque pour le spécimen, des conditions imposées ou le régime complet de dérogation. Le Gouvernement peut aussi imposer une notification préalable pour les activités susceptibles de requérir une dérogation, et l'autorité qui la reçoit peut déterminer des mesures d'évitement ou d'atténuation dispensant de la dérogation. Le décret interdit en outre les moyens massifs ou non sélectifs de capture ou de mise à mort des oiseaux (nouvelle annexe Vbis). Il prévoit l'avis du collège communal dans les soixante jours, réputé favorable à défaut, sur les projets de réserves naturelles. Il soumet à enquête publique, avec notification individuelle aux propriétaires, les règlements communaux de protection des espèces non-gibiers limités à des périmètres déterminés. Enfin, il crée un régime d'indemnisation et de subvention pour les dommages causés par des espèces protégées aux cultures, animaux, bois et étangs de pisciculture, dans la limite des crédits budgétaires et avec des exclusions énumérées. Le décret a été publié au Moniteur belge le 23 mars 2026 et est en vigueur depuis le 2 avril 2026."
+   ],
+   "scope": "Décret du 26 février 2026 modifiant la loi du 12 juillet 1973 sur la conservation de la nature (notamment art. 2septies, 3, 3ter, 5, 5bis, 33, 41, 42, 58quinquies, 58sexies, annexe Vbis) et le Livre 1er du Code de l'Environnement (art. D29-1)",
+   "dates": {
+    "adopted": "2026-02-26",
+    "published": "2026-03-23",
+    "in_force": "2026-04-02"
+   },
+   "u": [
+    [
+     "Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature et le Livre 1er du Code de l'Environnement",
+     "https://wallex.wallonie.be/eli/loi-decret/2026/02/26/2026002146/2026/04/02"
+    ]
+   ],
+   "inbox": [
+    "wallex:132007"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0544",
+   "d": "2026-02-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: a permit's watertoets reasoning can cover water nuisance under good spatial planning",
+   "a": "The Council for Permit Disputes dismissed an appeal against the environmental permit for the F204 cycle highway along the E411 in Overijse and Hoeilaart. It held that the water-nuisance aspect of the good spatial planning review can be shown by the watertoets reasoning, without a separate entry.",
+   "b": "The ruling concerns permitting authorities, applicants and neighbours who object to infrastructure permits on water or traffic grounds. The Council recalls that a permit must be refused where the Water Code does not allow it (art. 4.3.1, §1, 4° VCRO). It also recalls that the watertoets (art. 1.3.1.1 Water Code and art. 2/1 Watertoetsbesluit) obliges the authority to impose conditions, then repair or compensation measures, and otherwise to refuse. The Council does not replace the authority's watertoets assessment with its own. It checks only whether the facts were correct, carefully assessed and reasonably decided. Here the authority could rely on the applicant's detailed drainage note, which covered infiltration tests, infiltration in the sub-base, wadis, infiltration wells and overflows, and on the favourable advice of the provincial waterways service. An objector who only asserts extra flooding, without addressing these measures, does not show a lack of care. Water effects are a relevant nuisance aspect under art. 4.3.1, §2, first paragraph, 1° VCRO. The Council holds that their assessment may follow from other considerations in the decision, such as the watertoets section, and that requiring a separate entry would be needless formalism. On traffic safety, the Council's review of the authority's broad discretion is marginal. Criticism raised for the first time before the Council, or mere criticism of expediency, does not amount to an illegality. The appeal is dismissed, with the 200 euro roll fee and an 840 euro procedural indemnity charged to the applicant. The ruling was delivered on 26 February 2026 and concerns a permit granted on 26 February 2025.",
+   "nl": [
+    "RvVb: watertoetsmotivering in vergunning kan hinderaspect water onder goede ruimtelijke ordening dekken",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de omgevingsvergunning voor de fietssnelweg F204 langs de E411 in Overijse en Hoeilaart. Hij oordeelt dat de beoordeling van het hinderaspect water onder de goede ruimtelijke ordening kan blijken uit de watertoets, zonder afzonderlijke vermelding.",
+    "Het arrest is van belang voor vergunningverlenende overheden, aanvragers en buren die bezwaar maken tegen infrastructuurvergunningen op grond van water of verkeer. De Raad herinnert eraan dat een vergunning moet worden geweigerd wanneer het Waterwetboek geen vergunning toelaat (artikel 4.3.1, §1, 4° VCRO). Ook herinnert hij eraan dat de watertoets (artikel 1.3.1.1 Waterwetboek en artikel 2/1 Watertoetsbesluit) de overheid verplicht om voorwaarden op te leggen, vervolgens herstel- of compensatiemaatregelen, en anders te weigeren. De Raad stelt zijn eigen beoordeling van de watertoets niet in de plaats van die van de overheid. Hij toetst enkel of de feiten juist zijn, zorgvuldig werden beoordeeld en redelijk werd beslist. Hier kon de overheid steunen op de uitvoerige toelichtingsnota riolering en afwatering van de aanvrager, met infiltratieproeven, infiltratie in de onderfundering, wadi’s, infiltratieputten en overlopen, en op het gunstig advies van de provinciale dienst Waterlopen. Een bezwaarindiener die enkel bijkomende wateroverlast beweert, zonder die maatregelen te bespreken, toont geen onzorgvuldigheid aan. Het effect op de waterhuishouding is een relevant hinderaspect in de zin van artikel 4.3.1, §2, eerste lid, 1° VCRO. Volgens de Raad kan de beoordeling ervan blijken uit andere overwegingen in de beslissing, zoals de watertoets, en is een afzonderlijke vermelding eisen onnodig formalisme. Inzake verkeersveiligheid is de toetsing van de ruime beoordelingsbevoegdheid van de overheid marginaal. Kritiek die voor het eerst bij de Raad wordt geuit, of loutere opportuniteitskritiek, is geen wettigheidskritiek. Het beroep wordt verworpen, met het rolrecht van 200 euro en een rechtsplegingsvergoeding van 840 euro ten laste van de verzoekende partij. Het arrest is uitgesproken op 26 februari 2026 en betreft een vergunning van 26 februari 2025."
+   ],
+   "fr": [
+    "CCA : la motivation du test d’eau d’un permis peut couvrir la nuisance liée à l’eau dans le bon aménagement des lieux",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette le recours contre le permis d’environnement pour la piste cyclable rapide F204 le long de l’E411 à Overijse et Hoeilaart. Il juge que l’appréciation de la nuisance liée à l’eau au titre du bon aménagement des lieux peut ressortir du test d’eau, sans mention distincte.",
+    "L’arrêt intéresse les autorités délivrant les permis, les demandeurs et les voisins qui contestent des permis d’infrastructure pour des motifs liés à l’eau ou à la circulation. Le Conseil rappelle qu’un permis doit être refusé lorsque le Code de l’eau ne permet pas de le délivrer (article 4.3.1, §1er, 4° VCRO). Il rappelle aussi que le test d’eau (article 1.3.1.1 du Code de l’eau et article 2/1 du Watertoetsbesluit) oblige l’autorité à imposer des conditions, puis des mesures de réparation ou de compensation, et à défaut à refuser. Le Conseil ne substitue pas sa propre appréciation du test d’eau à celle de l’autorité. Il vérifie seulement si les faits sont exacts, ont été appréciés avec soin et ont donné lieu à une décision raisonnable. En l’espèce, l’autorité pouvait s’appuyer sur la note détaillée du demandeur relative aux égouts et à l’évacuation des eaux, qui comprenait des essais d’infiltration, l’infiltration dans la sous-fondation, des wadis, des puits d’infiltration et des trop-pleins, ainsi que sur l’avis favorable du service provincial des cours d’eau. L’auteur d’une réclamation qui allègue seulement des inondations supplémentaires, sans discuter ces mesures, ne démontre pas un défaut de soin. L’effet sur la gestion de l’eau est un aspect de nuisance pertinent au sens de l’article 4.3.1, §2, alinéa 1er, 1° VCRO. Selon le Conseil, son appréciation peut ressortir d’autres considérations de la décision, comme le test d’eau, et exiger une mention distincte relève d’un formalisme inutile. En matière de sécurité routière, le contrôle du large pouvoir d’appréciation de l’autorité est marginal. Une critique soulevée pour la première fois devant le Conseil, ou une simple critique d’opportunité, n’est pas une critique de légalité. Le recours est rejeté, le droit de rôle de 200 euros et l’indemnité de procédure de 840 euros étant à charge de la partie requérante. L’arrêt a été prononcé le 26 février 2026 et concerne un permis du 26 février 2025."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0544 – artikel 1.3.1.1 Waterwetboek, artikel 2/1 Watertoetsbesluit en artikel 4.3.1, §1 en §2 VCRO",
+   "dates": {
+    "adopted": "2026-02-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0544. vernietiging van de beslissing van de verwerende partij van 26 februari 2025, wa",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0544.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0544"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
