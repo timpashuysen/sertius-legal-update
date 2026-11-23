@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 1 (char 2816)"
+"write_error": "no JSON in reply"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 5877)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6168)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35163,7 +35163,8 @@
 ],
 "reason": "Changes CO2 emission credit calculation for heavy-duty vehicles; greenhouse gas rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1046"
 },
 "eu:32026R1030": {
 "v": 2,
@@ -35174,7 +35175,8 @@
 ],
 "reason": "Sets greenhouse gas emissions accounting rules for transport services.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1030"
 },
 "eu:32026R0996": {
 "v": 2,
@@ -35365,7 +35367,9 @@
 ],
 "reason": "Cosmetics regulation restricting use of listed chemical substances; chemical restrictions.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Cosmetic ingredient restrictions based solely on consumer health safety; no environmental obligations for companies, project developers or authorities."
 },
 "eu:32026R0908": {
 "v": 2,
@@ -35395,7 +35399,8 @@
 ],
 "reason": "EU position at IMO on ship greenhouse gas and pollution rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1067"
 },
 "eu:32026D1029": {
 "v": 2,
@@ -35407,7 +35412,8 @@
 ],
 "reason": "EU position on MARPOL amendments covering ship pollution and emissions.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1029"
 },
 "eu:32026D1010": {
 "v": 2,
@@ -35508,7 +35514,8 @@
 ],
 "reason": "Amends general Flemish subsidy rules for environmental, climate and biodiversity measures.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042024"
 },
 "codex:1041991": {
 "v": 2,
@@ -35627,7 +35634,8 @@
 ],
 "reason": "Sets Member State limits for greenhouse gas removals from land use, 2026-2029.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r0893"
 },
 "eu:32026D0961": {
 "v": 2,
@@ -35674,7 +35682,8 @@
 ],
 "reason": "Sets Member State annual emission allocations for 2026-2030, climate rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d0895"
 },
 "codex:1042044": {
 "v": 2,
@@ -35694,7 +35703,8 @@
 ],
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"write_error": "Unterminated string starting at: line 14 column 5 (char 5485)"
 },
 "codex:1042027": {
 "v": 2,
@@ -35723,7 +35733,8 @@
 ],
 "reason": "Rules for the register of unbuilt plots, a spatial planning instrument.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042020"
 },
 "codex:1042019": {
 "v": 2,
@@ -35752,7 +35763,8 @@
 ],
 "reason": "Creates Flemish fund for extended producer responsibility.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042010"
 },
 "codex:1042009": {
 "v": 2,
@@ -35782,7 +35794,8 @@
 ],
 "reason": "Amends CO2 pipeline transport decree, affecting infrastructure operation rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042004"
 },
 "codex:1042000": {
 "v": 2,
@@ -64623,14 +64636,14 @@
 },
 "writer": {
 "this_run": 10,
-"found_not_relevant_on_reading": 2,
-"failed": 2,
-"waiting": 434,
+"found_not_relevant_on_reading": 1,
+"failed": 3,
+"waiting": 423,
 "api": {
 "calls": 14,
-"input_tokens": 191143,
-"output_tokens": 35875,
-"usd": 0.741
+"input_tokens": 125414,
+"output_tokens": 49231,
+"usd": 0.7431
 },
 "updated": "2026-11-23"
 }

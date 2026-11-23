@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:23:26Z",
+ "updated": "2026-11-23T05:34:16Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -16285,6 +16285,428 @@
    ],
    "inbox": [
     "eu:52026PC0183"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1046",
+   "d": "2026-04-29",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU lets heavy-duty vehicle makers earn more CO2 emission credits for 2025–2029; targets unchanged",
+   "a": "Regulation (EU) 2026/1046 changes how emission credits are calculated for the 2025–2029 reporting periods under the CO2 standards for new heavy-duty vehicles. The CO2 reduction targets themselves stay the same.",
+   "b": "The Regulation concerns manufacturers subject to Regulation (EU) 2019/1242 on CO2 emission performance standards for new heavy-duty vehicles. According to its recitals, it does not apply to urban buses. It rewrites Article 7(1)(a), so that for the reporting periods 2025 to 2029 emission credits are calculated against the 2025 trajectory level instead of each year's reduction trajectory. Periods outside 2025–2029 keep the existing trajectory-based calculation. The recitals explain that credits are meant to be collected when specific emissions are below the target rather than below the trajectory, which gives manufacturers more credits before the 2030 targets apply. Point 5.2 of Annex I is also amended: its table is replaced and new terms ET2025(NO) and ET2025(M) are introduced for the 2025–2029 period. The Regulation was adopted on 29 April 2026 and published on 7 May 2026. It enters into force on the twentieth day after publication, i.e. 27 May 2026.",
+   "nl": [
+    "EU geeft fabrikanten van zware bedrijfsvoertuigen meer CO2-emissiekredieten voor 2025–2029; doelen ongewijzigd",
+    "Verordening (EU) 2026/1046 wijzigt de berekening van emissiekredieten voor de rapporteringsperioden 2025 tot en met 2029 onder de CO2-normen voor nieuwe zware bedrijfsvoertuigen. De CO2-reductiedoelstellingen zelf blijven ongewijzigd.",
+    "De verordening betreft fabrikanten die onder Verordening (EU) 2019/1242 vallen (CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen). Volgens de overwegingen is zij niet van toepassing op stadsbussen. Artikel 7, lid 1, onder a), wordt herschreven: voor de rapporteringsperioden 2025 tot en met 2029 worden emissiekredieten berekend ten opzichte van het niveau van het reductietraject voor 2025 in plaats van het reductietraject van elk jaar. Voor perioden buiten 2025–2029 blijft de bestaande berekening op basis van het reductietraject gelden. Volgens de overwegingen moeten kredieten worden verzameld wanneer de specifieke emissies onder het streefcijfer liggen in plaats van onder het reductietraject, zodat fabrikanten vóór de doelstellingen van 2030 meer kredieten kunnen opbouwen. Ook punt 5.2 van bijlage I wordt gewijzigd: de tabel wordt vervangen en er worden nieuwe termen ET2025(NO) en ET2025(M) ingevoerd voor de periode 2025–2029. De verordening is aangenomen op 29 april 2026 en bekendgemaakt op 7 mei 2026. Zij treedt in werking op de twintigste dag na bekendmaking, dus op 27 mei 2026."
+   ],
+   "fr": [
+    "L'UE accorde aux constructeurs de poids lourds plus de crédits d'émission de CO2 pour 2025-2029; objectifs inchangés",
+    "Le règlement (UE) 2026/1046 modifie le calcul des crédits d'émission pour les périodes de communication 2025 à 2029 dans le cadre des normes de CO2 applicables aux véhicules utilitaires lourds neufs. Les objectifs de réduction de CO2 restent inchangés.",
+    "Le règlement concerne les constructeurs soumis au règlement (UE) 2019/1242 fixant des normes de performance en matière d'émissions de CO2 pour les véhicules utilitaires lourds neufs. Selon les considérants, il ne s'applique pas aux autobus urbains. L'article 7, paragraphe 1, point a), est réécrit: pour les périodes de communication 2025 à 2029, les crédits d'émission sont calculés par rapport au niveau de la trajectoire de réduction de 2025 plutôt que par rapport à la trajectoire de chaque année. Pour les périodes hors 2025-2029, le calcul actuel fondé sur la trajectoire de réduction demeure. Selon les considérants, les crédits doivent être collectés lorsque les émissions spécifiques sont inférieures à l'objectif plutôt qu'à la trajectoire de réduction, ce qui permet aux constructeurs d'accumuler davantage de crédits avant les objectifs de 2030. Le point 5.2 de l'annexe I est également modifié: son tableau est remplacé et de nouveaux termes ET2025(NO) et ET2025(M) sont introduits pour la période 2025-2029. Le règlement a été adopté le 29 avril 2026 et publié le 7 mai 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 27 mai 2026."
+   ],
+   "scope": "Regulation (EU) 2019/1242 (CO2 standards for new heavy-duty vehicles): Article 7(1)(a) and Annex I, point 5.2, as amended by Regulation (EU) 2026/1046",
+   "dates": {
+    "adopted": "2026-04-29",
+    "published": "2026-05-07",
+    "in_force": "2026-05-27"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/1046 of the European Parliament and of the Council of 29 April 2026 amending Regulation (EU) 2019/1242 as regards the c",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1046"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1046"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1030",
+   "d": "2026-04-29",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU Regulation 2026/1030 sets a common method and verification for GHG accounting of transport services",
+   "a": "Regulation (EU) 2026/1030 sets common rules, based on EN ISO 14083:2023, for calculating and disclosing greenhouse gas emissions of transport services that start or end in the EU. It also introduces EU default-value databases, certification of external calculation tools and third-party verification.",
+   "b": "The Regulation covers transport services starting or ending on EU territory where disaggregated emissions data are calculated and disclosed on a contractual or voluntary commercial basis, or where Union or national law requires it. It applies to transport operators, transport service organisers, hub operators, data intermediaries, developers of calculation tools and third-party databases, and conformity assessment bodies. Emissions must be calculated under EN ISO 14083:2023. Primary data take priority, and secondary data are allowed only from the Commission's core and central Union databases, from third-party databases that passed a Commission quality check, or from compliant models. Output data must give total CO2e per service plus at least one common metric (for example per tonne-kilometre or per passenger-kilometre) and carry the statement 'Greenhouse gas emissions calculated in accordance with Regulation (EU) 2026/1030'. Entities other than SMEs that calculate emissions must have their output data verified by an accredited conformity assessment body; SMEs may request verification. External calculation tools need a two-year certificate from such a body. The Commission must set up the central database of emission factors by 2 June 2028 and the core database of emission intensities by 2 December 2029. By 2 June 2030 it must adopt implementing acts on the free EU calculation tool and on the quality check of third-party databases, which becomes mandatory from 3 December 2031. Updated default values must be used for new output data within 18 months of publication, and the Commission must assess the need to adjust the EN ISO standard by 3 December 2033.",
+   "nl": [
+    "Verordening (EU) 2026/1030 voorziet in een gemeenschappelijke methode en verificatie voor de broeikasgasboekhouding van vervoersdiensten",
+    "Verordening (EU) 2026/1030 stelt gemeenschappelijke regels vast, gebaseerd op EN ISO 14083:2023, voor het berekenen en bekendmaken van de broeikasgasemissies van vervoersdiensten die in de EU beginnen of eindigen. Ze voert ook EU-databanken met standaardwaarden, certificering van externe rekentools en verificatie door derden in.",
+    "De verordening geldt voor vervoersdiensten die op het grondgebied van de Unie beginnen of eindigen, wanneer gedetailleerde emissiegegevens op contractuele of vrijwillige commerciële basis worden berekend en bekendgemaakt, of wanneer het Unie- of nationaal recht dit vereist. Ze is van toepassing op vervoerders, organisatoren van vervoersdiensten, hubexploitanten, gegevenstussenpersonen, ontwikkelaars van rekentools en van databanken van derden, en conformiteitsbeoordelingsinstanties. De emissies moeten worden berekend volgens EN ISO 14083:2023. Primaire gegevens krijgen voorrang; secundaire gegevens zijn alleen toegestaan uit de kern- en centrale databank van de Unie, uit databanken van derden die de kwaliteitscontrole van de Commissie hebben doorstaan, of uit conforme modellen. De outputgegevens bevatten de totale CO2e per dienst en minstens één gemeenschappelijke maatstaf (bijvoorbeeld per tonkilometer of per passagierskilometer) en vermelden de zin 'Greenhouse gas emissions calculated in accordance with Regulation (EU) 2026/1030'. Andere entiteiten dan kmo's die emissies berekenen, moeten hun outputgegevens laten verifiëren door een geaccrediteerde conformiteitsbeoordelingsinstantie; kmo's kunnen om verificatie verzoeken. Externe rekentools hebben een certificaat van twee jaar van zo'n instantie nodig. De Commissie moet uiteruiterlijk 2 juni 2028 de centrale databank met emissiefactoren en uiterlijk 2 december 2029 de kerndatabank met emissie-intensiteiten opzetten. Uiterlijk 2 juni 2030 moet ze uitvoeringshandelingen vaststellen over de gratis EU-rekentool en over de kwaliteitscontrole van databanken van derden, die verplicht wordt vanaf 3 december 2031. Bijgewerkte standaardwaarden moeten binnen 18 maanden na bekendmaking worden gebruikt voor nieuwe outputgegevens, en de Commissie moet uiterlijk 3 december 2033 beoordelen of de EN ISO-norm moet worden aangepast."
+   ],
+   "fr": [
+    "Le règlement (UE) 2026/1030 fixe une méthode commune et une vérification pour la comptabilisation des GES des prestations de transport",
+    "Le règlement (UE) 2026/1030 établit des règles communes, fondées sur la norme EN ISO 14083:2023, pour calculer et communiquer les émissions de gaz à effet de serre des prestations de transport qui débutent ou se terminent dans l'UE. Il instaure aussi des bases de données de valeurs par défaut de l'UE, la certification des outils de calcul externes et une vérification par des tiers.",
+    "Le règlement vise les prestations de transport qui débutent ou se terminent sur le territoire de l'Union, lorsque des données d'émissions désagrégées sont calculées et communiquées sur une base contractuelle ou volontaire à des fins commerciales, ou lorsque le droit de l'Union ou national l'exige. Il s'applique aux transporteurs, aux organisateurs de prestations de transport, aux exploitants de plateformes, aux intermédiaires de données, aux développeurs d'outils de calcul et de bases de données de tiers, ainsi qu'aux organismes d'évaluation de la conformité. Les émissions doivent être calculées selon la norme EN ISO 14083:2023. Les données primaires sont prioritaires; les données secondaires ne sont admises que si elles proviennent des bases de données centrale et principale de l'Union, de bases de tiers ayant réussi le contrôle de qualité de la Commission, ou de modèles conformes. Les données de sortie comprennent le total en CO2e par prestation et au moins un indicateur commun (par exemple par tonne-kilomètre ou par passager-kilomètre) et portent la mention « Greenhouse gas emissions calculated in accordance with Regulation (EU) 2026/1030 ». Les entités autres que les PME qui calculent des émissions doivent faire vérifier leurs données de sortie par un organisme d'évaluation de la conformité accrédité; les PME peuvent demander cette vérification. Les outils de calcul externes requièrent un certificat de deux ans délivré par un tel organisme. La Commission doit créer la base de données centrale des facteurs d'émission d'ici le 2 juin 2028 et la base de données principale des intensités d'émission d'ici le 2 décembre 2029. D'ici le 2 juin 2030, elle doit adopter des actes d'exécution sur l'outil de calcul gratuit de l'UE et sur le contrôle de qualité des bases de données de tiers, obligatoire à partir du 3 décembre 2031. Les valeurs par défaut mises à jour doivent être utilisées pour les nouvelles données de sortie dans les 18 mois suivant leur publication, et la Commission doit évaluer au plus tard le 3 décembre 2033 la nécessité d'adapter la norme EN ISO."
+   ],
+   "scope": "Regulation (EU) 2026/1030 on the greenhouse gas emissions accounting of transport services: Articles 1-16 (scope, methodology, input data, output data, tool certification, verification, accreditation)",
+   "dates": {
+    "adopted": "2026-04-29",
+    "published": "2026-05-12"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/1030 of the European Parliament and of the Council of 29 April 2026 on the greenhouse gas emissions accounting of trans",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1030"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1030"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1067",
+   "d": "2026-04-27",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate",
+    "permitting"
+   ],
+   "h": "Council sets EU position for IMO MEPC 84 on the Net-Zero Framework for ship greenhouse gas emissions",
+   "a": "The Council has set the position the Member States must express jointly for the EU at the 84th IMO Marine Environment Protection Committee (27 April to 1 May 2026). It concerns amendments to MARPOL Annex VI on greenhouse gas emissions from ships, including the IMO Net-Zero Framework.",
+   "b": "The Decision is addressed to the Member States, which are all IMO members and must express the EU position jointly at MEPC 84. It places no direct obligations on companies. Draft MARPOL Annex VI amendments on ship GHG emissions, if adopted later, could influence Regulations (EU) 2015/757 and (EU) 2023/1805 and Directive 2003/87/EC (EU ETS). The Member States must act in line with the Paris Agreement, the 2023 IMO GHG Strategy and EU climate neutrality by 2050. They must oppose attempts to remove the Net-Zero Framework from further consideration at MEPC. They must engage in amendments aimed at the widest possible support, provided the amendments gather sufficiently broad support and the final package delivers all the goals of the 2023 IMO GHG Strategy. They must also support adoption of the final package together with the tacit acceptance procedure. The Decision complements Decision (EU) 2025/2093, which stays applicable until the end of MEPC/ES.2 unless amended or repealed. MEPC 84 runs from 27 April to 1 May 2026, and the Decision entered into force on its adoption on 27 April 2026.",
+   "nl": [
+    "Raad bepaalt EU-standpunt voor IMO MEPC 84 over het Net-Zero Framework voor broeikasgasemissies van schepen",
+    "De Raad heeft het standpunt vastgesteld dat de lidstaten gezamenlijk namens de EU moeten verwoorden op de 84e zitting van de IMO-Commissie voor de bescherming van het mariene milieu (27 april tot 1 mei 2026). Het gaat om wijzigingen van bijlage VI bij MARPOL over broeikasgasemissies van schepen, waaronder het IMO Net-Zero Framework.",
+    "Het besluit is gericht aan de lidstaten, die allen IMO-lid zijn en op MEPC 84 gezamenlijk het EU-standpunt moeten verwoorden. Het legt bedrijven geen rechtstreekse verplichtingen op. Ontwerpwijzigingen van bijlage VI bij MARPOL over broeikasgasemissies van schepen kunnen, indien ze later worden aangenomen, Verordening (EU) 2015/757, Verordening (EU) 2023/1805 en Richtlijn 2003/87/EG (EU-ETS) beïnvloeden. De lidstaten moeten handelen in lijn met de Overeenkomst van Parijs, de IMO-strategie 2023 inzake broeikasgassen en de EU-doelstelling van klimaatneutraliteit tegen 2050. Ze moeten pogingen verwerpen om het Net-Zero Framework van verdere behandeling in de MEPC uit te sluiten. Ze moeten deelnemen aan besprekingen over wijzigingen die een zo breed mogelijke steun beogen, op voorwaarde dat de wijzigingen voldoende brede steun krijgen en het eindpakket alle doelstellingen van de IMO-strategie 2023 verwezenlijkt. Ze moeten ook steunen dat het eindpakket wordt aangenomen samen met de procedure van stilzwijgende aanvaarding. Het besluit vult Besluit (EU) 2025/2093 aan, dat van toepassing blijft tot het einde van MEPC/ES.2, tenzij het wordt gewijzigd of ingetrokken. MEPC 84 loopt van 27 april tot 1 mei 2026 en het besluit is in werking getreden op de datum van aanneming, 27 april 2026."
+   ],
+   "fr": [
+    "Le Conseil fixe la position de l'UE pour le MEPC 84 de l'OMI sur le cadre Net-Zero pour les émissions de GES des navires",
+    "Le Conseil a arrêté la position que les États membres doivent exprimer conjointement au nom de l'UE à la 84e session du comité de la protection du milieu marin de l'OMI (du 27 avril au 1er mai 2026). Elle porte sur les amendements à l'annexe VI de MARPOL relatifs aux émissions de gaz à effet de serre des navires, dont le cadre Net-Zero de l'OMI.",
+    "La décision s'adresse aux États membres, qui sont tous membres de l'OMI et doivent exprimer conjointement la position de l'UE au MEPC 84. Elle n'impose aucune obligation directe aux entreprises. Les projets d'amendements à l'annexe VI de MARPOL sur les émissions de GES des navires pourraient, s'ils sont adoptés ultérieurement, influencer les règlements (UE) 2015/757 et (UE) 2023/1805 ainsi que la directive 2003/87/CE (SEQE-UE). Les États membres doivent agir conformément à l'accord de Paris, à la stratégie de l'OMI de 2023 sur les GES et à l'objectif de neutralité climatique de l'UE d'ici 2050. Ils doivent s'opposer à toute tentative d'écarter le cadre Net-Zero de la poursuite de l'examen au sein du MEPC. Ils doivent participer aux discussions sur les amendements visant le soutien le plus large possible, à condition que ceux-ci recueillent un soutien suffisamment large et que le paquet final réalise tous les objectifs de la stratégie de l'OMI de 2023. Ils doivent aussi soutenir que l'adoption du paquet final soit accompagnée de la procédure d'acceptation tacite. La décision complète la décision (UE) 2025/2093, qui reste applicable jusqu'à la fin du MEPC/ES.2, sauf modification ou abrogation. Le MEPC 84 se tient du 27 avril au 1er mai 2026 et la décision est entrée en vigueur à la date de son adoption, le 27 avril 2026."
+   ],
+   "scope": "Council Decision (EU) 2026/1067 – EU position at IMO MEPC 84 on amendments to MARPOL Annex VI (ship GHG emissions, IMO Net-Zero Framework), Articles 1–3 and Annex",
+   "dates": {
+    "adopted": "2026-04-27",
+    "published": "2026-05-12",
+    "in_force": "2026-04-27"
+   },
+   "u": [
+    [
+     "Council Decision (EU) 2026/1067 of 27 April 2026 on the position to be taken on behalf of the European Union within the Marine Environment P",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1067"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1067"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1029",
+   "d": "2026-04-27",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate",
+    "permitting"
+   ],
+   "h": "Council fixes EU position on IMO amendments, incl. a North-East Atlantic Emission Control Area under MARPOL",
+   "a": "The Council instructs the Member States to agree, on behalf of the EU, to MARPOL Annex VI amendments at MEPC 84 and to SOLAS and related code amendments at MSC 111. The MARPOL package covers a new North-East Atlantic Emission Control Area, access to the IMO fuel oil consumption database and the review clause of the short-term GHG measure.",
+   "b": "The decision sets the position the Member States, including Belgium, must express jointly for the EU at the IMO. It imposes no direct obligations on companies; it concerns shipping rules that feed into EU law on marine fuel sulphur, maritime MRV, ETS and FuelEU Maritime. At MEPC 84 (27 April to 1 May 2026) the position is to agree to amendments to MARPOL Annex VI regulations 13 and 14 and appendix VII (designation of the North-East Atlantic as an Emission Control Area). It is also to agree to amendments to regulations 20, 25, 27 and 28 (accessibility of the IMO Ship Fuel Oil Consumption Database and the review clause of the short-term GHG reduction measure). At MSC 111 (13 to 22 May 2026) the position is to agree to amendments to SOLAS chapters IV and V and the certificates appendix, the 1994 and 2000 HSC Codes, the 2011 ESP Code, the LSA Code and Annex B to the 1988 Load Lines Protocol. These cover VHF Data Exchange System messaging, remote survey techniques, free-fall lifeboats and deck guard rails. The position covers the amendments only to the extent that they fall within exclusive EU competence and may affect EU common rules, and minor changes can be agreed without a new Council decision. Member States are authorised to consent to be bound by the amendments to that extent. The decision entered into force on its adoption on 27 April 2026.",
+   "nl": [
+    "Raad bepaalt EU-standpunt over IMO-wijzigingen, o.m. een emissiecontrolegebied in de Noordoost-Atlantische Oceaan",
+    "De Raad draagt de lidstaten op om namens de EU in te stemmen met wijzigingen van Marpol-bijlage VI op MEPC 84 en met wijzigingen van SOLAS en aanverwante codes op MSC 111. Het Marpol-pakket betreft een nieuw emissiecontrolegebied in de Noordoost-Atlantische Oceaan, de toegankelijkheid van de IMO-database voor brandstofverbruik en de herzieningsclausule van de kortetermijnmaatregel voor broeikasgassen.",
+    "Het besluit legt het standpunt vast dat de lidstaten, waaronder België, gezamenlijk namens de EU bij de IMO moeten innemen. Het legt geen rechtstreekse verplichtingen op aan bedrijven; het gaat om scheepvaartregels die doorwerken in het EU-recht over zwavel in scheepsbrandstoffen, MRV voor het zeevervoer, ETS en FuelEU Maritime. Op MEPC 84 (27 april tot 1 mei 2026) moet het standpunt instemmen met wijzigingen van de regels 13 en 14 en aanhangsel VII van Marpol-bijlage VI (aanwijzing van de Noordoost-Atlantische Oceaan als emissiecontrolegebied). Ook moet het instemmen met wijzigingen van de regels 20, 25, 27 en 28 (toegankelijkheid van de IMO-database voor brandstofverbruik van schepen en de herzieningsclausule van de kortetermijnmaatregel voor de vermindering van broeikasgassen). Op MSC 111 (13 tot 22 mei 2026) moet het standpunt instemmen met wijzigingen van de hoofdstukken IV en V en het aanhangsel (certificaten) van SOLAS, de HSC-codes 1994 en 2000, de ESP-code 2011, de LSA-code en bijlage B bij het Protocol van 1988 bij het Verdrag inzake de beladingsgrens. Deze betreffen onder meer berichtgeving via het VHF Data Exchange System, inspecties op afstand, vrijevalreddingsboten en dekleuningen. Het standpunt geldt alleen voor zover de wijzigingen onder de exclusieve bevoegdheid van de Unie vallen en de gemeenschappelijke EU-regels kunnen beïnvloeden; kleine aanpassingen kunnen zonder nieuw besluit van de Raad worden overeengekomen. De lidstaten mogen in die mate toestemming geven om door de wijzigingen gebonden te zijn. Het besluit is op 27 april 2026, de datum van vaststelling, in werking getreden."
+   ],
+   "fr": [
+    "Le Conseil fixe la position de l'UE sur des amendements OMI, dont une zone de contrôle des émissions dans l'Atlantique du Nord-Est",
+    "Le Conseil charge les États membres d'approuver, au nom de l'UE, des amendements à l'annexe VI de MARPOL lors du MEPC 84 et des amendements à SOLAS et aux recueils connexes lors du MSC 111. Le volet MARPOL porte sur une nouvelle zone de contrôle des émissions dans l'Atlantique du Nord-Est, l'accessibilité de la base de données OMI sur la consommation de combustible et la clause de réexamen de la mesure à court terme sur les gaz à effet de serre.",
+    "La décision fixe la position que les États membres, dont la Belgique, doivent exprimer conjointement au nom de l'UE à l'OMI. Elle n'impose pas d'obligations directes aux entreprises; elle concerne des règles maritimes qui alimentent le droit de l'UE sur la teneur en soufre des combustibles marins, le MRV maritime, le SEQE et FuelEU Maritime. Lors du MEPC 84 (27 avril au 1er mai 2026), la position consiste à approuver des amendements aux règles 13 et 14 et à l'appendice VII de l'annexe VI de MARPOL (désignation de l'Atlantique du Nord-Est comme zone de contrôle des émissions). Elle consiste aussi à approuver des amendements aux règles 20, 25, 27 et 28 (accessibilité de la base de données OMI sur la consommation de combustible des navires et clause de réexamen de la mesure à court terme de réduction des émissions de gaz à effet de serre). Lors du MSC 111 (13 au 22 mai 2026), la position consiste à approuver des amendements aux chapitres IV et V et à l'appendice (certificats) de SOLAS, aux recueils HSC de 1994 et 2000, au recueil ESP de 2011, au recueil LSA et à l'annexe B du Protocole de 1988 relatif à la convention sur les lignes de charge. Ils concernent notamment les messages du système d'échange de données VHF, les techniques d'inspection à distance, les embarcations de sauvetage à mise à l'eau en chute libre et les garde-corps de pont. La position ne couvre les amendements que dans la mesure où ils relèvent de la compétence exclusive de l'Union et peuvent affecter les règles communes de l'UE; des modifications mineures peuvent être convenues sans nouvelle décision du Conseil. Les États membres sont autorisés, dans cette mesure, à consentir à être liés par les amendements. La décision est entrée en vigueur le 27 avril 2026, date de son adoption."
+   ],
+   "scope": "Council Decision (EU) 2026/1029: EU position at IMO MEPC 84 (MARPOL Annex VI, regs 13, 14, 20, 25, 27, 28, appendix VII) and MSC 111 (SOLAS, HSC, ESP, LSA, Load Lines)",
+   "dates": {
+    "adopted": "2026-04-27",
+    "published": "2026-05-06",
+    "in_force": "2026-04-27"
+   },
+   "u": [
+    [
+     "Council Decision (EU) 2026/1029 of 27 April 2026 on the position to be taken on behalf of the European Union within the International Mariti",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1029"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1029"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042024",
+   "d": "2026-04-27",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders revises agri-environment subsidy rules: crop mixtures, buffer strips, repealed measures",
+   "a": "A Flemish ministerial decree amends the 2023 implementing rules for subsidies for measures benefiting environment, climate and biodiversity. It adds chickpeas and new crop mixtures, adjusts fauna mixtures, repeals several measures and changes the buffer strip payments, with effect from 1 January 2026.",
+   "b": "The amendments concern farmers who apply for subsidies under the Flemish framework for measures with a beneficial effect on environment, climate and biodiversity. Chickpeas are added to the list in article 4. In article 5, three existing points are repealed and replaced by mixtures of at least two listed crops (e.g. phacelia, buckwheat, mustard, clover, vetch). A mixture must include at least one non-legume, the listed crops must visibly dominate the plot, grasses are excluded, and the composition must be shown by invoices or seed certificates. Minimum retention periods are three months for tagetes and two months for these mixtures. For fauna mixtures, cereals combined with buckwheat are allowed at 60-90% of the mixture, one share is changed from 5-10% to a maximum of 10%, and narrow-leaved plantain is added. Articles 8, 9, 30/2 and 31, article 25 first paragraph point 3°, and the second paragraphs of articles 28/1 and 29 are repealed. Article 28 now requires farmyard manure as defined in the Manure Decree, from own animals or a third party. In the annex, the rates for extended spring fallow (EUR 375/ha) and annual fauna-friendly after-crops (EUR 60/ha) are removed, as are the grass buffer strip along watercourses (EUR 949/ha) and the grass-herb buffer strip (EUR 1,099/ha). The buffer strip row now covers creation or management, and new rows are added for management by flail mowing (EUR 1,112/ha) and by mowing with removal of cuttings (EUR 1,449/ha). The decree was adopted on 27 April 2026, published on 21 May 2026 and takes effect from 1 January 2026.",
+   "nl": [
+    "Vlaanderen wijzigt subsidieregels voor milieumaatregelen: teeltmengsels, bufferstroken, opgeheven maatregelen",
+    "Een Vlaams ministerieel besluit wijzigt de uitvoeringsregels van 2023 voor subsidies voor maatregelen met een gunstig effect op milieu, klimaat en biodiversiteit. Kikkererwten en nieuwe teeltmengsels worden toegevoegd, faunamengsels aangepast, meerdere maatregelen opgeheven en de vergoedingen voor bufferstroken gewijzigd, met uitwerking vanaf 1 januari 2026.",
+    "De wijzigingen gelden voor landbouwers die subsidies aanvragen binnen het Vlaamse kader voor maatregelen met een gunstig effect op milieu, klimaat en biodiversiteit. Kikkererwten worden toegevoegd aan de lijst in artikel 4. In artikel 5 worden drie bestaande punten opgeheven en vervangen door mengsels van minstens twee vermelde teelten (o.a. phacelia, boekweit, mosterd, klaver, wikke). Een mengsel bevat minstens één niet-vlinderbloemige, de vermelde teelten moeten duidelijk zichtbaar overheersen op het perceel, grassen zijn uitgesloten en de samenstelling moet blijken uit facturen of zaaizaadcertificaten. De minimale aanhoudingsduur is drie maanden voor tagetes en twee maanden voor deze mengsels. Voor faunamengsels is een combinatie van granen en boekweit toegelaten aan 60 tot 90% van het mengsel, wordt één aandeel van 5-10% gewijzigd naar maximum 10% en wordt smalle weegbree toegevoegd. De artikelen 8, 9, 30/2 en 31, artikel 25, eerste lid, 3°, en het tweede lid van de artikelen 28/1 en 29 worden opgeheven. Artikel 28 vereist voortaan stalmest zoals bepaald in het Mestdecreet, afkomstig van eigen dieren of van een derde. In de bijlage vervallen de vergoedingen voor verlengde voorjaarsbraak (375 euro/ha) en eenjarige faunavriendelijke nateelten (60 euro/ha), alsook voor de grasbufferstrook langs waterlopen (949 euro/ha) en de bufferstrook met graskruidenmengsel (1099 euro/ha). De rij voor bufferstroken omvat nu aanleg of beheer, en er komen nieuwe rijen voor beheer met klepelmaaien (1112 euro/ha) en met maaien en afvoer van het maaisel (1449 euro/ha). Het besluit is genomen op 27 april 2026, bekendgemaakt op 21 mei 2026 en heeft uitwerking vanaf 1 januari 2026."
+   ],
+   "fr": [
+    "La Flandre modifie les règles de subventions environnementales : mélanges de cultures, bandes tampons, mesures abrogées",
+    "Un arrêté ministériel flamand modifie les règles d'exécution de 2023 relatives aux subventions pour des mesures favorables à l'environnement, au climat et à la biodiversité. Les pois chiches et de nouveaux mélanges de cultures sont ajoutés, les mélanges faunistiques adaptés, plusieurs mesures abrogées et les montants des bandes tampons modifiés, avec effet au 1er janvier 2026.",
+    "Les modifications concernent les agriculteurs qui demandent des subventions dans le cadre flamand des mesures favorables à l'environnement, au climat et à la biodiversité. Les pois chiches sont ajoutés à la liste de l'article 4. À l'article 5, trois points existants sont abrogés et remplacés par des mélanges d'au moins deux cultures citées (p. ex. phacélie, sarrasin, moutarde, trèfle, vesce). Un mélange comprend au moins une non-légumineuse, les cultures citées doivent dominer visiblement la parcelle, les graminées sont exclues et la composition doit être démontrée par des factures ou des certificats de semences. La durée minimale de maintien est de trois mois pour les tagètes et de deux mois pour ces mélanges. Pour les mélanges faunistiques, une combinaison de céréales et de sarrasin est admise à raison de 60 à 90 % du mélange, une part de 5-10 % devient un maximum de 10 % et le plantain lancéolé est ajouté. Les articles 8, 9, 30/2 et 31, l'article 25, alinéa 1er, 3°, ainsi que l'alinéa 2 des articles 28/1 et 29 sont abrogés. L'article 28 exige désormais du fumier au sens du décret sur les engrais (Mestdecreet), provenant des propres animaux ou d'un tiers. Dans l'annexe, les montants pour la jachère de printemps prolongée (375 euros/ha) et les cultures suivantes annuelles favorables à la faune (60 euros/ha) disparaissent, de même que ceux pour la bande tampon herbeuse le long des cours d'eau (949 euros/ha) et la bande tampon avec mélange d'herbes et de plantes (1099 euros/ha). La ligne relative aux bandes tampons couvre désormais l'aménagement ou la gestion, et de nouvelles lignes sont ajoutées pour la gestion par broyage (1112 euros/ha) et par fauchage avec exportation des produits de fauche (1449 euros/ha). L'arrêté a été adopté le 27 avril 2026, publié le 21 mai 2026 et produit ses effets à partir du 1er janvier 2026."
+   ],
+   "scope": "Ministerieel besluit tot wijziging van het MB van 12 mei 2023 (subsidies maatregelen milieu, klimaat en biodiversiteit): artikelen 4, 5, 7, 8, 9, 16, 25, 28, 28/1, 29, 30/2, 31, 32 en bijlage",
+   "dates": {
+    "adopted": "2026-04-27",
+    "published": "2026-05-21",
+    "in_force": "2026-01-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 12 mei 2023 tot uitvoering van het besluit van de Vlaamse Regering van 2",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042024&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042024"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0893",
+   "d": "2026-04-24",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU sets annual limit values for net GHG removals 2026-2029, including Belgium's LULUCF values",
+   "a": "The Commission has set annual limit values for each Member State's net greenhouse gas removals from land use and forestry for 2026-2029 under the LULUCF Regulation. For Belgium the values range from -695,624 to -929,125 tonnes of CO2 equivalent.",
+   "b": "The Regulation applies to Member States, including the Belgian authorities responsible for the LULUCF inventory and compliance under Regulation (EU) 2018/841; it sets no obligations for companies directly. It fixes limit values for 2026, 2027, 2028 and 2029 in an annex. Each value lies on a straight linear trajectory from the 2021-2023 average of reviewed inventory data (starting value in 2022) to a 2030 value, which is the Member State's target in Annex IIa plus the 2016-2018 average. For Belgium the values are -695,624 (2026), -773,458 (2027), -851,292 (2028) and -929,125 (2029) tonnes of CO2 equivalent. For Member States that changed their inventory methodology, the starting and ending values of the trajectory will be adjusted for the compliance check, after the comprehensive review in 2032, by the methodological adjustment derived from the inventory submitted in 2032. The Regulation was adopted on 24 April 2026 and published on 27 April 2026. It enters into force on the twentieth day after publication, i.e. 17 May 2026.",
+   "nl": [
+    "EU legt jaarlijkse grenswaarden voor nettobroeikasgasverwijderingen 2026-2029 vast, ook voor België",
+    "De Commissie heeft voor elke lidstaat jaarlijkse grenswaarden vastgesteld voor nettobroeikasgasverwijderingen uit landgebruik en bosbouw voor 2026-2029, op grond van de LULUCF-verordening. Voor België liggen de waarden tussen -695.624 en -929.125 ton CO2-equivalent.",
+    "De verordening is van toepassing op de lidstaten, waaronder de Belgische overheden die instaan voor de LULUCF-inventaris en de naleving van Verordening (EU) 2018/841; ze legt bedrijven geen rechtstreekse verplichtingen op. Ze stelt in een bijlage grenswaarden vast voor 2026, 2027, 2028 en 2029. Elke waarde ligt op een rechte lineaire trajectlijn van het gemiddelde van de gecontroleerde inventarisgegevens 2021-2023 (beginwaarde in 2022) naar een waarde voor 2030, namelijk de doelstelling van de lidstaat in bijlage IIa plus het gemiddelde van 2016-2018. Voor België bedragen de waarden -695.624 (2026), -773.458 (2027), -851.292 (2028) en -929.125 (2029) ton CO2-equivalent. Voor lidstaten die hun inventarismethode hebben gewijzigd, worden de begin- en eindwaarde van het traject voor de nalevingscontrole, na de uitgebreide evaluatie in 2032, aangepast met de methodologische aanpassing die voortvloeit uit de in 2032 ingediende inventaris. De verordening is aangenomen op 24 april 2026 en bekendgemaakt op 27 april 2026. Ze treedt in werking op de twintigste dag na bekendmaking, dus op 17 mei 2026."
+   ],
+   "fr": [
+    "L'UE fixe les valeurs limites annuelles des absorptions nettes de GES 2026-2029, dont celles de la Belgique",
+    "La Commission a fixé, pour chaque État membre, les valeurs limites annuelles des absorptions nettes de gaz à effet de serre issues de l'utilisation des terres et de la foresterie pour 2026-2029, en vertu du règlement UTCATF. Pour la Belgique, elles vont de -695 624 à -929 125 tonnes d'équivalent CO2.",
+    "Le règlement s'applique aux États membres, dont les autorités belges chargées de l'inventaire UTCATF et du respect du règlement (UE) 2018/841; il n'impose pas d'obligations directes aux entreprises. Il fixe dans une annexe des valeurs limites pour 2026, 2027, 2028 et 2029. Chaque valeur se situe sur une trajectoire linéaire allant de la moyenne des données d'inventaire examinées pour 2021-2023 (valeur de départ en 2022) à une valeur pour 2030, à savoir l'objectif de l'État membre figurant à l'annexe IIa augmenté de la moyenne de 2016-2018. Pour la Belgique, les valeurs sont de -695 624 (2026), -773 458 (2027), -851 292 (2028) et -929 125 (2029) tonnes d'équivalent CO2. Pour les États membres ayant modifié leur méthode d'inventaire, les valeurs de départ et d'arrivée de la trajectoire seront ajustées, pour la vérification de conformité après l'examen complet de 2032, de l'ajustement méthodologique déduit de l'inventaire soumis en 2032. Le règlement a été adopté le 24 avril 2026 et publié le 27 avril 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 17 mai 2026."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/893: Articles 1-2 and Annex (annual limit values 2026-2029 under Regulation (EU) 2018/841)",
+   "dates": {
+    "adopted": "2026-04-24",
+    "published": "2026-04-27",
+    "in_force": "2026-05-17"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/893 of 24 April 2026 setting out annual limit values for net greenhouse gas removals of Member ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0893"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0893"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d0895",
+   "d": "2026-04-24",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU resets Member States' annual emission allocations for 2026–2030 under the Effort Sharing Regulation",
+   "a": "The Commission has replaced Annex II to Implementing Decision (EU) 2020/2126 with new annual emission allocations for each Member State for 2026 to 2030. Belgium's allocation falls from 57,023,357 t CO2e in 2026 to 43,250,962 t CO2e in 2030.",
+   "b": "The Decision concerns Member States' binding annual greenhouse gas limits under Regulation (EU) 2018/842, which covers emissions outside the EU emissions trading system. Annex II to Implementing Decision (EU) 2020/2126 is replaced in full, but only the values for 2026 to 2030 are newly set; the 2021–2025 columns are reproduced. The new values rest on the Commission's comprehensive review of the 2021–2023 inventory data, completed on 28 August 2025. They are adjusted under Article 10(1)(c) of Regulation (EU) 2018/842 by adding the quantities that stationary installations excluded from the EU ETS for the period from 1 January 2026 (Article 27 of Directive 2003/87/EC) deduct from the cap. For Belgium the allocations are 57,023,357 t CO2e (2026), 53,580,258 (2027), 50,137,160 (2028), 46,694,061 (2029) and 43,250,962 (2030). The Decision was adopted on 24 April 2026 and published on 27 April 2026. It enters into force on the twentieth day after publication, i.e. 17 May 2026.",
+   "nl": [
+    "EU stelt jaarlijkse emissieruimten van de lidstaten voor 2026–2030 opnieuw vast onder de Inspanningsverdelingsverordening",
+    "De Commissie vervangt bijlage II bij Uitvoeringsbesluit (EU) 2020/2126 door nieuwe jaarlijkse emissieruimten per lidstaat voor 2026 tot en met 2030. De emissieruimte van België daalt van 57.023.357 t CO2-eq in 2026 naar 43.250.962 t CO2-eq in 2030.",
+    "Het besluit betreft de bindende jaarlijkse broeikasgasgrenzen van de lidstaten onder Verordening (EU) 2018/842, die de emissies buiten het EU-emissiehandelssysteem dekt. Bijlage II bij Uitvoeringsbesluit (EU) 2020/2126 wordt volledig vervangen, maar enkel de waarden voor 2026 tot en met 2030 worden nieuw vastgesteld; de kolommen 2021–2025 worden overgenomen. De nieuwe waarden berusten op de uitgebreide evaluatie door de Commissie van de inventarisgegevens 2021–2023, afgerond op 28 augustus 2025. Ze worden overeenkomstig artikel 10, lid 1, punt c), van Verordening (EU) 2018/842 aangepast door de hoeveelheden toe te voegen die vaste installaties die vanaf 1 januari 2026 van het EU-emissiehandelssysteem zijn uitgesloten (artikel 27 van Richtlijn 2003/87/EG) van het plafond aftrekken. Voor België bedragen de emissieruimten 57.023.357 t CO2-eq (2026), 53.580.258 (2027), 50.137.160 (2028), 46.694.061 (2029) en 43.250.962 (2030). Het besluit werd aangenomen op 24 april 2026 en bekendgemaakt op 27 april 2026. Het treedt in werking op de twintigste dag na de bekendmaking, namelijk 17 mei 2026."
+   ],
+   "fr": [
+    "L'UE fixe à nouveau les quotas annuels d'émissions des États membres pour 2026-2030 (règlement sur la répartition de l'effort)",
+    "La Commission remplace l'annexe II de la décision d'exécution (UE) 2020/2126 par de nouveaux quotas annuels d'émissions par État membre pour 2026 à 2030. Le quota de la Belgique passe de 57 023 357 t éq. CO2 en 2026 à 43 250 962 t éq. CO2 en 2030.",
+    "La décision concerne les limites annuelles contraignantes d'émissions de gaz à effet de serre des États membres au titre du règlement (UE) 2018/842, qui couvre les émissions hors système d'échange de quotas d'émission de l'UE. L'annexe II de la décision d'exécution (UE) 2020/2126 est entièrement remplacée, mais seules les valeurs pour 2026 à 2030 sont nouvellement fixées ; les colonnes 2021-2025 sont reprises. Les nouvelles valeurs reposent sur l'examen complet par la Commission des données d'inventaire 2021-2023, achevé le 28 août 2025. Elles sont ajustées conformément à l'article 10, paragraphe 1, point c), du règlement (UE) 2018/842 en ajoutant les quantités que les installations fixes exclues du SEQE-UE à partir du 1er janvier 2026 (article 27 de la directive 2003/87/CE) déduisent du plafond. Pour la Belgique, les quotas s'élèvent à 57 023 357 t éq. CO2 (2026), 53 580 258 (2027), 50 137 160 (2028), 46 694 061 (2029) et 43 250 962 (2030). La décision a été adoptée le 24 avril 2026 et publiée le 27 avril 2026. Elle entre en vigueur le vingtième jour suivant sa publication, soit le 17 mai 2026."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/895 – replacement of Annex II to Implementing Decision (EU) 2020/2126 (Regulation (EU) 2018/842, Art. 4(3) and Art. 10)",
+   "dates": {
+    "adopted": "2026-04-24",
+    "published": "2026-04-27",
+    "in_force": "2026-05-17"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/895 of 24 April 2026 amending Implementing Decision (EU) 2020/2126 as regards the setting out of ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0895"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D0895"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042020",
+   "d": "2026-04-24",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders trims vacant-plots register decree and repeals municipal subsidy decree for spatial implementation plans",
+   "a": "A Flemish Government decree deletes two dates from article 8 of the 2008 decree on the register of vacant plots and repeals chapter II (articles 10-13) of that decree. It also repeals the 2000 decree on subsidies to municipalities for drawing up municipal spatial implementation plans.",
+   "b": "The decree concerns Flemish municipalities and the authorities that keep the register of vacant plots (register van de onbebouwde percelen), as well as municipalities that received subsidies for municipal spatial implementation plans. In article 8, second paragraph, of the Flemish Government decree of 10 July 2008, the references to 31 December and 31 January are deleted. Chapter II of that decree (articles 10 to 13) is repealed in full. The Flemish Government decree of 20 October 2000 on the conditions for subsidies to municipalities for drawing up municipal spatial implementation plans is repealed as well. The decree rests, among other things, on article 2.2.6, §4 and article 5.6.1 of the Flemish Codex Spatial Planning and on article 82 of the programme decree of 19 December 2025. It was adopted on 24 April 2026 and published on 21 May 2026, and takes effect on 31 May 2026. The text states no transitional rules.",
+   "nl": [
+    "Vlaanderen schrapt data en hoofdstuk II in het besluit over het register van onbebouwde percelen en heft subsidiebesluit GRUP's op",
+    "Een besluit van de Vlaamse Regering schrapt twee data in artikel 8 van het besluit van 10 juli 2008 over het register van de onbebouwde percelen en heft hoofdstuk II (artikelen 10-13) van dat besluit op. Ook het besluit van 20 oktober 2000 over subsidies aan gemeenten voor gemeentelijke ruimtelijke uitvoeringsplannen wordt opgeheven.",
+    "Het besluit heeft betrekking op de Vlaamse gemeenten en de overheden die het register van de onbebouwde percelen bijhouden, en op gemeenten die subsidies ontvingen voor gemeentelijke ruimtelijke uitvoeringsplannen. In artikel 8, tweede lid, van het besluit van de Vlaamse Regering van 10 juli 2008 worden de zinsneden “en 31 december” en “en 31 januari” opgeheven. Hoofdstuk II van dat besluit (artikelen 10 tot en met 13) wordt volledig opgeheven. Het besluit van de Vlaamse Regering van 20 oktober 2000 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van gemeentelijke ruimtelijke uitvoeringsplannen wordt eveneens opgeheven. Het besluit steunt onder meer op artikel 2.2.6, §4, en artikel 5.6.1 van de Vlaamse Codex Ruimtelijke Ordening en op artikel 82 van het programmadecreet van 19 december 2025. Het werd genomen op 24 april 2026, bekendgemaakt op 21 mei 2026 en treedt in werking op 31 mei 2026. Overgangsregels bevat de tekst niet."
+   ],
+   "fr": [
+    "La Flandre supprime des dates et le chapitre II de l'arrêté sur le registre des parcelles non bâties et abroge l'arrêté de subvention des PRU communaux",
+    "Un arrêté du Gouvernement flamand supprime deux dates à l'article 8 de l'arrêté du 10 juillet 2008 relatif au registre des parcelles non bâties et abroge le chapitre II (articles 10 à 13) de cet arrêté. L'arrêté du 20 octobre 2000 relatif aux subventions aux communes pour l'élaboration de plans d'exécution spatiaux communaux est également abrogé.",
+    "L'arrêté concerne les communes flamandes et les autorités qui tiennent le registre des parcelles non bâties (register van de onbebouwde percelen), ainsi que les communes qui ont reçu des subventions pour des plans d'exécution spatiaux communaux. À l'article 8, alinéa 2, de l'arrêté du Gouvernement flamand du 10 juillet 2008, les mentions « et 31 décembre » et « et 31 janvier » sont supprimées. Le chapitre II de cet arrêté (articles 10 à 13) est abrogé dans son intégralité. L'arrêté du Gouvernement flamand du 20 octobre 2000 fixant les conditions d'octroi de subventions aux communes pour l'élaboration de plans d'exécution spatiaux communaux est lui aussi abrogé. L'arrêté se fonde notamment sur les articles 2.2.6, §4, et 5.6.1 du Code flamand de l'Aménagement du territoire et sur l'article 82 du décret-programme du 19 décembre 2025. Il a été adopté le 24 avril 2026, publié le 21 mai 2026 et entre en vigueur le 31 mai 2026. Le texte ne prévoit pas de mesures transitoires."
+   ],
+   "scope": "Besluit van de Vlaamse Regering van 24 april 2026: wijziging van artikel 8, tweede lid, en opheffing van hoofdstuk II (art. 10-13) van het BVR van 10 juli 2008 (register van de onbebouwde percelen); opheffing van het BVR van 20 oktober 2000 (subsidies GRUP's)",
+   "dates": {
+    "adopted": "2026-04-24",
+    "published": "2026-05-21",
+    "in_force": "2026-05-31"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 10 juli 2008 houdende bepaling van de nadere regel",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042020&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042020"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042010",
+   "d": "2026-04-24",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Flanders creates a budget fund for extended producer responsibility levies and fines, with earmarked uses",
+   "a": "A Flemish Fund for extended producer responsibility is created as a budget fund. It receives the Flemish share of levies and administrative fines under the 2026 EPR cooperation agreement and the 2008 packaging waste agreement, and the decree earmarks how they may be spent.",
+   "b": "The decree concerns the Flemish Region and the public bodies that bear litter costs. Producers are affected indirectly, because the levies and administrative fines paid under the cooperation agreement of 9 February 2026 on EPR for certain waste streams and litter, and under the packaging waste agreement of 4 November 2008, flow into the new Fund. The Fund is a budget fund within the meaning of the Flemish Codex on Public Finances. Revenues from certain levies and from the administrative fine share may only finance litter costs incurred by or on behalf of public bodies: awareness measures, collection of waste in public collection systems, clean-up, data collection and reporting, and other general litter policy costs including enforcement. Revenues from the other levies may only support Flemish waste prevention and management policy, for example prevention and reuse, tackling waste in litter and illegal dumping, research on product quality and recyclability, selective collection, and local high-quality processing. Amounts received up to 31 July are paid out each year by 31 October of the year after the levy year, and later amounts are paid in the following calendar year; the Flemish Government may set further payment rules. The decree was adopted on 24 April 2026, published on 18 May 2026 and takes effect on 28 May 2026.",
+   "nl": [
+    "Vlaanderen richt een begrotingsfonds op voor uitgebreide producentenverantwoordelijkheid met vastgelegde bestemmingen",
+    "Er wordt een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid opgericht als begrotingsfonds. Het ontvangt het Vlaamse aandeel in heffingen en administratieve geldboetes uit het samenwerkingsakkoord van 2026 over UPV en het verpakkingsakkoord van 2008, en het decreet bepaalt waaraan die middelen besteed mogen worden.",
+    "Het decreet heeft betrekking op het Vlaamse Gewest en op de overheidsinstanties die zwerfvuilkosten dragen. Producenten zijn onrechtstreeks betrokken, omdat de heffingen en administratieve geldboetes onder het samenwerkingsakkoord van 9 februari 2026 betreffende de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil en onder het samenwerkingsakkoord van 4 november 2008 betreffende de preventie en het beheer van verpakkingsafval naar het nieuwe Fonds vloeien. Het Fonds is een begrotingsfonds in de zin van de Vlaamse Codex Overheidsfinanciën. Inkomsten uit bepaalde heffingen en uit het aandeel in de administratieve geldboete mogen enkel zwerfvuilkosten financieren die door of namens overheidsinstanties zijn gemaakt: bewustmaking, inzameling van afval in openbare inzamelsystemen, opruiming, gegevensverzameling en rapportering, en andere algemene kosten van het zwerfvuilbeleid, inclusief controle. Inkomsten uit de overige heffingen mogen enkel het Vlaamse beleid inzake afvalpreventie en afvalbeheer ondersteunen, bijvoorbeeld preventie en hergebruik, de strijd tegen afval in zwerfvuil en sluikstort, onderzoek naar productkwaliteit en recycleerbaarheid, selectieve inzameling en lokale hoogwaardige verwerking. Bedragen die tot en met 31 juli zijn ontvangen, worden jaarlijks uiterlijk op 31 oktober van het jaar na het heffingsjaar uitbetaald, latere bedragen in het volgende kalenderjaar; de Vlaamse Regering kan nadere betalingsmodaliteiten bepalen. Het decreet is aangenomen op 24 april 2026, bekendgemaakt op 18 mei 2026 en treedt in werking op 28 mei 2026."
+   ],
+   "fr": [
+    "La Flandre crée un fonds budgétaire pour la responsabilité élargie du producteur, avec des affectations déterminées",
+    "Un Fonds flamand pour la responsabilité élargie du producteur est créé sous la forme d'un fonds budgétaire. Il reçoit la part flamande des cotisations et amendes administratives prévues par l'accord de coopération de 2026 sur la REP et par l'accord de 2008 sur les déchets d'emballages, et le décret fixe l'affectation de ces moyens.",
+    "Le décret concerne la Région flamande et les instances publiques qui supportent des coûts liés aux déchets sauvages. Les producteurs sont concernés indirectement, car les cotisations et amendes administratives dues en vertu de l'accord de coopération du 9 février 2026 relatif à la responsabilité élargie du producteur pour certains flux de déchets et aux déchets sauvages, et de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages, alimentent le nouveau Fonds. Le Fonds est un fonds budgétaire au sens du Code flamand des finances publiques. Les recettes de certaines cotisations et de la part de l'amende administrative ne peuvent financer que les coûts liés aux déchets sauvages exposés par ou pour le compte d'instances publiques : sensibilisation, collecte des déchets dans les systèmes de collecte publics, nettoyage, collecte et communication de données, et autres frais généraux de la politique de lutte contre les déchets sauvages, y compris le contrôle. Les recettes des autres cotisations ne peuvent soutenir que la politique flamande de prévention et de gestion des déchets, par exemple la prévention et le réemploi, la lutte contre la présence de déchets dans les déchets sauvages et les dépôts clandestins, la recherche sur la qualité et la recyclabilité des produits, la collecte sélective et le traitement local de haute qualité. Les montants reçus jusqu'au 31 juillet sont versés chaque année au plus tard le 31 octobre de l'année suivant l'année de la cotisation, les montants ultérieurs l'étant l'année civile suivante ; le Gouvernement flamand peut fixer des modalités de paiement complémentaires. Le décret a été adopté le 24 avril 2026, publié le 18 mai 2026 et entre en vigueur le 28 mai 2026."
+   ],
+   "scope": "Decreet tot oprichting van een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid: oprichting, inkomsten en bestemming van het Fonds",
+   "dates": {
+    "adopted": "2026-04-24",
+    "published": "2026-05-18",
+    "in_force": "2026-05-28"
+   },
+   "u": [
+    [
+     "Decreet tot oprichting van een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042010&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042010"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042004",
+   "d": "2026-04-24",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate",
+    "permitting"
+   ],
+   "h": "Flanders amends CO2 pipeline decree: development plans, designation conditions, utility declarations, compensation",
+   "a": "The Flemish decree of 24 April 2026 amends the 2024 CO2 pipeline decree for the managers of local clusters and of the transport network. It adds conditions on designation, sets 45-day approval periods for development plans, allows transfer of public-utility declarations and revises compensation rules.",
+   "b": "The decree concerns managers of local CO2 clusters and of the Flemish CO2 transport network, as well as the natural gas and hydrogen transmission network operators and landowners affected by pipelines. The Flemish Government may impose conditions when designating a manager, and also after designation following consultation with that manager. These conditions may cover CO2 stream quality standards and interoperability with other clusters, the network, liquefaction terminals or other CO2 transport infrastructure. Managers must draw up a development plan at least every two years and a measuring and monitoring plan for CO2 flows. The Government must decide on approval within 45 days of receiving the advice of the Vlaamse Nutsregulator and VEKA, and this period is extended by 45 days if the minister requests additional information. The Government may specify the procedure for declarations of general utility. It may also determine when a declaration of public utility obtained under the Gas Act of 12 April 1965 can be transferred from the gas or hydrogen network operator to a cluster manager or the network manager, in which case it counts as a declaration of general utility. The compensation articles are replaced: a one-off payment to the owner for felled trees and any loss in property value, a payment to owners of private undeveloped land crossed by pipelines, and compensation for damage caused by works or operation, with disputes going to the justice of the peace. Consultation on the network's development and operating rules is extended to all other relevant market parties, and several provisions where the Government previously had to set rules or procedures now allow it to do so. The decree was adopted on 24 April 2026, published on 15 May 2026 and takes effect on 25 May 2026.",
+   "nl": [
+    "Vlaanderen wijzigt CO2-pijpleidingendecreet: ontwikkelingsplannen, aanwijzingsvoorwaarden, nutsverklaringen, vergoedingen",
+    "Het Vlaamse decreet van 24 april 2026 wijzigt het decreet van 2024 over het vervoer van CO2 via pijpleidingen voor de beheerders van lokale clusters en van het vervoersnetwerk. Het voegt voorwaarden bij de aanwijzing toe, bepaalt termijnen van 45 dagen voor de goedkeuring van ontwikkelingsplannen, maakt de overdracht van verklaringen van openbaar nut mogelijk en herziet de vergoedingsregels.",
+    "Het decreet betreft de beheerders van lokale CO2-clusters en van het Vlaamse CO2-vervoersnetwerk, de beheerder van het aardgasvervoersnet en de waterstofvervoersnetbeheerder, en eigenaars van gronden waarop pijpleidingen komen. De Vlaamse Regering kan bij de aanwijzing van een beheerder voorwaarden opleggen, en ook na de aanwijzing na overleg met die beheerder. Die voorwaarden kunnen onder meer betrekking hebben op de kwaliteitsnormen van de CO2-stroom en op de interoperabiliteit met andere clusters, het netwerk, terminals voor vloeibaarmaking of andere infrastructuur voor CO2-transport. Beheerders moeten ten minste elke twee jaar een ontwikkelingsplan opstellen en een meet- en monitoringplan voor de CO2-stromen uitwerken. De Vlaamse Regering beslist over de goedkeuring binnen vijfenveertig dagen na ontvangst van het advies van de Vlaamse Nutsregulator en het VEKA; die termijn wordt met vijfenveertig dagen verlengd als de minister bijkomende inlichtingen vraagt. De Vlaamse Regering kan de procedure voor verklaringen van algemeen nut nader bepalen. Ze kan ook bepalen wanneer een verklaring van openbaar nut krachtens de wet van 12 april 1965 door de beheerder van het aardgasvervoersnet of de waterstofvervoersnetbeheerder kan worden overgedragen aan een beheerder van een lokale cluster of aan de beheerder van het vervoersnetwerk; dan geldt ze als verklaring van algemeen nut. De vergoedingsartikelen worden vervangen: een eenmalige vergoeding aan de eigenaar voor gerooide bomen en beplantingen en eventuele minwaarde, een vergoeding aan eigenaars van private onbebouwde gronden waarboven of waaronder pijpleidingen worden gebouwd, en vergoeding van schade door werken of exploitatie, met geschillen voor de vrederechter. De raadpleging over het netwerk en de exploitatieregels wordt uitgebreid tot alle andere relevante marktpartijen, en meerdere bepalingen waarbij de Vlaamse Regering regels of procedures moest vaststellen, laten dat nu als mogelijkheid toe. Het decreet werd aangenomen op 24 april 2026, bekendgemaakt op 15 mei 2026 en treedt in werking op 25 mei 2026."
+   ],
+   "fr": [
+    "La Flandre modifie le décret sur les pipelines de CO2 : plans de développement, conditions de désignation, utilité publique, indemnités",
+    "Le décret flamand du 24 avril 2026 modifie le décret de 2024 relatif au transport de CO2 par pipelines pour les gestionnaires de clusters locaux et du réseau de transport. Il ajoute des conditions lors de la désignation, fixe des délais de 45 jours pour l'approbation des plans de développement, permet le transfert des déclarations d'utilité publique et révise les règles d'indemnisation.",
+    "Le décret concerne les gestionnaires de clusters locaux de CO2 et du réseau flamand de transport de CO2, le gestionnaire du réseau de transport de gaz naturel et le gestionnaire du réseau de transport d'hydrogène, ainsi que les propriétaires de terrains traversés par des pipelines. Le Gouvernement flamand peut imposer des conditions lors de la désignation d'un gestionnaire, et aussi après la désignation, après concertation avec celui-ci. Ces conditions peuvent porter notamment sur les normes de qualité du flux de CO2 et sur l'interopérabilité avec d'autres clusters, le réseau, les terminaux de liquéfaction ou d'autres infrastructures de transport de CO2. Les gestionnaires doivent établir un plan de développement au moins tous les deux ans et élaborer un plan de mesure et de suivi des flux de CO2. Le Gouvernement flamand statue sur l'approbation dans les quarante-cinq jours de la réception de l'avis du régulateur flamand des services d'utilité publique (Vlaamse Nutsregulator) et de la VEKA (Agence flamande de l'énergie et du climat) ; ce délai est prolongé de quarante-cinq jours si le ministre demande des informations complémentaires. Le Gouvernement peut préciser la procédure d'octroi des déclarations d'utilité générale. Il peut aussi déterminer dans quels cas une déclaration d'utilité publique obtenue en vertu de la loi du 12 avril 1965 peut être transférée par le gestionnaire du réseau de transport de gaz naturel ou d'hydrogène à un gestionnaire de cluster local ou au gestionnaire du réseau de transport ; elle vaut alors déclaration d'utilité générale. Les articles sur l'indemnisation sont remplacés : une indemnité unique au propriétaire pour les arbres et plantations abattus et l'éventuelle moins-value, une indemnité aux propriétaires de terrains privés non bâtis traversés par des pipelines, et la réparation des dommages causés par les travaux ou l'exploitation, les litiges relevant du juge de paix. La consultation sur le réseau et ses règles d'exploitation est étendue à toutes les autres parties prenantes du marché, et plusieurs dispositions imposant au Gouvernement de fixer des règles ou procédures lui en laissent désormais la faculté. Le décret a été adopté le 24 avril 2026, publié le 15 mai 2026 et entre en vigueur le 25 mai 2026."
+   ],
+   "scope": "Decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest: artikelen 3, 9, 12, 19, 21, 22, 29, 32, 39, 41, 42, 62, 69, 70 en 71",
+   "dates": {
+    "adopted": "2026-04-24",
+    "published": "2026-05-15",
+    "in_force": "2026-05-25"
+   },
+   "u": [
+    [
+     "Decreet tot wijziging van het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest, wat he",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042004&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042004"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
