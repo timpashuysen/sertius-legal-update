@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:56:36Z",
+ "updated": "2026-11-23T03:13:11Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -11102,6 +11102,534 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0948"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0947",
+   "d": "2026-07-09",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Schilde apartment permit: deviations from BPA facade width and building depth not justified",
+   "a": "The Council for Permit Disputes annulled an environmental permit for an eight-unit apartment building in Schilde. The permitting authority had not adequately justified why the deviations from the BPA on facade width and building depth were 'limited' under Article 4.4.1 VCRO.",
+   "b": "The ruling concerns a permit on appeal for an apartment building with 8 units and underground parking, including temporary groundwater drainage, demolition and felling of 28 trees, on a corner plot in a zone governed by a special land-use plan (BPA). The Council finds that the permit decision did not carefully examine or sufficiently justify the facade width of 38.53 m along one street, against a maximum of about 30.90 m (3/5 of the plot width at the building line, an excess of about 24%). References to similar facade widths nearby and to distances from the side boundaries do not show that the deviation was assessed against the BPA provision itself. The decision also assessed only the building depth along one street, although the corner location means the 15 m maximum applies from both streets. The assessment of scale and space use falls with these findings, because the BPA provisions no longer simply reflect good spatial planning once they are deviated from. The Council refuses to substitute its own ruling for the new decision, since the authority is not bound to refuse. The authority must decide the appeal again within three months of the day after notification of the ruling, and bears the costs (EUR 200 registry fee, EUR 910 procedural indemnity). The ruling is dated 9 July 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning appartementen Schilde: afwijkingen BPA op gevelbreedte en bouwdiepte onvoldoende gemotiveerd",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een meergezinswoning met acht woongelegenheden in Schilde. De vergunningverlenende overheid heeft niet afdoende gemotiveerd waarom de afwijkingen van het BPA op gevelbreedte en bouwdiepte 'beperkt' zijn in de zin van artikel 4.4.1 VCRO.",
+    "Het arrest betreft een in beroep verleende vergunning voor een meergezinswoning met 8 woongelegenheden en ondergrondse parkeergarage, met tijdelijke grondbemaling, sloop en het rooien van 28 bomen, op een hoekperceel in een zone van een bijzonder plan van aanleg (BPA). De Raad oordeelt dat de vergunningsbeslissing de gevelbreedte van 38,53 m langs één straat, ten opzichte van een maximum van ongeveer 30,90 m (3/5 van de kavelbreedte op de bouwlijn, een overschrijding van circa 24%), niet zorgvuldig heeft onderzocht en niet afdoende heeft gemotiveerd. De verwijzing naar vergelijkbare gevelbreedtes in de omgeving en naar de afstand tot de zijdelingse perceelsgrenzen toont niet aan dat de afwijking aan het BPA-voorschrift zelf is getoetst. De beslissing toetste ook enkel de bouwdiepte langs één straat, hoewel door de ligging op een hoekperceel het maximum van 15 m vanaf beide straten geldt. De beoordeling van schaal en ruimtegebruik valt hiermee mee, omdat de BPA-voorschriften niet zonder meer de goede ruimtelijke ordening weergeven zodra ervan wordt afgeweken. De Raad weigert zijn arrest in de plaats te stellen van de nieuwe beslissing, omdat de overheid niet gebonden is om te weigeren. De overheid moet binnen drie maanden vanaf de dag na de betekening van het arrest opnieuw over het beroep beslissen en draagt de kosten (200 euro rolrecht, 910 euro rechtsplegingsvergoeding). Het arrest is uitgesproken op 9 juli 2026."
+   ],
+   "fr": [
+    "Le CCA annule un permis d'appartements à Schilde: dérogations au PPA sur largeur de façade et profondeur insuffisamment motivées",
+    "Le Conseil pour les contestations des permis (RvVb) annule un permis d'environnement pour un immeuble à appartements de huit logements à Schilde. L'autorité délivrante n'a pas motivé à suffisance en quoi les dérogations au PPA quant à la largeur de façade et à la profondeur de bâtisse étaient 'limitées' au sens de l'article 4.4.1 du VCRO.",
+    "L'arrêt concerne un permis délivré en recours pour un immeuble à appartements de 8 logements avec parking souterrain, comprenant un rabattement temporaire de la nappe, la démolition et l'abattage de 28 arbres, sur une parcelle d'angle située dans une zone d'un plan particulier d'aménagement (PPA). Le Conseil estime que la décision n'a ni examiné soigneusement ni motivé à suffisance la largeur de façade de 38,53 m le long d'une rue, alors que le maximum est d'environ 30,90 m (3/5 de la largeur de la parcelle à l'alignement, soit un dépassement d'environ 24 %). Le renvoi à des largeurs de façade comparables dans les environs et aux distances par rapport aux limites latérales ne montre pas que la dérogation a été appréciée au regard de la prescription du PPA elle-même. La décision n'a en outre contrôlé la profondeur de bâtisse que le long d'une seule rue, alors que, la parcelle étant d'angle, le maximum de 15 m s'applique depuis les deux rues. L'appréciation de l'échelle et de l'utilisation de l'espace tombe avec ces constats, car les prescriptions du PPA ne reflètent plus d'office le bon aménagement du territoire dès lors qu'il y est dérogé. Le Conseil refuse de substituer son arrêt à la nouvelle décision, l'autorité n'étant pas tenue de refuser. L'autorité doit statuer à nouveau sur le recours dans les trois mois suivant le jour de la notification de l'arrêt et supporte les dépens (200 euros de droit de rôle, 910 euros d'indemnité de procédure). L'arrêt a été prononcé le 9 juillet 2026."
+   ],
+   "scope": "Arrest RvVb van 9 juli 2026 (RVVB.2526.0947): artikelen 4.3.1 en 4.4.1, §1 VCRO, artikel 15, B, c) en d) BPA 'Dorpskom Zuid - deel 1' (Schilde)",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0947.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0947.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0947"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0946",
+   "d": "2026-07-09",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Schilde apartment block permit: BPA deviations must be assessed concretely, no 10% rule",
+   "a": "The Council for Permit Disputes annulled an environmental permit for a 10-unit apartment building in Schilde because the deviations from the BPA's building depth and façade width were not properly examined or reasoned. It rejected a 'generally accepted 10% norm' for limited deviations under Article 4.4.1 §1 VCRO.",
+   "b": "The ruling concerns a permit granted on administrative appeal for a 10-unit apartment building with underground parking, temporary groundwater lowering, demolition and the felling of 31 trees. The site lies in a BPA zone for open development. The Council held that whether a deviation is 'limited' under Article 4.4.1 §1 VCRO must be judged concretely against the provision departed from and the plan's purpose. A maximum is already a maximum, no general 10% norm exists, and similar buildings nearby do not cure the defect. It found the building depth (16.30 m against a 15 m maximum) and the façade width (about 4/5 of the plot width instead of 3/5) insufficiently examined and reasoned. The decision was also unclear on the depths measured, and on a corner plot the maximum depth must be assessed from both streets. Because the project departs from the BPA, its provisions are not automatically deemed to reflect good spatial planning (Article 4.3.1 §2, first paragraph, 3° VCRO). The Council declined to substitute its own ruling, since no bound competence to refuse had been shown. The deciding authority must take a new decision on the administrative appeal within three months of the day after notification of the ruling, which was delivered on 9 July 2026. Costs of 200 euro court fee and 910 euro procedural indemnity fall on that authority.",
+   "nl": [
+    "RvVb vernietigt vergunning meergezinswoning Schilde: afwijkingen van BPA concreet beoordelen, geen 10%-norm",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een meergezinswoning met 10 woongelegenheden in Schilde, omdat de afwijkingen van bouwdiepte en gevelbreedte van het BPA niet zorgvuldig onderzocht en afdoende gemotiveerd zijn. Een 'algemeen aanvaarde norm van 10%' voor beperkte afwijkingen bestaat volgens de Raad niet.",
+    "Het arrest betreft een in bestuurlijk beroep verleende vergunning voor een meergezinswoning met 10 woongelegenheden en een ondergrondse parkeergarage, met tijdelijke grondbemaling, sloop en het rooien van 31 bomen. De site ligt in een BPA-zone voor open bebouwing. De Raad oordeelt dat het beperkte karakter van een afwijking in de zin van artikel 4.4.1, §1 VCRO concreet moet worden beoordeeld aan de hand van het voorschrift waarvan wordt afgeweken en de planopzet. Een maximum is reeds een maximum, er bestaat geen algemene 10%-norm en vergelijkbare gebouwen in de omgeving verhelpen dit niet. Hij oordeelt dat de bouwdiepte (16,30 m ten opzichte van maximum 15 m) en de gevelbreedte (ongeveer 4/5 in plaats van 3/5 van de kavelbreedte) onvoldoende zorgvuldig onderzocht en gemotiveerd zijn. Ook blijft onduidelijk welke bouwdieptes zijn gemeten, en bij een hoekperceel moet de maximale bouwdiepte vanaf beide straten worden beoordeeld. Omdat het project van het BPA afwijkt, worden de BPA-voorschriften niet zonder meer geacht de goede ruimtelijke ordening weer te geven (artikel 4.3.1, §2, lid 1, 3° VCRO). De Raad weigert zijn arrest in de plaats te stellen van de nieuwe beslissing, omdat geen gebonden bevoegdheid om te weigeren is aangetoond. De overheid die in bestuurlijk beroep beslist, moet binnen drie maanden vanaf de dag na de betekening van het arrest van 9 juli 2026 een nieuwe beslissing nemen. De kosten (200 euro rolrecht en 910 euro rechtsplegingsvergoeding) komen ten laste van die overheid."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'un immeuble à appartements à Schilde : écarts au PPA à apprécier concrètement, pas de norme de 10 %",
+    "Le Conseil pour les contestations des permis (RvVb) annule un permis d'environnement pour un immeuble de 10 logements à Schilde, car les dérogations du PPA en matière de profondeur de bâtisse et de largeur de façade n'ont pas été examinées avec soin ni motivées à suffisance. Selon le Conseil, il n'existe pas de « norme généralement admise de 10 % » pour les dérogations limitées.",
+    "L'arrêt concerne un permis délivré en recours administratif pour un immeuble à appartements de 10 logements avec parking souterrain, rabattement temporaire de la nappe, démolition et abattage de 31 arbres. Le site se trouve dans une zone de construction ouverte d'un plan particulier d'aménagement (BPA). Le Conseil juge que le caractère limité d'une dérogation au sens de l'article 4.4.1, §1er VCRO doit être apprécié concrètement au regard de la prescription écartée et de l'objet du plan. Un maximum reste un maximum, il n'existe pas de norme générale de 10 % et la présence de bâtiments comparables dans les environs n'y remédie pas. Il estime que la profondeur de bâtisse (16,30 m pour un maximum de 15 m) et la largeur de façade (environ 4/5 au lieu de 3/5 de la largeur de la parcelle) n'ont pas été examinées avec soin ni motivées à suffisance. Les profondeurs mesurées restent en outre peu claires et, pour une parcelle d'angle, la profondeur maximale doit être appréciée depuis les deux rues. Comme le projet déroge au BPA, ses prescriptions ne sont pas d'office réputées refléter le bon aménagement des lieux (article 4.3.1, §2, alinéa 1er, 3° VCRO). Le Conseil refuse de substituer son arrêt à la nouvelle décision, faute de compétence liée établie pour refuser. L'autorité qui statue en recours administratif doit prendre une nouvelle décision dans les trois mois à compter du lendemain de la notification de l'arrêt du 9 juillet 2026. Les dépens (200 euros de droit de rôle et 910 euros d'indemnité de procédure) sont à sa charge."
+   ],
+   "scope": "Arrest RvVb.2526.0946 – artikelen 4.3.1 en 4.4.1, §1 VCRO, artikel 15 BPA 'Dorpskom Zuid - deel 1' en artikel 37, §2 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0946.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0946.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0946"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62025cj0166-inf",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-safety"
+   ],
+   "h": "CJEU finds Portugal failed to transpose the Industrial Emissions Directive correctly and clarifies several duties",
+   "a": "The Court of Justice held that Portugal failed to transpose correctly or fully a series of provisions of Directive 2010/75/EU on industrial emissions. The judgment clarifies what Member States must provide on hazardous substances, incident notification, permit conditions and transboundary information.",
+   "b": "The judgment concerns the transposition of Directive 2010/75/EU (IED) and is relevant to operators of IED installations and the authorities that permit and supervise them. The Court found that Portugal had not correctly or fully transposed Articles 3(18), 7(a), 8(2)(a), 17(1), 21(2) second subparagraph, 26(4), 45(1)(d), 45(2), 46(4) second subparagraph, 49 with Annex VI Part 8 point 1.3, and 57(1). It held that the definition of hazardous substances must be implemented through binding measures, so an interpretative note is not enough. A 48-hour notification period does not satisfy the duty to inform the authorities immediately of accidents with a significant environmental impact and of permit breaches, and an administrative procedure aimed at speeding up notification does not change this. The Court also found failures on general binding rules, the use of monitoring and inspection information in permit reviews, information for other Member States in transboundary cases (not limited to the outcome and grounds of the decision), waste (co-)incineration permit conditions, mass balance calculations for waste water from waste gas cleaning, the dates defining existing solvent installations, and the Annex VI conditions for emission limit values. It rejected the complaint on the authority's own duty to take additional measures after an incident (Articles 7(c) and 8(2)(c)), because national law refers to the operator taking the measures the authority considers necessary. The Court assessed the situation at the expiry of the period set in the Commission's reasoned opinion of 28 September 2023 and held that planned legislative amendments or national systems cannot justify the failures. Portugal bears its own costs and those of the Commission.",
+   "nl": [
+    "HvJ oordeelt dat Portugal de richtlijn industriële emissies onjuist omzette en verduidelijkt meerdere verplichtingen",
+    "Het Hof van Justitie oordeelde dat Portugal verschillende bepalingen van Richtlijn 2010/75/EU inzake industriële emissies niet correct of niet volledig heeft omgezet. Het arrest verduidelijkt wat lidstaten moeten voorzien inzake gevaarlijke stoffen, melding van incidenten, vergunningsvoorwaarden en grensoverschrijdende informatie.",
+    "Het arrest betreft de omzetting van Richtlijn 2010/75/EU (IED) en is relevant voor exploitanten van IED-installaties en de overheden die hen vergunnen en controleren. Het Hof oordeelde dat Portugal de artikelen 3(18), 7(a), 8(2)(a), 17(1), 21(2) tweede alinea, 26(4), 45(1)(d), 45(2), 46(4) tweede alinea, 49 samen met bijlage VI, deel 8, punt 1.3, en 57(1) niet correct of niet volledig heeft omgezet. Volgens het Hof moet de definitie van gevaarlijke stoffen via bindende maatregelen worden uitgevoerd, zodat een interpretatieve nota niet volstaat. Een meldingstermijn van 48 uur voldoet niet aan de plicht om de autoriteiten onmiddellijk te informeren over ongevallen met een aanzienlijke milieu-impact en over schendingen van de vergunningsvoorwaarden; een administratieve procedure die de snelheid van melding beoogt, verandert daar niets aan. Het Hof stelde ook tekortkomingen vast inzake algemeen bindende voorschriften, het gebruik van monitoring- en inspectiegegevens bij de herziening van vergunningen, de informatie aan andere lidstaten bij grensoverschrijdende effecten (die niet beperkt mag blijven tot de uitkomst en de motivering van de beslissing), de vergunningsvoorwaarden voor afvalverbranding en afvalmeestook, de massabalansberekeningen voor afvalwater afkomstig van de reiniging van afvalgassen, de data waarmee bestaande installaties met oplosmiddelen worden bepaald en de voorwaarden van bijlage VI voor emissiegrenswaarden. De klacht over de eigen plicht van de bevoegde autoriteit om na een incident aanvullende maatregelen te nemen (artikelen 7(c) en 8(2)(c)) werd verworpen, omdat de nationale regeling verwijst naar de maatregelen die de exploitant moet nemen wanneer de autoriteit dat nodig acht. Het Hof beoordeelde de situatie op het einde van de termijn van het met redenen omklede advies van de Commissie van 28 september 2023 en oordeelde dat geplande wetswijzigingen of nationale systemen de tekortkomingen niet rechtvaardigen. Portugal draagt zijn eigen kosten en die van de Commissie."
+   ],
+   "fr": [
+    "La CJUE juge que le Portugal a mal transposé la directive sur les émissions industrielles et précise plusieurs obligations",
+    "La Cour de justice a jugé que le Portugal n'a pas transposé correctement ou complètement plusieurs dispositions de la directive 2010/75/UE relative aux émissions industrielles. L'arrêt précise ce que les États membres doivent prévoir en matière de substances dangereuses, de notification des incidents, de conditions d'autorisation et d'information transfrontière.",
+    "L'arrêt porte sur la transposition de la directive 2010/75/UE (IED) et concerne les exploitants d'installations IED ainsi que les autorités qui les autorisent et les contrôlent. La Cour a constaté que le Portugal n'a pas transposé correctement ou complètement les articles 3, point 18, 7, sous a), 8, paragraphe 2, sous a), 17, paragraphe 1, 21, paragraphe 2, second alinéa, 26, paragraphe 4, 45, paragraphe 1, sous d), et paragraphe 2, 46, paragraphe 4, second alinéa, 49 lu avec l'annexe VI, partie 8, point 1.3, et 57, paragraphe 1. Elle juge que la définition des substances dangereuses doit être mise en œuvre par des mesures contraignantes, de sorte qu'une note interprétative ne suffit pas. Un délai de notification de 48 heures ne répond pas à l'obligation d'informer immédiatement les autorités des accidents ayant une incidence notable sur l'environnement et des violations des conditions d'autorisation, et une procédure administrative visant à accélérer l'information n'y change rien. La Cour a aussi relevé des manquements concernant les règles générales contraignantes, l'utilisation des informations issues de la surveillance et des inspections lors du réexamen des autorisations, l'information des autres États membres en cas d'effets transfrontières (qui ne peut se limiter au résultat et aux motifs de la décision), les conditions d'autorisation des installations d'incinération et de coïncinération des déchets, les bilans massiques pour les eaux usées issues du nettoyage des gaz résiduaires, les dates définissant les installations existantes utilisant des solvants organiques et les conditions de l'annexe VI pour les valeurs limites d'émission. Le grief relatif à l'obligation propre de l'autorité compétente de prendre des mesures complémentaires après un incident (articles 7, sous c), et 8, paragraphe 2, sous c)) a été écarté, la réglementation nationale renvoyant aux mesures que l'exploitant doit prendre lorsque l'autorité les juge nécessaires. La Cour a apprécié la situation à l'expiration du délai fixé dans l'avis motivé de la Commission du 28 septembre 2023 et a jugé que des modifications législatives en préparation ou des particularités du système national ne justifient pas ces manquements. Le Portugal supporte ses propres dépens et ceux de la Commission."
+   ],
+   "scope": "Arrêt C-166/25, Commission/Portugal: directive 2010/75/UE (émissions industrielles), art. 3(18), 7(a), 8(2)(a), 17(1), 21(2), 26(4), 45(1)(d) et (2), 46(4), 49 et annexe VI partie 8 point 1.3, 57(1)",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Sixth Chamber) of 9 July 2026.#European Commission v Portuguese Republic.#Infringement proceedings – Directive 2010/7",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CJ0166_INF"
+    ]
+   ],
+   "inbox": [
+    "eu:62025CJ0166_INF"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0771-sum",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "CJEU: rules on operating car parks can be a 'plan or programme' requiring an environmental assessment under SEA Directive",
+   "a": "In a case from Brussels, the Court of Justice held that national rules setting the conditions for operating car parks can be a 'plan or programme' under Directive 2001/42, even if general and abstract. If there was no assessment, the effects of the act may be maintained only under conditions.",
+   "b": "The ruling concerns authorities that adopt regulatory acts on car parks, and car park operators. It answers a reference from the Belgian Conseil d'État in a dispute between car park operators and the Brussels-Capital Region. The Court held that national legislation laying down the conditions for operating car parks falls within the concept of 'plans and programmes' in Directive 2001/42, and that its general and abstract nature is irrelevant. Such legislation is covered by Article 3(2)(a) if it sets a framework for future development consent of projects listed in Annexes I and II to Directive 2011/92 in the transport, town and country planning or land use sector. This is so even if it contains no rules on the siting or maximum number of car parks, and an environmental assessment is then required under the conditions of that provision. Where an act was adopted without the required assessment, it breaches EU law, but the Court allows its effects to be maintained under conditions derived from Article 4(3) TEU and Directive 2001/42. The judgment was delivered on 9 July 2026; no entry into force or transitional rule applies.",
+   "nl": [
+    "HvJ EU: regels over de exploitatie van parkings kunnen een 'plan of programma' zijn waarvoor een milieubeoordeling vereist is",
+    "In een zaak uit Brussel oordeelde het Hof van Justitie dat nationale regels over de exploitatievoorwaarden van parkings een 'plan of programma' in de zin van richtlijn 2001/42 kunnen zijn, ook als ze algemeen en abstract zijn. Ontbreekt een beoordeling, dan kunnen de gevolgen van de handeling slechts onder voorwaarden worden gehandhaafd.",
+    "Het arrest treft overheden die reglementaire handelingen over parkings aannemen, en parkingexploitanten. Het antwoordt op een prejudiciële vraag van de Belgische Raad van State in een geschil tussen parkingexploitanten en het Brussels Hoofdstedelijk Gewest. Het Hof oordeelde dat nationale wetgeving die de exploitatievoorwaarden van parkings vastlegt, onder het begrip 'plannen en programma's' van richtlijn 2001/42 valt, en dat het algemene en abstracte karakter ervan niet relevant is. Zulke wetgeving valt onder artikel 3, lid 2, onder a), als ze het kader vormt voor de latere vergunningverlening voor projecten uit de bijlagen I en II bij richtlijn 2011/92 in de sector vervoer, ruimtelijke ordening of grondgebruik. Dit geldt ook als ze geen regels bevat over de inplanting of het maximumaantal parkings; een milieubeoordeling is dan vereist onder de voorwaarden van die bepaling. Is een handeling aangenomen zonder de vereiste beoordeling, dan schendt ze het Unierecht, maar het Hof laat toe dat de gevolgen ervan onder voorwaarden uit artikel 4, lid 3, VEU en richtlijn 2001/42 worden gehandhaafd. Het arrest dateert van 9 juli 2026; er is geen inwerkingtreding of overgangsregeling."
+   ],
+   "fr": [
+    "CJUE : les règles d'exploitation des parkings peuvent être un « plan ou programme » soumis à évaluation environnementale",
+    "Dans une affaire bruxelloise, la Cour de justice a jugé que la réglementation nationale fixant les conditions d'exploitation des parkings peut constituer un « plan ou programme » au sens de la directive 2001/42, même si elle est générale et abstraite. À défaut d'évaluation, les effets de l'acte ne peuvent être maintenus que sous conditions.",
+    "L'arrêt concerne les autorités qui adoptent des actes réglementaires relatifs aux parkings et les exploitants de parkings. Il répond à une question préjudicielle du Conseil d'État belge dans un litige opposant des exploitants de parkings à la Région de Bruxelles-Capitale. La Cour a jugé que la législation nationale fixant les conditions d'exploitation des parkings relève de la notion de « plans et programmes » de la directive 2001/42, son caractère général et abstrait étant sans pertinence. Une telle législation est visée par l'article 3, paragraphe 2, sous a), si elle définit le cadre de l'autorisation future de projets énumérés aux annexes I et II de la directive 2011/92 dans le secteur des transports, de l'aménagement du territoire ou de l'affectation des sols. Il en va ainsi même si elle ne contient pas de règles sur l'implantation ou le nombre maximal de parkings ; une évaluation environnementale est alors requise dans les conditions de cette disposition. Lorsqu'un acte a été adopté sans l'évaluation requise, il méconnaît le droit de l'Union, mais la Cour admet le maintien de ses effets sous des conditions tirées de l'article 4, paragraphe 3, TUE et de la directive 2001/42. L'arrêt a été rendu le 9 juillet 2026 ; aucune entrée en vigueur ni mesure transitoire n'est prévue."
+   ],
+   "scope": "Directive 2001/42/EC, Arts 1, 2(a) and 3(2)(a); Case C-771/24, Fédération belge du stationnement and Interparking v Région de Bruxelles-Capitale",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Second Chamber) of 9 July 2026.#Fédération belge du stationnement ASBL and Interparking SA v Région de Bruxelles-Capi",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0771_SUM"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0771_SUM"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0771",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "CJEU: rules on car park operation may require a SEA if they frame consent for projects with significant effects",
+   "a": "The Court of Justice held that national rules laying down only operating conditions for car parks can require a strategic environmental assessment under Directive 2001/42. This applies where they concern transport or land use and set a significant body of criteria for projects likely to have significant effects. Effects of an act adopted without assessment may be maintained only exceptionally.",
+   "b": "The ruling concerns the Brussels Government order of 25 February 2021 on operating conditions for car parks, adopted without an environmental assessment, and any comparable regulatory act of a Belgian authority. Directive 2001/42 does not require a planning or programming aspect: it is enough that the act is adopted by an authority and has a legal basis in legislation or regulation. Rules on the operation of car parks, without rules on siting or maximum numbers, require an assessment if they are drawn up for transport or town and country planning or land use. They must also set a significant body of criteria and detailed rules for the grant and implementation of projects likely to have significant effects. Car parks are essential transport infrastructure, and the general nature of an act does not exclude it from the notion of plan or programme. The national court must check whether this applies, notably for the rules on lighting, drainage, charging points and bicycle parking. If an assessment was required, the national court may maintain the effects of the act only if national law allows it in those proceedings, only as needed to ensure transposition of another EU environmental act (here Directive 2018/844) and only as long as strictly necessary. The Court doubts that annulment would create a legal vacuum, since permits could again include operating conditions individually. The judgment was delivered on 9 July 2026.",
+   "nl": [
+    "HvJ: regels voor de exploitatie van parkings kunnen een plan-MER vereisen als ze het kader voor projecten bepalen",
+    "Het Hof van Justitie oordeelde dat nationale regels die enkel exploitatievoorwaarden voor parkings bevatten, een strategische milieubeoordeling onder Richtlijn 2001/42 kunnen vereisen. Dat geldt wanneer ze de vervoers- of ruimtelijke ordeningssector betreffen en een aanzienlijk geheel van criteria vastleggen voor projecten met aanzienlijke milieueffecten. Het handhaven van de gevolgen van een zonder beoordeling vastgestelde handeling is slechts uitzonderlijk mogelijk.",
+    "Het arrest betreft het besluit van de Brusselse Hoofdstedelijke Regering van 25 februari 2021 over de exploitatievoorwaarden voor parkings, vastgesteld zonder milieubeoordeling, en elke vergelijkbare reglementaire handeling van een Belgische overheid. Richtlijn 2001/42 vereist geen planning- of programmeringsaspect: het volstaat dat de handeling door een overheid wordt vastgesteld en haar rechtsgrond vindt in wettelijke of reglementaire bepalingen. Regels over de exploitatie van parkings, zonder regels over ligging of maximumaantal, vereisen een beoordeling als ze zijn opgesteld voor vervoer of ruimtelijke ordening of grondgebruik. Ze moeten bovendien een aanzienlijk geheel van criteria en nadere regels bevatten voor de toekenning en uitvoering van projecten die aanzienlijke milieueffecten kunnen hebben. Parkings zijn essentiële vervoersinfrastructuur en het algemene karakter van een handeling sluit niet uit dat het een plan of programma is. De nationale rechter moet nagaan of dit het geval is, met name voor de regels over verlichting, afwatering, laadpunten en fietsenstallingen. Was een beoordeling vereist, dan mag de rechter de gevolgen van de handeling alleen handhaven indien het nationale recht dat in die procedure toelaat, enkel voor zover nodig voor de omzetting van een andere Unierechtelijke milieuhandeling (hier Richtlijn 2018/844) en enkel zolang strikt noodzakelijk. Het Hof betwijfelt dat vernietiging een juridisch vacuüm zou creëren, omdat vergunningen opnieuw individueel exploitatievoorwaarden kunnen opleggen. Het arrest werd uitgesproken op 9 juli 2026."
+   ],
+   "fr": [
+    "CJUE : les règles d'exploitation des parkings peuvent exiger une EIPP si elles encadrent l'autorisation de projets",
+    "La Cour de justice a jugé que des règles nationales qui ne fixent que des conditions d'exploitation de parkings peuvent requérir une évaluation environnementale stratégique au titre de la directive 2001/42. C'est le cas lorsqu'elles concernent les transports ou l'aménagement du territoire et fixent un ensemble significatif de critères pour des projets susceptibles d'avoir des incidences notables. Le maintien des effets d'un acte adopté sans évaluation n'est possible qu'à titre exceptionnel.",
+    "L'arrêt concerne l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 25 février 2021 fixant les conditions d'exploitation des parkings, adopté sans évaluation environnementale, et tout acte réglementaire comparable d'une autorité belge. La directive 2001/42 n'exige pas d'aspect de planification ou de programmation : il suffit que l'acte soit adopté par une autorité et trouve son fondement dans des dispositions législatives ou réglementaires. Des règles sur l'exploitation des parkings, sans règles sur leur localisation ou leur nombre maximal, requièrent une évaluation si elles sont élaborées pour les transports ou l'aménagement du territoire ou l'affectation des sols. Elles doivent en outre établir un ensemble significatif de critères et de modalités pour l'octroi et la mise en œuvre de projets susceptibles d'avoir des incidences notables sur l'environnement. Les parkings sont une infrastructure essentielle du transport et le caractère général d'un acte n'exclut pas sa qualification de plan ou programme. Il appartient à la juridiction nationale de vérifier si tel est le cas, notamment pour les règles sur l'éclairage, le drainage, les bornes de recharge et les emplacements pour vélos. Si une évaluation était requise, le juge ne peut maintenir les effets de l'acte que si le droit national le permet dans la procédure, uniquement dans la mesure nécessaire à la transposition d'un autre acte environnemental de l'Union (ici la directive 2018/844) et seulement le temps strictement nécessaire. La Cour doute que l'annulation crée un vide juridique, les permis pouvant à nouveau fixer individuellement des conditions d'exploitation. L'arrêt a été rendu le 9 juillet 2026."
+   ],
+   "scope": "Arrêt C-771/24 de la Cour de justice (deuxième chambre) : article 2, point a), et article 3, paragraphe 2, point a), de la directive 2001/42/CE ; arrêté du Gouvernement de la Région de Bruxelles-Capitale du 25 février 2021 (conditions d'exploitation des parkings)",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Second Chamber) of 9 July 2026.#Fédération belge du stationnement ASBL and Interparking SA v Région de Bruxelles-Capi",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0771"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0771"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0242-res",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU: German CHP support paid by network operators is not State aid without a compulsory pass-on surcharge",
+   "a": "The Court of Justice dismissed the Commission's appeal and upheld the annulment of its decision classifying German cogeneration (CHP) support as State aid. A legal duty on private network operators to pay support does not by itself involve State resources if passing the cost on to customers is only optional.",
+   "b": "The judgment concerns Member States and authorities designing support schemes for combined heat and power (CHP) plants, as well as CHP operators and network operators. Germany's notified measures obliged private network operators to pay financial support to CHP operators. The Commission had found that this was State aid, compatible with the internal market, and had relied only on the 'levy or compulsory surcharge' criterion for State resources. The Court confirms that the funds must come from a levy or compulsory surcharge under national law, or remain under constant public control. Here the network operators could pass the cost on to end customers but were not obliged to, so the first criterion was not met. The Commission also did not show that the support was financed other than from the operators' own resources, and the PreussenElektra case-law was not read as an exception but as an application of the 'State resources' requirement. The Court dismissed the appeal in full, so the General Court's annulment of Decision C(2021) 3918 stands. The judgment is dated 9 July 2026 and does not state a separate entry into force.",
+   "nl": [
+    "HvJ-EU: Duitse WKK-steun betaald door netbeheerders is geen staatssteun zonder verplichte doorrekeningstoeslag",
+    "Het Hof van Justitie heeft het hoger beroep van de Commissie verworpen en de nietigverklaring bevestigd van haar besluit dat de Duitse steun voor warmte-krachtkoppeling (WKK) als staatssteun kwalificeerde. Een wettelijke verplichting voor private netbeheerders om steun te betalen houdt op zich geen staatsmiddelen in wanneer het doorrekenen van de kosten aan afnemers slechts een mogelijkheid is.",
+    "Het arrest betreft lidstaten en overheden die steunregelingen voor warmte-krachtkoppeling (WKK) opzetten, alsook WKK-exploitanten en netbeheerders. De door Duitsland aangemelde maatregelen verplichtten private netbeheerders om financiële steun te betalen aan WKK-exploitanten. De Commissie oordeelde dat dit staatssteun was die verenigbaar was met de interne markt, en steunde daarbij enkel op het criterium van een heffing of verplichte toeslag als bewijs van staatsmiddelen. Het Hof bevestigt dat de middelen moeten voortkomen uit een heffing of verplichte toeslag krachtens nationaal recht, of voortdurend onder overheidscontrole moeten blijven. Hier konden de netbeheerders de kosten doorrekenen aan eindafnemers maar waren ze daartoe niet verplicht, zodat het eerste criterium niet was vervuld. De Commissie heeft evenmin aangetoond dat de steun niet met eigen middelen van de exploitanten werd gefinancierd; de PreussenElektra-rechtspraak wordt niet als uitzondering gelezen maar als toepassing van het vereiste van staatsmiddelen. Het Hof verwerpt het hoger beroep volledig, zodat de nietigverklaring van Besluit C(2021) 3918 overeind blijft. Het arrest dateert van 9 juli 2026 en vermeldt geen afzonderlijke inwerkingtreding."
+   ],
+   "fr": [
+    "CJUE : le soutien allemand à la cogénération payé par les gestionnaires de réseau n'est pas une aide d'État sans surcharge obligatoire répercutée",
+    "La Cour de justice a rejeté le pourvoi de la Commission et confirmé l'annulation de sa décision qualifiant d'aide d'État le soutien allemand à la cogénération. L'obligation légale faite à des gestionnaires de réseau privés de verser un soutien n'implique pas en soi de ressources d'État lorsque la répercussion du coût sur les clients n'est qu'une faculté.",
+    "L'arrêt concerne les États membres et les autorités qui conçoivent des régimes de soutien à la cogénération de chaleur et d'électricité, ainsi que les exploitants de cogénération et les gestionnaires de réseau. Les mesures notifiées par l'Allemagne obligeaient des gestionnaires de réseau privés à verser un soutien financier aux exploitants de cogénération. La Commission avait conclu à une aide d'État compatible avec le marché intérieur, en s'appuyant uniquement sur le critère du prélèvement ou de la surcharge obligatoire pour établir l'existence de ressources d'État. La Cour confirme que les fonds doivent provenir d'un prélèvement ou d'une surcharge obligatoire en vertu de la législation nationale, ou rester constamment sous contrôle public. En l'espèce, les gestionnaires pouvaient répercuter le coût sur les clients finals sans y être tenus, de sorte que le premier critère n'était pas rempli. La Commission n'a pas non plus démontré que le soutien n'était pas financé par les ressources propres des gestionnaires ; la jurisprudence PreussenElektra n'est pas lue comme une exception mais comme une application de l'exigence de ressources d'État. La Cour rejette le pourvoi dans son intégralité, de sorte que l'annulation de la décision C(2021) 3918 est maintenue. L'arrêt date du 9 juillet 2026 et ne prévoit pas d'entrée en vigueur distincte."
+   ],
+   "scope": "Case C-242/24 P, Commission v Germany – Article 107(1) TFEU (concept of State resources); Commission Decision C(2021) 3918 final on German CHP support",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Fourth Chamber) of 9 July 2026.#European Commission v Federal Republic of Germany.#Appeal – State aid – Combined heat",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0242_RES"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0242_RES"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0242",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "CJEU: no State resources where network operators need not pass on surcharge – German cogeneration support",
+   "a": "The Court of Justice dismissed the Commission's appeal against the General Court judgment that annulled the finding that Germany's 2020 cogeneration (CHP) support measures are State aid. Funds do not qualify as State resources where network operators may, but are not legally obliged to, pass the surcharge on to end customers.",
+   "b": "The judgment concerns support schemes financed through surcharges on electricity, here the German KWKG 2020 premiums for CHP plants, heating and cooling networks and storage, and the reduced surcharge for hydrogen producers. The Commission had classified these measures as State aid financed by a compulsory levy. The Court confirms that funds count as State resources if they come from a compulsory charge under national law and are managed and apportioned in accordance with that law, or if they remain constantly under public control, and that these two criteria are alternatives. It holds that, without a legal obligation to pass the financial burden on to end customers, the funds cannot be traced to a levy or other compulsory surcharge. Here, the distribution network operators pay the support and the surcharge but are only entitled, not obliged, to pass the surcharge on. The Court therefore finds no error of law in the General Court's conclusion that the Commission had not shown that State resources were involved. It rejects the second part of the appeal as well and dismisses the appeal in its entirety, so the annulment of the 2021 Commission decision stands. The Commission bears its own costs and those of Germany on appeal.",
+   "nl": [
+    "HvJ: geen staatsmiddelen zonder verplichte doorrekening van de toeslag – Duitse WKK-steun",
+    "Het Hof van Justitie heeft het hogere beroep van de Commissie verworpen tegen het arrest van het Gerecht dat de kwalificatie van de Duitse WKK-steunmaatregelen 2020 als staatssteun nietig verklaarde. Middelen zijn geen staatsmiddelen wanneer netbeheerders de toeslag wel mogen, maar niet moeten doorrekenen aan eindafnemers.",
+    "Het arrest betreft steunregelingen die via toeslagen op elektriciteit worden gefinancierd, hier de Duitse KWKG 2020-premies voor WKK-installaties, warmte- en koudenetten en opslag, en de verlaagde toeslag voor waterstofproducenten. De Commissie had deze maatregelen aangemerkt als staatssteun die met een verplichte heffing wordt gefinancierd. Het Hof bevestigt dat middelen staatsmiddelen zijn wanneer ze voortkomen uit een bij nationale wetgeving verplichte heffing en overeenkomstig die wetgeving worden beheerd en verdeeld, of wanneer ze voortdurend onder overheidscontrole blijven; deze twee criteria zijn alternatief. Zonder wettelijke verplichting om de financiële last door te rekenen aan eindafnemers kunnen de middelen volgens het Hof niet worden herleid tot een heffing of andere verplichte toeslag. Hier betalen de distributienetbeheerders de steun en de toeslag, maar zijn zij slechts gerechtigd, niet verplicht, de toeslag door te rekenen. Het Hof oordeelt daarom dat het Gerecht geen rechtsfout beging door te besluiten dat de Commissie de inzet van staatsmiddelen niet had aangetoond. Ook het tweede onderdeel van het hogere beroep wordt verworpen en het hogere beroep wordt volledig afgewezen, zodat de nietigverklaring van het Commissiebesluit van 2021 blijft staan. De Commissie draagt haar eigen kosten en die van Duitsland in hoger beroep."
+   ],
+   "fr": [
+    "CJUE : pas de ressources d'État sans répercussion obligatoire de la surcharge – aide allemande à la cogénération",
+    "La Cour de justice a rejeté le pourvoi de la Commission contre l'arrêt du Tribunal ayant annulé la qualification d'aides d'État des mesures allemandes de soutien à la cogénération de 2020. Les fonds ne sont pas des ressources d'État lorsque les gestionnaires de réseau peuvent, sans y être obligés, répercuter la surcharge sur les clients finals.",
+    "L'arrêt porte sur des régimes de soutien financés par des surcharges sur l'électricité, ici les primes allemandes de la KWKG 2020 pour les installations de cogénération, les réseaux de chaleur et de froid et le stockage, ainsi que la surcharge réduite pour les producteurs d'hydrogène. La Commission avait qualifié ces mesures d'aides d'État financées par un prélèvement obligatoire. La Cour confirme que des fonds constituent des ressources d'État s'ils proviennent d'une contribution obligatoire en vertu de la législation nationale et sont gérés et répartis conformément à celle-ci, ou s'ils demeurent constamment sous contrôle public ; ces deux critères sont alternatifs. En l'absence d'obligation légale de répercuter la charge financière sur les clients finals, les fonds ne peuvent, selon la Cour, être rattachés à un prélèvement ou à une autre surcharge obligatoire. En l'espèce, les gestionnaires de réseau de distribution paient le soutien et la surcharge, mais ont seulement la faculté, et non l'obligation, de répercuter la surcharge. La Cour juge donc que le Tribunal n'a pas commis d'erreur de droit en concluant que la Commission n'avait pas démontré la mobilisation de ressources d'État. Elle rejette aussi la seconde branche du pourvoi et rejette le pourvoi dans son ensemble, de sorte que l'annulation de la décision de la Commission de 2021 est maintenue. La Commission supporte ses propres dépens et ceux de l'Allemagne dans le cadre du pourvoi."
+   ],
+   "scope": "Judgment of the Court of Justice in Case C‑242/24 P, Commission v Germany – Article 107(1) TFEU, concept of State resources (KWKG 2020 cogeneration support)",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Fourth Chamber) of 9 July 2026.#European Commission v Federal Republic of Germany.#Appeal – State aid – Combined heat",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0242"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0242"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0224",
+   "d": "2026-07-09",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "CJEU: Seveso III 'presence of dangerous substances' not provable by continuous monitoring of actual quantities alone",
+   "a": "The Court of Justice rules that Article 3(12) of the Seveso III Directive (2012/18/EU) does not preclude a practice under which an operator cannot rely solely on a system continuously monitoring the dangerous substances actually present to show that the thresholds in Annex I are never reached. Anticipated or reasonably foreseeable presence must also be taken into account.",
+   "b": "The judgment concerns operators of establishments, in particular waste treatment plants, and the authorities that decide whether such sites fall under the Seveso III Directive (2012/18/EU). The Court explains that Article 3(12) covers three situations: actual presence of dangerous substances, anticipated presence, and presence reasonably foreseeable on loss of control of processes. The absence of such substances at a given moment therefore does not by itself take an establishment outside the directive. Annex I (note 3) refers to the maximum quantities present or likely to be present at any one time. The Court rules that Article 3(12) does not preclude a practice, possibly written into the waste management permit, under which an operator may not rely solely on a management system continuously monitoring the substances actually present to show that the Annex I quantities are never reached. The referring Italian court also asked whether Article 7 (notification) allows an operator to replace the national notification procedure with such a monitoring procedure; the Court held this second question inadmissible, because Article 7 does not govern how the presence of dangerous substances is proven and the referring court did not explain why the question was relevant. The judgment was delivered on 9 July 2026; it sets no transitional rules or deadlines.",
+   "nl": [
+    "HvJ: 'aanwezigheid van gevaarlijke stoffen' (Seveso III) niet louter aan te tonen via continue monitoring van de feitelijke hoeveelheden",
+    "Het Hof van Justitie oordeelt dat artikel 3, punt 12, van de Seveso III-richtlijn (2012/18/EU) zich niet verzet tegen een praktijk waarbij een exploitant zich niet uitsluitend kan beroepen op een systeem van continue monitoring van de feitelijk aanwezige gevaarlijke stoffen om aan te tonen dat de drempels van bijlage I nooit worden bereikt. Ook met de verwachte of redelijkerwijs voorzienbare aanwezigheid moet rekening worden gehouden.",
+    "Het arrest betreft exploitanten van inrichtingen, in het bijzonder afvalverwerkingsinstallaties, en de overheden die beslissen of zulke sites onder de Seveso III-richtlijn (2012/18/EU) vallen. Het Hof legt uit dat artikel 3, punt 12, drie situaties omvat: feitelijke aanwezigheid van gevaarlijke stoffen, verwachte aanwezigheid en aanwezigheid die redelijkerwijs voorzienbaar is bij verlies van controle over processen. De afwezigheid van dergelijke stoffen op een bepaald ogenblik sluit een inrichting dus niet op zich uit van de richtlijn. Bijlage I (noot 3) verwijst naar de maximumhoeveelheden die op enig moment aanwezig zijn of waarschijnlijk aanwezig zijn. Het Hof oordeelt dat artikel 3, punt 12, zich niet verzet tegen een praktijk, mogelijk opgenomen in de afvalvergunning, waarbij een exploitant zich niet uitsluitend kan beroepen op een beheerssysteem met continue monitoring van de feitelijk aanwezige stoffen om aan te tonen dat de hoeveelheden van bijlage I nooit worden bereikt. De Italiaanse verwijzende rechter vroeg ook of artikel 7 (melding) toelaat dat een exploitant de nationale meldingsprocedure vervangt door zo'n monitoringprocedure; het Hof verklaarde die tweede vraag niet-ontvankelijk, omdat artikel 7 niet regelt hoe de aanwezigheid van gevaarlijke stoffen wordt bewezen en de verwijzende rechter de relevantie van de vraag niet toelichtte. Het arrest werd uitgesproken op 9 juli 2026; het bevat geen overgangsregels of termijnen."
+   ],
+   "fr": [
+    "CJUE : la « présence de substances dangereuses » (Seveso III) ne peut être prouvée par la seule surveillance continue des quantités réelles",
+    "La Cour de justice juge que l'article 3, point 12, de la directive Seveso III (2012/18/UE) ne s'oppose pas à une pratique selon laquelle l'exploitant ne peut se fonder uniquement sur un système de surveillance continue des substances dangereuses effectivement présentes pour démontrer que les seuils de l'annexe I ne sont jamais atteints. La présence prévue ou raisonnablement prévisible doit aussi être prise en compte.",
+    "L'arrêt concerne les exploitants d'établissements, en particulier d'installations de traitement de déchets, et les autorités qui décident si ces sites relèvent de la directive Seveso III (2012/18/UE). La Cour explique que l'article 3, point 12, couvre trois situations : la présence effective de substances dangereuses, leur présence anticipée et leur présence raisonnablement prévisible en cas de perte de contrôle des procédés. L'absence de telles substances à un moment donné n'exclut donc pas à elle seule un établissement du champ de la directive. L'annexe I (note 3) renvoie aux quantités maximales présentes ou susceptibles d'être présentes à un moment quelconque. La Cour juge que l'article 3, point 12, ne s'oppose pas à une pratique, éventuellement intégrée dans l'autorisation de gestion des déchets, selon laquelle l'exploitant ne peut se fonder uniquement sur un système de gestion assurant la surveillance continue des substances effectivement présentes pour prouver que les quantités de l'annexe I ne sont jamais atteintes. La juridiction italienne demandait aussi si l'article 7 (notification) permet à l'exploitant de remplacer la procédure nationale de notification par une telle procédure de surveillance ; la Cour a déclaré cette seconde question irrecevable, car l'article 7 ne régit pas la manière de prouver la présence de substances dangereuses et la juridiction de renvoi n'a pas expliqué la pertinence de la question. L'arrêt a été rendu le 9 juillet 2026 ; il ne prévoit ni mesures transitoires ni délais."
+   ],
+   "scope": "Arrêt de la Cour (quatrième chambre), affaire C-224/24 : directive 2012/18/UE (Seveso III), articles 2, 3(12) et 7, annexe I",
+   "dates": {
+    "adopted": "2026-07-09"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Fourth Chamber) of 9 July 2026.#Società Eredi Raimondo Bufarini Srl – Servizi Ambientali v Ministero dell'Interno and",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0224"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0224"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042189",
+   "d": "2026-07-09",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders renews wolf protection zones in Antwerp and Limburg for 1 Sept 2026 to 28 Feb 2027",
+   "a": "A ministerial decree designates a wolf protection zone (schutkring) in 13 municipalities in Antwerp province and 27 in Limburg for 1 September 2026 to 28 February 2027. This keeps cattle and horse keepers outside the VLIF scheme eligible for wolf-proof fencing subsidies.",
+   "b": "The decree concerns cattle and horse keepers in the designated municipalities who cannot use the VLIF non-productive investment support. Under the 2021 Flemish Government decree on wolf-proof measures, they can only receive subsidies for wolf-proof fencing where a protection zone has been designated. The decree repeals the single article of the ministerial decree of 3 May 2022 and inserts two new articles. Article 1 designates a zone in the province of Antwerp covering Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschaat, Kapellen, Stabroek and Antwerpen. Article 2 designates a zone in the province of Limburg covering 27 municipalities, from As and Balen to Zonhoven and Zutendaal. Both designations apply from 1 September 2026 to 28 February 2027. The decree follows the INBO opinion of 22 January 2026, which proposed leaving the zones unchanged, and it enters into force on 1 September 2026.",
+   "nl": [
+    "Vlaanderen verlengt schutkringen wolvenschade in Antwerpen en Limburg van 1 sept. 2026 tot 28 feb. 2027",
+    "Een ministerieel besluit duidt een schutkring in functie van wolvenschade aan in 13 Antwerpse en 27 Limburgse gemeenten voor de periode 1 september 2026 tot en met 28 februari 2027. Zo blijven rundvee- en paardenhouders buiten het VLIF in aanmerking komen voor subsidies voor wolfwerende omheiningen.",
+    "Het besluit betreft rundvee- en paardenhouders in de aangeduide gemeenten die geen beroep kunnen doen op de Niet-Productieve Investeringssteun van het VLIF. Volgens het besluit van de Vlaamse Regering van 26 november 2021 tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen kunnen zij enkel subsidies krijgen voor wolfwerende omheiningen als er een schutkring is aangeduid. Het besluit heft het enige artikel van het ministerieel besluit van 3 mei 2022 op en voegt twee nieuwe artikelen in. Artikel 1 duidt een schutkring aan in de provincie Antwerpen voor Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschaat, Kapellen, Stabroek en Antwerpen. Artikel 2 duidt een schutkring aan in de provincie Limburg voor 27 gemeenten, van As en Balen tot Zonhoven en Zutendaal. Beide aanduidingen gelden van 1 september 2026 tot en met 28 februari 2027. Het besluit volgt op het INBO-advies van 22 januari 2026, dat voorstelde de zones ongewijzigd te laten, en treedt in werking op 1 september 2026."
+   ],
+   "fr": [
+    "La Flandre prolonge les cercles de protection contre le loup à Anvers et au Limbourg du 1er sept. 2026 au 28 févr. 2027",
+    "Un arrêté ministériel désigne un cercle de protection (schutkring) contre les dégâts de loup dans 13 communes de la province d'Anvers et 27 du Limbourg, du 1er septembre 2026 au 28 février 2027. Les éleveurs de bovins et de chevaux hors VLIF restent ainsi éligibles aux subventions pour clôtures anti-loup.",
+    "L'arrêté concerne les éleveurs de bovins et de chevaux des communes désignées qui ne peuvent pas recourir au soutien aux investissements non productifs du VLIF. Selon l'arrêté du Gouvernement flamand du 26 novembre 2021 fixant les règles de subvention des mesures anti-loup, ils ne peuvent obtenir des subventions pour des clôtures anti-loup que si un cercle de protection est désigné. L'arrêté abroge l'article unique de l'arrêté ministériel du 3 mai 2022 et insère deux nouveaux articles. L'article 1 désigne un cercle de protection dans la province d'Anvers pour Essen, Kalmthout, Wuustwezel, Hoogstraten, Rijkevorsel, Brecht, Malle, Schilde, Schoten, Brasschaat, Kapellen, Stabroek et Anvers. L'article 2 désigne un cercle de protection dans la province du Limbourg pour 27 communes, d'As et Balen à Zonhoven et Zutendaal. Les deux désignations valent du 1er septembre 2026 au 28 février 2027. L'arrêté fait suite à l'avis de l'INBO du 22 janvier 2026, qui proposait de ne pas modifier les zones, et entre en vigueur le 1er septembre 2026."
+   ],
+   "scope": "Ministerieel besluit van 9 juli 2026 tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade (opheffing enig artikel; nieuwe artikelen 1 en 2)",
+   "dates": {
+    "adopted": "2026-07-09",
+    "published": "2026-07-17",
+    "in_force": "2026-09-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 3 mei 2022 tot aanduiding van een schutkring in functie van wolvenschade",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042189&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042189"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1738",
+   "d": "2026-07-08",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products"
+   ],
+   "h": "New EU Regulation on vehicle circularity and end-of-life vehicles replaces the ELV Directive",
+   "a": "Regulation (EU) 2026/1738 sets recyclability, recycled plastic and hazardous substance requirements for vehicle design, and rules on end-of-life vehicle management and used-vehicle exports. It repeals Directives 2000/53/EC and 2005/64/EC, with obligations phasing in between 2029 and 2036 depending on vehicle category.",
+   "b": "The Regulation affects vehicle manufacturers, importers, distributors, suppliers, treatment operators and exporters of used vehicles. It applies first to categories M1 and N1. Special purpose M1/N1 vehicles follow from 1 September 2029, and categories M2, M3, N2, N3, O, their special purpose versions and L-category vehicles from 1 September 2031, with several articles disapplied for those categories. Small-series vehicles, military and emergency-service vehicles, historic vehicles, trailer caravans and pedal cycles are excluded. Vehicle types type-approved from 1 September 2032 must be reusable or recyclable to at least 85 % and reusable or recoverable to at least 95 % by mass, and may not contain lead, mercury, cadmium or hexavalent chromium except under the Annex IV exemptions. New types type-approved from 1 September 2032 must contain 15 % post-consumer recycled plastic, rising to 25 % from 1 September 2036, with at least 20 % of that target coming from end-of-life vehicles or parts removed during use. Recycled material from third-country installations counts from 14 August 2030 only if it meets Annex XIII and is audited at least every five years. The Regulation also lays down rules on extended producer responsibility, collection and treatment of end-of-life vehicles and exports of used vehicles. The Commission must adopt calculation methodologies (recycled plastic by 31 August 2028, recyclability rates by 28 February 2029) and assess minimum recycled steel and aluminium content by 30 September 2027.",
+   "nl": [
+    "Nieuwe EU-verordening over circulair voertuigontwerp en afgedankte voertuigen vervangt de richtlijn afgedankte voertuigen",
+    "Verordening (EU) 2026/1738 stelt eisen inzake recycleerbaarheid, gerecycleerd plastic en stoffen voor het voertuigontwerp, en regels voor het beheer van afgedankte voertuigen en de uitvoer van gebruikte voertuigen. Zij trekt de Richtlijnen 2000/53/EG en 2005/64/EG in, met verplichtingen die tussen 2029 en 2036 gefaseerd ingaan naargelang de voertuigcategorie.",
+    "De verordening treft voertuigfabrikanten, importeurs, distributeurs, leveranciers, verwerkers en exporteurs van gebruikte voertuigen. Zij is eerst van toepassing op categorieën M1 en N1. Voertuigen voor speciale doeleinden M1/N1 volgen vanaf 1 september 2029, en categorieën M2, M3, N2, N3, O, hun versies voor speciale doeleinden en voertuigen van categorie L vanaf 1 september 2031, waarbij voor die categorieën verschillende artikelen niet gelden. Voertuigen uit kleine series, militaire voertuigen en voertuigen van hulpdiensten, historische voertuigen, caravans en trapfietsen zijn uitgesloten. Voertuigtypes die vanaf 1 september 2032 typegoedgekeurd worden, moeten naar massa voor minstens 85 % herbruikbaar of recycleerbaar en voor minstens 95 % herbruikbaar of nuttig toepasbaar zijn, en mogen geen lood, kwik, cadmium of zeswaardig chroom bevatten, behalve onder de uitzonderingen van bijlage IV. Nieuwe types die vanaf 1 september 2032 typegoedgekeurd worden, moeten 15 % gerecycleerd post-consumentenplastic bevatten, oplopend tot 25 % vanaf 1 september 2036, waarbij minstens 20 % van die doelstelling afkomstig moet zijn van afgedankte voertuigen of van onderdelen die tijdens het gebruik zijn verwijderd. Gerecycleerd materiaal uit installaties in derde landen telt vanaf 14 augustus 2030 enkel mee indien het voldoet aan bijlage XIII en minstens om de vijf jaar wordt geauditeerd. De verordening bevat ook regels over uitgebreide producentenverantwoordelijkheid, inzameling en verwerking van afgedankte voertuigen en uitvoer van gebruikte voertuigen. De Commissie moet berekeningsmethodes vaststellen (gerecycleerd plastic uiterlijk 31 augustus 2028, recycleerbaarheidspercentages uiterlijk 28 februari 2029) en tegen 30 september 2027 een minimumaandeel gerecycleerd staal en aluminium beoordelen."
+   ],
+   "fr": [
+    "Nouveau règlement UE sur la circularité des véhicules et les véhicules hors d'usage, remplaçant la directive VHU",
+    "Le règlement (UE) 2026/1738 fixe des exigences de recyclabilité, de plastique recyclé et de substances pour la conception des véhicules, ainsi que des règles sur la gestion des véhicules hors d'usage et l'exportation de véhicules d'occasion. Il abroge les directives 2000/53/CE et 2005/64/CE, avec des obligations échelonnées de 2029 à 2036 selon la catégorie de véhicule.",
+    "Le règlement concerne les constructeurs, importateurs, distributeurs et fournisseurs de véhicules, les opérateurs de traitement et les exportateurs de véhicules d'occasion. Il s'applique d'abord aux catégories M1 et N1. Les véhicules à usage spécial M1/N1 suivent à partir du 1er septembre 2029, et les catégories M2, M3, N2, N3, O, leurs versions à usage spécial et les véhicules de catégorie L à partir du 1er septembre 2031, plusieurs articles ne s'appliquant pas à ces catégories. Les véhicules produits en petites séries, les véhicules militaires et de services d'urgence, les véhicules historiques, les caravanes et les cycles à pédales sont exclus. Les types de véhicules réceptionnés à partir du 1er septembre 2032 doivent être réutilisables ou recyclables à au moins 85 % en masse et réutilisables ou valorisables à au moins 95 % en masse, et ne peuvent contenir ni plomb, ni mercure, ni cadmium, ni chrome hexavalent, sauf dérogations de l'annexe IV. Les nouveaux types réceptionnés à partir du 1er septembre 2032 doivent contenir 15 % de plastique recyclé post-consommation, porté à 25 % à partir du 1er septembre 2036, au moins 20 % de cet objectif devant provenir de véhicules hors d'usage ou de pièces retirées pendant l'utilisation. Les matières recyclées issues d'installations de pays tiers ne comptent à partir du 14 août 2030 que si elles respectent l'annexe XIII et sont auditées au moins tous les cinq ans. Le règlement fixe aussi des règles sur la responsabilité élargie du producteur, la collecte et le traitement des véhicules hors d'usage et l'exportation de véhicules d'occasion. La Commission doit adopter des méthodes de calcul (plastique recyclé au plus tard le 31 août 2028, taux de recyclabilité au plus tard le 28 février 2029) et évaluer d'ici le 30 septembre 2027 une part minimale d'acier et d'aluminium recyclés."
+   ],
+   "scope": "Regulation (EU) 2026/1738 — Articles 1 to 6: subject matter, scope, definitions, reusability/recyclability/recoverability, substances and recycled plastic content",
+   "dates": {
+    "adopted": "2026-07-08",
+    "published": "2026-07-24"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/1738 of the European Parliament and of the Council of 8 July 2026 on circularity requirements for vehicle design and on",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1738"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1738"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042389",
+   "d": "2026-07-08",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "EU amends Regulation 2024/1157 on the ban on exporting mixed municipal waste intended for recovery",
+   "a": "Regulation (EU) 2026/1703 amends Regulation (EU) 2024/1157 as regards the ban on exporting mixed municipal waste destined for recovery. It was published on 10 July 2026 and enters into force on 30 July 2026.",
+   "b": "The regulation concerns exports of mixed municipal waste destined for recovery, and so the operators and authorities involved in such exports. It amends Regulation (EU) 2024/1157 as regards the ban on those exports. It is a European act that applies in Belgium as a regulation. It was published in the Official Journal on 10 July 2026 and enters into force on 30 July 2026. No transitional rules are stated.",
+   "nl": [
+    "EU wijzigt Verordening 2024/1157 inzake het uitvoerverbod voor gemengd stedelijk afval bestemd voor nuttige toepassing",
+    "Verordening (EU) 2026/1703 wijzigt Verordening (EU) 2024/1157 wat betreft het verbod op de uitvoer van voor nuttige toepassing bestemd gemengd stedelijk afval. Ze werd op 10 juli 2026 bekendgemaakt en treedt op 30 juli 2026 in werking.",
+    "De verordening heeft betrekking op de uitvoer van gemengd stedelijk afval dat bestemd is voor nuttige toepassing, en dus op de marktdeelnemers en overheden die bij die uitvoer betrokken zijn. Ze wijzigt Verordening (EU) 2024/1157 wat betreft het verbod op die uitvoer. Het is een Europese handeling die in België als verordening van toepassing is. Ze werd op 10 juli 2026 in het Publicatieblad bekendgemaakt en treedt op 30 juli 2026 in werking. Overgangsregels worden niet vermeld."
+   ],
+   "fr": [
+    "L'UE modifie le règlement 2024/1157 sur l'interdiction d'exporter des déchets municipaux mixtes destinés à la valorisation",
+    "Le règlement (UE) 2026/1703 modifie le règlement (UE) 2024/1157 en ce qui concerne l'interdiction d'exporter des déchets municipaux mixtes destinés à la valorisation. Il a été publié le 10 juillet 2026 et entre en vigueur le 30 juillet 2026.",
+    "Le règlement concerne l'exportation de déchets municipaux mixtes destinés à la valorisation, et donc les opérateurs et les autorités concernés par ces exportations. Il modifie le règlement (UE) 2024/1157 en ce qui concerne l'interdiction de ces exportations. Il s'agit d'un acte européen applicable en Belgique en tant que règlement. Il a été publié au Journal officiel le 10 juillet 2026 et entre en vigueur le 30 juillet 2026. Aucune règle transitoire n'est mentionnée."
+   ],
+   "scope": "Verordening (EU) 2026/1703 tot wijziging van Verordening (EU) 2024/1157 – verbod op de uitvoer van voor nuttige toepassing bestemd gemengd stedelijk afval",
+   "dates": {
+    "adopted": "2026-07-08",
+    "published": "2026-07-10",
+    "in_force": "2026-07-30"
+   },
+   "u": [
+    [
+     "Verordening (EU) 2026/1703 van het Europees Parlement en de Raad tot wijziging van Verordening (EU) 2024/1157 wat betreft het verbod op de u",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042389&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042389"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0932",
+   "d": "2026-07-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Koksijde apartment-block permit: visual nuisance to neighbours not adequately assessed",
+   "a": "The Council for Permit Disputes annuls, for the third time, the appeal-stage environmental permit for an apartment building in Koksijde. The permitting authority did not adequately assess visual nuisance to the neighbouring building under the Strandlaan RUP, and it must decide again within three months.",
+   "b": "The ruling concerns the appeal authority's permit of 13 July 2025 for demolishing a building and constructing a 12-unit apartment building with one commercial space at Kerkepanneweg 1-3 in Koksijde, in the area of the municipal RUP 'Strandlaan'. The Council rejects the complaints that the upper-floor projections and the ground-floor zone under article 9 RUP are incompatible with the RUP. It accepts the complaint on nuisance under articles 1.2 point 2.1 and 2.4 RUP. The authority's reasoning on visual nuisance was brief and relied on an outdated plan (the initial terrain profile) rather than the amended plans. It also wrongly described the project as fully compliant with the RUP, although it had granted a derogation under article 4.4.1 §1 VCRO for the cornice-to-ridge distance (7.88 m instead of 7 m). The Council calls the argument that there is no objective right to an unchanged view in an urban setting a mere stock phrase. The decision is annulled, and the authority must take a new decision on the administrative appeal within three months of the day after notification of the ruling. The costs, a 400 euro filing fee and a 910 euro procedural indemnity, are borne by the authority.",
+   "nl": [
+    "RvVb vernietigt vergunning appartementsgebouw Koksijde: zichthinder voor buren onvoldoende beoordeeld",
+    "De Raad voor Vergunningsbetwistingen vernietigt voor de derde keer de omgevingsvergunning in beroep voor een appartementsgebouw in Koksijde. De vergunningverlenende overheid onderzocht de zichthinder voor het aanpalende gebouw onder het RUP Strandlaan niet afdoende en moet binnen drie maanden opnieuw beslissen.",
+    "Het arrest betreft de beslissing in bestuurlijk beroep van 13 juli 2025 waarbij een omgevingsvergunning werd verleend voor de sloop van een gebouw en de bouw van een appartementsgebouw met twaalf woonentiteiten en één handelsruimte aan de Kerkepanneweg 1-3 in Koksijde, binnen het gemeentelijk RUP 'Strandlaan'. De Raad verwerpt de grieven over de onverenigbaarheid van de uitbouwen op de verdiepingen en van de gelijkvloerse zone volgens artikel 9 RUP met het RUP. De grief over hinder onder artikel 1.2, punten 2.1 en 2.4 RUP wordt wel aanvaard. De motivering over de zichthinder was summier en steunde op een achterhaald plan (het initiële terreinprofiel) in plaats van op de aangepaste plannen. De overheid stelde bovendien ten onrechte dat het project volledig conform het RUP was, hoewel ze een afwijking op grond van artikel 4.4.1, §1 VCRO had verleend voor de afstand tussen kroonlijst en nok (7,88 m i.p.v. 7 m). Het motief dat er in een verstedelijkte omgeving geen objectief recht op ongewijzigd uitzicht bestaat, noemt de Raad een loutere stijlformule. De beslissing wordt vernietigd en de overheid moet binnen drie maanden na de dag na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De kosten, een rolrecht van 400 euro en een rechtsplegingsvergoeding van 910 euro, komen ten laste van de overheid."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'un immeuble à appartements à Coxyde : nuisance visuelle pour les voisins insuffisamment examinée",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule pour la troisième fois le permis d'environnement délivré en recours pour un immeuble à appartements à Coxyde. L'autorité n'a pas examiné de manière suffisante la nuisance visuelle pour l'immeuble voisin au regard du RUP Strandlaan et doit statuer à nouveau dans les trois mois.",
+    "L'arrêt concerne la décision de recours administratif du 13 juillet 2025 qui délivrait un permis d'environnement pour la démolition d'un bâtiment et la construction d'un immeuble de douze logements et d'un espace commercial à la Kerkepanneweg 1-3 à Coxyde, dans le périmètre du plan d'exécution spatial communal (RUP) « Strandlaan ». Le Conseil rejette les griefs relatifs à l'incompatibilité avec le RUP des saillies aux étages et de la zone du rez-de-chaussée visée à l'article 9 du RUP. Il accueille en revanche le grief relatif aux nuisances au regard de l'article 1.2, points 2.1 et 2.4 du RUP. La motivation sur la nuisance visuelle était sommaire et reposait sur un plan dépassé (le profil de terrain initial) plutôt que sur les plans modifiés. L'autorité a en outre affirmé à tort que le projet était entièrement conforme au RUP, alors qu'elle avait accordé une dérogation sur la base de l'article 4.4.1, §1er du VCRO pour la distance entre la corniche et le faîte (7,88 m au lieu de 7 m). Le Conseil qualifie de simple formule de style le motif selon lequel il n'existe pas de droit objectif au maintien de la vue en milieu urbanisé. La décision est annulée et l'autorité doit statuer à nouveau sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt. Les dépens, soit un droit de rôle de 400 euros et une indemnité de procédure de 910 euros, sont à charge de l'autorité."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0932 – RUP 'Strandlaan' (art. 1.2 punten 2.1, 2.4, 2.9 en art. 9), art. 4.3.1 en 4.4.1, §1 VCRO",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0932.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0932.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0932"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0924",
+   "d": "2026-07-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Ghent student housing permit: mobility assessment relied on uncertain future tram works",
+   "a": "The Council for Permit Disputes annulled an environmental permit for a 530-room student housing complex in Sint-Denijs-Westrem (Ghent). The permit authority had judged mobility and road safety compatible with good spatial planning mainly on the basis of a planned road redesign that was still at concept stage.",
+   "b": "The ruling concerns permit authorities and developers of large projects in Flanders, here a 530-room student housing complex with offices, a multipurpose hall and an underground car park. The Council held that the compatibility of a project with good spatial planning (art. 4.3.1 VCRO) must be assessed against the existing situation in the area. The authority had acknowledged that safe pedestrian and cycle paths and crossings along the Kortrijksesteenweg are missing, but still granted the permit because a tram redesign would make the site safely accessible 'in the short term'. That redesign was only at concept stage, with major works at the earliest in 2028, and has reportedly since been dropped, so it could not be decisive. The Council also held that a municipal policy of allowing no car parking for student housing may be taken into account as a policy-desired development, but must be tested in concreto against the local situation; referring to city policy alone was not enough. The decision of 15 May 2025 is annulled and the authority must take a new decision on the administrative appeal within three months from the day after notification of the ruling. The requests that the Council substitute its own ruling and apply the administrative loop were rejected, and the other grounds were not examined.",
+   "nl": [
+    "RvVb vernietigt vergunning studentenhuisvesting Gent: mobiliteitsbeoordeling steunde op onzekere toekomstige tramwerken",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een collectieve studentenhuisvesting met 530 kamers in Sint-Denijs-Westrem (Gent). De vergunningverlenende overheid had de verenigbaarheid met de goede ruimtelijke ordening inzake mobiliteit en verkeersveiligheid vooral gesteund op een geplande herinrichting die nog in conceptfase zat.",
+    "Het arrest treft vergunningverlenende overheden en ontwikkelaars van grote projecten in Vlaanderen, hier een studentenhuisvesting met 530 kamers, kantoren, een polyvalente zaal en een ondergrondse parking. De Raad oordeelt dat de verenigbaarheid met de goede ruimtelijke ordening (art. 4.3.1 VCRO) moet worden beoordeeld op basis van de in de omgeving bestaande toestand. De overheid erkende dat veilige voetgangers- en fietspaden en oversteekplaatsen langs de Kortrijksesteenweg ontbreken, maar verleende de vergunning toch omdat een vertramming de site 'op vrij korte termijn' veilig bereikbaar zou maken. Die herinrichting zat enkel in conceptfase, met grote werken ten vroegste in 2028, en is naar verluidt intussen geschrapt, zodat ze niet doorslaggevend kon zijn. Verder oordeelt de Raad dat het stedelijke beleid om geen autoparkeerplaatsen toe te staan bij studentenhuisvesting als beleidsmatig gewenste ontwikkeling in rekening mag worden gebracht, maar in concreto aan de plaatselijke toestand moet worden getoetst; een loutere verwijzing naar het stedelijk beleid volstaat niet. De beslissing van 15 mei 2025 wordt vernietigd en de overheid moet binnen drie maanden vanaf de dag na de betekening van het arrest een nieuwe beslissing nemen over het bestuurlijk beroep. De verzoeken tot indeplaatsstelling en tot toepassing van de bestuurlijke lus werden verworpen en de overige middelen werden niet onderzocht."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'un logement étudiant à Gand : évaluation de la mobilité fondée sur des travaux de tram incertains",
+    "Le Conseil du contentieux des permis (RvVb) annule un permis d'environnement pour un logement étudiant collectif de 530 chambres à Sint-Denijs-Westrem (Gand). L'autorité avait jugé la mobilité et la sécurité routière compatibles avec le bon aménagement des lieux surtout sur la base d'un réaménagement routier encore au stade de concept.",
+    "L'arrêt concerne les autorités délivrantes et les promoteurs de grands projets en Flandre, ici un logement étudiant de 530 chambres avec bureaux, salle polyvalente et parking souterrain. Le Conseil juge que la compatibilité avec le bon aménagement des lieux (art. 4.3.1 VCRO) doit être appréciée sur la base de la situation existante dans les environs. L'autorité avait reconnu l'absence de cheminements piétons et cyclables sûrs et de traversées sécurisées le long de la Kortrijksesteenweg, mais avait délivré le permis parce que la mise en place du tram rendrait le site accessible en sécurité « à assez court terme ». Ce réaménagement n'était qu'au stade de concept, les grands travaux ne devant commencer au plus tôt qu'en 2028, et il aurait depuis été abandonné ; il ne pouvait donc pas être déterminant. Le Conseil juge en outre que la politique communale de ne permettre aucune place de stationnement pour voitures pour le logement étudiant peut être prise en compte comme développement souhaité par la politique, mais doit être testée in concreto au regard de la situation locale ; un simple renvoi à la politique de la ville ne suffit pas. La décision du 15 mai 2025 est annulée et l'autorité doit prendre une nouvelle décision sur le recours administratif dans les trois mois à compter du lendemain de la notification de l'arrêt. Les demandes de substitution et d'application de la boucle administrative ont été rejetées et les autres moyens n'ont pas été examinés."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0924: art. 4.3.1, §1 en §2 VCRO (goede ruimtelijke ordening, mobiliteit) en art. 34 en 37 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-07-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0924.",
+     "https://www.dbrc.be/sites/default/files/2026-08/RVVB.2526.0924.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0924"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
