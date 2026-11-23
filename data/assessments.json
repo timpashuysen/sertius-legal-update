@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 9 column 1 (char 2884)"
+"write_error": "Unterminated string starting at: line 9 column 1 (char 2498)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6088)"
+"write_error": "Unterminated string starting at: line 17 column 10 (char 7482)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5099)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6678)"
 },
 "codex:1042027": {
 "v": 2,
@@ -35891,7 +35891,8 @@
 ],
 "reason": "Constitutional Court ruling on Walloon environmental code, water code and permit provisions.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-56-2026"
 },
 "gwh:55/2026": {
 "v": 2,
@@ -36195,7 +36196,8 @@
 ],
 "reason": "EU position in OSPAR on marine pollution, plastic waste and marine ecosystem protection.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-52026pc0172"
 },
 "eu:52026PC0171": {
 "v": 2,
@@ -36908,7 +36910,9 @@
 ],
 "reason": "Designates environmental enforcement officers with judicial police status; enforcement rule.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Individual appointment of three supervisors as judicial police officers; it creates or clarifies no environmental obligations for companies, developers or authorities."
 },
 "codex:1041960": {
 "v": 2,
@@ -36919,7 +36923,8 @@
 ],
 "reason": "Designates environmental enforcement officers, including for inspection powers under the Flemish enforcement decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1041960"
 },
 "cass:P.26.0437.N": {
 "v": 2,
@@ -36930,7 +36935,9 @@
 ],
 "reason": "Court of Cassation ruling; content unknown from title, so flagged for review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Criminal-procedure ruling on a fine for a manifestly unfounded request to recuse a judge; no environmental obligations involved."
 },
 "eu:52026PC0169": {
 "v": 2,
@@ -36977,7 +36984,8 @@
 ],
 "reason": "Amends REACH Annex XVII restricting 2,4-dinitrotoluene in articles; chemicals rule.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r0859"
 },
 "codex:1042384": {
 "v": 2,
@@ -36988,7 +36996,8 @@
 ],
 "reason": "Dutch version of the REACH Annex XVII amendment on 2,4-dinitrotoluene in articles.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042384"
 },
 "codex:1041966": {
 "v": 2,
@@ -62047,7 +62056,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0706"
 },
 "rvvb:RVVB.2526.0705": {
 "v": 2,
@@ -62058,7 +62068,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0705"
 },
 "rvvb:RVVB.2526.0704": {
 "v": 2,
@@ -62087,7 +62098,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0701"
 },
 "rvvb:RVVB.2526.0699": {
 "v": 2,
@@ -62125,7 +62137,8 @@
 ],
 "reason": "Title gives no subject; court ruling on a permit dispute, needs review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0696"
 },
 "rvvb:RVVB.2526.0695": {
 "v": 2,
@@ -64646,15 +64659,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 0,
+"this_run": 9,
+"found_not_relevant_on_reading": 2,
 "failed": 3,
-"waiting": 412,
+"waiting": 401,
 "api": {
 "calls": 14,
-"input_tokens": 247638,
-"output_tokens": 49290,
-"usd": 0.9882
+"input_tokens": 169247,
+"output_tokens": 39657,
+"usd": 0.7351
 },
 "updated": "2026-11-23"
 }

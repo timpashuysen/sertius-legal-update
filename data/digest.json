@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:44:52Z",
+ "updated": "2026-11-23T05:52:56Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -17149,6 +17149,372 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0708"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0706",
+   "d": "2026-04-23",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls rebuild permit for zone-alien home: weak reasoning on new inquiry and outbuilding volume",
+   "a": "The Council for Permit Disputes annulled a permit to rebuild a zone-alien dwelling and outbuildings in agricultural zone. The appeal authority had not adequately reasoned why amended project content needed no new public inquiry or advice round, nor why the outbuilding volume is spatially acceptable.",
+   "b": "The ruling concerns permit applicants and permitting authorities in appeals on environmental permits for rebuilding zone-alien dwellings and outbuildings, here in agricultural zone in Ardooie. The Council annulled the appeal decision of 27 March 2025. First, the decision only stated that the last amendment (PIV5) met the conditions of article 64 of the Environmental Permit Decree. It did not show that the cumulative conditions of its second paragraph were met, so the absence of a new public inquiry or advice round was not justified. A fire service advice that assumed a detached childcare building was also left unaddressed. Second, the assessment of good spatial planning for the outbuilding volume was insufficient. The volume reduction, the absence of any rule requiring outbuildings to be smaller than the dwelling, and the comparison with agricultural farm typology did not replace a concrete assessment. Questions about the intended use, including storage and a business activity of one applicant, were ignored. The deviation from the provincial environmental officer's report required more careful reasoning. The Council rejected the complaint of unlawful splitting of the project: successive permits do not in themselves prove it, and article 7 §2 of the Decree does not prohibit splitting. The appeal authority must take a new decision within three months from the day after notification of the ruling, and bears costs of 840 euro.",
+   "nl": [
+    "RvVb vernietigt vergunning voor herbouw van zonevreemde woning wegens gebrekkige motivering",
+    "De Raad voor Vergunningsbetwistingen vernietigde een omgevingsvergunning voor het herbouwen van een zonevreemde woning en bijgebouwen in agrarisch gebied. De beroepsinstantie had onvoldoende gemotiveerd waarom een gewijzigde projectinhoud geen nieuw openbaar onderzoek of nieuwe adviesronde vereiste, en evenmin waarom het volume aan bijgebouwen ruimtelijk aanvaardbaar is.",
+    "Het arrest betreft aanvragers en vergunningverlenende overheden in beroepsprocedures over omgevingsvergunningen voor het herbouwen van zonevreemde woningen en bijgebouwen, hier in agrarisch gebied te Ardooie. De Raad vernietigde de beslissing in beroep van 27 maart 2025. Ten eerste stelde de beslissing enkel dat de laatste wijziging (PIV5) aan de voorwaarden van artikel 64 van het Omgevingsvergunningsdecreet voldeed. Ze toonde niet aan dat de cumulatieve voorwaarden van het tweede lid vervuld waren, zodat het uitblijven van een nieuw openbaar onderzoek of een nieuwe adviesronde niet verantwoord was. Een advies van de hulpverleningszone dat uitging van een losstaand kinderdagverblijf bleef evenmin besproken. Ten tweede was de beoordeling van de goede ruimtelijke ordening voor het volume van de bijgebouwen ontoereikend. De volumevermindering, het ontbreken van een regel dat bijgebouwen kleiner moeten zijn dan de woning en de vergelijking met de typologie van landbouwbedrijven kwamen niet in de plaats van een concrete beoordeling. Vragen over de beoogde invulling, onder meer opslag en een beroepsactiviteit van een van de aanvragers, bleven onbeantwoord. Het afwijken van het verslag van de provinciale omgevingsambtenaar vereiste een zorgvuldiger motivering. Het middel over een onwettige opsplitsing van het project verwierp de Raad: opeenvolgende vergunningen bewijzen dat op zich niet en artikel 7, §2 van het decreet verbiedt opsplitsing niet. De beroepsinstantie moet binnen drie maanden vanaf de dag na de betekening van het arrest een nieuwe beslissing nemen en draagt de kosten van 840 euro."
+   ],
+   "fr": [
+    "Le RvVb annule un permis de reconstruction d'une habitation non conforme à la zone pour motivation insuffisante",
+    "Le Conseil pour les contestations des autorisations (RvVb) a annulé un permis d'environnement pour la reconstruction d'une habitation et de dépendances non conformes à la zone, en zone agricole. L'autorité de recours n'avait pas suffisamment motivé l'absence de nouvelle enquête publique ou de nouveau tour d'avis après modification du projet, ni l'acceptabilité spatiale du volume des dépendances.",
+    "L'arrêt concerne les demandeurs et les autorités délivrantes dans les recours relatifs aux permis d'environnement pour la reconstruction d'habitations et de dépendances non conformes à la zone, ici en zone agricole à Ardooie. Le Conseil a annulé la décision de recours du 27 mars 2025. Premièrement, la décision se bornait à affirmer que la dernière modification (PIV5) remplissait les conditions de l'article 64 du décret sur le permis d'environnement. Elle ne montrait pas que les conditions cumulatives de son alinéa 2 étaient réunies, de sorte que l'absence de nouvelle enquête publique ou de nouveau tour d'avis n'était pas justifiée. Un avis de la zone de secours partant d'une crèche dans un bâtiment isolé n'était pas non plus examiné. Deuxièmement, l'appréciation du bon aménagement du territoire pour le volume des dépendances était insuffisante. La réduction de volume, l'absence de règle imposant aux dépendances d'être plus petites que l'habitation et la comparaison avec la typologie des exploitations agricoles ne remplaçaient pas un examen concret. Les questions sur l'affectation envisagée, notamment le stockage et une activité professionnelle d'un des demandeurs, sont restées sans réponse. Le fait de s'écarter du rapport du fonctionnaire provincial de l'environnement exigeait une motivation plus rigoureuse. Le Conseil a rejeté le grief d'un fractionnement illicite du projet : des permis successifs ne le prouvent pas en soi et l'article 7, §2 du décret n'interdit pas le fractionnement. L'autorité de recours doit prendre une nouvelle décision dans les trois mois à compter du lendemain de la notification de l'arrêt et supporte les dépens de 840 euros."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0706: artikelen 7, §2, 63/1 en 64 Omgevingsvergunningsdecreet; artikel 4.3.1 VCRO (goede ruimtelijke ordening)",
+   "dates": {
+    "adopted": "2026-04-23"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0706.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0706.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0706"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-gwh-56-2026",
+   "d": "2026-04-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Constitutional Court upholds Walloon end of exemption from real sanitation cost for individual treatment system owners",
+   "a": "In judgment 56/2026 the Constitutional Court rules that Article D.270 of the Walloon Water Code, as amended in 2016, does not breach the equality principle. The repeal of the exemption from the real sanitation cost (CVA) for owners of individual wastewater treatment systems stands.",
+   "b": "The ruling concerns households and other owners of individual wastewater treatment systems (IZS/SEI) in Wallonia, who used to be exempt from the real sanitation cost (CVA/RKS) charged on the water price. The Court finds that Article D.270, as amended by Article 46 of the Decree of 23 June 2016, does not infringe Articles 10 and 11 of the Constitution. Charging the cost on mains water volumes to IZS owners and to users of the collective sewer system alike is reasonably justified by the polluter-pays principle, cost recovery for water services, cost pooling and solidarity. IZS owners also receive services from the public management of autonomous sanitation (premiums, checks, contributions to maintenance and sludge removal). Treating IZS owners with a private well like those without one is likewise justified, since the cost applies only to wastewater from the public water supply and well water is covered by the separate annual discharge tax (Art. D.259, 2°). The question in case 8468 on Article 106, §1 of the 2016 Decree needs no answer, because that provision only set a transitional choice until 31 December 2021 and does not itself repeal the exemption. The judgment was delivered on 23 April 2026.",
+   "nl": [
+    "Grondwettelijk Hof bevestigt Waalse afschaffing van de vrijstelling van de reële kostprijs van de sanering voor IZS-bezitters",
+    "In arrest nr. 56/2026 oordeelt het Grondwettelijk Hof dat artikel D.270 van het Waterwetboek, zoals gewijzigd in 2016, de artikelen 10 en 11 van de Grondwet niet schendt. De afschaffing van de vrijstelling van de reële kostprijs van de sanering (RKS) voor bezitters van een individueel waterzuiveringssysteem blijft behouden.",
+    "Het arrest betreft huishoudens en andere eigenaars van een individueel waterzuiveringssysteem (IZS) in Wallonië, die vroeger waren vrijgesteld van de reële kostprijs van de sanering (RKS) in de waterprijs. Het Hof oordeelt dat artikel D.270, zoals gewijzigd bij artikel 46 van het decreet van 23 juni 2016, de artikelen 10 en 11 van de Grondwet niet schendt. Dat IZS-bezitters en gebruikers van de collectieve afvoersystemen de RKS op basis van de afgenomen leidingwatervolumes op dezelfde wijze verschuldigd zijn, is redelijk verantwoord door het beginsel dat de vervuiler betaalt, de terugwinning van de kosten van waterdiensten, de mutualisering van kosten en de solidariteit. IZS-bezitters genieten bovendien diensten van het openbaar beheer van de autonome sanering (premies, controles, tegemoetkoming in onderhoud en ruimen van slib). Ook de gelijke behandeling van IZS-bezitters met en zonder waterput is verantwoord, omdat de RKS enkel het huishoudelijk afvalwater uit de openbare watervoorziening betreft en water uit een put onder de afzonderlijke jaarlijkse belasting op het lozen van afvalwater valt (art. D.259, 2°). De vraag in zaak nr. 8468 over artikel 106, § 1, van het decreet van 2016 behoeft geen antwoord, omdat die bepaling enkel tot 31 december 2021 een overgangskeuze bood en de vrijstelling zelf niet afschaft. Het arrest werd gewezen op 23 april 2026."
+   ],
+   "fr": [
+    "La Cour constitutionnelle valide la suppression wallonne de l'exemption du coût-vérité de l'assainissement pour les détenteurs d'un SEI",
+    "Par l'arrêt n° 56/2026, la Cour constitutionnelle juge que l'article D.270 du Code de l'eau, tel que modifié en 2016, ne viole pas les articles 10 et 11 de la Constitution. La suppression de l'exemption du coût-vérité de l'assainissement (CVA) pour les détenteurs d'un système d'épuration individuelle est maintenue.",
+    "L'arrêt concerne les ménages et autres propriétaires d'un système d'épuration individuelle (SEI) en Wallonie, auparavant exemptés du coût-vérité de l'assainissement (CVA) inclus dans le prix de l'eau. La Cour juge que l'article D.270, tel que modifié par l'article 46 du décret du 23 juin 2016, ne viole pas les articles 10 et 11 de la Constitution. Le fait que les détenteurs d'un SEI et les utilisateurs des systèmes collectifs d'égouttage soient redevables du CVA calculé sur les volumes d'eau de distribution prélevés est raisonnablement justifié par le principe du pollueur-payeur, la récupération des coûts des services liés à l'eau, la mutualisation des coûts et la solidarité. Les détenteurs d'un SEI bénéficient en outre de services de la gestion publique de l'assainissement autonome (primes, contrôles, intervention dans l'entretien et la vidange des boues). Le traitement identique des détenteurs d'un SEI avec ou sans puits est lui aussi justifié, car le CVA ne vise que les eaux usées domestiques issues de la distribution publique, l'eau de puits relevant de la taxe annuelle distincte sur le déversement des eaux usées (art. D.259, 2°). La question dans l'affaire n° 8468 relative à l'article 106, § 1er, du décret de 2016 n'appelle pas de réponse, cette disposition n'ayant offert qu'un choix transitoire jusqu'au 31 décembre 2021 sans supprimer elle-même l'exemption. L'arrêt a été rendu le 23 avril 2026."
+   ],
+   "scope": "Grondwettelijk Hof, arrest nr. 56/2026: artikel D.270 Waterwetboek (Waals Gewest), gewijzigd bij artikel 46 van het decreet van 23 juni 2016; artikel 106, § 1, van dat decreet",
+   "dates": {
+    "adopted": "2026-04-23"
+   },
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 56/2026: de prejudiciële vragen betreffende artikel 106, § 1, van het decreet van het Waalse Gewest van 23 ju",
+     "https://nl.const-court.be/public/n/2026/2026-056n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:56/2026"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-52026pc0172",
+   "d": "2026-04-23",
+   "j": [
+    "EU"
+   ],
+   "t": "prop",
+   "s": "Proposal",
+   "k": [
+    "permitting"
+   ],
+   "h": "Commission proposes EU support for OSPAR recommendation phasing out plastic dolly rope in fisheries",
+   "a": "The Commission has proposed a Council Decision setting the EU position at the June 2026 OSPAR Commission meeting: to agree to a recommendation phasing out dolly rope used as chafing gear. The recommendation is not legally binding but carries implementation and reporting expectations for the parties.",
+   "b": "The proposal concerns the EU position within the OSPAR Commission, whose parties include the EU and Belgium, and is relevant to fisheries and marine litter policy. At its 29th regular meeting, starting on 22 June 2026, the Commission is set to adopt a recommendation on phasing out plastic dolly rope used as chafing gear on fishing gear. Under the proposed Decision, the Union would agree to adopt it, and minor technical changes to this position could be agreed without a further Council decision. The recommendation encourages national measures to replace dolly rope with environmentally appropriate alternatives, support for testing and developing alternatives, information exchange, monitoring of impacts, and legal measures once suitable alternatives exist. It is not legally binding, but the OSPAR Convention requires parties to report on implementation, and the recommendation sets a reporting format. The proposal links the recommendation to Directive (EU) 2019/904, Directive 2008/56/EC and Regulation (EU) 2019/1241. The Decision would enter into force on adoption by the Council, which has not yet happened.",
+   "nl": [
+    "Commissie stelt EU-steun voor aan OSPAR-aanbeveling over uitfasering van plastic dolly rope in de visserij",
+    "De Commissie stelt een besluit van de Raad voor over het EU-standpunt op de OSPAR-Commissie van juni 2026: instemmen met een aanbeveling over de uitfasering van dolly rope als schuurbescherming. De aanbeveling is niet juridisch bindend, maar brengt verwachtingen mee inzake uitvoering en rapportage.",
+    "Het voorstel betreft het standpunt van de EU binnen de OSPAR-Commissie, waartoe onder meer de EU en België behoren, en is relevant voor het visserij- en zwerfvuilbeleid op zee. Tijdens haar 29e gewone vergadering, die op 22 juni 2026 begint, zal de Commissie naar verwachting een aanbeveling goedkeuren over de uitfasering van plastic dolly rope die als schuurbescherming op vistuig wordt gebruikt. Volgens het voorgestelde besluit stemt de Unie in met de goedkeuring, en kleine technische wijzigingen van dit standpunt kunnen zonder nieuw besluit van de Raad worden overeengekomen. De aanbeveling moedigt nationale maatregelen aan om dolly rope te vervangen door milieuvriendelijke alternatieven, steun voor het testen en ontwikkelen van alternatieven, informatie-uitwisseling, monitoring van de effecten en wettelijke maatregelen zodra geschikte alternatieven beschikbaar zijn. Ze is niet juridisch bindend, maar het OSPAR-Verdrag verplicht de partijen tot rapportage over de uitvoering en de aanbeveling voorziet in een rapportageformaat. Het voorstel koppelt de aanbeveling aan Richtlijn (EU) 2019/904, Richtlijn 2008/56/EG en Verordening (EU) 2019/1241. Het besluit zou in werking treden op de datum van goedkeuring door de Raad, wat nog niet is gebeurd."
+   ],
+   "fr": [
+    "La Commission propose le soutien de l'UE à une recommandation OSPAR sur l'abandon progressif des « dolly ropes » en plastique",
+    "La Commission propose une décision du Conseil fixant la position de l'UE à la Commission OSPAR de juin 2026 : approuver une recommandation sur l'abandon progressif des « dolly ropes » utilisées comme protection contre l'abrasion. La recommandation n'est pas juridiquement contraignante, mais elle implique des attentes de mise en œuvre et de rapportage.",
+    "La proposition concerne la position de l'UE au sein de la Commission OSPAR, dont font partie l'UE et la Belgique, et intéresse les politiques de la pêche et des déchets marins. Lors de sa 29e réunion ordinaire, qui débute le 22 juin 2026, la Commission doit adopter une recommandation sur l'abandon progressif des « dolly ropes » en plastique utilisées comme protection contre l'abrasion sur les engins de pêche. Selon la décision proposée, l'Union marquerait son accord sur l'adoption, et des modifications techniques mineures de cette position pourraient être convenues sans nouvelle décision du Conseil. La recommandation encourage des mesures nationales pour remplacer les « dolly ropes » par des alternatives respectueuses de l'environnement, le soutien aux essais et au développement d'alternatives, l'échange d'informations, le suivi des effets et des mesures juridiques dès que des alternatives adaptées existeront. Elle n'est pas juridiquement contraignante, mais la convention OSPAR oblige les parties à rendre compte de la mise en œuvre et la recommandation prévoit un format de rapport. La proposition la rattache à la directive (UE) 2019/904, à la directive 2008/56/CE et au règlement (UE) 2019/1241. La décision entrerait en vigueur à la date de son adoption par le Conseil, qui n'a pas encore eu lieu."
+   ],
+   "scope": "Proposal for a Council Decision (COM(2026) 172) on the EU position at the OSPAR Commission meeting of June 2026 on the recommendation on phasing out dolly rope serving as chafing gear",
+   "dates": {
+    "published": "2026-04-23"
+   },
+   "u": [
+    [
+     "Proposal for a COUNCIL DECISION on the position to be taken on behalf of the European Union in the Convention for the Protection of the Mari",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0172"
+    ]
+   ],
+   "inbox": [
+    "eu:52026PC0172"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041960",
+   "d": "2026-04-21",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flemish minister designates local environmental enforcement officers in Herzele, Herk-de-Stad, Gent, Leuven, Puurs Sint-Amands",
+   "a": "A ministerial decree gives 2 supervisors in Herzele and 1 in Herk-de-Stad the status of judicial police officer and deputy public prosecutor. It also authorises 23 supervisors in Gent, Leuven, Puurs Sint-Amands and Herk-de-Stad to carry out administrative visitations in environmental enforcement.",
+   "b": "The decree concerns local supervisors in environmental enforcement in five Flemish municipalities, on the proposal of their municipal executives. Two supervisors for Herzele and one for Herk-de-Stad become judicial police officers and deputy public prosecutors, each within their own tasks and powers. Twenty-three supervisors are designated for administrative visitations under Article 22, §1, first paragraph of the Flemish Enforcement Framework Decree of 14 July 2023: 18 for Gent, 3 for Leuven and 2 for Puurs Sint-Amands. The Herk-de-Stad supervisor is designated for both capacities, so that 23 persons are covered by the visitation designation in addition to that one. Each designation ends on the day the person leaves the local authority's administration or loses the supervisory powers concerned. The decree is based on the Environmental Enforcement Decree of 23 May 2025. It was adopted on 21 April 2026, published on 28 April 2026 and enters into force on 1 May 2026.",
+   "nl": [
+    "Vlaamse minister wijst lokale toezichthouders omgevingshandhaving aan in Herzele, Herk-de-Stad, Gent, Leuven en Puurs Sint-Amands",
+    "Een ministerieel besluit verleent aan 2 toezichthouders in Herzele en 1 in Herk-de-Stad de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings. Ook worden toezichthouders in Gent, Leuven, Puurs Sint-Amands en Herk-de-Stad aangewezen om bestuurlijke visitaties uit te voeren in het kader van de omgevingshandhaving.",
+    "Het besluit betreft lokale toezichthouders omgevingshandhaving in vijf Vlaamse gemeenten, op voordracht van hun colleges van burgemeester en schepenen. Twee toezichthouders voor Herzele en één voor Herk-de-Stad krijgen de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings, ieder voor hun eigen opdrachten en bevoegdheden. Drieëntwintig toezichthouders worden aangewezen voor bestuurlijke visitaties als vermeld in artikel 22, §1, eerste lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023: 18 voor Gent, 3 voor Leuven en 2 voor Puurs Sint-Amands. De toezichthouder van Herk-de-Stad wordt voor beide hoedanigheden aangewezen, bovenop die 23 personen. Elke aanstelling eindigt op de dag dat de functiehouder de administratie van het lokaal bestuur verlaat of de betrokken bevoegdheden als toezichthouder verliest. Het besluit steunt op het Omgevingshandhavingsbesluit van 23 mei 2025. Het is genomen op 21 april 2026, bekendgemaakt op 28 april 2026 en treedt in werking op 1 mei 2026."
+   ],
+   "fr": [
+    "Le ministre flamand désigne des agents de surveillance locaux en matière d'application environnementale à Herzele, Herk-de-Stad, Gand, Louvain et Puurs Sint-Amands",
+    "Un arrêté ministériel confère à 2 agents de surveillance à Herzele et à 1 à Herk-de-Stad la qualité d'officier de police judiciaire – officier auxiliaire du procureur du Roi. Des agents à Gand, Louvain, Puurs Sint-Amands et Herk-de-Stad sont en outre désignés pour effectuer des visitations administratives dans le cadre de l'application de la réglementation environnementale.",
+    "L'arrêté concerne des agents de surveillance locaux en matière d'application environnementale dans cinq communes flamandes, sur proposition de leurs collèges des bourgmestre et échevins. Deux agents pour Herzele et un pour Herk-de-Stad obtiennent la qualité d'officier de police judiciaire – officier auxiliaire du procureur du Roi, chacun dans le cadre de ses missions et compétences. Vingt-trois agents sont désignés pour les visitations administratives visées à l'article 22, §1er, alinéa 1er, du décret-cadre flamand sur l'application de la réglementation du 14 juillet 2023 : 18 pour Gand, 3 pour Louvain et 2 pour Puurs Sint-Amands. L'agent de Herk-de-Stad est désigné pour les deux qualités, en plus de ces 23 personnes. Chaque désignation prend fin le jour où le titulaire quitte l'administration du pouvoir local ou perd les compétences d'agent de surveillance concernées. L'arrêté se fonde sur l'arrêté flamand relatif à l'application de la réglementation environnementale du 23 mai 2025. Il a été pris le 21 avril 2026, publié le 28 avril 2026 et entre en vigueur le 1er mai 2026."
+   ],
+   "scope": "Ministerieel besluit van 21 april 2026 – aanwijzing van toezichthouders (OGP–hulpofficier van de procureur des Konings; visitatie art. 22, §1, eerste lid, Kaderdecreet Vlaamse Handhaving), artikelen 1-5",
+   "dates": {
+    "adopted": "2026-04-21",
+    "published": "2026-04-28",
+    "in_force": "2026-05-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot aanwijzing van toezichthouders met de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de pro",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041960&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041960"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0859",
+   "d": "2026-04-20",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "REACH: 2,4-dinitrotoluene restricted in articles at 0.1% or more from 11 May 2027",
+   "a": "A new entry 83 in REACH Annex XVII bans placing on the market and using 2,4-dinitrotoluene (2,4-DNT) in articles for professional users or the general public at 0.1% by weight or more. The ban applies after 10 May 2027, with a later date for certain motor vehicle applications and several exemptions.",
+   "b": "The restriction concerns importers and suppliers of articles containing 2,4-DNT, since the substance is not produced or used in articles in the Union. It covers articles for the general public and for professional users, defined as workers or self-employed workers operating outside industrial sites. Articles with a 2,4-DNT concentration of 0.1% by weight or more may not be placed on the market or used after 10 May 2027. Exempt are explosives under Directive 2014/28/EU, articles for military use, ammunition for the police and other security forces, toys under Regulation (EU) 2025/2509, devices under Regulation (EU) 2017/745 and food-contact articles under Regulation (EC) No 1935/2004. The explosives exemption does not cover pyrotechnic articles as defined in Directive 2013/29/EU or ammunition, which remain in scope. For micro gas generators for seat belt pre-tensioners and bonnet actuators and for spare parts in motor vehicles, the ban applies only from 11 May 2029. Vehicles placed on the market between 11 May 2027 and 11 May 2029 that contain 2,4-DNT only in those applications are exempt, as are articles already placed on the market in the Union before 11 May 2027, such as second-hand articles. The Regulation enters into force on the twentieth day after its publication on 21 April 2026.",
+   "nl": [
+    "REACH: 2,4-dinitrotolueen in voorwerpen beperkt vanaf 0,1 % en vanaf 11 mei 2027",
+    "Een nieuwe vermelding 83 in bijlage XVII bij REACH verbiedt het op de markt brengen en gebruiken van 2,4-dinitrotolueen (2,4-DNT) in voorwerpen voor professionele gebruikers of het grote publiek bij een concentratie van 0,1 gewichtsprocent of meer. Het verbod geldt na 10 mei 2027, met een latere datum voor bepaalde toepassingen in motorvoertuigen en met verschillende uitzonderingen.",
+    "De beperking treft importeurs en leveranciers van voorwerpen die 2,4-DNT bevatten, aangezien de stof in de Unie niet wordt geproduceerd of in voorwerpen gebruikt. Ze geldt voor voorwerpen voor het grote publiek en voor professionele gebruikers, d.w.z. werknemers of zelfstandigen die buiten industriële sites werken. Voorwerpen met een 2,4-DNT-concentratie van 0,1 gewichtsprocent of meer mogen na 10 mei 2027 niet op de markt worden gebracht of gebruikt. Uitgezonderd zijn springstoffen in de zin van Richtlijn 2014/28/EU, voorwerpen voor militair gebruik, munitie voor politie en andere veiligheidsdiensten, speelgoed onder Verordening (EU) 2025/2509, hulpmiddelen onder Verordening (EU) 2017/745 en voorwerpen die met voedsel in contact komen onder Verordening (EG) nr. 1935/2004. De uitzondering voor springstoffen geldt niet voor pyrotechnische artikelen zoals bepaald in Richtlijn 2013/29/EU en niet voor munitie; die blijven binnen het toepassingsgebied. Voor micro gasgeneratoren voor gordelspanners en motorkapactuatoren en voor reserveonderdelen in motorvoertuigen geldt het verbod pas vanaf 11 mei 2029. Voertuigen die tussen 11 mei 2027 en 11 mei 2029 op de markt zijn gebracht en 2,4-DNT enkel in die toepassingen bevatten, zijn uitgezonderd, evenals voorwerpen die vóór 11 mei 2027 in de Unie in de handel zijn gebracht, zoals tweedehandsvoorwerpen. De verordening treedt in werking op de twintigste dag na de bekendmaking ervan op 21 april 2026."
+   ],
+   "fr": [
+    "REACH : 2,4-dinitrotoluène dans les articles restreint à partir de 0,1 % et du 11 mai 2027",
+    "Une nouvelle entrée 83 de l'annexe XVII de REACH interdit la mise sur le marché et l'utilisation du 2,4-dinitrotoluène (2,4-DNT) dans les articles destinés aux utilisateurs professionnels ou au grand public à une concentration de 0,1 % en poids ou plus. L'interdiction s'applique après le 10 mai 2027, avec une date ultérieure pour certaines applications dans les véhicules à moteur et plusieurs exemptions.",
+    "La restriction concerne les importateurs et fournisseurs d'articles contenant du 2,4-DNT, la substance n'étant ni produite ni utilisée dans des articles dans l'Union. Elle vise les articles destinés au grand public et aux utilisateurs professionnels, c'est-à-dire les travailleurs ou travailleurs indépendants opérant en dehors de sites industriels. Les articles dont la concentration en 2,4-DNT est égale ou supérieure à 0,1 % en poids ne peuvent être mis sur le marché ni utilisés après le 10 mai 2027. Sont exemptés les explosifs au sens de la directive 2014/28/UE, les articles à usage militaire, les munitions destinées à la police et aux autres forces de sécurité, les jouets relevant du règlement (UE) 2025/2509, les dispositifs relevant du règlement (UE) 2017/745 et les articles destinés à entrer en contact avec des denrées alimentaires relevant du règlement (CE) no 1935/2004. L'exemption pour les explosifs ne couvre pas les articles pyrotechniques tels que définis dans la directive 2013/29/UE ni les munitions, qui restent dans le champ de la restriction. Pour les micro-générateurs de gaz des prétensionneurs de ceinture de sécurité et des actionneurs de capot ainsi que pour les pièces de rechange des véhicules à moteur, l'interdiction ne s'applique qu'à partir du 11 mai 2029. Les véhicules mis sur le marché entre le 11 mai 2027 et le 11 mai 2029 qui ne contiennent du 2,4-DNT que dans ces applications sont exemptés, de même que les articles déjà mis sur le marché dans l'Union avant le 11 mai 2027, tels que les articles d'occasion. Le règlement entre en vigueur le vingtième jour suivant sa publication, intervenue le 21 avril 2026."
+   ],
+   "scope": "Regulation (EC) No 1907/2006 (REACH), Annex XVII, new entry 83 on 2,4-dinitrotoluene in articles",
+   "dates": {
+    "adopted": "2026-04-20",
+    "published": "2026-04-21",
+    "in_force": "2026-05-11"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/859 of 20 April 2026 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of t",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0859"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0859"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042384",
+   "d": "2026-04-20",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety"
+   ],
+   "h": "Commission amends REACH Annex XVII: new restriction entry for 2,4-dinitrotoluene in articles",
+   "a": "Commission Regulation 2026/859 amends Annex XVII (restrictions) to the REACH Regulation (EC) No 1907/2006 as regards 2,4-dinitrotoluene in articles. It was published in the Official Journal of 21 April 2026.",
+   "b": "The regulation concerns manufacturers, importers and downstream users who place articles on the market, and the authorities that enforce REACH restrictions. It amends Annex XVII to Regulation (EC) No 1907/2006 as regards 2,4-dinitrotoluene in articles. Annex XVII lists the substances subject to restrictions on manufacture, placing on the market and use. The regulation is dated 20 April 2026 and was published in the Official Journal on 21 April 2026. No entry-into-force date or transitional period is stated, and neither are the conditions or limit values of the restriction.",
+   "nl": [
+    "Commissie wijzigt Reach-bijlage XVII: beperking voor 2,4-dinitrotolueen in voorwerpen",
+    "Verordening 2026/859 van de Commissie wijzigt bijlage XVII (beperkingen) bij Reach-Verordening (EG) nr. 1907/2006 wat 2,4-dinitrotolueen in voorwerpen betreft. Zij is gepubliceerd in het Publicatieblad van 21 april 2026.",
+    "De verordening is van belang voor fabrikanten, importeurs en downstreamgebruikers die voorwerpen in de handel brengen, en voor de overheden die toezien op de naleving van Reach-beperkingen. Zij wijzigt bijlage XVII bij Verordening (EG) nr. 1907/2006 wat 2,4-dinitrotolueen in voorwerpen betreft. Bijlage XVII bevat de stoffen waarvoor beperkingen gelden inzake vervaardiging, het in de handel brengen en gebruik. De verordening is gedateerd op 20 april 2026 en werd op 21 april 2026 in het Publicatieblad bekendgemaakt. Een datum van inwerkingtreding of een overgangsperiode wordt niet vermeld, evenmin als de voorwaarden of grenswaarden van de beperking."
+   ],
+   "fr": [
+    "La Commission modifie l'annexe XVII de REACH : restriction du 2,4-dinitrotoluène dans les articles",
+    "Le règlement 2026/859 de la Commission modifie l'annexe XVII (restrictions) du règlement REACH (CE) n° 1907/2006 en ce qui concerne le 2,4-dinitrotoluène dans les articles. Il a été publié au Journal officiel du 21 avril 2026.",
+    "Le règlement concerne les fabricants, importateurs et utilisateurs en aval qui mettent des articles sur le marché, ainsi que les autorités chargées de contrôler le respect des restrictions REACH. Il modifie l'annexe XVII du règlement (CE) n° 1907/2006 en ce qui concerne le 2,4-dinitrotoluène dans les articles. L'annexe XVII énumère les substances soumises à des restrictions de fabrication, de mise sur le marché et d'utilisation. Le règlement est daté du 20 avril 2026 et a été publié au Journal officiel le 21 avril 2026. Aucune date d'entrée en vigueur ni période transitoire n'est indiquée, de même que les conditions ou valeurs limites de la restriction."
+   ],
+   "scope": "Verordening (EU) 2026/859 van de Commissie tot wijziging van bijlage XVII bij Verordening (EG) nr. 1907/2006 (Reach): 2,4-dinitrotolueen in voorwerpen",
+   "dates": {
+    "adopted": "2026-04-20",
+    "published": "2026-04-21"
+   },
+   "u": [
+    [
+     "Verordening 2026/859 van de Commissie tot wijziging van bijlage XVII bij Verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raa",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042384&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042384"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0705",
+   "d": "2026-04-16",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "DBRC rejects extreme-urgency suspension of Bree timber-yard permit: nuisance not shown to be concrete or serious",
+   "a": "On 16 April 2026 the Council for Permit Disputes rejected a neighbour's request to suspend, by extreme urgency, an environmental permit regularising a timber trading site in Bree. The applicant did not show concrete, sufficiently serious harm or accurately describe the situation on site.",
+   "b": "The ruling concerns an environmental permit granted on 2 April 2026 by the deputation (on administrative appeal) for the regularisation of a timber trade site at Peerderbaan 94, Bree. It covers an office building extension, timber storage racks, demolitions and the transfer of an environmental permit for classified activities. A neighbouring owner sought suspension by extreme urgency, citing visual nuisance from the racks and the speed of the works. The Council found that the application did not show extreme urgency. Several photos were outdated, showed the 2021 racks, or were taken from the neighbour's property or from the public road, so they did not show personal harm. The remaining photo came with no concrete account of the nuisance. The Council also noted that the permit requires a dense green screen and that the racks stand 15 m from the boundary. It added that timber storage on this part of the site is already authorised. Since extreme urgency was not shown, the Council did not examine the grounds of annulment. The suspension request was rejected on 16 April 2026, and the EUR 100 registration fee is charged to the applicant. An earlier interim measure of 10 April 2026 ordered the permit not to be executed pending this ruling.",
+   "nl": [
+    "RvVb verwerpt UDN-schorsing van vergunning houthandel Bree: hinder niet concreet en zwaarwichtig aangetoond",
+    "Op 16 april 2026 verwierp de Raad voor Vergunningsbetwistingen de vordering van een buur tot schorsing bij uiterst dringende noodzakelijkheid van een omgevingsvergunning voor de regularisatie van een houthandel in Bree. De verzoeker toonde geen concrete, voldoende zwaarwichtige nadelen aan en gaf geen correct beeld van de toestand ter plaatse.",
+    "Het arrest betreft een omgevingsvergunning die de deputatie op 2 april 2026 in administratief beroep verleende voor de regularisatie van een houthandel aan de Peerderbaan 94 in Bree. Ze omvat de uitbreiding van een kantoorgebouw, rekken voor houtopslag, sloopwerken en de overdracht van een milieuvergunning voor ingedeelde activiteiten. Een aanpalende eigenaar vorderde de schorsing bij uiterst dringende noodzakelijkheid op grond van visuele hinder van de rekken en de snelheid van de werken. De Raad oordeelde dat de uiterst dringende noodzakelijkheid niet was aangetoond. Meerdere foto's waren verouderd en toonden de rekken van 2021, of waren genomen vanuit het perceel van de buur of vanop de openbare weg, zodat ze geen persoonlijke hinder aantoonden. Bij de enige overblijvende foto ontbrak elke concrete toelichting bij de hinder. De Raad wees ook op de vergunningsvoorwaarde van een dicht groenscherm en op de afstand van 15 m tot de perceelsgrens, en op het feit dat houtopslag op dat deel van het terrein al vergund is. Omdat de uiterst dringende noodzakelijkheid niet bleek, onderzocht de Raad de middelen niet. De vordering werd op 16 april 2026 verworpen en het rolrecht van 100 euro blijft ten laste van de verzoeker. Een eerdere voorlopige maatregel van 10 april 2026 verbood de uitvoering van de vergunning in afwachting van dit arrest."
+   ],
+   "fr": [
+    "Le CCAP rejette la suspension d'extrême urgence du permis d'un commerce de bois à Bree : nuisance non démontrée",
+    "Le 16 avril 2026, le Conseil pour les contestations des autorisations a rejeté la demande d'un voisin visant à suspendre, en extrême urgence, un permis d'environnement pour la régularisation d'un commerce de bois à Bree. Le requérant n'a pas démontré de préjudice concret et suffisamment sérieux ni décrit correctement la situation sur place.",
+    "L'arrêt concerne un permis d'environnement accordé le 2 avril 2026 par la députation, sur recours administratif, pour la régularisation d'un commerce de bois à la Peerderbaan 94 à Bree. Il porte sur l'extension d'un bâtiment de bureaux, des racks de stockage de bois, des démolitions et le transfert d'un permis d'environnement pour des activités classées. Un propriétaire voisin a demandé la suspension en extrême urgence en invoquant la nuisance visuelle des racks et la rapidité des travaux. Le Conseil a jugé que l'extrême urgence n'était pas démontrée. Plusieurs photos étaient anciennes et montraient les racks de 2021, ou avaient été prises depuis la propriété du voisin ou depuis la voie publique, de sorte qu'elles ne prouvaient pas de préjudice personnel. Pour la seule photo restante, aucune explication concrète de la nuisance n'était fournie. Le Conseil a aussi relevé la condition de permis imposant un écran vert dense et la distance de 15 m par rapport à la limite de parcelle, ainsi que le fait que le stockage de bois est déjà autorisé sur cette partie du site. L'extrême urgence n'étant pas établie, le Conseil n'a pas examiné les moyens. La demande a été rejetée le 16 avril 2026 et le droit de rôle de 100 euros reste à charge du requérant. Une mesure provisoire antérieure du 10 avril 2026 interdisait l'exécution du permis dans l'attente de cet arrêt."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0705 van 16 april 2026: schorsing bij uiterst dringende noodzakelijkheid (art. 40 DBRC-decreet) van een omgevingsvergunning, Bree",
+   "dates": {
+    "adopted": "2026-04-16"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0705.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0705.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0705"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0701",
+   "d": "2026-04-16",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: appeal against inadmissibility of administrative permit appeal rejected for lack of interest",
+   "a": "The Council for Permit Disputes rejects an appeal against a provincial decision that declared an administrative appeal against an environmental permit inadmissible and/or incomplete. The applicants did not challenge each of the grounds that independently supported that decision.",
+   "b": "The case concerns neighbours who challenged the provincial environmental officer's decision of 7 July 2025, which declared their administrative appeal inadmissible and/or incomplete. That appeal targeted an environmental permit granted by the municipality of Duffel on 12 May 2025 to demolish and rebuild a dwelling in agricultural zone, demolish an outbuilding and keep an 'atelier'. The decision rested on two grounds: insufficient description of the personal nuisance suffered, and no proof of payment of the dossier fee. Where a decision rests on several grounds that each justify it, the applicant must show every determining ground to be unlawful; the applicants criticised only the fee ground, so the Council dismissed the appeal for lack of interest. Arguments added in the note for short proceedings were held to be an inadmissible extension of the application. The Council also found that submissions citing non-existent provisions and case law, possibly drafted with generative AI, show a disloyal procedural attitude and cannot lead to annulment. A pleading note filed at the hearing is accepted as a procedural document only as far as it reports new facts. The applicants bear the 400 euro registration fee, and the judgment is anonymised on their request. It was delivered on 16 April 2026.",
+   "nl": [
+    "RvVb: beroep tegen onontvankelijkverklaring van bestuurlijk vergunningsberoep verworpen wegens gebrek aan belang",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een provinciale beslissing die een bestuurlijk beroep tegen een omgevingsvergunning onontvankelijk en/of onvolledig verklaarde. De verzoekers bestreden niet alle motieven die die beslissing zelfstandig droegen.",
+    "Het geschil betreft omwonenden die de beslissing van de provinciale omgevingsambtenaar van 7 juli 2025 bestreden, waarbij hun bestuurlijk beroep onontvankelijk en/of onvolledig werd verklaard. Dat beroep was gericht tegen een omgevingsvergunning die de gemeente Duffel op 12 mei 2025 verleende voor het slopen en herbouwen van een woning in agrarisch gebied, het slopen van een bijgebouw en het behouden van een 'atelier'. De beslissing steunde op twee motieven: een onvoldoende omschrijving van de persoonlijke hinder en het ontbreken van het betalingsbewijs van de dossiertaks. Wanneer een beslissing op meerdere motieven steunt die ze elk kunnen verantwoorden, moet de verzoekende partij de onwettigheid van alle determinerende motieven aantonen; de verzoekers bekritiseerden enkel het motief over de dossiertaks, waardoor de Raad het beroep onontvankelijk verklaarde wegens gebrek aan belang. De in de nota korte debatten toegevoegde argumenten werden beschouwd als een onontvankelijke uitbreiding van het verzoekschrift. De Raad oordeelde ook dat een verzoekschrift met verwijzingen naar onbestaande bepalingen en rechtspraak, mogelijk opgesteld met generatieve AI, getuigt van een deloyale proceshouding en niet tot vernietiging kan leiden. Een pleitnota ter zitting wordt enkel als processtuk aanvaard voor zover ze nieuwe feiten bevat. De verzoekers dragen het rolrecht van 400 euro en het arrest wordt op hun verzoek geanonimiseerd. Het arrest werd uitgesproken op 16 april 2026."
+   ],
+   "fr": [
+    "CCA: rejet du recours contre l'irrecevabilité d'un recours administratif en matière de permis, faute d'intérêt",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette le recours dirigé contre une décision provinciale ayant déclaré irrecevable et/ou incomplet un recours administratif contre un permis d'environnement. Les requérants n'ont pas contesté tous les motifs qui fondaient à eux seuls cette décision.",
+    "L'affaire concerne des riverains qui contestaient la décision du fonctionnaire provincial chargé de l'autorisation environnementale du 7 juillet 2025, déclarant leur recours administratif irrecevable et/ou incomplet. Ce recours visait un permis d'environnement accordé le 12 mai 2025 par la commune de Duffel pour la démolition et la reconstruction d'une habitation en zone agricole, la démolition d'une annexe et le maintien d'un « atelier ». La décision reposait sur deux motifs: une description insuffisante des nuisances personnelles et l'absence de preuve de paiement de la taxe de dossier. Lorsqu'une décision repose sur plusieurs motifs pouvant chacun la justifier, la partie requérante doit démontrer l'illégalité de tous les motifs déterminants; les requérants n'ont critiqué que le motif relatif à la taxe de dossier, de sorte que le Conseil a rejeté le recours pour défaut d'intérêt. Les arguments ajoutés dans la note pour débats succincts ont été considérés comme une extension irrecevable de la requête. Le Conseil a aussi jugé qu'une requête citant des dispositions et une jurisprudence inexistantes, éventuellement rédigée à l'aide d'une IA générative, révèle une attitude procédurale déloyale et ne peut conduire à l'annulation. Une note de plaidoirie déposée à l'audience n'est admise comme pièce de procédure que pour autant qu'elle porte sur des faits nouveaux. Les requérants supportent le droit de rôle de 400 euros et l'arrêt est anonymisé à leur demande. L'arrêt a été prononcé le 16 avril 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RvVb.2526.0701 van 16 april 2026: ontvankelijkheid (belang) van het beroep tegen een beslissing van de provinciale omgevingsambtenaar over een bestuurlijk beroep; artikel 59 Procedurebesluit; artikel 46 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-04-16"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0701.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0701.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0701"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0696",
+   "d": "2026-04-16",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb upholds permit for DIY store and SME units in Mol; plan-MER challenge to the Molderdijk RUP fails",
+   "a": "On 16 April 2026 the Council for Permit Disputes rejected the appeal against an environmental permit for a DIY store and three SME units in Mol. The plea that the provincial RUP 'Molderdijk' needed a plan-MER failed because the applicant ignored the screening note's reliance on the small-modification exemption.",
+   "b": "The ruling concerns a permit granted on appeal by the deputation on 27 February 2025 for a DIY store, three SME units, EV charging stations and the relocation of a distribution cabin in Mol. The appeal came from a competing DIY operator and a second party. The Council held the first applicant's appeal inadmissible and found the second applicant's commercial interest sufficiently plausible. On the first plea, the Council accepted that a RUP can fall under the plan-MER duty. It rejected the plea under Article 159 of the Constitution, because the quoted screening text came from other provincial RUPs. The screening note for 'Molderdijk' relied on the small-modification exception of Article 4.2.3, §3 DABM (as then in force), and the applicant did not criticise that reasoning. The second plea, on compatibility of the SME units with Article 2 of the RUP, was inadmissible for lack of interest. The applicant's own site lies outside the RUP perimeter, 3.5 km away as the crow flies, and no personal disadvantage was shown, so the plea amounted to an actio popularis. The appeal was rejected and the 400 euro registration fee stays with the applicants. The ruling was delivered on 16 April 2026 and the permit stands.",
+   "nl": [
+    "RvVb handhaalt vergunning voor doe-het-zelfzaak en KMO-units in Mol; plan-MER-kritiek op RUP Molderdijk faalt",
+    "Op 16 april 2026 verwierp de Raad voor Vergunningsbetwistingen het beroep tegen een omgevingsvergunning voor een doe-het-zelfzaak en drie KMO-units in Mol. Het middel dat voor het provinciaal RUP 'Molderdijk' een plan-MER nodig was, faalde omdat de verzoeker geen kritiek gaf op de screeningsnota, die zich op de uitzondering voor kleine wijzigingen beroept.",
+    "Het arrest betreft een vergunning die de deputatie op 27 februari 2025 in beroep verleende voor een doe-het-zelfzaak, drie KMO-units, elektrische laadstations en het verplaatsen van een distributiecabine in Mol. Het beroep kwam van een concurrerende doe-het-zelfuitbater en een tweede verzoekende partij. De Raad verklaarde het beroep van de eerste verzoekende partij onontvankelijk en achtte het commercieel belang van de tweede voldoende aannemelijk. Bij het eerste middel erkende de Raad dat een RUP onder de plan-MER-plicht kan vallen. Hij verwierp de exceptie van onwettigheid op grond van artikel 159 van de Grondwet, omdat het aangehaalde citaat uit de screening van andere provinciale RUP's afkomstig was. De screeningsnota voor 'Molderdijk' beriep zich op de uitzondering voor kleine wijzigingen in artikel 4.2.3, §3 DABM (zoals toen van toepassing), en de verzoeker bekritiseerde die motivering niet. Het tweede middel, over de verenigbaarheid van de KMO-units met artikel 2 van het RUP, was onontvankelijk bij gebrek aan belang. De vestiging van de verzoeker ligt buiten de RUP-perimeter, op 3,5 km in vogelvlucht, en een persoonlijk nadeel werd niet aangetoond, zodat het middel een actio popularis inhield. Het beroep werd verworpen en het rolrecht van 400 euro blijft ten laste van de verzoekende partijen. Het arrest werd op 16 april 2026 uitgesproken en de vergunning blijft behouden."
+   ],
+   "fr": [
+    "Le CCAP maintient le permis pour un magasin de bricolage et des unités PME à Mol; le moyen plan-MER contre le RUP Molderdijk est rejeté",
+    "Le 16 avril 2026, le Conseil du contentieux des autorisations (RvVb) a rejeté le recours contre un permis d'environnement pour un magasin de bricolage et trois unités PME à Mol. Le moyen selon lequel le RUP provincial « Molderdijk » aurait requis un plan-MER a échoué, le requérant n'ayant pas critiqué la note de screening qui invoque l'exception des modifications mineures.",
+    "L'arrêt concerne un permis accordé en recours par la députation le 27 février 2025 pour un magasin de bricolage, trois unités PME, des bornes de recharge électrique et le déplacement d'une cabine de distribution à Mol. Le recours émanait d'un exploitant concurrent de magasins de bricolage et d'une seconde partie requérante. Le Conseil a déclaré le recours irrecevable dans le chef de la première requérante et jugé suffisamment plausible l'intérêt commercial de la seconde. Sur le premier moyen, il a admis qu'un RUP peut relever de l'obligation de plan-MER. Il a écarté l'exception d'illégalité fondée sur l'article 159 de la Constitution, car la citation invoquée provenait du screening d'autres RUP provinciaux. La note de screening pour « Molderdijk » invoquait l'exception pour modifications mineures de l'article 4.2.3, §3 du DABM (tel qu'alors en vigueur), et le requérant n'a pas critiqué cette motivation. Le second moyen, relatif à la conformité des unités PME à l'article 2 du RUP, était irrecevable faute d'intérêt. L'établissement du requérant se situe hors du périmètre du RUP, à 3,5 km à vol d'oiseau, et aucun préjudice personnel n'a été démontré, de sorte que le moyen relevait de l'actio popularis. Le recours est rejeté et le droit de rôle de 400 euros reste à charge des requérants. L'arrêt a été prononcé le 16 avril 2026 et le permis est maintenu."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0696 van 16 april 2026: omgevingsvergunning Mol, plan-MER-plicht RUP 'Molderdijk' (art. 4.2.3 DABM), art. 159 Grondwet",
+   "dates": {
+    "adopted": "2026-04-16"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0696.",
+     "https://www.dbrc.be/sites/default/files/2026-05/RVVB.2526.0696.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0696"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
