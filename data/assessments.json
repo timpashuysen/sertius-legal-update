@@ -25228,7 +25228,8 @@
 "reason": "Omnibus decree on environment, nature, spatial planning and agriculture changes permit and nature rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 1 (char 5877)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 5877)",
+"written": "d-codex-1042268"
 },
 "codex:1042238": {
 "v": 2,
@@ -25512,7 +25513,8 @@
 ],
 "reason": "Introduces a charge on costs caused by CO2 emissions.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042149"
 },
 "codex:1042147": {
 "v": 2,
@@ -25919,7 +25921,8 @@
 ],
 "reason": "Corrigendum to vehicle exhaust and evaporative emission type-approval rules with an air-pollution purpose.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32025r1706r-01"
 },
 "eu:32025L1892R(02)": {
 "v": 2,
@@ -26179,7 +26182,8 @@
 ],
 "reason": "Amends the Flemish designation of bathing waters under water quality rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042152"
 },
 "eu:32026R1418": {
 "v": 2,
@@ -26235,7 +26239,8 @@
 ],
 "reason": "Amends EU wildlife trade regulation implementing CITES changes; nature protection rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1383"
 },
 "eu:32026R1373": {
 "v": 2,
@@ -26336,7 +26341,8 @@
 ],
 "reason": "Sets F-gas reference values for hydrofluorocarbon producers and importers under Regulation 2024/573.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1382"
 },
 "eu:32026D1231R(01)": {
 "v": 2,
@@ -26365,7 +26371,8 @@
 ],
 "reason": "Amends EU wildlife trade rules (CITES) affecting species protection and import/export permits.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042387"
 },
 "eu:52026PC0316": {
 "v": 2,
@@ -58565,7 +58572,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0914"
 },
 "rvvb:RVVB.2526.0912": {
 "v": 2,
@@ -58603,7 +58611,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0908"
 },
 "rvvb:RVVB.2526.0907": {
 "v": 2,
@@ -58623,7 +58632,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0906"
 },
 "rvvb:RVVB.2526.0905": {
 "v": 2,
@@ -58634,7 +58644,9 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Case-specific procedural ruling reopening the debates after defective service on the permit holder; no substantive environmental rule changed or clarified."
 },
 "rvvb:RVVB.2526.0904": {
 "v": 2,
@@ -58645,7 +58657,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0904"
 },
 "rvvb:RVVB.2526.0903": {
 "v": 2,
@@ -58692,7 +58705,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0896"
 },
 "rvvb:RVVB.2526.0895": {
 "v": 2,
@@ -58703,7 +58717,8 @@
 ],
 "reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0895"
 },
 "rvvb:RVVB.2526.0893": {
 "v": 2,
@@ -63905,36 +63920,250 @@
 "reason": "Council of State cassation order in an immigration case; no environmental rule.",
 "confidence": "high",
 "at": "2026-11-23"
+},
+"rvs:266151": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procedural hearing notice; subject matter unclear from the truncated text.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:266148": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tax administrative sanctions remission dispute.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266147": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Corporate tax surcharge remission decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266144": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension of one public procurement award for planning services.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266143": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one plot.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266142": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Ruling on large-scale derogation for culling protected bird species under nature rules.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266141": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Ruling on unique environmental permit for aerodrome operation and compliance works.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266140": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual authorisation to shoot 25 pigeons for one person.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266139": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual authorisation to shoot 15 pigeons for one person.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266138": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary dismissal of a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266137": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary dismissal of a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266136": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual work permit decision for a foreign national.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266135": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Immigration case cassation.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266134": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary transfer of a justice official.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266133": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual staff selection dispute.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266132": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension of an individual municipal employee.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266129": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refused night shop operating licence in one municipality.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266128": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Relocation of a local footpath; no environmental rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266127": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal approval of road and sewer design for one street.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266126": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Mayor's temporary closure of one café for public order.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266125": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Flemish preliminary decision on complex infrastructure project and accompanying plan.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:266124": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police personnel decision on secondary activity.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:266123": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police personnel decision on secondary activity.",
+"confidence": "high",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6957,
-"assessed": 6957,
+"in_scope": 6980,
+"assessed": 6980,
 "waiting": 0,
-"relevant": 877,
-"not_relevant": 5761,
+"relevant": 881,
+"not_relevant": 5780,
 "excluded_by_rule": 319,
-"this_run": 27,
+"this_run": 23,
 "api": {
-"calls": 2,
-"input_tokens": 6585,
-"output_tokens": 2530,
+"calls": 1,
+"input_tokens": 5288,
+"output_tokens": 2707,
 "usd": 0.0019
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
+"this_run": 13,
 "found_not_relevant_on_reading": 1,
-"failed": 1,
-"waiting": 554,
+"failed": 0,
+"waiting": 544,
 "api": {
 "calls": 14,
-"input_tokens": 141894,
-"output_tokens": 39589,
-"usd": 0.6797
+"input_tokens": 164430,
+"output_tokens": 39742,
+"usd": 0.7263
 },
 "updated": "2026-11-23"
 }
