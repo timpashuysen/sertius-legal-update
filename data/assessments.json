@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 5 column 8 (char 427)"
+"write_error": "Unterminated string starting at: line 5 column 6 (char 441)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6251)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 5858)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 5617)"
+"write_error": "Unterminated string starting at: line 14 column 1 (char 4992)"
 },
 "codex:1042027": {
 "v": 2,
@@ -38740,7 +38740,8 @@
 ],
 "reason": "Council ruling with no summary; subject matter unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0644"
 },
 "rvvb:RVVB.A.2526.0643": {
 "v": 2,
@@ -38751,7 +38752,8 @@
 ],
 "reason": "RvVb annulment of omgevingsvergunning for land subdivision; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0643"
 },
 "rvvb:RVVB.A.2526.0641": {
 "v": 2,
@@ -38762,7 +38764,8 @@
 ],
 "reason": "RvVb annulment of omgevingsvergunning for house and paving; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0641"
 },
 "rvvb:RVVB.A.2526.0640": {
 "v": 2,
@@ -38773,7 +38776,8 @@
 ],
 "reason": "RvVb annulment of regularisation permit for garage demolition and poolhouse",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0640"
 },
 "rvvb:RVVB.A.2526.0639": {
 "v": 2,
@@ -38785,7 +38789,8 @@
 ],
 "reason": "RvVb annulment of permit for two wind turbines; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0639"
 },
 "rvvb:RVVB.A.2526.0638": {
 "v": 2,
@@ -38797,7 +38802,8 @@
 ],
 "reason": "RvVb annulment of permit for two wind turbines; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0638"
 },
 "rvvb:RVVB.A.2526.0637": {
 "v": 2,
@@ -38809,7 +38815,8 @@
 ],
 "reason": "RvVb annulment of permit for two wind turbines; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0637"
 },
 "rvvb:RVVB.A.2526.0636": {
 "v": 2,
@@ -38821,7 +38828,8 @@
 ],
 "reason": "RvVb annulment of permit for rooftop solar panels; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0636"
 },
 "rvvb:RVVB.A.2526.0634": {
 "v": 2,
@@ -38833,7 +38841,8 @@
 ],
 "reason": "RvVb annulment of permit for a wind turbine; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0634"
 },
 "rvvb:RVVB.A.2526.0632": {
 "v": 2,
@@ -38844,7 +38853,8 @@
 ],
 "reason": "RvVb annulment of permit for supermarket construction; applies permit rules",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0632"
 },
 "rvvb:RVVB.A.2526.0629": {
 "v": 2,
@@ -38855,7 +38865,8 @@
 ],
 "reason": "RvVb case ruling; title too sparse to confirm subject",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0629"
 },
 "rvvb:RVVB.A.2526.0628": {
 "v": 2,
@@ -64695,15 +64706,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 1,
+"this_run": 11,
+"found_not_relevant_on_reading": 0,
 "failed": 3,
-"waiting": 368,
+"waiting": 357,
 "api": {
 "calls": 14,
-"input_tokens": 219967,
-"output_tokens": 52279,
-"usd": 0.9627
+"input_tokens": 255480,
+"output_tokens": 46168,
+"usd": 0.9726
 },
 "updated": "2026-11-23"
 }
