@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-23T08:38:29+00:00",
+ "ran": "2026-11-23T09:05:24+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 827,
+   "matched": 831,
    "backfilled_to": "2026-11-01",
-   "seconds": 12.8
+   "seconds": 15.6
   },
   "gwh": {
    "ok": true,
@@ -16,7 +16,7 @@
     "2025": 178,
     "2026": 140
    },
-   "seconds": 9.7
+   "seconds": 12.1
   },
   "codex": {
    "ok": true,
@@ -24,23 +24,23 @@
    "read": 4000,
    "matched": 2676,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 30.0
+   "seconds": 32.9
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 0,
-   "errors": 5,
+   "errors": 9,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 58.3
+   "seconds": 85.8
   },
   "staatsblad": {
    "ok": true,
    "matched": 62,
    "read": 62,
    "backfilled_to": "2026-11-23",
-   "seconds": 12.9
+   "seconds": 13.7
   },
   "council": {
    "ok": true,
@@ -74,21 +74,21 @@
     "last_error": "",
     "updated": "2026-11-23T03:55:30Z"
    },
-   "seconds": 0.3
+   "seconds": 0.4
   },
   "cass": {
    "ok": true,
    "listed": 144,
    "new": 0,
-   "seconds": 1.2
+   "seconds": 1.4
   },
   "editorial": {
    "ok": true,
    "sites": 7,
-   "reachable": 6,
+   "reachable": 7,
    "articles": 3,
    "new": 0,
-   "seconds": 17.5
+   "seconds": 22.4
   }
  },
  "not_collected": {
@@ -103,9 +103,9 @@
    "failed": 0
   },
   "eurlex": {
-   "saved": 0,
+   "saved": 10,
    "failed": 12,
-   "last_error": "<HTTPError 300: ''>"
+   "last_error": "<HTTPError 404: ''>"
   },
   "staatsblad": {
    "saved": 0,
@@ -116,7 +116,7 @@
    "failed": 0
   },
   "wallex": {
-   "saved": 0,
+   "saved": 1,
    "failed": 0
   },
   "cass": {
@@ -124,13 +124,13 @@
    "failed": 0
   }
  },
- "texts_on_file": 4075,
+ "texts_on_file": 4087,
  "backlog": false,
- "items_total": 10735,
- "items_new": 0,
+ "items_total": 10736,
+ "items_new": 1,
  "items_by_source": {
   "staatsblad": 611,
-  "eurlex": 4599,
+  "eurlex": 4600,
   "council": 1,
   "gwh": 475,
   "codex": 2676,
