@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:24:26Z",
+ "updated": "2026-11-23T14:36:19Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -20048,6 +20048,415 @@
    ],
    "inbox": [
     "rvvb:RVVB.2526.0881"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0880",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: groundwater wells of one operator may form one environmental unit, adding up flow rates",
+   "a": "The Council for Permit Disputes annuls a class 2 permit for a groundwater abstraction because the provincial authority did not properly examine whether it forms an environmental-technical unit with other wells of the same operator. That finding decides the permit class and the project-EIA annex.",
+   "b": "The ruling concerns operators of several groundwater abstractions and the authorities deciding on their permits. Under rubric 53 of the VLAREM II classification list, the flow rates of wells forming one environmental-technical unit (milieutechnische eenheid) are added up, which here would exceed the 30,000 m³ class 1 threshold. The same finding decides whether Annex II (1,000 m³/day) or Annex III of the Project-EIA Decree applies. The Council holds that an operational, material or geographic link is enough and that these criteria are not cumulative. The absence of technical connections, the ability of each well to operate independently and the watering of different plots do not rule out a unit. Operation of several wells by one legal entity is an important indication of a link and imposes a stricter duty to investigate and state reasons. The concept must also not be read too narrowly, given the high level of protection sought by Article 1.2.1 §2 DABM. The provincial authority had not examined geographic proximity (wells at most 1.1 km apart) or how the wells fit into the operator's activities. The Council therefore annuls the ten-year permit and declines to substitute its own decision. It orders a new decision on the administrative appeal within three months of the day after notification of the ruling of 11 June 2026.",
+   "nl": [
+    "RvVb: grondwaterwinningen van één exploitant kunnen één milieutechnische eenheid vormen, debieten worden opgeteld",
+    "De Raad voor Vergunningsbetwistingen vernietigt een klasse 2-omgevingsvergunning voor een grondwaterwinning omdat de deputatie onvoldoende onderzocht of de winning samen met andere winningen van dezelfde exploitant een milieutechnische eenheid vormt. Dat bepaalt de vergunningsklasse en de bijlage van het project-MER-besluit.",
+    "Het arrest treft exploitanten van meerdere grondwaterwinningen en de overheden die over hun vergunningen beslissen. Volgens rubriek 53 van de indelingslijst bij VLAREM II worden de debieten van winningen die samen een milieutechnische eenheid vormen opgeteld, wat hier de drempel van 30.000 m³ voor een klasse 1-inrichting zou overschrijden. Dezelfde vaststelling bepaalt ook of bijlage II (1.000 m³ per dag) of bijlage III van het project-MER-besluit van toepassing is. De Raad oordeelt dat een operationele, materiële of geografische samenhang volstaat en dat die criteria niet cumulatief zijn. Het ontbreken van technische verbindingen, het zelfstandig kunnen functioneren van elke winning en de beregening van verschillende percelen sluiten een eenheid niet uit. De exploitatie van meerdere winningen door dezelfde rechtspersoon is een belangrijke indicatie van samenhang en legt een verscherpte onderzoeks- en motiveringsplicht op. Het begrip mag ook niet te eng worden ingevuld, gelet op het hoge beschermingsniveau van artikel 1.2.1, §2 DABM. De deputatie had de geografische samenhang (winningen op maximaal 1,1 km) en de plaats van de winningen binnen de activiteiten van de exploitant niet onderzocht. De Raad vernietigt daarom de vergunning van tien jaar en stelt zich niet in de plaats van de deputatie. Hij beveelt een nieuwe beslissing over het bestuurlijk beroep binnen drie maanden na de dag van de betekening van het arrest van 11 juni 2026."
+   ],
+   "fr": [
+    "RvVb : les captages d'eau souterraine d'un même exploitant peuvent former une unité technique environnementale",
+    "Le Conseil pour les contestations de permis annule un permis d'environnement de classe 2 pour un captage d'eau souterraine, la députation n'ayant pas examiné correctement si ce captage forme une unité technique environnementale (milieutechnische eenheid) avec d'autres captages du même exploitant. Cette qualification détermine la classe du permis et l'annexe de l'arrêté relatif aux projets soumis à étude d'incidences.",
+    "L'arrêt concerne les exploitants de plusieurs captages d'eau souterraine et les autorités qui statuent sur leurs permis. Selon la rubrique 53 de la liste de classification du VLAREM II, les débits des captages formant ensemble une unité technique environnementale sont additionnés, ce qui dépasserait ici le seuil de 30.000 m³ de la classe 1. La même qualification détermine si l'annexe II (1.000 m³ par jour) ou l'annexe III de l'arrêté relatif aux projets soumis à rapport d'incidences (project-MER) s'applique. Le Conseil juge qu'un lien opérationnel, matériel ou géographique suffit et que ces critères ne sont pas cumulatifs. L'absence de liaisons techniques, la possibilité pour chaque captage de fonctionner seul et l'irrigation de parcelles différentes n'excluent pas une unité. L'exploitation de plusieurs captages par une même personne morale est un indice important de lien et impose un devoir renforcé d'examen et de motivation. La notion ne peut en outre être interprétée trop étroitement, vu le niveau élevé de protection visé à l'article 1.2.1, §2 du DABM. La députation n'avait examiné ni la proximité géographique (captages distants de 1,1 km au maximum) ni la place des captages dans les activités de l'exploitant. Le Conseil annule dès lors le permis de dix ans et ne se substitue pas à la députation. Il ordonne une nouvelle décision sur le recours administratif dans un délai de trois mois à compter du lendemain de la notification de l'arrêt du 11 juin 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0880 – milieutechnische eenheid (art. 1.1.2 §1, 8° DABM; art. 1.1.2 en rubriek 53 indelingslijst VLAREM II) en bijlagen II en III Project-MER-besluit",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0880. vernietiging van de beslissing van de verwerende partij van 15 mei 2025 , waarmee ",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0880.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0880"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0877",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb dismisses appeal against Durme bridge permit; on-site Natura 2000 compensation accepted",
+   "a": "The Council for Permit Disputes dismissed the appeal against the permit to replace the N446 bridge over the Durme in Waasmunster. It held that compensatory measures under the Habitats Directive may be located inside the affected Natura 2000 site, and that a purely procedural objection under Article 26bis, §3 of the Nature Decree gave the applicant no interest in the plea.",
+   "b": "The ruling concerns the permit of 21 February 2025 for a new bridge, and so matters for project developers and permitting authorities dealing with projects in Natura 2000 and VEN areas. The Council confirms that compensatory measures under Article 6(4) of the Habitats Directive may be taken inside the affected Natura 2000 site, following the Court of Justice of 15 May 2014 (C-521/12), and treats an older Council of State judgment of 2002 as outdated. It holds that an applicant who merely disagrees with the imperative reasons of overriding public interest accepted by the Flemish Government on 7 February 2025 raises only an objection of expediency. A later change of policy view is not in itself unlawful. For Article 16, §1 of the Nature Decree, avoidable damage is damage the applicant can avoid by adjusting the requested acts or taking feasible precautions that do not make the application ineffective. The applicant must give concrete data on the natural elements affected and why the damage is avoidable. A plea claiming that Article 26bis, §3 requires a prior refusal of the permit before the derogation can be used was not examined on the merits. It is purely procedural, and under Article 35, third paragraph of the DBRC Decree the applicant had no interest in it. The Council declared the intervention of the waterway manager admissible and ordered the applicant to bear the costs. The ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb verwerpt beroep tegen vergunning Durmebrug; compensatie binnen speciale beschermingszone aanvaard",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen de omgevingsvergunning voor de vervanging van de brug van de N446 over de Durme te Waasmunster. Compenserende maatregelen onder de Habitatrichtlijn mogen volgens de Raad binnen de aangetaste speciale beschermingszone zelf worden genomen, en een louter procedureel middel over artikel 26bis, §3 Natuurdecreet leverde de verzoekende partij geen belang bij het middel op.",
+    "Het arrest betreft de vergunning van 21 februari 2025 voor een nieuwe brug en is van belang voor projectontwikkelaars en vergunningverlenende overheden bij projecten in Natura 2000- en VEN-gebied. De Raad bevestigt dat compenserende maatregelen op grond van artikel 6, lid 4 Habitatrichtlijn binnen de aangetaste speciale beschermingszone zelf kunnen worden genomen, in navolging van het Hof van Justitie van 15 mei 2014 (C-521/12), en beschouwt een ouder arrest van de Raad van State van 2002 als achterhaald. Wie louter een ander standpunt inneemt over de dwingende redenen van groot openbaar belang die de Vlaamse regering op 7 februari 2025 aannam, voert volgens de Raad enkel opportuniteitskritiek. Een later bijgestuurd beleidsstandpunt is op zich niet onwettig. Voor artikel 16, §1 Natuurdecreet is vermijdbare schade schade die de aanvrager kan vermijden door de gevraagde handelingen aan te passen of door haalbare voorzorgsmaatregelen te nemen die de aanvraag niet ondoeltreffend maken. De verzoekende partij moet concreet aantonen welke natuurelementen schade lijden en waarom die schade vermijdbaar is. Een middel dat stelt dat artikel 26bis, §3 Natuurdecreet eerst een weigering van de vergunning vereist vooraleer de afwijking kan worden toegepast, werd niet ten gronde onderzocht. Het is zuiver procedureel, en op grond van artikel 35, derde lid DBRC-decreet had de verzoekende partij daarbij geen belang. De tussenkomst van de waterwegbeheerder is ontvankelijk en de kosten komen ten laste van de verzoekende partij. Het arrest werd uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "Le CCA rejette le recours contre le permis du pont sur la Durme ; compensation dans la zone Natura 2000 admise",
+    "Le Conseil pour les contestations des permis rejette le recours contre le permis d'environnement pour le remplacement du pont de la N446 sur la Durme à Waasmunster. Selon le Conseil, les mesures compensatoires prévues par la directive Habitats peuvent être prises dans la zone de protection spéciale affectée elle-même, et un moyen purement procédural relatif à l'article 26bis, §3 du décret sur la nature n'a pas donné à la partie requérante d'intérêt au moyen.",
+    "L'arrêt concerne le permis du 21 février 2025 pour un nouveau pont et intéresse les porteurs de projets et les autorités délivrantes pour les projets situés en zone Natura 2000 ou en VEN (réseau écologique flamand). Le Conseil confirme que des mesures compensatoires au sens de l'article 6, paragraphe 4 de la directive Habitats peuvent être prises dans la zone de protection spéciale affectée elle-même, à la suite de la Cour de justice du 15 mai 2014 (C-521/12), et juge dépassé un ancien arrêt du Conseil d'État de 2002. Celui qui se borne à adopter un autre point de vue sur les raisons impératives d'intérêt public majeur retenues par le Gouvernement flamand le 7 février 2025 ne formule, selon le Conseil, qu'une critique d'opportunité. Un point de vue politique réajusté par la suite n'est pas illégal en soi. Pour l'article 16, §1 du décret sur la nature, le dommage évitable est celui que le demandeur peut éviter en adaptant les actes demandés ou en prenant des précautions réalisables qui ne rendent pas la demande inefficace. La partie requérante doit indiquer concrètement quels éléments naturels subissent un dommage et pourquoi celui-ci est évitable. Un moyen soutenant que l'article 26bis, §3 du décret sur la nature exige d'abord un refus du permis avant que la dérogation puisse être appliquée n'a pas été examiné au fond. Il est purement procédural et, en vertu de l'article 35, alinéa 3 du décret DBRC, la partie requérante n'y avait pas d'intérêt. L'intervention du gestionnaire de la voie d'eau est recevable et les dépens sont à charge de la partie requérante. L'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0877 – artikel 16, §1, 26bis, §3 en 36ter, §5 Natuurdecreet; artikel 6, lid 4 Habitatrichtlijn; artikel 35 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0877. vernietiging van de beslissing van de verwerende partij van 21 februari 2025, waar",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0877.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0877"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0875",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb: municipal projects subject to EIA screening must go to the deputation in first instance",
+   "a": "The Council for Permit Disputes holds that where a municipality is both applicant and initiator of a project subject to EIA screening, the deputation, not the municipal executive, is the permit authority in first instance. It bases this on the direct effect of Article 9bis of the EIA Directive, given the incomplete transposition by former Article 15/1 of the Omgevingsvergunningsdecreet.",
+   "b": "The ruling concerns municipalities that apply for a permit for their own project falling under a screening category of Annex III to the Project-MER-besluit (here urban development and road construction), and the authorities handling such applications. Former Article 15/1, first paragraph, of the Omgevingsvergunningsdecreet gave the deputation competence in first instance only if an EIA report was required and no exemption had been obtained. Following CJEU 8 May 2025 (C-236/24) and Council of State 27 January 2026 (no. 265.582), the Council finds that this transposed Article 9bis of Directive 2011/92/EU incompletely, and that Article 9bis has direct effect. The required appropriate separation of functions is not achieved when the municipal environmental officer decides whether a screening project of the municipality itself needs an EIA. The application therefore had to be filed with the deputation, and the deputation could not lawfully deal with the administrative appeal against the municipal executive's decision. The Council annulled the deemed rejection of that appeal, substituted its own ruling and set aside the permit granted in first instance for the redevelopment of the Oude Vest in Dendermonde. It also held that the applicant's later identical application and new permit do not remove the appellants' interest, because waiving a permit is not presumed and the new permit is itself contested. The ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb: gemeentelijke screeningsplichtige projecten horen in eerste aanleg bij de deputatie",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat de deputatie, en niet het college van burgemeester en schepenen, in eerste aanleg bevoegd is wanneer een gemeente zelf aanvrager en initiatiefnemer is van een screeningsplichtig project. Dat volgt uit de rechtstreekse werking van artikel 9bis van de Project-MER-richtlijn, nu het toenmalige artikel 15/1 van het Omgevingsvergunningsdecreet die bepaling onvolledig omzette.",
+    "Het arrest betreft gemeenten die een vergunning aanvragen voor een eigen project dat onder een screeningscategorie van bijlage III bij het Project-MER-besluit valt (hier stadsontwikkeling en aanleg van wegen), en de overheden die zulke aanvragen behandelen. Het toenmalige artikel 15/1, eerste lid, van het Omgevingsvergunningsdecreet maakte de deputatie in eerste aanleg alleen bevoegd als een milieueffectrapport moest worden opgesteld en geen ontheffing van de rapportageverplichting was verkregen. Na het arrest van het Hof van Justitie van 8 mei 2025 (C-236/24) en het arrest van de Raad van State van 27 januari 2026 (nr. 265.582) stelt de Raad vast dat dit artikel 9bis van richtlijn 2011/92/EU onvolledig omzette en dat artikel 9bis rechtstreekse werking heeft. De vereiste passende scheiding van functies is niet verwezenlijkt wanneer de gemeentelijke omgevingsambtenaar beslist of een screeningsplichtig project van de gemeente zelf aan milieueffectrapportage moet worden onderworpen. De aanvraag moest dus bij de deputatie worden ingediend, en de deputatie kon het bestuurlijk beroep tegen de beslissing van het college van burgemeester en schepenen niet wettig behandelen. De Raad vernietigt de stilzwijgende afwijzing van dat beroep, stelt zijn arrest in de plaats en heft de in eerste aanleg verleende vergunning voor de herinrichting van de Oude Vest te Dendermonde op. Hij oordeelt ook dat een latere identieke aanvraag en nieuwe vergunning het belang van de verzoekers niet wegnemen, omdat verzaking aan een vergunning niet wordt vermoed en de nieuwe vergunning zelf wordt bestreden. Het arrest werd uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "CCE flamand : les projets communaux soumis au screening relèvent de la députation en première instance",
+    "Le Conseil pour les contestations des autorisations juge que la députation, et non le collège des bourgmestre et échevins, est compétente en première instance lorsqu'une commune est elle-même demanderesse et initiatrice d'un projet soumis au screening. Cela découle de l'effet direct de l'article 9bis de la directive EIE, l'ancien article 15/1 du décret sur l'autorisation environnementale ayant transposé cette disposition de manière incomplète.",
+    "L'arrêt concerne les communes qui demandent un permis pour leur propre projet relevant d'une catégorie de screening de l'annexe III de l'arrêté project-MER (ici développement urbain et construction de routes), ainsi que les autorités qui traitent ces demandes. L'ancien article 15/1, alinéa 1er, du décret sur l'autorisation environnementale ne rendait la députation compétente en première instance que si un rapport d'incidences sur l'environnement devait être établi et qu'aucune dispense n'avait été obtenue. À la suite de l'arrêt de la Cour de justice du 8 mai 2025 (C-236/24) et de l'arrêt du Conseil d'État du 27 janvier 2026 (n° 265.582), le Conseil constate que cet article a transposé de manière incomplète l'article 9bis de la directive 2011/92/UE et que l'article 9bis a un effet direct. La séparation appropriée des fonctions exigée n'est pas assurée lorsque le fonctionnaire environnemental communal décide si un projet de la commune elle-même soumis au screening doit faire l'objet d'une évaluation des incidences. La demande devait donc être introduite auprès de la députation, et celle-ci ne pouvait légalement connaître du recours administratif contre la décision du collège des bourgmestre et échevins. Le Conseil annule le rejet tacite de ce recours, substitue son arrêt à la décision à prendre et annule le permis délivré en première instance pour le réaménagement de l'Oude Vest à Termonde. Il juge aussi qu'une demande identique ultérieure et un nouveau permis ne font pas disparaître l'intérêt des requérants, la renonciation à un permis ne se présumant pas et le nouveau permis étant lui-même contesté. L'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "Omgevingsvergunningsdecreet, artikel 15/1, eerste lid (toenmalige versie); artikel 9bis richtlijn 2011/92/EU; arrest RvVb RVVB.2526.0875",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0875.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0875.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0875"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0871",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: appeal inadmissible where own administrative appeal was declared inadmissible and not challenged before the Council",
+   "a": "The Flemish Council for Permit Disputes rules that a person whose administrative appeal was declared inadmissible by the provincial environmental officer and who did not challenge that decision before the Council cannot contest the later permit decision taken on other appellants' appeal. The appeal against a permit for a tennis court was dismissed.",
+   "b": "The ruling concerns third parties who file an administrative appeal against a municipal environmental permit and then seek annulment before the Council for Permit Disputes (RvVb). Under article 105, §2 of the Environmental Permit Decree, anyone who did not properly exhaust the available administrative appeal is deemed to have waived access to the Council. This exhaustion requirement concerns public order and may be examined by the Council of its own motion. The Council holds that a decision of the provincial environmental officer declaring an appeal inadmissible or incomplete is a final decision in the last administrative instance. It ends the administrative procedure by operation of law for the appellants concerned, even if the appeal of other appellants goes on, and it can be challenged before the Council. By contrast, a finding of admissibility is not binding on the deputation, which may re-examine admissibility if seriously disputed. In this case the applicants had not challenged the officer's inadmissibility decision within 45 days and showed no force majeure or invincible error. They therefore could not contest the deputation's decision of 22 May 2025 granting the permit on the appeal of the other appellants. The Council also held that the officer's decision is an individual act, so it cannot be set aside under article 159 of the Constitution once the time limit has expired. The appeal was dismissed, the merits were not examined, and the 600 euro registry fee stays with the applicants.",
+   "nl": [
+    "RvVb: beroep onontvankelijk wanneer het eigen administratief beroep onontvankelijk werd verklaard en niet bij de Raad werd betwist",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat wie zijn administratief beroep door de provinciale omgevingsambtenaar onontvankelijk zag verklaard en die beslissing niet bij de Raad heeft aangevochten, de latere vergunningsbeslissing op beroep van andere indieners niet kan bestrijden. Het beroep tegen een omgevingsvergunning voor een tennisterrein wordt verworpen.",
+    "Het arrest betreft derden die administratief beroep instellen tegen een omgevingsvergunning van het college van burgemeester en schepenen en vervolgens de vernietiging vorderen bij de Raad voor Vergunningsbetwistingen (RvVb). Krachtens artikel 105, §2 van het Omgevingsvergunningsdecreet wordt wie het administratief beroep niet correct heeft uitgeput, geacht te hebben verzaakt aan zijn recht om zich tot de Raad te wenden. Die uitputtingsvereiste raakt de openbare orde en kan ambtshalve worden onderzocht. De Raad oordeelt dat de beslissing van de provinciale omgevingsambtenaar die een beroep onontvankelijk of onvolledig verklaart, een beslissing in laatste administratieve aanleg is. Ze beëindigt van rechtswege de administratieve procedure voor de betrokken beroepsindieners, ook als het beroep van andere indieners wordt voortgezet, en ze kan bij de Raad worden bestreden. Een ontvankelijkheidsbeslissing bindt de deputatie daarentegen niet; zij kan de ontvankelijkheid opnieuw onderzoeken bij ernstige betwisting. Hier hadden de verzoekers de onontvankelijkheidsbeslissing niet binnen 45 dagen bij de Raad aangevochten en toonden zij geen overmacht of onoverwinnelijke dwaling aan. Ze konden dan ook de beslissing van de deputatie van 22 mei 2025, genomen op het beroep van de overige indieners, niet betwisten. De Raad oordeelde ook dat de beslissing van de ambtenaar een individuele bestuurshandeling is, die na het verstrijken van de termijn niet meer op grond van artikel 159 van de Grondwet buiten toepassing kan worden gelaten. Het beroep wordt verworpen zonder onderzoek ten gronde en het rolrecht van 600 euro blijft ten laste van de verzoekers."
+   ],
+   "fr": [
+    "CCAP : recours irrecevable lorsque le recours administratif du requérant a été déclaré irrecevable et n'a pas été contesté devant le Conseil",
+    "Le Conseil pour les contestations des autorisations (RvVb) juge que celui dont le recours administratif a été déclaré irrecevable par le fonctionnaire provincial de l'environnement et qui n'a pas contesté cette décision devant le Conseil ne peut attaquer la décision d'autorisation prise ensuite sur le recours d'autres requérants. Le recours contre un permis d'environnement pour un terrain de tennis est rejeté.",
+    "L'arrêt concerne des tiers qui introduisent un recours administratif contre un permis d'environnement délivré par le collège des bourgmestre et échevins, puis demandent l'annulation devant le Conseil pour les contestations des autorisations (RvVb). En vertu de l'article 105, §2 du décret sur le permis d'environnement, celui qui n'a pas correctement épuisé le recours administratif est réputé avoir renoncé à son droit de saisir le Conseil. Cette exigence d'épuisement touche à l'ordre public et peut être examinée d'office. Le Conseil juge que la décision du fonctionnaire provincial de l'environnement déclarant un recours irrecevable ou incomplet est une décision rendue en dernière instance administrative. Elle met fin de plein droit à la procédure administrative pour les requérants concernés, même si le recours d'autres requérants se poursuit, et elle peut être contestée devant le Conseil. En revanche, une décision de recevabilité ne lie pas la députation, qui peut réexaminer la recevabilité en cas de contestation sérieuse. En l'espèce, les requérants n'avaient pas contesté la décision d'irrecevabilité devant le Conseil dans les 45 jours et n'ont invoqué ni force majeure ni erreur invincible. Ils ne pouvaient donc pas contester la décision de la députation du 22 mai 2025, prise sur le recours des autres requérants. Le Conseil a aussi précisé que la décision du fonctionnaire est un acte administratif individuel, qui ne peut plus être écarté sur la base de l'article 159 de la Constitution une fois le délai expiré. Le recours est rejeté sans examen au fond et le droit de rôle de 600 euros reste à charge des requérants."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0871 van 11 juni 2026 – artikel 105, §2 en artikelen 57-58 Omgevingsvergunningsdecreet (uitputting administratief beroep; omgevingsvergunning tennisterrein, Grimbergen)",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0871. vernietiging van de beslissing van de verwerende partij van 22 mei 2025, waarmee a",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0871.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0871"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0868",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: municipal road projects needing EIA screening must go to the deputation; permit annulled",
+   "a": "The Council for Permit Disputes annulled a provincial permit for cycle paths along the Waversebaan in Oud-Heverlee. Following the CJEU and Council of State rulings, a municipality's own screening-liable project cannot be handled in first instance by the municipal college, because Article 15/1 of the Environmental Permit Decree transposed Article 9bis of the EIA Directive incompletely.",
+   "b": "The ruling concerns municipal projects in Flanders for which the college of mayor and aldermen is both applicant and initiator and which are subject to project-EIA screening (here, road construction under annex III of the Project-EIA Decree). Following CJEU 8 May 2025 (C-236/24) and Council of State 27 January 2026 (no. 265.582), the Council finds that former Article 15/1 of the Environmental Permit Decree transposed Article 9bis of the EIA Directive incompletely. The required 'appropriate separation' of conflicting functions is not achieved when the municipal environmental officer decides whether such a project needs an EIA. The application therefore had to be filed with the deputation as first-instance authority. The deputation thus could not lawfully rule on the administrative appeal against the college's permit. It makes no difference that the authorities applied the rules then in force, nor that the deputation claimed an EIA was manifestly unnecessary, since that assessment belongs to the competent authorities in a regular procedure. The Council annulled the deputation's decision of 13 April 2023 and, because the deputation's power was fully bound, substituted its own ruling by setting aside the college's permit of 5 July 2022. Other grounds were not examined, and the Council also dismissed the appellants' procedural objections and excluded late-filed exhibits. The ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb: gemeentelijk screeningplichtig project moet in eerste aanleg naar de deputatie; vergunning vernietigd",
+    "De Raad voor Vergunningsbetwistingen vernietigt een provinciale vergunning voor fietspaden langs de Waversebaan in Oud-Heverlee. Na de arresten van het Hof van Justitie en de Raad van State kan het college van burgemeester en schepenen een eigen screeningsplichtig project niet in eerste aanleg behandelen, omdat artikel 15/1 Omgevingsvergunningsdecreet artikel 9bis Project-MER-richtlijn onvolledig omzette.",
+    "Het arrest betreft gemeentelijke projecten in Vlaanderen waarvoor het college van burgemeester en schepenen initiatiefnemer en aanvrager is en die aan project-MER-screening zijn onderworpen (hier wegenaanleg, bijlage III Project-MER-besluit). Na HvJ 8 mei 2025 (C-236/24) en RvS 27 januari 2026 (nr. 265.582) oordeelt de Raad dat het toenmalige artikel 15/1 Omgevingsvergunningsdecreet artikel 9bis van de MER-richtlijn onvolledig omzette. De vereiste 'passende scheiding' van conflicterende functies is niet verwezenlijkt wanneer de gemeentelijke omgevingsambtenaar beslist of voor zo'n project een MER nodig is. De aanvraag moest dus bij de deputatie als vergunningverlenende overheid in eerste aanleg worden ingediend, en de deputatie kon het bestuurlijk beroep tegen de beslissing van het college niet wettig behandelen. Dat de overheden de toen geldende regels toepasten, en dat de deputatie meende dat kennelijk geen project-MER nodig was, doet daaraan niets af: die beoordeling komt toe aan de bevoegde instanties in een regelmatige procedure. De Raad vernietigt de beslissing van de deputatie van 13 april 2023 en stelt, omdat de deputatie een gebonden bevoegdheid had, zijn arrest in de plaats door de vergunning van het college van 5 juli 2022 op te heffen. De overige middelen werden niet onderzocht; de procedurele excepties van de verzoekers werden verworpen en laattijdig neergelegde stukken geweerd. Het arrest is uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "CCAP : un projet communal soumis au screening EIE relève en première instance de la députation ; permis annulé",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis délivré par la députation pour des pistes cyclables le long de la Waversebaan à Oud-Heverlee. Après les arrêts de la CJUE et du Conseil d'État, le collège des bourgmestre et échevins ne peut traiter en première instance son propre projet soumis au screening, l'article 15/1 du décret sur le permis d'environnement ayant transposé de manière incomplète l'article 9bis de la directive EIE.",
+    "L'arrêt concerne les projets communaux en Flandre dont le collège des bourgmestre et échevins est l'initiateur et le demandeur et qui sont soumis au screening du rapport d'incidences (ici : construction de voiries, annexe III de l'arrêté Project-MER). Après l'arrêt CJUE du 8 mai 2025 (C-236/24) et celui du Conseil d'État du 27 janvier 2026 (n° 265.582), le Conseil juge que l'ancien article 15/1 du décret sur le permis d'environnement a transposé de façon incomplète l'article 9bis de la directive EIE. La « séparation appropriée » des fonctions conflictuelles n'est pas assurée lorsque le fonctionnaire communal de l'environnement décide si un tel projet requiert une EIE. La demande devait donc être introduite auprès de la députation, autorité compétente en première instance, et celle-ci ne pouvait statuer légalement sur le recours administratif contre la décision du collège. Le fait que les autorités aient appliqué les règles alors en vigueur, ou que la députation ait estimé qu'aucune EIE n'était manifestement nécessaire, n'y change rien : cette appréciation revient aux autorités compétentes dans une procédure régulière. Le Conseil annule la décision de la députation du 13 avril 2023 et, la compétence de la députation étant entièrement liée, substitue son arrêt en annulant le permis du collège du 5 juillet 2022. Les autres moyens n'ont pas été examinés ; les exceptions de procédure des requérants ont été rejetées et les pièces déposées tardivement écartées. L'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "RvVb arrest RVVB.2526.0868 van 11 juni 2026: artikel 15/1 Omgevingsvergunningsdecreet, artikel 9bis Project-MER-richtlijn, project-MER-screening, indeplaatsstelling (artikel 37, §2 DBRC-decreet)",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0868. vernietiging van de beslissing van de verwerende partij van 13 april 2023.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0868.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0868"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0865",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: neighbours must substantiate their standing when an applicant seriously contests it in a permit appeal",
+   "a": "The Council for Permit Disputes rules that the case law under which a neighbour's status is enough to show standing does not apply once the applicant contests that standing in a detailed, reasoned way. It annuls a refusal of a permit to amend a condition because the neighbours' administrative appeal should have been declared inadmissible.",
+   "b": "The ruling concerns neighbours who lodged an administrative appeal, and then intervened before the Council, against a permit amending a condition of an earlier permit. The condition required fish ponds to be filled in once the fish farm ended, and the amendment would keep them for nature and landscape purposes. Standing for both the administrative appeal and the Council proceedings is judged under the notion of 'betrokken publiek' (articles 53 and 105 of the Omgevingsvergunningsdecreet). The Council holds that the established case law, under which an owner or occupant of neighbouring land makes the impact on them plausible simply by stating that capacity, cannot be applied when the applicant contests their standing in a detailed and reasoned way. The neighbours must then answer that argument and cannot rely only on being neighbours. The Council found the claimed nuisance insufficient: the application only removes the obligation to fill in ponds already permitted and built, and allegations of waste dumping and unauthorised relief changes do not concern that object. Visual nuisance was not credible given the distance and the green buffers around the ponds. For the alleged effects on water management the neighbours gave no substantiated reply, and the file and the advisory opinions pointed the other way. The Council therefore holds that the administrative appeal should have been declared inadmissible, annuls the refusal of 27 March 2025 and orders a new decision on the appeal within three months of the day after notification of the ruling. The ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb: buren moeten hun belang aantonen wanneer de aanvrager dit ernstig betwist in een vergunningsberoep",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat de rechtspraak waarbij de hoedanigheid van buur volstaat om een belang aan te tonen, niet geldt wanneer de aanvrager dat belang uitvoerig en gemotiveerd betwist. Hij vernietigt een weigering van een vergunning tot bijstelling van een voorwaarde omdat het bestuurlijk beroep van de buren onontvankelijk had moeten worden verklaard.",
+    "Het arrest betreft omwonenden die bestuurlijk beroep instelden, en vervolgens tussenkwamen bij de Raad, tegen een vergunning tot bijstelling van een voorwaarde uit een eerdere vergunning. Die voorwaarde verplichtte tot het dempen van viskweekvijvers na het einde van de viskweek; de bijstelling zou de vijvers behouden in functie van natuur en landschap. Het belang, zowel voor het bestuurlijk beroep als voor de procedure bij de Raad, wordt beoordeeld aan de hand van het begrip 'betrokken publiek' (artikelen 53 en 105 Omgevingsvergunningsdecreet). De Raad oordeelt dat de gevestigde rechtspraak, volgens welke de eigenaar of bewoner van een naburig perceel door die hoedanigheid alleen al aannemelijk maakt dat hij persoonlijk kan worden getroffen, niet kan worden toegepast wanneer de aanvrager zijn belang uitvoerig en ernstig gemotiveerd betwist. De buren moeten dan op die betwisting antwoorden en kunnen niet louter verwijzen naar hun hoedanigheid van buur. De aangevoerde hinder volstond volgens de Raad niet: de aanvraag neemt enkel de verplichting weg om reeds vergunde en aangelegde vijvers te dempen, en de beweerde afvalstorten en onvergunde reliëfwijzigingen hebben daar geen betrekking op. Visuele hinder was niet geloofwaardig gelet op de afstand en de groenbuffers rond de vijvers. Voor de beweerde gevolgen voor de waterhuishouding gaven de buren geen onderbouwde repliek en wezen het dossier en de adviezen in de andere richting. Het bestuurlijk beroep had dus onontvankelijk verklaard moeten worden. De Raad vernietigt de weigering van 27 maart 2025 en beveelt een nieuwe beslissing over het bestuurlijk beroep binnen drie maanden vanaf de dag na de betekening van het arrest. Het arrest werd uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "CCE flamand : les voisins doivent démontrer leur intérêt lorsque le demandeur le conteste sérieusement dans un recours en permis",
+    "Le Conseil pour les contestations des autorisations (RvVb) juge que la jurisprudence selon laquelle la qualité de voisin suffit à établir l'intérêt ne s'applique pas lorsque le demandeur le conteste de manière détaillée et motivée. Il annule le refus d'un permis modifiant une condition, car le recours administratif des voisins aurait dû être déclaré irrecevable.",
+    "L'arrêt concerne des riverains qui ont introduit un recours administratif, puis sont intervenus devant le Conseil, contre un permis modifiant une condition d'un permis antérieur. Cette condition imposait de combler les étangs de pisciculture à la fin de l'activité ; la modification aurait maintenu les étangs au profit de la nature et du paysage. L'intérêt, tant pour le recours administratif que pour la procédure devant le Conseil, s'apprécie au regard de la notion de « public concerné » (articles 53 et 105 du décret sur le permis d'environnement, Omgevingsvergunningsdecreet). Le Conseil juge que la jurisprudence établie, selon laquelle le propriétaire ou l'occupant d'une parcelle voisine rend plausible, par cette seule qualité, qu'il puisse être personnellement affecté, ne peut s'appliquer lorsque le demandeur conteste son intérêt de manière détaillée et sérieusement motivée. Les voisins doivent alors répondre à cette contestation et ne peuvent se borner à invoquer leur qualité de voisin. Les nuisances invoquées ne suffisaient pas selon le Conseil : la demande supprime seulement l'obligation de combler des étangs déjà autorisés et aménagés, et les allégations de dépôts de déchets et de modifications de relief non autorisées sont étrangères à cet objet. La nuisance visuelle n'était pas crédible vu la distance et les zones tampons végétales autour des étangs. Pour les effets allégués sur la gestion de l'eau, les voisins n'ont pas apporté de réplique étayée, et le dossier ainsi que les avis allaient en sens contraire. Le recours administratif aurait donc dû être déclaré irrecevable. Le Conseil annule le refus du 27 mars 2025 et ordonne une nouvelle décision sur le recours administratif dans les trois mois suivant le jour de la notification de l'arrêt. L'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "Arrest RvVb 11 juni 2026, nr. RVVB.2526.0865: belang van het 'betrokken publiek' (art. 53 en 105 Omgevingsvergunningsdecreet) bij bestuurlijk beroep tegen de bijstelling van een vergunningsvoorwaarde",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0865. vernietiging van de beslissing van de verwerende partij van 27 maart 2025, waarmee",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0865.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0865"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0601-sum",
+   "d": "2026-06-11",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "CJEU on wildlife trade: extract preparations are specimens, personal therapeutic imports may skip permit",
+   "a": "The Court of Justice held that a preparation containing extract of an Annex B species (here the Japanese seahorse) is a 'specimen' under Regulation 338/97, even if it is a medicinal product. Bringing such a preparation into the EU for one's own therapeutic needs can fall under the personal or household effects derogation, which limits criminal sanctions for lacking an import permit.",
+   "b": "The ruling concerns travellers, importers and enforcement authorities dealing with products that contain species listed in Annex B to Regulation (EC) No 338/97. A complex preparation containing extract of the Japanese seahorse is a 'specimen' within Article 2(t), and classifying it as a medicinal product does not change that. A preparation lawfully bought in a third country and brought into the EU for the private individual's own therapeutic needs, not for commercial purposes, can fall under the personal or household effects derogation (Articles 2(j) and 7(3) of Regulation 338/97, Article 57(1) of Regulation (EC) No 865/2006). In that case no import permit or, where applicable, (re-)export document has to be presented, provided the conditions of those provisions are met. Under Article 16, national law may not impose criminal sanctions for introduction without an import permit where the specimens fall within that derogation. Where they fall outside it, such sanctions are allowed, provided the sanction applied is proportionate. The judgment was delivered on 11 June 2026 in a preliminary reference from a Polish court.",
+   "nl": [
+    "HvJ-EU over wildhandel: extractbereidingen zijn specimens, persoonlijke therapeutische invoer kan vergunningvrij zijn",
+    "Het Hof van Justitie oordeelt dat een bereiding met extract van een soort uit bijlage B (hier de Japanse zeepaardje) een 'specimen' is in de zin van Verordening 338/97, ook als het een geneesmiddel is. De invoer ervan in de EU voor eigen therapeutische behoeften kan onder de afwijking voor persoonlijke goederen of huisraad vallen, wat de strafrechtelijke sancties voor het ontbreken van een invoervergunning beperkt.",
+    "Het arrest betreft reizigers, importeurs en handhavingsautoriteiten die te maken hebben met producten die soorten uit bijlage B bij Verordening (EG) nr. 338/97 bevatten. Een complexe bereiding met extract van de Japanse zeepaardje is een 'specimen' in de zin van artikel 2, onder t), en de kwalificatie als geneesmiddel verandert daar niets aan. Een bereiding die rechtmatig in een derde land is gekocht en de EU wordt binnengebracht voor de eigen therapeutische behoeften van de particulier, en niet voor commerciële doeleinden, kan onder de afwijking voor persoonlijke goederen of huisraad vallen (artikelen 2, onder j), en 7, lid 3, van Verordening 338/97 en artikel 57, lid 1, van Verordening (EG) nr. 865/2006). In dat geval moet geen invoervergunning of, in voorkomend geval, (her)uitvoerdocument worden voorgelegd, mits aan de voorwaarden van die bepalingen is voldaan. Op grond van artikel 16 mag het nationale recht geen strafrechtelijke sancties opleggen voor invoer zonder invoervergunning wanneer de specimens onder die afwijking vallen. Vallen zij erbuiten, dan zijn dergelijke sancties toegestaan, op voorwaarde dat de opgelegde sanctie evenredig is. Het arrest is op 11 juni 2026 gewezen op een prejudiciële verwijzing van een Poolse rechter."
+   ],
+   "fr": [
+    "CJUE, commerce d'espèces sauvages : les préparations à base d'extrait sont des spécimens, l'importation thérapeutique personnelle peut être dispensée de permis",
+    "La Cour de justice juge qu'une préparation contenant un extrait d'une espèce de l'annexe B (ici l'hippocampe japonais) est un « spécimen » au sens du règlement 338/97, même s'il s'agit d'un médicament. Son introduction dans l'UE pour les besoins thérapeutiques propres de l'intéressé peut relever de la dérogation pour les effets personnels ou les objets ménagers, ce qui limite les sanctions pénales pour défaut de permis d'importation.",
+    "L'arrêt concerne les voyageurs, les importateurs et les autorités de contrôle confrontés à des produits contenant des espèces de l'annexe B du règlement (CE) n° 338/97. Une préparation complexe contenant un extrait d'hippocampe japonais est un « spécimen » au sens de l'article 2, sous t), et sa qualification de médicament n'y change rien. Une préparation achetée légalement dans un pays tiers et introduite dans l'UE pour les besoins thérapeutiques propres d'un particulier, et non à des fins commerciales, peut relever de la dérogation pour les effets personnels ou les objets ménagers (articles 2, sous j), et 7, paragraphe 3, du règlement 338/97 et article 57, paragraphe 1, du règlement (CE) n° 865/2006). Dans ce cas, aucun permis d'importation ni, le cas échéant, aucun document de (ré)exportation ne doit être présenté, pour autant que les conditions de ces dispositions soient remplies. En vertu de l'article 16, le droit national ne peut prévoir de sanctions pénales pour l'introduction sans permis d'importation lorsque les spécimens relèvent de cette dérogation. Lorsqu'ils n'en relèvent pas, de telles sanctions sont admises, à condition que la sanction appliquée soit proportionnée. L'arrêt a été rendu le 11 juin 2026 sur renvoi préjudiciel d'une juridiction polonaise."
+   ],
+   "scope": "Regulation (EC) No 338/97, Articles 2(j), 2(t), 7(3) and 16, and Regulation (EC) No 865/2006, Article 57(1) (Case C-601/24)",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Ninth Chamber) of 11 June 2026.#Prokurator Prokuratury Rejonowej w Jarosławiu v V.B.#Reference for a preliminary ruli",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0601_SUM"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0601_SUM"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0601",
+   "d": "2026-06-11",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "CJEU: products with seahorse extract are CITES specimens; personal-use imports can escape permit rules",
+   "a": "The Court of Justice held that a preparation containing extract of Japanese seahorse is a 'specimen' under Regulation 338/97. A private, non-commercial import for therapeutic needs can fall under the personal-effects derogation, and criminal sanctions are then precluded.",
+   "b": "The ruling concerns anyone bringing into the EU products derived from species in Annex B to Regulation 338/97 (here all Hippocampus seahorses), as well as customs and prosecuting authorities and Member States' penal rules. A preparation whose composition includes seahorse extract is a 'specimen' under Article 2(t), and its classification as a medicinal product makes no difference. Such a preparation, bought lawfully in a third country and brought in for the therapeutic needs of a private individual or a close relative, without a commercial purpose, can count as 'personal or household effects' under Articles 2(j) and 7(3). It is then exempt from the import permit or, where applicable, the (re-)export document, but only if the conditions of Article 57(1) and (3) of Regulation 865/2006 are met. Those conditions include being carried in the luggage of a traveller from a third country, or being part of a household move. A person normally residing in the EU (at least 185 days a year) must, in principle, present the original (re-)export document and a copy. The exemption for up to four dead seahorse specimens per person does not cover tablets containing an extract. Authorities may show that an import is in fact commercial, but that is a question of fact for the national court. Under Article 16, criminal sanctions are precluded where the import falls within the derogation. Where it does not, national criminal sanctions remain possible if they are proportionate. The judgment is dated 11 June 2026, and the text does not state an entry into force.",
+   "nl": [
+    "HvJ-EU: producten met zeepaardjesextract zijn CITES-specimens; invoer voor eigen gebruik kan vrijgesteld zijn",
+    "Het Hof van Justitie oordeelt dat een preparaat met extract van Hippocampus japonicus een 'specimen' is in de zin van Verordening 338/97. Niet-commerciële invoer door een particulier voor therapeutische behoeften kan onder de uitzondering voor persoonlijke goederen vallen; strafsancties zijn dan uitgesloten.",
+    "Het arrest betreft iedereen die producten afgeleid van soorten uit bijlage B bij Verordening 338/97 (hier alle Hippocampus-zeepaardjes) in de EU invoert, alsook douane- en vervolgingsautoriteiten en de strafbepalingen van de lidstaten. Een preparaat waarvan de samenstelling zeepaardjesextract bevat, is een 'specimen' in de zin van artikel 2, onder t); de kwalificatie als geneesmiddel verandert daar niets aan. Zo'n preparaat, dat in een derde land rechtmatig is gekocht en zonder commercieel doel wordt ingevoerd voor de therapeutische behoeften van een particulier of een naaste verwant, kan als 'persoonlijke of huishoudelijke goederen' gelden volgens artikel 2, onder j), en artikel 7, lid 3. Het is dan vrijgesteld van de invoervergunning of, in voorkomend geval, het (weder)uitvoerdocument, maar alleen indien aan de voorwaarden van artikel 57, leden 1 en 3, van Verordening 865/2006 is voldaan. Die voorwaarden omvatten onder meer dat het product zich in de persoonlijke bagage van een reiziger uit een derde land bevindt of deel uitmaakt van een verhuizing. Wie normaal in de EU verblijft (ten minste 185 dagen per jaar), moet in beginsel het origineel van het (weder)uitvoerdocument en een kopie voorleggen. De vrijstelling voor maximaal vier dode exemplaren per persoon geldt niet voor tabletten met een extract. De autoriteiten kunnen aantonen dat een invoer in werkelijkheid commercieel is, maar dat is een feitelijke vraag voor de nationale rechter. Krachtens artikel 16 zijn strafsancties uitgesloten wanneer de invoer onder de uitzondering valt. Valt de invoer er niet onder, dan blijven nationale strafsancties mogelijk, mits ze evenredig zijn. Het arrest dateert van 11 juni 2026; een inwerkingtreding wordt in de tekst niet vermeld."
+   ],
+   "fr": [
+    "CJUE : les produits à base d'extrait d'hippocampe sont des spécimens CITES ; l'import à usage personnel peut être exempté",
+    "La Cour de justice juge qu'une préparation contenant de l'extrait d'hippocampe japonais est un « spécimen » au sens du règlement 338/97. L'introduction non commerciale par un particulier pour des besoins thérapeutiques peut relever de la dérogation pour effets personnels, et les sanctions pénales sont alors exclues.",
+    "L'arrêt concerne toute personne introduisant dans l'UE des produits dérivés d'espèces de l'annexe B du règlement 338/97 (ici tous les hippocampes du genre Hippocampus), ainsi que les autorités douanières et de poursuite et les règles pénales des États membres. Une préparation dont la composition comprend de l'extrait d'hippocampe est un « spécimen » au sens de l'article 2, point t), et sa qualification de médicament n'y change rien. Une telle préparation, achetée légalement dans un pays tiers et introduite sans but commercial pour les besoins thérapeutiques d'un particulier ou d'un proche, peut constituer des « effets personnels ou ménagers » au sens de l'article 2, point j), et de l'article 7, paragraphe 3. Elle est alors dispensée du permis d'importation ou, le cas échéant, du document de (ré)exportation, mais seulement si les conditions de l'article 57, paragraphes 1 et 3, du règlement 865/2006 sont remplies. Ces conditions comprennent notamment que le produit se trouve dans les bagages personnels d'un voyageur en provenance d'un pays tiers ou fasse partie d'un déménagement. Une personne résidant normalement dans l'UE (au moins 185 jours par an) doit en principe présenter l'original du document de (ré)exportation et une copie. L'exemption pour au plus quatre spécimens morts par personne ne couvre pas les comprimés contenant un extrait. Les autorités peuvent démontrer qu'une introduction est en réalité commerciale, mais il s'agit d'une question de fait relevant du juge national. En vertu de l'article 16, les sanctions pénales sont exclues lorsque l'introduction relève de la dérogation. Lorsqu'elle n'en relève pas, des sanctions pénales nationales restent possibles si elles sont proportionnées. L'arrêt est daté du 11 juin 2026 ; le texte ne mentionne pas d'entrée en vigueur."
+   ],
+   "scope": "Judgment in Case C-601/24: Regulation (EC) No 338/97, Articles 2(j), 2(t), 4(2), 7(3) and 16; Regulation (EC) No 865/2006, Article 57",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Judgment of the Court (Ninth Chamber) of 11 June 2026.#Prokurator Prokuratury Rejonowej w Jarosławiu v V.B.#Request for a preliminary ruling",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0601"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0601"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1216",
+   "d": "2026-06-09",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Euro 7: durability multiplier of 1.2 set for gaseous pollutants of heavy-duty vehicles M3, N2 and N3",
+   "a": "Delegated Regulation 2026/1216 replaces Table 2 of Annex IV to the Euro 7 Regulation (EU) 2024/1257 and sets a durability multiplier of 1.2 for gaseous pollutants for heavy-duty vehicles of categories M3, N2 and N3. This aligns them with categories M1, N1 and M2.",
+   "b": "The amendment concerns manufacturers of heavy-duty vehicles and engines of categories M3, N2 and N3, and the type-approval authorities that test them under Euro 7. The Euro 7 limits must also be met during an additional lifetime of 25 % beyond the main lifetime, and durability multipliers adjust the limits for that period. The Regulation replaces Table 2 of Annex IV with a multiplier of 1.2 for gaseous pollutants in each of three groups: M1, N1 and M2; N2 and N3 up to 16 t and M3 up to 7.5 t; and N3 above 16 t and M3 above 7.5 t. The Commission bases the value on its durability assessment, which found a typical multiplier of 1.2 for Euro VI step D and E diesel engines, the technology closest to Euro 7 engines. The stated aim is legal clarity for manufacturers before Euro 7 applies to these heavy-duty categories. The Regulation was adopted on 9 June 2026 and published on 13 August 2026. It enters into force on the twentieth day after publication.",
+   "nl": [
+    "Euro 7: duurzaamheidsmultiplicator van 1,2 voor verontreinigende gassen van zware bedrijfsvoertuigen M3, N2 en N3",
+    "Gedelegeerde Verordening 2026/1216 vervangt tabel 2 van bijlage IV bij de Euro 7-verordening (EU) 2024/1257 en stelt een duurzaamheidsmultiplicator van 1,2 vast voor verontreinigende gassen van zware bedrijfsvoertuigen van de categorieën M3, N2 en N3. Daarmee worden zij gelijkgesteld met de categorieën M1, N1 en M2.",
+    "De wijziging betreft fabrikanten van zware bedrijfsvoertuigen en motoren van de categorieën M3, N2 en N3, en de typegoedkeuringsautoriteiten die deze onder Euro 7 testen. De Euro 7-grenswaarden moeten ook worden nageleefd tijdens een aanvullende levensduur van 25 % boven de hoofdlevensduur, en duurzaamheidsmultiplicatoren passen de grenswaarden voor die periode aan. De verordening vervangt tabel 2 van bijlage IV door een multiplicator van 1,2 voor verontreinigende gassen in elk van drie groepen: M1, N1 en M2; N2 en N3 tot 16 t en M3 tot 7,5 t; en N3 boven 16 t en M3 boven 7,5 t. De Commissie baseert de waarde op haar beoordeling van de duurzaamheid, die een typische multiplicator van 1,2 aantoonde voor dieselmotoren van Euro VI-stappen D en E, de technologie die het dichtst bij Euro 7-motoren aanleunt. Het aangegeven doel is rechtszekerheid voor fabrikanten voordat Euro 7 van toepassing wordt op deze zware categorieën. De verordening is aangenomen op 9 juni 2026 en gepubliceerd op 13 augustus 2026. Zij treedt in werking op de twintigste dag na de bekendmaking."
+   ],
+   "fr": [
+    "Euro 7 : multiplicateur de durabilité de 1,2 pour les polluants gazeux des véhicules utilitaires lourds M3, N2 et N3",
+    "Le règlement délégué 2026/1216 remplace le tableau 2 de l'annexe IV du règlement Euro 7 (UE) 2024/1257 et fixe un multiplicateur de durabilité de 1,2 pour les polluants gazeux des véhicules utilitaires lourds des catégories M3, N2 et N3. Ces catégories sont ainsi alignées sur les catégories M1, N1 et M2.",
+    "La modification concerne les constructeurs de véhicules utilitaires lourds et de moteurs des catégories M3, N2 et N3, ainsi que les autorités de réception qui les testent au titre d'Euro 7. Les limites Euro 7 doivent aussi être respectées pendant une durée de vie supplémentaire de 25 % au-delà de la durée de vie principale, et les multiplicateurs de durabilité ajustent les limites pour cette période. Le règlement remplace le tableau 2 de l'annexe IV par un multiplicateur de 1,2 pour les polluants gazeux dans chacun des trois groupes : M1, N1 et M2 ; N2 et N3 jusqu'à 16 t et M3 jusqu'à 7,5 t ; N3 de plus de 16 t et M3 de plus de 7,5 t. La Commission fonde cette valeur sur son évaluation de la durabilité, qui a révélé un multiplicateur typique de 1,2 pour les moteurs diesel Euro VI étapes D et E, technologie la plus proche des moteurs Euro 7. L'objectif indiqué est la sécurité juridique pour les constructeurs avant l'application d'Euro 7 à ces catégories lourdes. Le règlement a été adopté le 9 juin 2026 et publié le 13 août 2026. Il entre en vigueur le vingtième jour suivant sa publication."
+   ],
+   "scope": "Delegated Regulation (EU) 2026/1216 amending Regulation (EU) 2024/1257 (Euro 7), Annex IV, Table 2 (durability multipliers)",
+   "dates": {
+    "adopted": "2026-06-09",
+    "published": "2026-08-13",
+    "in_force": "2026-09-02"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/1216 of 9 June 2026 amending Regulation (EU) 2024/1257 of the European Parliament and of the Counc",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1216"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1216"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1214",
+   "d": "2026-06-09",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Euro 7: brake particle emission tests for M1 and N1 vehicles now follow UN Regulation No 179 instead of GTR No 24",
+   "a": "Delegated Regulation (EU) 2026/1214 replaces Table 4 of Annex III to the Euro 7 Regulation (EU) 2024/1257. Brake particle emission limits for M1 and N1 vehicles are now tested under UN Regulation No 179 rather than UN GTR No 24.",
+   "b": "The change concerns manufacturers and type-approval authorities dealing with brake particle emission limits under Euro 7, for light-duty vehicles of categories M1 and N1 and Euro 7ext vehicles. UN Regulation No 179 reflects newer technology: a more harmonised test environment, high-precision measurement of PM10, PM2.5 and particle numbers, testing of brakes with passive or active emission-reduction filters, and calculation of brake emissions for the whole vehicle. The Commission therefore replaces Table 4 in Annex III to Regulation (EU) 2024/1257, so that the brake particle emissions test refers to UN Regulation No 179 instead of UN Global Technical Regulation No 24. The reference to UN Regulation No 179 is entered under the M1 and N1 column; the entry for categories M2, M3, N2 and N3 stays blank. The Regulation was adopted on 9 June 2026 and published in the Official Journal on 3 September 2026. It enters into force on the twentieth day after publication, i.e. 23 September 2026. No transitional rules are laid down.",
+   "nl": [
+    "Euro 7: remdeeltjestest voor M1 en N1 volgt voortaan VN-Reglement nr. 179 in plaats van GTR nr. 24",
+    "Gedelegeerde Verordening (EU) 2026/1214 vervangt tabel 4 van bijlage III bij de Euro 7-verordening (EU) 2024/1257. De grenswaarden voor remdeeltjes van M1- en N1-voertuigen worden voortaan getest volgens VN-Reglement nr. 179 in plaats van VN-GTR nr. 24.",
+    "De wijziging betreft fabrikanten en typegoedkeuringsinstanties die te maken hebben met de grenswaarden voor de emissie van remdeeltjes onder Euro 7, voor lichte voertuigen van categorie M1 en N1 en Euro 7ext-voertuigen. VN-Reglement nr. 179 weerspiegelt recentere technologie: een meer geharmoniseerde testomgeving, uiterst nauwkeurige meting van PM10, PM2,5 en deeltjesaantallen, het testen van remmen met passieve of actieve emissiereductiefilters en de berekening van rememissies voor het volledige voertuig. De Commissie vervangt daarom tabel 4 in bijlage III bij Verordening (EU) 2024/1257, zodat de test van de remdeeltjesemissies verwijst naar VN-Reglement nr. 179 in plaats van naar VN-Globaal Technisch Reglement nr. 24. De verwijzing naar VN-Reglement nr. 179 staat in de kolom voor M1 en N1; voor de categorieën M2, M3, N2 en N3 blijft de vermelding leeg. De verordening is goedgekeurd op 9 juni 2026 en op 3 september 2026 bekendgemaakt in het Publicatieblad. Ze treedt in werking op de twintigste dag na bekendmaking, dus op 23 september 2026. Er zijn geen overgangsregels vastgelegd."
+   ],
+   "fr": [
+    "Euro 7 : l'essai des particules de frein pour les M1 et N1 suit désormais le règlement ONU nº 179 et non plus le RTM nº 24",
+    "Le règlement délégué (UE) 2026/1214 remplace le tableau 4 de l'annexe III du règlement Euro 7 (UE) 2024/1257. Les limites d'émission de particules de frein des véhicules M1 et N1 sont désormais vérifiées selon le règlement ONU nº 179 et non plus selon le RTM ONU nº 24.",
+    "La modification concerne les constructeurs et les autorités de réception par type confrontés aux limites d'émission de particules de frein prévues par Euro 7, pour les véhicules légers des catégories M1 et N1 et les véhicules Euro 7ext. Le règlement ONU nº 179 reflète des technologies plus récentes : un environnement d'essai davantage harmonisé, une mesure de haute précision des PM10, des PM2,5 et du nombre de particules, l'essai de freins équipés de filtres passifs ou actifs de réduction des émissions et le calcul des émissions de freinage pour l'ensemble du véhicule. La Commission remplace donc le tableau 4 de l'annexe III du règlement (UE) 2024/1257, de sorte que l'essai des émissions de particules de frein renvoie au règlement ONU nº 179 et non plus au règlement technique mondial ONU nº 24. Le renvoi au règlement ONU nº 179 figure dans la colonne M1 et N1 ; la mention pour les catégories M2, M3, N2 et N3 reste vide. Le règlement a été adopté le 9 juin 2026 et publié au Journal officiel le 3 septembre 2026. Il entre en vigueur le vingtième jour suivant sa publication, soit le 23 septembre 2026. Aucune règle transitoire n'est prévue."
+   ],
+   "scope": "Règlement délégué (UE) 2026/1214 de la Commission : remplacement du tableau 4 de l'annexe III du règlement (UE) 2024/1257 (Euro 7), conditions d'essai des limites d'émission de particules de frein (Commission Delegated Regulation (EU) 2026/1214, Table 4 of Annex III to Regulation (EU) 2024/1257)",
+   "dates": {
+    "adopted": "2026-06-09",
+    "published": "2026-09-03",
+    "in_force": "2026-09-23"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/1214 of 9 June 2026 amending Regulation (EU) 2024/1257 of the European Parliament and of the Counc",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1214"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1214"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

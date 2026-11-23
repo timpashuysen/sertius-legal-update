@@ -27388,7 +27388,9 @@
 ],
 "reason": "Flemish ministerial decree implementing housing code article; likely energy or housing quality rules, title vague.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only designates which Flemish agency pays advances on housing grants; no environmental obligation for companies, developers or authorities changes."
 },
 "eu:52026PC0282": {
 "v": 4,
@@ -27790,7 +27792,8 @@
 ],
 "reason": "Interprets CITES-based wildlife trade rules (Regulation 338/97) on specimens and import permits.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0601-sum"
 },
 "eu:62024CJ0601": {
 "v": 4,
@@ -27801,7 +27804,8 @@
 ],
 "reason": "Interprets CITES-based wildlife trade rules (Regulation 338/97) on specimens and import permits.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0601"
 },
 "eu:62024CJ0386_RES": {
 "v": 4,
@@ -28239,7 +28243,8 @@
 ],
 "reason": "Sets durability multipliers for heavy-duty vehicle gaseous pollutant emission standards.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r1216"
 },
 "eu:32026R1214": {
 "v": 4,
@@ -28250,7 +28255,8 @@
 ],
 "reason": "Sets testing conditions for brake particle emission limits under the Euro emission rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r1214"
 },
 "eu:32026R1209": {
 "v": 4,
@@ -28533,7 +28539,9 @@
 ],
 "reason": "Updates national allocation tables in the EU ETS Union Registry for Germany, Slovenia, Finland.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only changes free allocation tables for installations in Germany, Slovenia and Finland for 2013-2020; no Belgian installations or obligations affected."
 },
 "codex:1042338": {
 "v": 4,
@@ -28689,7 +28697,8 @@
 ],
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6549)"
 },
 "codex:1042165": {
 "v": 4,
@@ -28772,7 +28781,9 @@
 ],
 "reason": "Digitalising enforcement of various Flemish regulations; enforcement procedure may cover environmental rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Extends digital enforcement filing to agriculture/fisheries and traffic-police provisions; no environmental obligations are created or clarified in the text."
 },
 "codex:1042078": {
 "v": 4,
@@ -60247,7 +60258,8 @@
 ],
 "reason": "Annuls a permit: the milieutechnische eenheid test (not cumulative) determines permit class and aggregated groundwater extraction debits under rubriek 53; authorities need a thorough investigation and",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0880"
 },
 "rvvb:RVVB.2526.0879": {
 "v": 4,
@@ -60282,7 +60294,8 @@
 ],
 "reason": "Applies Habitats Directive art. 6(4): compensation may lie inside the SBZ, superseding older Council of State case law; also addresses the art. 26bis §3 refusal sequence.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0877"
 },
 "rvvb:RVVB.2526.0875": {
 "v": 4,
@@ -60295,7 +60308,8 @@
 ],
 "reason": "Annuls permit as college lacked competence; screening-obligatory projects of municipal initiators must go to deputation under Art. 9bis Project-MER directive, municipal official insufficient.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0875"
 },
 "rvvb:RVVB.2526.0874": {
 "v": 4,
@@ -60339,7 +60353,8 @@
 ],
 "reason": "A third party who did not appeal the provincial official's inadmissibility decision on their administrative appeal has waived the right to go to the Raad; that decision is final for them, so they cann",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0871"
 },
 "rvvb:RVVB.2526.0869": {
 "v": 4,
@@ -60362,7 +60377,8 @@
 ],
 "reason": "Applies Art. 9bis Project-MER directive: municipality as initiator and permit applicant with screening duty creates conflict of interest; Raad treats national transposition (art. 15/1) as incomplete, ",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0868"
 },
 "rvvb:RVVB.2526.0865": {
 "v": 4,
@@ -60375,7 +60391,8 @@
 ],
 "reason": "Neighbour status alone does not establish standing once the applicant substantively contests the interest; neighbours must substantiate the claimed nuisance in omgevingsvergunning appeals.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0865"
 },
 "rvvb:RVVB.2526.0864": {
 "v": 4,
@@ -67075,15 +67092,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
-"failed": 0,
-"waiting": 626,
+"this_run": 10,
+"found_not_relevant_on_reading": 3,
+"failed": 1,
+"waiting": 613,
 "api": {
 "calls": 14,
-"input_tokens": 196942,
-"output_tokens": 48455,
-"usd": 0.8784
+"input_tokens": 156402,
+"output_tokens": 41862,
+"usd": 0.7314
 },
 "updated": "2026-11-23"
 },
