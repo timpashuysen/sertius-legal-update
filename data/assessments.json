@@ -20135,7 +20135,8 @@
 ],
 "reason": "Flemish exemption from permit requirement for reclaimed water use in irrigation.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042240"
 },
 "codex:1042239": {
 "v": 2,
@@ -20146,7 +20147,8 @@
 ],
 "reason": "Flemish exemption from permit requirement for reclaimed water in agricultural irrigation.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042239"
 },
 "eu:32026R1871": {
 "v": 2,
@@ -20348,7 +20350,8 @@
 ],
 "reason": "Corrects annexes of an import emissions-related implementing regulation (carbon/greenhouse gas); title vague.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1740"
 },
 "eu:32026R1712": {
 "v": 2,
@@ -20377,7 +20380,8 @@
 ],
 "reason": "Harmonised standards for gas water heaters supporting ecodesign Regulation 814/2013.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1717"
 },
 "eu:32026D1425R(01)": {
 "v": 2,
@@ -20388,7 +20392,8 @@
 ],
 "reason": "Corrigendum to rules on recycled plastic content under Single-Use Plastics Directive.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1425r-01"
 },
 "eu:32026D04853": {
 "v": 2,
@@ -20462,7 +20467,8 @@
 ],
 "reason": "Temporary fishing ban in rivers due to heat and low water; water and nature measure.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-139654"
 },
 "codex:1042263": {
 "v": 2,
@@ -20502,7 +20508,8 @@
 ],
 "reason": "Revised ETS benchmark values for heat and fuel allocation 2026-2030.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-52026pc0619"
 },
 "eu:52026PC0616": {
 "v": 2,
@@ -20524,7 +20531,8 @@
 ],
 "reason": "Electricity market and system cost rules with electrification and efficiency aims; borderline.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-52026pc0600"
 },
 "eu:32026R1779": {
 "v": 2,
@@ -20589,7 +20597,9 @@
 ],
 "reason": "Corrigendum on Aarhus Committee follow-up, access to information and procedure.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Corrigendum on State aid procedure wording (aid vs aid scheme); no change to environmental obligations for companies, developers or authorities."
 },
 "codex:1042382": {
 "v": 2,
@@ -20681,7 +20691,8 @@
 ],
 "reason": "Amends a land consolidation plan, a binding spatial planning instrument with general effect.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042304"
 },
 "codex:1042303": {
 "v": 2,
@@ -20692,7 +20703,8 @@
 ],
 "reason": "Amends a land consolidation plan, a binding spatial planning instrument with general effect.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042303"
 },
 "codex:1042302": {
 "v": 2,
@@ -20739,7 +20751,9 @@
 ],
 "reason": "Harmonises enforcement decrees with new Criminal Code; may touch environmental enforcement.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Aligns penalty and cross-references in election, local government, cemetery and justice decrees with the new Criminal Code; no environmental obligations affected."
 },
 "codex:1042277": {
 "v": 2,
@@ -20768,7 +20782,8 @@
 ],
 "reason": "Changes ammonia-reduction monitoring rules for air purification systems and general environmental hygiene provisions.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042265"
 },
 "codex:1042261": {
 "v": 2,
@@ -20887,7 +20902,8 @@
 ],
 "reason": "Regulates WEEE management and extended producer responsibility for electrical and electronic equipment.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141182"
 },
 "wallex:140995": {
 "v": 2,
@@ -62475,36 +62491,261 @@
 "reason": "Royal decree appointing members of the tax mediation service.",
 "confidence": "high",
 "at": "2026-11-23"
+},
+"rvs:265964": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual wind-farm unique permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265963": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for two houses on one plot.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265961": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one house on one plot.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265960": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one unique permit for one company's gas site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265959": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual environmental permit renewal for Liège Airport; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265957": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit modification for one property.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265956": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one building in Liège.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265955": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual unique permit for a six-turbine wind park.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265954": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban development permit for one plot in Waimes.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265953": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award dispute for wooden benches; not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265952": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement decisions on ICT hardware and software.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265951": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual environmental permit regularising one reception hall.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265950": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning regularisation of one building in Charleroi.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265948": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police disciplinary sanction against one officer.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265947": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil service non-activity decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265946": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual authorisation to hold a board mandate; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265945": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual early pension decision for one civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265944": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual medical pension decision for one person.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265943": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual refusal of a financial incentive for self-employment.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265942": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for photovoltaic panels; individual tender dispute.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265940": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one mixed real-estate project.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265939": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one quarry and its dependencies.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265938": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one industrial conversion in Liège.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265937": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one wind turbine.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265936": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual unique permit for one wind turbine.",
+"confidence": "medium",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6810,
-"assessed": 6810,
+"in_scope": 6835,
+"assessed": 6835,
 "waiting": 0,
 "relevant": 861,
-"not_relevant": 5630,
+"not_relevant": 5655,
 "excluded_by_rule": 319,
-"this_run": 42,
+"this_run": 25,
 "api": {
-"calls": 2,
-"input_tokens": 9858,
-"output_tokens": 4406,
-"usd": 0.0032
+"calls": 1,
+"input_tokens": 5369,
+"output_tokens": 2117,
+"usd": 0.0016
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 607,
+"waiting": 593,
 "api": {
 "calls": 14,
-"input_tokens": 191927,
-"output_tokens": 42299,
-"usd": 0.8068
+"input_tokens": 123106,
+"output_tokens": 34884,
+"usd": 0.5951
 },
 "updated": "2026-11-23"
 }
