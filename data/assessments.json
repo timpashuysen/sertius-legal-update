@@ -39856,7 +39856,8 @@
 ],
 "reason": "Approves inter-regional agreement on extended producer responsibility for waste streams and litter.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041881"
 },
 "cass:C.25.0245.F": {
 "v": 4,
@@ -39876,7 +39877,8 @@
 ],
 "reason": "Sets 2025 reference values for potentially leachable nitrogen, a nitrogen permitting input.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-137540"
 },
 "wallex:133556": {
 "v": 4,
@@ -39888,7 +39890,8 @@
 ],
 "reason": "Walloon omnibus decree amending environment, climate and spatial planning rules",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-133556"
 },
 "wallex:133316": {
 "v": 4,
@@ -39897,7 +39900,9 @@
 "topics": [],
 "reason": "Omnibus decree for Article 138 matters; content unclear, may touch environment",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Programme decree on social action, employment and training, local government; no environmental obligations for companies, developers or authorities."
 },
 "rvvb:RVVB.S.2526.0626": {
 "v": 4,
@@ -39920,7 +39925,8 @@
 ],
 "reason": "Annuls a permit refusal; holds that advisory reliance needs reasoned advice, and that a zoning buffer zone lies within the industrial area with width set in the permit, not by circular.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0625"
 },
 "rvvb:RVVB.A.2526.0624": {
 "v": 4,
@@ -39932,7 +39938,8 @@
 ],
 "reason": "Under art. 74 §1 Omgevingsvergunningsbesluit, an appeal petition must itself state the interest or consequences on pain of inadmissibility; a later supplementary note cannot cure this.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0624"
 },
 "rvvb:RVVB.A.2526.0623": {
 "v": 4,
@@ -39945,7 +39952,8 @@
 ],
 "reason": "Restates the watertoets scope: the permit decision must formally show the water test, and the 2017 flood maps no longer apply since the 2023 update.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0623"
 },
 "rvvb:RVVB.A.2526.0621": {
 "v": 4,
@@ -39957,7 +39965,8 @@
 ],
 "reason": "Zonevreemde basisrechten under art. 4.4.20 VCRO require the art. 4.4.10 conditions (hoofdzakelijk vergund, niet verkrot); a later permit cannot cure a missing functiewijziging permit.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0621"
 },
 "rvvb:RVVB.A.2526.0620": {
 "v": 4,
@@ -39969,7 +39978,8 @@
 ],
 "reason": "After annulment of a municipal road decision, the council may reconsider on its own initiative; a negative new decision requires refusal of the permit under art. 66 §6 OMV-decreet.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0620"
 },
 "rvvb:RVVB.A.2526.0619": {
 "v": 4,
@@ -39981,7 +39991,9 @@
 ],
 "reason": "Annuls a permit for not properly assessing good spatial planning (scale, placement, water runoff); restates that appeal bodies must concretely answer relevant objections and motivate departures from a",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annuls one housing permit for inadequate reasoning under settled case law; no rule is interpreted and no new point of law is decided."
 },
 "rvvb:RVVB.A.2526.0617": {
 "v": 4,
@@ -39993,7 +40005,8 @@
 ],
 "reason": "Third-party appeal period under the OVD starts only on regular affichage; irregular posting equals none. Burden of proof and the authority's duty to examine and state reasons on posting regularity.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"write_error": "Expecting value: line 10 column 1 (char 4004)"
 },
 "rvvb:RVVB.A.2526.0616": {
 "v": 4,
@@ -40017,7 +40030,8 @@
 ],
 "reason": "A road-alignment plan approved by Royal decree has no legal effect without a deputation decision under Buurtwegenwet arts 27-28; permits must use legally established road width.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0615"
 },
 "rvvb:RVVB.A.2526.0614": {
 "v": 4,
@@ -40029,7 +40043,8 @@
 ],
 "reason": "Subdivision permit may refine BPA building-type rules via conditions under art. 4.3.1 §1 VCRO; deviation from zoning requires specific justification under art. 4.4.1 VCRO.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0614"
 },
 "rvvb:RVVB.A.2526.0613": {
 "v": 4,
@@ -40042,7 +40057,9 @@
 ],
 "reason": "Annuls permit for building project: deciding authority must examine alternative siting to preserve trees and answer provincial officer's critique; decision not evidently justified; stronger motivation",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annuls one permit for insufficient reasoning on trees and parking; applies settled motivation duty without deciding a wider point of law."
 },
 "rvvb:RVVB.A.2526.0612": {
 "v": 4,
@@ -67294,15 +67311,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 8,
-"found_not_relevant_on_reading": 6,
-"failed": 0,
-"waiting": 436,
+"this_run": 10,
+"found_not_relevant_on_reading": 3,
+"failed": 1,
+"waiting": 423,
 "api": {
 "calls": 14,
-"input_tokens": 79236,
-"output_tokens": 24706,
-"usd": 0.4055
+"input_tokens": 220460,
+"output_tokens": 37622,
+"usd": 0.8171
 },
 "updated": "2026-11-23"
 },

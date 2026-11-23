@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:53:58Z",
+ "updated": "2026-11-23T17:02:37Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -26668,6 +26668,415 @@
    ],
    "inbox": [
     "codex:1041886"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041881",
+   "d": "2026-03-27",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Flanders assents to the 3-Region agreement on extended producer responsibility and litter",
+   "a": "A Flemish decree gives assent to the cooperation agreement of 9 February 2026 between the Flemish, Walloon and Brussels-Capital Regions. The agreement sets the framework for extended producer responsibility for certain waste streams and for litter.",
+   "b": "The decree concerns producers and other operators in waste streams subject to extended producer responsibility, as well as the authorities of the three Regions. It deals with a regional matter and consists of the assent to the cooperation agreement of 9 February 2026 on the framework for extended producer responsibility for certain waste streams and for litter. The decree itself does not set out the agreement's detailed obligations. It was adopted on 27 March 2026, published in the Belgian Official Gazette on 3 April 2026 and takes effect on 13 April 2026. Six annulment actions against the decree (case numbers 8669, 8725, 8764, 8767, 8769 and 8770) are pending before the Constitutional Court.",
+   "nl": [
+    "Vlaanderen stemt in met het samenwerkingsakkoord tussen de drie Gewesten over uitgebreide producentenverantwoordelijkheid en zwerfvuil",
+    "Een Vlaams decreet verleent instemming met het samenwerkingsakkoord van 9 februari 2026 tussen het Vlaamse, het Waalse en het Brussels Hoofdstedelijk Gewest. Het akkoord legt het kader vast voor de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil.",
+    "Het decreet treft producenten en andere marktdeelnemers in afvalstromen waarvoor uitgebreide producentenverantwoordelijkheid geldt, en de overheden van de drie Gewesten. Het regelt een gewestaangelegenheid en bestaat uit de instemming met het samenwerkingsakkoord van 9 februari 2026 over het kader voor de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil. De gedetailleerde verplichtingen van het akkoord staan niet in het decreet zelf. Het decreet is aangenomen op 27 maart 2026, bekendgemaakt in het Belgisch Staatsblad op 3 april 2026 en treedt in werking op 13 april 2026. Bij het Grondwettelijk Hof zijn nog zes vernietigingsberoepen tegen het decreet hangende (rolnummers 8669, 8725, 8764, 8767, 8769 en 8770)."
+   ],
+   "fr": [
+    "La Flandre approuve l'accord de coopération entre les trois Régions sur la responsabilité élargie des producteurs et les déchets sauvages",
+    "Un décret flamand porte assentiment à l'accord de coopération du 9 février 2026 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale. L'accord fixe le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages.",
+    "Le décret concerne les producteurs et autres opérateurs actifs dans les flux de déchets soumis à la responsabilité élargie des producteurs, ainsi que les autorités des trois Régions. Il règle une matière régionale et consiste en l'assentiment à l'accord de coopération du 9 février 2026 relatif au cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages. Les obligations détaillées de l'accord ne figurent pas dans le décret lui-même. Le décret a été adopté le 27 mars 2026, publié au Moniteur belge le 3 avril 2026 et entre en vigueur le 13 avril 2026. Six recours en annulation contre le décret (numéros de rôle 8669, 8725, 8764, 8767, 8769 et 8770) sont encore pendants devant la Cour constitutionnelle."
+   ],
+   "scope": "Decreet van 27 maart 2026 houdende instemming met het samenwerkingsakkoord van 9 februari 2026 inzake de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en zwerfvuil",
+   "dates": {
+    "adopted": "2026-03-27",
+    "published": "2026-04-03",
+    "in_force": "2026-04-13"
+   },
+   "u": [
+    [
+     "Decreet tot instemming met het samenwerkingsakkoord van 9 februari 2026 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdst",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041881&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041881"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-137540",
+   "d": "2026-03-26",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Wallonia sets the 2025 reference values for potentially leachable nitrogen measurements",
+   "a": "A ministerial order of 26 March 2026 sets the 2025 reference values for potentially leachable nitrogen (kg N-NO3/ha) under Article R.232 of the Walloon Water Code. The values cover the 8 classes of the 2013 ministerial order and are based on sampling on 21 October and 3 December 2025.",
+   "b": "The order concerns the measurement of potentially leachable nitrogen and the agricultural land survey under the regulatory part of the Walloon Water Code. It applies to the 8 classes listed in Annex I of the ministerial order of 13 February 2013. The single article annexes the reference values for 2025, set under Article R.232 and expressed in kg N-NO3/ha. They are given for the sampling dates of 21 October 2025 and 3 December 2025 and for the 0-30, 0-60 and 0-90 cm layers; class 8 is given for 0-30 cm only. Each class has a value A, a value D (15.00 for classes 1 to 7, except 15.44 for class 5 on 3 December at 0-90 cm, and 23.80 for class 8) and their sum A+D. For example, A+D for class 5 at 0-90 cm is 93.48 on 21 October and 110.92 on 3 December, while class 8 is 48.80 and 36.80. The order is dated 26 March 2026 and was published in the Moniteur belge of 30 June 2026. It is recorded as applicable from 1 January 2025 to 31 December 2025.",
+   "nl": [
+    "Wallonië stelt de referentiewaarden voor potentieel uitspoelbare stikstof voor 2025 vast",
+    "Een ministerieel besluit van 26 maart 2026 stelt de referentiewaarden voor potentieel uitspoelbare stikstof (kg N-NO3/ha) voor 2025 vast op grond van artikel R.232 van het Waals Waterwetboek. De waarden gelden voor de 8 klassen van het ministerieel besluit van 2013 en zijn gebaseerd op bemonsteringen van 21 oktober en 3 december 2025.",
+    "Het besluit heeft betrekking op de meting van potentieel uitspoelbare stikstof en de survey landbouwoppervlakten in het reglementaire deel van het Waals Waterwetboek. Het geldt voor de 8 klassen van bijlage I bij het ministerieel besluit van 13 februari 2013. Het enige artikel voegt de referentiewaarden voor 2025 als bijlage toe, vastgesteld op grond van artikel R.232 en uitgedrukt in kg N-NO3/ha. Ze worden gegeven voor de bemonsteringsdata van 21 oktober 2025 en 3 december 2025 en voor de lagen 0-30, 0-60 en 0-90 cm; klasse 8 enkel voor 0-30 cm. Elke klasse heeft een waarde A, een waarde D (15,00 voor klassen 1 tot 7, behalve 15,44 voor klasse 5 op 3 december bij 0-90 cm, en 23,80 voor klasse 8) en de som A+D. Zo bedraagt A+D voor klasse 5 bij 0-90 cm 93,48 op 21 oktober en 110,92 op 3 december, terwijl klasse 8 uitkomt op 48,80 en 36,80. Het besluit is gedateerd op 26 maart 2026 en werd op 30 juni 2026 in het Belgisch Staatsblad gepubliceerd. Het is geregistreerd als van toepassing van 1 januari 2025 tot 31 december 2025."
+   ],
+   "fr": [
+    "La Wallonie fixe les valeurs de référence de l'azote potentiellement lessivable pour 2025",
+    "Un arrêté ministériel du 26 mars 2026 établit, en application de l'article R.232 du Code de l'Eau wallon, les valeurs de référence de l'azote potentiellement lessivable (kg N-NO3/ha) pour 2025. Elles couvrent les 8 classes de l'arrêté ministériel de 2013 et reposent sur des prélèvements du 21 octobre et du 3 décembre 2025.",
+    "L'arrêté concerne la mesure de l'azote potentiellement lessivable et le « survey surfaces agricoles » prévus par la partie réglementaire du Code de l'Eau wallon. Il vise les 8 classes de l'annexe Ire de l'arrêté ministériel du 13 février 2013. Son article unique annexe les valeurs de référence pour 2025, établies en application de l'article R.232 et exprimées en kg N-NO3/ha. Elles sont données pour les dates de prélèvement du 21 octobre 2025 et du 3 décembre 2025 et pour les couches 0-30, 0-60 et 0-90 cm ; la classe 8 l'est pour 0-30 cm uniquement. Chaque classe comporte une valeur A, une valeur D (15,00 pour les classes 1 à 7, sauf 15,44 pour la classe 5 au 3 décembre à 0-90 cm, et 23,80 pour la classe 8) et leur somme A+D. Par exemple, A+D pour la classe 5 à 0-90 cm est de 93,48 au 21 octobre et de 110,92 au 3 décembre, tandis que la classe 8 est à 48,80 et 36,80. L'arrêté date du 26 mars 2026 et a été publié au Moniteur belge du 30 juin 2026. Il est indiqué comme applicable du 1er janvier 2025 au 31 décembre 2025."
+   ],
+   "scope": "Arrêté ministériel du 26 mars 2026 établissant les valeurs de référence des mesures d'azote potentiellement lessivable pour l'année 2025 (art. unique et annexe ; art. R.232 du Code de l'Eau)",
+   "dates": {
+    "adopted": "2026-03-26",
+    "published": "2026-06-30",
+    "in_force": "2025-01-01"
+   },
+   "u": [
+    [
+     "Arrêté ministériel établissant les valeurs de référence des mesures d'azote potentiellement lessivable pour l'année 2025",
+     "https://wallex.wallonie.be/eli/arrete/2026/03/26/2026004854/2025/01/01"
+    ]
+   ],
+   "inbox": [
+    "wallex:137540"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-133556",
+   "d": "2026-03-26",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law",
+    "energy-climate"
+   ],
+   "h": "Walloon programme decree amends hunting, rural development, spatial planning and environmental legislation",
+   "a": "The Walloon programme decree of 26 March 2026 amends many regional laws, including the hunting law, the rural development decree, the Territorial Development Code, the Environmental Permit Decree and the Carbon Neutrality decree. It has applied since 1 April 2026, with later dates for some chapters.",
+   "b": "The decree mainly concerns the Walloon authorities, municipalities and operators in hunting, rural development, spatial planning, environmental permitting, climate and subsoil resources, alongside non-environmental chapters on budget, employment, tourism and agriculture. In the hunting law, hunting seasons open and close on dates set by the Government and cannot start earlier than 10 days after the order fixing them is published in the Moniteur belge. The law also gains a definition of a management plan for grey partridge conservation, and the references to the shooting plan now cover management plans too. The rural development decree is revised: it is aligned with the Walloon sustainable development strategy, the local Agenda 21 is dropped, and public participation is limited to information and consultation. The local rural development commission is set at 20 to 60 members, the municipal programme must include a non-technical summary, and its approval procedure is reworked. Further chapters amend the Territorial Development Code, the Environmental Permit Decree, Book I of the Environment Code, the Carbon Neutrality decree, the Code on subsoil resources, the Agriculture Code and the 1973 noise law. The decree enters into force on 1 April 2026, except the rural development chapter (1 September 2026), the long and heavy vehicles chapter (1 January 2028 at the latest, with earlier dates possible by Government decision), article 87 (1 January 2027), articles 90, 91 and 114 (1 January 2029), and articles 254, 256 and 258 (effect from 1 January 2026).",
+   "nl": [
+    "Waals programmadecreet wijzigt wetgeving over jacht, landelijke ontwikkeling, ruimtelijke ordening en milieu",
+    "Het Waalse programmadecreet van 26 maart 2026 wijzigt tal van gewestelijke regelgevingen, waaronder de jachtwet, het decreet over landelijke ontwikkeling, het Wetboek van Territoriale Ontwikkeling, het milieuvergunningsdecreet en het decreet Koolstofneutraliteit. Het is van toepassing sinds 1 april 2026, met latere data voor sommige hoofdstukken.",
+    "Het decreet treft vooral de Waalse overheden, de gemeenten en de actoren in jacht, landelijke ontwikkeling, ruimtelijke ordening, milieuvergunningen, klimaat en ondergrondse grondstoffen, naast niet-milieugerelateerde hoofdstukken over begroting, tewerkstelling, toerisme en landbouw. In de jachtwet openen en sluiten de jachtperiodes op data die de Regering vaststelt, en ze kunnen niet beginnen vóór 10 dagen na de bekendmaking in het Belgisch Staatsblad van het besluit dat die data vastlegt. De wet krijgt ook een definitie van een beheerplan voor het behoud van de grijze patrijs, en de verwijzingen naar het afschotplan omvatten nu ook beheerplannen. Het decreet over landelijke ontwikkeling wordt herzien: het wordt afgestemd op de Waalse strategie voor duurzame ontwikkeling, de lokale Agenda 21 vervalt en de inspraak van de bevolking beperkt zich tot informatie en raadpleging. De plaatselijke commissie voor landelijke ontwikkeling telt 20 tot 60 leden, het gemeentelijk programma moet een niet-technische samenvatting bevatten en de goedkeuringsprocedure wordt herwerkt. Andere hoofdstukken wijzigen het Wetboek van Territoriale Ontwikkeling, het milieuvergunningsdecreet, Boek I van het Milieuwetboek, het decreet Koolstofneutraliteit, het Wetboek van het beheer van de ondergrondse grondstoffen, het Waalse Landbouwwetboek en de geluidshinderwet van 1973. Het decreet treedt in werking op 1 april 2026, behalve het hoofdstuk over landelijke ontwikkeling (1 september 2026), het hoofdstuk over langere en zwaardere voertuigen (uiterlijk 1 januari 2028, met mogelijk vroegere data bij beslissing van de Regering), artikel 87 (1 januari 2027), de artikelen 90, 91 en 114 (1 januari 2029) en de artikelen 254, 256 en 258 (uitwerking vanaf 1 januari 2026)."
+   ],
+   "fr": [
+    "Le décret-programme wallon modifie la législation sur la chasse, le développement rural, l'aménagement du territoire et l'environnement",
+    "Le décret-programme wallon du 26 mars 2026 modifie de nombreuses réglementations régionales, dont la loi sur la chasse, le décret relatif au développement rural, le Code du Développement territorial, le décret relatif au permis d'environnement et le décret Neutralité Carbone. Il s'applique depuis le 1er avril 2026, avec des dates ultérieures pour certains chapitres.",
+    "Le décret concerne surtout les autorités wallonnes, les communes et les acteurs de la chasse, du développement rural, de l'aménagement du territoire, du permis d'environnement, du climat et des ressources du sous-sol, ainsi que des chapitres non environnementaux sur le budget, l'emploi, le tourisme et l'agriculture. Dans la loi sur la chasse, les périodes d'ouverture et de fermeture ont lieu aux dates fixées par le Gouvernement et ne peuvent débuter avant l'expiration d'un délai de 10 jours à compter de la publication au Moniteur belge de l'arrêté qui les fixe. La loi reçoit aussi une définition du plan de gestion pour la conservation de la perdrix grise, et les références au plan de tir visent désormais aussi les plans de gestion. Le décret relatif au développement rural est revu : il est aligné sur la stratégie wallonne de développement durable, l'Agenda 21 local est supprimé et la participation de la population se limite à l'information et à la consultation. La commission locale de développement rural compte de 20 à 60 membres, le programme communal doit comporter un résumé non technique et la procédure d'approbation est remaniée. D'autres chapitres modifient le Code du Développement territorial, le décret relatif au permis d'environnement, le Livre Ier du Code de l'Environnement, le décret Neutralité Carbone, le Code de la gestion des ressources du sous-sol, le Code wallon de l'Agriculture et la loi du 18 juillet 1973 relative à la lutte contre le bruit. Le décret entre en vigueur le 1er avril 2026, sauf le chapitre sur le développement rural (1er septembre 2026), le chapitre sur les trains de véhicules plus longs et plus lourds (au plus tard le 1er janvier 2028, avec possibilité de dates antérieures fixées par le Gouvernement), l'article 87 (1er janvier 2027), les articles 90, 91 et 114 (1er janvier 2029) et les articles 254, 256 et 258 (effet au 1er janvier 2026)."
+   ],
+   "scope": "Décret-programme du 26 mars 2026 (Wallex 133556) : loi sur la chasse (art. 1-3), décret développement rural (ch. 6), décret Neutralité Carbone (ch. 11), CoDT (ch. 19), Livre Ier du Code de l'Environnement (ch. 18), décret permis d'environnement (ch. 26), loi bruit (ch. 28)",
+   "dates": {
+    "adopted": "2026-03-26",
+    "published": "2026-04-21",
+    "in_force": "2026-04-01"
+   },
+   "u": [
+    [
+     "Décret-programme portant des mesures diverses en matière de budget et de comptabilité, de bien-être animal, de pouvoirs locaux, d'aménagemen",
+     "https://wallex.wallonie.be/eli/loi-decret/2026/03/26/2026003040/2026/04/01"
+    ]
+   ],
+   "inbox": [
+    "wallex:133556"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0625",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb annuls refusal of SME business park permit: parking, traffic study and buffer grounds not sustained",
+   "a": "The Council for Permit Disputes annulled a provincial deputation's refusal of an environmental permit for an SME business park. It held that parking is assessed under good spatial planning rather than zoning conformity, and that the deputation cannot adopt advice that ignores the applicant's substantiated rebuttal. It also clarified what the industrial-zone buffer under Article 7.2.0 of the Inrichtingsbesluit is.",
+   "b": "The ruling concerns permitting authorities deciding administrative appeals, and applicants for projects in zones for craft businesses and SMEs under the gewestplan. The Council held that sufficient parking is not part of the zoning provisions, so a shortage cannot make a project incompatible with the zoning. It belongs to the assessment of good spatial planning, particularly where the number of spaces meets the municipal urban-planning regulation, and the deputation also ignored the parking estimate in the mobility study (MOBER). The deputation also cannot simply copy the provincial permit committee's advice when that advice is not carefully reasoned. Here the advice endorsed an objector's criticism of the mobility study without checking it, and without addressing the applicant's substantiated rebuttals on the methodology under the MOBER guidelines. The Council further held that the buffer under Article 7.2.0 of the Inrichtingsbesluit is a strip inside the industrial zone with a mainly aesthetic and urban-planning function. Its width and layout are set in the permit, the Inrichtingsbesluit prescribes no width, and the 1997 circular is only indicative. A finding of 'no buffering' was contradictory where a row of trees was planned, and the refusal reasoning on zoning conformity was also contradictory. The ruling of 26 March 2026 annuls the refusal of 27 March 2025 and orders the deputation to take a new decision on the administrative appeal within three months of the day after notification of the ruling.",
+   "nl": [
+    "RvVb vernietigt weigering omgevingsvergunning KMO-bedrijvenpark: parkeer-, mobiliteits- en buffermotieven onvoldoende",
+    "De Raad voor Vergunningsbetwistingen vernietigde de weigering van een omgevingsvergunning voor een KMO-bedrijvenpark door een deputatie. Parkeren wordt getoetst aan de goede ruimtelijke ordening en niet aan de planologische verenigbaarheid, en de deputatie mag een advies zonder antwoord op de onderbouwde repliek van de aanvrager niet overnemen. Het arrest verduidelijkt ook wat de bufferzone volgens artikel 7.2.0 van het Inrichtingsbesluit inhoudt.",
+    "Het arrest treft vergunningverlenende overheden die bestuurlijke beroepen behandelen en aanvragers van projecten in zones voor ambachtelijke bedrijven en KMO's volgens het gewestplan. De Raad oordeelt dat voldoende parkeergelegenheid geen deel uitmaakt van de planvoorschriften, zodat een tekort geen onverenigbaarheid met de bestemming kan opleveren. Het hoort thuis bij de toets aan de goede ruimtelijke ordening, zeker wanneer het aantal plaatsen voldoet aan de gemeentelijke stedenbouwkundige verordening, en de deputatie liet bovendien de parkeerraming uit de mobiliteitsstudie (MOBER) buiten beschouwing. Een deputatie kan zich ook niet beperken tot het overnemen van het advies van de provinciale omgevingsvergunningscommissie (POVC) wanneer dat advies niet zorgvuldig is gemotiveerd. Hier sloot het advies zich aan bij de kritiek van een beroepsindiener op de mobiliteitsstudie zonder die te onderzoeken en zonder in te gaan op de onderbouwde repliek van de aanvrager over de methodologie volgens het richtlijnenboek MOBER. Verder oordeelt de Raad dat de bufferzone van artikel 7.2.0 van het Inrichtingsbesluit een strook binnen het industriegebied is met een hoofdzakelijk esthetische en stedenbouwkundige functie. De breedte en de aanleg worden in de omgevingsvergunning bepaald, het Inrichtingsbesluit schrijft geen breedte voor en de omzendbrief van 1997 is slechts richtinggevend. De vaststelling dat er 'geen eigenlijke buffering' is, was tegenstrijdig nu een bomenrij was voorzien, en ook de motivering over de planologische verenigbaarheid was tegenstrijdig. Het arrest van 26 maart 2026 vernietigt de weigering van 27 maart 2025 en beveelt de deputatie binnen drie maanden vanaf de dag na de betekening een nieuwe beslissing te nemen over het bestuurlijk beroep."
+   ],
+   "fr": [
+    "Le RvVb annule le refus de permis d'environnement pour un parc d'entreprises PME : motifs de stationnement, mobilité et tampon insuffisants",
+    "Le Conseil pour les contestations des autorisations a annulé le refus par une députation d'un permis d'environnement pour un parc d'entreprises destiné aux PME. Le stationnement relève du bon aménagement du territoire et non de la conformité à l'affectation, et la députation ne peut reprendre un avis qui ne répond pas à la réplique étayée du demandeur. L'arrêt précise aussi ce qu'est la zone tampon de l'article 7.2.0 de l'arrêté royal du 28 décembre 1972.",
+    "L'arrêt concerne les autorités délivrantes qui statuent sur des recours administratifs et les demandeurs de projets situés en zones d'entreprises artisanales et de PME au plan de secteur. Le Conseil juge que des possibilités de stationnement suffisantes ne font pas partie des prescriptions du plan, de sorte qu'un manque ne peut rendre le projet incompatible avec l'affectation. Cette question relève de l'examen du bon aménagement du territoire, surtout lorsque le nombre de places respecte le règlement communal d'urbanisme, et la députation a en outre ignoré l'estimation du besoin de stationnement figurant dans l'étude de mobilité (MOBER). Une députation ne peut pas non plus se borner à reprendre l'avis de la commission provinciale des permis d'environnement (POVC) lorsque cet avis n'est pas motivé avec soin. En l'espèce, l'avis se ralliait à la critique d'un auteur de recours contre l'étude de mobilité sans la vérifier, et sans répondre à la réplique étayée du demandeur sur la méthodologie conforme au guide MOBER. Le Conseil juge en outre que la zone tampon de l'article 7.2.0 de l'arrêté royal du 28 décembre 1972 est une bande située à l'intérieur de la zone industrielle, à fonction principalement esthétique et urbanistique. Sa largeur et son aménagement sont fixés dans le permis, l'arrêté royal ne prescrit aucune largeur et la circulaire de 1997 n'a qu'une valeur indicative. Le constat d'« absence de véritable tampon » était contradictoire alors qu'une rangée d'arbres était prévue, et la motivation sur la conformité à l'affectation était elle aussi contradictoire. L'arrêt du 26 mars 2026 annule le refus du 27 mars 2025 et ordonne à la députation de prendre une nouvelle décision sur le recours administratif dans les trois mois suivant le jour de la notification de l'arrêt."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0625 – artikel 4.3.1 VCRO; artikel 7.2.0 Inrichtingsbesluit (bufferzone); omgevingsvergunning KMO-bedrijvenpark Beveren",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0625. vernietiging van de beslissing van de verwerende partij van 27 maart 2025, waarm",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0625.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0625"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0624",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: neighbouring firm's fear of future complaints suffices as interest in administrative permit appeal",
+   "a": "The Council for Permit Disputes annulled a decision declaring an administrative appeal against an environmental permit inadmissible for lack of a stated interest. It held that a neighbouring business that expects nuisance complaints from future residents has sufficiently set out its interest in the appeal petition.",
+   "b": "The ruling concerns the admissibility of administrative appeals against environmental permits, brought by members of the 'concerned public', and the authorities that decide those appeals. The permit at issue allowed a building with 364 student rooms next to an industrial site. The appellant was a road-construction company on the adjacent land. Its petition described loading of machines and trucks and staff departures, with light, noise and dust nuisance for future residents, and asked for measures to avoid later complaints. The Council held that this showed a probable, personal disadvantage for the company's own operations, not a mere general concern for students, so it was not an actio popularis. It also held that this was not mere sensory nuisance invoked by a legal person. It held that the interest requirement under article 74, §1 of the Omgevingsvergunningsbesluit must not be applied in an overly restrictive or formalistic way, given the access to justice guaranteed by the Aarhus Convention. A statement that the company is not against the project does not change this. Because the petition itself contained all the necessary information, the later supplementary note did not need to be considered. The appeal of the company's director, who had acted only as its representative, was declared inadmissible. The contested decision is annulled, and the authority must take a new decision on the administrative appeal within three months of notification of the ruling, which was delivered on 26 March 2026.",
+   "nl": [
+    "RvVb: vrees van buurbedrijf voor toekomstige klachten volstaat als belang in bestuurlijk beroep tegen vergunning",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing die een bestuurlijk beroep tegen een omgevingsvergunning onontvankelijk verklaarde wegens een ontbrekende belangenuiteenzetting. Een aanpalend bedrijf dat klachten van toekomstige bewoners verwacht, heeft zijn belang volgens de Raad voldoende uiteengezet in het beroepschrift.",
+    "Het arrest gaat over de ontvankelijkheid van bestuurlijke beroepen tegen omgevingsvergunningen door leden van het betrokken publiek, en over de overheden die over die beroepen beslissen. De vergunning betrof een gebouw met 364 studentenkamers naast een bedrijventerrein. De beroepsindiener was een wegenbouwbedrijf op het aanpalende terrein. In het beroepschrift beschreef het onder meer het laden van machines en vrachtwagens en het vertrek van personeel, met licht-, geluids- en stofhinder voor toekomstige bewoners, en vroeg het maatregelen om latere klachten te vermijden. Volgens de Raad blijkt daaruit een waarschijnlijk, persoonlijk nadeel voor de eigen bedrijfsvoering, en dus geen louter algemene bezorgdheid voor studenten of actio popularis. Het gaat evenmin om louter zintuiglijke hinder waarop een rechtspersoon zich niet kan beroepen. De Raad oordeelt dat de belangenvereiste van artikel 74, §1 van het Omgevingsvergunningsbesluit niet overdreven restrictief of formalistisch mag worden toegepast, gelet op de toegang tot de rechter volgens het Verdrag van Aarhus. De opmerking dat het bedrijf niet tegen het project is, verandert daar niets aan. Aangezien het beroepschrift zelf alle nodige gegevens bevatte, hoefde de latere aanvullende nota niet te worden onderzocht. Het beroep van de directeur, die enkel als vertegenwoordiger optrad, is onontvankelijk. De bestreden beslissing wordt vernietigd en de overheid moet binnen drie maanden na de betekening van het arrest, dat op 26 maart 2026 is uitgesproken, een nieuwe beslissing nemen over het bestuurlijk beroep."
+   ],
+   "fr": [
+    "RvVb : la crainte de plaintes futures d'une entreprise voisine suffit comme intérêt dans un recours administratif",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule la décision qui déclarait irrecevable un recours administratif contre un permis d'environnement pour défaut d'exposé de l'intérêt. Selon le Conseil, une entreprise voisine qui s'attend à des plaintes de futurs habitants a suffisamment exposé son intérêt dans sa requête.",
+    "L'arrêt porte sur la recevabilité des recours administratifs contre les permis d'environnement introduits par des membres du public concerné, et concerne les autorités qui statuent sur ces recours. Le permis visait un bâtiment de 364 chambres d'étudiants à côté d'une zone d'activités. Le requérant était une entreprise de construction de routes établie sur le terrain voisin. Dans sa requête, elle décrivait notamment le chargement de machines et de camions et le départ du personnel, avec des nuisances de lumière, de bruit et de poussière pour les futurs habitants, et demandait des mesures pour éviter des plaintes ultérieures. Selon le Conseil, il en ressort un désavantage probable et personnel pour l'exploitation propre de l'entreprise, et non une simple préoccupation générale pour les étudiants ni une actio popularis. Il ne s'agit pas non plus d'une simple nuisance sensorielle dont une personne morale ne pourrait se prévaloir. Le Conseil juge que l'exigence d'intérêt de l'article 74, §1er de l'Omgevingsvergunningsbesluit ne doit pas être appliquée de manière excessivement restrictive ou formaliste, eu égard à l'accès à la justice garanti par la Convention d'Aarhus. La précision que l'entreprise n'est pas opposée au projet n'y change rien. Comme la requête elle-même contenait tous les éléments nécessaires, la note complémentaire ultérieure n'avait pas à être examinée. Le recours du directeur, qui n'agissait qu'en qualité de représentant, est irrecevable. La décision attaquée est annulée et l'autorité doit prendre une nouvelle décision sur le recours administratif dans les trois mois de la notification de l'arrêt, prononcé le 26 mars 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0624 – artikelen 2, 1°, 53, 56 en 57 Omgevingsvergunningsdecreet; artikel 74, §1 Omgevingsvergunningsbesluit; artikelen 6 en 9 Verdrag van Aarhus",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0624. vernietiging van de beslissing van de verwerende partij van 6 februari 2025 , wa",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0624.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0624"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0623",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "RvVb annuls apartment permit over unaddressed deforestation-ban exemption; water test upheld",
+   "a": "The Council for Permit Disputes annulled an environmental permit for a residential building because the decision did not show that no prior exemption from the deforestation ban was needed, or did not motivate this sufficiently. It rejected the challenge to the water test and declined to refuse the permit itself.",
+   "b": "The ruling concerns environmental permits for projects on land that is partly forest and partly zoned as nature area, and the permitting authority's duty to address the deforestation ban. The Council annulled the appeal decision because it does not appear that no prior exemption from the deforestation ban is needed, or at least this is not adequately motivated. It notes that an exemption may still be granted, or the lack of need properly justified, before a new decision is taken, so it did not substitute its own ruling and refuse the permit. On the water test (art. 1.3.1.1 Water Code), the Council confirmed that the decision needs a formal motivation showing the test was carried out, without discussing every objective and principle point by point. It also held that the test only examines whether the application causes harmful effects and does not require examining how a permit could remedy an existing situation. The Council limits itself to checking whether the facts were correct and the assessment reasonable. It found the challenge to the water test unfounded: it relied on outdated flood maps, whereas the maps adopted on 25 November 2022 have applied since 1 January 2023, and it was not substantiated against the water manager's favourable advice and the studies in the file. The appeal decision was dated 25 July 2024 and the ruling was delivered on 26 March 2026; the costs are borne by the permitting authority.",
+   "nl": [
+    "RvVb vernietigt vergunning meergezinswoning wegens onbesproken ontheffing ontbossingsverbod; watertoets standgehouden",
+    "De Raad voor Vergunningsbetwistingen vernietigt een omgevingsvergunning voor een meergezinswoning omdat niet blijkt dat er geen voorafgaande ontheffing van het ontbossingsverbod nodig is, of dit onvoldoende wordt gemotiveerd. Het middel over de watertoets wordt verworpen en de Raad weigert de vergunning niet zelf.",
+    "Het arrest betreft omgevingsvergunningen voor projecten op gronden die deels bos zijn en deels als natuurgebied bestemd zijn, en de plicht van de vergunningverlenende overheid om het ontbossingsverbod te behandelen. De Raad vernietigt de beslissing in beroep omdat niet blijkt dat geen voorafgaande ontheffing van het ontbossingsverbod nodig is, of dit minstens niet afdoende wordt gemotiveerd. Volgens de Raad kan alsnog een ontheffing worden verleend, of kan de afwezigheid van de noodzaak naar behoren worden verantwoord, vooraleer een nieuwe beslissing wordt genomen; daarom stelt hij zich niet in de plaats van de overheid en weigert hij de vergunning niet. Wat de watertoets (art. 1.3.1.1 Waterwetboek) betreft, bevestigt de Raad dat de beslissing een formele motivering moet bevatten waaruit blijkt dat de toets is uitgevoerd, zonder dat elke doelstelling en elk beginsel punt per punt moet worden besproken. Hij oordeelt ook dat de toets enkel nagaat of de aanvraag schadelijke effecten veroorzaakt en niet vereist te onderzoeken hoe een vergunning een bestaande toestand kan verhelpen. De Raad beperkt zich tot de controle of de juiste feiten zijn gebruikt en of de beoordeling redelijk is. Het middel tegen de watertoets is ongegrond bevonden: het steunde op verouderde overstromingskaarten, terwijl de kaarten die op 25 november 2022 zijn vastgesteld sinds 1 januari 2023 gelden, en het werd niet onderbouwd tegenover het gunstige advies van de waterbeheerder en de studies in het dossier. De beslissing in beroep dateert van 25 juli 2024 en het arrest werd uitgesproken op 26 maart 2026; de kosten komen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCE annule un permis d'immeuble à appartements faute d'examen de la dérogation à l'interdiction de défrichement ; test de l'eau validé",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule un permis d'environnement pour un immeuble à appartements, car il n'apparaît pas qu'aucune dérogation préalable à l'interdiction de défrichement ne soit nécessaire, ou cela n'est pas suffisamment motivé. Le moyen relatif au test de l'eau est rejeté et le Conseil ne refuse pas lui-même le permis.",
+    "L'arrêt concerne les permis d'environnement pour des projets situés sur des terrains en partie boisés et en partie affectés en zone naturelle, ainsi que l'obligation de l'autorité délivrante de traiter l'interdiction de défrichement. Le Conseil annule la décision rendue en recours parce qu'il n'apparaît pas qu'aucune dérogation préalable à l'interdiction de défrichement ne soit nécessaire, ou que cela n'est pas à tout le moins motivé de manière suffisante. Selon le Conseil, une dérogation peut encore être accordée, ou l'absence de nécessité dûment justifiée, avant qu'une nouvelle décision ne soit prise ; il ne se substitue donc pas à l'autorité et ne refuse pas le permis. Quant au test de l'eau (art. 1.3.1.1 du Code de l'eau flamand, Waterwetboek), le Conseil confirme que la décision doit contenir une motivation formelle démontrant que le test a été réalisé, sans qu'il faille examiner chaque objectif et chaque principe point par point. Il juge aussi que le test se borne à vérifier si la demande entraîne des effets dommageables et n'impose pas d'examiner comment un permis pourrait remédier à une situation existante. Le Conseil se limite à contrôler si les faits retenus sont exacts et si l'appréciation est raisonnable. Le moyen dirigé contre le test de l'eau est jugé non fondé : il reposait sur des cartes d'inondation dépassées, alors que les cartes arrêtées le 25 novembre 2022 s'appliquent depuis le 1er janvier 2023, et il n'était pas étayé face à l'avis favorable du gestionnaire des eaux et aux études du dossier. La décision en recours date du 25 juillet 2024 et l'arrêt a été prononcé le 26 mars 2026 ; les dépens sont à charge de la partie adverse."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0623 – omgevingsvergunning meergezinswoning; ontbossingsverbod (Bosdecreet), watertoets (art. 1.3.1.1 Waterwetboek), indeplaatsstelling (art. 37, §2 DBCR-decreet)",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0623. vernietiging van de beslissing van de verwerende partij van 25 juli 2024 , waarm",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0623.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0623"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0621",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: Art. 4.4.20 VCRO rebuild right needs a mainly permitted building, function included",
+   "a": "The Council for Permit Disputes held that rebuilding a demolished zone-alien house under Art. 4.4.20 VCRO also requires the building to have been mainly permitted, including its function, on the eve of demolition. It dismissed the appeal against a refusal and accepted an adjoining owner-occupier as intervening party.",
+   "b": "The ruling concerns owners of zone-alien buildings in Flanders who, after an earlier permit to renovate or rebuild, ask to rebuild a building that has since been demolished under Art. 4.4.20 VCRO. The Council holds that this provision applies together with the general conditions of Art. 4.4.10 VCRO. The building must therefore have been mainly permitted and not dilapidated, assessed on the eve of demolition. 'Mainly permitted' also covers the function (Art. 4.1.1, 7° VCRO). An earlier permit for works on a 'zone-alien house' does not replace a missing permit for a change of function if that permit never examined the function. By checking this, the permitting authority does not review the legality of the earlier permit. Here the site was a former farm complex with a 1990 environmental permit for a pig and cattle farm and no later permit for residential use. The applicant's claim of residential use since 1983, based on population register extracts, did not show that the refusal rested on wrong facts. The refusal of 19 December 2024 therefore stands on one decisive ground, and criticism of the other grounds is treated as criticism of a surplus ground. On standing, the Council accepts a neighbouring owner-occupier who fears visual and privacy nuisance as 'betrokken publiek'. That the neighbour holds a zone-alien permit, or may move away later, does not remove the interest. The ruling is dated 26 March 2026 and the appeal was dismissed.",
+   "nl": [
+    "RvVb: herbouwrecht art. 4.4.20 VCRO vereist hoofdzakelijk vergunde constructie, inclusief functie",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat herbouw van een afgebroken zonevreemde woning op grond van artikel 4.4.20 VCRO ook vereist dat het gebouw op de vooravond van de afbraak hoofdzakelijk vergund was, functie inbegrepen. Het beroep tegen een weigering wordt verworpen en een aanpalende eigenaar-bewoner wordt als tussenkomende partij aanvaard.",
+    "Het arrest betreft eigenaars van zonevreemde constructies in Vlaanderen die, na een eerdere vergunning tot verbouwen of herbouwen, een inmiddels afgebroken gebouw willen herbouwen op grond van artikel 4.4.20 VCRO. De Raad oordeelt dat deze bepaling samen met de algemene voorwaarden van artikel 4.4.10 VCRO moet worden toegepast. Het gebouw moet dus hoofdzakelijk vergund en niet verkrot zijn, beoordeeld op de vooravond van de afbraak. 'Hoofdzakelijk vergund' slaat ook op de functie (artikel 4.1.1, 7° VCRO). Een eerdere vergunning voor werken aan een 'zonevreemde woning' vervangt een ontbrekende vergunning voor functiewijziging niet, als die vergunning de functie nooit heeft onderzocht. Door dit na te gaan toetst de vergunningverlenende overheid de wettigheid van de eerdere vergunning niet. Hier ging het om een voormalig hoevecomplex met een milieuvergunning van 1990 voor een varkens- en rundveebedrijf en zonder latere vergunning voor residentieel gebruik. De bewering van woonfunctie sinds 1983, gebaseerd op uittreksels uit het bevolkingsregister, toonde niet aan dat de weigering op foutieve gegevens steunde. De weigering van 19 december 2024 blijft dus overeind op één determinerend motief, en kritiek op de overige motieven wordt als kritiek op een overtollig motief beschouwd. Wat het belang betreft, aanvaardt de Raad een aanpalende eigenaar-bewoner die visuele en privacyhinder vreest als 'betrokken publiek'. Dat die buur zelf een zonevreemde vergunning kreeg, of later kan verhuizen, doet aan dat belang niet af. Het arrest is gewezen op 26 maart 2026 en het beroep werd verworpen."
+   ],
+   "fr": [
+    "CCA : le droit de reconstruction de l'art. 4.4.20 VCRO exige une construction principalement autorisée, fonction comprise",
+    "Le Conseil du contentieux des autorisations (RvVb) juge que la reconstruction d'une habitation non conforme à la zone démolie, sur la base de l'article 4.4.20 VCRO, exige aussi que le bâtiment ait été principalement autorisé, fonction comprise, à la veille de la démolition. Il rejette le recours contre un refus et admet l'intervention d'un propriétaire-occupant voisin.",
+    "L'arrêt concerne les propriétaires de constructions non conformes à la zone en Flandre qui, après une première autorisation de transformer ou de reconstruire, demandent à reconstruire un bâtiment entre-temps démoli sur la base de l'article 4.4.20 VCRO. Le Conseil juge que cette disposition s'applique avec les conditions générales de l'article 4.4.10 VCRO. Le bâtiment doit donc être principalement autorisé et non délabré, ce qui s'apprécie à la veille de la démolition. La notion de « principalement autorisé » couvre aussi la fonction (article 4.1.1, 7° VCRO). Une autorisation antérieure pour des travaux à une « habitation non conforme à la zone » ne remplace pas l'autorisation manquante pour un changement de fonction si elle n'a jamais examiné la fonction. En vérifiant cela, l'autorité délivrante ne contrôle pas la légalité de l'autorisation antérieure. En l'espèce, il s'agissait d'un ancien complexe fermier disposant d'un permis d'environnement de 1990 pour une exploitation porcine et bovine, sans autorisation ultérieure pour un usage résidentiel. L'affirmation d'une fonction résidentielle depuis 1983, fondée sur des extraits du registre de la population, n'a pas démontré que le refus reposait sur des données erronées. Le refus du 19 décembre 2024 reste donc fondé sur un motif déterminant, et la critique des autres motifs est traitée comme visant un motif surabondant. Quant à l'intérêt, le Conseil admet comme « public concerné » un propriétaire-occupant voisin qui craint des nuisances visuelles et d'atteinte à la vie privée. Le fait que ce voisin ait lui-même obtenu une autorisation pour une construction non conforme à la zone, ou puisse déménager plus tard, n'affecte pas cet intérêt. L'arrêt a été prononcé le 26 mars 2026 et le recours a été rejeté."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0621: artikelen 4.4.10, 4.4.20 en 4.1.1, 7° VCRO (zonevreemde basisrechten); artikel 2, eerste lid, 1° Omgevingsvergunningsdecreet (betrokken publiek)",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0621.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0621.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0621"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0620",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: municipal council may re-decide on road issue on its own initiative after annulment; permit refused",
+   "a": "The Flemish Council for Permit Disputes (RvVb) held that, after the Flemish Government annuls a negative municipal council decision on the road issue, the council may take a new decision on its own initiative. A new negative decision means the permit on appeal must be refused.",
+   "b": "The ruling concerns applicants for environmental permits that involve creating, changing, moving or abolishing a municipal road, and the authorities deciding on them. The RvVb applies article 66, §6 of the Omgevingsvergunningsdecreet as interpreted by the Constitutional Court in judgment 9/2024. After the Flemish Government annuls a council decision on the road issue, the council may take a new decision on its own initiative, without being convened by the governor under article 65. If the council does not decide again, or decides negatively, the permit on appeal must be refused. The Council also held that a negative decision of this kind is a sufficient ground for refusal. The applicant's criticism of other refusal grounds (spatial planning, mobility, density) therefore could not lead to annulment, because it concerned surplus grounds. It further held that a possible future change in the rules, or a pending case before the Council of State, is no reason to postpone judgment, since lawfulness is assessed under the rules currently in force. The appeal against the refusal of a subdivision permit for 26 plots in Sint-Pieters-Leeuw was dismissed. The ruling was delivered on 26 March 2026.",
+   "nl": [
+    "RvVb: gemeenteraad mag na vernietiging op eigen initiatief opnieuw over de zaak van de wegen beslissen",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat de gemeenteraad na vernietiging van een ongunstig besluit over de zaak van de wegen door de Vlaamse regering op eigen initiatief een nieuw besluit mag nemen. Een nieuw ongunstig besluit betekent dat de vergunning in beroep geweigerd moet worden.",
+    "Het arrest betreft aanvragers van omgevingsvergunningen die de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvatten, en de overheden die daarover beslissen. De Raad past artikel 66, §6 van het Omgevingsvergunningsdecreet toe zoals uitgelegd door het Grondwettelijk Hof in arrest 9/2024. Na vernietiging van een gemeenteraadsbesluit over de zaak van de wegen door de Vlaamse regering mag de gemeenteraad op eigen initiatief opnieuw beslissen, zonder door de gouverneur samengeroepen te zijn op grond van artikel 65. Als de gemeenteraad niet opnieuw beslist of een ongunstig besluit neemt, moet de vergunning in beroep geweigerd worden. Dat ongunstige besluit volstaat volgens de Raad als weigeringsgrond. Kritiek op andere weigeringsmotieven (ruimtelijke ordening, mobiliteit, verdichting) kan daarom niet tot vernietiging leiden, omdat het overtollige motieven betreft. Ook de mogelijke wijziging van de regelgeving of een hangende zaak bij de Raad van State is geen reden om de uitspraak uit te stellen, omdat de wettigheid beoordeeld wordt volgens de actueel geldende regels. Het beroep tegen de weigering van een verkavelingsvergunning voor 26 kavels in Sint-Pieters-Leeuw werd verworpen. Het arrest werd uitgesproken op 26 maart 2026."
+   ],
+   "fr": [
+    "CCE flamand : le conseil communal peut statuer de sa propre initiative sur la voirie après annulation",
+    "Le Conseil flamand du contentieux des autorisations (RvVb) juge qu'après l'annulation par le Gouvernement flamand d'une décision défavorable du conseil communal sur la question de la voirie, celui-ci peut reprendre une décision de sa propre initiative. Une nouvelle décision défavorable impose de refuser le permis en recours.",
+    "L'arrêt concerne les demandeurs de permis d'environnement impliquant la création, la modification, le déplacement ou la suppression d'une voirie communale, ainsi que les autorités qui statuent. Le Conseil applique l'article 66, §6 du Omgevingsvergunningsdecreet, tel qu'interprété par la Cour constitutionnelle dans l'arrêt 9/2024. Après l'annulation par le Gouvernement flamand d'une décision du conseil communal sur la voirie, le conseil peut statuer à nouveau de sa propre initiative, sans avoir été convoqué par le gouverneur en vertu de l'article 65. Si le conseil ne statue pas à nouveau ou rend une décision défavorable, le permis doit être refusé en recours. Cette décision défavorable suffit selon le Conseil comme motif de refus. Les critiques visant les autres motifs de refus (aménagement du territoire, mobilité, densification) ne peuvent donc entraîner l'annulation, car il s'agit de motifs surabondants. Une modification possible de la réglementation ou une affaire pendante devant le Conseil d'État ne justifie pas non plus de reporter le jugement, la légalité étant appréciée selon les règles actuellement en vigueur. Le recours contre le refus d'un permis de lotir de 26 lots à Sint-Pieters-Leeuw a été rejeté. L'arrêt a été prononcé le 26 mars 2026."
+   ],
+   "scope": "RvVb arrest RVVB.A.2526.0620 – artikelen 31, 31/1, 65 en 66, §6 Omgevingsvergunningsdecreet (gemeenteraadsbesluit over de zaak van de wegen)",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0620.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0620.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0620"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0615",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: widening of a buurtweg needs a deputation decision; subdivision permit refused instead of re-decided",
+   "a": "The Council for Permit Disputes held that a royally approved alignment plan under the Buurtwegenwet has no legal effect without a favourable decision of the deputation under Articles 27 and 28. A permit that relies on the widened road width therefore lacks a legal basis, and the Council refused the permit itself.",
+   "b": "The ruling concerns permit applicants and permitting authorities dealing with plots along roads listed in the Atlas der Buurtwegen as neighbourhood roads. The widening of such a road must follow the Buurtwegenwet of 10 April 1841. The Council held that Articles 27 and 28 give the decision-making power over opening, changing or moving a buurtweg to the deputation. Article 28bis adds only that a general alignment plan must first be approved by the King. An alignment plan, even if definitively adopted and royally approved, has legal effect only once the deputation has taken a favourable decision. No such decision was produced. The authority that was competent at the time and the applicant, who were best placed to produce it, did not do so. A letter from 1952 showed only an intention to regularise works carried out in 1938 without a formal decision. The later repeal of the Buurtwegenwet by the Gemeentewegendecreet does not change that the law applied at the time. The deputation's permit of 19 December 2024 had assumed a road width of about 11 metres, both for the alignment and for the assessment of good spatial planning. It therefore lost its legal basis, since the road keeps its legal width of 5.4 to 6 metres. The Council added that permits already granted and final cannot be reopened, not even through Article 159 of the Constitution, and that each application is assessed on its own merits. It annulled the decision and, because the deputation's competence was bound and the irregularity could not be remedied, used its substitution power (Article 37, §2 of the DBRC decree) to refuse the permit itself. The other grounds were not examined. The ruling was delivered on 26 March 2026.",
+   "nl": [
+    "RvVb: verbreding van een buurtweg vereist deputatiebesluit; verkavelingsvergunning geweigerd in plaats van herbeslist",
+    "De Raad voor Vergunningsbetwistingen oordeelt dat een door de Koning goedgekeurd rooilijnplan onder de Buurtwegenwet zonder gunstige beslissing van de deputatie conform de artikelen 27 en 28 geen rechtsgevolgen heeft. Een vergunning die op de verbrede wegbreedte steunt, mist daardoor rechtsgrond, en de Raad weigert de vergunning zelf.",
+    "Het arrest treft vergunningsaanvragers en vergunningverlenende overheden voor percelen langs wegen die in de Atlas der Buurtwegen als buurtweg zijn opgenomen. De verbreding van zo'n weg moest verlopen volgens de Buurtwegenwet van 10 april 1841. De Raad oordeelt dat de artikelen 27 en 28 de beslissingsbevoegdheid over de opening, wijziging of verlegging van een buurtweg aan de deputatie toewijzen. Artikel 28bis voegt enkel toe dat eerst de Koning een algemeen rooilijnplan moet goedkeuren. Een rooilijnplan heeft, ook als het definitief is vastgesteld en door de Koning goedgekeurd, pas rechtsgevolgen nadat de deputatie een gunstige beslissing heeft genomen. Zo'n beslissing werd niet voorgelegd. Noch de destijds bevoegde overheid, noch de aanvrager, die het best geplaatst waren om ze voor te leggen, deden dat. Uit een brief van 1952 blijkt enkel de bedoeling om werken die in 1938 zonder formele beslissing waren uitgevoerd, te regulariseren. De latere opheffing van de Buurtwegenwet door het Gemeentewegendecreet verandert niet dat die wet destijds van toepassing was. De vergunning van de deputatie van 19 december 2024 ging uit van een wegbreedte van ongeveer 11 meter, zowel voor de rooilijn als voor de beoordeling van de goede ruimtelijke ordening. Ze verloor daardoor haar rechtsgrond, want de weg behoudt in rechte zijn breedte van 5,4 tot 6 meter. De Raad voegt eraan toe dat eerder verleende en definitief geworden vergunningen niet meer in vraag kunnen worden gesteld, ook niet via artikel 159 van de Grondwet, en dat elke aanvraag op haar eigen merites wordt beoordeeld. Hij vernietigde de beslissing. Omdat de bevoegdheid van de deputatie gebonden was en de onregelmatigheid niet kon worden hersteld, paste hij zijn substitutiebevoegdheid toe (artikel 37, §2 DBRC-decreet) en weigerde hij zelf de vergunning. De overige middelen werden niet onderzocht. Het arrest werd uitgesproken op 26 maart 2026."
+   ],
+   "fr": [
+    "CCA : l'élargissement d'un chemin vicinal exige une décision de la députation ; permis de lotir refusé au lieu d'une nouvelle décision",
+    "Le Conseil pour les contestations des autorisations juge qu'un plan d'alignement approuvé par le Roi en vertu de la loi sur les chemins vicinaux n'a d'effet juridique qu'après une décision favorable de la députation au sens des articles 27 et 28. Un permis fondé sur la largeur élargie manque de base légale, et le Conseil refuse lui-même le permis.",
+    "L'arrêt concerne les demandeurs de permis et les autorités délivrantes pour des parcelles situées le long de voies reprises à l'Atlas des chemins vicinaux. L'élargissement d'une telle voie devait suivre la loi du 10 avril 1841 sur les chemins vicinaux. Le Conseil juge que les articles 27 et 28 confient à la députation le pouvoir de décider de l'ouverture, de la modification ou du déplacement d'un chemin vicinal. L'article 28bis ajoute seulement que le Roi doit d'abord approuver un plan général d'alignement. Un plan d'alignement, même définitivement arrêté et approuvé par le Roi, n'a d'effet juridique qu'une fois que la députation a pris une décision favorable. Aucune décision de ce type n'a été produite. Ni l'autorité alors compétente, ni le demandeur, qui étaient les mieux placés pour le faire, ne l'ont fourni. Une lettre de 1952 montre seulement l'intention de régulariser des travaux exécutés en 1938 sans décision formelle. L'abrogation ultérieure de la loi sur les chemins vicinaux par le décret sur les voiries communales ne change pas le fait que cette loi s'appliquait à l'époque. Le permis délivré par la députation le 19 décembre 2024 partait d'une largeur de voie d'environ 11 mètres, tant pour l'alignement que pour l'appréciation du bon aménagement du territoire. Il a donc perdu sa base légale, la voie conservant en droit sa largeur de 5,4 à 6 mètres. Le Conseil ajoute que les permis antérieurs devenus définitifs ne peuvent plus être remis en cause, pas même par l'article 159 de la Constitution, et que chaque demande est examinée selon ses propres mérites. Il a annulé la décision. La compétence de la députation étant liée et l'irrégularité ne pouvant être réparée, il a exercé son pouvoir de substitution (article 37, §2 du décret DBRC) et refusé lui-même le permis. Les autres moyens n'ont pas été examinés. L'arrêt a été prononcé le 26 mars 2026."
+   ],
+   "scope": "Arrest RvVb – Buurtwegenwet van 10 april 1841, artt. 27, 28 en 28bis; art. 37, §2 DBRC-decreet (indeplaatsstelling); omgevingsvergunning voor verkavelen",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0615. vernietiging van de beslissing van de verwerende partij van 19 december 2024, wa",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0615.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0615"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0614",
+   "d": "2026-03-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb annuls Pelt subdivision permit and substitutes refusal: no VCRO 4.4.1 derogation from zoning use rules",
+   "a": "The Council for Permit Disputes annulled a subdivision permit in Pelt for one detached and two semi-detached lots and refused the permit itself. Article 4.4.1 VCRO does not allow derogation from land-use (destination) provisions of a special zoning plan (BPA), which left the authority with no discretion.",
+   "b": "The ruling concerns permit authorities and applicants for subdivision permits on land covered by a special zoning plan (BPA). The province had granted a permit on third reconsideration, after two earlier annulments, for lots that partly fall in the BPA's front-garden zone. The Council held that article 4.4.1 VCRO cannot be used to derogate from a land-use provision such as article 5.1 BPA. Under article 4.3.1, §1, first paragraph, 1°, a) VCRO a permit conflicting with zoning provisions without a valid derogation must be refused, so the authority's competence was bound. On that basis the Council used its substitution power under article 37, §2 of the DBRC decree and refused the permit itself instead of sending the file back. The Council also found the province's reasoning on densification under article 3.2.1 BPA insufficient: it relied on the variety of the surroundings, on the combined building width and on a condition requiring a single overall project. Assessing visual impact only by combined building width also disregarded the binding force of the Council's earlier annulment of 12 September 2024. The ruling is dated 26 March 2026; the first ground was not examined, and the Council did not state any further transitional effects.",
+   "nl": [
+    "RvVb vernietigt verkavelingsvergunning Pelt en weigert zelf: geen afwijking van bestemmingsvoorschriften via art. 4.4.1 VCRO",
+    "De Raad voor Vergunningsbetwistingen vernietigt een verkavelingsvergunning in Pelt voor één lot open en twee loten halfopen bebouwing en weigert de vergunning zelf. Artikel 4.4.1 VCRO laat geen afwijking toe van bestemmingsvoorschriften van een BPA, waardoor de overheid een gebonden bevoegdheid had.",
+    "Het arrest treft vergunningverlenende overheden en aanvragers van verkavelingsvergunningen op gronden die onder een bijzonder plan van aanleg (BPA) vallen. De deputatie had na twee eerdere vernietigingen voor de derde maal een vergunning verleend voor loten die deels in de zone voorgebied en/of voortuinen van het BPA liggen. De Raad oordeelt dat artikel 4.4.1 VCRO niet kan dienen om af te wijken van een bestemmingsvoorschrift zoals artikel 5.1 BPA. Een vergunning die strijdig is met stedenbouwkundige voorschriften zonder geldige afwijking moet krachtens artikel 4.3.1, §1, eerste lid, 1°, a) VCRO worden geweigerd, zodat de overheid een gebonden bevoegdheid had. Op die grond past de Raad de indeplaatsstelling van artikel 37, §2 DBRC-decreet toe en weigert hij de vergunning zelf in plaats van het dossier terug te sturen. Daarnaast acht de Raad de motivering over de verdichting op grond van artikel 3.2.1 BPA ontoereikend: de deputatie steunde op de verscheidenheid van de omgeving, op de gezamenlijke bouwbreedte en op een voorwaarde om één totaalproject te realiseren. Door de visuele impact te beperken tot de gezamenlijke bouwbreedte werd bovendien het gezag van gewijsde van het vernietigingsarrest van 12 september 2024 miskend. Het arrest is uitgesproken op 26 maart 2026; het eerste middel werd niet onderzocht en verdere overgangseffecten vermeldt de Raad niet."
+   ],
+   "fr": [
+    "Le CCA annule un permis de lotir à Pelt et refuse lui-même : pas de dérogation aux prescriptions de destination via l'art. 4.4.1 VCRO",
+    "Le Conseil pour les contestations des autorisations annule un permis de lotir à Pelt (un lot en bâtiment isolé, deux en bâtiments jumelés) et refuse lui-même le permis. L'article 4.4.1 VCRO ne permet pas de déroger aux prescriptions de destination d'un plan particulier d'aménagement (BPA), de sorte que l'autorité était en compétence liée.",
+    "L'arrêt concerne les autorités délivrant les permis et les demandeurs de permis de lotir sur des terrains couverts par un plan particulier d'aménagement (BPA). Après deux annulations antérieures, la députation avait délivré une troisième fois un permis pour des lots situés en partie dans la zone d'avant-cour et/ou de jardins avant du BPA. Le Conseil juge que l'article 4.4.1 VCRO ne peut servir à déroger à une prescription de destination telle que l'article 5.1 du BPA. Un permis contraire aux prescriptions urbanistiques sans dérogation valable doit être refusé en vertu de l'article 4.3.1, §1er, alinéa 1er, 1°, a) VCRO, de sorte que l'autorité était en compétence liée. Sur cette base, le Conseil applique la substitution prévue à l'article 37, §2 du décret DBRC et refuse lui-même le permis au lieu de renvoyer le dossier. Il estime en outre insuffisante la motivation relative à la densification au titre de l'article 3.2.1 du BPA : la députation s'appuyait sur la diversité du voisinage, sur la largeur de bâtisse commune et sur une condition imposant un projet d'ensemble unique. En limitant l'impact visuel à la largeur de bâtisse commune, elle a en outre méconnu l'autorité de chose jugée de l'arrêt d'annulation du 12 septembre 2024. L'arrêt est prononcé le 26 mars 2026 ; le premier moyen n'a pas été examiné et le Conseil ne mentionne aucun autre effet transitoire."
+   ],
+   "scope": "Arrest RvVb-A (RVVB.A.2526.0614): artikelen 4.3.1, §1 en 4.4.1 VCRO; artikel 37, §2 DBRC-decreet; artikelen 3.2.1 en 5.1 BPA 'Centrum-Oost herziening 4bis' (Pelt)",
+   "dates": {
+    "adopted": "2026-03-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0614. vernietiging van de beslissing van de verwerende partij van 30 januari 2025, waa",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0614.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0614"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
