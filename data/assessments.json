@@ -48197,7 +48197,8 @@
 "reason": "Under art. 111 Omgevingsvergunningsdecreet, a timely express notification decision means no tacit aktename exists; publication only starts the appeal period for third parties.",
 "confidence": "medium",
 "at": "2026-11-23",
-"write_error": "missing fr"
+"write_error": "missing fr",
+"written": "d-rvvb-rvvb-a-2526-0517"
 },
 "rvvb:RVVB.A.2526.0496": {
 "v": 4,
@@ -48342,7 +48343,8 @@
 ],
 "reason": "In simplified-procedure appeals, Art. 45 and 64 OVD let applicants amend plans without a public inquiry; the decision must show the Art. 64 test was done.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0480"
 },
 "rvvb:RVVB.A.2526.0479": {
 "v": 4,
@@ -48355,7 +48357,9 @@
 ],
 "reason": "Annuls a permit: earth-level changes unexempted under the half-metre rule must be listed as separate acts in the application (art. 7 §2 OVD), and water-test objections need reasoned answers.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annuls one individual permit for insufficient reasoning on the facts of a single file, applying settled case law without new interpretation."
 },
 "gwh:21/2026": {
 "v": 4,
@@ -48583,7 +48587,8 @@
 ],
 "reason": "EU position on ICAO Annex 16 aircraft environmental standards for noise and emissions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0066"
 },
 "eu:32026R0322": {
 "v": 4,
@@ -48829,7 +48834,8 @@
 ],
 "reason": "New EU detergents regulation with biodegradability and environmental protection requirements for products.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0405"
 },
 "eu:32026R0382": {
 "v": 4,
@@ -49101,7 +49107,8 @@
 ],
 "reason": "Derogation under F-gas Regulation for fluorinated gases in semiconductor chillers; climate rule for installations.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0286"
 },
 "eu:32026D0836": {
 "v": 4,
@@ -62562,7 +62569,8 @@
 ],
 "reason": "Under Walloon permit decree art. 95 §8, a confirmed first-instance refusal is judged on its adoption-date record, not later appeal material; late expert opinions may still be relied on.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265713"
 },
 "rvs:265712": {
 "v": 4,
@@ -62787,7 +62795,8 @@
 ],
 "reason": "Lidaxes 'variation possible du tracé' zones do not establish a concentrated runoff axis, so Giser consultation under R.IV.35-1 CoDT is not automatically required.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265689"
 },
 "rvs:265688": {
 "v": 4,
@@ -62799,7 +62808,8 @@
 ],
 "reason": "Urban planning permit withdrawal: a rights-creating permit may be withdrawn only if unlawful and within the appeal period, and a withdrawal after closing of debates counts if parties were heard.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265688"
 },
 "rvs:265687": {
 "v": 4,
@@ -62811,7 +62821,8 @@
 ],
 "reason": "Holds that after annulment of a pre-CoDT certificat d'urbanisme n°2, the authority must send the request back under D.IV.110 al. 3, and silence after a mise en demeure is no rejection if no decision i",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265687"
 },
 "rvs:265686": {
 "v": 4,
@@ -63299,7 +63310,8 @@
 ],
 "reason": "Enforcement under DABM 16.4.5: a permit applicant is not automatically the principal of unpermitted works; a removal order that is already executed is moot but not annullable for lack of interest.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265728"
 },
 "rvs:265727": {
 "v": 4,
@@ -63312,7 +63324,8 @@
 ],
 "reason": "When a forest-clearance exemption refusal departs from a favourable AVES advice, the decision must state precise reasons why the advice is not followed; general boilerplate is insufficient.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265727"
 },
 "rvs:265726": {
 "v": 4,
@@ -63325,7 +63338,8 @@
 ],
 "reason": "Vlarem II noise exemption for motocross circuits set aside under standstill; RvVb may substitute its own decision only for a truly bound competence.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265726"
 },
 "rvs:265725": {
 "v": 4,
@@ -63338,7 +63352,8 @@
 ],
 "reason": "Confirms the Flemish permit tribunal may substitute its own refusal where the authority has bound competence, incl. factual or subsequent bound competence; recusal grounds must be raised before, not f",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265725"
 },
 "rvs:265724": {
 "v": 4,
@@ -67530,15 +67545,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
+"this_run": 13,
 "found_not_relevant_on_reading": 1,
-"failed": 1,
-"waiting": 228,
+"failed": 0,
+"waiting": 214,
 "api": {
 "calls": 14,
-"input_tokens": 223139,
-"output_tokens": 46733,
-"usd": 0.9136
+"input_tokens": 159305,
+"output_tokens": 42436,
+"usd": 0.743
 },
 "updated": "2026-11-23"
 },

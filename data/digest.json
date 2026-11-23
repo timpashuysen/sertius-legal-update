@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:31:44Z",
+ "updated": "2026-11-23T19:42:29Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -34075,6 +34075,538 @@
    ],
    "inbox": [
     "rvvb:RVVB.A.2526.0481"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0517",
+   "d": "2026-02-12",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "RvVb: no tacit acknowledgement where express acknowledgement of a dewatering notification was timely; appeal rejected",
+   "a": "The Council for Permit Disputes rejected an appeal against a 'tacit acknowledgement' of a groundwater dewatering notification in Knokke-Heist, because the municipality had expressly acknowledged it within the statutory period. The appeal therefore targeted a non-existent act, but the costs were put on the authority for misleading communication.",
+   "b": "The ruling concerns notifications of operations such as groundwater dewatering under article 111 of the Environmental Permit Decree, and the appeals of third parties against their acknowledgement. The Council holds that no tacit acknowledgement exists where the competent authority expressly acknowledged the notification within the period set by article 111. An appeal against a tacit acknowledgement is then directed at a non-existent legal act. Publication of the acknowledgement only starts the appeal period for third parties and does not determine whether the acknowledgement legally exists. The person who made the notification is an intervening party by operation of law and does not have to file statutes, appointment deeds or proof of a decision to go to court (art. 60 Procedure Decree). In the case, the college of mayor and aldermen acknowledged the notification on 7 February 2025, but the decision was only uploaded to the Omgevingsloket on 2 May 2025, so the platform showed a tacit acknowledgement dated 14 February 2025. The appeal was rejected and the request for substitution of a refusal was dismissed, as no well-founded ground was put forward. The Council found the applicant's confusion excusable because of the authority's careless communication. It charged the authority with the costs: the 200 euro registration fee and an 840 euro procedural indemnity.",
+   "nl": [
+    "RvVb: geen stilzwijgende aktename bij tijdige uitdrukkelijke aktename van bemalingsmelding; beroep verworpen",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep tegen een 'stilzwijgende aktename' van een melding van een bronbemaling in Knokke-Heist, omdat de gemeente binnen de wettelijke termijn uitdrukkelijk akte had genomen. Het beroep was dus gericht tegen een onbestaande rechtshandeling, maar de kosten komen ten laste van de overheid wegens misleidende communicatie.",
+    "Het arrest betreft meldingen van handelingen zoals een bronbemaling op grond van artikel 111 van het Omgevingsvergunningsdecreet en de beroepen van derden tegen de aktename ervan. De Raad oordeelt dat er geen stilzwijgende aktename bestaat wanneer de bevoegde overheid binnen de termijn van artikel 111 uitdrukkelijk akte heeft genomen. Een beroep tegen een stilzwijgende aktename richt zich dan tegen een onbestaande rechtshandeling. De bekendmaking van de aktename doet enkel de beroepstermijn voor derden ingaan en bepaalt niet of de aktename juridisch bestaat. Wie de melding heeft verricht, is van rechtswege tussenkomende partij en moet geen statuten, aanstellingsakte of bewijs van een beslissing om in rechte te treden voegen (artikel 60 Procedurebesluit). In de zaak nam het college van burgemeester en schepenen op 7 februari 2025 akte van de melding, maar de beslissing werd pas op 2 mei 2025 in het Omgevingsloket opgeladen, zodat het loket een stilzwijgende aktename van 14 februari 2025 toonde. Het beroep wordt verworpen en de vordering tot indeplaatsstelling wordt afgewezen, omdat er geen gegrond middel voorlag. De verwarring van de verzoekende partij werd verschoonbaar geacht wegens de onzorgvuldige communicatie van de overheid. De Raad legt de kosten ten laste van de overheid: het rolrecht van 200 euro en een rechtsplegingsvergoeding van 840 euro."
+   ],
+   "fr": [
+    "CCA: pas de prise d'acte tacite si la prise d'acte expresse d'une déclaration de rabattement est intervenue à temps; recours rejeté",
+    "Le Conseil pour les contestations des autorisations rejette le recours contre une « prise d'acte tacite » d'une déclaration de rabattement de nappe à Knokke-Heist, la commune ayant pris acte expressément dans le délai légal. Le recours visait donc un acte juridique inexistant, mais les dépens sont mis à charge de l'autorité en raison d'une communication trompeuse.",
+    "L'arrêt concerne les déclarations d'actes tels qu'un rabattement de nappe (pompage d'eau souterraine) au titre de l'article 111 du décret sur le permis d'environnement, ainsi que les recours de tiers contre leur prise d'acte. Le Conseil juge qu'il n'y a pas de prise d'acte tacite lorsque l'autorité compétente a pris acte expressément dans le délai de l'article 111. Un recours contre une prise d'acte tacite vise alors un acte juridique inexistant. La publication de la prise d'acte ne fait que démarrer le délai de recours des tiers et ne détermine pas l'existence juridique de la prise d'acte. L'auteur de la déclaration est de plein droit partie intervenante et ne doit pas joindre ses statuts, l'acte de désignation de ses organes ni la preuve d'une décision d'agir en justice (article 60 de l'arrêté de procédure). En l'espèce, le collège des bourgmestre et échevins a pris acte de la déclaration le 7 février 2025, mais la décision n'a été téléchargée dans l'Omgevingsloket que le 2 mai 2025, de sorte que la plateforme affichait une prise d'acte tacite datée du 14 février 2025. Le recours est rejeté et la demande de substitution est écartée, aucun moyen fondé n'étant présenté. Le Conseil a jugé la confusion de la partie requérante excusable en raison de la communication peu soigneuse de l'autorité. Il met les dépens à charge de l'autorité: le droit de rôle de 200 euros et une indemnité de procédure de 840 euros."
+   ],
+   "scope": "Arrest RvVb van 12 februari 2026 (RVVB.A.2526.0517) – artikel 111 Omgevingsvergunningsdecreet (stilzwijgende aktename van een melding); artikel 60 Procedurebesluit; artikel 20 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0517. vernietiging van de beslissing van de verwerende partij van 14 februari 2025 , w",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0517.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0517"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0480",
+   "d": "2026-02-12",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "RvVb: permit amendments allowed on appeal after simplified procedure; neighbour water damage is civil law",
+   "a": "The Council for Permit Disputes rejected an appeal against a permit for a house extension. It held that a permit amendment may be accepted on administrative appeal after a simplified procedure if no public inquiry becomes necessary, and that neighbours' fears of water damage are civil-law matters outside the spatial assessment.",
+   "b": "The ruling concerns applicants, permitting authorities and neighbouring third parties in Flemish environmental permit procedures. The Council reads Articles 45 and 64 of the Environmental Permit Decree together. Where a permit application followed the simplified procedure at first instance, the applicant may still submit an amendment on administrative appeal, and the authority may accept it under the conditions of Article 64. The only limit is that the amendment must not make a public inquiry necessary. The decision must show that the Article 64 conditions were checked. A separate paragraph is advisable but not required, and the check may follow from the decision as a whole. In this case the amendments (a garage on the boundary with the neighbour's consent, and rainwater overflow redirected to an infiltration swale) were accepted without a public inquiry. The Council also held that the neighbours' fears of water infiltration and damage are not 'hinder' within Article 4.3.1 §2 first paragraph 1° VCRO, which covers only effects on spatial planning and the living environment. A permit is granted subject to civil rights (Article 78 §1), and the weighing under Article 1.1.4 VCRO concerns spatial needs, not individual interests. Where the application only partly regularises works already carried out, the project is assessed as a whole from the situation before those works. The appeal was dismissed on 12 February 2026 and the €600 fee stays with the applicants.",
+   "nl": [
+    "RvVb: wijziging in beroep na vereenvoudigde procedure mogelijk; waterschade tussen buren is burgerrechtelijk",
+    "De Raad voor Vergunningsbetwistingen verwerpt een beroep tegen een vergunning voor de uitbreiding van een woning. Een wijziging van de aanvraag kan in bestuurlijk beroep worden aanvaard na een vereenvoudigde procedure, zolang geen openbaar onderzoek nodig wordt. De vrees van buren voor waterschade is burgerrechtelijk en valt buiten de ruimtelijke beoordeling.",
+    "Het arrest raakt aanvragers, vergunningverlenende overheden en aanpalende derden in Vlaamse omgevingsvergunningsprocedures. De Raad leest artikel 45 en artikel 64 van het Omgevingsvergunningsdecreet samen. Als de aanvraag in eerste aanleg de vereenvoudigde procedure volgde, kan de aanvrager in bestuurlijk beroep nog steeds een wijziging indienen, en kan de overheid die onder de voorwaarden van artikel 64 aanvaarden. De enige beperking is dat de wijziging geen openbaar onderzoek noodzakelijk mag maken. Uit de beslissing moet blijken dat de voorwaarden van artikel 64 zijn getoetst. Een afzonderlijke paragraaf is aangewezen maar niet vereist, en de toets kan uit de beslissing als geheel blijken. Hier werden de wijzigingen (een garage op de perceelsgrens met akkoord van de buur en een overloop van het hemelwater die naar een infiltratiewadi wordt afgeleid) zonder openbaar onderzoek aanvaard. De Raad oordeelt ook dat de vrees van de buren voor waterinfiltratie en waterschade geen 'hinder' is in de zin van artikel 4.3.1, §2, eerste lid, 1° VCRO, dat enkel de gevolgen voor ruimtelijke ordening en leefmilieu viseert. Een vergunning wordt verleend onder voorbehoud van burgerlijke rechten (artikel 78, §1), en de afweging van artikel 1.1.4 VCRO gaat over ruimtelijke behoeften, niet over individuele belangen. Wanneer de aanvraag slechts gedeeltelijk al uitgevoerde werken regulariseert, wordt het project in zijn geheel beoordeeld vanuit de toestand van vóór die werken. Het beroep werd op 12 februari 2026 verworpen en het rolrecht van 600 euro blijft ten laste van de verzoekers."
+   ],
+   "fr": [
+    "CCA: modification en recours admise après procédure simplifiée; dégâts d'eau entre voisins relèvent du droit civil",
+    "Le Conseil pour les contestations des autorisations (RvVb) rejette un recours contre un permis d'extension d'une habitation. Une modification de la demande peut être acceptée en recours administratif après une procédure simplifiée, tant qu'aucune enquête publique ne devient nécessaire. La crainte de dégâts d'eau des voisins relève du droit civil et sort de l'appréciation urbanistique.",
+    "L'arrêt concerne les demandeurs, les autorités délivrantes et les tiers voisins dans les procédures flamandes de permis d'environnement. Le Conseil lit ensemble les articles 45 et 64 du décret relatif au permis d'environnement. Lorsque la demande a suivi la procédure simplifiée en première instance, le demandeur peut encore déposer une modification en recours administratif, et l'autorité peut l'accepter aux conditions de l'article 64. La seule limite est que la modification ne doit pas rendre nécessaire une enquête publique. La décision doit faire apparaître que les conditions de l'article 64 ont été vérifiées. Un paragraphe distinct est conseillé mais pas requis, et le contrôle peut ressortir de la décision dans son ensemble. En l'espèce, les modifications (un garage sur la limite de parcelle avec l'accord du voisin et un trop-plein d'eau de pluie dirigé vers une wadi d'infiltration) ont été acceptées sans enquête publique. Le Conseil juge aussi que la crainte des voisins d'infiltrations et de dégâts d'eau n'est pas une « nuisance » au sens de l'article 4.3.1, §2, alinéa 1er, 1° du VCRO (Code flamand de l'aménagement du territoire), qui vise uniquement les effets sur l'aménagement du territoire et le cadre de vie. Un permis est délivré sous réserve des droits civils (article 78, §1er), et la pondération de l'article 1.1.4 du VCRO porte sur des besoins spatiaux, non sur des intérêts individuels. Lorsque la demande ne régularise qu'en partie des travaux déjà exécutés, le projet est apprécié dans son ensemble à partir de la situation antérieure à ces travaux. Le recours a été rejeté le 12 février 2026 et le droit de rôle de 600 euros reste à charge des requérants."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0480 – artikelen 45, 64 en 78, §1 Omgevingsvergunningsdecreet; artikelen 1.1.4 en 4.3.1, §2 VCRO",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0480. vernietiging van de beslissing van de verwerende partij van 2 januari 2025, waar",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0480.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0480"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265728",
+   "d": "2026-02-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: Flemish nature enforcement measures may target the person who commissioned unpermitted works",
+   "a": "The Council of State dismissed an appeal against a Flemish decision upholding administrative measures for unauthorised structures in forest and VEN area. It held that article 16.4.5 DABM does not limit such measures to the co-owners' association, and that an order to remove an already-removed structure cannot be annulled for lack of interest.",
+   "b": "The ruling concerns persons subject to administrative enforcement measures under the Flemish Environmental Policy Decree (DABM) after unauthorised constructions in private forest and in a VEN area, here part of a co-housing project. The Council of State held that article 16.4.5 DABM allows measures against whoever committed the environmental offence or gave the order for it, and does not allow only the legal entity of the co-ownership association to be addressed for structures in common parts. The authority could treat the individual who applied for the 2014 planning permit as the commissioning party, because the association was only set up around mid-2015 and the structures had by his own account stood for ten years. It was not required to examine the property-law status of the structures. An order to remove a structure built in a forest without the required authorisation (article 97 §2 1° Forest Decree) is an administrative measure under article 16.4.7 §1 1° DABM. If such a measure has already been carried out in practice, the order becomes pointless but, for lack of interest, this does not lead to annulment of the decision. The Council of State rejected the appeal on 12 February 2026 and ordered the applicant to pay the costs.",
+   "nl": [
+    "Raad van State: bestuurlijke maatregelen van ANB kunnen worden gericht tot de opdrachtgever van niet-vergunde werken",
+    "De Raad van State verwierp het beroep tegen een Vlaamse beslissing die bestuurlijke maatregelen voor niet-vergunde constructies in bos en VEN-gebied bevestigde. Artikel 16.4.5 DABM beperkt die maatregelen niet tot de vereniging van mede-eigenaars, en een bevel tot verwijdering van een reeds verwijderde constructie leidt bij gebrek aan belang niet tot nietigverklaring.",
+    "Het arrest betreft wie bestuurlijke handhavingsmaatregelen kan worden opgelegd op grond van het Decreet Algemene Bepalingen Milieubeleid (DABM) na niet-vergunde constructies in privébos en VEN-gebied, hier bij een cohousingproject. De Raad van State oordeelde dat artikel 16.4.5 DABM toelaat maatregelen op te leggen aan degene die het milieumisdrijf of de milieu-inbreuk pleegde of daartoe opdracht gaf, en niet enkel aan de rechtspersoon van de vereniging van mede-eigendom wanneer het gaat om gemeenschappelijke delen. De overheid kon de aanvrager van de stedenbouwkundige vergunning van 2014 als opdrachtgever aanmerken, aangezien de vereniging pas medio 2015 werd opgericht en de constructies volgens hemzelf tien jaar bestonden. Een onderzoek naar de zakenrechtelijke toestand van de constructies was niet vereist. Een bevel om een constructie te verwijderen die zonder machtiging in een bos werd opgericht (artikel 97, § 2, 1° Bosdecreet) is een bestuurlijke maatregel in de zin van artikel 16.4.7, § 1, 1° DABM. Is die maatregel feitelijk al uitgevoerd, dan wordt het bevel zinledig, maar dat leidt bij gebrek aan belang niet tot nietigverklaring van de beslissing. De Raad van State verwierp het beroep op 12 februari 2026 en legde de kosten aan de verzoeker op."
+   ],
+   "fr": [
+    "Conseil d'État : les mesures administratives de l'ANB peuvent viser le commanditaire de travaux non autorisés",
+    "Le Conseil d'État a rejeté le recours contre une décision flamande confirmant des mesures administratives pour des constructions non autorisées en forêt et en zone VEN. L'article 16.4.5 DABM ne limite pas ces mesures à l'association des copropriétaires, et l'ordre d'enlever une construction déjà enlevée ne peut être annulé, faute d'intérêt.",
+    "L'arrêt porte sur les personnes à qui des mesures administratives peuvent être imposées en vertu du décret flamand portant dispositions générales en matière de politique de l'environnement (DABM) après des constructions non autorisées en forêt privée et en zone VEN, ici dans un projet de cohabitat. Le Conseil d'État a jugé que l'article 16.4.5 DABM permet d'imposer des mesures à l'auteur du délit ou de l'infraction environnementale ou à celui qui en a donné l'ordre, et pas uniquement à la personne morale de l'association de copropriétaires pour les parties communes. L'autorité pouvait considérer comme commanditaire la personne qui avait demandé le permis d'urbanisme de 2014, puisque l'association n'a été constituée qu'à la mi-2015 et que, selon l'intéressé lui-même, les constructions existaient depuis dix ans. Un examen de la situation de droit réel des constructions n'était pas requis. L'ordre d'enlever une construction érigée en forêt sans autorisation (article 97, § 2, 1° du Bosdecreet) est une mesure administrative au sens de l'article 16.4.7, § 1er, 1° DABM. Si cette mesure a déjà été exécutée dans les faits, l'ordre devient sans objet, mais, faute d'intérêt, cela n'entraîne pas l'annulation de la décision. Le Conseil d'État a rejeté le recours le 12 février 2026 et mis les dépens à charge du requérant."
+   ],
+   "scope": "Raad van State, arrest nr. 265.728 van 12 februari 2026 (VII-42.213): artikelen 16.4.5 en 16.4.7 DABM; artikel 97, § 2, 1° Bosdecreet",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265728. 1. Het beroep, ingesteld op 22 september 2023, stre kt tot de nietigverklaring van het besluit van de Vla",
+     "https://www.raadvst-consetat.be/arresten/265728"
+    ]
+   ],
+   "inbox": [
+    "rvs:265728"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265727",
+   "d": "2026-02-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: refusal of deforestation exemption annulled for failing to address favourable ANB advice",
+   "a": "The Council of State annulled the Nature and Forest Agency's refusal of an individual exemption from the deforestation ban because the decision did not adequately explain why it departed from the agency's own conditionally favourable advice. Generic statements on the principle of forest conservation do not meet the reinforced duty to state reasons.",
+   "b": "The ruling concerns individual exemptions from the deforestation ban under Article 90bis, §1, third paragraph of the Forest Decree of 13 June 1990, which can only be granted after advice from the Nature and Forest Agency (ANB). It also concerns the reasoning duty under Articles 2 and 3 of the Formal Motivation Act of 29 July 1991. The Council confirms that where the deciding authority departs from advice given during the procedure, a reinforced duty to state reasons applies: precise, accurate and pertinent reasons must show why the advice is not followed, without point-by-point rebuttal. The decision merely noted that advice had been given and relied on general considerations (the principle of the ban, wide discretion, the biological valuation map, forest conservation), which can be applied to any application. Article 90bis requires a concrete assessment of all relevant elements of the application. The reasoning did not meet the concrete elements in the advice (limited area of 400 m², 300 m distance from a nature area, location outside vulnerable, VEN and special protection zones) and the claim that the file lacked data for an ecological assessment was not substantiated. The refusal of 29 September 2023 for a plot in Tessenderlo was annulled by judgment of 12 February 2026.",
+   "nl": [
+    "Raad van State: weigering van ontheffing van ontbossingsverbod vernietigd wegens ontoereikende motivering ten opzichte van gunstig ANB-advies",
+    "De Raad van State vernietigt de weigering door het Agentschap voor Natuur en Bos van een individuele ontheffing van het ontbossingsverbod, omdat de beslissing onvoldoende motiveerde waarom werd afgeweken van het voorwaardelijk gunstig advies van het agentschap zelf. Algemene overwegingen over het principe van bosbehoud volstaan niet om aan de verstrengde motiveringsplicht te voldoen.",
+    "Het arrest betreft individuele ontheffingen van het ontbossingsverbod op grond van artikel 90bis, § 1, derde lid, van het Bosdecreet van 13 juni 1990, die enkel kunnen worden verleend na advies van het Agentschap voor Natuur en Bos (ANB), en de motiveringsplicht van de artikelen 2 en 3 van de motiveringswet van 29 juli 1991. De Raad bevestigt dat een verstrengde motiveringsplicht geldt wanneer de overheid afwijkt van adviezen die tijdens de procedure werden uitgebracht: precieze, juiste en pertinente motieven moeten aantonen waarom het advies niet wordt gevolgd, zonder dat een punt-voor-punt-weerlegging nodig is. De beslissing vermeldde enkel dat advies was gegeven en steunde op algemene overwegingen (het principiële verbod, de ruime discretionaire bevoegdheid, de biologische waarderingskaart, het bosbehoud), die op elke aanvraag toepasbaar zijn. Artikel 90bis vereist een concrete beoordeling van alle relevante elementen van de aanvraag. De motivering beantwoordde niet aan de concrete elementen uit het advies (beperkte oppervlakte van 400 m², 300 m afstand tot een natuurgebied, ligging buiten kwetsbare gebieden, VEN en speciale beschermingszones) en de niet-onderbouwde stelling dat het dossier onvoldoende gegevens bevatte voor een ecologische afweging volstond niet. De weigering van 29 september 2023 voor een perceel te Tessenderlo werd bij arrest van 12 februari 2026 vernietigd."
+   ],
+   "fr": [
+    "Conseil d'État : annulation du refus de dérogation à l'interdiction de défrichement, motivation insuffisante face à l'avis favorable de l'ANB",
+    "Le Conseil d'État annule le refus, par l'Agence de la Nature et des Forêts, d'une dérogation individuelle à l'interdiction de défrichement, car la décision n'expliquait pas suffisamment pourquoi elle s'écartait de l'avis favorable sous conditions de l'agence elle-même. Des considérations générales sur le principe de conservation des forêts ne satisfont pas à l'obligation de motivation renforcée.",
+    "L'arrêt porte sur les dérogations individuelles à l'interdiction de défrichement fondées sur l'article 90bis, § 1er, alinéa 3, du décret forestier flamand (Bosdecreet) du 13 juin 1990, qui ne peuvent être accordées qu'après avis de l'Agence de la Nature et des Forêts (ANB), ainsi que sur l'obligation de motivation des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs. Le Conseil confirme qu'une obligation de motivation renforcée s'applique lorsque l'autorité s'écarte d'avis rendus au cours de la procédure : des motifs précis, exacts et pertinents doivent montrer pourquoi l'avis n'est pas suivi, sans réfutation point par point. La décision se bornait à mentionner qu'un avis avait été rendu et s'appuyait sur des considérations générales (le principe de l'interdiction, le large pouvoir discrétionnaire, la carte d'évaluation biologique, la conservation des forêts), applicables à toute demande. L'article 90bis exige une appréciation concrète de tous les éléments pertinents de la demande. La motivation ne rencontrait pas les éléments concrets de l'avis (superficie limitée de 400 m², distance de 300 m d'une zone naturelle, situation hors zones vulnérables, VEN et zones de protection spéciale) et l'affirmation non étayée selon laquelle le dossier manquait de données pour une évaluation écologique ne suffisait pas. Le refus du 29 septembre 2023 concernant une parcelle à Tessenderlo a été annulé par arrêt du 12 février 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 265.727 van 12 februari 2026: artikel 90bis, § 1, derde lid, Bosdecreet van 13 juni 1990; artikelen 2 en 3 motiveringswet van 29 juli 1991",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265727. 1. Het beroep, ingesteld op 30 november 2023, strek t tot de nietigverklaring van de beslissing van het A",
+     "https://www.raadvst-consetat.be/arresten/265727"
+    ]
+   ],
+   "inbox": [
+    "rvs:265727"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265726",
+   "d": "2026-02-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State upholds ruling disapplying Vlarem II art. 5.32.10.1 §3 noise exemption for motocross circuits",
+   "a": "The Council of State dismissed the Flemish Region's cassation appeal and confirmed that the noise exemption for motor-vehicle circuits in Vlarem II art. 5.32.10.1, §3 is disapplied because it breaches the standstill principle. The general noise standards of chapter 4.5 therefore apply to these circuits.",
+   "b": "The ruling concerns operators and permit authorities for circuits for motor vehicles or vessels with combustion engines (subrubric 32.9 of the Vlarem II classification list), here a motocross circuit in Lille. The Council of State, acting as cassation court, confirms that art. 5.32.10.1, §3 of Vlarem II, inserted by the Flemish Government decree of 19 January 1999 and in force since 1 May 1999, is disapplied under art. 159 of the Constitution. That provision removed the chapter 4.5 noise standards for such circuits and so lowered the level of protection, contrary to the standstill principle of art. 1.2.1, §2 DABM. The unlawfulness lies in the absence of a verifiable standstill assessment by the Flemish Government before adopting the 1999 decree, a defect that cannot be cured when an individual permit application is assessed. The Council also holds that the Council for Permit Disputes may substitute its judgment for the new decision (art. 37, §2 DBRC) when the permit authority has a bound competence. Here that was so because the circuit was found not to meet the chapter 4.5 standards and the Region had not disputed this finding or argued that amendments or special conditions could remedy it. The second ground of appeal, directed at a surplus ground for annulment, is inadmissible. The appeal is dismissed and the Flemish Region bears the costs. The ruling is dated 12 February 2026.",
+   "nl": [
+    "Raad van State bevestigt buiten toepassing laten van geluidsuitzondering voor motorcrossomlopen in Vlarem II (art. 5.32.10.1, §3)",
+    "De Raad van State verwerpt het cassatieberoep van het Vlaamse Gewest en bevestigt dat de geluidsuitzondering voor omlopen voor motorvoertuigen in artikel 5.32.10.1, §3 van Vlarem II buiten toepassing blijft wegens strijdigheid met het standstill-beginsel. De algemene geluidsnormen van hoofdstuk 4.5 zijn dus van toepassing op deze omlopen.",
+    "Het arrest betreft exploitanten en vergunningverlenende overheden van omlopen voor motorvoertuigen of motorvaartuigen met verbrandingsmotor (subrubriek 32.9 van de indelingslijst bij Vlarem II), hier een motocrossterrein te Lille. De Raad van State, als cassatierechter, bevestigt dat artikel 5.32.10.1, §3 van Vlarem II, ingevoegd bij het besluit van de Vlaamse regering van 19 januari 1999 en in werking sinds 1 mei 1999, met toepassing van artikel 159 van de Grondwet buiten toepassing wordt gelaten. Die bepaling maakte de geluidsnormen van hoofdstuk 4.5 niet langer van toepassing op dergelijke omlopen en verlaagde zo het beschermingsniveau, in strijd met het standstill-beginsel van artikel 1.2.1, §2 DABM. De onwettigheid ligt in het ontbreken van een controleerbare standstill-toetsing door de Vlaamse regering vóór de aanname van het besluit van 1999, een gebrek dat niet kan worden hersteld bij de beoordeling van een vergunningsaanvraag. De Raad oordeelt ook dat de Raad voor Vergunningsbetwistingen zijn arrest in de plaats van de nieuwe beslissing mag stellen (artikel 37, §2 DBRC) wanneer het bestuur een gebonden bevoegdheid heeft. Dat was hier zo omdat de omloop niet aan de normen van hoofdstuk 4.5 voldeed en het Gewest die vaststelling niet betwistte, noch aanvoerde dat wijzigingen of bijzondere voorwaarden dit konden verhelpen. Het tweede middel, gericht tegen een overtollige vernietigingsgrond, is onontvankelijk. Het cassatieberoep wordt verworpen en het Vlaamse Gewest draagt de kosten. Het arrest dateert van 12 februari 2026."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme l'écartement de l'exception sonore pour les circuits motocross de Vlarem II (art. 5.32.10.1, §3)",
+    "Le Conseil d'État rejette le pourvoi en cassation de la Région flamande et confirme que l'exception relative au bruit pour les circuits de véhicules à moteur de l'article 5.32.10.1, §3 du Vlarem II reste écartée en raison de sa contrariété au principe de standstill. Les normes de bruit générales du chapitre 4.5 s'appliquent donc à ces circuits.",
+    "L'arrêt concerne les exploitants et les autorités délivrant les permis pour les circuits destinés à des véhicules ou bateaux à moteur à combustion (sous-rubrique 32.9 de la liste de classification du Vlarem II), ici un terrain de motocross à Lille. Le Conseil d'État, statuant en cassation, confirme que l'article 5.32.10.1, §3 du Vlarem II, inséré par l'arrêté du Gouvernement flamand du 19 janvier 1999 et en vigueur depuis le 1er mai 1999, est écarté en application de l'article 159 de la Constitution. Cette disposition rendait les normes de bruit du chapitre 4.5 inapplicables à ces circuits et abaissait ainsi le niveau de protection, en violation du principe de standstill de l'article 1.2.1, §2 du DABM. L'illégalité tient à l'absence d'examen vérifiable du standstill par le Gouvernement flamand avant l'adoption de l'arrêté de 1999, vice qui ne peut être corrigé lors de l'examen d'une demande de permis. Le Conseil juge aussi que le Conseil pour les contestations des permis peut substituer son arrêt à la nouvelle décision (article 37, §2 DBRC) lorsque l'administration dispose d'une compétence liée. C'était le cas ici, car le circuit ne respectait pas les normes du chapitre 4.5 et la Région n'a pas contesté ce constat ni soutenu que des modifications ou des conditions particulières pouvaient y remédier. Le second moyen, dirigé contre un motif d'annulation surabondant, est irrecevable. Le pourvoi est rejeté et la Région flamande supporte les dépens. L'arrêt date du 12 février 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 265.726 van 12 februari 2026: art. 5.32.10.1, §3 Vlarem II, art. 1.2.1, §2 DABM, art. 37, §2 DBRC",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265726. 1. Het cassatieberoep, ingesteld op 16 februari 202 4, strekt tot de nietigverklaring van arrest nr. RvVb",
+     "https://www.raadvst-consetat.be/arresten/265726"
+    ]
+   ],
+   "inbox": [
+    "rvs:265726"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265725",
+   "d": "2026-02-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State upholds RvVb substitution on bound competence; recusal grounds barred in cassation",
+   "a": "The Council of State dismissed a cassation appeal against a judgment in which the Flemish Permit Disputes Council (RvVb) itself refused an environmental permit for a motocross track because the noise standards were not met. It confirmed the limits of the RvVb's power to substitute its judgment and held that recusal grounds cannot be raised for the first time in cassation.",
+   "b": "The ruling concerns permit holders, authorities and parties in proceedings before the RvVb. The Council of State, as cassation court, checks whether the RvVb has misconstrued the notions of 'bound competence' and 'de facto or subsequently bound competence' in article 37, §2 of the Decree on Flemish administrative courts. These notions allow the RvVb to substitute its judgment for the new decision, and they must not undermine the separation of powers. The RvVb had found that the circuit did not meet the noise standards of chapter 4.5 of Vlarem II and concluded that the minister had no choice but to refuse the permit. The applicant had not disputed that finding before the RvVb, nor argued that an amended application or special permit conditions (articles 64, 72 and 73, §1 of the Environmental Permit Decree) could achieve compliance. In those circumstances the Council of State found no breach of article 37, §2, of the separation of powers or of those provisions. The RvVb had set aside article 5.32.10.1, §3 of Vlarem II on standstill grounds, and the cassation plea did not challenge that. On the second plea, the Council of State held that grounds for recusal based on a judge's personal situation can in principle only be raised in a recusal procedure. They cannot be raised for the first time in cassation by a party that knew, or could have known, the relevant facts before the hearing. The plea was declared inadmissible, the appeal was dismissed and the costs were charged to the applicant. The ruling was delivered on 12 February 2026.",
+   "nl": [
+    "Raad van State bevestigt indeplaatsstelling door RvVb bij gebonden bevoegdheid; wraking niet in cassatie",
+    "De Raad van State verwerpt het cassatieberoep tegen een arrest waarin de Raad voor Vergunningsbetwistingen (RvVb) zelf een omgevingsvergunning voor een motocrossterrein weigerde wegens niet-naleving van de geluidsnormen. Hij bevestigt de grenzen van de indeplaatsstelling en oordeelt dat wrakingsgronden niet voor het eerst in cassatie kunnen worden aangevoerd.",
+    "Het arrest is van belang voor vergunninghouders, overheden en partijen in procedures voor de RvVb. De Raad van State controleert als cassatierechter of de RvVb de begrippen 'gebonden bevoegdheid' en 'feitelijke of naderhand gebonden bevoegdheid' in artikel 37, § 2 van het decreet over de Vlaamse bestuursrechtscolleges niet heeft miskend. Die begrippen laten de RvVb toe zijn arrest in de plaats te stellen van de nieuw te nemen beslissing, en ze mogen geen afbreuk doen aan de scheiding der machten. De RvVb had vastgesteld dat de omloop niet voldeed aan de geluidsnormen van hoofdstuk 4.5 van Vlarem II en leidde daaruit af dat de minister de vergunning verplicht moest weigeren. De aanvrager had die vaststelling voor de RvVb niet betwist en niet aangevoerd dat een gewijzigde aanvraag of bijzondere vergunningsvoorwaarden (artikelen 64, 72 en 73, § 1 van het omgevingsvergunningsdecreet) tot naleving konden leiden. In die omstandigheden stelde de Raad van State geen schending vast van artikel 37, § 2, van de scheiding der machten of van die bepalingen. De RvVb had artikel 5.32.10.1, § 3 van Vlarem II wegens strijd met het standstill-beginsel buiten toepassing gelaten, en het cassatiemiddel betwistte dat niet. Wat het tweede middel betreft: wrakingsgronden die steunen op de persoonlijke toestand van een bestuursrechter kunnen in beginsel enkel in een wrakingsprocedure worden opgeworpen. Een partij die de feiten vóór de zitting kende of kon kennen, kan ze niet voor het eerst in cassatie aanvoeren. Het middel werd onontvankelijk verklaard, het cassatieberoep werd verworpen en de kosten komen ten laste van de verzoeker. Het arrest werd uitgesproken op 12 februari 2026."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme la substitution par le RvVb en compétence liée; pas de récusation en cassation",
+    "Le Conseil d'État rejette le pourvoi en cassation contre un arrêt par lequel le Conseil pour les contestations des autorisations (RvVb) a lui-même refusé un permis d'environnement pour un terrain de motocross, faute de respect des normes de bruit. Il confirme les limites de la substitution et juge que les motifs de récusation ne peuvent être invoqués pour la première fois en cassation.",
+    "L'arrêt intéresse les titulaires de permis, les autorités et les parties aux procédures devant le RvVb. Le Conseil d'État, statuant en cassation, vérifie si le RvVb a méconnu les notions de « compétence liée » et de « compétence de fait ou ultérieurement liée » de l'article 37, § 2 du décret relatif aux juridictions administratives flamandes. Ces notions permettent au RvVb de substituer son arrêt à la décision à reprendre, sans porter atteinte à la séparation des pouvoirs. Le RvVb avait constaté que le circuit ne respectait pas les normes de bruit du chapitre 4.5 du Vlarem II et en avait déduit que le ministre devait refuser le permis. Le demandeur n'avait pas contesté ce constat devant le RvVb et n'avait pas soutenu qu'une demande modifiée ou des conditions particulières (articles 64, 72 et 73, § 1er du décret sur le permis d'environnement) permettraient le respect des normes. Dans ces circonstances, le Conseil d'État ne relève aucune violation de l'article 37, § 2, de la séparation des pouvoirs ni de ces dispositions. Le RvVb avait écarté l'article 5.32.10.1, § 3 du Vlarem II pour violation du principe de standstill, ce que le moyen de cassation ne contestait pas. Quant au second moyen, les motifs de récusation tenant à la situation personnelle d'un juge administratif ne peuvent en principe être soulevés que dans une procédure de récusation. Une partie qui connaissait ou pouvait connaître les faits avant l'audience ne peut les invoquer pour la première fois en cassation. Le moyen est déclaré irrecevable, le pourvoi est rejeté et les dépens sont mis à charge du demandeur. L'arrêt a été prononcé le 12 février 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 265.725 van 12 februari 2026 (cassatie) – artikel 37, § 2 en artikel 13 DBRC; artikelen 64, 72 en 73, § 1 omgevingsvergunningsdecreet; hoofdstuk 4.5 Vlarem II",
+   "dates": {
+    "adopted": "2026-02-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265725. 1. Het cassatieberoep, ingesteld op 9 februari 2024 , strekt tot de nietigverklaring van arrest nr. RvVb-",
+     "https://www.raadvst-consetat.be/arresten/265725"
+    ]
+   ],
+   "inbox": [
+    "rvs:265725"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-52026pc0066",
+   "d": "2026-02-12",
+   "j": [
+    "EU"
+   ],
+   "t": "prop",
+   "s": "Proposal",
+   "k": [
+    "energy-climate",
+    "permitting"
+   ],
+   "h": "Commission proposes EU support for ICAO Annex 16 amendments on aircraft noise, nvPM and CO2 standards",
+   "a": "The Commission proposes a Council Decision setting the EU position for the ICAO Council session of 23 March–2 April 2026. The EU would support amendments 3, 12 and 15 to Annex 16 (noise, engine emissions, aeroplane CO2) and notify compliance rather than disapproval once they are adopted.",
+   "b": "The proposal addresses the Member States, which act jointly for the EU in ICAO. It affects aircraft and engine manufacturers and certification authorities indirectly, through Regulation (EU) 2018/1139 and Regulation (EU) No 748/2012, which refer to Annex 16, Volumes I-III. The ICAO amendments cover new landing and take-off noise Standards for supersonic aeroplanes (Chapter 15) and subsonic aeroplanes (Chapter 16). They also cover non-volatile particulate matter (nvPM) measurement and reporting for engines, including a new certification point at 57.5 % of rated thrust, and a new CO2 Standard for subsonic aeroplanes. The CO2 limits are 10 % stricter for large and 3 % stricter for small aeroplanes, applying from 31 December 2031 to new types and from 1 January 2035 to in-production types. The Member States on the ICAO Council would support the amendments in full. If the Council adopts them without substantial change, all Member States would register no disapproval and notify compliance in reply to the ICAO State Letters. Where EU law would deviate from a Standard after its application date, the difference would be notified to ICAO under Article 38 of the Chicago Convention. For this, the Commission would submit a preparatory document to the Council at least two months before the ICAO deadline. All the ICAO amendments are envisaged to apply from 1 January 2027. The proposal rests on Article 100(2) TFEU in conjunction with Article 218(9) TFEU and does not state its own entry into force.",
+   "nl": [
+    "Commissie stelt EU-steun voor aan ICAO-amendementen op bijlage 16 over geluid, nvPM en CO2-normen voor vliegtuigen",
+    "De Commissie stelt een besluit van de Raad voor over het EU-standpunt tijdens de zitting van de ICAO-Raad van 23 maart tot 2 april 2026. De EU zou amendementen 3, 12 en 15 op bijlage 16 (geluid, motoremissies, CO2 van vliegtuigen) steunen en na goedkeuring naleving melden in plaats van afkeuring.",
+    "Het voorstel richt zich tot de lidstaten, die gezamenlijk namens de EU in de ICAO optreden. Het raakt vliegtuig- en motorfabrikanten en certificeringsautoriteiten indirect, via Verordening (EU) 2018/1139 en Verordening (EU) nr. 748/2012, die naar bijlage 16, delen I-III verwijzen. De ICAO-amendementen omvatten nieuwe geluidsnormen voor landing en opstijgen (LTO) voor supersone vliegtuigen (hoofdstuk 15) en subsone vliegtuigen (hoofdstuk 16). Ze omvatten ook de meting en rapportering van niet-vluchtige fijnstofdeeltjes (nvPM) voor motoren, met een nieuw certificeringspunt bij 57,5 % van het nominale vermogen, en een nieuwe CO2-norm voor subsone vliegtuigen. De CO2-limieten liggen 10 % strenger voor grote en 3 % strenger voor kleine vliegtuigen, en gelden vanaf 31 december 2031 voor nieuwe types en vanaf 1 januari 2035 voor types in productie. De lidstaten in de ICAO-Raad zouden de amendementen volledig steunen. Keurt de Raad ze goed zonder substantiële wijziging, dan zouden alle lidstaten geen afkeuring laten registreren en de naleving melden in antwoord op de ICAO State Letters. Wijkt het EU-recht na de toepassingsdatum van een norm ervan af, dan wordt het verschil gemeld aan de ICAO overeenkomstig artikel 38 van het Verdrag van Chicago. Daarvoor legt de Commissie ten minste twee maanden vóór de ICAO-termijn een voorbereidend document voor aan de Raad. Alle ICAO-amendementen zouden van toepassing worden vanaf 1 januari 2027. Het voorstel steunt op artikel 100, lid 2, VWEU in samenhang met artikel 218, lid 9, VWEU en vermeldt zelf geen datum van inwerkingtreding."
+   ],
+   "fr": [
+    "La Commission propose le soutien de l'UE aux amendements OACI à l'annexe 16 sur le bruit, les nvPM et le CO2 des aéronefs",
+    "La Commission propose une décision du Conseil fixant la position de l'UE pour la session du Conseil de l'OACI du 23 mars au 2 avril 2026. L'UE soutiendrait les amendements 3, 12 et 15 à l'annexe 16 (bruit, émissions des moteurs, CO2 des avions) et, après leur adoption, notifierait sa conformité plutôt qu'un désaccord.",
+    "La proposition s'adresse aux États membres, qui agissent conjointement au nom de l'UE au sein de l'OACI. Elle touche indirectement les constructeurs d'aéronefs et de moteurs ainsi que les autorités de certification, par le règlement (UE) 2018/1139 et le règlement (UE) n° 748/2012, qui renvoient à l'annexe 16, volumes I à III. Les amendements de l'OACI comprennent de nouvelles normes de bruit à l'atterrissage et au décollage (LTO) pour les avions supersoniques (chapitre 15) et subsoniques (chapitre 16). Ils comprennent aussi la mesure et la déclaration des particules non volatiles (nvPM) pour les moteurs, avec un nouveau point de certification à 57,5 % de la poussée nominale, ainsi qu'une nouvelle norme de CO2 pour les avions subsoniques. Les limites de CO2 sont plus strictes de 10 % pour les grands avions et de 3 % pour les petits, applicables à partir du 31 décembre 2031 aux nouveaux types et à partir du 1er janvier 2035 aux types en production. Les États membres siégeant au Conseil de l'OACI soutiendraient les amendements dans leur intégralité. Si le Conseil les adopte sans modification substantielle, tous les États membres n'enregistreraient aucun désaccord et notifieraient leur conformité en réponse aux lettres aux États de l'OACI. Si le droit de l'UE s'écarte d'une norme après sa date d'application, la différence serait notifiée à l'OACI conformément à l'article 38 de la convention de Chicago. À cette fin, la Commission soumettrait au Conseil un document préparatoire au moins deux mois avant l'échéance fixée par l'OACI. Tous les amendements de l'OACI devraient s'appliquer à partir du 1er janvier 2027. La proposition repose sur l'article 100, paragraphe 2, du TFUE, combiné à l'article 218, paragraphe 9, du TFUE, et n'indique pas elle-même de date d'entrée en vigueur."
+   ],
+   "scope": "Proposal for a Council Decision (COM(2026) 66 final) on the EU position on ICAO Annex 16, Volumes I-III (amendments 3, 12 and 15) to the Chicago Convention",
+   "dates": {
+    "published": "2026-02-12"
+   },
+   "u": [
+    [
+     "Proposal for a COUNCIL DECISION on the position to be taken on behalf of the European Union in the 237th session of the Council of the Inter",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0066"
+    ]
+   ],
+   "inbox": [
+    "eu:52026PC0066"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265713",
+   "d": "2026-02-11",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: first-instance refusal confirmed by a lapsed Walloon appeal is judged as at its adoption",
+   "a": "The Council of State rejected an action to annul a refusal of a single permit for a three-turbine wind farm. It held that when the Walloon Government misses its appeal deadline, the first-instance decision is confirmed by operation of the decree and is the only act open to annulment.",
+   "b": "The ruling concerns applicants for a single permit in Wallonia and the authorities deciding on them, under Article 95 of the Decree of 11 March 1999 on the environmental permit. The administrative appeal to the Government is an appeal on the merits with devolutive effect. If the Government does not send its decision within the deadline of Article 95, §7, Article 95, §8, 1° confirms the first-instance decision. The Council held that this confirmation follows directly from the decree and is not an implicit decision open to challenge. Only the first-instance decision can therefore be annulled. Its legality is assessed as at the day it was adopted, on the basis of the first-instance investigation. Later material, such as clarifications, supplementary assessments or compensatory measures submitted on appeal, is not taken into account. The Council also applied its marginal review for manifest error of assessment. It found no such error in a refusal based on negative impacts on the biological environment, relying on the environmental impact study and the unfavourable opinions of the nature and forests department and the royal commission for monuments, sites and excavations. An opinion given late, and so deemed favourable, may still be referred to by the authority. The Council does not substitute its view for that of the specialised body. The action was rejected for a refusal decided on 29 March 2024, with the costs and a procedural indemnity of EUR 770 charged to the applicant.",
+   "nl": [
+    "Raad van State: eerste-aanlegbeslissing bevestigd door verstreken Waals beroep wordt beoordeeld op datum van goedkeuring",
+    "De Raad van State verwierp een beroep tot nietigverklaring van een weigering van een unieke vergunning voor een windpark van drie turbines. Wanneer de Waalse Regering de beroepstermijn overschrijdt, wordt de beslissing in eerste aanleg van rechtswege bevestigd en alleen die kan worden vernietigd.",
+    "Het arrest betreft aanvragers van een unieke vergunning in Wallonië en de overheden die erover beslissen, op grond van artikel 95 van het decreet van 11 maart 1999 betreffende de milieuvergunning. Het administratief beroep bij de Regering is een beroep tot hervorming met devolutieve werking. Verstuurt de Regering haar beslissing niet binnen de termijn van artikel 95, §7, dan bevestigt artikel 95, §8, 1° de beslissing in eerste aanleg. Volgens de Raad vloeit die bevestiging rechtstreeks voort uit het decreet en is zij geen impliciete beslissing waartegen beroep openstaat. Alleen de beslissing in eerste aanleg kan dus worden vernietigd. De wettigheid ervan wordt beoordeeld op de dag van haar goedkeuring, op basis van het onderzoek in eerste aanleg. Latere elementen, zoals verduidelijkingen, aanvullende beoordelingen of compenserende maatregelen die in beroep zijn voorgelegd, worden niet in aanmerking genomen. De Raad paste ook zijn marginale toetsing van de kennelijke appreciatiefout toe. Hij zag geen zo'n fout in een weigering die steunt op negatieve effecten op het biologische milieu, op grond van de milieueffectenstudie en de ongunstige adviezen van het Departement Natuur en Bossen en de Koninklijke Commissie voor Monumenten, Landschappen en Opgravingen. Een te laat uitgebracht advies, dat dan als gunstig geldt, mag de overheid nog steeds aanhalen. De Raad stelt zijn oordeel niet in de plaats van dat van het gespecialiseerde orgaan. Het beroep tegen de weigering van 29 maart 2024 werd verworpen, met de kosten en een rechtsplegingsvergoeding van 770 euro ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Conseil d'État : la décision de première instance confirmée faute de décision sur recours s'apprécie à la date de son adoption",
+    "Le Conseil d'État a rejeté le recours en annulation d'un refus de permis unique pour un parc de trois éoliennes. Lorsque le Gouvernement wallon dépasse le délai de recours, la décision de première instance est confirmée par l'effet du décret et est seule susceptible d'annulation.",
+    "L'arrêt concerne les demandeurs de permis unique en Wallonie et les autorités qui statuent, sur la base de l'article 95 du décret du 11 mars 1999 relatif au permis d'environnement. Le recours administratif auprès du Gouvernement est un recours en réformation, doté d'un effet dévolutif. Si le Gouvernement n'envoie pas sa décision dans le délai de l'article 95, § 7, l'article 95, § 8, 1° confirme la décision de première instance. Selon le Conseil, cette confirmation découle directement du décret et ne constitue pas une décision implicite susceptible de recours. Seule la décision de première instance peut donc être annulée. Sa légalité s'apprécie au jour de son adoption, sur la base de l'instruction menée en première instance. Les éléments postérieurs, tels que les précisions, compléments d'évaluation ou mesures compensatoires produits en recours, ne sont pas pris en compte. Le Conseil a aussi appliqué son contrôle marginal de l'erreur manifeste d'appréciation. Il n'a vu aucune erreur de ce type dans un refus fondé sur l'impact négatif sur le milieu biologique, au vu de l'étude d'incidences sur l'environnement et des avis défavorables du département de la nature et des forêts et de la commission royale des monuments, sites et fouilles. Un avis rendu hors délai, et réputé de ce fait favorable, peut encore être cité par l'autorité. Le Conseil ne substitue pas son appréciation à celle de l'instance spécialisée. Le recours dirigé contre le refus du 29 mars 2024 a été rejeté, les dépens et une indemnité de procédure de 770 euros étant mis à la charge de la partie requérante."
+   ],
+   "scope": "Décret du 11 mars 1999 relatif au permis d'environnement, art. 95, §§ 1er, 7 et 8 (recours au Gouvernement wallon, confirmation de la décision de première instance); loi du 29 juillet 1991, art. 2 et 3 (motivation formelle)",
+   "dates": {
+    "adopted": "2026-02-11"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265713. 1. Par une requête introduite le 5 mars 2025, la partie requérante demande l’annulation de la décision du",
+     "https://www.raadvst-consetat.be/arresten/265713"
+    ]
+   ],
+   "inbox": [
+    "rvs:265713"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0405",
+   "d": "2026-02-11",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products",
+    "environmental-safety"
+   ],
+   "h": "New EU Regulation on detergents and surfactants replaces Regulation (EC) No 648/2004",
+   "a": "Regulation (EU) 2026/405 sets new rules for detergents and surfactants: biodegradability, phosphorus limits, a ban on animal testing, digital product passports and labelling. It repeals Regulation (EC) No 648/2004 and extends biodegradability requirements to films and other organic ingredients.",
+   "b": "The Regulation applies to manufacturers, authorised representatives, importers and distributors of detergents and surfactants for detergents, including operators supplying products through refill stations. It does not affect Regulations (EC) No 1907/2006, (EC) No 1272/2008 and (EU) No 528/2012. Surfactants must meet the biodegradability requirements of Annex I, Part A, except surfactants that are approved or under-review active substances used as disinfectants under the Biocidal Products Regulation. Films and polymers within films must comply with Part B by 23 March 2032. Other organic ingredients present at 10 % w/w or more of the total mass excluding water must comply with Part C by 23 March 2034, unless Annex I, Part D grants a derogation. Detergents with micro-organisms must meet Annex II, and the listed detergents must respect the phosphorus limits of Annex III. Compliance must be shown with validated non-animal methods, and placing on the market is prohibited where the final formulation or ingredients were animal-tested to meet the Regulation. The Commission may grant exceptional derogations, and data acquired before 22 March 2026 may still be used. Manufacturers must draw up technical documentation, carry out the conformity assessment, create a digital product passport, enter it in the registry and keep the file for 10 years. Manufacturers outside the Union must appoint an authorised representative. Detergents and end-user surfactants that are mixtures not covered by the poison-centre notification under Article 45 CLP require an ingredients data sheet submitted to the appointed bodies. Labels, either physical or digital and duplicated physically, must carry the information in Annex V, including dosage information for consumer products, and refill operators must apply risk-mitigation measures. The Regulation was signed on 11 February 2026 and published on 2 March 2026.",
+   "nl": [
+    "Nieuwe EU-verordening over detergenten en oppervlakteactieve stoffen vervangt Verordening (EG) nr. 648/2004",
+    "Verordening (EU) 2026/405 voorziet in nieuwe regels voor detergenten en oppervlakteactieve stoffen: biologische afbreekbaarheid, fosforgrenzen, een verbod op dierproeven, digitale productpaspoorten en etikettering. Ze trekt Verordening (EG) nr. 648/2004 in en breidt de eisen inzake biologische afbreekbaarheid uit tot films en andere organische ingrediënten.",
+    "De verordening is van toepassing op fabrikanten, gemachtigden, importeurs en distributeurs van detergenten en oppervlakteactieve stoffen voor detergenten, ook wanneer producten via navulstations worden geleverd. Ze doet geen afbreuk aan de Verordeningen (EG) nr. 1907/2006, (EG) nr. 1272/2008 en (EU) nr. 528/2012. Oppervlakteactieve stoffen moeten voldoen aan de eisen inzake biologische afbreekbaarheid van bijlage I, deel A, behalve oppervlakteactieve stoffen die als desinfectiemiddel gebruikte, goedgekeurde of in beoordeling zijnde werkzame stoffen zijn in de zin van de Biocidenverordening. Films en polymeren in films moeten uiterlijk op 23 maart 2032 voldoen aan deel B. Andere organische ingrediënten die ten minste 10 % w/w van de totale massa exclusief water uitmaken, moeten uiterlijk op 23 maart 2034 voldoen aan deel C, tenzij bijlage I, deel D een afwijking toekent. Detergenten met micro-organismen moeten voldoen aan bijlage II, en de vermelde detergenten aan de fosforgrenzen van bijlage III. De conformiteit moet worden aangetoond met gevalideerde methoden zonder dierproeven, en het in de handel brengen is verboden wanneer de eindformulering of de ingrediënten voor het voldoen aan de verordening aan dierproeven werden onderworpen. De Commissie kan in uitzonderlijke gevallen afwijkingen toestaan, en gegevens die vóór 22 maart 2026 zijn verkregen, mogen nog worden gebruikt. Fabrikanten moeten technische documentatie opstellen, de conformiteitsbeoordeling uitvoeren, een digitaal productpaspoort aanmaken, het in het register opnemen en het dossier 10 jaar bewaren. Fabrikanten buiten de Unie moeten een gemachtigde aanwijzen. Voor detergenten en eindgebruikersoppervlakteactieve stoffen die mengsels zijn en niet onder de melding aan antigifcentra van artikel 45 van de CLP-verordening vallen, moet een ingrediëntengegevensblad worden ingediend bij de aangewezen instanties. Etiketten, fysiek of digitaal en dan ook fysiek herhaald, moeten de informatie van bijlage V bevatten, met dosisinformatie voor consumentenproducten, en exploitanten van navulpunten moeten risicobeperkende maatregelen toepassen. De verordening werd ondertekend op 11 februari 2026 en bekendgemaakt op 2 maart 2026."
+   ],
+   "fr": [
+    "Nouveau règlement européen sur les détergents et agents de surface, remplaçant le règlement (CE) n° 648/2004",
+    "Le règlement (UE) 2026/405 fixe de nouvelles règles pour les détergents et agents de surface : biodégradabilité, limites de phosphore, interdiction des essais sur animaux, passeports numériques de produit et étiquetage. Il abroge le règlement (CE) n° 648/2004 et étend les exigences de biodégradabilité aux films et à d'autres ingrédients organiques.",
+    "Le règlement s'applique aux fabricants, mandataires, importateurs et distributeurs de détergents et d'agents de surface pour détergents, y compris lorsque les produits sont fournis par des stations de recharge. Il n'affecte pas les règlements (CE) n° 1907/2006, (CE) n° 1272/2008 et (UE) n° 528/2012. Les agents de surface doivent respecter les exigences de biodégradabilité de l'annexe I, partie A, sauf ceux qui sont des substances actives approuvées ou en cours d'examen utilisées comme désinfectants au titre du règlement sur les produits biocides. Les films et les polymères contenus dans les films doivent respecter la partie B au plus tard le 23 mars 2032. Les autres substances organiques présentes à raison d'au moins 10 % p/p de la masse totale hors eau doivent respecter la partie C au plus tard le 23 mars 2034, sauf dérogation prévue à l'annexe I, partie D. Les détergents contenant des micro-organismes doivent satisfaire à l'annexe II, et les détergents énumérés aux limites de phosphore de l'annexe III. La conformité doit être établie par des méthodes validées sans essais sur animaux, et la mise sur le marché est interdite lorsque la formulation finale ou les ingrédients ont fait l'objet d'essais sur animaux pour satisfaire au règlement. La Commission peut accorder des dérogations dans des circonstances exceptionnelles, et les données obtenues avant le 22 mars 2026 restent utilisables. Les fabricants doivent établir la documentation technique, réaliser l'évaluation de la conformité, créer un passeport numérique de produit, l'inscrire au registre et conserver le dossier 10 ans. Les fabricants établis hors de l'Union doivent désigner un mandataire. Pour les détergents et agents de surface destinés aux utilisateurs finals qui sont des mélanges non soumis à la notification aux centres antipoison de l'article 45 du règlement CLP, une fiche de données sur les ingrédients doit être transmise aux organismes désignés. Les étiquettes, physiques ou numériques et alors dupliquées sur support physique, doivent comporter les informations de l'annexe V, dont les indications de dosage pour les produits de consommation, et les exploitants de stations de recharge doivent appliquer des mesures d'atténuation des risques. Le règlement a été signé le 11 février 2026 et publié le 2 mars 2026."
+   ],
+   "scope": "Regulation (EU) 2026/405 on detergents and surfactants: Articles 1 to 19 (product requirements, obligations of economic operators, labelling) and Annex VIII (correlation table with Regulation (EC) No 648/2004)",
+   "dates": {
+    "adopted": "2026-02-11",
+    "published": "2026-03-02"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/405 of the European Parliament and of the Council of 11 February 2026 on detergents and surfactants, and repealing Regu",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0405"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0405"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0286",
+   "d": "2026-02-10",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU exempts semiconductor-manufacturing chillers from F-gas ban on placing on the market, 2027–2029",
+   "a": "Regulation (EU) 2026/286 authorises, for 2027–2029, the placing on the market of two types of stationary chillers used to support semiconductor manufacturing, despite the F-gas prohibitions in Annex IV, points 7(b) and 7(d) of Regulation (EU) 2024/573. The chillers must be labelled under Article 12(2) of that Regulation.",
+   "b": "The exemption concerns the placing on the market of stationary chillers used to support semiconductor manufacturing, so it matters to manufacturers, importers and suppliers of such chillers and to semiconductor plant operators. Two categories are covered. The first is chillers with a cooling capacity of up to and including 12 kW that contain or rely on fluorinated greenhouse gases with a GWP of 150 or more. The second is chillers above 12 kW operating below -50 °C that contain or rely on F-gases with a GWP of 750 or more. Without the exemption, these would fall under the bans taking effect on 1 January 2027 in Annex IV, points 7(b) and 7(d) of Regulation (EU) 2024/573. The Commission granted the derogation after a request from the German authorities. It found that the conditions of Article 11(5), points (a) and (b), are met and that compliant chillers are not commercially available for all semiconductor applications. The derogation is conditional on the chillers being labelled in accordance with Article 12(2) of Regulation (EU) 2024/573. The Regulation enters into force on the twentieth day after its publication on 11 February 2026 and applies from 1 January 2027 to 31 December 2029.",
+   "nl": [
+    "EU stelt chillers voor halfgeleiderfabricage vrij van F-gasverbod op het in de handel brengen, 2027–2029",
+    "Uitvoeringsverordening (EU) 2026/286 staat voor 2027–2029 het in de handel brengen toe van twee soorten stationaire chillers voor de fabricage van halfgeleiders, in afwijking van de verboden in bijlage IV, punten 7(b) en 7(d) van Verordening (EU) 2024/573. De chillers moeten worden geëtiketteerd overeenkomstig artikel 12, lid 2, van die verordening.",
+    "De vrijstelling betreft het in de handel brengen van stationaire chillers die worden gebruikt ter ondersteuning van de fabricage van halfgeleiders; zij is dus van belang voor fabrikanten, importeurs en leveranciers van dergelijke chillers en voor exploitanten van halfgeleiderfabrieken. Twee categorieën vallen eronder. De eerste zijn chillers met een koelcapaciteit tot en met 12 kW die gefluoreerde broeikasgassen met een GWP van 150 of meer bevatten of daarop berusten. De tweede zijn chillers van meer dan 12 kW die onder -50 °C werken en gefluoreerde broeikasgassen met een GWP van 750 of meer bevatten of daarop berusten. Zonder de vrijstelling zouden zij vallen onder de verboden die op 1 januari 2027 ingaan krachtens bijlage IV, punten 7(b) en 7(d) van Verordening (EU) 2024/573. De Commissie verleende de afwijking na een verzoek van de Duitse autoriteiten. Zij oordeelde dat aan de voorwaarden van artikel 11, lid 5, punten a) en b), is voldaan en dat conforme chillers niet commercieel beschikbaar zijn voor alle toepassingen in de halfgeleiderindustrie. De afwijking geldt onder de voorwaarde dat de chillers worden geëtiketteerd overeenkomstig artikel 12, lid 2, van Verordening (EU) 2024/573. De verordening treedt in werking op de twintigste dag na de bekendmaking ervan op 11 februari 2026 en is van toepassing van 1 januari 2027 tot en met 31 december 2029."
+   ],
+   "fr": [
+    "L'UE exempte les refroidisseurs pour semi-conducteurs de l'interdiction de mise sur le marché des gaz fluorés, 2027–2029",
+    "Le règlement d'exécution (UE) 2026/286 autorise, pour 2027–2029, la mise sur le marché de deux types de refroidisseurs stationnaires utilisés dans l'industrie des semi-conducteurs, par dérogation aux interdictions de l'annexe IV, points 7 b) et 7 d), du règlement (UE) 2024/573. Les refroidisseurs doivent être étiquetés conformément à l'article 12, paragraphe 2, de ce règlement.",
+    "L'exemption concerne la mise sur le marché de refroidisseurs stationnaires utilisés pour soutenir la fabrication de semi-conducteurs ; elle intéresse donc les fabricants, importateurs et fournisseurs de ces équipements ainsi que les exploitants d'usines de semi-conducteurs. Deux catégories sont couvertes. La première comprend les refroidisseurs d'une capacité de refroidissement allant jusqu'à 12 kW inclus qui contiennent des gaz à effet de serre fluorés dont le PRG est de 150 ou plus, ou dont le fonctionnement en dépend. La seconde comprend les refroidisseurs de plus de 12 kW fonctionnant en dessous de -50 °C qui contiennent des gaz à effet de serre fluorés dont le PRG est de 750 ou plus, ou dont le fonctionnement en dépend. Sans l'exemption, ils seraient frappés par les interdictions applicables au 1er janvier 2027 en vertu de l'annexe IV, points 7 b) et 7 d), du règlement (UE) 2024/573. La Commission a accordé la dérogation à la suite d'une demande des autorités allemandes. Elle a considéré que les conditions de l'article 11, paragraphe 5, points a) et b), sont remplies et que des refroidisseurs conformes ne sont pas disponibles commercialement pour toutes les applications des semi-conducteurs. La dérogation est subordonnée à l'étiquetage des refroidisseurs conformément à l'article 12, paragraphe 2, du règlement (UE) 2024/573. Le règlement entre en vigueur le vingtième jour suivant sa publication, intervenue le 11 février 2026, et s'applique du 1er janvier 2027 au 31 décembre 2029."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/286 — derogation from Annex IV, points 7(b) and 7(d), of Regulation (EU) 2024/573 (Article 11(5)) for chillers used in semiconductor manufacturing",
+   "dates": {
+    "adopted": "2026-02-10",
+    "published": "2026-02-11",
+    "in_force": "2026-03-03"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/286 of 10 February 2026 authorising an exemption pursuant to Regulation (EU) 2024/573 of the Eu",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0286"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0286"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265689",
+   "d": "2026-02-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-safety"
+   ],
+   "h": "Council of State: GISER opinion required only for a concentrated runoff axis or runoff flood risk (CoDT)",
+   "a": "The Council of State dismissed an action against a Walloon urban planning permit and clarified when the GISER cell must be consulted under the CoDT. The opinion is mandatory only if works may affect a concentrated runoff axis or are exposed to runoff flood risk.",
+   "b": "The ruling concerns Walloon permit authorities, applicants and neighbours who challenge permits on runoff and flood grounds. Under Article R.IV.35-1 CoDT, the GISER cell must be consulted when the works may affect a concentrated runoff axis (a thalweg, valley or dry vale under Article R.IV.4-3, para. 1, 4°) or are exposed to runoff flood risk. A challenger must show clearly, from the petition stage, that the facts the authority relied on are wrong. Here, the nearest axis on the Lidaxes map was about 70 m from the project. The Lidaxes layer showing the 'possible variation of the route' only marks zones where an axis might lie and is not the map of axes, so a small uncertainty zone on the plot did not make the opinion mandatory. The Council also held that the administrative circular of 3 May 2018 on flood and runoff risks is not a rule of law whose breach can be invoked, unless it is shown to be regulatory. Where consultation is optional, the authority's choice not to seek it is reviewed only for manifest error. A municipal freeze on projects in runoff or flood zones may be departed from with adequate reasons, and the commune's reasoning was sufficient, so legitimate expectations were not breached. The action was dismissed by judgment of 9 February 2026, with procedural costs charged to the applicant.",
+   "nl": [
+    "Raad van State: GISER-advies enkel verplicht bij as van geconcentreerde afstroming of afstromingsrisico (CoDT)",
+    "De Raad van State verwierp een beroep tegen een Waalse stedenbouwkundige vergunning en verduidelijkte wanneer de GISER-cel moet worden geraadpleegd onder het CoDT. Het advies is enkel verplicht als de werken een as van geconcentreerde afstroming kunnen beïnvloeden of blootstaan aan een overstromingsrisico door afstroming.",
+    "Het arrest treft Waalse vergunningverlenende overheden, aanvragers en derden die een vergunning betwisten op grond van afstromings- en overstromingsrisico's. Krachtens artikel R.IV.35-1 CoDT moet de GISER-cel worden geraadpleegd wanneer de werken een as van geconcentreerde afstroming (thalweg, vallei of droog dal in de zin van artikel R.IV.4-3, eerste lid, 4°) kunnen beïnvloeden of blootstaan aan een overstromingsrisico door afstroming. Een verzoeker moet vanaf het verzoekschrift duidelijk aantonen dat de feiten waarop de overheid steunde onjuist zijn. Hier lag de dichtstbijzijnde as op de Lidaxes-kaart op ongeveer 70 m van het project. De Lidaxes-laag 'mogelijke variatie van het tracé' duidt enkel zones aan waar een as zou kunnen liggen en is niet de kaart van de assen. Een kleine onzekerheidszone op het perceel maakte het advies dus niet verplicht. De Raad oordeelde ook dat de administratieve omzendbrief van 3 mei 2018 over overstromings- en afstromingsrisico's geen rechtsregel is waarvan de schending kan worden aangevoerd, tenzij een reglementaire draagwijdte wordt aangetoond. Wanneer de raadpleging facultatief is, wordt de keuze om het advies niet te vragen enkel getoetst op kennelijke appreciatiefout. Een gemeentelijke bevriezing van projecten in afstromings- of overstromingszones mag met afdoende motivering worden afgeweken, en de motivering van de gemeente volstond, zodat het vertrouwensbeginsel niet werd geschonden. Het beroep werd verworpen bij arrest van 9 februari 2026, met de proceskosten ten laste van de verzoeker."
+   ],
+   "fr": [
+    "Conseil d'État : avis GISER requis seulement en cas d'axe de ruissellement concentré ou de risque (CoDT)",
+    "Le Conseil d'État a rejeté un recours contre un permis d'urbanisme wallon et précisé quand la cellule GISER doit être consultée en vertu du CoDT. L'avis n'est obligatoire que si les actes et travaux sont susceptibles d'avoir un impact sur un axe de ruissellement concentré ou sont soumis à un risque d'inondation par ruissellement.",
+    "L'arrêt concerne les autorités wallonnes délivrant les permis, les demandeurs et les tiers qui contestent un permis sur la base des risques de ruissellement et d'inondation. En vertu de l'article R.IV.35-1 du CoDT, la cellule GISER doit être consultée lorsque les actes et travaux sont susceptibles d'avoir un impact sur un axe de ruissellement concentré (thalweg, vallée ou vallon sec au sens de l'article R.IV.4-3, alinéa 1er, 4°) ou sont soumis à un risque d'inondation par ruissellement. Le requérant doit démontrer clairement, dès la requête, que les circonstances de fait retenues par l'autorité sont erronées. En l'espèce, l'axe le plus proche sur la carte Lidaxes se trouvait à environ 70 m du projet. La couche Lidaxes de « variation possible du tracé » identifie seulement des zones où un axe pourrait se situer et ne se confond pas avec la carte des axes. Une légère zone d'incertitude sur la parcelle ne rendait donc pas l'avis obligatoire. Le Conseil d'État a aussi jugé que la circulaire administrative du 3 mai 2018 relative aux risques d'inondation et de ruissellement n'est pas une règle de droit dont la violation peut être invoquée, sauf à établir une portée réglementaire. Lorsque la consultation est facultative, le choix de ne pas solliciter l'avis n'est contrôlé que sous l'angle de l'erreur manifeste d'appréciation. Le gel communal des projets situés en zones de ruissellement ou d'inondation peut être écarté moyennant une motivation adéquate ; celle de la commune était suffisante et la confiance légitime n'a pas été méconnue. Le recours a été rejeté par arrêt du 9 février 2026, les dépens de procédure étant mis à charge du requérant."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. R.IV.35-1 et R.IV.4-3, al. 1er, 4° ; Conseil d'État, arrêt n° 265.689 du 9 février 2026",
+   "dates": {
+    "adopted": "2026-02-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265689. 1. Par une requête introduite le 29 août 2022, la partie requérante demande l’annulation de la décision d",
+     "https://www.raadvst-consetat.be/arresten/265689"
+    ]
+   ],
+   "inbox": [
+    "rvs:265689"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265688",
+   "d": "2026-02-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: withdrawal of a permit after close of debates can end the annulment case",
+   "a": "The Council of State accepts that a right-creating permit withdrawn between the close of debates and the judgment can be taken into account, if the parties could comment on it. The annulment appeal against a Walloon planning permit for a telecom mast then lost its purpose.",
+   "b": "The ruling concerns authorities that withdraw planning permits, permit holders and third parties challenging permits before the Council of State. A right-creating act can only be withdrawn if it has an illegality that would have led to annulment, and within the appeal period; where an appeal is lodged, the majority case law allows withdrawal until the close of debates. The Council holds that withdrawal is a substitute for annulment, so a withdrawal made after the close of debates but before judgment can still be taken into account, provided the parties were able to comment on it. Here the Walloon Region withdrew a permit for a mobile telecom relay in Namur on 25 November 2025 and issued a new permit; the debates were reopened and the parties heard on 29 January 2026. Neither the applicants nor the Region contested the withdrawal and the permit holder agreed to it, so the withdrawal was final and the appeal had lost its purpose. The Council ruled there was no longer need to decide. As the contested act was withdrawn, the costs fell on the Region, with a single procedural indemnity of EUR 770 because the applicants shared one lawyer.",
+   "nl": [
+    "Raad van State: intrekking van een vergunning na sluiting van de debatten kan het vernietigingsberoep beëindigen",
+    "De Raad van State aanvaardt dat een rechtscheppende vergunning die tussen de sluiting van de debatten en de uitspraak wordt ingetrokken, in aanmerking kan worden genomen als de partijen er opmerkingen over konden maken. Het beroep tegen een Waalse stedenbouwkundige vergunning voor een telecommunicatiemast werd daardoor zonder voorwerp.",
+    "Het arrest betreft overheden die stedenbouwkundige vergunningen intrekken, vergunninghouders en derden die een vergunning bij de Raad van State betwisten. Een rechtscheppende handeling kan enkel worden ingetrokken als ze een onwettigheid bevat die tot vernietiging zou hebben geleid, en binnen de beroepstermijn; bij een ingesteld beroep laat de meerderheidsrechtspraak intrekking toe tot de sluiting van de debatten. De Raad oordeelt dat intrekking een surrogaat is voor vernietiging, zodat een intrekking na de sluiting van de debatten maar vóór de uitspraak toch in aanmerking kan worden genomen, op voorwaarde dat de partijen er opmerkingen over konden formuleren. Het Waalse Gewest trok op 25 november 2025 een vergunning voor een mobiele telecommunicatiemast in Namen in en verleende een nieuwe vergunning; de debatten werden heropend en de partijen werden gehoord op 29 januari 2026. Noch de verzoekers noch het Gewest betwistten de intrekking en de vergunninghouder stemde ermee in, zodat de intrekking definitief was en het beroep zonder voorwerp. De Raad besloot dat er geen reden meer was om uitspraak te doen. Omdat de bestreden handeling werd ingetrokken, kwamen de kosten ten laste van het Gewest, met één rechtsplegingsvergoeding van 770 euro omdat de verzoekers dezelfde advocaat hadden."
+   ],
+   "fr": [
+    "Conseil d'État : le retrait d'un permis après la clôture des débats peut mettre fin au recours en annulation",
+    "Le Conseil d'État admet qu'un permis créateur de droit retiré entre la clôture des débats et le prononcé de l'arrêt peut être pris en compte, si les parties ont pu présenter leurs observations. Le recours contre un permis d'urbanisme wallon pour un relais de télécommunication a ainsi perdu son objet.",
+    "L'arrêt concerne les autorités qui retirent des permis d'urbanisme, les titulaires de permis et les tiers qui les contestent devant le Conseil d'État. Un acte créateur de droit ne peut être retiré que s'il est entaché d'une illégalité qui aurait entraîné son annulation, et pendant le délai de recours ; en cas de recours, la jurisprudence majoritaire admet le retrait jusqu'à la clôture des débats. Le Conseil estime que le retrait est un succédané de l'annulation, de sorte qu'un retrait intervenu après la clôture des débats mais avant le prononcé de l'arrêt peut être pris en compte, pour autant que les parties aient pu formuler leurs observations. En l'espèce, la Région wallonne a retiré le 25 novembre 2025 un permis pour un relais de télécommunication mobile à Namur et en a délivré un nouveau ; les débats ont été rouverts et les parties entendues le 29 janvier 2026. Ni les requérants ni la Région n'ont contesté le retrait et le titulaire du permis y a acquiescé, de sorte que le retrait était définitif et le recours sans objet. Le Conseil a décidé qu'il n'y avait plus lieu de statuer. L'acte attaqué ayant été retiré, les dépens sont à charge de la Région, avec une seule indemnité de procédure de 770 euros, les requérants étant représentés par le même avocat."
+   ],
+   "scope": "Conseil d'État, XIIIe chambre, arrêt n° 265.688 du 9 février 2026 : retrait d'un permis d'urbanisme (acte créateur de droit) après la clôture des débats, perte d'objet du recours et indemnité de procédure (art. 30/1 des lois coordonnées sur le Conseil d'État)",
+   "dates": {
+    "adopted": "2026-02-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265688. 1. Par une requête introduite le 29 août 2022, les parties requérantes demandent l’annulation de l’arrêté",
+     "https://www.raadvst-consetat.be/arresten/265688"
+    ]
+   ],
+   "inbox": [
+    "rvs:265688"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265687",
+   "d": "2026-02-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: annulled certificate No. 2 must be re-filed under the CoDT, else no implicit refusal arises",
+   "a": "Where a certificat d'urbanisme n° 2 issued before 1 June 2017 is annulled, the commune must return the application under Article D.IV.110 of the CoDT so it can be re-filed under the new procedure. If the applicant does not re-file, a formal notice does not create an implicit refusal that can be appealed.",
+   "b": "The ruling concerns applicants for a certificat d'urbanisme n° 2 in Wallonia whose certificate was issued before the CoDT entered into force on 1 June 2017 and later annulled, and the communal authorities handling those files. The Council of State holds that annulment removes the certificate retroactively, and that the authority must then decide anew under the law in force at the time of the new decision. Under Article D.IV.110, third paragraph, CoDT, the application is then treated as pending without a certificate having been issued, so the commune must return it to the applicant to be re-filed under the CoDT procedure. If the applicant does not re-file, the commune is not required to rule. A formal notice under Article 14, § 3 of the coordinated laws on the Council of State therefore produces no implicit refusal after four months. An appeal against such a supposed refusal is inadmissible for lack of object. The claim for compensatory damages was rejected because no illegality was found. In the case, the earlier annulment dates from 26 October 2021, the commune returned the file on 7 December 2021, the formal notice was sent on 1 February 2022, and the ruling was given on 9 February 2026.",
+   "nl": [
+    "Raad van State: vernietigd stedenbouwkundig attest nr. 2 moet onder het CoDT opnieuw worden ingediend, anders geen stilzwijgende weigering",
+    "Wanneer een vóór 1 juni 2017 afgegeven stedenbouwkundig attest nr. 2 wordt vernietigd, moet de gemeente de aanvraag op grond van artikel D.IV.110 CoDT terugsturen zodat ze volgens de nieuwe procedure opnieuw kan worden ingediend. Dient de aanvrager niet opnieuw in, dan ontstaat uit een ingebrekestelling geen stilzwijgende weigering waartegen beroep openstaat.",
+    "Het arrest betreft aanvragers van een stedenbouwkundig attest nr. 2 in Wallonië waarvan het attest vóór de inwerkingtreding van het CoDT op 1 juni 2017 werd afgegeven en nadien vernietigd, en de gemeentelijke overheden die deze dossiers behandelen. De Raad van State oordeelt dat de vernietiging het attest met terugwerkende kracht doet verdwijnen en dat de overheid opnieuw moet beslissen volgens het recht dat op het ogenblik van de nieuwe beslissing geldt. Krachtens artikel D.IV.110, derde lid, CoDT wordt de aanvraag dan behandeld alsof er nog geen attest was afgegeven, zodat de gemeente ze moet terugsturen opdat ze volgens de CoDT-procedure opnieuw wordt ingediend. Dient de aanvrager niet opnieuw in, dan moet de gemeente niet beslissen. Een ingebrekestelling op grond van artikel 14, § 3 van de gecoördineerde wetten op de Raad van State leidt na vier maanden dan niet tot een stilzwijgende weigering. Een beroep tegen zo'n vermeende weigering is niet ontvankelijk bij gebrek aan voorwerp. De vraag om herstelvergoeding werd verworpen omdat geen onwettigheid werd vastgesteld. In de zaak dateert de eerdere vernietiging van 26 oktober 2021, stuurde de gemeente het dossier terug op 7 december 2021, werd de ingebrekestelling verstuurd op 1 februari 2022 en werd het arrest uitgesproken op 9 februari 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le CU n° 2 annulé doit être redéposé selon le CoDT, à défaut de quoi aucun rejet implicite n'intervient",
+    "Lorsqu'un certificat d'urbanisme n° 2 délivré avant le 1er juin 2017 est annulé, la commune doit renvoyer la demande en application de l'article D.IV.110 du CoDT pour qu'elle soit redéposée selon la nouvelle procédure. Si le demandeur ne la redépose pas, une mise en demeure ne fait pas naître de décision implicite de rejet susceptible de recours.",
+    "L'arrêt concerne les demandeurs d'un certificat d'urbanisme n° 2 en Wallonie dont le certificat, délivré avant l'entrée en vigueur du CoDT le 1er juin 2017, a ensuite été annulé, ainsi que les autorités communales qui traitent ces dossiers. Le Conseil d'État juge que l'annulation fait disparaître le certificat avec effet rétroactif et que l'autorité doit statuer à nouveau selon le droit en vigueur au moment de la nouvelle décision. Selon l'article D.IV.110, alinéa 3, du CoDT, la demande est alors traitée comme une demande pour laquelle aucun certificat n'a été délivré, de sorte que la commune doit la renvoyer au demandeur pour qu'elle soit redéposée selon la procédure du CoDT. Si le demandeur ne la redépose pas, la commune n'est pas tenue de statuer. Une mise en demeure fondée sur l'article 14, § 3, des lois coordonnées sur le Conseil d'État ne produit alors, à l'expiration des quatre mois, aucune décision implicite de rejet. Le recours dirigé contre un prétendu rejet de ce type est irrecevable à défaut d'objet. La demande d'indemnité réparatrice a été rejetée faute d'illégalité constatée. Dans l'affaire, l'annulation antérieure date du 26 octobre 2021, la commune a renvoyé le dossier le 7 décembre 2021, la mise en demeure a été envoyée le 1er février 2022 et l'arrêt a été prononcé le 9 février 2026."
+   ],
+   "scope": "Code du développement territorial, art. D.IV.110, al. 3 ; lois coordonnées sur le Conseil d'État, art. 14, § 3 et 11bis",
+   "dates": {
+    "adopted": "2026-02-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265687. 1. Par une requête introduite le 11 juillet 2022, la partie requérante demande l’annulation de la décisio",
+     "https://www.raadvst-consetat.be/arresten/265687"
+    ]
+   ],
+   "inbox": [
+    "rvs:265687"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
