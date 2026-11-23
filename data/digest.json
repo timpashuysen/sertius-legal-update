@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:33:27Z",
+ "updated": "2026-11-23T17:43:51Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -28542,6 +28542,452 @@
    ],
    "inbox": [
     "eu:62022TJ0575_RES"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62022tj0575",
+   "d": "2026-03-18",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "General Court rejects challenge to Taxonomy forest-management criterion and clarifies review limits",
+   "a": "In case T-575/22 the General Court examines NGOs' challenge to the Commission's refusal to review the EU Taxonomy criteria for forest management and forest bioenergy. It rejects the first challenge, to the 'business-as-usual' baseline for forest management, and clarifies the limits of the review.",
+   "b": "The case concerns environmental NGOs that asked the Commission for internal review under the Aarhus Regulation of Delegated Regulation (EU) 2021/2139, in particular the technical screening criteria for forest management (Section 1.3 of Annexes I and II) and for forest bioenergy activities (Section 4). It matters to operators in these sectors and to financial market participants who apply the Taxonomy criteria. The Court recalls that the Commission has broad discretion when setting such criteria, so review is limited to materially incorrect facts, manifest errors of assessment and misuse of powers. An internal review request must give concrete grounds, and an annulment action cannot rely on grounds not raised, at least recognisably, in that request. On this basis the Court declares inadmissible the arguments on point 2.2(a) of the forest management criteria and rejects the challenge to the 'as against a business-as-usual' baseline in point 2.1(a). It holds that the Commission did not treat forestry as automatically beneficial for the climate. It also holds that Article 10(1)(f) of the Taxonomy Regulation does not limit the criteria to activities that increase carbon sinks, since avoiding deforestation and forest degradation also strengthens land carbon sinks. The applicants relied on twelve pleas, six on forest management and six on bioenergy. The judgment is dated 18 March 2026; the contested review decision dates from 6 July 2022.",
+   "nl": [
+    "Gerecht verwerpt betwisting van Taxonomiecriterium voor bosbeheer en verduidelijkt grenzen van toetsing",
+    "In zaak T-575/22 onderzoekt het Gerecht de betwisting door ngo's van de weigering van de Commissie om de Taxonomiecriteria voor bosbeheer en bio-energie uit bosbiomassa te herzien. Het verwerpt de eerste betwisting, over de 'business-as-usual'-referentiewaarde voor bosbeheer, en verduidelijkt de grenzen van de toetsing.",
+    "De zaak betreft milieu-ngo's die op grond van de Aarhusverordening de Commissie om interne herziening verzochten van Gedelegeerde Verordening (EU) 2021/2139, met name van de technische screeningcriteria voor bosbeheer (afdeling 1.3 van de bijlagen I en II) en voor bio-energieactiviteiten uit bosbiomassa (afdeling 4). Dit is van belang voor exploitanten in deze sectoren en voor financiëlemarktdeelnemers die de Taxonomiecriteria toepassen. Het Gerecht herinnert eraan dat de Commissie bij het vaststellen van dergelijke criteria over een ruime beoordelingsmarge beschikt, zodat de toetsing beperkt blijft tot feitelijk onjuiste gegevens, kennelijke beoordelingsfouten en misbruik van bevoegdheid. Een verzoek om interne herziening moet concrete gronden bevatten, en een beroep tot nietigverklaring kan niet steunen op gronden die niet, althans niet herkenbaar, in dat verzoek zijn aangevoerd. Op die grondslag verklaart het Gerecht de argumenten over punt 2.2(a) van de criteria voor bosbeheer niet-ontvankelijk en verwerpt het de betwisting van de referentiewaarde 'as against a business-as-usual' in punt 2.1(a). Het oordeelt dat de Commissie bosbouw niet automatisch als klimaatvriendelijk heeft beschouwd. Ook oordeelt het dat artikel 10, lid 1, onder f), van de Taxonomieverordening de criteria niet beperkt tot activiteiten die koolstofopslag vergroten, aangezien ook het vermijden van ontbossing en bosdegradatie de koolstofputten op land versterkt. De verzoekers voerden twaalf middelen aan, zes over bosbeheer en zes over bio-energie. Het arrest is gewezen op 18 maart 2026; het bestreden herzieningsbesluit dateert van 6 juli 2022."
+   ],
+   "fr": [
+    "Le Tribunal rejette la contestation du critère taxonomique de gestion forestière et précise les limites du contrôle",
+    "Dans l'affaire T-575/22, le Tribunal examine la contestation par des ONG du refus de la Commission de réexaminer les critères de la taxinomie pour la gestion forestière et la bioénergie issue de la biomasse forestière. Il rejette la première contestation, relative à la référence « business-as-usual » pour la gestion forestière, et précise les limites du contrôle.",
+    "L'affaire concerne des ONG de protection de l'environnement qui ont demandé à la Commission, sur la base du règlement Aarhus, le réexamen interne du règlement délégué (UE) 2021/2139, notamment des critères d'examen technique applicables à la gestion forestière (section 1.3 des annexes I et II) et aux activités de bioénergie issue de la biomasse forestière (section 4). Elle intéresse les exploitants de ces secteurs et les acteurs des marchés financiers qui appliquent les critères de la taxinomie. Le Tribunal rappelle que la Commission dispose d'un large pouvoir d'appréciation lorsqu'elle fixe de tels critères, de sorte que le contrôle se limite aux faits matériellement inexacts, aux erreurs manifestes d'appréciation et au détournement de pouvoir. Une demande de réexamen interne doit énoncer des motifs concrets, et un recours en annulation ne peut se fonder sur des griefs non soulevés, à tout le moins de manière reconnaissable, dans cette demande. Sur cette base, le Tribunal déclare irrecevables les arguments relatifs au point 2.2, sous a), des critères de gestion forestière et rejette la contestation de la référence « as against a business-as-usual » au point 2.1, sous a). Il juge que la Commission n'a pas considéré la sylviculture comme automatiquement favorable au climat. Il juge aussi que l'article 10, paragraphe 1, sous f), du règlement Taxinomie ne limite pas les critères aux activités qui augmentent les puits de carbone, l'évitement de la déforestation et de la dégradation des forêts renforçant également les puits de carbone terrestres. Les requérantes invoquaient douze moyens, six sur la gestion forestière et six sur la bioénergie. L'arrêt date du 18 mars 2026 ; la décision de réexamen attaquée date du 6 juillet 2022."
+   ],
+   "scope": "Arrêt T-575/22, Robin Wood e.a. c. Commission – règlement délégué (UE) 2021/2139, annexe I, section 1.3, point 2.1, a) ; règlement (CE) n° 1367/2006, article 10, paragraphe 1",
+   "dates": {
+    "adopted": "2026-03-18"
+   },
+   "u": [
+    [
+     "Judgment of the General Court (Sixth Chamber, Extended Composition) of 18 March 2026.#Robin Wood - Gewaltfreie Aktionsgemeinschaft für Natur",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022TJ0575"
+    ]
+   ],
+   "inbox": [
+    "eu:62022TJ0575"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266048",
+   "d": "2026-03-17",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: municipality may re-refuse a road plan with added reasons after ministerial annulment",
+   "a": "The Council of State dismissed a developer's appeal against a second refusal by Zaventem's municipal council of the road plan for an 11-house subdivision. It held that supplementary reasons on cyclist access and visibility do not contradict the minister's earlier annulment.",
+   "b": "The ruling concerns road plans (wegenisdossiers) integrated in environmental permit applications for subdivisions, and the municipal council's decision on them under the Municipal Roads Decree. After the Flemish minister annulled a first refusal for insufficient reasoning, the council refused again, citing the lack of a separate slow-mode link and poor visibility for cyclists at two right-angle bends used by heavy vehicles. The Council of State, as a legality judge, does not assess expediency. It only checks whether the facts were correct and carefully established, and whether the decision stays within reasonableness, given the council's wide discretion over a well-considered road network. It held that the new reasoning is additional support, not contrary to the ministerial decision. It also held that the fact that the slow-mode link was not raised in earlier decisions or pre-consultations does not make the refusal unlawful, and that no new motive invented purely for the occasion was shown. Criticism of superfluous grounds cannot lead to annulment, and misuse of power only leads to annulment if the alleged unlawful aim was the sole aim. The appeal was dismissed on 17 March 2026 and the costs were charged to the applicant.",
+   "nl": [
+    "Raad van State: gemeente mag wegenisdossier na ministeriële vernietiging opnieuw afkeuren met aanvullende motieven",
+    "De Raad van State verwerpt het beroep van een projectontwikkelaar tegen de tweede afkeuring door de gemeenteraad van Zaventem van het wegenisdossier voor een verkaveling van elf woningen. Aanvullende motieven over de toegang voor fietsers en de zichtbaarheid gaan volgens de Raad niet in tegen de eerdere ministeriële vernietiging.",
+    "Het arrest betreft wegenisdossiers die in een omgevingsvergunningsaanvraag voor een verkaveling zijn geïntegreerd, en de beslissing van de gemeenteraad daarover op grond van het gemeentewegendecreet. Nadat de Vlaamse minister een eerste afkeuring wegens onvoldoende motivering had vernietigd, keurde de gemeenteraad het dossier opnieuw af, onder meer omdat een afzonderlijke verbinding voor trage weggebruikers ontbrak en omdat de zichtbaarheid voor fietsers in twee haakse bochten bij doortocht van zwaar vervoer gebrekkig is. De Raad van State, als wettigheidsrechter, beoordeelt de opportuniteit niet. Hij gaat enkel na of de feiten juist en zorgvuldig zijn vastgesteld en of het besluit binnen de grenzen van de redelijkheid blijft, gelet op de ruime discretionaire bevoegdheid van de gemeenteraad over een doordacht wegennetwerk. Volgens de Raad is de nieuwe motivering een aanvullende onderbouwing en geen schending van het ministerieel besluit. Dat de trage verbinding niet eerder ter sprake kwam in vorige besluiten of voorbesprekingen, maakt de weigering niet onwettig, en een volstrekt nieuw motief “pour les besoins de la cause” is niet aangetoond. Kritiek op overtollige motieven kan niet tot vernietiging leiden, en machtsafwending leidt slechts tot vernietiging als het beweerde ongeoorloofde oogmerk het enige doel was. Het beroep werd op 17 maart 2026 verworpen en de kosten komen ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Conseil d'État : la commune peut refuser à nouveau un dossier de voirie avec des motifs complémentaires après annulation ministérielle",
+    "Le Conseil d'État rejette le recours d'un promoteur contre le second refus, par le conseil communal de Zaventem, du dossier de voirie d'un lotissement de onze habitations. Selon lui, les motifs complémentaires relatifs à l'accès des cyclistes et à la visibilité ne contredisent pas l'annulation ministérielle antérieure.",
+    "L'arrêt concerne les dossiers de voirie intégrés dans une demande de permis d'environnement pour un lotissement, et la décision du conseil communal à leur sujet en vertu du décret relatif aux voiries communales. Après que le ministre flamand a annulé un premier refus pour motivation insuffisante, le conseil communal a de nouveau refusé le dossier, notamment en raison de l'absence de liaison distincte pour les usagers lents et de la visibilité insuffisante pour les cyclistes dans deux virages à angle droit empruntés par des véhicules lourds. Le Conseil d'État, juge de la légalité, n'apprécie pas l'opportunité. Il vérifie seulement si les faits ont été établis correctement et avec soin et si la décision reste dans les limites du raisonnable, compte tenu du large pouvoir discrétionnaire du conseil communal sur un réseau routier bien pensé. Il considère que la nouvelle motivation constitue un fondement supplémentaire et ne contredit pas la décision ministérielle. Le fait que la liaison lente n'ait pas été évoquée dans les décisions ou concertations préalables ne rend pas le refus illégal, et un motif entièrement nouveau invoqué « pour les besoins de la cause » n'est pas démontré. La critique de motifs surabondants ne peut conduire à l'annulation, et le détournement de pouvoir n'entraîne l'annulation que si le but illicite allégué était le seul but poursuivi. Le recours a été rejeté le 17 mars 2026 et les dépens sont mis à charge de la partie requérante."
+   ],
+   "scope": "Raad van State, arrest nr. 266.048 van 17 maart 2026 – artikelen 3, 4, 8 en 10 gemeentewegendecreet van 3 mei 2019; artikelen 31, 31/1 en 65 omgevingsvergunningsdecreet van 25 april 2014",
+   "dates": {
+    "adopted": "2026-03-17"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266048. 1. Het beroep, ingesteld op 29 april 2024, strekt t ot de nietigverklaring van het besluit van de gemeent",
+     "https://www.raadvst-consetat.be/arresten/266048"
+    ]
+   ],
+   "inbox": [
+    "rvs:266048"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266046",
+   "d": "2026-03-17",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State clarifies CoDT appeal deadlines and motivation duty for regularisation permits",
+   "a": "On appeal to the Walloon Government against a refused planning permit, the 65-day deadline for the administration's proposed decision is mandatory, and a late proposal counts as not received. A request for further opinions under Article D.IV.68 CoDT extends the decision period by 40 days.",
+   "b": "The ruling concerns planning permit appeals to the Walloon Government under the CoDT, here a regularisation permit for a house built without authorisation. It affects applicants, appeal authorities and third parties. The Council of State holds that the 65-day period in Article D.IV.67 is a strict deadline. A late proposed decision is treated as not received, so the minister alone decides and must send the decision within 95 days of receiving the appeal. The minister need not give reasons about a late proposal but may take it into account. A decision by the minister to request further opinions under Article D.IV.68 extends the period by 40 days, to 135 days. Here the decision was sent within that period. On motivation, regularisation permits call for particularly careful reasons, to show that the assessment was not swayed by the fait accompli. The authority need not answer every objection or refute the earlier decision point by point, however. A purely technical opinion need not be reproduced or annexed. An opinion deemed favourable under Article D.I.16, §3 after 30 days needs no further reasoning. The Council reviews only for manifest error of assessment and cannot substitute its own. It rejected the first branch of the first plea and reopened the debates to examine the remaining pleas. The ruling is dated 17 March 2026, and costs are reserved.",
+   "nl": [
+    "Raad van State verduidelijkt beroepstermijnen onder het CoDT en motiveringsplicht bij regularisatievergunningen",
+    "In administratief beroep bij de Waalse Regering tegen een geweigerde stedenbouwkundige vergunning is de termijn van 65 dagen voor het gemotiveerde voorstel van beslissing een termijn van strikte aard. Een laattijdig voorstel geldt als niet ontvangen. Een adviesaanvraag op grond van artikel D.IV.68 CoDT verlengt de beslissingstermijn met 40 dagen.",
+    "Het arrest betreft beroepen bij de Waalse Regering tegen stedenbouwkundige vergunningen op grond van het CoDT, hier een regularisatievergunning voor een zonder toelating gebouwde woning. Het raakt aanvragers, beroepsinstanties en derden. De Raad van State oordeelt dat de termijn van 65 dagen in artikel D.IV.67 een termijn van strikte aard is. Een laattijdig voorstel van beslissing geldt als niet ontvangen, zodat de minister alleen beslist en zijn beslissing moet verzenden binnen 95 dagen na ontvangst van het beroep. De minister hoeft geen redenen op te geven over een laattijdig voorstel, maar mag er wel rekening mee houden. Een beslissing van de minister om bijkomende adviezen in te winnen op grond van artikel D.IV.68 verlengt de termijn met 40 dagen, tot 135 dagen. Hier werd de beslissing binnen die termijn verzonden. Wat de motivering betreft, vereist een regularisatievergunning een bijzonder zorgvuldige motivering, zodat blijkt dat de beoordeling niet door het gewicht van het voldongen feit is beïnvloed. De overheid hoeft evenwel niet op elke bezwaar te antwoorden of de eerdere beslissing punt per punt te weerleggen. Een louter technisch advies hoeft niet te worden overgenomen of bijgevoegd. Een advies dat na 30 dagen als gunstig geldt op grond van artikel D.I.16, § 3, vereist geen bijkomende motivering. De Raad toetst enkel op kennelijke appreciatiefout en kan zijn eigen beoordeling niet in de plaats stellen. Hij verwierp het eerste onderdeel van het eerste middel en heropende de debatten om de overige middelen te onderzoeken. Het arrest dateert van 17 maart 2026 en de kosten worden aangehouden."
+   ],
+   "fr": [
+    "Le Conseil d'État précise les délais de recours du CoDT et la motivation des permis de régularisation",
+    "Sur recours au Gouvernement wallon contre un refus de permis d'urbanisme, le délai de 65 jours pour la proposition motivée de décision est un délai de rigueur, et une proposition tardive est réputée non reçue. Une demande d'avis fondée sur l'article D.IV.68 du CoDT proroge le délai de décision de 40 jours.",
+    "L'arrêt concerne les recours au Gouvernement wallon contre des permis d'urbanisme sur la base du CoDT, ici un permis de régularisation d'une maison construite sans autorisation. Il touche les demandeurs, les autorités de recours et les tiers. Le Conseil d'État juge que le délai de 65 jours de l'article D.IV.67 est un délai de rigueur. Une proposition de décision tardive est réputée non reçue, de sorte que le ministre décide seul et doit envoyer sa décision dans les 95 jours de la réception du recours. Le ministre n'est pas tenu de motiver sa décision au regard d'une proposition tardive, mais il peut en tenir compte. La décision du ministre de solliciter des avis complémentaires sur la base de l'article D.IV.68 proroge le délai de 40 jours, soit 135 jours. En l'espèce, la décision a été envoyée dans ce délai. Quant à la motivation, un permis de régularisation requiert une motivation particulièrement scrupuleuse, afin de vérifier que l'appréciation n'a pas été infléchie par le poids du fait accompli. L'autorité n'est toutefois pas tenue de répondre à toutes les objections ni de réfuter point par point la décision réformée. Un avis purement technique ne doit être ni reproduit ni annexé. Un avis réputé favorable après 30 jours en vertu de l'article D.I.16, § 3, n'exige pas de motivation supplémentaire. Le Conseil ne censure que l'erreur manifeste d'appréciation et ne peut substituer son appréciation à celle de l'autorité. Il a rejeté la première branche du premier moyen et rouvert les débats pour examiner les autres moyens. L'arrêt date du 17 mars 2026 et les dépens sont réservés."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.046 du 17 mars 2026 – articles D.IV.67, D.IV.68 et D.I.16, § 3 du CoDT; loi du 29 juillet 1991 sur la motivation formelle",
+   "dates": {
+    "adopted": "2026-03-17"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266046. 1. Par une requête introduite le 21 juin 2024, la partie requérante demande l’annulation de l’arrêté du 4",
+     "https://www.raadvst-consetat.be/arresten/266046"
+    ]
+   ],
+   "inbox": [
+    "rvs:266046"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266041",
+   "d": "2026-03-17",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State annuls Destelbergen castle-site RUP for departing from directional part of municipal structure plan",
+   "a": "The Council of State annulled the municipal spatial implementation plan (RUP) 'Kasteelsite Ter Burcht' because it deviates from the directional part of the municipal structure plan without the justification required by Article 2.1.2 §3 VCRO. The challenge to the preparatory decision that no plan-MER was needed was dismissed.",
+   "b": "The ruling concerns Flemish municipalities that adopt spatial implementation plans (RUPs) and anyone affected by them. The structure plan's directional part may be departed from only because of unforeseen developments in spatial needs or urgent social, economic or budgetary reasons, and such grounds must be extensively motivated (Art. 2.1.2 §3 VCRO). The Council found that the Destelbergen structure plan calls for preserving, restoring and strengthening castle parks, including their wooded areas. The RUP created development zones for apartment buildings and a house within the park, one of them in an open unbuilt area. The municipality's reliance on the 'dual inseparable residential and landscape function' of the sites, and on the building rights under the residential-area zoning of the regional plan, did not justify this. A planning authority is not bound to copy the zoning regulations of the regional plan or to follow earlier permit practice. The generic provisions on respect for heritage values and on siting where the fewest trees are felled were held insufficient to safeguard the park's character, and no unforeseen developments or urgent reasons were shown. The Council therefore annulled the municipal council decision of 23 May 2024 for breach of Art. 2.1.2 §3 VCRO. It did not annul the decision of 16 November 2023 that no plan-MER was required, since that decision is merely preparatory and not found unlawful. The ruling of 17 March 2026 is to be published by extract in the same way as the annulled decision.",
+   "nl": [
+    "Raad van State vernietigt gemeentelijk RUP kasteelsite Ter Burcht in Destelbergen wegens afwijking van het GRS",
+    "De Raad van State vernietigde het gemeentelijk RUP 'Kasteelsite Ter Burcht' omdat het afwijkt van het richtinggevend gedeelte van het gemeentelijk ruimtelijk structuurplan zonder de door artikel 2.1.2, § 3 VCRO vereiste motivering. Het beroep tegen de beslissing dat geen plan-MER nodig was, werd verworpen.",
+    "De uitspraak is relevant voor Vlaamse gemeenten die ruimtelijke uitvoeringsplannen (RUP's) vaststellen en voor wie door zulke plannen wordt geraakt. Van het richtinggevend gedeelte van een ruimtelijk structuurplan mag enkel worden afgeweken omwille van onvoorziene ontwikkelingen van de ruimtelijke behoeften of dringende sociale, economische of budgettaire redenen, die uitgebreid moeten worden gemotiveerd (art. 2.1.2, § 3 VCRO). De Raad oordeelde dat het GRS van Destelbergen het behoud, het herstel en de versterking van de kasteelparken, met inbegrip van de beboste ruimtes, voorop stelt. Het RUP voorzag ontwikkelingszones voor meergezinswoningen en een eengezinswoning in het park, waarvan één in een open onbebouwde zone. De verwijzing van de gemeente naar de 'dubbele onafscheidbare woon- en landschapsfunctie' van de sites en naar de bouwrechten van het woongebied op het gewestplan volstond niet als verantwoording. Een plannende overheid moet de voorschriften van het gewestplan niet overnemen en evenmin de vroegere vergunningspraktijk volgen. De algemene voorschriften over respect voor erfgoedwaarden en inplanting op de plaats waar het minst bomen moeten worden gerooid volstonden niet om het specifieke karakter van het park te vrijwaren, en onvoorziene ontwikkelingen of dringende redenen werden niet aangetoond. Het besluit van de gemeenteraad van 23 mei 2024 werd daarom vernietigd wegens schending van artikel 2.1.2, § 3 VCRO. De beslissing van 16 november 2023 dat geen plan-MER nodig is, werd niet vernietigd, omdat zij louter voorbereidend is en niet onwettig werd bevonden. Het arrest van 17 maart 2026 moet bij uittreksel worden bekendgemaakt op dezelfde wijze als het vernietigde besluit."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le PRU communal du site du château Ter Burcht à Destelbergen pour écart par rapport au schéma de structure",
+    "Le Conseil d'État a annulé le plan d'exécution spatial communal (RUP) « Kasteelsite Ter Burcht » parce qu'il s'écarte de la partie indicative du schéma de structure communal sans la motivation exigée par l'article 2.1.2, § 3 du VCRO. Le recours contre la décision dispensant le projet de plan-MER a été rejeté.",
+    "L'arrêt concerne les communes flamandes qui adoptent des plans d'exécution spatiaux (RUP) et les personnes touchées par ces plans. La partie indicative d'un schéma de structure d'aménagement ne peut être écartée que pour des évolutions imprévues des besoins spatiaux ou pour des raisons sociales, économiques ou budgétaires urgentes, qui doivent être motivées de manière détaillée (art. 2.1.2, § 3 VCRO). Le Conseil a constaté que le schéma de structure de Destelbergen vise la préservation, la restauration et le renforcement des parcs de châteaux, y compris leurs espaces boisés. Le RUP prévoyait des zones de développement pour des immeubles à appartements et une maison unifamiliale dans le parc, dont l'une dans une zone ouverte non bâtie. Le renvoi de la commune à la « double fonction inséparable d'habitat et de paysage » des sites et aux droits de bâtir de la zone d'habitat du plan de secteur n'a pas suffi à justifier ce choix. L'autorité planificatrice n'est tenue ni de reprendre les prescriptions du plan de secteur ni de suivre la pratique antérieure en matière de permis. Les prescriptions générales sur le respect des valeurs patrimoniales et sur l'implantation là où le moins d'arbres doivent être abattus ont été jugées insuffisantes pour préserver le caractère propre du parc, et aucune évolution imprévue ni raison urgente n'a été démontrée. La décision du conseil communal du 23 mai 2024 a donc été annulée pour violation de l'article 2.1.2, § 3 du VCRO. La décision du 16 novembre 2023 dispensant d'un plan-MER n'a pas été annulée, car elle est purement préparatoire et n'a pas été jugée illégale. L'arrêt du 17 mars 2026 doit être publié par extrait de la même manière que la décision annulée."
+   ],
+   "scope": "Raad van State, arrest nr. 266.041 van 17 maart 2026 – gemeentelijk RUP 'Kasteelsite Ter Burcht' (Destelbergen), artikel 2.1.2, § 3 VCRO",
+   "dates": {
+    "adopted": "2026-03-17"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266041. 1. Het beroep, ingesteld op 1 oktober 2024, strekt tot de nietigverklaring van het besluit van de gemeent",
+     "https://www.raadvst-consetat.be/arresten/266041"
+    ]
+   ],
+   "inbox": [
+    "rvs:266041"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266035",
+   "d": "2026-03-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: D.IV.6 CoDT derogation requires reasoned check that the existing building was lawful",
+   "a": "The Walloon Council of State annulled a permit for rebuilding a chalet in a forest zone because it did not state whether the building was lawfully built. Showing that the building predates the sector plan is not enough for a derogation under Article D.IV.6 CoDT.",
+   "b": "The ruling concerns permits granted as a derogation from the sector plan under Article D.IV.6 CoDT for the reconstruction of existing buildings, here in a forest zone. The Council of State recalls that 'existing buildings' means buildings established in accordance with the rules in force when they were built. These are either buildings put up when no building permit was required, or buildings covered by a permit and built in line with it. The decision granting the derogation must state the reasons for this check. It must also show that the derogation is used moderately, since the mechanism is strictly interpreted. The permit at issue only found that the chalet predated the sector plan of 1979 and did not address whether it was built without a permit being required or under one, although the Department of Nature and Forests and the delegated official had raised the point. The Council held this to be insufficient and inadequate reasoning and annulled the permit. It added that arguments put forward later in the proceedings, such as the amnesty of Article D.VII.1 bis CoDT, implicit regularisation or Article 42 §2 CWATUP, cannot make up for missing reasons in the decision itself. The ruling was delivered on 16 March 2026 and concerns a permit dated 16 November 2023.",
+   "nl": [
+    "Raad van State: afwijking van art. D.IV.6 CoDT vereist gemotiveerde controle van de wettigheid van het bestaande gebouw",
+    "De Waalse Raad van State vernietigde een vergunning voor de heropbouw van een chalet in bosgebied omdat niet werd nagegaan of het gebouw wettig was opgericht. Aantonen dat het gebouw dateert van vóór het gewestplan volstaat niet voor een afwijking op grond van artikel D.IV.6 CoDT.",
+    "Het arrest betreft vergunningen die in afwijking van het gewestplan worden verleend op grond van artikel D.IV.6 CoDT voor de heropbouw van bestaande gebouwen, hier in een bosgebied. De Raad van State herinnert eraan dat 'bestaande gebouwen' gebouwen zijn die werden opgericht overeenkomstig de regels die golden op het ogenblik van de bouw. Het gaat om gebouwen die werden opgericht toen geen bouwvergunning vereist was, of gebouwen die door een vergunning gedekt zijn en overeenkomstig die vergunning werden gebouwd. De beslissing die de afwijking toestaat moet de motieven van die controle vermelden. Ze moet ook aantonen dat de afwijking gematigd wordt gebruikt, aangezien het mechanisme strikt wordt geïnterpreteerd. De bestreden vergunning stelde enkel vast dat het chalet dateerde van vóór het gewestplan van 1979. Ze ging niet in op de vraag of het werd gebouwd toen geen vergunning vereist was of onder een vergunning, hoewel het Departement Natuur en Bossen en de gemachtigd ambtenaar die vraag hadden opgeworpen. De Raad oordeelde dat dit een ontoereikende en ondeugdelijke motivering was en vernietigde de vergunning. Argumenten die later in de procedure werden aangevoerd, zoals de amnestie van artikel D.VII.1bis CoDT, de impliciete regularisatie of artikel 42, § 2 CWATUP, kunnen volgens de Raad het gebrek aan motieven in de beslissing zelf niet goedmaken. Het arrest werd uitgesproken op 16 maart 2026 en betreft een vergunning van 16 november 2023."
+   ],
+   "fr": [
+    "Conseil d'État : la dérogation de l'art. D.IV.6 CoDT exige une vérification motivée de la légalité du bâtiment existant",
+    "Le Conseil d'État a annulé un permis de reconstruction d'un chalet en zone forestière, faute d'examen de la légalité de sa construction. Établir que le bâtiment est antérieur au plan de secteur ne suffit pas pour une dérogation fondée sur l'article D.IV.6 du CoDT.",
+    "L'arrêt concerne les permis délivrés en dérogation au plan de secteur sur la base de l'article D.IV.6 du CoDT pour la reconstruction de bâtiments existants, ici en zone forestière. Le Conseil d'État rappelle que les « bâtiments existants » sont ceux établis conformément aux règles en vigueur lors de leur construction. Il s'agit soit de bâtiments construits à une époque où aucun permis de bâtir n'était requis, soit de bâtiments couverts par un permis et construits conformément à celui-ci. La décision octroyant la dérogation doit motiver cette vérification. Elle doit aussi faire apparaître un usage modéré de la dérogation, ce mécanisme étant de stricte interprétation. Le permis attaqué se bornait à constater que le chalet était antérieur au plan de secteur de 1979. Il n'examinait pas s'il avait été construit à une époque où aucun permis n'était requis ou sous couvert d'un permis, alors que le département de la Nature et des Forêts et le fonctionnaire délégué avaient soulevé la question. Le Conseil a jugé cette motivation insuffisante et inadéquate et a annulé le permis. Il ajoute que les arguments avancés ultérieurement dans la procédure, tels que l'amnistie de l'article D.VII.1er bis du CoDT, la régularisation implicite ou l'article 42, § 2, du CWATUP, ne peuvent pallier l'absence de motifs dans la décision elle-même. L'arrêt a été prononcé le 16 mars 2026 et concerne un permis du 16 novembre 2023."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. D.IV.6, al. 1er (dérogation au plan de secteur pour bâtiments existants) et art. D.II.37 ; loi du 29 juillet 1991 sur la motivation formelle, art. 2 et 3",
+   "dates": {
+    "adopted": "2026-03-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266035. Par une requête introduite le 5 avril 2024, la partie requérante demande, d’une part, l’annulation de l’a",
+     "https://www.raadvst-consetat.be/arresten/266035"
+    ]
+   ],
+   "inbox": [
+    "rvs:266035"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266034",
+   "d": "2026-03-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: no modified plans on appeal against a municipal refusal; Liège permit annulled",
+   "a": "The Council of State holds that, on administrative appeal against a municipal decision, the Walloon Government may not take modified plans into account under Article D.IV.42 CoDT. Only documents that clarify the application without changing it are allowed. A ministerial permit for a building in Liège was annulled on that ground.",
+   "b": "The ruling concerns permit applicants, municipalities and the Walloon authorities handling administrative appeals under the CoDT. Article D.IV.42, §1, 4° CoDT lists the cases in which modified plans may be filed at appeal stage: appeals against decisions of the fonctionnaire délégué, minor changes to Government permits, or where no decision was taken. A plan requested by the Government under Article D.IV.51 is also covered. An appeal against a refusal by the municipal college (collège communal) is not on that list. Under the principles of good administration and the duty of care, plans or information that only clarify the object of the application, without altering it, may still be filed. The appeal authority has no more power than the first-instance authority and cannot change the object of the application. Here, a plan filed at appeal created a dedicated bicycle room and removed a storage room. It also closed a fire door and its evacuation route, reconfigured the hall and changed the floor area of the ground-floor dwelling. The Council found that this changed the object of the application and added works that the municipality and the public had not seen. It therefore rejected the Government's characterisation of the plan as a mere amendment that a condition could cover. The Council also held that a municipality has a procedural interest in challenging the use of such plans, because the challenge could lead to rejection of the appeal and a new application. The Council ruled on 16 March 2026 and annulled the permit of 8 August 2024 for the transformation of a five-unit residential building and the extension of its ground floor in Liège.",
+   "nl": [
+    "Raad van State: geen gewijzigde plannen in beroep tegen gemeentelijke weigering; Luikse vergunning vernietigd",
+    "De Raad van State oordeelt dat de Waalse Regering bij een administratief beroep tegen een gemeentelijke beslissing geen rekening mag houden met gewijzigde plannen op grond van artikel D.IV.42 CoDT. Enkel stukken die de aanvraag verduidelijken zonder ze te wijzigen, zijn toegelaten. Een ministeriële stedenbouwkundige vergunning voor een gebouw in Luik werd om die reden vernietigd.",
+    "Het arrest betreft vergunningsaanvragers, gemeenten en de Waalse overheden die administratieve beroepen behandelen onder het CoDT. Artikel D.IV.42, §1, 4° CoDT somt de gevallen op waarin in beroep gewijzigde plannen mogen worden ingediend: beroep tegen beslissingen van de gemachtigde ambtenaar, kleine wijzigingen aan door de Regering afgeleverde vergunningen, of het ontbreken van een beslissing. Ook een plan dat de Regering op grond van artikel D.IV.51 vraagt, valt eronder. Een beroep tegen een weigering van het college van burgemeester en schepenen (collège communal) staat niet op die lijst. Op grond van de beginselen van behoorlijk bestuur en de zorgvuldigheidsplicht mogen plannen of inlichtingen die het voorwerp van de aanvraag enkel verduidelijken, zonder het te wijzigen, wel worden ingediend. De beroepsinstantie heeft niet meer bevoegdheid dan de eerste aanleg en kan het voorwerp van de aanvraag niet wijzigen. In deze zaak voorzag een in beroep ingediend plan in een afzonderlijk fietsenlokaal en schafte het een bergruimte af. Het sloot ook een brandwerende deur en daarmee een evacuatieweg af, herschikte de inkomhal en wijzigde de oppervlakte van de woning op het gelijkvloers. De Raad oordeelde dat dit het voorwerp van de aanvraag wijzigde en werken toevoegde die de gemeente en het publiek niet kenden. Hij verwierp daarom de kwalificatie van de Regering als louter 'amendement' dat met een voorwaarde kon worden geregeld. De Raad oordeelde ook dat een gemeente een procedureel belang heeft om het gebruik van zulke plannen aan te vechten, omdat dit tot verwerping van het beroep en een nieuwe aanvraag kan leiden. De Raad velde zijn arrest op 16 maart 2026 en vernietigde de vergunning van 8 augustus 2024 voor de verbouwing van een woongebouw met vijf woongelegenheden en de uitbreiding van het gelijkvloers in Luik."
+   ],
+   "fr": [
+    "Conseil d'État : pas de plans modificatifs sur recours contre un refus communal ; permis liégeois annulé",
+    "Le Conseil d'État juge que, sur recours administratif contre une décision communale, le Gouvernement wallon ne peut prendre en considération des plans modificatifs sur la base de l'article D.IV.42 du CoDT. Seules sont admises les pièces qui précisent la demande sans la modifier. Un permis d'urbanisme délivré par le ministre pour un immeuble à Liège a été annulé pour ce motif.",
+    "L'arrêt concerne les demandeurs de permis, les communes et les autorités wallonnes qui traitent les recours administratifs sous le CoDT. L'article D.IV.42, § 1er, 4°, du CoDT énumère les cas où des plans modificatifs peuvent être produits en degré de recours : recours contre une décision du fonctionnaire délégué, modifications mineures de permis délivrés par le Gouvernement, ou absence de décision. Est aussi visé le plan demandé par le Gouvernement en vertu de l'article D.IV.51. Un recours contre un refus du collège communal ne figure pas dans cette liste. Au nom des principes de bonne administration et du devoir de minutie, le dépôt de plans ou d'informations qui ne visent qu'à mieux préciser l'objet de la demande, sans le modifier, reste admis. L'autorité de recours n'a pas plus de pouvoir que celle du premier degré et ne peut modifier l'objet de la demande. En l'espèce, un plan déposé en recours créait un local vélos distinct et supprimait un local de débarras. Il fermait aussi une porte coupe-feu, et donc un trajet d'évacuation, reconfigurait le hall et modifiait la superficie du logement du rez-de-chaussée. Le Conseil a jugé que cela modifiait l'objet de la demande et y ajoutait des travaux que la commune et le public n'avaient pas connus. Il a donc écarté la qualification retenue par le Gouvernement d'un simple « amendement » pouvant faire l'objet d'une condition littérale. Il a aussi jugé qu'une commune a un intérêt procédural à contester la prise en compte de tels plans, car cela peut conduire au rejet du recours et à l'introduction d'une nouvelle demande. Le Conseil a statué le 16 mars 2026 et a annulé le permis du 8 août 2024 relatif à la transformation d'un immeuble de cinq logements et à l'extension de son rez-de-chaussée à Liège."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.034 du 16 mars 2026 : article D.IV.42, § 1er, CoDT (plans modificatifs en degré de recours), articles D.IV.51 et D.IV.66 CoDT",
+   "dates": {
+    "adopted": "2026-03-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266034. Par une requête introduite le 11 octobre 2024, la partie requérante demande l’annulation de l’arrêté du 8",
+     "https://www.raadvst-consetat.be/arresten/266034"
+    ]
+   ],
+   "inbox": [
+    "rvs:266034"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d02643",
+   "d": "2026-03-16",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU ETS: Commission has changes to Belgium's 2021-2025 free allocation table entered in the Union Registry",
+   "a": "The Commission instructs the Union Registry's Central Administrator to enter the changes Belgium notified to its 2021-2025 free allocation table, covering new entrants and adjustments for existing installations. The same decision covers fourteen other Member States.",
+   "b": "The decision concerns operators of Belgian installations in the EU Emissions Trading System that receive free allowances for 2021-2025, whether as new entrants or as existing installations whose allocation is adjusted. Belgium notified the changes on 4 March 2026 under Article 23(2) of Delegated Regulation (EU) 2019/331. The Commission found them in line with that Regulation and with Implementing Regulation (EU) 2019/1842 on adjustments for activity level changes. It therefore instructs the Central Administrator to enter them in the Union Registry. Annex I lists eight Belgian installations with their yearly quantities. These total 88,879 (2021), 77,596 (2022), 68,763 (2023), 59,380 (2024) and 58,878 (2025), or 353,496 allowances for the period. The decision was adopted on 16 March 2026 and published in the Official Journal on 20 May 2026. It does not state a separate date of entry into force.",
+   "nl": [
+    "EU-ETS: Commissie laat wijzigingen aan Belgische toewijzingstabel 2021-2025 invoeren in het EU-register",
+    "De Commissie geeft de centrale administrateur van het EU-register de opdracht de wijzigingen in te voeren die België heeft gemeld voor zijn toewijzingstabel 2021-2025, voor nieuwkomers en aanpassingen voor bestaande installaties. Hetzelfde besluit betreft veertien andere lidstaten.",
+    "Het besluit betreft exploitanten van Belgische installaties in het EU-emissiehandelssysteem die voor 2021-2025 gratis emissierechten ontvangen, als nieuwkomer of als bestaande installatie waarvan de toewijzing wordt aangepast. België meldde de wijzigingen op 4 maart 2026 overeenkomstig artikel 23, lid 2, van Gedelegeerde Verordening (EU) 2019/331. De Commissie oordeelt dat ze in overeenstemming zijn met die verordening en met Uitvoeringsverordening (EU) 2019/1842 over aanpassingen wegens wijzigingen van het activiteitsniveau. Zij geeft de centrale administrateur dan ook de opdracht ze in het EU-register in te voeren. Bijlage I bevat acht Belgische installaties met hun jaarlijkse hoeveelheden. Die bedragen samen 88.879 (2021), 77.596 (2022), 68.763 (2023), 59.380 (2024) en 58.878 (2025), oftewel 353.496 emissierechten voor de periode. Het besluit werd genomen op 16 maart 2026 en op 20 mei 2026 in het Publicatieblad bekendgemaakt. Een afzonderlijke datum van inwerkingtreding vermeldt het niet."
+   ],
+   "fr": [
+    "SEQE-UE : la Commission fait saisir les modifications du tableau d'allocation belge 2021-2025 dans le registre de l'Union",
+    "La Commission donne instruction à l'administrateur central du registre de l'Union de saisir les modifications notifiées par la Belgique à son tableau national d'allocation 2021-2025, pour les nouveaux entrants et les ajustements d'installations existantes. La même décision concerne quatorze autres États membres.",
+    "La décision concerne les exploitants d'installations belges relevant du système d'échange de quotas d'émission de l'UE qui reçoivent des quotas gratuits pour 2021-2025, comme nouveaux entrants ou comme installations existantes dont l'allocation est ajustée. La Belgique a notifié les modifications le 4 mars 2026 en vertu de l'article 23, paragraphe 2, du règlement délégué (UE) 2019/331. La Commission estime qu'elles sont conformes à ce règlement et au règlement d'exécution (UE) 2019/1842 sur les ajustements dus aux changements de niveau d'activité. Elle donne donc instruction à l'administrateur central de les saisir dans le registre de l'Union. L'annexe I énumère huit installations belges avec leurs quantités annuelles. Celles-ci totalisent 88 879 (2021), 77 596 (2022), 68 763 (2023), 59 380 (2024) et 58 878 (2025), soit 353 496 quotas pour la période. La décision a été adoptée le 16 mars 2026 et publiée au Journal officiel le 20 mai 2026. Elle ne mentionne pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Commission Decision C/2026/2643 of 16 March 2026 (Union Registry, Directive 2003/87/EC, Delegated Regulation (EU) 2019/331, Art. 23(4)): Sole Article and Annex I (Belgium)",
+   "dates": {
+    "adopted": "2026-03-16",
+    "published": "2026-05-20"
+   },
+   "u": [
+    [
+     "Commission Decision of 16 March 2026 instructing the Central Administrator of the Union Registry to enter changes to the national allocation",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D02643"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D02643"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041858",
+   "d": "2026-03-16",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders sets country-specific natural gas emission factor for 2025 GHG installation reports at 55.89 t CO2/TJ",
+   "a": "A Flemish ministerial decision fixes the standard emission factor for natural gas to be used in the 2025 emission year reports of greenhouse gas (GHG) installations at 55.89 tonnes CO2/TJ. It applies to operators using the country-specific factor under the EU monitoring and reporting regulation.",
+   "b": "The decision concerns operators of GHG installations in Flanders that report under the EU emissions trading rules and use the country-specific emission factor for natural gas under Article 31(1)(b) of Implementing Regulation (EU) 2018/2066. For the emission year report on 2025 emissions, the standard emission factor for natural gas is set at 55.89 tonnes CO2/TJ. This is a country-specific value, replacing the default IPCC factor of 56.1 t CO2/TJ, which Belgium was recommended to stop using after the 2018 UNFCCC in-country review. The federal public service Economy communicated the 2025 value to the regions on 16 December 2025. The decision is based on Article 68, 7° of the Flemish Government decision of 6 September 2019 on tradable greenhouse gas emission allowances for stationary installations for 2021-2030. It was adopted on 16 March 2026, published on 20 March 2026 and takes effect on 30 March 2026.",
+   "nl": [
+    "Vlaanderen legt landspecifieke emissiefactor aardgas voor emissiejaarrapport 2025 vast op 55,89 ton CO2/TJ",
+    "Een Vlaams ministerieel besluit legt de standaardemissiefactor voor aardgas voor het emissiejaarrapport van BKG-installaties over de emissies van 2025 vast op 55,89 ton CO2/TJ. Het geldt voor exploitanten die de landspecifieke emissiefactor gebruiken onder de Europese monitoring- en rapportageverordening.",
+    "Het besluit betreft exploitanten van BKG-installaties in Vlaanderen die rapporteren onder de Europese emissiehandelsregels en gebruikmaken van de landspecifieke emissiefactor voor aardgas overeenkomstig artikel 31, §1, b), van uitvoeringsverordening (EU) 2018/2066. Voor het emissiejaarrapport over de emissies van 2025 wordt de standaardemissiefactor voor aardgas vastgelegd op 55,89 ton CO2/TJ. Dit is een landspecifieke waarde die in de plaats komt van de standaard IPCC-factor van 56,1 ton CO2/TJ, die België na de in-country review van het UNFCCC in 2018 niet langer mocht gebruiken. De FOD Economie deelde de waarde voor 2025 op 16 december 2025 mee aan de gewesten. Het besluit steunt op artikel 68, 7°, van het besluit van de Vlaamse Regering van 6 september 2019 over verhandelbare emissierechten voor broeikasgassen voor vaste installaties voor de periode 2021-2030. Het werd genomen op 16 maart 2026, bekendgemaakt op 20 maart 2026 en treedt in werking op 30 maart 2026."
+   ],
+   "fr": [
+    "La Flandre fixe à 55,89 t CO2/TJ le facteur d'émission national du gaz naturel pour le rapport 2025",
+    "Un arrêté ministériel flamand fixe à 55,89 tonnes de CO2/TJ le facteur d'émission standard du gaz naturel pour le rapport d'émissions 2025 des installations GES. Il vise les exploitants qui utilisent le facteur d'émission spécifique au pays prévu par le règlement européen de surveillance et de déclaration.",
+    "L'arrêté concerne les exploitants d'installations GES en Flandre qui déclarent leurs émissions dans le cadre du système européen d'échange de quotas et utilisent le facteur d'émission spécifique au pays pour le gaz naturel, conformément à l'article 31, §1er, b), du règlement d'exécution (UE) 2018/2066. Pour le rapport d'émissions relatif à l'année 2025, le facteur d'émission standard du gaz naturel est fixé à 55,89 tonnes de CO2/TJ. Cette valeur spécifique au pays remplace le facteur IPCC par défaut de 56,1 t CO2/TJ, que la Belgique a été invitée à abandonner à l'issue de l'examen national de la CCNUCC en 2018. Le SPF Économie a communiqué la valeur de 2025 aux régions le 16 décembre 2025. L'arrêté se fonde sur l'article 68, 7°, de l'arrêté du Gouvernement flamand du 6 septembre 2019 relatif aux quotas d'émission négociables de gaz à effet de serre pour les installations fixes pour la période 2021-2030. Il a été pris le 16 mars 2026, publié le 20 mars 2026 et entre en vigueur le 30 mars 2026."
+   ],
+   "scope": "Ministerieel besluit van 16 maart 2026 tot vastlegging van de landspecifieke emissiefactor voor aardgas voor het emissiejaarrapport 2025 (enig artikel)",
+   "dates": {
+    "adopted": "2026-03-16",
+    "published": "2026-03-20",
+    "in_force": "2026-03-30"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot vastlegging van de landspecifieke emissiefactor voor aardgas voor het emissiejaarrapport van BKG-installaties voor ",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041858&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041858"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266016",
+   "d": "2026-03-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "soil"
+   ],
+   "h": "Council of State: paved but unbuilt plots may be included in a water-sensitive open space area (WORG)",
+   "a": "The Council of State dismissed an action against a Flemish Government decision designating a water-sensitive open space area (WORG). It held that paved or laid-out plots without buildings may be included, and that flood hazard maps are a valid factual basis.",
+   "b": "The ruling concerns owners of land in areas that the Flemish Government designates as a WORG under Article 5.6.8 §1 of the Flemish Planning Code (VCRO), and the authorities making such designations. The Council rejected the annulment action against the decision of 19 July 2024. It held that the Government must take the factual situation into account, including buildings, and that plots used as parking or tennis courts harm water-retention capacity less than buildings do. Including such plots therefore fits the aim of safeguarding the water system by halting further realisation of the zoning. The Council also held that a plan that does not rule out redevelopment does not exclude future building, and that the flood hazard and water assessment maps were accepted as objective, science-based information unless shown otherwise. Including flood-prone unbuilt plots while leaving out partly built plots was not unreasonable. The loss of building possibilities is compensated through the planning damage scheme (planschaderegeling), and the principle of equal distribution of public burdens has a compensatory, not a prohibitive, character, so it cannot lead to annulment. The ruling is dated 13 March 2026.",
+   "nl": [
+    "Raad van State: verharde, onbebouwde percelen kunnen in een watergevoelig openruimtegebied (WORG) worden opgenomen",
+    "De Raad van State verwerpt het beroep tegen een besluit van de Vlaamse regering tot aanduiding van een watergevoelig openruimtegebied (WORG). Verharde of ingerichte percelen zonder gebouwen mogen worden opgenomen en overstromingsgevaarkaarten vormen een geldige feitelijke grondslag.",
+    "Het arrest treft eigenaars van gronden in gebieden die de Vlaamse regering aanduidt als WORG op grond van artikel 5.6.8, § 1, van de Vlaamse Codex Ruimtelijke Ordening (VCRO), en de overheden die zulke aanduidingen doen. De Raad verwerpt het beroep tot nietigverklaring van het besluit van 19 juli 2024. Hij oordeelt dat de Vlaamse regering rekening moet houden met de feitelijke toestand, waaronder bebouwing, en dat percelen die als parking of tennisveld zijn ingericht het waterbergend vermogen minder aantasten dan gebouwen. De opname van dergelijke percelen strookt dus met de doelstelling om de belangen van het watersysteem te vrijwaren door de verdere realisatie van de bestemming tegen te houden. Ook sluit een plan dat herinrichting niet uitsluit toekomstige bebouwing niet uit, en worden de overstromingsgevaarkaarten en watertoetskaarten aanvaard als objectieve, wetenschappelijk onderbouwde informatie zolang het tegendeel niet wordt aangetoond. Het was niet onredelijk om overstromingsgevoelige onbebouwde percelen op te nemen en deels bebouwde percelen uit te sluiten. Het verlies aan bouwmogelijkheden wordt vergoed via de planschaderegeling, en het beginsel van de gelijke verdeling van de openbare lasten heeft een vergoedend en geen verbiedend karakter, zodat het niet tot vernietiging kan leiden. Het arrest is gewezen op 13 maart 2026."
+   ],
+   "fr": [
+    "Conseil d'État : des parcelles revêtues mais non bâties peuvent être incluses dans une zone d'espace ouvert sensible à l'eau (WORG)",
+    "Le Conseil d'État rejette le recours dirigé contre un arrêté du Gouvernement flamand désignant une zone d'espace ouvert sensible à l'eau (WORG). Des parcelles revêtues ou aménagées sans bâtiments peuvent y être incluses et les cartes de risque d'inondation constituent une base factuelle valable.",
+    "L'arrêt concerne les propriétaires de terrains situés dans des zones que le Gouvernement flamand désigne comme WORG en vertu de l'article 5.6.8, § 1er, du Code flamand de l'aménagement du territoire (VCRO), ainsi que les autorités qui procèdent à ces désignations. Le Conseil rejette le recours en annulation de l'arrêté du 19 juillet 2024. Il juge que le Gouvernement flamand doit tenir compte de la situation de fait, y compris les constructions, et que des parcelles aménagées en parking ou en terrain de tennis nuisent moins à la capacité de rétention d'eau que des bâtiments. L'inclusion de telles parcelles est donc conforme à l'objectif de protéger les intérêts du système hydrique en empêchant la poursuite de la réalisation de l'affectation. En outre, un plan qui n'exclut pas un réaménagement n'exclut pas une construction future, et les cartes de risque d'inondation et les cartes du test de l'eau sont admises comme informations objectives et scientifiquement étayées tant que le contraire n'est pas démontré. Il n'était pas déraisonnable d'inclure des parcelles non bâties sensibles aux inondations et d'exclure des parcelles partiellement bâties. La perte de possibilités de construire est compensée par le régime d'indemnisation des dommages résultant de la planification (planschaderegeling), et le principe d'égalité devant les charges publiques a un caractère indemnitaire et non prohibitif, de sorte qu'il ne peut conduire à l'annulation. L'arrêt a été rendu le 13 mars 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.016 van 13 maart 2026 – artikel 5.6.8, § 1 VCRO (aanduiding van een watergevoelig openruimtegebied)",
+   "dates": {
+    "adopted": "2026-03-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266016. 1. Het beroep, ingesteld op 4 november 2024, strekt tot de nietigverklaring van het besluit van de Vlaams",
+     "https://www.raadvst-consetat.be/arresten/266016"
+    ]
+   ],
+   "inbox": [
+    "rvs:266016"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266015",
+   "d": "2026-03-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "environmental-safety"
+   ],
+   "h": "Council of State upholds water-sensitive open space designation based on flood hazard maps",
+   "a": "The Council of State dismissed an action against the Flemish Government's definitive designation of the 'Goorloop' water-sensitive open space area (WORG) in Westerlo. It held that the flood hazard maps and water assessment maps can justify a designation, even where no fluvial climate model exists.",
+   "b": "The ruling concerns the designation of water-sensitive open space areas under Article 5.6.8 §1 of the Flemish Codex on Spatial Planning (VCRO), and so affects landowners in former 'signal areas' and the authorities that designate them. The Council held that the recent flood hazard maps and the water assessment maps are a sufficient factual basis for the boundary. Plots with practically no flood risk were left out, while a plot part with a high flood probability on the pluvial map for the future climate was enough to include it. The absence of a fluvial model under climate change is no reason to exclude an area, because the future impact can be assumed to be at least as great as today's. The height of plots was taken into account, and it does not matter that it results from artificial raising. A party alleging unequal treatment must show comparable situations. The principle of equality of citizens before public burdens is compensatory, not prohibitive, so an alleged breach cannot lead to annulment. The plan-EIA (plan-MER) assessed the objective alternatives and the zero alternative. Location alternatives were not at issue because the signal areas are the undeveloped sites with the highest flood risk. Opening up the culverted stream was not a reasonable alternative, and the lack of municipal support was only a surplus reason. An argument raised for the first time in the reply memorandum was held inadmissible as late. The action against the decision of 19 July 2024 was dismissed by judgment of 13 March 2026, with costs on the claimants.",
+   "nl": [
+    "Raad van State bevestigt aanduiding watergevoelig openruimtegebied op basis van overstromingsgevaarkaarten",
+    "De Raad van State verwerpt het beroep tegen de definitieve aanduiding van het watergevoelig openruimtegebied (WORG) 'Goorloop' in Westerlo door de Vlaamse regering. Volgens de Raad kunnen de overstromingsgevaarkaarten en de watertoetskaarten een aanduiding dragen, ook als er geen fluviaal model voor het toekomstige klimaat bestaat.",
+    "Het arrest betreft de aanduiding van watergevoelige openruimtegebieden op grond van artikel 5.6.8, § 1, van de Vlaamse Codex Ruimtelijke Ordening (VCRO) en raakt dus eigenaars in voormalige signaalgebieden en de overheden die deze gebieden aanduiden. De Raad oordeelt dat de recente overstromingsgevaarkaarten en de watertoetskaarten een voldoende feitelijke grondslag vormen voor de afbakening. Percelen met quasi geen overstromingsrisico werden uit het WORG gesloten, terwijl een grote overstromingskans op de pluviale kaart voor het toekomstige klimaat volstond om een perceeldeel op te nemen. Het ontbreken van een fluviaal model onder klimaatverandering is geen reden om een gebied uit te sluiten, omdat kan worden aangenomen dat de toekomstige impact minstens even groot zal zijn als de huidige. Met de hoogteligging van de percelen is rekening gehouden, en het is niet relevant dat die het gevolg is van een kunstmatige ophoging. Wie een schending van het gelijkheidsbeginsel aanvoert, moet vergelijkbare situaties aantonen. Het beginsel van de gelijkheid van de burgers voor de openbare lasten heeft een vergoedend en geen verbiedend karakter, zodat een schending ervan niet tot vernietiging kan leiden. Het plan-MER beoordeelde de doelstellingsalternatieven en het nulalternatief. Locatiealternatieven waren niet aan de orde, omdat de signaalgebieden de onbebouwde locaties met het hoogste overstromingsrisico zijn. De openlegging van de ingebuisde waterloop was geen redelijk alternatief, en het gebrek aan draagvlak bij de gemeente was slechts een overtollig motief. Een betoog dat voor het eerst in de memorie van wederantwoord werd opgeworpen, is laattijdig en onontvankelijk. Het beroep tegen het besluit van 19 juli 2024 werd bij arrest van 13 maart 2026 verworpen, met de kosten ten laste van de verzoekende partijen."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme la désignation d'une zone ouverte sensible à l'eau sur la base de cartes de risque d'inondation",
+    "Le Conseil d'État rejette le recours contre la désignation définitive par le Gouvernement flamand de la zone ouverte sensible à l'eau (WORG) « Goorloop » à Westerlo. Il juge que les cartes de risque d'inondation et les cartes du test de l'eau peuvent fonder la désignation, même en l'absence de modèle fluvial pour le climat futur.",
+    "L'arrêt porte sur la désignation de zones ouvertes sensibles à l'eau en vertu de l'article 5.6.8, § 1er, du Code flamand de l'aménagement du territoire (VCRO) et concerne donc les propriétaires situés dans d'anciennes zones signal et les autorités qui désignent ces zones. Le Conseil juge que les cartes récentes de risque d'inondation et les cartes du test de l'eau constituent une base factuelle suffisante pour la délimitation. Les parcelles présentant pratiquement aucun risque d'inondation ont été exclues, tandis qu'une forte probabilité d'inondation sur la carte pluviale pour le climat futur suffisait pour inclure une partie de parcelle. L'absence de modèle fluvial sous changement climatique n'est pas une raison d'exclure une zone, l'impact futur pouvant être supposé au moins égal à l'impact actuel. L'altitude des parcelles a été prise en compte, et il importe peu qu'elle résulte d'un exhaussement artificiel. Celui qui invoque une violation du principe d'égalité doit démontrer l'existence de situations comparables. Le principe de l'égalité des citoyens devant les charges publiques a un caractère indemnitaire et non prohibitif, de sorte qu'une violation éventuelle ne peut conduire à l'annulation. Le plan-MER a examiné les alternatives d'objectifs et l'alternative zéro. Les alternatives de localisation n'étaient pas en cause, les zones signal étant les sites non bâtis présentant le risque d'inondation le plus élevé. La remise à ciel ouvert du cours d'eau canalisé n'était pas une alternative raisonnable, et le manque de soutien de la commune n'était qu'un motif surabondant. Un argument soulevé pour la première fois dans le mémoire en réplique est tardif et irrecevable. Par arrêt du 13 mars 2026, le recours contre l'arrêté du 19 juillet 2024 a été rejeté, les dépens étant mis à charge des parties requérantes."
+   ],
+   "scope": "Raad van State, arrest nr. 266.015 – beroep tegen het besluit van de Vlaamse regering van 19 juli 2024 (definitieve aanduiding WORG 'Goorloop', Westerlo); art. 5.6.8, § 1, VCRO",
+   "dates": {
+    "adopted": "2026-03-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266015. 1. Het beroep, ingesteld op 4 november 2024, strekt tot de nietigverklaring van het besluit van de Vlaams",
+     "https://www.raadvst-consetat.be/arresten/266015"
+    ]
+   ],
+   "inbox": [
+    "rvs:266015"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-266013",
+   "d": "2026-03-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: water-sensitive open space (WORG) can cover built-zoned land; designation upheld",
+   "a": "The Council of State rejected an appeal against the Flemish Government's final designation of the water-sensitive open space area 'Het Laar' in Antwerp. It held that such areas may include land with a 'hard' zoning, and that a designation replaces the previous zoning.",
+   "b": "The ruling concerns landowners and authorities dealing with designations of water-sensitive open space areas (WORG) under Article 5.6.8 of the Flemish Codex on Spatial Planning (VCRO). The Council held that the definition of 'open space area' in Article 6.1.1, 5° VCRO applies only to the enforcement title, so a WORG may include land with a hard zoning such as residential area. Under Article 5.6.8 VCRO, a designation lifts the zoning that applied before, and the decree itself sets the functions allowed in the area. Article 2.2.6, § 2, third paragraph VCRO classes such areas as 'mixed open space area'. Objections to the choice of this instrument instead of a spatial implementation plan (RUP), or to the type classification, are criticism of those provisions, which the Council cannot review. On weighing interests, Article 1.1.4 VCRO does not require all interests to carry equal weight. The authority has wide discretion, and giving priority to flood prevention over an individual interest in developing a plot is not unlawful. Flood-risk maps could be relied on, and a private study or the absence of recent floods did not remove that basis. The appeal was dismissed on 13 March 2026.",
+   "nl": [
+    "Raad van State: watergevoelig openruimtegebied (WORG) kan ook harde bestemming omvatten; aanduiding behouden",
+    "De Raad van State verwierp het beroep tegen de definitieve aanduiding door de Vlaamse regering van het watergevoelig openruimtegebied ‘Het Laar’ in Antwerpen. Een WORG kan gebieden met een harde bestemming omvatten en de aanduiding heft de voorheen geldende bestemming op.",
+    "Het arrest is van belang voor grondeigenaars en overheden bij de aanduiding van watergevoelige openruimtegebieden (WORG) op grond van artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening (VCRO). De Raad oordeelde dat de definitie van ‘openruimtegebied’ in artikel 6.1.1, 5° VCRO enkel geldt voor de titel Handhaving, zodat een WORG ook gebieden met een harde bestemming, zoals woongebied, kan omvatten. Volgens artikel 5.6.8 VCRO heft de aanduiding de voorheen geldende bestemming op, en het decreet zelf bepaalt de toegelaten functies in het gebied. Artikel 2.2.6, § 2, derde lid VCRO rekent die gebieden tot de subcategorie ‘gemengd openruimtegebied’. Bezwaren tegen de keuze van dit instrument in plaats van een ruimtelijk uitvoeringsplan (RUP), of tegen de typebepaling, zijn kritiek op die bepalingen, waarover de Raad niet bevoegd is. Wat de belangenafweging betreft, vereist artikel 1.1.4 VCRO niet dat alle belangen even zwaar wegen. De overheid beschikt over een ruime appreciatiebevoegdheid, en voorrang geven aan het voorkomen van overstromingen boven het individuele belang om een perceel te ontwikkelen is niet onwettig. Er kon gesteund worden op de overstromingskaarten, en een private studie of het uitblijven van recente overstromingen nam die grondslag niet weg. Het beroep werd op 13 maart 2026 verworpen."
+   ],
+   "fr": [
+    "Conseil d’État : une zone d’espace ouvert sensible à l’eau (WORG) peut couvrir une affectation « dure » ; désignation maintenue",
+    "Le Conseil d’État a rejeté le recours contre la désignation définitive par le Gouvernement flamand de la zone d’espace ouvert sensible à l’eau « Het Laar » à Anvers. Une telle zone peut inclure des terrains à affectation « dure », et la désignation abroge l’affectation antérieure.",
+    "L’arrêt concerne les propriétaires et les autorités confrontés à la désignation de zones d’espace ouvert sensibles à l’eau (WORG) sur la base de l’article 5.6.8 du Code flamand de l’Aménagement du territoire (VCRO). Le Conseil a jugé que la définition de « zone d’espace ouvert » de l’article 6.1.1, 5° VCRO ne vaut que pour le titre relatif au maintien, de sorte qu’une WORG peut inclure des terrains à affectation « dure », comme la zone d’habitat. Selon l’article 5.6.8 VCRO, la désignation abroge l’affectation applicable auparavant, et le décret fixe lui-même les fonctions autorisées dans la zone. L’article 2.2.6, § 2, alinéa 3 VCRO range ces zones dans la sous-catégorie « zone d’espace ouvert mixte ». Les griefs relatifs au choix de cet instrument plutôt que d’un plan d’exécution spatial (RUP), ou à la qualification de ce type de zone, visent ces dispositions elles-mêmes, que le Conseil n’est pas compétent pour apprécier. Quant à la pondération des intérêts, l’article 1.1.4 VCRO n’exige pas que tous les intérêts pèsent d’un poids égal. L’autorité dispose d’un large pouvoir d’appréciation, et donner la priorité à la prévention des inondations sur l’intérêt individuel de développer une parcelle n’est pas illégal. Les cartes d’inondation pouvaient être invoquées, et ni une étude privée ni l’absence d’inondations récentes n’ont privé cette base de sa valeur. Le recours a été rejeté le 13 mars 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.013 van 13 maart 2026 – beroep tegen het besluit van de Vlaamse regering van 19 juli 2024 (WORG ‘Het Laar’, Antwerpen); artikelen 5.6.8, 2.2.6 § 2, 1.1.4 en 6.1.1, 5° VCRO",
+   "dates": {
+    "adopted": "2026-03-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266013. 1. Het beroep, ingesteld op 4 november 2024, strekt tot de nietigverklaring van het besluit van de Vlaams",
+     "https://www.raadvst-consetat.be/arresten/266013"
+    ]
+   ],
+   "inbox": [
+    "rvs:266013"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

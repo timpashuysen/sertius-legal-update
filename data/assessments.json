@@ -42191,7 +42191,8 @@
 ],
 "reason": "Aarhus internal review ruling on access to justice for NGOs against forest taxonomy act.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62022tj0575"
 },
 "eu:52026PC0321": {
 "v": 4,
@@ -42302,7 +42303,9 @@
 ],
 "reason": "EU position on ICAO Annex 16 aircraft noise and emissions environmental standards.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Sets the EU voting position at ICAO on Annex 16 amendments; creates no direct obligations for Belgian companies, developers or authorities."
 },
 "eu:32026D0728": {
 "v": 4,
@@ -42558,7 +42561,9 @@
 ],
 "reason": "EU position on marine biodiversity beyond national jurisdiction; nature rules, though indirect for Belgium.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "EU negotiating position on BBNJ Conference rules of procedure and finance; no new obligations for Belgian companies or authorities."
 },
 "eu:32026D0560": {
 "v": 4,
@@ -42578,7 +42583,8 @@
 ],
 "reason": "Changes Member State allocation tables in the EU ETS Union Registry, including Belgium.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d02643"
 },
 "codex:1041918": {
 "v": 4,
@@ -42598,7 +42604,8 @@
 ],
 "reason": "Sets Belgian country-specific natural gas emission factor for installations' greenhouse gas reporting.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041858"
 },
 "eu:32026R0695": {
 "v": 4,
@@ -65394,7 +65401,8 @@
 ],
 "reason": "Interprets 'bâtiments existants' in CoDT D.IV.6: derogation requires proof the building was lawfully built, and the permit must motivate that and modest use.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266035"
 },
 "rvs:266034": {
 "v": 4,
@@ -65406,7 +65414,8 @@
 ],
 "reason": "CoDT art. D.IV.42 §1: on appeal, modified plans that change the application's object are inadmissible unless listed; only clarifying plans are allowed.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266034"
 },
 "rvs:266033": {
 "v": 4,
@@ -65469,7 +65478,9 @@
 ],
 "reason": "Under Brussels Housing Code art. 7 §4, the reforming authority must assess the dwelling's state at the time of decision, not only at inspection; annulment for inadequate reasoning.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Concerns appeal against a rental ban under the Brussels Housing Code (housing safety and habitability), not an environmental obligation."
 },
 "rvs:266027": {
 "v": 4,
@@ -65572,7 +65583,8 @@
 ],
 "reason": "Reads 'bebouwing' in the WORG designation rule (VCRO 5.6.8) narrowly, so paved or parking land can be designated; also holds GBOL is compensatory, not prohibitive.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266016"
 },
 "rvs:266015": {
 "v": 4,
@@ -65585,7 +65597,8 @@
 ],
 "reason": "Upholds a water-sensitive open space designation; flood maps may ground it without a fluvial climate model, plan-MER alternatives need not be re-examined, and GBOL is compensatory only.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266015"
 },
 "rvs:266013": {
 "v": 4,
@@ -65598,7 +65611,8 @@
 ],
 "reason": "A watergevoelig openruimtegebied designation under art. 5.6.8 VCRO may overlay hard zoning, lifts the prior zoning and is not limited by the title VI definition of open space.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266013"
 },
 "rvs:266012": {
 "v": 4,
@@ -66111,7 +66125,8 @@
 ],
 "reason": "After a ministerial annulment, a council may restate refusal reasons with added reasoning if not unclear, off-point or pretextual; surplus motives cannot annul a decision.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266048"
 },
 "rvs:266046": {
 "v": 4,
@@ -66123,7 +66138,8 @@
 ],
 "reason": "Walloon CoDT: a late reasoned proposal from the administration is inoperative, and regularisation permits need especially scrupulous reasoning against the fait accompli.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266046"
 },
 "rvs:266045": {
 "v": 4,
@@ -66175,7 +66191,8 @@
 ],
 "reason": "Annuls a municipal spatial implementation plan: deviating from the directive part of a structure plan requires motivated exceptions under art. 2.1.2 §3 VCRO; the plan's motivation was insufficient.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266041"
 },
 "rvs:266040": {
 "v": 4,
@@ -67362,12 +67379,12 @@
 "this_run": 11,
 "found_not_relevant_on_reading": 3,
 "failed": 0,
-"waiting": 381,
+"waiting": 367,
 "api": {
 "calls": 14,
-"input_tokens": 164954,
-"output_tokens": 38561,
-"usd": 0.7155
+"input_tokens": 158465,
+"output_tokens": 36005,
+"usd": 0.677
 },
 "updated": "2026-11-23"
 },
