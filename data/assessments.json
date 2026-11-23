@@ -20454,7 +20454,9 @@
 ],
 "reason": "Corrigendum adding Aarhus internal review mechanism for environmental decisions.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Corrigendum only fixes State aid wording ('existing aid scheme') in Regulation 794/2004; no environmental obligations changed or clarified."
 },
 "codex:1042382": {
 "v": 4,
@@ -20606,7 +20608,9 @@
 ],
 "reason": "Harmonises enforcement decrees with new Criminal Code; may cover environmental enforcement.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Technical alignment of penalty and cross-references in cemetery, local government, election and justice decrees with the new Criminal Code; no environmental obligations affected."
 },
 "codex:1042277": {
 "v": 4,
@@ -20899,7 +20903,9 @@
 ],
 "reason": "Amends CoDT regulatory part on spatial planning conference subsidy rules; marginal.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only changes funding arrangements for the CPDT university research subsidy; no environmental obligations for companies, developers or authorities."
 },
 "gwh:92/2026": {
 "v": 4,
@@ -58155,7 +58161,8 @@
 ],
 "reason": "Under art. 5.1.0 Inrichtingsbesluit, commercial uses in woongebied met landelijk karakter must be judged against the gewestplan zone and immediate surroundings; RUP texts cannot override that assessme",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1007"
 },
 "rvvb:RVVB.2526.1006": {
 "v": 4,
@@ -58168,7 +58175,8 @@
 ],
 "reason": "Annuls permit: planning-compliance test must be done on the correct reading of RUP garden-zone rules (min. 50cm teelaarde, depth); 4.4.1 VCRO exceptions read restrictively; burden on respondent to sho",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"write_error": "Expecting value: line 10 column 1 (char 4003)"
 },
 "rvvb:RVVB.2526.1005": {
 "v": 4,
@@ -58180,7 +58188,8 @@
 ],
 "reason": "Holds that where a parcel falls under several RUP zones, the permit must cumulatively meet each zone's rules; future misuse is an enforcement matter, not a permit ground.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1005"
 },
 "rvvb:RVVB.2526.1004": {
 "v": 4,
@@ -58192,7 +58201,8 @@
 ],
 "reason": "A municipal college keeps standing to appeal under the omgevingsvergunning decree if its first advice was timely, even if a later advice is late; a second advice carries a 30-day term.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1004"
 },
 "rvvb:RVVB.2526.1003": {
 "v": 4,
@@ -58239,7 +58249,8 @@
 ],
 "reason": "Interprets 'netto handelsoppervlakte' under the retail establishments decree (art. 11, 3° and art. 2, 7°) and holds that fire-safety floor calculations differ, and that new grounds cannot be raised in",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1000"
 },
 "rvvb:RVVB.2526.0997": {
 "v": 4,
@@ -58286,7 +58297,9 @@
 ],
 "reason": "Adjacent owners need only state their status to show standing to appeal a permit; the permit holder must prove negligible consequences.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Interim ruling that applies settled standing rules to one file and reopens the debates for settlement talks; no rule is annulled or interpreted."
 },
 "rvvb:RVVB.2526.0992": {
 "v": 4,
@@ -58310,7 +58323,8 @@
 ],
 "reason": "Final individual permits and soil conformity certificates cannot be challenged collaterally in a later permit appeal, even via the Article 159 Constitution exception.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0991"
 },
 "rvvb:RVVB.2526.0988": {
 "v": 4,
@@ -58335,7 +58349,8 @@
 ],
 "reason": "Confirms a permit applicant may appeal and seek suspension of a last-instance inadmissibility/incompleteness decision (art. 105 OVD); also reads 'hoofdfunctie' and functiewijziging rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0987"
 },
 "rvvb:RVVB.2526.0984": {
 "v": 4,
@@ -58385,7 +58400,8 @@
 ],
 "reason": "Addresses whether a GRUP repeals subdivision rules outside its perimeter, plan-MER screening pleading requirements, planschade register duties and hearing rights for plan adoption.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0980"
 },
 "rvvb:RVVB.2526.0979": {
 "v": 4,
@@ -58438,7 +58454,9 @@
 ],
 "reason": "States the standing test for 'betrokken publiek' under the Omgevingsvergunningsdecreet: a neighbour must show a probable personal effect, residence nearby alone is insufficient, and the burden shifts ",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal dismissed for lack of standing on case-specific facts (distance, screening); only restates established standing principles."
 },
 "rvvb:RVVB.2526.0975": {
 "v": 4,
@@ -58499,7 +58517,8 @@
 ],
 "reason": "Ruling holds that terrain profiles in a subdivision permit have the same legal force as its regulatory prescriptions, and that a deviation requires the ordinary procedure with public inquiry, so an ap",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0970"
 },
 "rvvb:RVVB.2526.0969": {
 "v": 4,
@@ -66994,15 +67013,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
-"failed": 0,
-"waiting": 695,
+"this_run": 8,
+"found_not_relevant_on_reading": 5,
+"failed": 1,
+"waiting": 682,
 "api": {
 "calls": 14,
-"input_tokens": 256369,
-"output_tokens": 41878,
-"usd": 0.9315
+"input_tokens": 195716,
+"output_tokens": 33681,
+"usd": 0.7282
 },
 "updated": "2026-11-23"
 },
