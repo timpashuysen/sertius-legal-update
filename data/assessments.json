@@ -56531,7 +56531,8 @@
 ],
 "reason": "Clarifies 'hoofdzakelijk vergund' for zoning-deviation rights: necessary constructions (e.g. parking, terraces) must be assessed for permit status, not just the core building; annulled.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0390"
 },
 "rvvb:RVVB.A.2526.0384": {
 "v": 4,
@@ -56544,7 +56545,8 @@
 ],
 "reason": "Annuls a subdivision permit: a moved infiltration facility needs supporting soil and groundwater data, and intervenors may only support the appellant's pleas.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0384"
 },
 "rvvb:RVVB.A.2526.0383": {
 "v": 4,
@@ -56556,7 +56558,8 @@
 ],
 "reason": "Interprets a RUP's zoning title and use list: 'regionaal bedrijventerrein' is a deliberate designation, and business-building units may be tested against it. Wider use for permit applicants.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0383"
 },
 "rvvb:RVVB.A.2526.0382": {
 "v": 4,
@@ -56568,7 +56571,8 @@
 ],
 "reason": "Confirms that the zone boundary is measured on the original gewestplan, not a principled 50 m depth; that new arguments in reply pleadings are inadmissible; and that the Council reviews zone-boundary ",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0382"
 },
 "rvvb:RVVB.A.2526.0381": {
 "v": 4,
@@ -56581,7 +56585,8 @@
 ],
 "reason": "Annuls a permit: an appropriate assessment is required where a voortoets identifies a significance risk (acidification), and the verkavelingsvergunning rule for group housing is applied.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0381"
 },
 "rvvb:RVVB.A.2526.0380": {
 "v": 4,
@@ -56593,7 +56598,8 @@
 ],
 "reason": "Applies art. 4.3.3 VCRO: mandatory advice on breaches of direct-working sectoral norms (autosnelweg statute, advertising rules) binds the permit authority. Medium confidence, as the ruling's reasoning",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0380"
 },
 "rvvb:RVVB.A.2526.0379": {
 "v": 4,
@@ -56605,7 +56611,8 @@
 ],
 "reason": "Zoning-deviation rules (VCRO 4.4.23, BZF arts. 10-11) read restrictively: a woningbijgebouw needs a residential function, and departing from negative heritage advice requires precise reasons.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0379"
 },
 "rvvb:RVVB.A.2526.0378": {
 "v": 4,
@@ -56631,7 +56638,8 @@
 ],
 "reason": "Annuls a permit: reads RUP public-green norms (paved paths not planting), requires reasons on functional usability, and restrictively applies art. 4.4.1 VCRO minor-deviation rule.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0377"
 },
 "rvs:265347": {
 "v": 4,
@@ -56714,7 +56722,8 @@
 ],
 "reason": "Restates that permit conditions must be precise, limited, accessory, and not leave room for appreciation or depend on future or third-party events; applies this to impact-study recommendations.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265338"
 },
 "gwh:6/2026": {
 "v": 4,
@@ -56725,7 +56734,8 @@
 ],
 "reason": "Constitutional Court ruling on a Flemish integrated water policy provision.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-6-2026"
 },
 "gwh:5/2026": {
 "v": 4,
@@ -56736,7 +56746,8 @@
 ],
 "reason": "Constitutional Court annulment proceedings against Flemish environment omnibus decree provisions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-5-2026"
 },
 "gwh:4/2026": {
 "v": 4,
@@ -56879,7 +56890,9 @@
 ],
 "reason": "Late new pleas in a reply memorandum are inadmissible if the appellant knew the facts when filing the petition, even where earlier ministerial decisions revealed them.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Council of State rejects an annulment request against one urban planning permit; it applies settled admissibility rules to the facts and sets no new environmental rule."
 },
 "eu:32018L2001R(13)": {
 "v": 4,
@@ -56940,7 +56953,8 @@
 ],
 "reason": "Annuls a Walloon game-management plan; holds that 'repeuplement' releases require at least one year of hunting suspension and that deviating from expert advice needs explicit reasons.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265329"
 },
 "rvs:265328": {
 "v": 4,
@@ -56962,7 +56976,8 @@
 ],
 "reason": "Under CoDT art. D.II.24, non-residential uses in residential zones need a specific statement of reasons on both conditions, including that the main residential function is not endangered.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265327"
 },
 "rvs:265326": {
 "v": 4,
@@ -67681,15 +67696,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 14,
-"found_not_relevant_on_reading": 0,
+"this_run": 13,
+"found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 88,
+"waiting": 74,
 "api": {
 "calls": 14,
-"input_tokens": 211799,
-"output_tokens": 43369,
-"usd": 0.8573
+"input_tokens": 223607,
+"output_tokens": 43929,
+"usd": 0.8865
 },
 "updated": "2026-11-23"
 },
