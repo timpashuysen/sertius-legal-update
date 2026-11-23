@@ -38900,7 +38900,8 @@
 ],
 "reason": "Reads the transitional permit-term extension in art. 394/2 OMV decree narrowly: an unextended expired permit is a new installation, and 'goedgekeurd' on a municipal agenda item does not grant an exten",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0628"
 },
 "gwh:40/2026": {
 "v": 4,
@@ -38956,7 +38957,9 @@
 ],
 "reason": "Appoints regional supervisors enforcing Flemish environmental rules; affects enforcement.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Administrative appointment of two departmental officials as supervisors, replacing an earlier appointment decision; no obligations for companies or authorities change."
 },
 "codex:1041910": {
 "v": 4,
@@ -39012,7 +39015,8 @@
 ],
 "reason": "Amends EU Market Stability Reserve for ETS allowances; emissions trading rule.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-52026pc0153"
 },
 "eu:52026PC0141": {
 "v": 4,
@@ -39122,7 +39126,8 @@
 ],
 "reason": "Sets entry into force of PV obligation deferral and exemption rules for buildings.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041898"
 },
 "cass:P.25.0906.F": {
 "v": 4,
@@ -39214,7 +39219,8 @@
 ],
 "reason": "Recognises Latvian rapeseed GHG data under renewable energy directive accounting; borderline.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0753"
 },
 "eu:31992L0043R(08)": {
 "v": 4,
@@ -39419,7 +39425,8 @@
 ],
 "reason": "EU position on listing TBPH as persistent organic pollutant under Stockholm Convention.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0878"
 },
 "eu:32026D0834": {
 "v": 4,
@@ -39583,7 +39590,9 @@
 ],
 "reason": "Designates enforcement supervisors for heritage and inland waterway heritage visitations.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Designates nine named heritage inspectors as supervisors for administrative visitations; it creates no new or changed obligations for companies, developers or authorities."
 },
 "codex:1041892": {
 "v": 4,
@@ -39603,7 +39612,9 @@
 ],
 "reason": "Designates environmental enforcement officers with judicial police status and visitation powers.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Personnel designation of ten named enforcement officials; no change to obligations of companies, developers or authorities."
 },
 "codex:1041889": {
 "v": 4,
@@ -39614,7 +39625,9 @@
 ],
 "reason": "Designates environmental enforcement officers with judicial police status and visitation powers.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Individual appointment of 35 named environmental enforcement officials; it creates no new or clarified obligations for companies, developers or authorities."
 },
 "codex:1041888": {
 "v": 4,
@@ -39625,7 +39638,9 @@
 ],
 "reason": "Designates environmental enforcement officers with judicial police status and visitation powers.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Designates named enforcement officials as judicial police officers and visitation supervisors; creates no new or clarified environmental obligations for companies, developers or authorities."
 },
 "codex:1041890": {
 "v": 4,
@@ -39636,7 +39651,9 @@
 ],
 "reason": "Appoints restoration bodies under the Flemish environmental enforcement decree.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Administrative appointment of ten named VMM staff as restoration authorities; it creates no new obligations and does not clarify existing ones."
 },
 "rvvb:RVVB.UDN.2526.0627": {
 "v": 4,
@@ -39650,7 +39667,8 @@
 ],
 "reason": "Authority's review of a notified heat-pump installation (aktename) is limited to notifiability and prohibition; it may impose conditions on noise and vibration.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-udn-2526-0627"
 },
 "eu:32026R0797": {
 "v": 4,
@@ -39805,7 +39823,8 @@
 ],
 "reason": "Appoints restoration instances and urban planning inspectors under the environmental enforcement decree.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041914"
 },
 "codex:1041886": {
 "v": 4,
@@ -39816,7 +39835,8 @@
 ],
 "reason": "Appoints supervisors and restoration instances under the environmental enforcement decree.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041886"
 },
 "codex:1041883": {
 "v": 4,
@@ -67274,15 +67294,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 8,
+"found_not_relevant_on_reading": 6,
 "failed": 0,
-"waiting": 450,
+"waiting": 436,
 "api": {
 "calls": 14,
-"input_tokens": 251624,
-"output_tokens": 41746,
-"usd": 0.9207
+"input_tokens": 79236,
+"output_tokens": 24706,
+"usd": 0.4055
 },
 "updated": "2026-11-23"
 },
