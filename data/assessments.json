@@ -17964,7 +17964,9 @@
 ],
 "reason": "Flemish income-tariff subsidy call, likely renewable energy support; title truncated.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Concerns childcare subsidy allocation (income-based tariff) by Opgroeien regie; no environmental obligations for companies, project developers or authorities."
 },
 "eu:32026R1965": {
 "v": 3,
@@ -18085,7 +18087,9 @@
 "topics": [],
 "reason": "Membership of an expert commission; field unclear from title, so flagged for review.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only changes the personal membership of an inland navigation expert commission; no environmental obligations for companies, developers or authorities."
 },
 "codex:1042318": {
 "v": 3,
@@ -33907,13 +33911,17 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2627.0114": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one individual terrace canopy permit.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Annulment of a planning permit: a deviation from BPA rules under art. 4.4.9/1 VCRO requires a reasoned request under art. 4.4.1/0 VCRO, which applies to ongoing procedures.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2627-0114"
 },
 "rvvb:RVVB.2627.0113": {
 "v": 2,
@@ -33986,13 +33994,18 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2627.0103": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one individual permit for a flood area extension.",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Choice of simplified permit procedure must be formally motivated in the decision; post-factum justification in the answer note is disregarded.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2627-0103"
 },
 "rvvb:RVVB.2627.0102": {
 "v": 3,
@@ -55933,15 +55946,16 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2627.0044": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
-"confidence": "low",
-"at": "2026-11-22",
+"reason": "Basement volume counts toward the 1,000 m³ cap unless it is a usual basement, judged on size and volume, not only use; permit conditions must be precise and feasible.",
+"confidence": "medium",
+"at": "2026-11-23",
 "written": "d-rvvb-rvvb-2627-0044"
 },
 "rvvb:RVVB.2627.0043": {
@@ -56488,7 +56502,8 @@
 ],
 "reason": "Incompleteness declarations must state specifically why supplementary data fails; post-factum motivation is disregarded; completeness checks may not assess content.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1084"
 },
 "rvvb:RVVB.2526.1083": {
 "v": 3,
@@ -56500,7 +56515,8 @@
 ],
 "reason": "Simplified permit procedure applies only if the application as filed complies with the subdivision rules; assessed at filing, not by later amended plans. Annulment, with the Council substituting a ref",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1083"
 },
 "rvvb:RVVB.2526.1082": {
 "v": 2,
@@ -56524,13 +56540,18 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2526.1080": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of acknowledgement of one farm's manure-related notification; site-specific.",
-"confidence": "medium",
-"at": "2026-11-22"
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting"
+],
+"reason": "Holds that a PAS art. 8 notification must use the decreed ammonia reduction percentage, and that the programme-level appropriate assessment covers such measures.",
+"confidence": "high",
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1080"
 },
 "rvvb:RVVB.2526.1079": {
 "v": 2,
@@ -56597,7 +56618,8 @@
 ],
 "reason": "Interprets Hemelwaterverordening art. 12: deviations need not be technical; own design choices alone aren't enough; the non-binding technical background document adds no extra conditions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1072"
 },
 "rvvb:RVVB.2526.1071": {
 "v": 2,
@@ -56642,7 +56664,8 @@
 ],
 "reason": "Permit authority cannot cure an ambiguous application by choosing among alternative wall designs itself; amended project content must follow the formal modification route.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1067"
 },
 "rvvb:RVVB.2526.1066": {
 "v": 2,
@@ -56675,7 +56698,8 @@
 ],
 "reason": "Interprets 'hoofdzakelijk vergund' for zonevreemde businesses (art. 4.1.1, 7° VCRO): authority must first identify necessary business constructions, then check they are permitted; annuls permit.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1063"
 },
 "rvvb:RVVB.2526.1062": {
 "v": 3,
@@ -56688,7 +56712,8 @@
 ],
 "reason": "Council annuls permit for zonevreemde functiewijziging in agricultural area: clarifies 'woningbijgebouw' meaning, duty of heightened reasoning against adverse agency advice, and invalidity of conditio",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1062"
 },
 "rvvb:RVVB.2526.1061": {
 "v": 2,
@@ -56710,7 +56735,8 @@
 ],
 "reason": "Suspends a tree-felling permit: the natuurtoets under art. 16 Natuurdecreet must show avoidable nature damage was assessed, and unsecured compensation planting cannot justify it.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1058"
 },
 "rvvb:RVVB.2526.1055": {
 "v": 3,
@@ -56723,7 +56749,8 @@
 ],
 "reason": "Annuls a permit refusal: authority must concretely show a former watercourse still holds water regularly to qualify as an oppervlaktewaterlichaam under the Waterwetboek 5 m rule, using current facts.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-1055"
 },
 "rvvb:RVVB.2526.1054": {
 "v": 3,
@@ -56968,13 +56995,17 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1020": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual permit for one change of use of one building.",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Annuls a permit: zonevreemde functiewijziging under art. 4.4.23 VCRO requires concrete testing of cumulative conditions; lack of future erkenning is not a legality ground.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1019": {
 "v": 3,
@@ -57022,13 +57053,18 @@
 "at": "2026-11-22"
 },
 "rvvb:RVVB.2526.1015": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one individual omgevingsvergunning for sewer and paving works.",
+"basis": "full text",
+"topics": [
+"soil",
+"environmental-law",
+"permitting"
+],
+"reason": "Screening decision must concretely test the project against DABM Annex II criteria; a bare reference to advisory opinions cannot justify no project-MER for PFAS/arsenic dewatering discharge.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1014": {
 "v": 2,
@@ -57055,13 +57091,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1012": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Individual permit for bicycle parking at one station.",
-"confidence": "high",
-"at": "2026-11-22"
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Annuls a building permit: widening a cycle path's bedding needs a prior municipal council decision on the road under the Gemeentewegendecreet, as the bedding change alters the road.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.1011": {
 "v": 3,
@@ -58838,16 +58877,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0886": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0886"
+"reason": "Third-party standing requires harm linked to the current permit's object, not to a final earlier permit; a credible risk of significant effects suffices.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0885": {
 "v": 2,
@@ -59056,16 +59095,16 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0861": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Court ruling with no visible subject; permit case, needs checking.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0861"
+"reason": "Annuls a farm-to-residential change permit: outbuildings count as woningbijgebouwen only if their volume and functions fit normal residential use, and the deputation must examine this.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0860": {
 "v": 3,
@@ -59556,11 +59595,14 @@
 "written": "d-rvvb-rvvb-2526-0800"
 },
 "rvvb:RVVB.2526.0799": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Ruling on one individual permit for subdividing a plot.",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Annuls subdivision permit: plans must show existing paving to be demolished (Normenboek 1.2.2); exempt demolition still needs assessment; post factum exemption reasoning rejected.",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -59671,16 +59713,16 @@
 "written": "d-rvvb-rvvb-2526-0783"
 },
 "rvvb:RVVB.2526.0782": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title too vague; only a case number is given, so a person should check.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0782"
+"reason": "Appeal inadmissible: a company not named as permit applicant in the Omgevingsloket or decisions lacks standing under art. 105 §2 Omgevingsvergunningsdecreet.",
+"confidence": "medium",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0781": {
 "v": 2,
@@ -59734,16 +59776,16 @@
 "written": "d-rvvb-rvvb-2526-0776"
 },
 "rvvb:RVVB.2526.0775": {
-"v": 2,
+"v": 3,
 "verdict": "relevant",
 "by": "claude-haiku-5-5",
+"basis": "full text",
 "topics": [
-"environmental-law"
+"permitting"
 ],
-"reason": "Title too vague; only a case number is given, so a person should check.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-2526-0775"
+"reason": "A publicly accessible road is a gemeenteweg regardless of who manages it; a permit applicant cannot bypass the municipal council's prior approval by keeping it under private management.",
+"confidence": "high",
+"at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0774": {
 "v": 2,
@@ -59791,11 +59833,15 @@
 "at": "2026-11-23"
 },
 "rvvb:RVVB.2526.0770": {
-"v": 2,
-"verdict": "not relevant",
+"v": 3,
+"verdict": "relevant",
 "by": "claude-haiku-5-5",
-"topics": [],
-"reason": "Annulment of one permit for a single family house.",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Council holds Art. 4.4.1/0 VCRO requires a reasoned applicant request for deviations from RUP rules; also restrictive reading of 'beperkte afwijking', judged against the plan's own essential aspects, ",
 "confidence": "high",
 "at": "2026-11-23"
 },
@@ -64866,35 +64912,35 @@
 "summary": {
 "scope_from": "2026-01-01",
 "in_scope": 7042,
-"assessed": 5796,
-"waiting": 1246,
-"relevant": 591,
+"assessed": 5809,
+"waiting": 1233,
+"relevant": 604,
 "not_relevant": 4879,
 "excluded_by_rule": 326,
-"this_run": 361,
+"this_run": 13,
 "api": {
-"calls": 278,
-"input_tokens": 3772621,
-"output_tokens": 135413,
-"usd": 0.445
+"calls": 260,
+"input_tokens": 3695425,
+"output_tokens": 103338,
+"usd": 0.4212
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
 "failed": 0,
-"waiting": 444,
+"waiting": 443,
 "api": {
 "calls": 14,
-"input_tokens": 192505,
-"output_tokens": 40943,
-"usd": 0.7944
+"input_tokens": 249030,
+"output_tokens": 39571,
+"usd": 0.8938
 },
 "updated": "2026-11-23"
 },
 "writer_v": 2,
 "rulings_reset": 228,
-"last_error": "no JSON in reply"
+"last_error": "Expecting value: line 1 column 13 (char 12)"
 }
