@@ -56989,7 +56989,8 @@
 ],
 "reason": "Annulment for inadequate reasoning: a ministerial appeal permit must explain departures from communal policy and from conditions advised by the consulted body; communal policy lines lack regulatory fo",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265326"
 },
 "rvs:265324": {
 "v": 4,
@@ -57011,7 +57012,8 @@
 ],
 "reason": "Reads Code de l'Environnement art. D.170: the audi alteram partem hearing must precede the destination decision, not the seizure, which is only a conservatory measure.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265323"
 },
 "rvs:265322": {
 "v": 4,
@@ -57070,7 +57072,8 @@
 ],
 "reason": "Commission decision on Slovak data for GHG accounting of biofuel crops under RED II.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0053"
 },
 "wallex:126931": {
 "v": 4,
@@ -57137,7 +57140,8 @@
 ],
 "reason": "Temporary general fishing ban on Meuse stretch near industrial site; water and nature measure.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-wallex-129339"
 },
 "rvvb:RVVB.2627.0055": {
 "v": 4,
@@ -67696,15 +67700,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 13,
-"found_not_relevant_on_reading": 1,
+"this_run": 4,
+"found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 74,
+"waiting": 70,
 "api": {
-"calls": 14,
-"input_tokens": 223607,
-"output_tokens": 43929,
-"usd": 0.8865
+"calls": 4,
+"input_tokens": 31999,
+"output_tokens": 11835,
+"usd": 0.1823
 },
 "updated": "2026-11-23"
 },
