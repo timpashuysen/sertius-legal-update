@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:18:29Z",
+ "updated": "2026-11-23T06:32:56Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -18328,6 +18328,416 @@
    ],
    "inbox": [
     "rvvb:RVVB.A.2526.0666"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-gwh-44-2026",
+   "d": "2026-04-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Constitutional Court: federal power to ban chemical exports to non-EU countries upheld (judgment 44/2026)",
+   "a": "The Constitutional Court ruled that Article 5, §1, first paragraph, 8° of the Product Standards Act of 21 December 1998 does not breach the allocation of powers. The provision lets the King ban exports of products to non-EU countries to protect the environment and public health.",
+   "b": "The ruling concerns exporters of hazardous substances in Belgium and the federal export ban of 19 November 2023 on certain hazardous substances to non-EU countries, which is based on this provision. The Council of State asked whether the provision infringes the regional powers on environment, agriculture and export policy, and whether an export ban is a product standard, a federal power. The Court holds that placing a product on the market can include its export, that export bans can prevent harm across borders and the return of a product to Belgium, and that the federal authority is in principle competent to ban exports of certain hazardous substances because of their risks to the environment and public health. The provision itself contains no ban and only authorises the King. Any breach of the allocation of powers or of federal loyalty could therefore result only from how the King uses the authorisation. The competent court must check whether a given ban in fact affects the use of a product after it has been placed on the market, or makes the exercise of regional powers impossible or exceedingly difficult. The judgment of 9 April 2026 does not set an entry into force.",
+   "nl": [
+    "Grondwettelijk Hof: federale bevoegdheid voor uitvoerverbod van chemische stoffen naar niet-EU-landen (arrest 44/2026)",
+    "Het Grondwettelijk Hof oordeelt dat artikel 5, § 1, eerste lid, 8°, van de wet van 21 december 1998 betreffende de productnormen de bevoegdheidverdelende regels niet schendt. Die bepaling laat de Koning toe de uitvoer van producten naar landen buiten de EU te verbieden ter bescherming van het leefmilieu en de volksgezondheid.",
+    "Het arrest betreft exporteurs van gevaarlijke stoffen in België en het koninklijk besluit van 19 november 2023 houdende exportverbod van bepaalde gevaarlijke stoffen naar landen die geen lid zijn van de EU, dat op deze bepaling steunt. De Raad van State vroeg of de bepaling afbreuk doet aan de gewestelijke bevoegdheden inzake leefmilieu, landbouw en uitvoerbeleid, en of een uitvoerverbod een productnorm is, een federale bevoegdheid. Het Hof oordeelt dat het op de markt brengen van een product ook de uitvoer ervan kan omvatten, dat een uitvoerverbod grensoverschrijdende schade en de terugkeer van een product naar België kan helpen vermijden, en dat de federale overheid in beginsel bevoegd is om de uitvoer van bepaalde gevaarlijke stoffen te verbieden wegens hun risico's voor het leefmilieu en de volksgezondheid. De bepaling zelf bevat geen verbod en verleent enkel een machtiging aan de Koning. Een eventuele schending van de bevoegdheidverdelende regels of van de federale loyauteit kan dus enkel voortvloeien uit de wijze waarop de Koning de machtiging aanwendt. De bevoegde rechter moet nagaan of een concreet verbod in werkelijkheid het gebruik van een product na het op de markt brengen regelt, of de uitoefening van gewestelijke bevoegdheden onmogelijk of overdreven moeilijk maakt. Het arrest van 9 april 2026 bepaalt geen inwerkingtreding."
+   ],
+   "fr": [
+    "Cour constitutionnelle : compétence fédérale d'interdire l'exportation de substances chimiques vers les pays tiers (arrêt 44/2026)",
+    "La Cour constitutionnelle juge que l'article 5, § 1er, alinéa 1er, 8°, de la loi du 21 décembre 1998 relative aux normes de produits ne viole pas les règles répartitrices de compétences. Cette disposition permet au Roi d'interdire l'exportation de produits vers les pays non membres de l'UE pour protéger l'environnement et la santé publique.",
+    "L'arrêt concerne les exportateurs de substances dangereuses établis en Belgique et l'arrêté royal du 19 novembre 2023 portant interdiction d'exportation de certaines substances dangereuses vers des pays non membres de l'UE, fondé sur cette disposition. Le Conseil d'État demandait si la disposition porte atteinte aux compétences régionales en matière d'environnement, d'agriculture et de politique d'exportation, et si une interdiction d'exportation est une norme de produits, compétence fédérale. La Cour juge que la mise sur le marché d'un produit peut aussi comprendre son exportation, qu'une interdiction d'exportation peut contribuer à éviter des dommages transfrontières et le retour d'un produit en Belgique, et que l'autorité fédérale est en principe compétente pour interdire l'exportation de certaines substances dangereuses en raison de leurs risques pour l'environnement et la santé publique. La disposition elle-même ne contient aucune interdiction et n'habilite que le Roi. Une éventuelle violation des règles répartitrices de compétences ou de la loyauté fédérale ne pourrait donc résulter que de la manière dont le Roi use de l'habilitation. Le juge compétent doit vérifier si une interdiction concrète règle en réalité l'usage d'un produit après sa mise sur le marché, ou rend impossible ou exagérément difficile l'exercice des compétences régionales. L'arrêt du 9 avril 2026 ne fixe pas d'entrée en vigueur."
+   ],
+   "scope": "Grondwettelijk Hof, arrest nr. 44/2026: artikel 5, § 1, eerste lid, 8°, wet van 21 december 1998 (productnormen), uitvoerverbod gevaarlijke stoffen naar niet-EU-landen",
+   "dates": {
+    "adopted": "2026-04-09"
+   },
+   "u": [
+    [
+     "Grondwettelijk Hof, arrest nr. 44/2026: de prejudiciële vragen over artikel 5, § 1, eerste lid, 8°, van de wet van 21 december 1998 « betref",
+     "https://nl.const-court.be/public/n/2026/2026-044n.pdf"
+    ]
+   ],
+   "inbox": [
+    "gwh:44/2026"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0787",
+   "d": "2026-04-08",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU amends auction rules for ETS2 allowances ahead of the 2027 start and drops bidder authorisation",
+   "a": "Delegated Regulation 2026/787 amends the EU auctioning rules (Regulation 2023/2830) for the separate ETS for buildings, road transport and other fuels (ETS2). It covers auction timing, volumes, auctioneers and bidders acting for clients.",
+   "b": "The amendments affect Member States and their auctioneers, the common and opt-out auction platforms, and persons bidding on behalf of clients in EU ETS auctions. ETS1 and ETS2 auctions may be held on the same day, but opt-out platforms may not auction on days reserved for the common platform. If the common platform auctions on more than two days a week, it must reserve two days and publish them no later than the auction calendar. ETS2 volumes are spread evenly over the auctions of a year, with the first-year volume spread over 1 January 2027 to 31 December 2028, and at least quarterly where an even spread is not possible. An initial 450 000 000 allowances are to be auctioned for the Social Climate Fund over 2027-2028. The annual volume may be adjusted using revenue already obtained, the average clearing price of the previous six months and the time remaining until 31 December 2032, and these auctions are suspended once the revenue target is reached. A Member State's ETS2 allowances are auctioned only once it has national law on surrendering allowances and on penalties for excess emissions reported under Chapter IVa. Volumes withheld until then are added back over an equivalent period. The separate authorisation requirement for bidding on behalf of others is removed; persons exempt under Article 2(1)(j) of Directive 2014/65/EU may apply to bid for themselves or for clients of their main business. Bidders acting for clients remain subject to conduct and good-repute conditions, supervised by the national authorities of their Member State of establishment. Each Member State must appoint at least one auctioneer, and one auctioneer may serve several Member States. The Regulation enters into force on the day after its publication in the Official Journal.",
+   "nl": [
+    "EU wijzigt veilingregels voor ETS2-rechten vóór de start in 2027 en schrapt de erkenning van bieders",
+    "Gedelegeerde Verordening 2026/787 wijzigt de EU-veilingregels (Verordening 2023/2830) voor het afzonderlijke ETS voor gebouwen, wegvervoer en andere brandstoffen (ETS2). Ze betreft de timing van veilingen, volumes, veilinghouders en bieders voor rekening van cliënten.",
+    "De wijzigingen raken lidstaten en hun veilinghouders, het gemeenschappelijke en de opt-out-veilingplatformen, en personen die in EU ETS-veilingen namens cliënten bieden. ETS1- en ETS2-veilingen mogen op dezelfde dag plaatsvinden, maar opt-out-platformen mogen niet veilen op de dagen die voor het gemeenschappelijke platform zijn gereserveerd. Veilt het gemeenschappelijke platform op meer dan twee dagen per week, dan moet het twee dagen reserveren en die uiterlijk bij de veilingkalender bekendmaken. De ETS2-volumes worden gelijkmatig over de veilingen van een jaar verdeeld, het volume van het eerste jaar over de periode van 1 januari 2027 tot 31 december 2028, en minstens elk kwartaal indien een gelijkmatige verdeling niet mogelijk is. Voor het Sociaal Klimaatfonds worden over 2027-2028 aanvankelijk 450 000 000 rechten geveild. Het jaarlijkse volume kan worden aangepast op basis van de reeds verkregen opbrengst, de gemiddelde veilingprijs van de voorbije zes maanden en de tijd tot 31 december 2032; deze veilingen worden opgeschort zodra de opbrengstdoelstelling is bereikt. De ETS2-rechten van een lidstaat worden pas geveild nadat die lidstaat nationale wetgeving heeft ingevoerd over de verplichting om rechten in te leveren en over sancties voor overtollige emissies gemeld onder hoofdstuk IVa. Tot dan achtergehouden volumes worden daarna over een gelijkwaardige periode aan de kalender toegevoegd. De afzonderlijke erkenning om namens anderen te bieden vervalt; personen die vallen onder de vrijstelling van artikel 2, lid 1, punt j), van Richtlijn 2014/65/EU kunnen toelating vragen om voor eigen rekening of voor cliënten van hun hoofdactiviteit te bieden. Bieders voor rekening van cliënten blijven onderworpen aan gedragsregels en voorwaarden inzake betrouwbaarheid, onder toezicht van de nationale bevoegde autoriteiten van hun lidstaat van vestiging. Elke lidstaat wijst minstens één veilinghouder aan, en dezelfde veilinghouder kan door meerdere lidstaten worden aangewezen. De verordening treedt in werking op de dag na haar bekendmaking in het Publicatieblad."
+   ],
+   "fr": [
+    "L'UE modifie les règles d'enchères des quotas SEQE-UE 2 avant le début de 2027 et supprime l'agrément des soumissionnaires",
+    "Le règlement délégué 2026/787 modifie les règles d'enchères de l'UE (règlement 2023/2830) pour le système distinct d'échange de quotas applicable aux bâtiments, au transport routier et à d'autres combustibles (SEQE-UE 2). Il porte sur le calendrier des enchères, les volumes, les adjudicateurs et les soumissionnaires agissant pour des clients.",
+    "Les modifications concernent les États membres et leurs adjudicateurs, la plateforme d'enchères commune et les plateformes dérogatoires (opt-out), ainsi que les personnes qui soumissionnent pour le compte de clients dans les enchères du SEQE-UE. Les enchères du SEQE-UE 1 et du SEQE-UE 2 peuvent avoir lieu le même jour, mais les plateformes opt-out ne peuvent pas organiser d'enchères les jours réservés à la plateforme commune. Si celle-ci organise des enchères plus de deux jours par semaine, elle doit réserver deux jours et les publier au plus tard avec le calendrier des enchères. Les volumes du SEQE-UE 2 sont répartis de manière égale sur les enchères d'une année, le volume de la première année étant réparti entre le 1er janvier 2027 et le 31 décembre 2028, et au moins chaque trimestre lorsqu'une répartition égale n'est pas possible. Pour le Fonds social pour le climat, 450 000 000 de quotas sont initialement mis aux enchères sur 2027-2028. Le volume annuel peut être ajusté en tenant compte des recettes déjà obtenues, du prix moyen d'adjudication des six derniers mois et du temps restant jusqu'au 31 décembre 2032; ces enchères sont suspendues une fois l'objectif de recettes atteint. Les quotas du SEQE-UE 2 d'un État membre ne sont mis aux enchères qu'une fois que celui-ci a adopté une législation nationale sur l'obligation de restitution des quotas et sur les sanctions pour dépassement des émissions déclarées au titre du chapitre IVa. Les volumes retenus jusque-là sont ensuite ajoutés au calendrier sur une période équivalente. L'agrément distinct pour soumissionner pour le compte de tiers est supprimé; les personnes bénéficiant de l'exemption de l'article 2, paragraphe 1, point j), de la directive 2014/65/UE peuvent demander à être admises à soumissionner pour leur propre compte ou pour des clients de leur activité principale. Les soumissionnaires agissant pour des clients restent soumis à des règles de conduite et à des conditions d'honorabilité, sous le contrôle des autorités nationales compétentes de leur État membre d'établissement. Chaque État membre désigne au moins un adjudicateur, et un même adjudicateur peut être désigné par plusieurs États membres. Le règlement entre en vigueur le lendemain de sa publication au Journal officiel."
+   ],
+   "scope": "Commission Delegated Regulation (EU) 2026/787 amending Delegated Regulation (EU) 2023/2830 (auctioning of GHG emission allowances): Articles 8, 13, 14, 18, 22 and 50",
+   "dates": {
+    "adopted": "2026-04-08",
+    "published": "2026-06-15",
+    "in_force": "2026-06-16"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/787 of 8 April 2026 amending Delegated Regulation (EU) 2023/2830 as regards rules on the timing, a",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0787"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0787"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041963",
+   "d": "2026-04-03",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders amends 19 agricultural decrees, incl. aid for environmental investments and agroforestry",
+   "a": "A Flemish Government decree amends 19 sectoral agricultural decrees and repeals four older ones. It tightens the rules for aid for non-productive investments for environmental and climate goals and for agroforestry, and updates the egg marketing-standard references.",
+   "b": "The decree concerns farmers, farmer cooperatives, egg-sector operators and other beneficiaries of Flemish agricultural aid, and the competent entity that administers it. It amends 19 Flemish Government decrees dating from 2008 to 2024 and repeals four older decrees on breeding structures, egg and poultry market measures and dairy crisis aid. For aid for non-productive investments for environmental and climate goals, it redefines the eligible applicants (active farmers and cooperatives of active farmers with legal personality) and lets the competent entity decide per block period which investments qualify. It excludes purchases at auction, machinery more than two years older than the invoicing year, disproportionately large investments and leasing. It requires an environmental permit only where the investment needs one, sets a payment-request deadline of 30 June 2029, and requires three comparable quotes where no unit costs are set. Agroforestry aid now requires invoices and proof of payment dated no earlier than the aid application, and proof of ownership or the owner's consent to plant where cadastral data are missing. The egg decree now refers to Delegated Regulation 2023/2465 and Implementing Regulation 2023/2466 instead of Regulation 589/2008. Many aid decrees also gain a clause on the importance of using Dutch and a harmonised 30-day objection procedure. The decree enters into force on 8 April 2026, but some articles apply from 1 January 2026. The amended rules on productive investments apply immediately to files with an aid application filed since 1 January 2023 and no payment request yet.",
+   "nl": [
+    "Vlaanderen wijzigt 19 landbouwbesluiten, o.a. steun voor milieu-investeringen en boslandbouw",
+    "Een besluit van de Vlaamse Regering wijzigt 19 sectorale landbouwbesluiten en heft er vier oudere op. Het scherpt de regels aan voor steun voor niet-productieve investeringen voor milieu- en klimaatdoelen en voor boslandbouw, en actualiseert de verwijzingen in de handelsnormen voor eieren.",
+    "Het besluit treft landbouwers, samenwerkingsverbanden van landbouwers, actoren in de eiersector en andere begunstigden van Vlaamse landbouwsteun, en de bevoegde entiteit die de steun beheert. Het wijzigt 19 besluiten van de Vlaamse Regering uit de periode 2008-2024 en heft vier oudere besluiten op over fokkerijstructuren, marktmaatregelen voor eieren en slachtpluimvee en steun bij de zuivelcrisis. Voor steun voor niet-productieve investeringen voor milieu- en klimaatdoelen worden de in aanmerking komende kandidaten herdefinieerd (actieve landbouwers en samenwerkingsverbanden van actieve landbouwers met rechtspersoonlijkheid) en bepaalt de bevoegde entiteit per blokperiode welke investeringen in aanmerking kunnen komen. Aankoop via veiling, machines die meer dan twee jaar ouder zijn dan het facturatiejaar, disproportioneel grote investeringen en leasing worden uitgesloten. Een omgevingsvergunning is alleen vereist als de investering dat vraagt, de betalingsaanvraag moet uiterlijk 30 juni 2029 worden ingediend en bij ontstentenis van eenheidskosten zijn minstens drie vergelijkbare offertes nodig. Voor steun voor boslandbouw zijn facturen en betalingsbewijzen vereist die niet vroeger dateren dan de steunaanvraag, en een eigendomsbewijs of toestemming van de eigenaar om te planten als kadastergegevens ontbreken. Het eierenbesluit verwijst voortaan naar gedelegeerde verordening (EU) 2023/2465 en uitvoeringsverordening (EU) 2023/2466 in plaats van verordening (EG) nr. 589/2008. Veel steunbesluiten krijgen ook een bepaling over het belang van het gebruik van het Nederlands en een geharmoniseerde bezwaarprocedure van dertig dagen. Het besluit treedt in werking op 8 april 2026, maar sommige artikelen hebben uitwerking vanaf 1 januari 2026. De gewijzigde regels voor productieve investeringen zijn onmiddellijk van toepassing op dossiers met een steunaanvraag sinds 1 januari 2023 en nog zonder betalingsaanvraag."
+   ],
+   "fr": [
+    "La Flandre modifie 19 arrêtés agricoles, dont l'aide aux investissements environnementaux et à l'agroforesterie",
+    "Un arrêté du Gouvernement flamand modifie 19 arrêtés agricoles sectoriels et en abroge quatre plus anciens. Il durcit les règles de l'aide aux investissements non productifs à finalité environnementale et climatique et à l'agroforesterie, et actualise les références des normes de commercialisation des œufs.",
+    "L'arrêté concerne les agriculteurs, les groupements d'agriculteurs, les opérateurs du secteur des œufs et les autres bénéficiaires d'aides agricoles flamandes, ainsi que l'entité compétente qui gère ces aides. Il modifie 19 arrêtés du Gouvernement flamand pris entre 2008 et 2024 et abroge quatre arrêtés plus anciens relatifs aux structures d'élevage, aux mesures de marché pour les œufs et la volaille de chair et à l'aide liée à la crise laitière. Pour l'aide aux investissements non productifs à finalité environnementale et climatique, les candidats éligibles sont redéfinis (agriculteurs actifs et groupements d'agriculteurs actifs dotés de la personnalité juridique) et l'entité compétente détermine par période de bloc quels investissements peuvent être éligibles. Sont exclus l'achat aux enchères, les machines dont l'année de construction précède de plus de deux ans l'année de facturation, les investissements disproportionnés et le leasing. Un permis d'environnement n'est requis que si l'investissement l'exige, la demande de paiement doit être introduite au plus tard le 30 juin 2029 et, à défaut de coûts unitaires, au moins trois offres comparables sont nécessaires. Pour l'aide à l'agroforesterie, les factures et preuves de paiement ne peuvent être antérieures à la demande d'aide, et une preuve de propriété ou l'autorisation du propriétaire de planter est requise si les données cadastrales manquent. L'arrêté sur les œufs renvoie désormais au règlement délégué (UE) 2023/2465 et au règlement d'exécution (UE) 2023/2466 au lieu du règlement (CE) n° 589/2008. De nombreux arrêtés d'aide reçoivent aussi une disposition sur l'importance de l'usage du néerlandais et une procédure de réclamation harmonisée de trente jours. L'arrêté entre en vigueur le 8 avril 2026, mais certains articles produisent leurs effets à partir du 1er janvier 2026. Les règles modifiées sur les investissements productifs s'appliquent immédiatement aux dossiers dont la demande d'aide a été introduite depuis le 1er janvier 2023 et qui n'ont pas encore de demande de paiement."
+   ],
+   "scope": "Besluit van de Vlaamse Regering van 3 april 2026 tot wijziging van diverse besluiten van de sectorale landbouwregelgeving, o.a. het besluit van 21 april 2023 betreffende steun aan niet-productieve investeringen voor milieu- en klimaatdoelen, het besluit van 21 april 2023 over boslandbouwsystemen en ",
+   "dates": {
+    "adopted": "2026-04-03",
+    "published": "2026-05-04",
+    "in_force": "2026-04-08"
+   },
+   "u": [
+    [
+     "Besluit van de Vlaamse Regering tot wijziging van diverse besluiten van de sectorale landbouwregelgeving",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041963&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041963"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041956",
+   "d": "2026-04-03",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders amends Energy Decree to transpose the recast Energy Efficiency Directive",
+   "a": "A Flemish decree partially transposes Directive (EU) 2023/1791 into the Energy Decree and the Vlaamse Nutsregulator decree. It adds the energy efficiency first principle and new duties on grid operators, municipalities, public bodies, data centres and large investors.",
+   "b": "The decree affects distribution and local transmission grid operators, heat and cold network operators, municipalities with more than 45,000 inhabitants, public bodies, data centre operators and organisations taking investment decisions above EUR 100 million. It introduces the energy efficiency first principle: grid operators must apply it in their investment plans, tariffs may not contain disincentives for efficiency, and the Vlaamse Nutsregulator supervises its application. Municipalities with more than 45,000 inhabitants on 1 January 2025 must draw up a local heating and cooling plan, with the first deadline set by the Flemish Government and a review every five years. Data centres must report to the European database under Regulation (EU) 2024/1364. Public bodies must report energy data for their whole organisation each year to a designated database, first by 31 March 2027, covering calendar year 2021 onwards. The Flemish Government may set minimum energy performance requirements for buildings bought or newly rented by contracting authorities above the procurement thresholds. It may also set requirements for new or substantially renovated district heating and cooling systems, and require an assessment of efficiency solutions for investment decisions above EUR 100 million (EUR 175 million for transport infrastructure). Non-compliance with the investment assessment rules can lead to administrative fines of EUR 500 to 50,000 and penalty payments. The decree was published on 27 April 2026 and applies from 7 May 2026; the first data centre report is due by 15 March 2026 and covers 2023 and 2024.",
+   "nl": [
+    "Vlaanderen wijzigt het Energiedecreet ter omzetting van de herziene Energie-efficiëntierichtlijn",
+    "Een Vlaams decreet zet richtlijn (EU) 2023/1791 gedeeltelijk om in het Energiedecreet en het decreet over de Vlaamse Nutsregulator. Het voert het energie-efficiëntie-eerstbeginsel in en legt nieuwe verplichtingen op aan netbeheerders, gemeenten, overheidsinstanties, datacentra en grote investeerders.",
+    "Het decreet treft distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit, beheerders van warmte- of koudenetten, gemeenten met meer dan 45.000 inwoners, overheidsinstanties, exploitanten van datacentra en organisaties die investeringsbeslissingen nemen van meer dan 100.000.000 euro. Het voert het energie-efficiëntie-eerstbeginsel in: netbeheerders moeten het toepassen in hun investeringsplannen, tarieven mogen geen prikkels bevatten die de energie-efficiëntie aantasten en de Vlaamse Nutsregulator ziet toe op de toepassing ervan. Gemeenten die op 1 januari 2025 meer dan 45.000 inwoners tellen, moeten een lokaal verwarmings- en koelingsplan opstellen, waarbij de Vlaamse Regering de eerste termijn bepaalt en het plan om de vijf jaar wordt geëvalueerd. Datacentra moeten rapporteren aan de Europese databank voor datacentra overeenkomstig verordening (EU) 2024/1364. Overheidsinstanties moeten jaarlijks de energieverbruiks- en productiegegevens van hun volledige organisatie bezorgen aan een aangewezen databank, voor het eerst tegen 31 maart 2027 en vanaf kalenderjaar 2021. De Vlaamse Regering kan minimale energieprestatie-eisen opleggen bij de aankoop of nieuwe huur van gebouwen door aanbestedende overheden boven de drempelbedragen. Ze kan ook eisen bepalen voor nieuwe of ingrijpend te renoveren systemen voor stadsverwarming of -koeling en een beoordeling van energie-efficiëntieoplossingen opleggen bij investeringsbeslissingen boven 100.000.000 euro (175.000.000 euro voor vervoersinfrastructuur). Bij niet-naleving van die beoordelingsplicht kunnen administratieve geldboetes van 500 tot 50.000 euro en dwangsommen worden opgelegd. Het decreet werd op 27 april 2026 bekendgemaakt en is van toepassing vanaf 7 mei 2026; de eerste rapportering van datacentra moet uiterlijk 15 maart 2026 plaatsvinden en betreft 2023 en 2024."
+   ],
+   "fr": [
+    "La Flandre modifie le décret sur l'énergie pour transposer la directive refondue sur l'efficacité énergétique",
+    "Un décret flamand transpose partiellement la directive (UE) 2023/1791 dans le décret sur l'énergie et dans le décret relatif au régulateur flamand des services d'utilité publique. Il introduit le principe de primauté de l'efficacité énergétique et de nouvelles obligations pour les gestionnaires de réseau, les communes, les organismes publics, les centres de données et les grands investisseurs.",
+    "Le décret concerne les gestionnaires de réseau de distribution et le gestionnaire du réseau de transport local d'électricité, les gestionnaires de réseaux de chaleur ou de froid, les communes de plus de 45.000 habitants, les organismes publics, les exploitants de centres de données et les organisations prenant des décisions d'investissement supérieures à 100.000.000 euros. Il introduit le principe de primauté de l'efficacité énergétique: les gestionnaires de réseau doivent l'appliquer dans leurs plans d'investissement, les tarifs ne peuvent comporter d'incitants nuisant à l'efficacité énergétique et le régulateur flamand (Vlaamse Nutsregulator) contrôle son application. Les communes comptant plus de 45.000 habitants au 1er janvier 2025 doivent établir un plan local de chauffage et de refroidissement, le Gouvernement flamand fixant le premier délai et le plan étant évalué tous les cinq ans. Les centres de données doivent déclarer leurs données dans la base de données européenne sur les centres de données, conformément au règlement (UE) 2024/1364. Les organismes publics doivent transmettre chaque année les données de consommation et de production d'énergie de toute leur organisation à une base de données désignée, pour la première fois d'ici le 31 mars 2027 et à partir de l'année civile 2021. Le Gouvernement flamand peut imposer des exigences minimales de performance énergétique lors de l'achat ou de la nouvelle location de bâtiments par les pouvoirs adjudicateurs au-delà des seuils applicables. Il peut aussi fixer des exigences pour les systèmes de chauffage ou de refroidissement urbains nouveaux ou faisant l'objet d'une rénovation importante, et imposer l'évaluation de solutions d'efficacité énergétique pour les décisions d'investissement supérieures à 100.000.000 euros (175.000.000 euros pour les infrastructures de transport). Le non-respect de cette obligation d'évaluation peut entraîner des amendes administratives de 500 à 50.000 euros et des astreintes. Le décret a été publié le 27 avril 2026 et s'applique à partir du 7 mai 2026; la première déclaration des centres de données est due au plus tard le 15 mars 2026 et porte sur 2023 et 2024."
+   ],
+   "scope": "Decreet van 3 april 2026 tot wijziging van het Energiedecreet van 8 mei 2009 en het decreet van 19 april 2024 over de Vlaamse Nutsregulator, wat betreft energie-efficiëntie (o.a. art. 4.1.6, 4.1.19, 4/1.4.1-4/1.4.2, 7.7.2, 7.8/1.1, 7.8.2, 7.8.4, 7.10.1, 7.11.1-7.11.2, 12.3.2 Energiedecreet)",
+   "dates": {
+    "adopted": "2026-04-03",
+    "published": "2026-04-27",
+    "in_force": "2026-05-07"
+   },
+   "u": [
+    [
+     "Decreet tot wijziging van het Energiedecreet van 8 mei 2009 en het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nuts",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041956&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041956"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041946",
+   "d": "2026-04-03",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Flanders ratifies agreement with France on flood water management in the Dunkirk-Veurne-Moeren zone",
+   "a": "A Flemish decree gives full effect to the 2 June 2025 agreement between the Flemish Region and France on drainage in the Dunkirk-Veurne-Moeren zone during severe high water. The agreement provides for new drainage works, temporary shared drainage of the canal de Furnes/Nieuwpoort-Dunkirk canal and a joint monitoring system, and enters into force on 1 September 2026.",
+   "b": "The agreement concerns the water managers and authorities on both sides of the border in the Dunkirk-Veurne-Moeren zone (including Westkustpolder, De Vlaamse Waterweg, the Province of West Flanders, the Institution Intercommunale des Wateringues and Voies Navigables de France). It applies only in cases of severe high water, as defined in a protocol (annex 3). It supplements the 1890 Franco-Belgian convention and its 1968 addendum for those cases; in all other cases that convention continues unchanged. The Flemish Region is to build an emergency pumping station on the Speievaart to pump water from the Moeren to the Nieuwpoort-Dunkirk canal, and France is to build a sluice structure between the canal de Furnes and the Canal Exutoire at Quatre Écluses in Dunkirk; both sides set up a monitoring system that every competent authority can consult. The protocol sets the operating rules: the sluice opens automatically under three cumulative conditions on water levels, the Speievaart pumping station stops automatically when a stated level is exceeded at the Ghyvelde measuring point, and the water managers then consult each other. Real-time data are shared, the temporary shared drainage is evaluated after two years, and a cross-border working group meets annually. Disputes go to negotiation and then to a three-member arbitral tribunal, and annex 3 can be amended in writing, with those amendments also given full effect by the decree. The decree is dated 3 April 2026 and was published on 23 April 2026. The agreement enters into force on 1 September 2026, is concluded for an indefinite period and can be terminated with six months' notice.",
+   "nl": [
+    "Vlaanderen stemt in met overeenkomst met Frankrijk over waterbeheersing in de zone Duinkerke-Veurne-De Moeren",
+    "Een Vlaams decreet geeft volkomen gevolg aan de overeenkomst van 2 juni 2025 tussen het Vlaams Gewest en Frankrijk over de waterbeheersing in de zone Duinkerke-Veurne-De Moeren bij ernstige hoogwaterstand. De overeenkomst voorziet in nieuwe afwateringswerken, een tijdelijk gedeelde afwatering van het canal de Furnes/kanaal Nieuwpoort-Duinkerke en een gezamenlijk opvolgingssysteem, en treedt in werking op 1 september 2026.",
+    "De overeenkomst betreft de waterbeheerders en overheden aan beide zijden van de grens in de zone Duinkerke-Veurne-De Moeren (waaronder Westkustpolder, De Vlaamse Waterweg, de provincie West-Vlaanderen, de Institution Intercommunale des Wateringues en Voies Navigables de France). Ze geldt enkel bij ernstige hoogwaterstand, zoals bepaald in een protocol (bijlage 3). Voor die gevallen vult ze de overeenkomst van 1890 en haar aanhangsel van 1968 aan; in alle andere gevallen blijft die overeenkomst ongewijzigd van kracht. Het Vlaams Gewest bouwt een noodpompstation op de Speievaart om water van de Moeren naar het kanaal Nieuwpoort-Duinkerke over te pompen, en Frankrijk bouwt een schuifconstructie tussen het canal de Furnes en het Canal Exutoire op de site Quatre Écluses in Duinkerke; beide partijen zetten een opvolgingssysteem op dat elke bevoegde overheid kan raadplegen. Het protocol legt de beheerregels vast: de schuif opent automatisch onder drie cumulatieve peilvoorwaarden, het pompstation Speievaart wordt automatisch stilgelegd wanneer een bepaald peil bij het meetpunt Ghyvelde wordt overschreden, waarna de waterbeheerders overleggen. Gegevens worden in real time uitgewisseld, de tijdelijk gedeelde afwatering wordt na twee jaar geëvalueerd en een grensoverschrijdende werkgroep komt jaarlijks samen. Geschillen gaan naar onderhandeling en vervolgens naar een scheidsgerecht van drie leden, en bijlage 3 kan schriftelijk worden gewijzigd, waarbij het decreet ook aan die wijzigingen volkomen gevolg geeft. Het decreet is gedateerd op 3 april 2026 en werd op 23 april 2026 bekendgemaakt. De overeenkomst treedt in werking op 1 september 2026, is gesloten voor onbepaalde duur en kan met zes maanden opzeg worden beëindigd."
+   ],
+   "fr": [
+    "La Flandre donne son assentiment à l'accord avec la France sur la maîtrise des eaux dans la zone Dunkerque-Furnes-Moëres",
+    "Un décret flamand donne plein effet à l'accord du 2 juin 2025 entre la Région flamande et la France sur la maîtrise des eaux dans la zone Dunkerque-Furnes-Moëres en cas de crue grave. L'accord prévoit de nouveaux ouvrages d'évacuation, un drainage temporairement partagé du canal de Furnes/canal Nieuport-Dunkerque et un système de suivi commun, et entre en vigueur le 1er septembre 2026.",
+    "L'accord concerne les gestionnaires des eaux et les autorités des deux côtés de la frontière dans la zone Dunkerque-Furnes-Moëres (notamment Westkustpolder, De Vlaamse Waterweg, la province de Flandre occidentale, l'Institution Intercommunale des Wateringues et Voies Navigables de France). Il ne s'applique qu'en cas de crue grave, telle que définie dans un protocole (annexe 3). Pour ces cas, il complète la convention de 1890 et son avenant de 1968; dans tous les autres cas, cette convention reste inchangée. La Région flamande construit une station de pompage de secours sur la Speievaart pour refouler l'eau des Moëres vers le canal Nieuport-Dunkerque, et la France construit un ouvrage à vannes entre le canal de Furnes et le Canal Exutoire sur le site des Quatre Écluses à Dunkerque; les deux parties mettent en place un système de suivi que chaque autorité compétente peut consulter. Le protocole fixe les règles de gestion: la vanne s'ouvre automatiquement sous trois conditions cumulatives de niveau, la station de pompage de la Speievaart est arrêtée automatiquement lorsqu'un niveau déterminé est dépassé au point de mesure de Ghyvelde, après quoi les gestionnaires se concertent. Les données sont échangées en temps réel, le drainage temporairement partagé est évalué après deux ans et un groupe de travail transfrontalier se réunit chaque année. Les différends sont réglés par négociation, puis par un tribunal arbitral de trois membres, et l'annexe 3 peut être modifiée par écrit, le décret donnant aussi plein effet à ces modifications. Le décret est daté du 3 avril 2026 et a été publié le 23 avril 2026. L'accord entre en vigueur le 1er septembre 2026, est conclu pour une durée indéterminée et peut être dénoncé moyennant un préavis de six mois."
+   ],
+   "scope": "Decreet houdende instemming met de overeenkomst Vlaams Gewest–Frankrijk over de waterbeheersing in de zone Duinkerke-Veurne-De Moeren bij ernstige hoogwaterstand (Rijsel, 2 juni 2025), met bijlagen 1 tot 3",
+   "dates": {
+    "adopted": "2026-04-03",
+    "published": "2026-04-23",
+    "in_force": "2026-09-01"
+   },
+   "u": [
+    [
+     "Decreet tot instemming met de overeenkomst tussen het Vlaams Gewest en de Regering van de Franse Republiek over de waterbeheersing in de zon",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041946&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041946"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-133676",
+   "d": "2026-04-02",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Wallonia updates energy grants for low-income households: heat pumps and biomass boilers eligible",
+   "a": "A Walloon Government order amends the 1998 scheme of energy-efficiency grants for low-income households. Heat pumps, biomass boilers and biomass silos become eligible, the maximum grant can be doubled in more cases, and heat pumps require maximum U-values for the dwelling.",
+   "b": "The order concerns low-income households applying for grants under the Walloon Government order of 23 December 1998 on rational and efficient energy use. It follows Directive (EU) 2024/1275, under which Member States may grant no financial incentives for stand-alone fossil-fuel boilers from 1 January 2025. Point B.2.2 a) of Annex I now covers the supply, installation and commissioning of a biomass boiler or an air-water or air-air heat pump, either as sole heat producer or as back-up to an existing one. Biomass boiler silos (B.2.2 h)) and domestic hot water heat pumps (B.2.3 f)) are added, ventilation devices (B.2.4 b)) now cover installation and repair, and B.2.4 c) is repealed. To be eligible for air-water or air-air heat pumps, the dwelling must meet maximum U-values: 0.3 W/m²K for the roof, 0.4 for walls, 2.5 for windows and 2.9 for doors. On the beneficiary's request, the maximum grant can be doubled for works under B.1, B.2.2 a) and B.2.3 f), and for B.2.1 a) works where a coal appliance is replaced, a biomass system directly heats more than one room, or a flue liner or chimney is needed. The order enters into force on the day of its publication in the Moniteur belge (22 April 2026). The amendment to B.2.2 a) takes effect on 1 January 2025. Applications for B.2.2 a) systems filed before that date remain under the procedural rules applicable until 31 December 2024, provided an order was placed before that date under Article 8 of the 1998 order.",
+   "nl": [
+    "Wallonië past energiepremies voor huishoudens met bescheiden inkomen aan: warmtepompen en biomassaketels komen in aanmerking",
+    "Een besluit van de Waalse Regering wijzigt de regeling van 1998 voor subsidies voor rationeel energiegebruik voor huishoudens met een bescheiden inkomen. Warmtepompen, biomassaketels en biomassasilo's komen in aanmerking, de maximale subsidie kan in meer gevallen worden verdubbeld en voor warmtepompen gelden maximale U-waarden van de woning.",
+    "Het besluit betreft huishoudens met een bescheiden inkomen die subsidies aanvragen op grond van het besluit van de Waalse Regering van 23 december 1998 inzake rationeel en efficiënt energiegebruik. Het volgt op Richtlijn (EU) 2024/1275, volgens welke de lidstaten vanaf 1 januari 2025 geen financiële prikkels meer mogen toekennen voor autonome ketels op fossiele brandstoffen. Punt B.2.2 a) van bijlage I omvat nu de levering, plaatsing en inbedrijfstelling van een biomassaketel of een lucht-water- of lucht-luchtwarmtepomp, hetzij als enige warmteproducent, hetzij als aanvulling op een bestaande warmteproducent. Silo's voor biomassaketels (B.2.2 h)) en warmtepompen voor sanitair warm water (B.2.3 f)) worden toegevoegd, ventilatievoorzieningen (B.2.4 b)) omvatten nu plaatsing en herstelling, en B.2.4 c) wordt opgeheven. Om in aanmerking te komen voor lucht-water- of lucht-luchtwarmtepompen moet de woning voldoen aan maximale U-waarden: 0,3 W/m²K voor het dak, 0,4 voor de muren, 2,5 voor de ramen en 2,9 voor de deuren. Op verzoek van de begunstigde kan de maximale subsidie worden verdubbeld voor werken onder B.1, B.2.2 a) en B.2.3 f), en voor werken onder B.2.1 a) wanneer een kolentoestel wordt vervangen, een biomassasysteem rechtstreeks meer dan één kamer verwarmt of een buisvoering of schoorsteen nodig is. Het besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staatsblad (22 april 2026). De wijziging van B.2.2 a) heeft uitwerking met ingang van 1 januari 2025. Aanvragen voor systemen onder B.2.2 a) die vóór die datum zijn ingediend, blijven onderworpen aan de procedureregels die tot 31 december 2024 golden, op voorwaarde dat vóór die datum een bestelling is geplaatst overeenkomstig artikel 8 van het besluit van 1998."
+   ],
+   "fr": [
+    "La Wallonie adapte les primes énergie des ménages à revenu modeste : pompes à chaleur et chaudières biomasse éligibles",
+    "Un arrêté du Gouvernement wallon modifie le régime de 1998 de subventions pour l'utilisation rationnelle de l'énergie des ménages à revenu modeste. Les pompes à chaleur, chaudières biomasse et silos biomasse deviennent éligibles, le plafond de la subvention peut être doublé dans davantage de cas et les pompes à chaleur imposent des valeurs U maximales pour le logement.",
+    "L'arrêté concerne les ménages à revenu modeste qui demandent des subventions en vertu de l'arrêté du Gouvernement wallon du 23 décembre 1998 relatif à l'utilisation rationnelle et efficiente de l'énergie. Il fait suite à la directive (UE) 2024/1275, selon laquelle les États membres ne peuvent plus accorder, à partir du 1er janvier 2025, d'incitation financière pour les chaudières autonomes fonctionnant avec des combustibles fossiles. Le point B.2.2 a) de l'annexe I couvre désormais la fourniture, le placement et la mise en service d'une chaudière biomasse ou d'une pompe à chaleur air-eau ou air-air, comme seul producteur de chaleur ou en appoint d'un producteur existant. Les silos pour chaudière biomasse (B.2.2 h)) et les pompes à chaleur pour eau chaude sanitaire (B.2.3 f)) sont ajoutés, les dispositifs de ventilation (B.2.4 b)) visent l'installation et la réparation, et le point B.2.4 c) est abrogé. Pour être éligible aux pompes à chaleur air-eau ou air-air, le logement doit respecter des coefficients de transmission thermique maximaux (Umax) : 0,3 W/m²K pour la toiture, 0,4 pour les murs, 2,5 pour les fenêtres et 2,9 pour les portes. À la demande du bénéficiaire, le montant maximal de la subvention peut être doublé pour les travaux visés aux points B.1, B.2.2 a) et B.2.3 f), ainsi que pour les travaux B.2.1 a) lorsqu'un appareil au charbon est remplacé, qu'un système biomasse alimente directement plus d'une pièce ou que le placement d'un tubage ou d'une cheminée est nécessaire. L'arrêté entre en vigueur le jour de sa publication au Moniteur belge (22 avril 2026). La modification du point B.2.2 a) produit ses effets le 1er janvier 2025. Les dossiers de demande relatifs aux systèmes du point B.2.2 a) introduits avant cette date restent soumis aux règles de procédure en vigueur jusqu'au 31 décembre 2024, si une commande a été passée avant cette date conformément à l'article 8 de l'arrêté de 1998."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 2 avril 2026 modifiant l'AGW du 23 décembre 1998 (subventions aux ménages à revenu modeste pour l'URE) : articles 4 et 5 et annexe I",
+   "dates": {
+    "adopted": "2026-04-02",
+    "published": "2026-04-22",
+    "in_force": "2026-04-22"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 23 décembre 1998 relatif à l'octroi de subventions aux ménages à ",
+     "https://wallex.wallonie.be/eli/arrete/2026/04/02/2026002976/2026/04/22"
+    ]
+   ],
+   "inbox": [
+    "wallex:133676"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0658",
+   "d": "2026-04-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Kasterlee registration of farm dwelling and building as deemed permitted; new decision due in 3 months",
+   "a": "The Council for Permit Disputes annulled a municipal decision of 7 April 2025 that entered a farm dwelling and a farm building in Kasterlee in the permit register as deemed permitted. The decision did not carefully examine whether the buildings still match their state when the zoning plan first took effect, and it was insufficiently reasoned.",
+   "b": "The ruling concerns owners seeking entry of existing buildings in the permit register as deemed permitted, and the authorities deciding on such requests. Here the municipality had entered a farm dwelling and a farm building (Viertjens 4, Kasterlee, agricultural area of landscape value, Turnhout zoning plan in force since 6 November 1977) on the basis of a 1971 aerial photo, deeds of 1976 and 1998, a 1998 letter, three witness statements and a 2009 certificate. The Council recalls that the presumption of permit under Articles 4.2.14 §2 and 5.1.3 §2 VCRO covers both the construction and its function. It lapses where the building has been altered so much that it is no longer 'existing', and the authority has an active duty of investigation. The Council found that the 1971 aerial photo and the 2024 photo visibly differ in roof shapes and layout. The decision gave no reference point for the current state and relied on 1998 documents that cannot show the situation in 1977. It therefore found the examination careless and the reasoning insufficient. Whether a residential function was wrongly entered was left open as not relevant at this stage. The decision of 7 April 2025 is annulled, and the authority must take a new decision within three months of notification of the ruling. Costs (€200 filing fee, €840 procedural indemnity) are borne by the authority. The ruling was delivered on 2 April 2026.",
+   "nl": [
+    "RvVb vernietigt opname van landbouwbedrijfswoning en -gebouw in Kasterlee als vergund geacht; nieuwe beslissing binnen drie maanden",
+    "De Raad voor Vergunningsbetwistingen vernietigt de beslissing van 7 april 2025 om een landbouwbedrijfswoning en een landbouwbedrijfsgebouw in Kasterlee als vergund geacht op te nemen in het vergunningenregister. De beoordeling of de gebouwen nog overeenstemmen met de toestand bij de eerste inwerkingtreding van het gewestplan was onzorgvuldig en onvoldoende gemotiveerd.",
+    "Het arrest betreft eigenaars die de opname van bestaande constructies als vergund geacht in het vergunningenregister vragen, en de overheden die daarover beslissen. Hier had het bestuur een landbouwbedrijfswoning en een landbouwbedrijfsgebouw (Viertjens 4, Kasterlee, landschappelijk waardevol agrarisch gebied, gewestplan Turnhout, in werking sinds 6 november 1977) opgenomen op basis van een luchtfoto uit 1971, akten van 1976 en 1998, een brief van 1998, drie getuigenverklaringen en een attest van 2009. De Raad herinnert eraan dat het vermoeden van vergunning uit de artikelen 4.2.14, §2 en 5.1.3, §2 VCRO zowel de constructie als haar functie dekt. Het vervalt wanneer het gebouw zo ingrijpend is gewijzigd dat het niet meer als 'bestaand' geldt, en de overheid heeft een actieve onderzoeksplicht. De Raad stelde vast dat de luchtfoto's van 1971 en 2024 zichtbaar verschillen in dakvormen en inplanting. De beslissing vermeldde geen referentiepunt voor de bestaande toestand en steunde op stukken uit 1998 die de toestand in 1977 niet kunnen aantonen. Het onderzoek was dus onzorgvuldig en de motivering ontoereikend. Of ten onrechte een woonfunctie werd opgenomen, bleef in dit stadium buiten beschouwing als niet relevant. De beslissing van 7 april 2025 wordt vernietigd; het bestuur moet binnen drie maanden na de betekening van het arrest een nieuwe beslissing nemen. De kosten (rolrecht 200 euro, rechtsplegingsvergoeding 840 euro) vallen ten laste van het bestuur. Het arrest werd uitgesproken op 2 april 2026."
+   ],
+   "fr": [
+    "Le CCA annule l'inscription au registre des autorisations d'une habitation et d'un bâtiment agricoles à Kasterlee ; nouvelle décision sous trois mois",
+    "Le Conseil du contentieux des autorisations annule la décision du 7 avril 2025 qui inscrivait une habitation d'exploitation agricole et un bâtiment agricole à Kasterlee au registre des autorisations comme réputés autorisés. L'examen de leur conformité à l'état lors de la première entrée en vigueur du plan de secteur était négligent et insuffisamment motivé.",
+    "L'arrêt concerne les propriétaires qui demandent l'inscription de constructions existantes comme réputées autorisées au registre des autorisations, ainsi que les autorités qui statuent sur ces demandes. Ici, l'autorité avait inscrit une habitation d'exploitation agricole et un bâtiment agricole (Viertjens 4, Kasterlee, zone agricole de valeur paysagère, plan de secteur de Turnhout en vigueur depuis le 6 novembre 1977) sur la base d'une photo aérienne de 1971, d'actes de 1976 et 1998, d'une lettre de 1998, de trois témoignages et d'une attestation de 2009. Le Conseil rappelle que la présomption d'autorisation des articles 4.2.14, §2 et 5.1.3, §2 du VCRO couvre à la fois la construction et sa fonction. Elle tombe si le bâtiment a été modifié au point de ne plus être « existant », et l'autorité a un devoir d'enquête actif. Le Conseil a constaté que les photos aériennes de 1971 et de 2024 diffèrent visiblement par la forme des toitures et l'implantation. La décision n'indiquait aucun point de référence pour l'état actuel et s'appuyait sur des pièces de 1998 qui ne peuvent établir la situation de 1977. L'examen était donc négligent et la motivation insuffisante. La question de savoir si une fonction résidentielle a été inscrite à tort est restée ouverte, faute de pertinence à ce stade. La décision du 7 avril 2025 est annulée ; l'autorité doit prendre une nouvelle décision dans les trois mois de la notification de l'arrêt. Les dépens (droit de rôle de 200 euros, indemnité de procédure de 840 euros) sont à charge de l'autorité. L'arrêt a été prononcé le 2 avril 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0658 – artikelen 4.2.14, §2 en §3 en 5.1.3, §2 VCRO (vermoeden van vergunning, opname in vergunningenregister)",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0658. vernietiging van de beslissing van de verwerende partij van 7 april 2025.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0658.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0658"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0653",
+   "d": "2026-04-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls permit for padel hall in Ninove: mobility and ditch-piping reasoning insufficient",
+   "a": "The Council for Permit Disputes annulled the environmental permit for a padel hall with six courts in Ninove. The deputation's reasoning on mobility, parking and the piping of a roadside ditch was not sufficient. It must take a new decision within three months.",
+   "b": "The ruling concerns an environmental permit granted on 24 April 2025 for building an acoustically insulated sports hall with six padel courts, a cafeteria and parking in Ninove. It also covers the classified activities, namely the sports hall (rubric 32.2.2°) and two air-to-air heat pumps (rubric 16.3.2°a). The Council found that, because the provincial environmental officer had advised refusal, the permitting authority had a stricter duty to state reasons. Its reasoning on mobility and parking fell short. It acknowledged that the Terrasstraat is too narrow for crossing traffic, yet relied on the mobility study, which expects 29 additional car trips on weekdays between 5 and 6 pm. It also relied on future municipal investments and on a cycle highway not yet built. It did not address the doubts about the organisation of tournaments and the number of players, supporters and staff, and attached no conditions on this. The Council also found the reasoning on scale and visual integration lawful, since the hall is in a day-recreation zone and its ridge height is not above that of homes. The second ground succeeded because the decision says nothing about piping 11.72 m of a roadside ditch, although the exemption covers at most 5 m. Article 23 of the Flemish Government decree of 7 May 2021 allows deviation only under conditions, and the officer had noted that the file contained no justification. The decision is annulled, and the authority must decide again on the administrative appeal within three months of notification of the ruling. Costs of €2,000 (registry fee) and €840 (procedural indemnity) fall on the authority.",
+   "nl": [
+    "RvVb vernietigt vergunning padelhal in Ninove: motivering mobiliteit en grachtinbuizing ontoereikend",
+    "De Raad voor Vergunningsbetwistingen vernietigt de omgevingsvergunning voor een padelhal met zes terreinen in Ninove. De motivering over mobiliteit, parkeren en de inbuizing van een baangracht was ontoereikend. De deputatie moet binnen drie maanden een nieuwe beslissing nemen.",
+    "Het arrest betreft een omgevingsvergunning van 24 april 2025 voor het bouwen van een akoestisch geïsoleerde sporthal met zes padelterreinen, een cafetaria en parking in Ninove. Ook de ingedeelde inrichtingen zijn aangevraagd: de sporthal (rubriek 32.2.2°) en twee lucht-luchtwarmtepompen (rubriek 16.3.2°a). Volgens de Raad rustte op de vergunningverlenende overheid een verstrengde motiveringsplicht, omdat de provinciale omgevingsambtenaar een weigering adviseerde. De motivering over mobiliteit en parkeren schoot tekort. De overheid erkende dat de Terrasstraat te smal is voor kruisend verkeer, maar steunde op de mobiliteitsstudie, die op weekdagen tussen 17 en 18 uur 29 bijkomende autoverplaatsingen voorziet. Ze steunde ook op toekomstige investeringen van het stadsbestuur en op een nog niet gerealiseerde fietssnelweg. Ze ging niet in op de vragen over de organisatie van tornooien en het aantal spelers, supporters en medewerkers en legde hierover geen voorwaarden op. De motivering over schaal en inpassing achtte de Raad wel wettig, omdat de hal in recreatiegebied ligt en de nokhoogte niet hoger is dan bij woningen. Het tweede middel slaagt omdat de beslissing niets zegt over de inbuizing van 11,72 m baangracht, terwijl de vrijstelling maximaal 5 m dekt. Artikel 23 van het besluit van de Vlaamse Regering van 7 mei 2021 laat enkel onder voorwaarden afwijking toe, en de provinciale omgevingsambtenaar wees erop dat het dossier geen motivering bevatte. De beslissing wordt vernietigd en de overheid moet binnen drie maanden na betekening van het arrest opnieuw over het administratief beroep beslissen. De kosten van 2.000 euro (rolrecht) en 840 euro (rechtsplegingsvergoeding) komen ten laste van de overheid."
+   ],
+   "fr": [
+    "Le CCA annule le permis d'une salle de padel à Ninove : motivation insuffisante sur la mobilité et la mise en buse du fossé",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule le permis d'environnement d'une salle de padel de six terrains à Ninove. La motivation relative à la mobilité, au stationnement et à la mise en buse d'un fossé était insuffisante. La députation doit statuer à nouveau dans les trois mois.",
+    "L'arrêt concerne un permis d'environnement du 24 avril 2025 pour la construction d'une salle de sport insonorisée avec six terrains de padel, une cafétéria et un parking à Ninove. Les établissements classés demandés sont aussi concernés : la salle de sport (rubrique 32.2.2°) et deux pompes à chaleur air-air (rubrique 16.3.2°a). Selon le Conseil, l'autorité délivrante était soumise à une obligation de motivation renforcée, puisque le fonctionnaire provincial de l'environnement avait conseillé le refus. La motivation sur la mobilité et le stationnement était insuffisante. L'autorité a reconnu que la Terrasstraat est trop étroite pour le croisement des véhicules, mais s'est fondée sur l'étude de mobilité, qui prévoit 29 déplacements automobiles supplémentaires en semaine entre 17 h et 18 h. Elle s'est aussi appuyée sur de futurs investissements communaux et sur une autoroute cyclable non encore réalisée. Elle n'a pas répondu aux doutes sur l'organisation des tournois et sur le nombre de joueurs, de supporters et de membres du personnel, et n'a imposé aucune condition à ce sujet. Le Conseil a en revanche jugé légale la motivation sur l'échelle et l'intégration, la salle se trouvant en zone de récréation et sa hauteur de faîte ne dépassant pas celle des habitations. Le second moyen est fondé : la décision ne dit rien de la mise en buse de 11,72 m d'un fossé de voirie, alors que la dispense couvre au maximum 5 m. L'article 23 de l'arrêté du Gouvernement flamand du 7 mai 2021 n'admet de dérogation que sous conditions, et le fonctionnaire provincial avait relevé l'absence de justification dans le dossier. La décision est annulée et l'autorité doit statuer à nouveau sur le recours administratif dans les trois mois suivant la notification de l'arrêt. Les frais de 2.000 euros (droit de rôle) et de 840 euros (indemnité de procédure) sont à charge de l'autorité."
+   ],
+   "scope": "Arrest RvVb.A.2526.0653: omgevingsvergunning padelhal Ninove; art. 4.3.1 VCRO, art. 63/1 Omgevingsvergunningsdecreet, art. 23 BVR 7 mei 2021 (overwelving gracht)",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0653.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0653.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0653"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0652",
+   "d": "2026-04-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls refusal to convert Laarne farm shed into equipment storage in agricultural zone",
+   "a": "The Council for Permit Disputes annulled a provincial refusal of an environmental permit to convert an agricultural shed in Laarne into storage for construction equipment. It held that the permit-lapse reasoning was wrong, that art. 8 of the zone-alien function changes decree does not require 'long-term' storage, and that the spatial planning assessment was missing.",
+   "b": "The ruling concerns an environmental permit application to change a roughly 4,150 m² shed in agricultural zone from agricultural use to storage of a construction company's equipment (cranes, aerial work platforms, scaffolding), with a notification for vehicle parking. The Council found that a 2003 building permit had not lapsed. Under the former rules (art. 128 DRO 1999 and art. 4.6.2 VCRO), lapse requires a late start, an interruption of more than two years, or a building not wind-tight within three years; incorrect execution of the plans is not lapse, and a criminal judgment on deviations or on a later change of use does not establish it. The authority also could not reject the file as insufficient, since the application was never declared incomplete and no further documents were requested. The Council confirmed, with res judicata effect of its earlier ruling of 31 October 2024, that art. 8 of the Besluit Zonevreemde Functiewijzigingen does not require long-term storage with infrequent visits. It further held that the alleged unlawful split between the shed and a farm dwelling (art. 11) was not substantiated and that the applicant's rebuttal was ignored. The authority also failed to assess good spatial planning, including the mobility note by an accredited expert. The Council annulled the refusal of 27 March 2025 and ordered a new decision within three months from the day after notification of the ruling. The new decision may not rely on the 'long-term storage' reading of art. 8 and must address the applicant's notes and the expert note. Costs (EUR 200 filing fee and EUR 840 procedural indemnity) go to the authority.",
+   "nl": [
+    "RvVb vernietigt weigering functiewijziging van loods in Laarne naar opslag van materieel in agrarisch gebied",
+    "De Raad voor Vergunningsbetwistingen vernietigt de weigering van een omgevingsvergunning voor de functiewijziging van een landbouwloods in Laarne naar opslag van materieel van een bouwbedrijf. Het verval van de vergunning, de lezing van artikel 8 van het Besluit Zonevreemde Functiewijzigingen als 'langdurige' opslag en het ontbreken van een beoordeling van de goede ruimtelijke ordening houden geen stand.",
+    "Het arrest betreft een aanvraag voor een omgevingsvergunning voor de functiewijziging van een loods van ongeveer 4.150 m² in agrarisch gebied, van land- en tuinbouw naar opslag van materieel van een bouwonderneming (bouwkranen, hoogtewerkers, stellingen), met melding van het stallen van voertuigen. De Raad oordeelt dat de stedenbouwkundige vergunning van 2003 niet vervallen is. Onder de toenmalige regeling (artikel 128 DRO 1999 en artikel 4.6.2 VCRO) vereist verval een te late aanvang, een onderbreking van meer dan twee jaar of een gebouw dat niet binnen drie jaar winddicht is. Een niet-correcte uitvoering van de plannen is geen verval, en een strafvonnis over afwijkingen of over een latere functiewijziging toont dat verval niet aan. De overheid kon het dossier evenmin als onvoldoende beoordelen, want de aanvraag werd nooit onvolledig verklaard en er werden geen bijkomende stukken gevraagd. De Raad bevestigt, met gezag van gewijsde van zijn arrest van 31 oktober 2024, dat artikel 8 van het Besluit Zonevreemde Functiewijzigingen geen langdurige opslag met weinig bezoeken vereist. Het weigeringsmotief van een wederrechtelijke afsplitsing van een bedrijfswoning (artikel 11) is niet onderbouwd en het verweer van de aanvrager werd genegeerd. De goede ruimtelijke ordening, met inbegrip van de mobiliteitsnota van een erkend deskundige, werd evenmin onderzocht. De Raad vernietigt de weigering van 27 maart 2025 en beveelt een nieuwe beslissing binnen drie maanden vanaf de dag na de betekening van het arrest. Die beslissing mag niet steunen op de 'langdurige opslag'-lezing van artikel 8 en moet ingaan op de nota's van de verzoekende partij en de deskundigennota. De kosten (rolrecht van 200 euro en rechtsplegingsvergoeding van 840 euro) vallen ten laste van de verwerende partij."
+   ],
+   "fr": [
+    "Le CCA annule le refus de changer l'affectation d'un hangar à Laarne en stockage de matériel en zone agricole",
+    "Le Conseil du contentieux des permis (RvVb) annule le refus d'un permis d'environnement pour le changement d'affectation d'un hangar agricole à Laarne en stockage de matériel d'une entreprise de construction. La péremption retenue, la lecture de l'article 8 de l'arrêté sur les changements de fonction hors zone comme exigeant un stockage « de longue durée » et l'absence d'examen du bon aménagement du territoire ne sont pas validés.",
+    "L'arrêt concerne une demande de permis d'environnement pour changer l'affectation d'un hangar d'environ 4.150 m² situé en zone agricole, d'agricole et horticole vers le stockage de matériel d'une entreprise de construction (grues, nacelles, échafaudages), avec déclaration d'un garage de véhicules. Le Conseil juge que le permis d'urbanisme de 2003 n'est pas périmé. Sous le régime alors applicable (article 128 du DRO de 1999 et article 4.6.2 VCRO), la péremption suppose un début tardif des travaux, une interruption de plus de deux ans ou un bâtiment non étanche au vent dans les trois ans. Une exécution non conforme aux plans n'est pas une péremption, et un jugement pénal relatif à des écarts ou à un changement d'usage ultérieur ne l'établit pas. L'autorité ne pouvait pas non plus juger le dossier insuffisant, car la demande n'a jamais été déclarée incomplète et aucune pièce complémentaire n'a été demandée. Le Conseil confirme, avec l'autorité de chose jugée de son arrêt du 31 octobre 2024, que l'article 8 du Besluit Zonevreemde Functiewijzigingen n'exige pas un stockage de longue durée avec peu de visites. Le motif de refus tiré d'une scission illégale d'avec un logement d'exploitation (article 11) n'est pas étayé et la défense du demandeur a été ignorée. Le bon aménagement du territoire, y compris la note de mobilité d'un expert agréé, n'a pas non plus été examiné. Le Conseil annule le refus du 27 mars 2025 et ordonne une nouvelle décision dans les trois mois suivant le jour après la signification de l'arrêt. Cette décision ne peut pas se fonder sur la lecture « stockage de longue durée » de l'article 8 et doit répondre aux notes de la partie requérante et à la note de l'expert. Les dépens (droit de rôle de 200 euros et indemnité de procédure de 840 euros) sont à charge de la partie adverse."
+   ],
+   "scope": "Arrest RvVb.A.2526.0652 – omgevingsvergunning functiewijziging loods; art. 8 en 11 Besluit Zonevreemde Functiewijzigingen; verval vergunning (art. 128 DRO 1999, art. 4.6.2 VCRO); goede ruimtelijke ordening; art. 37 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0652.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0652.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0652"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0650",
+   "d": "2026-04-02",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb dismisses appeal against PFAS discharge limits for Antwerp plant; reporting limits need no plan-MER",
+   "a": "The Council for Permit Disputes rejected an NGO's challenge to the 5 February 2025 decision adding special discharge limits for eight PFAS to a chemical plant's permit until 30 June 2026. It held that no immediate zero discharge of PFOS is required and that the VLAREM reference measurement methods and PFAS reporting limits are not a plan subject to plan-MER.",
+   "b": "The ruling concerns operators discharging industrial waste water containing PFAS, permitting authorities and environmental organisations challenging permit adjustments. The operator of a polyethylene plant in the Antwerp port had asked for limits of 10 times the reporting limit for all PFAS for five years. The appeal decision of 5 February 2025 partly granted this, with limits for eight PFAS until 30 June 2026, extra monitoring and a study on reducing the discharge, and no special limit for PFOS. The Council holds that the cessation obligation for priority hazardous substances (art. 1.2.2 Waterwetboek) also allows progressive reduction. PFOS may therefore be discharged up to the reporting limit, which was lowered from 100 to 20 ng/l in 2023, and such a discharge is not a classified activity. The applicant did not show deterioration of the Scheldt, since the discharge already forms part of the existing situation. The Council accepts that a 20 ng/l reporting limit cannot guarantee the 0.65 ng/l quality standard for PFOS by 22 December 2027. It finds, however, that this does not show a breach of the improvement obligation, as an extension of the deadline remains possible. The reference measurement methods in annex 4.2.5.2 VLAREM II and in the VLAREL only serve to check compliance and do not set the applicable limits, so they are not a plan requiring a plan-MER, and the plea of illegality fails. The appeal was dismissed on 2 April 2026, with costs (200 euro and 840 euro) borne by the applicant.",
+   "nl": [
+    "RvVb verwerpt beroep tegen PFAS-lozingsnormen voor Antwerps bedrijf; rapportagegrenzen vergen geen plan-MER",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep van een milieuorganisatie tegen de beslissing van 5 februari 2025 die tot en met 30 juni 2026 bijzondere lozingsnormen voor acht PFAS aan de vergunning van een chemisch bedrijf toevoegt. Er geldt geen onmiddellijke nullozing voor PFOS, en de referentiemeetmethodes en rapportagegrenzen voor PFAS in VLAREM zijn geen plan dat onder de plan-MER-plicht valt.",
+    "Het arrest betreft exploitanten die bedrijfsafvalwater met PFAS lozen, vergunningverlenende overheden en milieuorganisaties die bijstellingen van vergunningen betwisten. De exploitant van een polyethyleenbedrijf in de Antwerpse haven had lozingsnormen gevraagd van 10 keer de rapportagegrens voor alle PFAS gedurende vijf jaar. De beroepsbeslissing van 5 februari 2025 willigde dat gedeeltelijk in, met normen voor acht PFAS tot en met 30 juni 2026, bijkomende metingen en een studie naar de afbouw van de lozing, en zonder bijzondere norm voor PFOS. De Raad oordeelt dat de stopzettingsverplichting voor prioritair gevaarlijke stoffen (artikel 1.2.2 Waterwetboek) ook een geleidelijke vermindering toelaat. PFOS mag dus geloosd worden tot de rapportagegrens, die in 2023 van 100 naar 20 ng/l werd verlaagd, en een dergelijke lozing is geen ingedeelde activiteit. De verzoekende partij toont geen achteruitgang van de Schelde aan, omdat de lozing al deel uitmaakt van de bestaande toestand. De Raad erkent dat een rapportagegrens van 20 ng/l het halen van de milieukwaliteitsnorm van 0,65 ng/l voor PFOS tegen 22 december 2027 niet kan garanderen. Volgens de Raad blijkt daaruit echter geen schending van de verbeteringsverplichting, omdat een termijnverlening mogelijk blijft. De referentiemeetmethodes in bijlage 4.2.5.2 VLAREM II en in het VLAREL dienen enkel om de naleving te controleren en bepalen de toepasselijke normen niet. Ze vormen dus geen plan waarvoor een plan-MER nodig is, en de exceptie van onwettigheid faalt. Het beroep werd op 2 april 2026 verworpen, met de kosten (200 euro en 840 euro) ten laste van de verzoekende partij."
+   ],
+   "fr": [
+    "Le CCA rejette un recours contre des normes de rejet PFAS à Anvers; les limites de rapportage sans plan-MER",
+    "Le Conseil du contentieux des permis (RvVb) rejette le recours d'une organisation environnementale contre la décision du 5 février 2025 ajoutant, jusqu'au 30 juin 2026, des normes de rejet particulières pour huit PFAS au permis d'une entreprise chimique. Aucun rejet zéro immédiat n'est exigé pour le PFOS, et les méthodes de mesure de référence et limites de rapportage pour les PFAS dans le VLAREM ne constituent pas un plan soumis à l'obligation de plan-MER.",
+    "L'arrêt concerne les exploitants qui rejettent des eaux usées industrielles contenant des PFAS, les autorités délivrant les permis et les organisations environnementales qui contestent des adaptations de permis. L'exploitant d'une usine de polyéthylène dans le port d'Anvers avait demandé des normes de rejet de 10 fois la limite de rapportage pour tous les PFAS pendant cinq ans. La décision sur recours du 5 février 2025 y a fait droit en partie, avec des normes pour huit PFAS jusqu'au 30 juin 2026, des mesures supplémentaires et une étude sur la réduction du rejet, et sans norme particulière pour le PFOS. Le Conseil juge que l'obligation de cessation pour les substances dangereuses prioritaires (article 1.2.2 du Waterwetboek) permet aussi une réduction progressive. Le PFOS peut donc être rejeté jusqu'à la limite de rapportage, abaissée de 100 à 20 ng/l en 2023, et un tel rejet n'est pas une activité classée. La partie requérante ne démontre pas de détérioration de l'Escaut, le rejet faisant déjà partie de la situation existante. Le Conseil admet qu'une limite de rapportage de 20 ng/l ne permet pas de garantir la norme de qualité environnementale de 0,65 ng/l pour le PFOS d'ici le 22 décembre 2027. Il estime toutefois que cela ne révèle pas de violation de l'obligation d'amélioration, une prorogation du délai restant possible. Les méthodes de mesure de référence de l'annexe 4.2.5.2 du VLAREM II et du VLAREL servent uniquement à contrôler le respect des normes et ne fixent pas les normes applicables. Elles ne constituent donc pas un plan nécessitant un plan-MER, et l'exception d'illégalité échoue. Le recours a été rejeté le 2 avril 2026, les frais (200 euros et 840 euros) étant à charge de la partie requérante."
+   ],
+   "scope": "Arrest RvVb.A.2526.0650 van 2 april 2026: artikel 1.2.2 en 1.7.2.5.1 Waterwetboek, VLAREM II (artikel 4.2.3.1, bijlage 2.3.1, bijlage 4.2.5.2), VLAREL (bijlage 3, W.7.9) en plan-MER-plicht (artikel 4.2.1 e.v. DABM)",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0650.",
+     "https://www.dbrc.be/sites/default/files/2026-04/RVVB.A.2526.0650.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0650"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

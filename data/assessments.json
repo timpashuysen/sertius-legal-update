@@ -28904,7 +28904,7 @@
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 8 column 5 (char 2583)"
+"write_error": "Unterminated string starting at: line 5 column 8 (char 427)"
 },
 "codex:1042165": {
 "v": 2,
@@ -30269,7 +30269,7 @@
 "reason": "Flemish decree amendments on energy and climate rules.",
 "confidence": "high",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6623)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6251)"
 },
 "codex:1042061": {
 "v": 2,
@@ -35704,7 +35704,7 @@
 "reason": "Changes fertiliser (manure) policy rules and agri-environment measures in Flanders.",
 "confidence": "medium",
 "at": "2026-11-22",
-"write_error": "Unterminated string starting at: line 1 column 5227 (char 5226)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 5617)"
 },
 "codex:1042027": {
 "v": 2,
@@ -38183,7 +38183,8 @@
 ],
 "reason": "Constitutional Court ruling on product standards law for sustainable production and environmental protection.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-44-2026"
 },
 "gwh:43/2026": {
 "v": 2,
@@ -38311,7 +38312,8 @@
 ],
 "reason": "Amends rules on auctioning greenhouse gas emission allowances under emissions trading.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r0787"
 },
 "eu:32026R0781": {
 "v": 2,
@@ -38464,7 +38466,9 @@
 "topics": [],
 "reason": "Membership change of an expert commission; subject unclear from title.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Appoints an additional member to the inland-vessel Commission of Experts; no change to environmental obligations for companies, developers or authorities."
 },
 "codex:1041965": {
 "v": 2,
@@ -38485,7 +38489,8 @@
 "topics": [],
 "reason": "Amends various Flemish agricultural rules; may touch environmental provisions, content unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1041963"
 },
 "codex:1041962": {
 "v": 2,
@@ -38505,7 +38510,8 @@
 ],
 "reason": "Amends Flemish Energy Decree on energy efficiency obligations.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1041956"
 },
 "codex:1041951": {
 "v": 2,
@@ -38536,7 +38542,8 @@
 ],
 "reason": "Consent to Franco-Flemish agreement on water management during high water.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1041946"
 },
 "codex:1041945": {
 "v": 2,
@@ -38619,7 +38626,8 @@
 ],
 "reason": "Amends Walloon rational energy use subsidy scheme for households.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-133676"
 },
 "wallex:133380": {
 "v": 2,
@@ -38648,7 +38656,8 @@
 ],
 "reason": "Council ruling annulling a decision; subject matter not stated.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0658"
 },
 "rvvb:RVVB.A.2526.0657": {
 "v": 2,
@@ -38668,7 +38677,8 @@
 ],
 "reason": "Council ruling with no summary; subject matter unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0653"
 },
 "rvvb:RVVB.A.2526.0652": {
 "v": 2,
@@ -38679,7 +38689,8 @@
 ],
 "reason": "Council ruling with no summary; subject matter unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0652"
 },
 "rvvb:RVVB.A.2526.0650": {
 "v": 2,
@@ -38690,7 +38701,8 @@
 ],
 "reason": "Council ruling with no summary; subject matter unclear.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-a-2526-0650"
 },
 "rvvb:RVVB.A.2526.0649": {
 "v": 2,
@@ -64683,15 +64695,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 9,
-"found_not_relevant_on_reading": 2,
+"this_run": 10,
+"found_not_relevant_on_reading": 1,
 "failed": 3,
-"waiting": 379,
+"waiting": 368,
 "api": {
 "calls": 14,
-"input_tokens": 143610,
-"output_tokens": 38569,
-"usd": 0.6729
+"input_tokens": 219967,
+"output_tokens": 52279,
+"usd": 0.9627
 },
 "updated": "2026-11-23"
 }
