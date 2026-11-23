@@ -28698,7 +28698,8 @@
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6727)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6727)",
+"written": "d-codex-1042176"
 },
 "codex:1042165": {
 "v": 4,
@@ -31971,7 +31972,8 @@
 ],
 "reason": "Constitutional review of energy supply security and nuclear sector reform law.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-gwh-57-2026"
 },
 "eu:62025TJ0390_INF": {
 "v": 4,
@@ -32533,7 +32535,9 @@
 ],
 "reason": "Amends REACH Article 129 provisional restriction on a wood chemical product in France.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Decision only extends France's national provisional creosote-wood measure; addressed to France, no change to obligations in Belgium."
 },
 "eu:32026D1328": {
 "v": 4,
@@ -32834,7 +32838,8 @@
 ],
 "reason": "Changes language rules for Flemish administrative courts, which include permit dispute chamber.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1042034"
 },
 "codex:1042031": {
 "v": 4,
@@ -32863,7 +32868,9 @@
 ],
 "reason": "Adds an authentication method for Flemish administrative court procedure, which covers permit disputes.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Adds MyGov.be as a login method for the Flemish administrative courts' digital platform; no environmental obligations are changed or clarified."
 },
 "codex:1042013": {
 "v": 4,
@@ -61225,7 +61232,8 @@
 ],
 "reason": "Sets out how urgent suspension (UDN) of an omgevingsvergunning must be proven: concrete serious harm, delay of ordinary procedures, and the appellant's own diligence.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0779"
 },
 "rvvb:RVVB.2526.0778": {
 "v": 4,
@@ -61237,7 +61245,8 @@
 ],
 "reason": "Holds that a permit holder's binding declaration not to implement the permit pending annulment defeats urgent suspension (UDN), a procedural rule applicable elsewhere.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"write_error": "Expecting value: line 15 column 1 (char 5452)"
 },
 "rvvb:RVVB.2526.0777": {
 "v": 4,
@@ -61249,7 +61258,8 @@
 ],
 "reason": "Reads Antwerp Bouwcode art. 23 §4-5 strictly: a wooden terrace in the front garden is not an allowed hardening, so partial unhardening cannot justify compliance; permits are indivisible.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0777"
 },
 "rvvb:RVVB.2526.0776": {
 "v": 4,
@@ -61261,7 +61271,8 @@
 ],
 "reason": "Holds RUP 'open bebouwing' needs all facades free; attached carports defeat it. Scale test must use zone randwijken as reference, not single dwellings.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0776"
 },
 "rvvb:RVVB.2526.0775": {
 "v": 4,
@@ -61273,7 +61284,8 @@
 ],
 "reason": "Public character alone decides whether a road needs prior municipal council approval under the Omgevingsvergunningsdecreet art. 31; applicants cannot avoid this by keeping road management private.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0775"
 },
 "rvvb:RVVB.2526.0774": {
 "v": 4,
@@ -61285,7 +61297,8 @@
 ],
 "reason": "A middle must state how the cited rule is breached; later notes cannot cure it. Duty to motivate targets the latest advice, and provincial environmental officials' advice creates no legitimate expecta",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0774"
 },
 "rvvb:RVVB.2526.0773": {
 "v": 4,
@@ -61309,7 +61322,8 @@
 ],
 "reason": "Annuls a deputation decision: where appeal is tacitly rejected by equal votes, the tacit refusal lacks reasons, so the appeal decision cannot rest on any reasoned grounds.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0772"
 },
 "rvvb:RVVB.2526.0771": {
 "v": 4,
@@ -61321,7 +61335,8 @@
 ],
 "reason": "Third-party appeal deadline against a 'vergund geacht' registration runs from actual knowledge, not registration, after the Constitutional Court struck the VCRO 45-day rule.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0771"
 },
 "rvvb:RVVB.2526.0770": {
 "v": 4,
@@ -61333,7 +61348,8 @@
 ],
 "reason": "Holds that Art. 4.4.1/0 VCRO requires a reasoned applicant request for deviations from spatial plan rules and that 'beperkte afwijking' must be judged against the plan provision's purpose, not neighbo",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0770"
 },
 "rvvb:RVVB.2526.0769": {
 "v": 4,
@@ -67153,15 +67169,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 9,
-"found_not_relevant_on_reading": 4,
+"this_run": 11,
+"found_not_relevant_on_reading": 2,
 "failed": 1,
-"waiting": 561,
+"waiting": 548,
 "api": {
 "calls": 14,
-"input_tokens": 194755,
-"output_tokens": 38014,
-"usd": 0.7697
+"input_tokens": 186991,
+"output_tokens": 45375,
+"usd": 0.8277
 },
 "updated": "2026-11-23"
 },
