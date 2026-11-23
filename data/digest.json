@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:48:11Z",
+ "updated": "2026-11-23T18:56:41Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -32039,6 +32039,539 @@
    ],
    "inbox": [
     "rvvb:RVVB.A.2526.0521"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-a-2526-0520",
+   "d": "2026-02-26",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting",
+    "environmental-safety"
+   ],
+   "h": "RvVb annuls permit: water assessment must acknowledge flood sensitivity shown in official flood reports",
+   "a": "The Council for Permit Disputes annulled an appeal decision granting a subdivision permit in Houthalen-Helchteren because its water assessment wrongly held that the plots were not flood-sensitive. The appeal authority must acknowledge the flood sensitivity shown in the Waterinfo flood reports and explain whether the project still passes the water assessment.",
+   "b": "The ruling concerns permit applicants and permit-granting authorities, which must carry out and justify the water assessment (watertoets) under the Waterwetboek. It annulled a decision of 27 February 2025 that granted a subdivision permit for two semi-detached houses. The appeal authority had stated that the plots were not in a flood-sensitive area, so that no advice was needed from the water management department. The Council noted that the flood reports on Waterinfo give the plots a score C (small chance of pluvial flooding), and that the appellant had expressly relied on these data during the administrative procedure. It held that the authority should have recognised this sensitivity, however limited, and then explained why the application could nonetheless pass the water assessment. Failing to do so is a defect in the statement of reasons, and the Council also found that the authority wrongly concluded that no advice had to be requested. The Council confirmed that it does not replace the authority's own water assessment but checks whether it was based on correct facts and reasonably reached. The appeal authority must take a new decision on the administrative appeal within three months of the day after notification of the ruling of 26 February 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning: watertoets moet rekening houden met overstromingsgevoeligheid uit overstromingsrapporten",
+    "De Raad voor Vergunningsbetwistingen vernietigt een beslissing in beroep die een verkavelingsvergunning in Houthalen-Helchteren verleende, omdat de watertoets ten onrechte stelde dat de percelen niet overstromingsgevoelig waren. De beroepsinstantie moet de overstromingsgevoeligheid uit de overstromingsrapporten op Waterinfo erkennen en motiveren waarom de aanvraag de watertoets toch doorstaat.",
+    "Het arrest betreft aanvragers en vergunningverlenende overheden, die de watertoets overeenkomstig het Waterwetboek moeten uitvoeren en motiveren. De Raad vernietigt een beslissing van 27 februari 2025 die een omgevingsvergunning voor het verkavelen van twee percelen voor twee halfopen woningen verleende. De beroepsinstantie had gesteld dat de percelen niet in overstromingsgevoelig gebied lagen en dat daarom geen advies van de dienst Waterbeheer nodig was. De Raad stelt vast dat de overstromingsrapporten op Waterinfo de percelen score C toekennen (kleine kans op pluviale overstroming) en dat de verzoekende partij zich tijdens de bestuurlijke procedure uitdrukkelijk op die gegevens had beroepen. Volgens de Raad had de overheid die gevoeligheid, hoe beperkt ook, moeten erkennen en vervolgens moeten motiveren waarom de aanvraag de watertoets toch kon doorstaan. Dat ze dat niet deed, is een motiveringsgebrek, en ze oordeelde volgens de Raad ook ten onrechte dat geen advies moest worden gevraagd. De Raad bevestigt dat hij de watertoets niet in de plaats stelt van die van de overheid, maar nagaat of ze op juiste feitelijke gegevens steunt en redelijk tot haar beslissing kwam. De beroepsinstantie moet binnen drie maanden vanaf de dag na de betekening van het arrest van 26 februari 2026 een nieuwe beslissing nemen over het bestuurlijk beroep."
+   ],
+   "fr": [
+    "Le CCA annule un permis: le test de l'eau doit tenir compte de la sensibilité aux inondations indiquée par les rapports d'inondation",
+    "Le Conseil pour les contestations des autorisations (RvVb) annule une décision de recours accordant un permis de lotir à Houthalen-Helchteren, car le test de l'eau (watertoets) affirmait à tort que les parcelles n'étaient pas sensibles aux inondations. L'autorité de recours doit reconnaître la sensibilité indiquée par les rapports d'inondation de Waterinfo et motiver pourquoi la demande satisfait malgré tout au test de l'eau.",
+    "L'arrêt concerne les demandeurs et les autorités délivrant les permis, qui doivent réaliser et motiver le test de l'eau conformément au Waterwetboek (code de l'eau flamand). Le Conseil annule une décision du 27 février 2025 accordant un permis d'environnement pour le lotissement de deux parcelles destinées à deux maisons jumelées. L'autorité de recours avait affirmé que les parcelles ne se situaient pas en zone sensible aux inondations et qu'aucun avis du service de gestion de l'eau n'était donc nécessaire. Le Conseil constate que les rapports d'inondation consultables sur Waterinfo attribuent aux parcelles le score C (faible probabilité d'inondation pluviale) et que la partie requérante s'était expressément fondée sur ces données durant la procédure administrative. Selon le Conseil, l'autorité aurait dû reconnaître cette sensibilité, même limitée, puis motiver pourquoi la demande pouvait néanmoins satisfaire au test de l'eau. Elle ne l'a pas fait, ce qui constitue un défaut de motivation, et elle a aussi conclu à tort qu'aucun avis ne devait être demandé. Le Conseil confirme qu'il ne substitue pas son appréciation à celle de l'autorité, mais vérifie qu'elle s'est fondée sur des faits exacts et a statué raisonnablement. L'autorité de recours doit prendre une nouvelle décision sur le recours administratif dans les trois mois suivant le lendemain de la notification de l'arrêt du 26 février 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.A.2526.0520 – artikel 1.3.1.1 Waterwetboek (watertoets), artikel 3 §2 Watertoetsbesluit en de motiveringsplicht bij omgevingsvergunningen",
+   "dates": {
+    "adopted": "2026-02-26"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.A.2526.0520. vernietiging van de beslissing van de verwerende partij van 27 februari 2025, wa",
+     "https://www.dbrc.be/sites/default/files/2026-03/RVVB.A.2526.0520.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.A.2526.0520"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0131-sum",
+   "d": "2026-02-26",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "CJEU: bird-disturbance ban applies to road projects; mitigation measures count, and a court expert may show they work",
+   "a": "The Court of Justice rules that the ban on deliberately disturbing wild birds (Directive 2009/147, Art. 5(d)) covers road construction that accepts the possibility of disturbance. Mitigation measures can be taken into account, and a reasoned court expert assessment can prove their effectiveness.",
+   "b": "The ruling concerns developers and authorities handling projects, such as road construction, that may disturb protected wild birds. The Court holds that Article 5(a), (b) and (d) of the Birds Directive also cover activities that do not aim at such acts but accept that they may occur. When assessing whether the ban on deliberate disturbance applies, the preventive and mitigating measures built into the project may be taken into account. If these measures prevent any significant effect in light of the Directive's objectives, the project does not involve deliberate disturbance. On proof, the Court accepts that the effectiveness of such measures may be established by a reasoned assessment from a court expert, subject to conditions set out in the judgment. The summary gives no date of entry into force or transitional rules; it is a preliminary ruling from an Austrian court (Bundesverwaltungsgericht) delivered on 26 February 2026.",
+   "nl": [
+    "HvJ-EU: verbod op verstoring van vogels geldt voor wegenbouw; mitigatie telt mee en gerechtsdeskundige kan effectiviteit aantonen",
+    "Het Hof van Justitie oordeelt dat het verbod op opzettelijke verstoring van wilde vogels (Richtlijn 2009/147, art. 5, d)) ook geldt voor wegenbouw die de mogelijkheid van verstoring aanvaardt. Mitigerende maatregelen mogen in aanmerking worden genomen en een met redenen omkleed deskundigenoordeel van de rechter kan hun effectiviteit bewijzen.",
+    "Het arrest is van belang voor projectontwikkelaars en overheden die projecten behandelen, zoals wegenbouw, die beschermde wilde vogels kunnen verstoren. Het Hof oordeelt dat artikel 5, a), b) en d) van de Vogelrichtlijn ook activiteiten omvat die niet gericht zijn op dergelijke handelingen, maar de mogelijkheid ervan aanvaarden. Bij de beoordeling of het verbod op opzettelijke verstoring van toepassing is, mag rekening worden gehouden met de preventieve en mitigerende maatregelen die in het project zijn opgenomen. Voorkomen die maatregelen elk significant effect in het licht van de doelstellingen van de richtlijn, dan houdt het project geen opzettelijke verstoring in. Wat het bewijs betreft, aanvaardt het Hof dat de effectiviteit van die maatregelen kan worden aangetoond door een met redenen omkleed oordeel van een gerechtsdeskundige, onder de voorwaarden van het arrest. Er wordt geen datum van inwerkingtreding of overgangsregeling vermeld; het betreft een prejudiciële beslissing op verzoek van een Oostenrijkse rechter (Bundesverwaltungsgericht), uitgesproken op 26 februari 2026."
+   ],
+   "fr": [
+    "CJUE : l'interdiction de perturber les oiseaux vise les routes ; les mesures d'atténuation comptent, preuve par expert judiciaire",
+    "La Cour de justice juge que l'interdiction de perturber intentionnellement les oiseaux sauvages (directive 2009/147, art. 5, sous d)) couvre la construction d'une route qui accepte la possibilité d'une perturbation. Les mesures d'atténuation peuvent être prises en compte et l'avis motivé d'un expert judiciaire peut prouver leur efficacité.",
+    "L'arrêt concerne les porteurs de projets et les autorités qui traitent des projets, tels que la construction de routes, susceptibles de perturber des oiseaux sauvages protégés. La Cour juge que l'article 5, sous a), b) et d), de la directive « Oiseaux » couvre aussi des activités qui ne visent pas de tels actes mais en acceptent la possibilité. Pour apprécier si l'interdiction de perturbation intentionnelle s'applique, il peut être tenu compte des mesures de prévention et d'atténuation prévues par le projet. Si ces mesures permettent d'éviter tout effet significatif au regard des objectifs de la directive, le projet n'implique pas de perturbation intentionnelle. Quant à la preuve, la Cour admet que l'efficacité de ces mesures puisse être établie par l'appréciation motivée d'un expert judiciaire, aux conditions précisées dans l'arrêt. Aucune date d'entrée en vigueur ni mesure transitoire n'est mentionnée ; il s'agit d'une décision préjudicielle rendue le 26 février 2026 à la demande d'une juridiction autrichienne (Bundesverwaltungsgericht)."
+   ],
+   "scope": "Arrêt de la Cour (première chambre), affaire C-131/24 : directive 2009/147/CE (Oiseaux), art. 5, points a), b) et d)",
+   "dates": {
+    "adopted": "2026-02-26"
+   },
+   "u": [
+    [
+     "Judgment of the Court (First Chamber) of 26 February 2026.#Umweltorganisation VIRUS – Verein Projektwerkstatt für Umwelt und Soziales and Ot",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0131_SUM"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0131_SUM"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-62024cj0131",
+   "d": "2026-02-26",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "CJEU: preventive measures count when assessing bird disturbance under Birds Directive Art. 5(d); expert opinion can prove them",
+   "a": "The Court of Justice rules that measures built into a project can be taken into account when assessing deliberate disturbance of wild birds under Article 5(d) of the Birds Directive. Their effectiveness may be shown by a reasoned court-expert assessment; documented proof of earlier successful use cannot be required.",
+   "b": "The ruling concerns projects, such as a road scheme, that may disturb wild birds without aiming to do so, and the authorities and courts that assess them. Article 5(d) prohibits only deliberate disturbance that is significant for the objectives of the Directive, meaning the population level of the species and not individual specimens. The Court holds that there is no prohibited disturbance where measures forming part of the project prevent any significant effect on those objectives. Such measures must therefore be taken into account from the outset of the assessment. The two-stage logic of the Habitats Directive screening case-law (People Over Wind) does not carry over, because Article 5(d) has no separate screening stage. As to proof, the Directive contains no evidence rules, so national procedural autonomy applies, subject to equivalence and effectiveness. A reasoned court-expert assessment may prove effectiveness if it rests on the most reliable scientific data available and the most recent international research. Scientific documentation of successful implementation of the measures cannot be demanded. The judgment is dated 26 February 2026 and was given on a reference from the Austrian Bundesverwaltungsgericht; the text states no separate entry-into-force date.",
+   "nl": [
+    "HvJ-EU: preventieve maatregelen tellen mee bij verstoring van vogels onder art. 5, d) Vogelrichtlijn; deskundigenadvies volstaat",
+    "Het Hof van Justitie oordeelt dat maatregelen die deel uitmaken van een project in aanmerking kunnen worden genomen bij de beoordeling van opzettelijke verstoring van wilde vogels onder artikel 5, onder d), van de Vogelrichtlijn. De doeltreffendheid ervan kan worden aangetoond met een gemotiveerde beoordeling van een gerechtsdeskundige; wetenschappelijke documentatie over eerdere succesvolle toepassing mag niet worden geëist.",
+    "Het arrest betreft projecten, zoals de aanleg van een weg, die wilde vogels kunnen verstoren zonder dat dit hun doel is, en de overheden en rechters die deze beoordelen. Artikel 5, onder d), verbiedt alleen opzettelijke verstoring die significant is voor de doelstellingen van de richtlijn, dat wil zeggen voor het populatieniveau van de soort en niet voor individuele exemplaren. Het Hof oordeelt dat er geen verboden verstoring is wanneer maatregelen die deel uitmaken van het project elk significant effect op die doelstellingen voorkomen. Zulke maatregelen moeten dus vanaf het begin van de beoordeling in aanmerking worden genomen. De redenering uit de rechtspraak over de screening onder de Habitatrichtlijn (People Over Wind) is niet overdraagbaar, omdat artikel 5, onder d), geen afzonderlijke screeningfase kent. Inzake het bewijs bevat de richtlijn geen regels, zodat de procedurele autonomie van de lidstaten geldt, onder voorbehoud van de beginselen van gelijkwaardigheid en effectiviteit. Een gemotiveerde beoordeling van een gerechtsdeskundige kan de doeltreffendheid aantonen, indien zij steunt op de meest betrouwbare beschikbare wetenschappelijke gegevens en de meest recente resultaten van internationaal onderzoek. Wetenschappelijke documentatie over een succesvolle toepassing van de maatregelen mag niet worden geëist. Het arrest dateert van 26 februari 2026 en werd gewezen op verwijzing van het Oostenrijkse Bundesverwaltungsgericht; de tekst vermeldt geen afzonderlijke datum van inwerkingtreding."
+   ],
+   "fr": [
+    "CJUE : les mesures préventives comptent pour apprécier la perturbation des oiseaux (art. 5, d), directive Oiseaux); l'avis d'expert suffit",
+    "La Cour de justice juge que les mesures intégrées à un projet peuvent être prises en compte pour apprécier la perturbation intentionnelle d'oiseaux sauvages au sens de l'article 5, sous d), de la directive Oiseaux. Leur efficacité peut être établie par l'appréciation motivée d'un expert judiciaire; une documentation scientifique attestant leur réussite antérieure ne peut être exigée.",
+    "L'arrêt concerne les projets, tels que la construction d'une route, susceptibles de perturber des oiseaux sauvages sans que ce soit leur but, ainsi que les autorités et juridictions qui les examinent. L'article 5, sous d), n'interdit que la perturbation intentionnelle significative au regard des objectifs de la directive, c'est-à-dire pour le niveau de population de l'espèce et non pour des spécimens isolés. La Cour juge qu'il n'y a pas de perturbation interdite lorsque les mesures prévues par le projet permettent d'éviter tout effet significatif sur ces objectifs. Ces mesures doivent donc être prises en compte dès le début de l'évaluation. La logique de la jurisprudence sur le filtrage au titre de la directive Habitats (People Over Wind) n'est pas transposable, l'article 5, sous d), ne comportant pas de phase de filtrage distincte. S'agissant de la preuve, la directive ne contient aucune règle, de sorte que l'autonomie procédurale des États membres s'applique, sous réserve des principes d'équivalence et d'effectivité. L'appréciation motivée d'un expert judiciaire peut établir l'efficacité des mesures si elle repose sur les données scientifiques les plus fiables disponibles et sur les résultats les plus récents de la recherche internationale. Une documentation scientifique attestant la mise en œuvre réussie des mesures ne peut être exigée. L'arrêt date du 26 février 2026 et a été rendu sur renvoi du Bundesverwaltungsgericht autrichien; le texte ne mentionne pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Arrêt C-131/24 de la Cour de justice (première chambre) – directive 2009/147/CE (Oiseaux), article 5, sous d) – Judgment of the Court of Justice, Case C-131/24",
+   "dates": {
+    "adopted": "2026-02-26"
+   },
+   "u": [
+    [
+     "Judgment of the Court (First Chamber) of 26 February 2026.#Umweltorganisation VIRUS – Verein Projektwerkstatt für Umwelt und Soziales and Ot",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62024CJ0131"
+    ]
+   ],
+   "inbox": [
+    "eu:62024CJ0131"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d0429",
+   "d": "2026-02-25",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "circular-products"
+   ],
+   "h": "Pallet wrappings and straps exempted from 100% re-use targets under EU Packaging Regulation",
+   "a": "A Commission delegated decision exempts operators using pallet wrappings or straps to stabilise and protect palletised goods in transport from the 100% re-use requirements in Article 29(2) and (3) of Regulation (EU) 2025/40. It enters into force on the twentieth day after publication.",
+   "b": "The decision concerns economic operators that use pallet wrappings or straps to stabilise and protect products on pallets during transport. These formats are exempted from the 100% re-use requirements for transports within the same company or linked or partner companies in the Union, and for transports between companies within the same Member State (Article 29(2) and (3) of Regulation (EU) 2025/40). The Commission bases the exemption on evidence of disproportionate adaptation costs: redesigning packaging lines requires high initial investment, and automated solutions for reusable packaging are not yet sufficiently developed. The exemption covers only Article 29(2) and (3); the decision does not mention other provisions of the Regulation. The decision was adopted on 25 February 2026 and published in the Official Journal on 6 May 2026. It enters into force on the twentieth day after publication, i.e. 26 May 2026.",
+   "nl": [
+    "Pallethoezen en riemen vrijgesteld van de 100 %-hergebruiksdoelstellingen van de EU-verpakkingsverordening",
+    "Een gedelegeerd besluit van de Commissie stelt marktdeelnemers die pallethoezen of riemen gebruiken om gepalletiseerde goederen tijdens het vervoer te stabiliseren en te beschermen, vrij van de eisen inzake 100 % hergebruik van artikel 29, leden 2 en 3, van Verordening (EU) 2025/40. Het treedt in werking op de twintigste dag na bekendmaking.",
+    "Het besluit betreft marktdeelnemers die pallethoezen of riemen gebruiken om producten op pallets tijdens het vervoer te stabiliseren en te beschermen. Voor deze verpakkingsformaten geldt een vrijstelling van de eisen inzake 100 % hergebruik bij vervoer binnen hetzelfde bedrijf of tussen verbonden of partnerbedrijven in de Unie, en bij vervoer tussen bedrijven binnen dezelfde lidstaat (artikel 29, leden 2 en 3, van Verordening (EU) 2025/40). De Commissie baseert de vrijstelling op aanwijzingen voor onevenredige aanpassingskosten: het herontwerpen van verpakkingslijnen vergt hoge initiële investeringen en geautomatiseerde oplossingen voor herbruikbare verpakkingen zijn nog onvoldoende ontwikkeld. De vrijstelling geldt alleen voor artikel 29, leden 2 en 3; andere bepalingen van de verordening komen in het besluit niet aan bod. Het besluit werd aangenomen op 25 februari 2026 en op 6 mei 2026 in het Publicatieblad bekendgemaakt. Het treedt in werking op de twintigste dag na bekendmaking, dus op 26 mei 2026."
+   ],
+   "fr": [
+    "Housses de palettes et sangles exemptées des objectifs de réemploi de 100 % du règlement européen sur les emballages",
+    "Une décision déléguée de la Commission exempte les opérateurs économiques qui utilisent des housses de palettes ou des sangles pour stabiliser et protéger les produits palettisés pendant le transport des exigences de réemploi de 100 % de l'article 29, paragraphes 2 et 3, du règlement (UE) 2025/40. Elle entre en vigueur le vingtième jour suivant sa publication.",
+    "La décision concerne les opérateurs économiques qui utilisent des housses de palettes ou des sangles pour stabiliser et protéger les produits sur palettes pendant le transport. Ces formats d'emballage sont exemptés des exigences de réemploi de 100 % pour les transports au sein d'une même entreprise ou entre entreprises liées ou partenaires dans l'Union, ainsi que pour les transports entre entreprises au sein d'un même État membre (article 29, paragraphes 2 et 3, du règlement (UE) 2025/40). La Commission fonde l'exemption sur des éléments indiquant des coûts d'adaptation disproportionnés : la refonte des lignes d'emballage exige des investissements initiaux élevés et les solutions automatisées pour les emballages réutilisables ne sont pas encore suffisamment développées. L'exemption ne porte que sur l'article 29, paragraphes 2 et 3 ; la décision ne mentionne pas d'autres dispositions du règlement. La décision a été adoptée le 25 février 2026 et publiée au Journal officiel le 6 mai 2026. Elle entre en vigueur le vingtième jour suivant sa publication, soit le 26 mai 2026."
+   ],
+   "scope": "Commission Delegated Decision (EU) 2026/429 supplementing Regulation (EU) 2025/40 (packaging and packaging waste): Article 1 exemption from Article 29(2) and (3) re-use targets for pallet wrappings and straps",
+   "dates": {
+    "adopted": "2026-02-25",
+    "published": "2026-05-06",
+    "in_force": "2026-05-26"
+   },
+   "u": [
+    [
+     "Commission Delegated Decision (EU) 2026/429 of 25 February 2026 on supplementing Regulation (EU) 2025/40 of the European Parliament and of t",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0429"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D0429"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1041800",
+   "d": "2026-02-25",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders sets technical requirements for Mijn VerbouwPremie renovation premiums from 1 March 2026",
+   "a": "A ministerial decree sets the detailed rules and technical requirements for Mijn VerbouwPremie premiums on heat pumps, insulation, glazing and asbestos removal. It applies to applications from 1 March 2026.",
+   "b": "The decree concerns applicants for the Flemish renovation premiums, and the contractors and installers who carry out and validate the works. It covers heat pumps and heat pump boilers, roof, cavity wall, external and internal wall and floor insulation, glazing and asbestos removal, plus ventilation provisions. For heat pumps, an air-water unit must be the sole central heating. A hybrid unit must combine a new electric air-water heat pump with a gas condensing boiler on the same emission system. Air-air units may not be used for active cooling unless the cooling function is irreversibly disabled, with an exception for sole central heating in a fully fossil-free dwelling. Minimum efficiency levels apply, emission temperature is capped at 55°C, and a certified person must validate the installation. For insulation, existing layers do not count towards the Rd-value, the premium is based on the area actually insulated, only directly or indirectly heated spaces qualify, and shared walls are excluded. Cavity walls need a cavity of at least 50 mm, a lambda value of at most 0.065 W/m.K and compliance with the STS. Glazing in verandas is excluded. Asbestos removal requires a valid certificate for simple operations and either the OVAM code of good practice or membership of the Asbestos Charter for roofers. For each category the decree lists the minimum content of the application form, the contractor's attestation and the invoices. Equivalent requirements are set for the premiums under Article 5.189 of the Flemish Housing Code Decree, and the Flemish Energy and Climate Agency may issue interpretation guidelines. The decree is dated 25 February 2026, was published on 27 February 2026 and enters into force on 1 March 2026.",
+   "nl": [
+    "Vlaanderen legt technische vereisten vast voor de Mijn VerbouwPremie vanaf 1 maart 2026",
+    "Een ministerieel besluit bepaalt de nadere regels en technische vereisten voor de Mijn VerbouwPremie voor warmtepompen, isolatie, beglazing en asbestverwijdering. Het is van toepassing op aanvragen vanaf 1 maart 2026.",
+    "Het besluit betreft aanvragers van de Vlaamse renovatiepremies en de aannemers en installateurs die de werken uitvoeren en valideren. Het behandelt warmtepompen en warmtepompboilers, dak-, spouwmuur-, buitenmuur-, binnenmuur- en vloerisolatie, beglazing en asbestverwijdering, plus ventilatievoorzieningen. Voor warmtepompen moet een lucht-waterwarmtepomp de enige centrale verwarming zijn. Een hybride toestel combineert een nieuwe elektrische lucht-waterwarmtepomp met een gascondensatieketel op hetzelfde afgiftesysteem. Lucht-luchtwarmtepompen mogen niet voor actieve koeling worden gebruikt tenzij de koelfunctie onomkeerbaar is uitgeschakeld, met een uitzondering voor de enige centrale verwarming in een volledig fossielvrije woning. Er gelden minimale energie-efficiëntie-eisen, de afgiftetemperatuur is beperkt tot 55°C en een gecertificeerde persoon moet de installatie valideren. Bij isolatie telt een bestaande laag niet mee voor de Rd-waarde, wordt de premie berekend op de effectief geïsoleerde oppervlakte, komen enkel direct of indirect verwarmde ruimtes in aanmerking en vallen gemeenschappelijke muren erbuiten. Spouwmuren vereisen een spouw van minstens 50 mm, een lambdawaarde van hoogstens 0,065 W/m.K en naleving van de STS. Beglazing in veranda's komt niet in aanmerking. Asbestverwijdering vereist een geldig attest eenvoudige handelingen en ofwel de OVAM-code van goede praktijk, ofwel lidmaatschap van het Asbestcharter voor dakaannemers. Per categorie somt het besluit de minimale inhoud op van het aanvraagformulier, het attest van de aannemer en de facturen. Gelijkaardige vereisten gelden voor de premies op grond van artikel 5.189 van het Besluit Vlaamse Codex Wonen van 2021, en het Vlaams Energie- en Klimaatagentschap kan richtlijnen over de interpretatie uitvaardigen. Het besluit is gedateerd op 25 februari 2026, werd op 27 februari 2026 bekendgemaakt en treedt op 1 maart 2026 in werking."
+   ],
+   "fr": [
+    "La Flandre fixe les exigences techniques de la Mijn VerbouwPremie à partir du 1er mars 2026",
+    "Un arrêté ministériel fixe les modalités et exigences techniques de la Mijn VerbouwPremie pour les pompes à chaleur, l'isolation, le vitrage et le désamiantage. Il s'applique aux demandes introduites à partir du 1er mars 2026.",
+    "L'arrêté concerne les demandeurs des primes flamandes à la rénovation ainsi que les entrepreneurs et installateurs qui exécutent et valident les travaux. Il couvre les pompes à chaleur et les chauffe-eau à pompe à chaleur, l'isolation du toit, des murs creux, des murs extérieurs (par l'extérieur et par l'intérieur) et des sols, le vitrage et le désamiantage, ainsi que des dispositions de ventilation. Pour les pompes à chaleur, une pompe air-eau doit constituer l'unique chauffage central. Un appareil hybride associe une nouvelle pompe à chaleur électrique air-eau à une chaudière à condensation au gaz sur le même système d'émission. Les pompes air-air ne peuvent pas servir au refroidissement actif, sauf si la fonction de refroidissement est désactivée de manière irréversible, avec une exception pour l'unique chauffage central d'un logement entièrement sans énergie fossile. Des exigences minimales d'efficacité énergétique s'appliquent, la température d'émission est limitée à 55°C et une personne certifiée doit valider l'installation. Pour l'isolation, une couche existante n'est pas prise en compte dans la valeur Rd, la prime est calculée sur la surface effectivement isolée, seuls les espaces chauffés directement ou indirectement entrent en considération et les murs mitoyens sont exclus. Les murs creux exigent une coulisse d'au moins 50 mm, une valeur lambda d'au plus 0,065 W/m.K et le respect des STS. Le vitrage placé dans des vérandas est exclu. Le désamiantage requiert une attestation valide pour opérations simples et soit le code de bonne pratique de l'OVAM, soit l'affiliation à la Charte amiante pour couvreurs. Pour chaque catégorie, l'arrêté énumère le contenu minimal du formulaire de demande, de l'attestation de l'entrepreneur et des factures. Des exigences similaires sont fixées pour les primes relevant de l'article 5.189 de l'arrêté du Gouvernement flamand portant le Code flamand du Logement de 2021, et l'Agence flamande de l'énergie et du climat peut émettre des directives d'interprétation. L'arrêté est daté du 25 février 2026, a été publié le 27 février 2026 et entre en vigueur le 1er mars 2026."
+   ],
+   "scope": "Ministerieel besluit van 25 februari 2026 tot vaststelling van nadere regels en technische vereisten (art. 6.4.1/1/1, 6.4.1/1/4 en 6.4.1/2 Energiebesluit; art. 5.189 Besluit Vlaamse Codex Wonen van 2021)",
+   "dates": {
+    "adopted": "2026-02-25",
+    "published": "2026-02-27",
+    "in_force": "2026-03-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot vaststelling van de nadere regels en technische vereisten, vermeld in artikels 6.4.1/1/1, 6.4.1/1/4 en 6.4.1/2 van ",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041800&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1041800"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265826",
+   "d": "2026-02-24",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permit refusal can be withdrawn only on stated illegality; vague conditions unlawful",
+   "a": "The Council of State annulled a Walloon ministerial decision that withdrew a planning permit refusal and granted the permit. The withdrawal lacked a stated illegality, and several permit conditions breached Article D.IV.53 CoDT.",
+   "b": "The ruling concerns authorities deciding planning permit appeals in Wallonia, permit applicants and neighbours who oppose projects. A refusal creates rights for opposing neighbours, so it can be withdrawn only if it is illegal to the extent that it would have been annulled, and only within the appeal period. The withdrawing authority must state this illegality in its formal reasons under the Law of 29 July 1991, identifying the rules breached and how. A reassessment of expediency, here prompted by a mediator's recommendation, is not enough, and the 2023 decree on the joint mediation service does not derogate from these rules. On conditions, Article D.IV.53 CoDT requires them to be necessary for integration or feasibility, precise, limited and secondary. They may not leave room for discretion, require plans after issue, or depend on a third party or another authority. The Council found unlawful a choice between two locations for storm-water tanks, a felling/planting plan to be approved afterwards by the municipal college, and an option to keep part of the underground garages closed without a set depth. A 70 cm shift of the building was accepted as precise and secondary. The decision of 9 July 2024 is annulled by judgment of 24 February 2026, which sets no transitional rules.",
+   "nl": [
+    "Raad van State: weigering van vergunning enkel intrekbaar bij vermelde onwettigheid; vage voorwaarden onwettig",
+    "De Raad van State vernietigde een Waalse ministeriële beslissing die een weigering van een stedenbouwkundige vergunning introk en de vergunning verleende. De intrekking vermeldde geen onwettigheid en meerdere vergunningsvoorwaarden schonden artikel D.IV.53 CoDT.",
+    "Het arrest betreft overheden die in Wallonië beroepen inzake stedenbouwkundige vergunningen behandelen, vergunningsaanvragers en buren die zich tegen een project verzetten. Een weigering schept rechten voor verzettende buren en kan dus enkel worden ingetrokken als ze zo onwettig is dat ze vernietigd zou zijn, en enkel binnen de beroepstermijn. De intrekkende overheid moet die onwettigheid in de formele motivering vermelden, conform de wet van 29 juli 1991, met aanduiding van de geschonden regels en de wijze waarop. Een heroverweging van de opportuniteit, hier naar aanleiding van een aanbeveling van de bemiddelaar, volstaat niet, en het decreet van 2023 over de gemeenschappelijke bemiddelingsdienst wijkt niet van deze regels af. Voor voorwaarden vereist artikel D.IV.53 CoDT dat ze noodzakelijk zijn voor de integratie of haalbaarheid, nauwkeurig, beperkt en bijkomstig. Ze mogen geen beoordelingsruimte laten, geen plannen na de afgifte opleggen en niet afhangen van een derde of een andere overheid. Onwettig bevonden zijn een keuze tussen twee locaties voor de stormwatertanks, een kap- en beplantingsplan dat nadien door het gemeentecollege moet worden goedgekeurd, en de optie om een deel van de ondergrondse garages gesloten te houden zonder vastgelegde diepte. Een verschuiving van het gebouw met 70 cm werd als nauwkeurig en bijkomstig aanvaard. De beslissing van 9 juli 2024 is vernietigd bij arrest van 24 februari 2026, dat geen overgangsregeling bevat."
+   ],
+   "fr": [
+    "Conseil d'État : un refus de permis ne se retire que pour illégalité exposée ; conditions imprécises illégales",
+    "Le Conseil d'État a annulé un arrêté ministériel wallon qui retirait un refus de permis d'urbanisme et délivrait le permis. Le retrait n'exposait aucune illégalité et plusieurs conditions du permis violaient l'article D.IV.53 du CoDT.",
+    "L'arrêt concerne les autorités statuant sur les recours en matière de permis d'urbanisme en Wallonie, les demandeurs de permis et les riverains opposés à un projet. Un refus crée des droits pour les riverains opposants ; il ne peut donc être retiré que s'il est entaché d'une illégalité telle qu'il aurait été annulé, et uniquement pendant le délai de recours. L'autorité qui retire doit exposer cette illégalité dans la motivation formelle, conformément à la loi du 29 juillet 1991, en identifiant les règles violées et la manière dont elles l'ont été. Une nouvelle appréciation d'opportunité, ici à la suite d'une recommandation du médiateur, ne suffit pas, et le décret de 2023 relatif au service de médiation commun ne déroge pas à ces règles. Quant aux conditions, l'article D.IV.53 du CoDT exige qu'elles soient nécessaires à l'intégration ou à la faisabilité du projet, précises, limitées et accessoires. Elles ne peuvent laisser de marge d'appréciation, imposer des plans après la délivrance ni dépendre d'un tiers ou d'une autre autorité. Ont été jugés illégaux le choix entre deux emplacements pour les citernes d'orage, un plan d'abattage/plantation à faire approuver ensuite par le collège communal, et la faculté de maintenir fermée une partie des garages souterrains sans profondeur fixée. Le décalage du bâtiment de 70 cm a été admis comme précis et accessoire. L'arrêté du 9 juillet 2024 est annulé par l'arrêt du 24 février 2026, qui ne prévoit aucune mesure transitoire."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.826 du 24 février 2026 : retrait d'un refus de permis d'urbanisme (lois du 29 juillet 1991, art. 2-3) et conditions de permis (art. D.IV.53 CoDT)",
+   "dates": {
+    "adopted": "2026-02-24"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265826. 1. Par une requête introduite le 21 septembre 2024, les parties requérantes demandent, d’une part, l’annu",
+     "https://www.raadvst-consetat.be/arresten/265826"
+    ]
+   ],
+   "inbox": [
+    "rvs:265826"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265825",
+   "d": "2026-02-24",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: window openings over a quarter of a facade need the delegated official's opinion",
+   "a": "The Council of State annulled a Walloon urban planning permit because new openings in a facade were assessed under the wrong CoDT rubric. Changes to openings fall only under rubrics A7 to A9 of Article R.IV.1-1, not under rubric B8, and the prior opinion of the delegated official was therefore required.",
+   "b": "The ruling concerns communal colleges in Wallonia that decide on urban planning permits, and applicants whose projects create or change window openings in an elevation. The Council of State held that such changes are covered exclusively by rubrics A7 to A9 of Article R.IV.1-1 CoDT (modification of the building envelope). They are not covered by rubric B8 (transformation of an existing construction), so B8 cannot be used to class them as limited-impact works. Under rubrics A8 and A9, openings that together exceed a quarter of the length of the elevation are neither exempt from a permit nor limited-impact works. Here the new opening was 4.592 m wide in a facade 10.49 m wide. As the case fell outside the situations of Article D.IV.15, the college had to request the delegated official's prior opinion under Article D.IV.16. The permit of 29 March 2024 for transforming a house and building a carport at Mellery was annulled on this ground alone, and the second ground was not examined. The ruling is dated 24 February 2026 and applies the versions of the CoDT provisions applicable at the time of the permit.",
+   "nl": [
+    "Raad van State: gevelopeningen van meer dan een kwart van de gevel vereisen het advies van de gemachtigde ambtenaar",
+    "De Raad van State vernietigde een Waalse stedenbouwkundige vergunning omdat nieuwe gevelopeningen onder de verkeerde rubriek van het CoDT waren beoordeeld. Wijzigingen van openingen vallen enkel onder de rubrieken A7 tot A9 van artikel R.IV.1-1, niet onder rubriek B8, zodat het voorafgaand advies van de gemachtigde ambtenaar vereist was.",
+    "Het arrest betreft Waalse gemeentecolleges die over stedenbouwkundige vergunningen beslissen, en aanvragers wier project openingen in een gevel creëert of wijzigt. De Raad van State oordeelde dat dergelijke wijzigingen uitsluitend onder de rubrieken A7 tot A9 van artikel R.IV.1-1 CoDT vallen (wijziging van de gebouwschil). Ze vallen niet onder rubriek B8 (verbouwing van een bestaande constructie), zodat B8 niet kan dienen om ze als werken met beperkte impact te kwalificeren. Volgens de rubrieken A8 en A9 zijn openingen die samen meer dan een kwart van de lengte van de gevel beslaan, noch vrijgesteld van vergunning, noch werken met beperkte impact. Hier was de nieuwe opening 4,592 m breed in een gevel van 10,49 m. Aangezien de zaak buiten de gevallen van artikel D.IV.15 viel, moest het college op grond van artikel D.IV.16 het voorafgaand advies van de gemachtigde ambtenaar vragen. De vergunning van 29 maart 2024 voor de verbouwing van een woning en de bouw van een carport te Mellery werd om die reden alleen vernietigd; het tweede middel werd niet onderzocht. Het arrest dateert van 24 februari 2026 en past de op dat ogenblik toepasselijke versies van de CoDT-bepalingen toe."
+   ],
+   "fr": [
+    "Conseil d'État : des baies dépassant un quart de l'élévation requièrent l'avis du fonctionnaire délégué",
+    "Le Conseil d'État a annulé un permis d'urbanisme wallon car de nouvelles baies en façade avaient été examinées sous la mauvaise rubrique du CoDT. Les modifications de baies relèvent uniquement des rubriques A7 à A9 de l'article R.IV.1-1, et non de la rubrique B8, de sorte que l'avis préalable du fonctionnaire délégué était requis.",
+    "L'arrêt concerne les collèges communaux wallons qui statuent sur des permis d'urbanisme, ainsi que les demandeurs dont le projet crée ou modifie des baies dans une élévation. Le Conseil d'État juge que ces modifications relèvent exclusivement des rubriques A7 à A9 de l'article R.IV.1-1 du CoDT (modification de l'enveloppe d'un bâtiment). Elles ne relèvent pas de la rubrique B8 (transformation d'une construction existante), si bien que B8 ne peut servir à les qualifier d'actes et travaux d'impact limité. Selon les rubriques A8 et A9, les baies qui totalisent plus d'un quart de la longueur de l'élévation ne sont ni exonérées de permis ni d'impact limité. En l'espèce, la nouvelle baie mesurait 4,592 m dans une façade de 10,49 m. La situation ne relevant pas des cas de l'article D.IV.15, le collège devait solliciter l'avis préalable du fonctionnaire délégué en application de l'article D.IV.16. Le permis du 29 mars 2024, relatif à la transformation d'une habitation et à la construction d'un carport à Mellery, est annulé sur ce seul moyen, le second n'étant pas examiné. L'arrêt date du 24 février 2026 et applique les versions des dispositions du CoDT applicables à l'époque."
+   ],
+   "scope": "Arrêt n° 265.825 du Conseil d'État (XIIIe chambre) – CoDT, art. D.IV.4, D.IV.15, D.IV.16, D.IV.38 et R.IV.1-1 (rubriques A7 à A9 et B8)",
+   "dates": {
+    "adopted": "2026-02-24"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265825. 1. Par une requête introduite le 18 juillet 2024, la partie requérante demande l’annulation de la décisio",
+     "https://www.raadvst-consetat.be/arresten/265825"
+    ]
+   ],
+   "inbox": [
+    "rvs:265825"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026l0470",
+   "d": "2026-02-24",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Directive 2026/470 limits sustainability reporting to undertakings above 1,000 employees and EUR 450m turnover",
+   "a": "Directive (EU) 2026/470 amends the Accounting and Audit Directives so that sustainability reporting under Articles 19a and 29a applies only above 1,000 average employees and EUR 450 million net turnover. It also shields smaller value-chain undertakings from information requests beyond a new voluntary standard, and adjusts assurance and exemptions.",
+   "b": "The amendments affect undertakings and parent undertakings of groups reporting under Directive 2013/34/EU, undertakings in their value chains, and auditors and audit firms. The reporting duties in Articles 19a and 29a now apply only to undertakings (or groups on a consolidated basis) exceeding both 1,000 average employees and EUR 450 million net turnover. For third-country groups, the subsidiary and branch rules require more than EUR 200 million net turnover for the subsidiary or branch, and more than EUR 450 million EU turnover for the group in each of the last two financial years. Value-chain undertakings with up to 1,000 employees may decline to provide information beyond the new voluntary standards, contract clauses requiring more are not binding, and reporting undertakings that stay within those standards are deemed compliant on value-chain information. The three-year transition for missing value-chain data is kept. Article 29c is deleted and replaced by Article 29ca; the Commission must adopt the voluntary standards by delegated act by 19 July 2026, based on Recommendation (EU) 2025/1710. The directive also provides for limited assurance only in the auditor's opinion, with Commission limited assurance standards due by 1 July 2027. It adds a transitional registration regime for third-country auditors for financial years starting from 1 January 2025 to 31 December 2030, new grounds for omitting sensitive information, relief for acquisitions, mergers and financial holding undertakings, a digital reporting portal, and a Commission report on technological solutions by 19 March 2028.",
+   "nl": [
+    "Richtlijn 2026/470 beperkt duurzaamheidsrapportering tot ondernemingen met meer dan 1.000 werknemers en 450 miljoen euro omzet",
+    "Richtlijn (EU) 2026/470 wijzigt de Boekhoudrichtlijn en de Auditrichtlijn: duurzaamheidsrapportering volgens de artikelen 19 bis en 29 bis geldt enkel nog boven 1.000 gemiddelde werknemers én 450 miljoen euro netto-omzet. Kleinere ondernemingen in de waardeketen worden beschermd tegen informatieverzoeken die verder gaan dan een nieuwe vrijwillige standaard; ook de assurance en de vrijstellingen worden aangepast.",
+    "De wijzigingen treffen ondernemingen en moederondernemingen van groepen die rapporteren onder Richtlijn 2013/34/EU, ondernemingen in hun waardeketen en de auditors en auditkantoren. De rapporteringsplichten van de artikelen 19 bis en 29 bis gelden enkel nog voor ondernemingen (of groepen op geconsolideerde basis) die zowel 1.000 gemiddelde werknemers als 450 miljoen euro netto-omzet overschrijden. Voor groepen uit derde landen vereisen de regels voor dochterondernemingen en bijkantoren een netto-omzet van meer dan 200 miljoen euro voor de dochteronderneming of het bijkantoor, en van meer dan 450 miljoen euro in de Unie voor de groep in elk van de laatste twee boekjaren. Ondernemingen in de waardeketen met hoogstens 1.000 werknemers mogen weigeren informatie te verstrekken die verder gaat dan de nieuwe vrijwillige standaarden; strijdige contractbedingen zijn niet bindend, en rapporterende ondernemingen die binnen die standaarden blijven, worden geacht te voldoen aan de verplichting inzake waardeketeninformatie. De overgangsperiode van drie jaar voor ontbrekende waardeketengegevens blijft behouden. Artikel 29c wordt opgeheven en vervangen door artikel 29 ter bis (29ca); de Commissie moet de vrijwillige standaarden uiterlijk 19 juli 2026 bij gedelegeerde handeling vaststellen, op basis van Aanbeveling (EU) 2025/1710. De richtlijn voorziet bovendien enkel nog in assurance met beperkte zekerheid in het oordeel van de auditor, met standaarden van de Commissie uiterlijk 1 juli 2027, en in een tijdelijk registratiesysteem voor auditors uit derde landen voor boekjaren die beginnen van 1 januari 2025 tot 31 december 2030. Verder komen er nieuwe gronden om gevoelige informatie weg te laten, versoepelingen bij overnames, fusies en financiële holdings, een digitaal portaal en een verslag van de Commissie over technologische oplossingen uiterlijk 19 maart 2028."
+   ],
+   "fr": [
+    "La directive 2026/470 limite le rapport de durabilité aux entreprises de plus de 1 000 salariés et 450 millions d'euros de chiffre d'affaires",
+    "La directive (UE) 2026/470 modifie la directive comptable et la directive sur le contrôle légal: le rapport de durabilité des articles 19 bis et 29 bis ne s'applique plus qu'au-delà de 1 000 salariés en moyenne et de 450 millions d'euros de chiffre d'affaires net. Les petites entreprises de la chaîne de valeur sont protégées contre les demandes d'informations dépassant une nouvelle norme volontaire; l'assurance et les exemptions sont aussi adaptées.",
+    "Les modifications concernent les entreprises et les entreprises mères de groupes soumises à la directive 2013/34/UE, les entreprises de leur chaîne de valeur, ainsi que les contrôleurs légaux et cabinets d'audit. Les obligations des articles 19 bis et 29 bis ne s'appliquent plus qu'aux entreprises (ou groupes sur base consolidée) dépassant à la fois 1 000 salariés en moyenne et 450 millions d'euros de chiffre d'affaires net. Pour les groupes de pays tiers, les règles relatives aux filiales et aux succursales exigent plus de 200 millions d'euros de chiffre d'affaires net pour la filiale ou la succursale, et plus de 450 millions d'euros dans l'Union pour le groupe lors de chacun des deux derniers exercices consécutifs. Les entreprises de la chaîne de valeur comptant au plus 1 000 salariés peuvent refuser de fournir des informations dépassant les normes volontaires; les clauses contractuelles contraires ne sont pas contraignantes, et les entreprises déclarantes qui s'en tiennent à ces normes sont réputées respecter l'obligation relative aux informations sur la chaîne de valeur. La période transitoire de trois ans pour les données manquantes sur la chaîne de valeur est maintenue. L'article 29 quater est supprimé et remplacé par l'article 29 ter bis (29ca); la Commission doit adopter les normes volontaires par acte délégué au plus tard le 19 juillet 2026, sur la base de la recommandation (UE) 2025/1710. La directive ne prévoit plus que l'assurance limitée dans l'opinion du contrôleur, avec des normes de la Commission au plus tard le 1er juillet 2027, ainsi qu'un régime transitoire d'enregistrement des contrôleurs de pays tiers pour les exercices commençant entre le 1er janvier 2025 et le 31 décembre 2030. Elle ajoute de nouveaux motifs d'omission d'informations sensibles, des allègements pour les acquisitions, fusions et sociétés financières holding, un portail numérique et un rapport de la Commission sur les solutions technologiques au plus tard le 19 mars 2028."
+   ],
+   "scope": "Directive (EU) 2026/470 – amendments to Directives 2006/43/EC and 2013/34/EU (Articles 1 and 2), in particular Articles 19a, 29a, 29b, 29ca and 34 of Directive 2013/34/EU",
+   "dates": {
+    "adopted": "2026-02-24",
+    "published": "2026-02-26"
+   },
+   "u": [
+    [
+     "Directive (EU) 2026/470 of the European Parliament and of the Council of 24 February 2026 amending Directives 2006/43/EC, 2013/34/EU, (EU) 2",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0470"
+    ]
+   ],
+   "inbox": [
+    "eu:32026L0470"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d0406",
+   "d": "2026-02-24",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Commission recognises UK typical GHG values for winter wheat, oilseed rape and sugar beet cultivation (RED II)",
+   "a": "The Commission recognises the UK report as accurate for the typical greenhouse gas emissions from cultivating winter wheat, oilseed rape and sugar beet in UK NUTS 2 regions. These values may be used under Directive (EU) 2018/2001 in place of default cultivation values, subject to its conditions.",
+   "b": "The decision concerns operators who calculate the greenhouse gas savings of biofuels, bioliquids and biomass fuels under Directive (EU) 2018/2001, and the authorities that check those calculations. It covers winter wheat, oilseed rape and sugar beet grown in the UK. The Commission recognises that the report submitted by the UK on 29 July 2025 contains accurate data on typical cultivation emissions per NUTS 2 (ITL2) region. The Annex gives values in kg CO2e per tonne of dry feedstock, broken down by soil N2O, fertiliser, fuel use, seed and other components. Totals range from 244.31 to 372.82 for winter wheat and from 495.28 to 684.57 for oilseed rape. For sugar beet, values are given only for some regions (Yorkshire & Humber, East Midlands, Herefordshire/Worcestershire/Warwickshire and East of England, 81.63 to 92.88), and the other regions are marked NA. The UK must notify the Commission immediately of any change to the report's data that might affect its accuracy, and the Commission then assesses whether the report is still accurate. The decision enters into force on the twentieth day after publication in the Official Journal (published 25 February 2026) and ceases to apply on 17 March 2031.",
+   "nl": [
+    "Commissie erkent typische Britse broeikasgaswaarden voor teelt van wintertarwe, koolzaad en suikerbiet (RED II)",
+    "De Commissie erkent het Britse verslag als nauwkeurig voor de typische broeikasgasemissies van de teelt van wintertarwe, koolzaad en suikerbiet in Britse NUTS 2-regio's. Die waarden kunnen onder Richtlijn (EU) 2018/2001 onder de voorwaarden van die richtlijn in de plaats van standaardwaarden voor teelt worden gebruikt.",
+    "Het besluit betreft marktdeelnemers die onder Richtlijn (EU) 2018/2001 de broeikasgasbesparing van biobrandstoffen, vloeibare biomassabrandstoffen en biomassabrandstoffen berekenen, en de overheden die die berekeningen controleren. Het geldt voor wintertarwe, koolzaad en suikerbiet die in het Verenigd Koninkrijk worden geteeld. De Commissie erkent dat het verslag dat het Verenigd Koninkrijk op 29 juli 2025 indiende nauwkeurige gegevens bevat over de typische teeltemissies per NUTS 2-regio (ITL2). De bijlage geeft waarden in kg CO2e per ton droge grondstof, opgesplitst naar bodem-N2O, meststoffen, brandstofgebruik, zaaizaad en andere componenten. De totalen lopen van 244,31 tot 372,82 voor wintertarwe en van 495,28 tot 684,57 voor koolzaad. Voor suikerbiet worden alleen waarden gegeven voor enkele regio's (Yorkshire & Humber, East Midlands, Herefordshire/Worcestershire/Warwickshire en East of England, 81,63 tot 92,88); de overige regio's zijn aangeduid met NA. Het Verenigd Koninkrijk moet de Commissie onmiddellijk op de hoogte brengen van elke wijziging in de gegevens van het verslag die de nauwkeurigheid ervan kan beïnvloeden; de Commissie beoordeelt dan of het verslag nog steeds nauwkeurig is. Het besluit treedt in werking op de twintigste dag na bekendmaking in het Publicatieblad (gepubliceerd op 25 februari 2026) en houdt op van toepassing te zijn op 17 maart 2031."
+   ],
+   "fr": [
+    "La Commission reconnaît les valeurs types britanniques d'émissions de GES pour la culture du blé d'hiver, du colza et de la betterave sucrière (RED II)",
+    "La Commission reconnaît que le rapport britannique contient des données précises sur les émissions types de gaz à effet de serre liées à la culture du blé d'hiver, du colza et de la betterave sucrière dans les régions NUTS 2 du Royaume-Uni. Ces valeurs peuvent être utilisées, aux conditions de la directive (UE) 2018/2001, à la place des valeurs par défaut pour la culture.",
+    "La décision concerne les opérateurs qui calculent les réductions d'émissions de gaz à effet de serre des biocarburants, bioliquides et combustibles issus de la biomasse au titre de la directive (UE) 2018/2001, ainsi que les autorités qui contrôlent ces calculs. Elle porte sur le blé d'hiver, le colza et la betterave sucrière cultivés au Royaume-Uni. La Commission reconnaît que le rapport soumis par le Royaume-Uni le 29 juillet 2025 contient des données précises sur les émissions types de culture par région NUTS 2 (ITL2). L'annexe donne des valeurs en kg CO2e par tonne de matière première sèche, ventilées entre N2O du sol, engrais, consommation de carburant, semences et autres composantes. Les totaux vont de 244,31 à 372,82 pour le blé d'hiver et de 495,28 à 684,57 pour le colza. Pour la betterave sucrière, des valeurs ne sont données que pour certaines régions (Yorkshire & Humber, East Midlands, Herefordshire/Worcestershire/Warwickshire et East of England, de 81,63 à 92,88); les autres régions sont marquées NA. Le Royaume-Uni doit notifier immédiatement à la Commission toute modification des données du rapport susceptible d'en affecter l'exactitude, et la Commission évalue alors si le rapport reste précis. La décision entre en vigueur le vingtième jour suivant sa publication au Journal officiel (publiée le 25 février 2026) et cesse de s'appliquer le 17 mars 2031."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/406, Articles 1-3 and Annex (Directive (EU) 2018/2001, Article 31(3)-(4))",
+   "dates": {
+    "adopted": "2026-02-24",
+    "published": "2026-02-25",
+    "in_force": "2026-03-17"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/406 of 24 February 2026 recognising that the report submitted by the United Kingdom under Article",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0406"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D0406"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d0401",
+   "d": "2026-02-24",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "Commission replaces nine Natura 2000 SCI list decisions with one consolidated list of sites of Community importance",
+   "a": "Implementing Decision (EU) 2026/401 sets one list of sites of Community importance under the Habitats Directive, arranged by biogeographical region. It repeals nine earlier regional update decisions, including those for the Atlantic and Continental regions.",
+   "b": "The decision is addressed to the Member States and concerns the Natura 2000 network under Directive 92/43/EEC. Belgium is concerned because parts of its territory lie in the Atlantic biogeographical region. Article 1 adopts the list of sites of Community importance set out in the Annex. For each site the Annex gives the code, name, a marker for priority habitat types or species, the area in hectares or length in km, and the coordinates, as transmitted by the national authorities. Article 2 repeals Implementing Decisions (EU) 2024/428 and (EU) 2025/238, 2025/239, 2025/240, 2025/242, 2025/244, 2025/251, 2025/256 and 2025/257. These were the separate updates for the Black Sea, Boreal, Pannonian, Steppic, Macaronesian, Atlantic, Alpine, Continental and Mediterranean regions. The decision was adopted on 24 February 2026 and published in the Official Journal on 6 March 2026. The operative articles state no separate date of entry into force.",
+   "nl": [
+    "Commissie vervangt negen besluiten over de lijsten van gebieden van communautair belang door één samengevoegde lijst",
+    "Uitvoeringsbesluit (EU) 2026/401 stelt één lijst van gebieden van communautair belang vast onder de Habitatrichtlijn, ingedeeld per biogeografische regio. Het trekt negen eerdere regionale updatebesluiten in, waaronder die voor de Atlantische en de Continentale regio.",
+    "Het besluit is gericht tot de lidstaten en betreft het Natura 2000-netwerk krachtens Richtlijn 92/43/EEG. België is betrokken omdat delen van het grondgebied in de Atlantische biogeografische regio liggen. Artikel 1 stelt de in de bijlage opgenomen lijst van gebieden van communautair belang vast. Voor elk gebied vermeldt de bijlage de code, de naam, een aanduiding voor prioritaire habitattypen of soorten, de oppervlakte in hectare of de lengte in km en de coördinaten, zoals meegedeeld door de nationale autoriteiten. Artikel 2 trekt de Uitvoeringsbesluiten (EU) 2024/428 en (EU) 2025/238, 2025/239, 2025/240, 2025/242, 2025/244, 2025/251, 2025/256 en 2025/257 in. Dat waren de afzonderlijke updates voor de Zwarte Zee-, boreale, Pannonische, steppe-, Macaronesische, Atlantische, Alpiene, Continentale en mediterrane regio. Het besluit is aangenomen op 24 februari 2026 en op 6 maart 2026 bekendgemaakt in het Publicatieblad. De dispositieve artikelen vermelden geen afzonderlijke datum van inwerkingtreding."
+   ],
+   "fr": [
+    "La Commission remplace neuf décisions sur les listes de sites d'importance communautaire par une liste consolidée unique",
+    "La décision d'exécution (UE) 2026/401 établit une liste unique des sites d'importance communautaire au titre de la directive Habitats, par région biogéographique. Elle abroge neuf décisions régionales de mise à jour antérieures, dont celles des régions atlantique et continentale.",
+    "La décision est adressée aux États membres et concerne le réseau Natura 2000 au titre de la directive 92/43/CEE. La Belgique est concernée, car une partie de son territoire se situe dans la région biogéographique atlantique. L'article 1er arrête la liste des sites d'importance communautaire figurant à l'annexe. Pour chaque site, l'annexe indique le code, le nom, un marqueur pour les types d'habitats ou espèces prioritaires, la superficie en hectares ou la longueur en km et les coordonnées, tels que transmis par les autorités nationales. L'article 2 abroge les décisions d'exécution (UE) 2024/428 et (UE) 2025/238, 2025/239, 2025/240, 2025/242, 2025/244, 2025/251, 2025/256 et 2025/257. Il s'agissait des mises à jour distinctes pour les régions mer Noire, boréale, pannonique, steppique, macaronésienne, atlantique, alpine, continentale et méditerranéenne. La décision a été adoptée le 24 février 2026 et publiée au Journal officiel le 6 mars 2026. Les articles du dispositif ne fixent pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Commission Implementing Decision (EU) 2026/401 of 24 February 2026 – Articles 1 and 2 and Annex (list of sites of Community importance, Directive 92/43/EEC)",
+   "dates": {
+    "adopted": "2026-02-24",
+    "published": "2026-03-06"
+   },
+   "u": [
+    [
+     "Commission Implementing Decision (EU) 2026/401 of 24 February 2026 laying down rules for the application of Council Directive 92/43/EEC as r",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0401"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D0401"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265793",
+   "d": "2026-02-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "soil"
+   ],
+   "h": "Council of State: permit files filed before 1 April 2024 stay under the pre-1998 conformity presumption",
+   "a": "The Council of State annuls a Fosses-la-Ville planning permit for a house and the regularisation of old embankments. It holds that applications filed before 1 April 2024 are assessed under the former CoDT, so the new 20-year irrebuttable presumption of conformity does not apply. It also finds the permit insufficiently reasoned on integration with the neighbouring property.",
+   "b": "The ruling concerns Walloon planning permit applications that include regularising works carried out without a permit, and the authorities deciding on them. Article D.VII.1/1 CoDT, as amended by the decree of 13 December 2023, irrebuttably presumes such works conform to planning law 20 years after completion, and entered into force on 1 April 2024. Under article 247 of that decree and article D.IV.110 CoDT, an application whose receipt predates that date \"continues its examination\" under the provisions then in force. The Council of State reads this restrictively but without distinguishing procedural from substantive rules. For an application filed on 27 December 2023, the authority therefore had to apply former article D.VII.1bis, under which only works carried out before 1 March 1998 are irrebuttably presumed conform, subject to listed exceptions. The neighbours' own submissions showed that part of the embankments was more recent (photographs from 2002), and nobody established that all of them predated 1998. The permit of 2 May 2024 is annulled because its reasoning merely described the application and did not assess how the embankments fit in with the neighbouring property, in particular the height difference raised in the objection. The ruling is dated 23 February 2026, and the municipality bears the costs, including a procedural indemnity of 770 euros.",
+   "nl": [
+    "Raad van State: vóór 1 april 2024 ingediende vergunningsaanvragen blijven onder het vermoeden van vóór 1998",
+    "De Raad van State vernietigt een stedenbouwkundige vergunning van Fosses-la-Ville voor een woning en de regularisatie van oude ophogingen. Aanvragen die vóór 1 april 2024 zijn ingediend, worden getoetst aan het oude CoDT, zodat het nieuwe onweerlegbare vermoeden van overeenstemming na 20 jaar niet van toepassing is. De vergunning was bovendien onvoldoende gemotiveerd over de inpassing ten opzichte van het naburige perceel.",
+    "Het arrest betreft Waalse aanvragen voor een stedenbouwkundige vergunning die ook de regularisatie omvatten van werken zonder vergunning, en de overheden die erover beslissen. Artikel D.VII.1/1 CoDT, zoals gewijzigd bij het decreet van 13 december 2023, vermoedt onweerlegbaar dat dergelijke werken 20 jaar na hun voltooiing in overeenstemming zijn met het recht van ruimtelijke ordening en stedenbouw. Het trad in werking op 1 april 2024. Krachtens artikel 247 van dat decreet en artikel D.IV.110 CoDT wordt een aanvraag waarvan de ontvangst daaraan voorafgaat, verder behandeld volgens de op dat ogenblik geldende bepalingen. De Raad van State past dit restrictief toe, maar maakt geen onderscheid tussen procedureregels en inhoudelijke regels. Voor een aanvraag van 27 december 2023 moest de overheid dus het vroegere artikel D.VII.1bis toepassen. Daarin worden alleen werken uitgevoerd vóór 1 maart 1998 onweerlegbaar vermoed conform te zijn, met opgesomde uitzonderingen. Uit de eigen opmerkingen van de buren bleek dat een deel van de ophogingen recenter is (foto's uit 2002), en niemand bewees dat alles van vóór 1998 dateert. De vergunning van 2 mei 2024 wordt vernietigd omdat de motivering enkel de aanvraag beschrijft en niet onderzoekt hoe de ophogingen zich verhouden tot het naburige perceel, met name het hoogteverschil dat in het bezwaar was aangehaald. Het arrest is gewezen op 23 februari 2026; de gemeente draagt de kosten, met inbegrip van een rechtsplegingsvergoeding van 770 euro."
+   ],
+   "fr": [
+    "Conseil d'État : les demandes de permis déposées avant le 1er avril 2024 restent soumises à la présomption d'avant 1998",
+    "Le Conseil d'État annule un permis d'urbanisme délivré à Fosses-la-Ville pour une habitation et la régularisation d'anciens remblais. Les demandes déposées avant le 1er avril 2024 sont examinées selon l'ancien CoDT, de sorte que la nouvelle présomption irréfragable de conformité après 20 ans ne s'applique pas. Le permis était en outre insuffisamment motivé quant à l'intégration par rapport à la propriété voisine.",
+    "L'arrêt concerne les demandes de permis d'urbanisme wallonnes qui visent aussi la régularisation de travaux réalisés sans permis, et les autorités qui statuent sur celles-ci. L'article D.VII.1/1 du CoDT, modifié par le décret du 13 décembre 2023, présume irréfragablement conformes au droit de l'aménagement du territoire et de l'urbanisme de tels travaux 20 ans après leur achèvement. Il est entré en vigueur le 1er avril 2024. En vertu de l'article 247 de ce décret et de l'article D.IV.110 du CoDT, une demande dont l'accusé de réception est antérieur à cette date poursuit son instruction selon les dispositions alors en vigueur. Le Conseil d'État interprète cette règle restrictivement, mais sans distinguer les règles de procédure des règles de fond. Pour une demande déposée le 27 décembre 2023, l'autorité devait donc appliquer l'ancien article D.VII.1bis. Celui-ci ne présume irréfragablement conformes que les actes et travaux réalisés avant le 1er mars 1998, sous réserve d'exceptions énumérées. Les écrits des voisins montraient qu'une partie des remblais est plus récente (photographies de 2002), et il n'est pas établi que tous soient antérieurs à 1998. Le permis du 2 mai 2024 est annulé parce que sa motivation se borne à décrire la demande et n'apprécie pas l'intégration des remblais par rapport à la propriété voisine, notamment la différence de hauteur soulevée dans la réclamation. L'arrêt est daté du 23 février 2026 ; la commune supporte les dépens, dont une indemnité de procédure de 770 euros."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.793 du 23 février 2026 : art. D.VII.1/1, D.VII.1bis et D.IV.110 du CoDT ; art. 247 du décret du 13 décembre 2023",
+   "dates": {
+    "adopted": "2026-02-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265793. 1. Par une requête introduite le 12 août 2024, les parties requérantes demandent l’annulation de la décis",
+     "https://www.raadvst-consetat.be/arresten/265793"
+    ]
+   ],
+   "inbox": [
+    "rvs:265793"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvs-265789",
+   "d": "2026-02-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: urbanisation permit void if the municipal road decision it relies on was later annulled",
+   "a": "The Council of State annulled a 2024 ministerial urbanisation permit for 25 to 31 houses in Ottignies-Louvain-la-Neuve. A permit involving a municipal road can only be issued after a definitive road decision, and the annulment of that decision acts retroactively.",
+   "b": "The ruling concerns urbanisation or planning permit applications that involve creating, modifying or abolishing a municipal road, here under the CWATUP as in force in April 2017. It holds that, under article 129 quater CWATUP and article 7 of the decree of 6 February 2014 on municipal roads, such a permit may only be issued after a definitive decision on the road. The municipal council's decision of 16 June 2020 on the road had been annulled by judgment no. 263.908 of 8 July 2025. Because annulment is retroactive, no definitive road decision existed when the minister granted the permit on 14 June 2024, so the permit was adopted in breach of those provisions. The Council treated the point as a matter of public policy that it could raise of its own motion. It also confirmed that a municipality has standing against permits affecting its territory, and may change its view on good planning without losing that standing, absent a manifest error. The permit of 14 June 2024 was annulled by judgment of 23 February 2026, and costs were awarded against the Walloon Region and the permit holder.",
+   "nl": [
+    "Raad van State: stedenbouwkundige vergunning nietig als de gemeentelijke wegenisbeslissing later is vernietigd",
+    "De Raad van State vernietigde een ministeriële verkavelingsvergunning uit 2024 voor 25 tot 31 eengezinswoningen in Ottignies-Louvain-la-Neuve. Een vergunning die een gemeentelijke weg betreft, kan pas worden afgegeven na een definitieve beslissing over de weg, en de vernietiging van die beslissing werkt terug.",
+    "Het arrest betreft aanvragen voor een verkavelings- of stedenbouwkundige vergunning waarbij een gemeentelijke weg wordt aangelegd, gewijzigd of afgeschaft, hier onder het CWATUP zoals van kracht in april 2017. Het oordeelt dat zo'n vergunning, krachtens artikel 129quater CWATUP en artikel 7 van het decreet van 6 februari 2014 over de gemeentelijke wegen, pas kan worden afgegeven na een definitieve beslissing over de weg. De beslissing van de gemeenteraad van 16 juni 2020 over de weg was vernietigd bij arrest nr. 263.908 van 8 juli 2025. Omdat de vernietiging terugwerkt, bestond er op 14 juni 2024, toen de minister de vergunning verleende, geen definitieve wegenisbeslissing; de vergunning werd dus in strijd met die bepalingen verleend. De Raad beschouwde dit als een middel van openbare orde dat hij ambtshalve kon opwerpen. Hij bevestigde ook dat een gemeente belang heeft bij het beroep tegen vergunningen die haar grondgebied raken en haar visie op een goede ruimtelijke ordening mag wijzigen, behoudens kennelijke vergissing. De vergunning van 14 juni 2024 werd vernietigd bij arrest van 23 februari 2026, en de kosten werden aan het Waalse Gewest en de vergunninghouder opgelegd."
+   ],
+   "fr": [
+    "Conseil d'État : permis d'urbanisation annulé car la décision sur la voirie communale a été annulée ensuite",
+    "Le Conseil d'État annule un permis d'urbanisation délivré en 2024 par le ministre pour 25 à 31 maisons unifamiliales à Ottignies-Louvain-la-Neuve. Un permis impliquant une voirie communale ne peut être délivré qu'après une décision définitive sur la voirie, et l'annulation de cette décision rétroagit.",
+    "L'arrêt concerne les demandes de permis d'urbanisme ou d'urbanisation impliquant la création, la modification ou la suppression d'une voirie communale, ici sous le CWATUP tel qu'en vigueur en avril 2017. Il juge qu'en vertu de l'article 129 quater du CWATUP et de l'article 7 du décret du 6 février 2014 relatif à la voirie communale, un tel permis ne peut être délivré qu'après une décision définitive sur la voirie. La décision du conseil communal du 16 juin 2020 sur la voirie avait été annulée par l'arrêt n° 263.908 du 8 juillet 2025. L'annulation rétroagissant, aucune décision définitive sur la voirie n'existait au 14 juin 2024, date du permis délivré par le ministre, qui a donc été adopté en méconnaissance de ces dispositions. Le Conseil a considéré ce moyen comme d'ordre public et soulevé d'office. Il confirme aussi qu'une commune a intérêt à agir contre les permis affectant son territoire et peut faire évoluer sa conception du bon aménagement, sauf erreur manifeste. Le permis du 14 juin 2024 est annulé par l'arrêt du 23 février 2026, et les dépens sont mis à charge de la Région wallonne et du titulaire du permis."
+   ],
+   "scope": "Conseil d'État, arrêt n° 265.789 du 23 février 2026 : art. 129 quater CWATUP, art. 7 du décret du 6 février 2014 relatif à la voirie communale, art. D.IV.110 CoDT",
+   "dates": {
+    "adopted": "2026-02-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 265789. 1. Par une requête introduite le 16 août 2024, la partie requérante demande l’annulation de l’arrêté du 1",
+     "https://www.raadvst-consetat.be/arresten/265789"
+    ]
+   ],
+   "inbox": [
+    "rvs:265789"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r0394",
+   "d": "2026-02-23",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "FuelEU database: access rights and technical specifications set for maritime fuel regulation (EU) 2026/394",
+   "a": "Implementing Regulation (EU) 2026/394 sets who can access and manage data in the FuelEU database, built on EMSA's THETIS-MRV, and what the database must do. It covers reporting, compliance balance, pooling, penalties, the document of compliance and security.",
+   "b": "The regulation concerns shipping companies, verifiers, Member State authorities (administering, flag and port State), national accreditation bodies, the Commission and EMSA under Regulation (EU) 2023/1805 (FuelEU Maritime). It defines user types with read-only access and management rights matching their roles: companies see and manage data on their own ships, verifiers handle monitoring plans, reports, compliance balance and the document of compliance, and the Commission only gets aggregated data for evaluation. The database must allow port authorities to record OPS exceptions and OPS non-compliance, and must offer a compliance balance calculator, an electronic template for ship-specific compliance balance, and functions for banking, borrowing and pooling between companies and verifiers. It also enables the administering State to record and notify FuelEU penalties, and payment proof to be registered. The database supports issuing the FuelEU document of compliance and notifies companies when a verified compliance balance is recorded. Security rules require unique user IDs, access control with periodic review, recognised authentication for system-to-system interfaces and logging of user actions. EMSA may update the system, with prior notice to users and data exchange formats published at least one month before implementation. The regulation enters into force on the day after its publication in the Official Journal (published 24 February 2026).",
+   "nl": [
+    "FuelEU-databank: toegangsrechten en technische specificaties vastgelegd door Verordening (EU) 2026/394",
+    "Uitvoeringsverordening (EU) 2026/394 bepaalt wie toegang heeft tot de gegevens in de FuelEU-databank en ze mag beheren; de databank steunt op THETIS-MRV van het EMSA. Ze regelt ook de functies voor rapportering, nalevingssaldo, pooling, boetes, het conformiteitsdocument en beveiliging.",
+    "De verordening betreft scheepvaartmaatschappijen, verificateurs, autoriteiten van de lidstaten (bestuurlijke staat, vlaggenstaat en havenstaat), nationale accreditatie-instanties, de Commissie en het EMSA in het kader van Verordening (EU) 2023/1805 (FuelEU Maritime). Ze bepaalt gebruikerstypes met leestoegang en beheersrechten die overeenstemmen met hun rol: bedrijven zien en beheren de gegevens van hun eigen schepen, verificateurs beheren monitoringplannen, verslagen, het nalevingssaldo en het FuelEU-conformiteitsdocument, en de Commissie krijgt enkel geaggregeerde gegevens voor de evaluatie. Via de databank moeten havenautoriteiten OPS-uitzonderingen en niet-naleving van de OPS-verplichting kunnen registreren. Ze moet ook een rekenmodule voor het nalevingssaldo, een elektronisch sjabloon voor het schipspecifieke nalevingssaldo en functies voor banking, borrowing en pooling tussen bedrijven en verificateurs bieden. De bestuurlijke staat kan er FuelEU-boetes in registreren en meedelen, en het betalingsbewijs kan erin worden geregistreerd. De databank ondersteunt de afgifte van het FuelEU-conformiteitsdocument en meldt aan bedrijven wanneer een geverifieerd nalevingssaldo is geregistreerd. De beveiligingsregels vereisen unieke gebruikers-ID's, toegangscontrole met periodieke herziening, erkende authenticatie voor systeem-tot-systeeminterfaces en logging van gebruikersacties. Het EMSA mag het systeem bijwerken, mits voorafgaande kennisgeving aan de gebruikers en publicatie van de gegevensuitwisselingsformaten minstens een maand vóór de invoering. De verordening treedt in werking op de dag na die van haar bekendmaking in het Publicatieblad (gepubliceerd op 24 februari 2026)."
+   ],
+   "fr": [
+    "Base de données FuelEU : le règlement (UE) 2026/394 fixe les droits d'accès et les spécifications techniques",
+    "Le règlement d'exécution (UE) 2026/394 détermine qui peut accéder aux données de la base de données FuelEU et les gérer; elle repose sur THETIS-MRV de l'EMSA. Il précise aussi les fonctions de déclaration, de solde de conformité, de mise en commun, de sanctions, de document de conformité et de sécurité.",
+    "Le règlement concerne les compagnies maritimes, les vérificateurs, les autorités des États membres (État gestionnaire, État du pavillon et État du port d'escale), les organismes nationaux d'accréditation, la Commission et l'EMSA au titre du règlement (UE) 2023/1805 (FuelEU Maritime). Il définit des types d'utilisateurs disposant d'un accès en lecture seule et de droits de gestion correspondant à leur rôle : les compagnies consultent et gèrent les données de leurs propres navires, les vérificateurs gèrent les plans de surveillance, les rapports, le solde de conformité et le document de conformité FuelEU, et la Commission n'obtient que des données agrégées pour l'évaluation. La base de données doit permettre aux autorités portuaires d'enregistrer les exceptions OPS et les cas de non-respect de l'obligation OPS. Elle doit aussi offrir un calculateur du solde de conformité, un modèle électronique pour le solde de conformité propre au navire et des fonctions de report, d'emprunt et de mise en commun entre compagnies et vérificateurs. L'État gestionnaire peut y enregistrer et notifier les sanctions FuelEU, et la preuve de paiement peut y être enregistrée. La base de données soutient la délivrance du document de conformité FuelEU et informe les compagnies lorsqu'un solde de conformité vérifié est enregistré. Les règles de sécurité imposent des identifiants uniques, un contrôle d'accès avec révision périodique, une authentification reconnue pour les interfaces système à système et la journalisation des actions des utilisateurs. L'EMSA peut mettre à jour le système, moyennant notification préalable aux utilisateurs et publication des formats d'échange de données au moins un mois avant la mise en œuvre. Le règlement entre en vigueur le lendemain de sa publication au Journal officiel (publié le 24 février 2026)."
+   ],
+   "scope": "Commission Implementing Regulation (EU) 2026/394 – FuelEU database under Regulation (EU) 2023/1805 (Articles 1–10: access rights, functions, security, updates)",
+   "dates": {
+    "adopted": "2026-02-23",
+    "published": "2026-02-24",
+    "in_force": "2026-02-25"
+   },
+   "u": [
+    [
+     "Commission Implementing Regulation (EU) 2026/394 of 23 February 2026 laying down rules for the application of Regulation (EU) 2023/1805 of t",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0394"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R0394"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"

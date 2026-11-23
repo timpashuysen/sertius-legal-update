@@ -45712,7 +45712,8 @@
 ],
 "reason": "Watertoets: permit decision must show screening; a parcel in a low-risk flood category counts as flood-sensitive, so the authority must advise the water department and motivate.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0520"
 },
 "gwh:24/2026": {
 "v": 4,
@@ -45768,7 +45769,8 @@
 ],
 "reason": "CJEU ruling interpreting Birds Directive Article 5(d) disturbance prohibition, relevant to nature permitting.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0131-sum"
 },
 "eu:62024CJ0131": {
 "v": 4,
@@ -45779,7 +45781,8 @@
 ],
 "reason": "Same CJEU ruling on Birds Directive, interpreting wild bird protection rules for road planning.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62024cj0131"
 },
 "eu:62023CJ0524_SUM": {
 "v": 4,
@@ -46521,7 +46524,8 @@
 ],
 "reason": "Exempts certain operators from PPWR reuse targets for pallet wrappings and straps.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0429"
 },
 "codex:1041806": {
 "v": 4,
@@ -46550,7 +46554,9 @@
 ],
 "reason": "Amends staff designation for administrative fines and enforcement; environmental link unclear from title.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Only designates the officials who propose fines under the Flemish Animal Welfare Code and renames a department; it creates no environmental obligations."
 },
 "codex:1041800": {
 "v": 4,
@@ -46561,7 +46567,8 @@
 ],
 "reason": "Sets technical requirements under Flemish Energy Decree for energy performance rules.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-codex-1041800"
 },
 "rvvb:RVVB.UDN.2526.0519": {
 "v": 4,
@@ -46690,7 +46697,8 @@
 ],
 "reason": "Amends CSRD and CSDDD, including environmental due diligence and reporting duties for companies.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026l0470"
 },
 "eu:32026D1172": {
 "v": 4,
@@ -46773,7 +46781,8 @@
 ],
 "reason": "Recognises UK greenhouse gas data for biofuel feedstock under the Renewable Energy Directive.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0406"
 },
 "eu:32026D0401": {
 "v": 4,
@@ -46784,7 +46793,8 @@
 ],
 "reason": "Updates the EU list of Natura 2000 sites of Community importance under the Habitats Directive.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026d0401"
 },
 "eu:32025R2638R(01)": {
 "v": 4,
@@ -46903,7 +46913,8 @@
 ],
 "reason": "FuelEU Maritime database rules on GHG intensity reporting for ships.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-32026r0394"
 },
 "eu:32026R0391": {
 "v": 4,
@@ -63465,7 +63476,8 @@
 ],
 "reason": "Permit applications filed before the 2024 CoDT amendment keep the earlier code version, so the new 20-year presumption does not apply; reasons must address objections on fill.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265793"
 },
 "rvs:265792": {
 "v": 4,
@@ -63507,7 +63519,8 @@
 ],
 "reason": "A permit for urbanisation involving communal road works cannot be issued before a definitive communal road decision; annulment of that decision is retroactive, so the permit was unlawful.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265789"
 },
 "rvs:265788": {
 "v": 4,
@@ -63997,7 +64010,8 @@
 ],
 "reason": "Annuls a Walloon planning permit; holds that permit conditions must be precise, leave no room for appreciation, and cannot require later modified plans, and sets withdrawal-of-refusal motivation dutie",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265826"
 },
 "rvs:265825": {
 "v": 4,
@@ -64009,7 +64023,8 @@
 ],
 "reason": "Interprets Walloon CoDT nomenclature: window changes fall under rubrics A8/A9 not B8, and the one-quarter elevation threshold applies, so the advisory opinion was required.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265825"
 },
 "rvs:265824": {
 "v": 4,
@@ -67472,12 +67487,12 @@
 "this_run": 13,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
-"waiting": 283,
+"waiting": 269,
 "api": {
 "calls": 14,
-"input_tokens": 219142,
-"output_tokens": 42061,
-"usd": 0.8589
+"input_tokens": 148943,
+"output_tokens": 39812,
+"usd": 0.696
 },
 "updated": "2026-11-23"
 },
