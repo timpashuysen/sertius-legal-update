@@ -14589,7 +14589,8 @@
 ],
 "reason": "Constitutional challenge to Flemish decree on vehicle emission monitoring; air emissions rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-101-2026"
 },
 "gwh:100/2026": {
 "v": 2,
@@ -14987,7 +14988,8 @@
 ],
 "reason": "Amends the list of low-ammonia-emission stable systems under Flemish environmental hygiene rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042356"
 },
 "codex:1042354": {
 "v": 2,
@@ -15340,7 +15342,8 @@
 ],
 "reason": "Harmonised standard supporting the EU Battery Regulation 2023/1542; battery product rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d2048"
 },
 "wallex:142055": {
 "v": 2,
@@ -15351,7 +15354,8 @@
 ],
 "reason": "Calendar derogations under the nitrogen management programme in agriculture; Belgian nitrogen rules.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-142055"
 },
 "eu:52026PC0483": {
 "v": 2,
@@ -15479,7 +15483,8 @@
 ],
 "reason": "Amends POP regulation to restrict medium chain chlorinated paraffins; general chemical rule.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r2035"
 },
 "eu:32026R2031": {
 "v": 2,
@@ -15571,7 +15576,8 @@
 ],
 "reason": "Changes green and CHP certificate allocation rules during negative electricity prices.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042400"
 },
 "codex:1042398": {
 "v": 2,
@@ -15612,7 +15618,8 @@
 ],
 "reason": "Walloon derogation on fast-acting organic manure spreading under nitrogen management programme.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-142084"
 },
 "wallex:141842": {
 "v": 2,
@@ -15623,7 +15630,8 @@
 ],
 "reason": "Procedure for approving the CO2 transport network development plan.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141842"
 },
 "wallex:141763": {
 "v": 2,
@@ -15665,7 +15673,8 @@
 ],
 "reason": "Walloon greenhouse gas emission permit rules for CO2 pipeline installations.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-wallex-141507"
 },
 "gwh:97/2026": {
 "v": 2,
@@ -55916,7 +55925,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0046"
 },
 "rvvb:RVVB.2627.0045": {
 "v": 2,
@@ -55936,7 +55946,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0044"
 },
 "rvvb:RVVB.2627.0043": {
 "v": 2,
@@ -55947,7 +55958,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0043"
 },
 "rvvb:RVVB.2627.0042": {
 "v": 2,
@@ -55976,7 +55988,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0039"
 },
 "rvvb:RVVB.2627.0038": {
 "v": 2,
@@ -55996,7 +56009,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0037"
 },
 "rvvb:RVVB.2627.0036": {
 "v": 2,
@@ -58116,36 +58130,2084 @@
 "reason": "Individual mayoral closure order for one establishment; no general environmental rule.",
 "confidence": "high",
 "at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0951": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual dewatering notification for one sewer project",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0950": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual wind turbine permit refusal",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0949": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual demolition and apartment permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0948": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0947": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0946": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0945": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual function change permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0942": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual project permit (Motown Kanaal)",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0940": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual house renovation permit refusal",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0938": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual dog recreation centre notification",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0935": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual industrial building permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0934": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual inner-block housing permit refusal",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0932": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0931": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual student housing permit; title truncated",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0930": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual public car park permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0929": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0928": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual road and sewer works permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0927": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual road and sewer works permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0926": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual IT office permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0924": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0923": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0921": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case number only; title too vague to assess",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0920": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual regularisation permit for a dwelling",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0919": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual function change permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0918": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Urgent suspension ruling on one individual house permit",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0917": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one specific wind turbine permit application.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0915": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one horse farm permit; no general rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0914": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0912": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one warehouse conversion permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0910": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one municipal recycling park permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0909": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one new-build warehouse permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0908": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0907": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one sports hall permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0906": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0905": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0904": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0903": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one golf club operating permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0901": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one watercourse permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0900": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on felling poplars at one site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0897": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one refused demolition and building permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0896": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0895": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0893": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one co-housing conversion permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0892": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one house demolition and rebuild permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0891": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Urgent suspension on one site's dewatering notification; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0890": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Urgent suspension on one dewatering notification; individual site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0889": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0886": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title only gives a case number; a Council for Permit Disputes ruling needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0885": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on refused illuminated pharmacy sign.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0884": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual case on one groundwater abstraction permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0883": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual groundwater extraction permit; no general rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0882": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one site-specific permit for a 13-unit housing project.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0881": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one subdivision permit for a specific plot.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0880": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one site-specific groundwater extraction permit (Bankenstraat).",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0879": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual garden relief permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0878": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for replacing the N446 bridge.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0877": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for replacing the N446 bridge.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0875": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0874": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for renovating a workshop.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0873": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension and annulment of one individual permit for 13 SME units.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0872": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0871": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for a tennis court.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0869": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual subdivision permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0868": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title gives no subject; permit annulment, cannot tell relevance.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0865": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual permit to adjust a ministerial condition.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0864": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0863": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0862": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual subdivision and tree-felling permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0861": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0860": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0855": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual permit for levelling a meadow.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0854": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for extending a single-family home.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0853": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual regularisation permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0852": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0851": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Court ruling with no visible subject; permit case, needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0850": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0849": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0848": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual housing permit; no general interest shown.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0847": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension of one individual horticultural permit; no general interest shown.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0845": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one applicant's permit request declared inadmissible; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0844": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual terrace permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0843": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual subdivision permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0842": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0841": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual zoning-change permit; no general interest shown.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0840": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual permit for a named potato processing company.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0839": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0838": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual house extension permit; no general interest shown.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0837": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual apartment conversion permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0836": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual shed-to-house permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0835": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0834": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0832": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0829": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension and annulment of one individual livestock farm permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0827": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0826": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0825": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual demolition and apartment permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0824": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0823": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Title is blank; cannot tell whether the ruling concerns a general rule.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0821": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual 5-lot subdivision permit; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0820": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of one individual zoning-change permit for a farm dwelling.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0819": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0818": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on refusal of one named individual building permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0817": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for changing a farm into a dwelling.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0816": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0815": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0814": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual dewatering permit for a specific building project.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0813": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on refusal of one individual permit for two dwellings.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0812": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on acknowledgement of one individual groundwater extraction notification.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0811": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on refusal of one individual permit for converting a dwelling.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0810": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for demolition and rebuilding a dwelling.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0807": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for renovating a dwelling.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0805": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual regularisation permit for masts in a garden.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0804": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0802": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for subdividing land.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0801": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0800": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0799": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for subdividing a plot.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0795": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for wood storage.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0794": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0793": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; RvVB ruling on permit law, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0792": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for extending a warehouse.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0791": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual notification for a café's opening hours.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0789": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for sewer and road works.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0788": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for building two dwellings.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0785": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one individual permit for renovating two rooming houses.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0784": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on a single permit refusal for seven houses; individual case.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0783": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0782": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0781": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one permit for demolition and rebuilding of a single outbuilding.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0779": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Urgent suspension of one business building permit; individual site.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0778": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one permit for demolishing a single outbuilding.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0777": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0776": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0775": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0774": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0773": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0772": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0771": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of registration of eight parking spaces at one address.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0770": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one permit for a single family house.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0769": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one refused permit for a housing project with roads.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0768": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension and annulment of one permit for a flood area project.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0766": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one permit granted for a named project.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0765": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one refused permit for subdividing land for group housing.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0764": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0763": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0762": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0759": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0758": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one permit for a height course at a specific site.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0757": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title too vague; only a case number is given, so a person should check.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0756": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Ruling on one refused permit for temporary storage of materials.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0755": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual housing permit for a specific site.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0754": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual farm barn permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0753": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual residential building permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0752": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0751": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual regularisation permit for one café terrace.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0750": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual office and housing permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0749": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual house permit after garage demolition.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0748": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0747": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal to note one car dealer's individual notification.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0744": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0743": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual house permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0742": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0741": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refused individual permit for one wind turbine at a specific site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0740": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual house and pool permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0737": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual subdivision amendment permit.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0736": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0733": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0732": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refused individual permit for one apartment building.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0731": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting"
+],
+"reason": "Ruling on the livestock ammonia emission-reduction regime, a general rule for farms.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0729": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0725": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refused individual permit for tree felling and two houses.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0724": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0723": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0722": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Title missing; Council ruling on an environmental permit, content unknown.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0721": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Suspension and annulment of one company's individual operating permit.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0719": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual permit refusal for one named dwelling; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0718": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Annulment of one individual dry-cleaner operating permit; no general rule.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0716": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case title gives no detail; RvVb environmental permit case, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvvb:RVVB.2526.0715": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Case title gives no detail; RvVb environmental permit case, needs review.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265676": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary dismissal of a public servant; staff matter.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265675": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Disciplinary sanction against an individual civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265674": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual suspension from municipal duties; staff matter.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265672": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual administrative dispute; no environmental rule decided.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265671": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for church roof works.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265670": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of an individual zero-emission vehicle purchase premium.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265669": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Defence procurement candidate selection.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265665": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procurement for anti-ram vehicle barriers.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265664": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "University exam grade dispute.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265663": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "University jury refusal of an exam session.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265661": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Immigration case cassation; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265660": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procurement award for passenger transport services.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265657": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cassation case with unclear subject; needs checking.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265655": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Procurement award for park road infrastructure.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265654": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Single unique permit for one housing complex; individual site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265653": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit declared inadmissible for one property.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265652": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265651": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Digital agency services procurement.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265650": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one property.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265649": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for one property.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265648": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual exam jury decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265647": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil-service promotion dispute, no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265646": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual civil-service promotion procedure, no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265645": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Union delegate approval dispute, labour law only.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265644": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Designation of one person in a school post.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265643": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual university student decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265642": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Refusal of a strike notice at a rail employer, labour law.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265641": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual identity card refusal.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265639": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Appeal against SPW environment department decisions; likely permit-related but title is vague.",
+"confidence": "low",
+"at": "2026-11-23"
+},
+"rvs:265637": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital recognition as obesity centre, health care only.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265636": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital recognition as obesity centre, health care only.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265635": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital recognition as obesity centre, health care only.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265634": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital recognition as obesity centre, health care only.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265633": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual guardianship decision, family law.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265632": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual disciplinary sanction for a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6357,
-"assessed": 6357,
+"in_scope": 6571,
+"assessed": 6571,
 "waiting": 0,
-"relevant": 754,
-"not_relevant": 5284,
+"relevant": 827,
+"not_relevant": 5425,
 "excluded_by_rule": 319,
-"this_run": 28,
+"this_run": 214,
 "api": {
-"calls": 2,
-"input_tokens": 6913,
-"output_tokens": 2704,
-"usd": 0.002
+"calls": 9,
+"input_tokens": 33125,
+"output_tokens": 19273,
+"usd": 0.0129
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 9,
-"found_not_relevant_on_reading": 5,
+"this_run": 14,
+"found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 596,
+"waiting": 655,
 "api": {
 "calls": 14,
-"input_tokens": 163292,
-"output_tokens": 29550,
-"usd": 0.6221
+"input_tokens": 134918,
+"output_tokens": 39757,
+"usd": 0.6674
 },
 "updated": "2026-11-23"
 }
