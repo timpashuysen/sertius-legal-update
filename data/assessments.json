@@ -12941,7 +12941,8 @@
 ],
 "reason": "Suspension request on Flemish-approved cooperation agreement on extended producer responsibility for waste.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-gwh-115-2026"
 },
 "gwh:114/2026": {
 "v": 2,
@@ -13130,7 +13131,9 @@
 "topics": [],
 "reason": "Title is truncated; Rome II non-contractual obligation topic could involve environmental damage, so flagged for review.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Judgment on applicable law for the formal validity of copyright assignment contracts (Rome I/II); it has no bearing on environmental obligations."
 },
 "eu:62025CJ0151_RES": {
 "v": 2,
@@ -13142,7 +13145,8 @@
 ],
 "reason": "Aarhus public participation required before extending a wind farm operating permit.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62025cj0151-res"
 },
 "eu:62025CJ0151": {
 "v": 2,
@@ -13154,7 +13158,8 @@
 ],
 "reason": "Aarhus public participation required before extending a wind farm operating permit.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62025cj0151"
 },
 "eu:62024CJ0900_SUM": {
 "v": 2,
@@ -13239,7 +13244,9 @@
 ],
 "reason": "EEA position on CBAM-related protocol changes; carbon border climate rules.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Sets the EU position on Iceland's and Norway's financial contribution to CBAM IT systems; creates no obligations for Belgian companies, developers or authorities."
 },
 "eu:32026D2255": {
 "v": 2,
@@ -13259,7 +13266,9 @@
 ],
 "reason": "EEA Environment annex amended for CBAM, a carbon emissions rule.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Council fixes EU position for extending CBAM to Iceland and Norway via EEA Agreement; no direct new obligations in Belgium."
 },
 "eu:32026D2239": {
 "v": 2,
@@ -13387,7 +13396,9 @@
 ],
 "reason": "Lets France authorise ethylene oxide biocides under a general derogation; chemical rule.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Decision only lets France authorise ethylene oxide biocides for archive protection; it is addressed to France and creates no obligations in Belgium."
 },
 "eu:32026D2131": {
 "v": 2,
@@ -13416,7 +13427,9 @@
 ],
 "reason": "Lets Latvia authorise ethylene oxide biocides under a general derogation; chemical rule.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Decision addressed only to Latvia, permitting national biocide authorisations for archives; no effect on obligations in Belgium."
 },
 "eu:32026D2124": {
 "v": 2,
@@ -14417,7 +14430,8 @@
 ],
 "reason": "Changes Flemish energy decree conditions and tasks of energy houses for energy efficiency.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042429"
 },
 "codex:1042420": {
 "v": 2,
@@ -14464,7 +14478,8 @@
 ],
 "reason": "Designates environmental enforcement supervisors and inspection powers under Flemish enforcement decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042360"
 },
 "codex:1042359": {
 "v": 2,
@@ -34317,7 +34332,8 @@
 ],
 "reason": "Title too vague; Flemish permit appeal ruling may bear on permit rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0066"
 },
 "rvvb:RVVB.2627.0062": {
 "v": 2,
@@ -34328,7 +34344,8 @@
 ],
 "reason": "Title too vague; Flemish permit appeal ruling may bear on permit rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0062"
 },
 "rvvb:RVVB.2627.0061": {
 "v": 2,
@@ -34339,7 +34356,8 @@
 ],
 "reason": "Title too vague; Flemish permit appeal ruling may bear on permit rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0061"
 },
 "rvvb:RVVB.2627.0060": {
 "v": 2,
@@ -55877,7 +55895,8 @@
 ],
 "reason": "Title gives no detail; Council permit-dispute ruling needs checking.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-rvvb-rvvb-2627-0051"
 },
 "rvvb:RVVB.2627.0050": {
 "v": 2,
@@ -57842,37 +57861,292 @@
 "reason": "Cassation ruling on a Council for Permit Disputes decision; permit law.",
 "confidence": "medium",
 "at": "2026-11-22"
+},
+"rvs:265631": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual disciplinary dismissal of a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265630": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual disciplinary penalty in the federal justice service.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265629": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Public procurement award for electric buses; no environmental rule at issue.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265628": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital lift renovation procurement award.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265627": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual social premium dispute with Actiris.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265626": {
+"v": 2,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Flemish decision declaring sewage treatment infrastructure of public utility; water-related planning act.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265625": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual licence application decision for one shisha bar.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265624": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual recognition of a qualified person under medicines rules.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265622": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police order on one specific suspended construction site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265621": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Police order on one specific suspended construction site.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265620": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal market layout decision in Ninove; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265619": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal market layout decision in Ninove; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265618": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal market layout decision in Ninove; not environmental.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265617": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for lifts in two buildings.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265616": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Brussels project management services procurement award.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265615": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Municipal road works procurement award.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265613": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Brussels public works framework procurement decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265612": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Liège public works procurement decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265611": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit for a dwelling in Etterbeek.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265610": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual cultural subsidy contract decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265609": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual royal appointment of a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265608": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual exclusion from a staff promotion procedure.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265607": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual non-activity decision for a civil servant.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265605": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual urban planning permit regularising soil relief on one plot.",
+"confidence": "medium",
+"at": "2026-11-23"
+},
+"rvs:265604": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual municipal orientation certificate decision.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265603": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual salary recovery dispute with an education agency; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265602": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual public procurement dispute over firefighter clothing cleaning; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
+},
+"rvs:265599": {
+"v": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Individual mayoral closure order for one establishment; no general environmental rule.",
+"confidence": "high",
+"at": "2026-11-23"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 6329,
-"assessed": 6329,
+"in_scope": 6357,
+"assessed": 6357,
 "waiting": 0,
-"relevant": 753,
-"not_relevant": 5257,
+"relevant": 754,
+"not_relevant": 5284,
 "excluded_by_rule": 319,
-"this_run": 25,
+"this_run": 28,
 "api": {
-"calls": 1,
-"input_tokens": 5970,
-"output_tokens": 3213,
-"usd": 0.0022
+"calls": 2,
+"input_tokens": 6913,
+"output_tokens": 2704,
+"usd": 0.002
 },
 "key_present": true,
-"updated": "2026-11-22"
+"updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 4,
+"this_run": 9,
+"found_not_relevant_on_reading": 5,
 "failed": 0,
-"waiting": 609,
+"waiting": 596,
 "api": {
 "calls": 14,
-"input_tokens": 103200,
-"output_tokens": 29865,
-"usd": 0.505
+"input_tokens": 163292,
+"output_tokens": 29550,
+"usd": 0.6221
 },
-"updated": "2026-11-22"
+"updated": "2026-11-23"
 }
 }
