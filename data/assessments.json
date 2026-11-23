@@ -28698,7 +28698,7 @@
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "Unterminated string starting at: line 14 column 5 (char 6549)"
+"write_error": "no JSON in reply"
 },
 "codex:1042165": {
 "v": 4,
@@ -28879,7 +28879,9 @@
 ],
 "reason": "Coup de Pouce loan may fund energy-saving works; scheme details unclear from title.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Amends the Walloon 'Coup de Pouce' loan tax-relief scheme (ceilings, rates, anti-circumvention); it creates no environmental obligations for companies, developers or authorities."
 },
 "wallex:136545": {
 "v": 4,
@@ -60424,7 +60426,8 @@
 ],
 "reason": "States that every partly habitable floor counts as a residential floor under the supplementary Halle-Vilvoorde-Asse rules, and how the report-deviation motivation duty applies.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0862"
 },
 "rvvb:RVVB.2526.0861": {
 "v": 4,
@@ -60436,7 +60439,8 @@
 ],
 "reason": "Art. 11 Besluit Zonevreemde Functiewijzigingen: 'woningbijgebouw' requires checking whether volume and intended functions fit normal residential use; exceptions read restrictively.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0861"
 },
 "rvvb:RVVB.2526.0860": {
 "v": 4,
@@ -60449,7 +60453,8 @@
 ],
 "reason": "Annuls permit because a municipal college that is initiator and applicant of a screening-obligation project cannot decide first instance; Art. 9bis EIA Directive applies directly, requiring functional",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0860"
 },
 "rvvb:RVVB.2526.0855": {
 "v": 4,
@@ -60471,7 +60476,8 @@
 ],
 "reason": "Conformity with a municipal building regulation is irrelevant to the good spatial planning test under art. 4.3.1 VCRO; late replijknota must still be considered.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0854"
 },
 "rvvb:RVVB.2526.0853": {
 "v": 4,
@@ -60483,7 +60489,8 @@
 ],
 "reason": "Interprets art. 4.4.1 VCRO: a material deviation's 'limited' character is measured against the prescription itself; the deputation must motivate departures from its own planning report.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0853"
 },
 "rvvb:RVVB.2526.0852": {
 "v": 4,
@@ -60495,7 +60502,8 @@
 ],
 "reason": "Holds that only the tacit rejection of an administrative appeal is challengeable before the Council; also that simplified permit procedure is excluded where a BPA deviation is needed, and appeal bodie",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0852"
 },
 "rvvb:RVVB.2526.0851": {
 "v": 4,
@@ -60508,7 +60516,8 @@
 ],
 "reason": "POVC integrated advice must await the end of a second public inquiry and motivate objections received during it; a late advice is irregular, and the authority cannot cure it.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0851"
 },
 "rvvb:RVVB.2526.0850": {
 "v": 4,
@@ -60531,7 +60540,8 @@
 ],
 "reason": "Annuls permit decision: screening-obliged projects by college-initiated applicants must go to deputation; GOA lacks required autonomy under art. 9bis project-MER directive, so direct effect applies.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0849"
 },
 "rvvb:RVVB.2526.0848": {
 "v": 4,
@@ -60543,7 +60553,9 @@
 ],
 "reason": "Restates that when the permit authority departs from the provincial official's adverse report, it bears a heightened duty to state reasons, and sets out the Omgevingsvergunningsdecreet provisions on t",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annulment of one permit for inadequate reasoning on spatial planning; applies settled duty to state reasons, no new point of law."
 },
 "rvvb:RVVB.2526.0847": {
 "v": 4,
@@ -60555,7 +60567,8 @@
 ],
 "reason": "Clarifies that an ordinary suspension request after a rejected urgent-necessity request is not barred by Art. 40 §6 DBRC, and that petitioners must substantiate urgency with concrete, individual harm.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0847"
 },
 "rvvb:RVVB.2526.0845": {
 "v": 4,
@@ -60567,7 +60580,8 @@
 ],
 "reason": "Admissibility rejection over plan naming and titles is formalistic and unreasonable where the file is clear; only the competent authority may decide admissibility, and the decision must show who decid",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0845"
 },
 "rvvb:RVVB.2526.0844": {
 "v": 4,
@@ -60603,7 +60617,8 @@
 ],
 "reason": "Annuls a permit decision: the deputation must actively request advice from the municipal college in simplified appeal procedures; mere making the appeal file available is not an advice request.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0842"
 },
 "rvvb:RVVB.2526.0841": {
 "v": 4,
@@ -67092,15 +67107,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 10,
-"found_not_relevant_on_reading": 3,
+"this_run": 11,
+"found_not_relevant_on_reading": 2,
 "failed": 1,
-"waiting": 613,
+"waiting": 600,
 "api": {
 "calls": 14,
-"input_tokens": 156402,
-"output_tokens": 41862,
-"usd": 0.7314
+"input_tokens": 224636,
+"output_tokens": 38216,
+"usd": 0.8314
 },
 "updated": "2026-11-23"
 },
