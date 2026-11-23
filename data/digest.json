@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:48:23Z",
+ "updated": "2026-11-23T04:03:30Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -12657,6 +12657,499 @@
    ],
    "inbox": [
     "codex:1042387"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d05128",
+   "d": "2026-06-19",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "EU ETS: Commission orders changes to 2021-2025 free allocation tables, including Belgium, entered in Registry",
+   "a": "The Commission instructs the Central Administrator to enter changes to the 2021-2025 national allocation tables of 15 Member States, including Belgium, into the Union Registry. The changes give free allowances to new entrants and adjust allocations for existing installations.",
+   "b": "The Decision concerns operators of installations in the EU ETS that receive free allocation for 2021-2025, in Belgium and 14 other Member States, and the authorities managing those allocations. Belgium notified changes by letters of 29 May and 11 June 2026. They provide free allowances to new entrants and adjust allocations of existing installations after activity level changes or other operational changes. The Commission found the notified changes consistent with Delegated Regulation (EU) 2019/331 and Implementing Regulation (EU) 2019/1842. It therefore instructs the Central Administrator of the Union Registry to enter them. The Belgian table lists ten installations, with a total of 8,306,759 allowances over 2021-2025 (1,636,255 for 2021 and 1,805,434 for 2025). The Decision is dated 19 June 2026 and published in the Official Journal on 5 October 2026. It does not state a separate date of entry into force.",
+   "nl": [
+    "EU-ETS: Commissie laat wijzigingen van toewijzingstabellen 2021-2025, ook van België, in het EU-register invoeren",
+    "De Commissie geeft de centrale administrateur opdracht om wijzigingen van de nationale toewijzingstabellen 2021-2025 van 15 lidstaten, waaronder België, in het EU-register in te voeren. De wijzigingen betreffen gratis emissierechten voor nieuwkomers en aanpassingen voor bestaande installaties.",
+    "Het besluit betreft exploitanten van installaties onder het EU-ETS die voor 2021-2025 gratis toewijzing ontvangen, in België en 14 andere lidstaten, en de overheden die die toewijzing beheren. België meldde wijzigingen bij brieven van 29 mei en 11 juni 2026. Die voorzien in gratis emissierechten voor nieuwkomers en in aanpassingen van de toewijzing aan bestaande installaties na wijzigingen van het activiteitsniveau of andere wijzigingen in de werking. De Commissie oordeelt dat de gemelde wijzigingen in overeenstemming zijn met Gedelegeerde Verordening (EU) 2019/331 en Uitvoeringsverordening (EU) 2019/1842. Zij draagt de centrale administrateur van het EU-register daarom op ze in te voeren. De Belgische tabel bevat tien installaties, met in totaal 8.306.759 emissierechten over 2021-2025 (1.636.255 voor 2021 en 1.805.434 voor 2025). Het besluit dateert van 19 juni 2026 en is op 5 oktober 2026 in het Publicatieblad bekendgemaakt. Een afzonderlijke datum van inwerkingtreding vermeldt het niet."
+   ],
+   "fr": [
+    "SEQE-UE : la Commission fait saisir dans le registre les modifications des tableaux d'allocation 2021-2025, dont la Belgique",
+    "La Commission donne instruction à l'administrateur central de saisir dans le registre de l'Union les modifications des tableaux nationaux d'allocation 2021-2025 de 15 États membres, dont la Belgique. Elles concernent l'allocation gratuite de quotas aux nouveaux entrants et des ajustements pour les installations existantes.",
+    "La décision concerne les exploitants d'installations relevant du SEQE-UE qui reçoivent une allocation gratuite pour 2021-2025, en Belgique et dans 14 autres États membres, ainsi que les autorités qui gèrent cette allocation. La Belgique a notifié des modifications par lettres des 29 mai et 11 juin 2026. Elles prévoient l'allocation gratuite de quotas aux nouveaux entrants et l'ajustement de l'allocation des installations existantes à la suite de changements du niveau d'activité ou d'autres changements liés à leur exploitation. La Commission estime que les modifications notifiées sont conformes au règlement délégué (UE) 2019/331 et au règlement d'exécution (UE) 2019/1842. Elle charge donc l'administrateur central du registre de l'Union de les saisir. Le tableau belge compte dix installations, pour un total de 8 306 759 quotas sur 2021-2025 (1 636 255 pour 2021 et 1 805 434 pour 2025). La décision date du 19 juin 2026 et a été publiée au Journal officiel le 5 octobre 2026. Elle ne précise pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Commission Decision C/2026/5128 of 19 June 2026 – sole article and Annex I (Belgium) on national allocation tables 2021-2025 under Art. 10a Directive 2003/87/EC",
+   "dates": {
+    "adopted": "2026-06-19",
+    "published": "2026-10-05"
+   },
+   "u": [
+    [
+     "Commission Decision of 19 June 2026 instructing the Central Administrator of the Union Registry to enter changes to the national allocation ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D05128"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D05128"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042145",
+   "d": "2026-06-19",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "OVAM designates Departement Omgeving to collect amounts due under public restoration and security measures",
+   "a": "The Administrator-General of OVAM has designated the Departement Omgeving as the administration competent to collect amounts due under public restoration and security measures. This applies to measures imposed by a restoration authority acting on behalf of OVAM, under Article 70, §6 of the Flemish Enforcement Framework Decree.",
+   "b": "The decision concerns amounts owed under public restoration and security measures that a restoration authority (herstelinstantie) acting on behalf of the Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) has imposed in environmental enforcement. These authorities are OVAM staff members appointed under the Administrator-General's decision of 18 May 2026, in line with the Omgevingshandhavingsbesluit of 23 May 2025. They handle security and restoration for all interests protected by environmental rules under Title XVI of the Decree of 5 April 1995 on general provisions on environmental policy. The Departement Omgeving is designated as the administration competent to collect these amounts, on the basis of Article 70, §6 of the Framework Decree on Flemish Enforcement of 14 July 2023. Collection is carried out by staff members of the Departement Omgeving. The decision is dated 19 June 2026, was published on 29 June 2026 and has a start date of 9 July 2026.",
+   "nl": [
+    "OVAM wijst Departement Omgeving aan voor de inning van bedragen uit publieke herstel- en beveiligingsmaatregelen",
+    "De administrateur-generaal van OVAM heeft het Departement Omgeving aangewezen als administratie die bevoegd is voor de inning van bedragen die verschuldigd zijn op grond van publieke herstel- en beveiligingsmaatregelen. Het gaat om maatregelen opgelegd door een herstelinstantie die namens OVAM optreedt, op basis van artikel 70, §6 van het Kaderdecreet Vlaamse Handhaving.",
+    "Het besluit betreft bedragen die verschuldigd zijn op grond van publieke herstel- en beveiligingsmaatregelen die een herstelinstantie die namens de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) optreedt, in het kader van de omgevingshandhaving heeft opgelegd. Die herstelinstanties zijn personeelsleden van OVAM, aangeduid bij het besluit van de administrateur-generaal van 18 mei 2026, conform het Omgevingshandhavingsbesluit van 23 mei 2025. Zij staan in voor beveiliging en herstel voor alle door milieuvoorschriften beschermde belangen uit titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Het Departement Omgeving wordt aangewezen als bevoegde administratie voor de inning van die bedragen, op grond van artikel 70, §6 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023. De inning gebeurt door personeelsleden van het Departement Omgeving. Het besluit dateert van 19 juni 2026, werd op 29 juni 2026 bekendgemaakt en heeft als startdatum 9 juli 2026."
+   ],
+   "fr": [
+    "L'OVAM désigne le Departement Omgeving pour le recouvrement des montants dus au titre des mesures publiques de réparation et de sécurisation",
+    "L'administrateur général de l'OVAM a désigné le Departement Omgeving comme administration compétente pour le recouvrement des montants dus au titre des mesures publiques de réparation et de sécurisation. Cela vise les mesures imposées par une instance de réparation agissant au nom de l'OVAM, sur la base de l'article 70, §6 du décret-cadre relatif à l'application de la réglementation flamande.",
+    "La décision concerne les montants dus au titre des mesures publiques de réparation et de sécurisation imposées, dans le cadre de l'application de la réglementation environnementale, par une instance de réparation (herstelinstantie) agissant au nom de l'Openbare Vlaamse Afvalstoffenmaatschappij (OVAM). Ces instances sont des membres du personnel de l'OVAM désignés par la décision de l'administrateur général du 18 mai 2026, conformément à l'Omgevingshandhavingsbesluit du 23 mai 2025. Elles assurent la sécurisation et la réparation pour tous les intérêts protégés par les prescriptions environnementales visés au titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement. Le Departement Omgeving est désigné comme administration compétente pour recouvrer ces montants, sur la base de l'article 70, §6 du décret-cadre du 14 juillet 2023 relatif à l'application de la réglementation flamande. Le recouvrement est effectué par des membres du personnel du Departement Omgeving. La décision date du 19 juin 2026, a été publiée le 29 juin 2026 et a pour date de début le 9 juillet 2026."
+   ],
+   "scope": "Besluit van de administrateur-generaal van OVAM van 19 juni 2026 – aanwijzing Departement Omgeving, artikel 70, §6 Kaderdecreet Vlaamse Handhaving van 14 juli 2023",
+   "dates": {
+    "adopted": "2026-06-19",
+    "published": "2026-06-29",
+    "in_force": "2026-07-09"
+   },
+   "u": [
+    [
+     "Besluit van de administrateur-generaal tot aanwijzing van het Departement Omgeving als administratie die bevoegd is voor de inning van bedra",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042145&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042145"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0889",
+   "d": "2026-06-18",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb dismisses appeal against Zwalm farmstead permit: parking need assessment upheld as not manifestly unreasonable",
+   "a": "The Council for Permit Disputes rejected a neighbours' appeal against a conditional environmental permit for converting a farmstead in Zwalm into a home, a meeting house and three holiday units. It found the authority's assessment of parking need under good spatial planning sufficiently reasoned and careful.",
+   "b": "The ruling concerns neighbours challenging a conditional environmental permit granted on administrative appeal, after the municipality had refused it. The permit covers converting a square farmstead into a single-family home, a meeting house for up to twelve people and three small holiday units. During the procedure the parking was cut from twelve places to six visitor places, plus a drop-off zone and two private places. The Council says it reviews only whether the assessment of good spatial planning is wrong, careless or manifestly unreasonable, and that the authority has wide discretion. It accepted the authority's reasons: limited and staggered use, with the holiday units let during the week only together with the meeting room; small scale; no year-round occupation; nearby public parking; and alternatives such as bicycles and public transport. It held that the reduction from twelve to six places does not in itself show an error. The mer-screening figures and the carpooling claims were not relied on in the decision, and the neighbours' criticism of the alternatives was treated as criticism of expediency. The appeal was dismissed and the 400 euro registry fee was charged to the applicants. The ruling was pronounced on 18 June 2026 after brief proceedings.",
+   "nl": [
+    "RvVb verwerpt beroep tegen vergunning vierkantshoeve Zwalm: beoordeling parkeerbehoefte niet kennelijk onredelijk",
+    "De Raad voor Vergunningsbetwistingen verwierp het beroep van omwonenden tegen een omgevingsvergunning onder voorwaarden voor de verbouwing van een hoeve in Zwalm tot woning, vergaderhuis en drie vakantieverblijven. Volgens de Raad is de beoordeling van de parkeerbehoefte in het kader van de goede ruimtelijke ordening afdoende gemotiveerd en zorgvuldig.",
+    "Het arrest betreft omwonenden die een omgevingsvergunning onder voorwaarden aanvechten, verleend in bestuurlijk beroep nadat het college van burgemeester en schepenen ze had geweigerd. De vergunning betreft de verbouwing van een vierkantshoeve tot eengezinswoning, een vergaderhuis voor maximaal twaalf personen en drie kleinschalige vakantieverblijven. Tijdens de procedure werden de parkeerplaatsen teruggebracht van twaalf naar zes bezoekersplaatsen, met daarnaast een afzetzone en twee privéplaatsen. De Raad stelt dat hij enkel nagaat of de beoordeling van de goede ruimtelijke ordening foutief, onzorgvuldig of kennelijk onredelijk is, en dat de overheid een ruime discretionaire bevoegdheid heeft. Hij aanvaardt de motieven van de overheid: beperkt en gespreid gebruik, waarbij de vakantieverblijven tijdens de week enkel samen met de vergaderruimte worden verhuurd, de kleinschaligheid, het ontbreken van jaarrondgebruik, openbare parkeerplaatsen in de buurt en alternatieven zoals de fiets en het openbaar vervoer. Het louter verlagen van twaalf naar zes plaatsen toont volgens de Raad geen fout aan. De cijfers uit de mer-screeningsnota en de carpoolingclaims werden in de beslissing niet gehanteerd, en de kritiek op de alternatieven werd als opportuniteitskritiek beschouwd. Het beroep werd verworpen en het rolrecht van 400 euro valt ten laste van de verzoekers. Het arrest werd uitgesproken op 18 juni 2026 na behandeling in korte debatten."
+   ],
+   "fr": [
+    "Le CCA rejette le recours contre le permis d'une ferme en carré à Zwalm : l'évaluation du besoin de stationnement tient",
+    "Le Conseil pour les contestations des autorisations (RvVb) a rejeté le recours de riverains contre un permis d'environnement sous conditions pour transformer une ferme à Zwalm en habitation, maison de réunion et trois logements de vacances. Il juge l'évaluation du besoin de stationnement, au regard du bon aménagement du territoire, suffisamment motivée et prudente.",
+    "L'arrêt concerne des riverains qui contestent un permis d'environnement sous conditions, accordé en recours administratif après un refus du collège des bourgmestre et échevins. Le permis porte sur la transformation d'une ferme en carré en habitation unifamiliale, en maison de réunion pour douze personnes au maximum et en trois logements de vacances de petite taille. Pendant la procédure, le stationnement est passé de douze à six places pour visiteurs, avec en plus une zone de dépose et deux places privées. Le Conseil précise qu'il vérifie seulement si l'appréciation du bon aménagement du territoire est erronée, imprudente ou manifestement déraisonnable, l'autorité disposant d'un large pouvoir discrétionnaire. Il admet les motifs de l'autorité : usage limité et étalé, les logements de vacances n'étant loués en semaine qu'avec la salle de réunion, petite échelle, absence d'occupation toute l'année, parkings publics à proximité et alternatives comme le vélo et les transports publics. La simple réduction de douze à six places ne démontre pas une erreur selon le Conseil. Les chiffres de la note de screening (mer) et les arguments sur le covoiturage n'ont pas été utilisés dans la décision, et la critique des alternatives a été qualifiée de critique d'opportunité. Le recours est rejeté et le droit de rôle de 400 euros est à charge des requérants. L'arrêt a été prononcé le 18 juin 2026 après un traitement en débats succincts."
+   ],
+   "scope": "Arrest RvVb.2526.0889 – omgevingsvergunning, beoordeling van de goede ruimtelijke ordening (parkeerbehoefte), art. 4.3.1 VCRO en art. 3 Motiveringswet",
+   "dates": {
+    "adopted": "2026-06-18"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0889.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0889.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0889"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0886",
+   "d": "2026-06-18",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb: neighbour lacks standing against permit amendment when nuisances stem from a final earlier permit",
+   "a": "The Council for Permit Disputes rejected an action by a neighbour against a Schoten environmental permit that changes the internal layout of two buildings and adds parking. The alleged flooding, traffic and parking nuisances were not linked to the limited object of the amended permit.",
+   "b": "The ruling concerns a neighbour's action against the inadmissibility of an administrative appeal against a Schoten permit. The permit changes the number of dwellings, site works, parking and well dewatering for a project already permitted in 2022. The permit reduces the dwellings in two buildings (−5 and −12, with larger units), leaves volume and footprint unchanged, and adds 14 underground and 10 above-ground parking spaces in water-permeable material. The Council recalls that the 'betrokken publiek' may bring the action (Omgevingsvergunningsdecreet, art. 105 §2 and art. 2) and that a credibly shown risk of significant consequences suffices for standing. It finds that the claimed flooding, traffic and parking nuisances derive in essence from the final 2022 permit (paving rate, underground car parks, roads), not from the limited amendment, and that the applicant gave no link to the object of the contested permit. The legality of the final 2022 permit can no longer be challenged. The action is rejected and the 200 euro registry fee is charged to the applicant. The ruling was delivered on 18 June 2026.",
+   "nl": [
+    "RvVb: buur heeft geen belang tegen vergunningswijziging als hinder voortvloeit uit definitieve eerdere vergunning",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep van een buur tegen een omgevingsvergunning in Schoten voor een interne herindeling van twee gebouwen en extra parkeerplaatsen. De aangevoerde wateroverlast, verkeers- en parkeerhinder werden niet gelinkt aan het beperkte voorwerp van de gewijzigde vergunning.",
+    "Het arrest betreft het beroep van een buur tegen de onontvankelijkverklaring van een administratief beroep tegen een vergunning in Schoten. De vergunning wijzigt het aantal woongelegenheden, terreinaanlegwerken, parking en een bronbemaling voor een project dat in 2022 al vergund was. Ze vermindert het aantal woongelegenheden in twee gebouwen (−5 en −12, met grotere eenheden), laat bouwvolume en footprint ongewijzigd en voegt veertien ondergrondse en tien bovengrondse parkeerplaatsen in waterdoorlatend materiaal toe. De Raad herinnert eraan dat het 'betrokken publiek' het beroep kan instellen (Omgevingsvergunningsdecreet, art. 105, §2 en art. 2) en dat een geloofwaardig gemaakt risico op noemenswaardige gevolgen volstaat voor het belang. Hij oordeelt dat de aangevoerde wateroverlast, verkeers- en parkeerhinder in essentie voortvloeien uit de definitieve vergunning van 2022 (verhardingsgraad, ondergrondse parkings, wegenis) en niet uit de beperkte wijziging, en dat de verzoeker geen verband met het voorwerp van de bestreden vergunning aantoont. De wettigheid van de definitieve vergunning van 2022 kan niet meer in vraag worden gesteld. Het beroep wordt verworpen en het rolrecht van 200 euro valt ten laste van de verzoeker. Het arrest werd uitgesproken op 18 juni 2026."
+   ],
+   "fr": [
+    "CCA : un voisin n'a pas d'intérêt contre une modification de permis si les nuisances découlent d'un permis antérieur définitif",
+    "Le Conseil du contentieux des autorisations (RvVb) rejette le recours d'un voisin contre un permis d'environnement à Schoten portant sur une nouvelle répartition interne de deux bâtiments et des places de parking supplémentaires. Les inondations et nuisances de trafic et de stationnement invoquées n'ont pas été reliées à l'objet limité du permis modifié.",
+    "L'arrêt porte sur le recours d'un voisin contre la déclaration d'irrecevabilité d'un recours administratif dirigé contre un permis délivré à Schoten. Le permis modifie le nombre de logements, les aménagements de terrain, le parking et un pompage de nappe pour un projet déjà autorisé en 2022. Il réduit le nombre de logements dans deux bâtiments (−5 et −12, avec des unités plus grandes), laisse inchangés le volume bâti et l'emprise au sol et ajoute quatorze places de parking souterraines et dix places en surface en matériau perméable. Le Conseil rappelle que le « public concerné » peut introduire le recours (décret sur le permis d'environnement, art. 105, §2 et art. 2) et qu'un risque rendu crédible de conséquences notables suffit pour l'intérêt. Il juge que les inondations et nuisances de trafic et de stationnement invoquées découlent pour l'essentiel du permis définitif de 2022 (taux d'imperméabilisation, parkings souterrains, voirie) et non de la modification limitée, et que le requérant n'établit aucun lien avec l'objet du permis attaqué. La légalité du permis définitif de 2022 ne peut plus être remise en cause. Le recours est rejeté et le droit de rôle de 200 euros est mis à la charge du requérant. L'arrêt a été prononcé le 18 juin 2026."
+   ],
+   "scope": "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0886 – belang van het betrokken publiek (art. 105, §2 en art. 2 Omgevingsvergunningsdecreet)",
+   "dates": {
+    "adopted": "2026-06-18"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0886.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0886.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0886"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1388",
+   "d": "2026-06-17",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "permitting"
+   ],
+   "h": "EU adopts Regulation on new genomic technique (NGT) plants, with a lighter regime for category 1 plants",
+   "a": "Regulation (EU) 2026/1388 sets rules for plants obtained by targeted mutagenesis or cisgenesis and for food, feed and other products derived from them. Category 1 NGT plants leave the GMO rules after a verification decision, while category 2 NGT plants stay under them with adapted notification content.",
+   "b": "The Regulation covers NGT plants (obtained by targeted mutagenesis or cisgenesis, without genetic material from outside the breeders' gene pool), their deliberate release for purposes other than placing on the market, and food, feed and other products containing, consisting of or produced from them. Category 1 NGT plants (meeting the equivalence criteria of Annex I and not conveying a trait listed in Annex II) and their progeny are excluded from the Union GMO rules once a decision declares that status. The verification request goes to the national competent authority for releases, or to EFSA for placing on the market, with fixed time limits (30 working days for admissibility and for the report or statement). The Commission and Member States may raise reasoned objections within 20 days, and a Commission implementing decision follows where objections are made or EFSA is involved. Requesters must supply patent information, decisions are listed in a public Commission database, and category 1 reproductive material must be labelled 'NGT-1' with identification numbers and noted in variety catalogues. Category 1 plants remain subject to the organic production rules, although their adventitious or technically unavoidable presence is not non-compliance. Category 2 NGT plants and products stay under the GMO rules, with adapted notification content (Annex III risk assessment, proposed consent period of at most 10 years, monitoring plan, labelling). Annex IV lists the traits eligible for incentives and excludes herbicide tolerance. The Regulation was adopted on 17 June 2026 and published on 26 June 2026.",
+   "nl": [
+    "EU keurt verordening goed over planten verkregen met nieuwe genomische technieken (NGT), met lichter regime voor categorie 1",
+    "Verordening (EU) 2026/1388 stelt regels vast voor planten verkregen door gerichte mutagenese of cisgenese en voor daarvan afgeleide levensmiddelen, diervoeders en andere producten. Categorie 1-NGT-planten vallen na een verificatiebesluit buiten de ggo-regels, categorie 2-planten blijven eronder vallen met aangepaste kennisgevingsinhoud.",
+    "De verordening heeft betrekking op NGT-planten (verkregen door gerichte mutagenese of cisgenese, zonder genetisch materiaal van buiten de genenpool voor conventionele veredeling), op hun doelbewuste introductie in het milieu voor andere doeleinden dan het in de handel brengen, en op levensmiddelen, diervoeders en andere producten die ze bevatten, ervan bestaan of ervan zijn geproduceerd. Categorie 1-NGT-planten (die voldoen aan de gelijkwaardigheidscriteria van bijlage I en geen eigenschap uit bijlage II beogen) en hun nakomelingen vallen buiten de ggo-regels van de Unie zodra een besluit die status vaststelt. Het verzoek tot verificatie wordt ingediend bij de bevoegde nationale autoriteit voor introducties in het milieu, of bij de EFSA voor het in de handel brengen, met vaste termijnen (30 werkdagen voor de ontvankelijkheid en voor het verslag of de verklaring). De Commissie en de lidstaten kunnen binnen 20 dagen een met redenen omkleed bezwaar indienen; bij bezwaar of bij betrokkenheid van de EFSA volgt een uitvoeringsbesluit van de Commissie. Aanvragers moeten octrooi-informatie verstrekken, de besluiten worden opgenomen in een openbare databank van de Commissie, en teeltmateriaal van categorie 1 moet worden geëtiketteerd met 'NGT-1' en identificatienummers en worden vermeld in de rassencatalogi. Categorie 1-planten blijven onderworpen aan de regels voor biologische productie, maar hun toevallige of technisch onvermijdelijke aanwezigheid vormt geen niet-naleving. Categorie 2-NGT-planten en -producten blijven onder de ggo-regels vallen, met aangepaste inhoud van de kennisgeving (milieurisicobeoordeling volgens bijlage III, voorgestelde toelatingsduur van maximaal 10 jaar, monitoringplan, etikettering). Bijlage IV somt de eigenschappen op die voor stimulansen in aanmerking komen en sluit herbicidetolerantie uit. De verordening is goedgekeurd op 17 juni 2026 en bekendgemaakt op 26 juni 2026."
+   ],
+   "fr": [
+    "L'UE adopte un règlement sur les végétaux issus de nouvelles techniques génomiques (NGT), avec un régime allégé pour la catégorie 1",
+    "Le règlement (UE) 2026/1388 fixe des règles pour les végétaux obtenus par mutagenèse ciblée ou cisgenèse et pour les denrées alimentaires, aliments pour animaux et autres produits qui en sont issus. Les végétaux NGT de catégorie 1 sortent du régime OGM après une décision de vérification, ceux de catégorie 2 y restent soumis avec un contenu de notification adapté.",
+    "Le règlement couvre les végétaux NGT (obtenus par mutagenèse ciblée ou cisgenèse, sans matériel génétique extérieur au patrimoine génétique accessible à la sélection conventionnelle), leur dissémination volontaire à toute fin autre que la mise sur le marché, ainsi que les denrées alimentaires, aliments pour animaux et autres produits qui en contiennent, en consistent ou en sont issus. Les végétaux NGT de catégorie 1 (répondant aux critères d'équivalence de l'annexe I et ne visant aucun caractère de l'annexe II) et leur descendance sont exclus des règles de l'Union applicables aux OGM dès qu'une décision déclare ce statut. La demande de vérification est adressée à l'autorité nationale compétente pour les disséminations, ou à l'EFSA pour la mise sur le marché, avec des délais fixes (30 jours ouvrables pour la recevabilité et pour le rapport ou l'avis). La Commission et les États membres peuvent formuler des objections motivées dans un délai de 20 jours; en cas d'objection ou d'intervention de l'EFSA, une décision d'exécution de la Commission suit. Les demandeurs doivent fournir des informations sur les brevets, les décisions figurent dans une base de données publique de la Commission, et le matériel de reproduction de catégorie 1 doit porter la mention «NGT-1» avec les numéros d'identification et être indiqué dans les catalogues de variétés. Les végétaux de catégorie 1 restent soumis aux règles de la production biologique, mais leur présence fortuite ou techniquement inévitable ne constitue pas un manquement. Les végétaux et produits NGT de catégorie 2 restent soumis aux règles OGM, avec un contenu de notification adapté (évaluation des risques environnementaux selon l'annexe III, durée d'autorisation proposée de 10 ans au maximum, plan de surveillance, étiquetage). L'annexe IV énumère les caractères justifiant des incitations et exclut la tolérance aux herbicides. Le règlement a été adopté le 17 juin 2026 et publié le 26 juin 2026."
+   ],
+   "scope": "Regulation (EU) 2026/1388: scope, definitions, category 1 and category 2 NGT plants and products, Annexes III and IV",
+   "dates": {
+    "adopted": "2026-06-17",
+    "published": "2026-06-26"
+   },
+   "u": [
+    [
+     "Regulation (EU) 2026/1388 of the European Parliament and of the Council of 17 June 2026 on plants obtained by certain new genomic techniques",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1388"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1388"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-139094",
+   "d": "2026-06-16",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Wallonia sets rules for grey partridge management plans and annual reports under the 2025–2030 hunting decree",
+   "a": "A Walloon ministerial order sets how hunting councils submit and obtain approval of grey partridge management plans and annual reports. Grey partridge hunting is allowed only on management units of more than 100 hectares of plain, with set content, release and harvest rules.",
+   "b": "The order concerns approved hunting councils (conseils cynégétiques), holders of hunting rights joining a plan, and the Nature and Forests Department. Grey partridge hunting is permitted only on management units with more than 100 hectares of plain. Plans must follow the model annex and include mapped units in ChasseOnMap, spring population counts, breeding-success counts, predator regulation and habitat measures, and council sanctions for non-compliance. Releases are limited to the plains subspecies, require fewer than five pairs per 100 hectares of plain in the first year, run for at least two consecutive years, are capped at 40 birds per 100 hectares per year and stop harvesting for at least one year after the last release. Harvest may not exceed 15% of the birds present before the opening. Hunting is allowed only with at least three pairs and 20 birds per 100 hectares of plain. Plans must reach the administration at least 45 days before the partridge season opens, and the Director-General rules within 30 days. Non-compliant units can have hunting suspended, with 20 days for the council to respond. Annual reports are due before 30 June, with 30 days for approval, and changes to units must be recorded by 30 June. The order sets rules on personal data processing. It takes effect on 30 July 2026 and ceases to apply after the 2029–2030 hunting year; plans end by 30 June 2030 at the latest.",
+   "nl": [
+    "Wallonië legt regels vast voor patrijzenbeheerplannen en jaarverslagen onder het jachtbesluit 2025–2030",
+    "Een Waals ministerieel besluit bepaalt hoe jachtraden patrijzenbeheerplannen en jaarverslagen indienen en laten goedkeuren. De jacht op de patrijs is enkel toegelaten op beheereenheden van meer dan 100 hectare vlakte, met vaste inhoud-, uitzet- en afschotregels.",
+    "Het besluit betreft erkende jachtraden (conseils cynégétiques), houders van jachtrecht die zich bij een plan aansluiten en het Departement Natuur en Bossen. De patrijzenjacht is enkel toegelaten op beheereenheden met meer dan 100 hectare vlakte. De plannen volgen het model in de bijlage en bevatten onder meer de afbakening in ChasseOnMap, voorjaarstellingen, tellingen van het broedsucces, maatregelen voor predatorbeheer en habitat, en sancties van de raad bij niet-naleving. Uitzettingen zijn beperkt tot de ondersoort van de vlakte, vereisen minder dan vijf paren per 100 hectare vlakte in het eerste jaar, duren minstens twee opeenvolgende jaren, zijn beperkt tot 40 vogels per 100 hectare per jaar en leiden tot minstens een jaar afschotstop na de laatste uitzetting. Het afschot mag niet meer dan 15% bedragen van de vóór de opening aanwezige patrijzen. De jacht is enkel toegelaten bij minstens drie paren en 20 vogels per 100 hectare vlakte. Plannen moeten minstens 45 dagen vóór de opening van het patrijzenseizoen bij de administratie zijn, en de directeur-generaal beslist binnen 30 dagen. Bij niet-naleving kan de jacht op een eenheid worden geschorst, waarbij de raad 20 dagen krijgt om te antwoorden. Jaarverslagen worden vóór 30 juni ingediend en binnen 30 dagen beoordeeld; wijzigingen van eenheden moeten uiterlijk 30 juni worden geregistreerd. Het besluit regelt ook de verwerking van persoonsgegevens. Het treedt in werking op 30 juli 2026 en houdt op van toepassing te zijn na het jachtjaar 2029-2030; plannen eindigen uiterlijk op 30 juni 2030."
+   ],
+   "fr": [
+    "La Wallonie fixe les règles des plans de gestion de la perdrix grise et des rapports annuels (arrêté quinquennal 2025-2030)",
+    "Un arrêté ministériel wallon fixe les modalités d'introduction et d'approbation des plans de gestion de la perdrix grise et des rapports annuels par les conseils cynégétiques. La chasse n'est autorisée que sur des unités de gestion de plus de 100 hectares de plaine, avec des règles précises de contenu, de lâchers et de prélèvements.",
+    "L'arrêté concerne les conseils cynégétiques agréés, les titulaires de droit de chasse adhérant à un plan et le Département de la Nature et des Forêts. La chasse à la perdrix grise n'est autorisée que sur les unités de gestion de plus de 100 hectares de plaine. Les plans suivent le modèle en annexe et comprennent notamment la délimitation dans ChasseOnMap, les comptages de printemps, l'évaluation du succès de reproduction, les mesures de régulation des prédateurs et d'amélioration des habitats, ainsi que les sanctions du conseil en cas de non-respect. Les lâchers sont limités à la sous-espèce des plaines, exigent moins de cinq couples par 100 hectares de plaine la première année, durent au moins deux années consécutives, sont plafonnés à 40 oiseaux par 100 hectares et par an et entraînent l'arrêt des prélèvements pendant au moins un an après le dernier lâcher. Les prélèvements ne peuvent excéder 15 % des perdrix présentes avant l'ouverture. La chasse n'est permise qu'avec au moins trois couples et 20 individus par 100 hectares de plaine. Les plans doivent parvenir à l'administration au plus tard 45 jours avant l'ouverture de la chasse à la perdrix, et le directeur général statue dans les 30 jours. En cas de non-respect, la chasse peut être suspendue sur l'unité, le conseil disposant de 20 jours pour répondre. Les rapports annuels sont transmis avant le 30 juin et examinés dans les 30 jours; les changements d'unités sont à renseigner au plus tard le 30 juin. L'arrêté encadre aussi le traitement des données à caractère personnel. Il entre en vigueur le 30 juillet 2026 et cesse de s'appliquer à l'issue de l'année cynégétique 2029-2030; les plans prennent fin au plus tard le 30 juin 2030."
+   ],
+   "scope": "Arrêté ministériel du 16 juin 2026 fixant les modalités d'introduction et d'approbation des plans de gestion de la perdrix grise et des rapports annuels (arts. 1 à 15)",
+   "dates": {
+    "adopted": "2026-06-16",
+    "published": "2026-07-20",
+    "in_force": "2026-07-30"
+   },
+   "u": [
+    [
+     "Arrêté ministériel fixant les modalités d'introduction et d'approbation des plans de gestion de la perdrix grise, ainsi que celles relatives",
+     "https://wallex.wallonie.be/eli/arrete/2026/06/16/2026005442/2026/07/30"
+    ]
+   ],
+   "inbox": [
+    "wallex:139094"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026d1312",
+   "d": "2026-06-15",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Commission clears national free allocation lists for 2026-2030 EU ETS, Belgium included",
+   "a": "The Commission raised no objection to the lists of installations and baseline data (2019-2023) submitted by Belgium and 24 other Member States for transitional free allocation in 2026-2030. Only one installation each in Spain and Sweden was rejected, because biomass combustion accounts for over 95 % of their emissions.",
+   "b": "The decision concerns operators of installations covered by the EU ETS and the authorities that compiled the national implementation measures (NIMs). Belgium's NIM was found compatible with Directive 2003/87/EC and Delegated Regulation (EU) 2019/331, so the Belgian installations on its list are eligible for free allocation in 2026-2030. The Commission raises no objection to the submitted lists and corresponding data, except for two installations in the Annex, one in Spain and one in Sweden. Those two are rejected because emissions from compliant biomass combustion averaged more than 95 % of their total emissions over the relevant five-year period, which places them outside the EU ETS under point 1 of Annex I to the Directive. The assessment covered completeness, consistency of data, eligibility, sub-installation boundaries and historical activity levels for the 2019-2023 baseline period. The decision is dated 15 June 2026, was published on 17 June 2026 and is addressed to the Member States; it does not state a separate date of entry into force.",
+   "nl": [
+    "Commissie keurt nationale lijsten voor kosteloze toewijzing ETS 2026-2030 goed, ook voor België",
+    "De Commissie maakt geen bezwaar tegen de lijsten van installaties en de referentiegegevens (2019-2023) die België en 24 andere lidstaten indienden voor de voorlopige kosteloze toewijzing in 2026-2030. Enkel één installatie in Spanje en één in Zweden wordt geweigerd, omdat biomassaverbranding er meer dan 95 % van de emissies uitmaakt.",
+    "Het besluit betreft exploitanten van installaties onder het EU-ETS en de autoriteiten die de nationale uitvoeringsmaatregelen (NIM's) hebben opgesteld. Het Belgische NIM werd verenigbaar bevonden met Richtlijn 2003/87/EG en Gedelegeerde Verordening (EU) 2019/331, zodat de Belgische installaties op de lijst in aanmerking komen voor kosteloze toewijzing in 2026-2030. De Commissie maakt geen bezwaar tegen de ingediende lijsten en bijbehorende gegevens, behalve voor twee installaties in de bijlage, één in Spanje en één in Zweden. Die worden geweigerd omdat de emissies van biomassaverbranding die aan de criteria voldoet, gemiddeld meer dan 95 % van hun totale emissies uitmaakten in de relevante periode van vijf jaar, waardoor ze krachtens punt 1 van bijlage I bij de richtlijn buiten het EU-ETS vallen. De beoordeling betrof de volledigheid, de consistentie van de gegevens, de in aanmerking komende installaties, de grenzen van subinstallaties en de historische activiteitsniveaus over de referentieperiode 2019-2023. Het besluit is gedateerd op 15 juni 2026, werd op 17 juni 2026 bekendgemaakt en is gericht tot de lidstaten; een afzonderlijke datum van inwerkingtreding wordt niet vermeld."
+   ],
+   "fr": [
+    "La Commission valide les listes nationales d'allocation gratuite SEQE 2026-2030, Belgique incluse",
+    "La Commission ne formule aucune objection aux listes d'installations et aux données de référence (2019-2023) transmises par la Belgique et 24 autres États membres pour l'allocation transitoire à titre gratuit en 2026-2030. Seule une installation en Espagne et une en Suède sont rejetées, la combustion de biomasse y représentant plus de 95 % des émissions.",
+    "La décision concerne les exploitants d'installations relevant du SEQE-UE et les autorités qui ont établi les mesures nationales d'exécution (MNE). La MNE de la Belgique a été jugée compatible avec la directive 2003/87/CE et le règlement délégué (UE) 2019/331, de sorte que les installations belges figurant sur sa liste sont éligibles à l'allocation gratuite en 2026-2030. La Commission ne soulève aucune objection aux listes soumises et aux données correspondantes, sauf pour deux installations reprises à l'annexe, l'une en Espagne et l'autre en Suède. Celles-ci sont rejetées parce que les émissions issues de la combustion de biomasse conforme aux critères ont représenté en moyenne plus de 95 % de leurs émissions totales sur la période de cinq ans pertinente, ce qui les exclut du SEQE-UE en vertu du point 1 de l'annexe I de la directive. L'examen a porté sur l'exhaustivité, la cohérence des données, l'éligibilité, les limites des sous-installations et les niveaux d'activité historiques pour la période de référence 2019-2023. La décision est datée du 15 juin 2026, a été publiée le 17 juin 2026 et est adressée aux États membres ; elle ne mentionne pas de date d'entrée en vigueur distincte."
+   ],
+   "scope": "Commission Decision (EU) 2026/1312 on national implementation measures for free allocation 2026-2030 (Directive 2003/87/EC, Art. 11(3)); Art. 1 and Annex",
+   "dates": {
+    "adopted": "2026-06-15",
+    "published": "2026-06-17"
+   },
+   "u": [
+    [
+     "Commission Decision (EU) 2026/1312 of 15 June 2026 concerning national implementation measures for the transitional free allocation of green",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1312"
+    ]
+   ],
+   "inbox": [
+    "eu:32026D1312"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-eu-32026r1282",
+   "d": "2026-06-12",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Heavy-duty vehicle CO2 regulation: new reporting data and technical service duties for trailers",
+   "a": "Delegated Regulation (EU) 2026/1282 amends and corrects Annexes IV and V to Regulation (EU) 2019/1242 on CO2 standards for heavy-duty vehicles. It adds data to be reported on manufacturers, components and specialised trailers, sets reporting duties for technical services, and extends the list of data kept out of public access.",
+   "b": "The act concerns Member States, manufacturers of heavy-duty vehicles and designated technical services reporting under Articles 13a and 13b of Regulation (EU) 2019/1242, as well as the Commission and the European Environment Agency. Member States must also report the name and world manufacturer identifier (WMI) of the complete or completed vehicle manufacturer for category M vehicles. Part B of Annex IV gets a new \"Additional information\" table with explanatory notes. It adds parameters on the names and makes of engine, electric machine/IEPC/IHPC, fuel cell and energy storage manufacturers, and on specialised trailers (refrigeration engine, K coefficient, moving floor, body height above 3.5 m, second floor, rail-road and ferry-road certification, ADR certificate number), plus an optional field for other vehicle technologies. In Annex V, manufacturers must also notify their WMI codes and vehicle categories. Designated technical services responsible for CO2 determination for trailers of categories O3 and O4 must notify their details and the manufacturers they act for, and their contact point must transmit the data to the European Environment Agency. The list of parameters not made publicly available in point 3.2 of Annex V is extended. Corrections are made to the introduction of Part C of Annex IV (CdxA ranges) and to points 1.1, 2.1 and 2.2 of Annex V (notification wording and addresses). The regulation was adopted on 12 June 2026, published on 21 August 2026 and enters into force on the twentieth day after publication.",
+   "nl": [
+    "CO2-verordening zware bedrijfsvoertuigen: nieuwe rapportagegegevens en taken voor technische diensten bij aanhangwagens",
+    "Gedelegeerde Verordening (EU) 2026/1282 wijzigt en rectificeert de bijlagen IV en V bij Verordening (EU) 2019/1242 over CO2-normen voor zware bedrijfsvoertuigen. Ze voegt te rapporteren gegevens toe over fabrikanten, componenten en gespecialiseerde aanhangwagens, legt rapportageplichten op aan technische diensten en breidt de lijst van niet-openbare gegevens uit.",
+    "De handeling betreft lidstaten, fabrikanten van zware bedrijfsvoertuigen en aangewezen technische diensten die rapporteren op grond van de artikelen 13bis en 13ter van Verordening (EU) 2019/1242, alsook de Commissie en het Europees Milieuagentschap. Lidstaten moeten voor voertuigen van categorie M ook de naam en de wereldwijde fabrikantenidentificatiecode (WMI) van de fabrikant van het complete of voltooide voertuig rapporteren. Deel B van bijlage IV krijgt een nieuwe tabel \"Aanvullende informatie\" met toelichtingen. Daarin komen parameters bij over de namen en merken van de fabrikanten van motor, elektrische machine/IEPC/IHPC, brandstofcel en elektrische energieopslag, en over gespecialiseerde aanhangwagens (verbrandingsmotor voor koelunit, K-coëfficiënt, bewegende vloer, carrosseriehoogte van meer dan 3,5 m, tweede vloer, certificering voor gecombineerd spoor-wegvervoer en veerboot-wegvervoer, nummer van het ADR-goedkeuringscertificaat), plus een optioneel veld voor andere voertuigtechnologieën. In bijlage V moeten fabrikanten ook hun WMI-codes en voertuigcategorieën melden. Aangewezen technische diensten die verantwoordelijk zijn voor de bepaling van de CO2-emissies van aanhangwagens van de categorieën O3 en O4 moeten hun gegevens en de fabrikanten voor wie zij optreden melden, en hun contactpunt moet de gegevens aan het Europees Milieuagentschap doorgeven. De lijst van parameters die niet openbaar worden gemaakt in punt 3.2 van bijlage V wordt uitgebreid. Er worden rectificaties aangebracht in de inleiding van deel C van bijlage IV (CdxA-klassen) en in de punten 1.1, 2.1 en 2.2 van bijlage V (formulering en adressen voor kennisgevingen). De verordening is vastgesteld op 12 juni 2026, bekendgemaakt op 21 augustus 2026 en treedt in werking op de twintigste dag na bekendmaking."
+   ],
+   "fr": [
+    "Règlement CO2 poids lourds : nouvelles données à communiquer et obligations des services techniques pour les remorques",
+    "Le règlement délégué (UE) 2026/1282 modifie et rectifie les annexes IV et V du règlement (UE) 2019/1242 sur les normes de CO2 des véhicules lourds. Il ajoute des données à communiquer sur les constructeurs, les composants et les remorques spécialisées, fixe des obligations de déclaration aux services techniques et étend la liste des données non publiques.",
+    "L'acte concerne les États membres, les constructeurs de véhicules lourds et les services techniques désignés qui déclarent au titre des articles 13 bis et 13 ter du règlement (UE) 2019/1242, ainsi que la Commission et l'Agence européenne pour l'environnement. Les États membres doivent aussi communiquer, pour les véhicules de catégorie M, le nom et l'identifiant mondial du constructeur (WMI) du constructeur du véhicule complet ou complété. La partie B de l'annexe IV comporte un nouveau tableau « Informations complémentaires » assorti de notes explicatives. Il y ajoute des paramètres sur les noms et marques des fabricants du moteur, de la machine électrique/IEPC/IHPC, de la pile à combustible et du système de stockage d'énergie électrique, ainsi que sur les remorques spécialisées (moteur à combustion du groupe frigorifique, coefficient K, plancher mobile, hauteur de caisse supérieure à 3,5 m, second plancher, certification pour le transport combiné rail-route et ferry-route, numéro du certificat d'agrément ADR), plus un champ facultatif pour d'autres technologies de véhicules. À l'annexe V, les constructeurs doivent aussi notifier leurs codes WMI et les catégories de véhicules. Les services techniques désignés responsables de la détermination des émissions de CO2 des remorques des catégories O3 et O4 doivent notifier leurs coordonnées et les constructeurs pour lesquels ils agissent, et leur point de contact doit transmettre les données à l'Agence européenne pour l'environnement. La liste des paramètres non rendus publics au point 3.2 de l'annexe V est étendue. Des rectifications portent sur l'introduction de la partie C de l'annexe IV (fourchettes de CdxA) et sur les points 1.1, 2.1 et 2.2 de l'annexe V (libellé et adresses de notification). Le règlement a été adopté le 12 juin 2026, publié le 21 août 2026 et entre en vigueur le vingtième jour suivant sa publication."
+   ],
+   "scope": "Commission Delegated Regulation (EU) 2026/1282: Annexes IV and V to Regulation (EU) 2019/1242 (CO2 standards for heavy-duty vehicles) – monitoring, reporting and publication of data",
+   "dates": {
+    "adopted": "2026-06-12",
+    "published": "2026-08-21",
+    "in_force": "2026-09-10"
+   },
+   "u": [
+    [
+     "Commission Delegated Regulation (EU) 2026/1282 of 12 June 2026 amending and correcting Annexes IV and V to Regulation (EU) 2019/1242 of the ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1282"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R1282"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-codex-1042107",
+   "d": "2026-06-12",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "energy-climate"
+   ],
+   "h": "Flanders replaces the EPC templates for residential and small non-residential buildings from 1 July 2026",
+   "a": "A Flemish ministerial decree replaces the annexes setting the form and content of the energy performance certificate (EPC) for residential buildings and for small non-residential buildings. It enters into force on 1 July 2026.",
+   "b": "The decree amends the Ministerial Decree of 28 December 2018 on general provisions on energy performance regulations, EPCs, contractor and installer certification and the renovation obligation. It affects certified energy assessors and anyone who has an EPC issued for a residential building or a small non-residential building in Flanders. Annex 25, on the form and content of the residential EPC, is replaced by a new annex 1 attached to the decree. Annex 26/2, on the form and content of the EPC for small non-residential buildings, is replaced by a new annex 2. The contents of the new annexes are not reproduced in the decree text itself, which only refers to them. The decree was signed on 12 June 2026, published on 24 June 2026 and enters into force on 1 July 2026. The text does not state any transitional rules.",
+   "nl": [
+    "Vlaanderen vervangt de EPC-modellen voor residentiële en kleine niet-residentiële gebouwen vanaf 1 juli 2026",
+    "Een Vlaams ministerieel besluit vervangt de bijlagen over de vorm en inhoud van het energieprestatiecertificaat (EPC) voor residentiële gebouwen en voor kleine niet-residentiële gebouwen. Het treedt in werking op 1 juli 2026.",
+    "Het besluit wijzigt het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten, de certificering van aannemers en installateurs en de renovatieverplichting. Het treft energiedeskundigen en iedereen die in Vlaanderen een EPC laat opmaken voor een residentieel gebouw of een klein niet-residentieel gebouw. Bijlage 25, over de vorm en inhoud van het EPC residentiële gebouwen, wordt vervangen door een nieuwe bijlage 1 bij het besluit. Bijlage 26/2, over de vorm en inhoud van het EPC kleine niet-residentiële gebouwen, wordt vervangen door een nieuwe bijlage 2. De inhoud van de nieuwe bijlagen wordt in de besluittekst zelf niet weergegeven; die verwijst er enkel naar. Het besluit is ondertekend op 12 juni 2026, gepubliceerd op 24 juni 2026 en treedt in werking op 1 juli 2026. De tekst vermeldt geen overgangsregeling."
+   ],
+   "fr": [
+    "La Flandre remplace les modèles de PEB pour les bâtiments résidentiels et petits non résidentiels dès le 1er juillet 2026",
+    "Un arrêté ministériel flamand remplace les annexes relatives à la forme et au contenu du certificat de performance énergétique (CPE) pour les bâtiments résidentiels et pour les petits bâtiments non résidentiels. Il entre en vigueur le 1er juillet 2026.",
+    "L'arrêté modifie l'arrêté ministériel du 28 décembre 2018 contenant des dispositions générales relatives à la réglementation de la performance énergétique, aux certificats de performance énergétique, à la certification des entrepreneurs et installateurs et à l'obligation de rénovation. Il concerne les experts énergétiques et toute personne qui fait établir en Flandre un certificat de performance énergétique pour un bâtiment résidentiel ou un petit bâtiment non résidentiel. L'annexe 25, relative à la forme et au contenu du CPE des bâtiments résidentiels, est remplacée par une nouvelle annexe 1 jointe à l'arrêté. L'annexe 26/2, relative à la forme et au contenu du CPE des petits bâtiments non résidentiels, est remplacée par une nouvelle annexe 2. Le contenu des nouvelles annexes n'est pas reproduit dans le texte de l'arrêté, qui s'y réfère seulement. L'arrêté a été signé le 12 juin 2026, publié le 24 juin 2026 et entre en vigueur le 1er juillet 2026. Le texte ne prévoit pas de régime transitoire."
+   ],
+   "scope": "Ministerieel besluit van 28 december 2018 (energieprestatieregelgeving): vervanging van bijlage 25 (EPC residentieel) en bijlage 26/2 (EPC klein niet-residentieel)",
+   "dates": {
+    "adopted": "2026-06-12",
+    "published": "2026-06-24",
+    "in_force": "2026-07-01"
+   },
+   "u": [
+    [
+     "Ministerieel besluit tot wijziging van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatie",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042107&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042107"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-wallex-138038",
+   "d": "2026-06-11",
+   "j": [
+    "WAL"
+   ],
+   "t": "law",
+   "s": "In force",
+   "k": [
+    "permitting"
+   ],
+   "h": "Wallonia sets new procedures for biological research notifications and species-protection derogations from 1 July 2026",
+   "a": "A Walloon Government decree lays down the procedures for notifying research, teaching, monitoring and inventory operations involving protected species, and for derogations from species and nature reserve protection. It repeals the 2003 derogation decree and part of the 2003 bird decree.",
+   "b": "The decree concerns researchers, institutions, project developers, applicants for derogations and the Nature and Forests Department (DNF). Operations under the Nature Conservation Act of 12 July 1973 (art. 2septies and art. 3, §3, 3° and §4) must be notified to the DNEV director at least 30 days beforehand. The director has 30 days to report a risk or the absence of one. If there is no risk, or no reply, the operation may start on day 31. If a risk is found, conditions apply or the derogation regime does. A notification is valid for at most five years, and a report is due within 30 days after expiry, or after each 12-month period for multi-year notifications. Derogation applications go to the Inspecteur général, who rules within 90 days (extendable by up to 30 days; 30 days in urgent cases), failing which the application is deemed rejected. Specific rules cover bird ringing and marking, with applications filed by the Institut des Sciences naturelles. A fast track applies to four corvid species (jackdaw, rook, carrion crow, magpie): the regional directorate decides within 15 days. A single combined application is possible for species and nature reserve derogations. The decree also sets rules on transfer and modification of authorisations, appeals to the Minister within 30 days (decision within 60 days), and personal data. Missing implementation reports lead to suspension after 30 days and withdrawal after 60 days following a reminder, and block new applications. The decree repeals the Walloon Government decree of 20 November 2003 and articles 2 to 14 of the decree of 27 November 2003 on birds. Files filed before entry into force follow the earlier rules. The decree enters into force on 1 July 2026.",
+   "nl": [
+    "Wallonië voert nieuwe procedures in voor kennisgeving van biologisch onderzoek en afwijkingen op soortenbescherming vanaf 1 juli 2026",
+    "Een besluit van de Waalse Regering legt de procedures vast voor de kennisgeving van onderzoek, onderwijs, opvolging en inventarisaties met beschermde soorten, en voor afwijkingen op de bescherming van soorten en natuurreservaten. Het besluit van 2003 over afwijkingen en een deel van het vogelbesluit van 2003 worden opgeheven.",
+    "Het besluit treft onderzoekers, instellingen, projectontwikkelaars, aanvragers van afwijkingen en het Departement Natuur en Bossen (DNF). Handelingen onder de wet van 12 juli 1973 op het natuurbehoud (art. 2septies en art. 3, §3, 3° en §4) moeten minstens 30 dagen vooraf worden gemeld aan de directeur van de DNEV. De directeur heeft 30 dagen om een risico of de afwezigheid ervan mee te delen. Zonder risico, of zonder antwoord, mag de handeling starten op dag 31. Bij een risico gelden bijzondere voorwaarden of het afwijkingsstelsel. Een kennisgeving geldt maximaal vijf jaar en een verslag is verschuldigd binnen 30 dagen na het verstrijken, of na elke periode van twaalf maanden bij meerjarige kennisgevingen. Afwijkingsaanvragen gaan naar de Inspecteur-generaal, die binnen 90 dagen beslist (met maximaal 30 dagen verlengbaar; 30 dagen bij hoogdringendheid); anders wordt de aanvraag geacht afgewezen te zijn. Specifieke regels gelden voor het ringen en merken van vogels, waarbij het Instituut voor Natuurwetenschappen de aanvragen indient. Een versnelde procedure geldt voor vier kraaiachtigen (kauw, roek, zwarte kraai, ekster): de buitendirectie beslist binnen 15 dagen. Eén gecombineerde aanvraag voor soorten en natuurreservaten is mogelijk. Het besluit regelt ook overdracht en wijziging van vergunningen, beroep bij de Minister binnen 30 dagen (beslissing binnen 60 dagen) en persoonsgegevens. Ontbrekende uitvoeringsverslagen leiden na een herinnering tot schorsing na 30 dagen en intrekking na 60 dagen, en blokkeren nieuwe aanvragen. Het besluit heft het besluit van de Waalse Regering van 20 november 2003 en de artikelen 2 tot 14 van het besluit van 27 november 2003 over vogels op. Dossiers ingediend vóór de inwerkingtreding volgen de oude regels. Het besluit treedt in werking op 1 juli 2026."
+   ],
+   "fr": [
+    "La Wallonie fixe de nouvelles procédures de notification d'opérations biologiques et de dérogation aux mesures de protection des espèces dès le 1er juillet 2026",
+    "Un arrêté du Gouvernement wallon fixe les procédures de notification des opérations de recherche, d'enseignement, de suivis ou d'inventaires biologiques concernant des espèces protégées, et de dérogation aux mesures de protection des espèces et des réserves naturelles. Il abroge l'arrêté de 2003 sur les dérogations et une partie de l'arrêté de 2003 sur les oiseaux.",
+    "L'arrêté concerne les chercheurs, institutions, porteurs de projets, demandeurs de dérogations et le Département de la Nature et des Forêts (DNF). Les opérations visées par la loi du 12 juillet 1973 sur la conservation de la nature (art. 2septies et art. 3, § 3, 3°, et § 4) sont notifiées au directeur de la DNEV au plus tard trente jours avant leur début. Le directeur dispose de trente jours pour signaler l'existence ou l'absence d'un risque. En l'absence de risque, ou à défaut de réponse, l'opération peut débuter le trente-et-unième jour. En cas de risque, des conditions particulières s'appliquent ou le régime de dérogation. Une notification est valable cinq ans au maximum et un rapport est dû dans les trente jours de son expiration, ou de chaque période de douze mois pour une notification pluriannuelle. Les demandes de dérogation sont adressées à l'Inspecteur général, qui statue dans les nonante jours (prorogeables de trente jours au maximum; trente jours en cas d'urgence), à défaut de quoi la demande est réputée rejetée. Des règles spécifiques visent le baguage et le marquage des oiseaux, les demandes étant introduites par l'Institut des Sciences naturelles. Une procédure accélérée vise quatre corvidés (choucas des tours, corbeau freux, corneille noire, pie bavarde): la direction extérieure statue dans les quinze jours. Une demande unique couvrant espèces et réserves naturelles est possible. L'arrêté règle aussi la cession et la modification des autorisations, le recours auprès du ministre dans les trente jours (décision dans les soixante jours) et les données personnelles. À défaut de rapport de mise en oeuvre, l'autorisation est suspendue après trente jours et retirée après soixante jours suivant un rappel, et toute nouvelle demande est irrecevable. L'arrêté abroge l'arrêté du Gouvernement wallon du 20 novembre 2003 et les articles 2 à 14 de l'arrêté du 27 novembre 2003 relatif aux oiseaux. Les dossiers introduits avant l'entrée en vigueur suivent les règles antérieures. L'arrêté entre en vigueur le 1er juillet 2026."
+   ],
+   "scope": "Arrêté du Gouvernement wallon du 11 juin 2026 relatif aux procédures de notification d'opérations biologiques et de dérogation (loi du 12 juillet 1973 sur la conservation de la nature, art. 2septies, 3, 5, 5bis, 41; abrogation AGW du 20 novembre 2003 et art. 2-14 AGW du 27 novembre 2003)",
+   "dates": {
+    "adopted": "2026-06-11",
+    "published": "2026-07-06",
+    "in_force": "2026-07-01"
+   },
+   "u": [
+    [
+     "Arrêté du Gouvernement wallon relatif aux procédures de notification d'opérations de recherche, d'enseignement, de suivis ou d'inventaires b",
+     "https://wallex.wallonie.be/eli/arrete/2026/06/11/2026004996/2026/07/01"
+    ]
+   ],
+   "inbox": [
+    "wallex:138038"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0875",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb annuls Dendermonde permit for Oude Vest: municipality could not decide on its own screening-liable project",
+   "a": "The Council for Permit Disputes annulled the implied decision of the Deputation and set aside the environmental permit granted by the Dendermonde municipal executive for redeveloping the Oude Vest. Where a municipality is applicant for a screening-liable project, the Deputation was competent in first instance, not the municipal executive.",
+   "b": "The ruling concerns environmental permits for projects where a municipality is both applicant and initiator and the project is subject to a project-EIA screening note (Annex III of the Project-MER decree). The Council holds that Article 9bis of the EIA Directive has direct effect and that the Flemish Region transposed it incompletely in the former Article 15/1 of the Omgevingsvergunningsdecreet. The required 'appropriate separation' is not achieved when the municipal environmental officer decides whether such a project needs an EIA. The permit application of the City of Dendermonde therefore had to be lodged with the Deputation of East Flanders in first administrative instance, and the Deputation could not lawfully deal with the administrative appeal against the municipal executive's decision. The Council annulled the implied rejection and, using its limited power of substitution, repealed the permit of 19 September 2022 for the redevelopment of the Oude Vest. It rejected the objection that the applicants had lost their interest because of a new, identical permit that is itself contested, and did not examine the other pleas. Costs of 1,000 euro (rolrecht) and a 840 euro procedural indemnity fall on the Deputation; the ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb vernietigt vergunning Oude Vest Dendermonde: stad kon niet zelf beslissen over eigen screeningsplichtig project",
+    "De Raad voor Vergunningsbetwistingen vernietigt de stilzwijgende beslissing van de deputatie en heft de omgevingsvergunning op die het college van burgemeester en schepenen van Dendermonde verleende voor de herinrichting van de Oude Vest. Als een gemeente aanvrager is van een screeningsplichtig project, was de deputatie in eerste aanleg bevoegd en niet het college.",
+    "Het arrest betreft omgevingsvergunningen voor projecten waarbij een gemeente zowel aanvrager als initiatiefnemer is en waarvoor een project-m.e.r.-screeningsnota geldt (bijlage III bij het Project-MER-besluit). De Raad oordeelt dat artikel 9bis van de Project-MER-richtlijn rechtstreekse werking heeft en dat het Vlaamse Gewest dit onvolledig heeft omgezet in het toenmalige artikel 15/1 van het Omgevingsvergunningsdecreet. De vereiste 'passende scheiding' wordt niet bereikt wanneer de gemeentelijke omgevingsambtenaar beslist of voor een dergelijk project een milieueffectrapport nodig is. De aanvraag van de stad Dendermonde had dus bij de deputatie van Oost-Vlaanderen moeten worden ingediend in eerste bestuurlijke aanleg, en de deputatie kon het bestuurlijk beroep tegen de beslissing van het college niet wettig behandelen. De Raad vernietigt de stilzwijgende afwijzing en heft, via zijn beperkte indeplaatsstellingsbevoegdheid, de vergunning van 19 september 2022 voor de herinrichting van de Oude Vest op. Hij verwerpt de exceptie dat de verzoekers hun belang verloren door een nieuwe, identieke vergunning die zelf wordt bestreden, en onderzoekt de overige middelen niet. De kosten (rolrecht 1.000 euro en rechtsplegingsvergoeding 840 euro) komen ten laste van de deputatie; het arrest werd uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "Le CCA annule le permis de l'Oude Vest à Termonde : la ville ne pouvait statuer sur son propre projet soumis à screening",
+    "Le Conseil pour les contestations des autorisations annule la décision implicite de la députation et abroge le permis d'environnement délivré par le collège des bourgmestre et échevins de Termonde pour le réaménagement de l'Oude Vest. Lorsqu'une commune est demandeuse d'un projet soumis à screening, la députation était compétente en première instance, et non le collège.",
+    "L'arrêt concerne les permis d'environnement pour des projets dont la commune est à la fois demandeuse et initiatrice et qui sont soumis à une note de screening (annexe III de l'arrêté Project-MER). Le Conseil juge que l'article 9bis de la directive EIE a un effet direct et que la Région flamande l'a transposé de manière incomplète dans l'ancien article 15/1 du décret sur le permis d'environnement (Omgevingsvergunningsdecreet). La « séparation appropriée » requise n'est pas réalisée lorsque le fonctionnaire communal de l'environnement décide si un tel projet doit faire l'objet d'un rapport d'incidences. La demande de la ville de Termonde devait donc être introduite auprès de la députation de Flandre orientale en première instance administrative, et la députation ne pouvait légalement connaître du recours administratif contre la décision du collège. Le Conseil annule le rejet implicite et, dans le cadre de son pouvoir limité de substitution, abroge le permis du 19 septembre 2022 pour le réaménagement de l'Oude Vest. Il rejette l'exception de perte d'intérêt tirée d'un nouveau permis identique, lui-même contesté, et n'examine pas les autres moyens. Les dépens (droit de rôle de 1.000 euros et indemnité de procédure de 840 euros) sont à charge de la députation ; l'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "Arrest RvVb RVVB.2526.0875 – artikel 15/1 Omgevingsvergunningsdecreet, artikel 9bis Project-MER-richtlijn 2011/92/EU, artikel 4.3.2 DABM",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0875.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0875.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0875"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-23"
+  },
+  {
+   "id": "d-rvvb-rvvb-2526-0872",
+   "d": "2026-06-11",
+   "j": [
+    "VL"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "RvVb upholds permit refusal for Sint-Gillis-Waas housing project on good spatial planning grounds",
+   "a": "The Council for Permit Disputes dismissed a developer's appeal against the refusal of an environmental permit for an eight-unit apartment block and six houses in Sint-Gillis-Waas. Incompatibility with good spatial planning was a sufficient ground on its own, so criticism of the mobility assessment could not lead to annulment.",
+   "b": "The ruling concerns a developer whose application covered an apartment block with eight units, six new houses, conversion of a listed heritage building, underground parking and classified activities (dewatering, geothermal drilling, heat pumps). The municipal executive granted the permit, but on administrative appeal by neighbours the permit was refused on 12 June 2025. The Council confirms that the appeal authority has wide discretion on good spatial planning (art. 4.3.1 §2 VCRO) and that its own review is limited to correct facts and manifest unreasonableness. It accepts the refusal on scale, density, style, overlooking and insufficient building-free distances in a rural village core. A favourable heritage advice does not mean the project meets good spatial planning, and heritage values weigh little for a newly built block. Incompatibility with good spatial planning is a determining refusal ground in itself (art. 4.3.1 §1, 1°, d VCRO), so the criticism of the parking and shared-car assessment could not affect the decision even if founded. The Council also held that an intervening party's statement counts only where it answers the pleas, and refused mediation because art. 42 §1 DBRC Decree requires the express consent of all parties. The appeal is dismissed, the court fee of 200 euro is borne by the applicant and the intervention costs of 500 euro by the intervening parties. The ruling was delivered on 11 June 2026.",
+   "nl": [
+    "RvVb bevestigt weigering omgevingsvergunning voor woonproject in Sint-Gillis-Waas wegens goede ruimtelijke ordening",
+    "De Raad voor Vergunningsbetwistingen verwerpt het beroep van een ontwikkelaar tegen de weigering van een omgevingsvergunning voor een appartementsgebouw met acht woongelegenheden en zes eengezinswoningen in Sint-Gillis-Waas. De onverenigbaarheid met de goede ruimtelijke ordening volstond op zich, zodat kritiek op de mobiliteitstoets niet tot vernietiging kon leiden.",
+    "Het arrest betreft een ontwikkelaar die een vergunning aanvroeg voor een appartementsgebouw met acht woongelegenheden, zes nieuwe eengezinswoningen, de verbouwing van een erfgoedpand, een ondergrondse parking en ingedeelde activiteiten (bronbemaling, geothermische boringen, warmtepompen). Het college van burgemeester en schepenen verleende de vergunning, maar na bestuurlijk beroep van omwonenden werd ze op 12 juni 2025 geweigerd. De Raad bevestigt dat de beroepsinstantie een ruime beoordelingsbevoegdheid heeft inzake de goede ruimtelijke ordening (artikel 4.3.1, §2 VCRO) en dat zijn eigen toezicht beperkt blijft tot de juistheid van de feiten en de kennelijke onredelijkheid. Hij aanvaardt de weigering op grond van schaal, dichtheid, vormgeving, inkijk en ontoereikende bouwvrije afstanden in een landelijke dorpskern. Een gunstig erfgoedadvies betekent niet dat het project aan de goede ruimtelijke ordening voldoet, en erfgoedwaarden wegen weinig door voor een nieuw opgericht gebouw. De onverenigbaarheid met de goede ruimtelijke ordening is op zich een determinerend weigeringsmotief (artikel 4.3.1, §1, 1°, d VCRO), zodat de kritiek op de beoordeling van parkeren en deelwagen, zelfs indien gegrond, de beslissing niet kon aantasten. De Raad oordeelt ook dat de uiteenzetting van een tussenkomende partij enkel telt voor zover ze antwoordt op de middelen, en weigert bemiddeling omdat artikel 42, §1 DBRC-decreet de uitdrukkelijke instemming van alle partijen vereist. Het beroep wordt verworpen; het rolrecht van 200 euro valt ten laste van de verzoekende partij en de tussenkomstkosten van 500 euro blijven ten laste van de tussenkomende partijen. Het arrest is uitgesproken op 11 juni 2026."
+   ],
+   "fr": [
+    "Le CCA confirme le refus de permis d'environnement pour un projet résidentiel à Sint-Gillis-Waas (bon aménagement du territoire)",
+    "Le Conseil pour les contestations des autorisations rejette le recours d'un promoteur contre le refus d'un permis d'environnement pour un immeuble de huit logements et six maisons unifamiliales à Sint-Gillis-Waas. L'incompatibilité avec le bon aménagement du territoire suffisait à elle seule, de sorte que la critique de l'évaluation de la mobilité ne pouvait entraîner l'annulation.",
+    "L'arrêt concerne un promoteur qui demandait un permis pour un immeuble à appartements de huit logements, six nouvelles maisons unifamiliales, la transformation d'un bien patrimonial, un parking souterrain et des activités classées (pompage de nappe, forages géothermiques, pompes à chaleur). Le collège des bourgmestre et échevins a délivré le permis, mais, sur recours administratif de riverains, il a été refusé le 12 juin 2025. Le Conseil confirme que l'autorité de recours dispose d'un large pouvoir d'appréciation en matière de bon aménagement du territoire (article 4.3.1, §2 VCRO) et que son propre contrôle se limite à l'exactitude des faits et au caractère manifestement déraisonnable. Il admet le refus fondé sur l'échelle, la densité, l'architecture, les vues plongeantes et des distances libres de construction insuffisantes dans un noyau villageois rural. Un avis favorable en matière de patrimoine n'implique pas que le projet respecte le bon aménagement du territoire, et les valeurs patrimoniales pèsent peu pour un bâtiment nouvellement construit. L'incompatibilité avec le bon aménagement du territoire est en soi un motif de refus déterminant (article 4.3.1, §1, 1°, d VCRO), de sorte que la critique de l'évaluation du stationnement et de la voiture partagée, même fondée, ne pouvait affecter la décision. Le Conseil juge aussi que le mémoire d'une partie intervenante n'est pris en compte que dans la mesure où il répond aux moyens, et refuse la médiation, l'article 42, §1 du décret DBRC exigeant l'accord exprès de toutes les parties. Le recours est rejeté ; le droit de rôle de 200 euros reste à charge de la partie requérante et les frais d'intervention de 500 euros à charge des parties intervenantes. L'arrêt a été prononcé le 11 juin 2026."
+   ],
+   "scope": "Arrest RvVb.2526.0872 – artikel 4.3.1 VCRO, artikel 48, §1 Omgevingsvergunningsbesluit, artikelen 2 en 3 Motiveringswet, artikel 42, §1 DBRC-decreet",
+   "dates": {
+    "adopted": "2026-06-11"
+   },
+   "u": [
+    [
+     "Raad voor Vergunningsbetwistingen, arrest RVVB.2526.0872.",
+     "https://www.dbrc.be/sites/default/files/2026-07/RVVB.2526.0872.pdf"
+    ]
+   ],
+   "inbox": [
+    "rvvb:RVVB.2526.0872"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-23"
