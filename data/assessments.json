@@ -21117,7 +21117,8 @@
 ],
 "reason": "CJEU ruling on Habitats and Birds Directives appropriate assessment for projects; interprets nature rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62025cj0027-res"
 },
 "eu:62025CJ0027": {
 "v": 4,
@@ -21129,7 +21130,8 @@
 ],
 "reason": "CJEU ruling on Habitats and Birds Directives appropriate assessment for projects; interprets nature rules.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-eu-62025cj0027"
 },
 "eu:62025CJ0026": {
 "v": 4,
@@ -22052,7 +22054,9 @@
 ],
 "reason": "Flemish appointment of environmental supervisors and enforcement officers; title vague.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Staff appointment list for supervisors and enforcement officers under the Shipping Decree; it creates no new or clarified environmental obligations."
 },
 "eu:52026PC0379": {
 "v": 4,
@@ -58176,7 +58180,8 @@
 "reason": "Annuls permit: planning-compliance test must be done on the correct reading of RUP garden-zone rules (min. 50cm teelaarde, depth); 4.4.1 VCRO exceptions read restrictively; burden on respondent to sho",
 "confidence": "medium",
 "at": "2026-11-23",
-"write_error": "Expecting value: line 10 column 1 (char 4003)"
+"write_error": "Expecting value: line 10 column 1 (char 4003)",
+"written": "d-rvvb-rvvb-2526-1006"
 },
 "rvvb:RVVB.2526.1005": {
 "v": 4,
@@ -58542,7 +58547,8 @@
 ],
 "reason": "Clarifies Art. 64 OVD limits on amended permit applications without new public inquiry, and Art. 4.3.5 VCRO road access with private access roads and civil-right disputes.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0968"
 },
 "rvvb:RVVB.2526.0967": {
 "v": 4,
@@ -58568,7 +58574,8 @@
 ],
 "reason": "Interprets Bosdecreet art. 90bis: ANB's adjusted compensation proposal becomes the permit condition; forest compensation attaches to the regularised clearing, not solitary trees, not in residential ar",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0966"
 },
 "rvvb:RVVB.2526.0965": {
 "v": 4,
@@ -58580,7 +58587,8 @@
 ],
 "reason": "Holds that the metsershaar tolerance cannot relax the 90% 'hoofdzakelijk vergund' test for zonevreemde basisrechten, which is assessed at the first application, and that only motivation in the decisio",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0965"
 },
 "rvvb:RVVB.2526.0964": {
 "v": 4,
@@ -58593,7 +58601,8 @@
 ],
 "reason": "States that the watertoets reasoning duty is at least as strict as the Motiveringswet, so arts 2-3 do not apply; defines screening-note content requirements for project-MER.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0964"
 },
 "rvvb:RVVB.2526.0961": {
 "v": 4,
@@ -58606,7 +58615,8 @@
 ],
 "reason": "Annulment of the digital watercourse atlas has retroactive effect, so permit authorities cannot rely on it to set aside a binding negative water-manager advice under art. 4.3.3 VCRO.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0961"
 },
 "rvvb:RVVB.2526.0960": {
 "v": 4,
@@ -58618,7 +58628,8 @@
 ],
 "reason": "Non-binding guidelines (Vademecum Fietsvoorzieningen) may not be applied as quasi-regulatory refusal grounds without stating the concrete good-spatial-planning aspect; replies must be considered.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0960"
 },
 "rvvb:RVVB.2526.0959": {
 "v": 4,
@@ -58630,7 +58641,8 @@
 ],
 "reason": "Interprets art. 7 §2 Omgevingsvergunningsdecreet: inseparably linked project elements, including an air-conditioning unit's possible notification duty, must be bundled in one application, not fragment",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0959"
 },
 "rvvb:RVVB.2526.0958": {
 "v": 4,
@@ -58643,7 +58655,8 @@
 ],
 "reason": "Material motivation duty applies to tacit permit refusals; reasons may come from the administrative file; formal motivation act does not apply to tacit decisions.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0958"
 },
 "rvvb:RVVB.2526.0957": {
 "v": 4,
@@ -58655,7 +58668,8 @@
 ],
 "reason": "Applies art. 11 Besluit Zonevreemde Functiewijzigingen: a farm dwelling detached from an active farm and residentially used can be treated as a permissible zoning-exception function change; the Counci",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0957"
 },
 "rvvb:RVVB.2526.0956": {
 "v": 4,
@@ -58667,7 +58681,9 @@
 ],
 "reason": "A PRUP afbakeningslijn contains no binding density rules, and plan-MER density targets are not binding; neighbours must concretise their hindrance.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal rejected; the ruling applies settled case law to one housing permit and decides no new point of law or rule interpretation."
 },
 "rvvb:RVVB.2526.0955": {
 "v": 4,
@@ -67013,15 +67029,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 8,
-"found_not_relevant_on_reading": 5,
-"failed": 1,
-"waiting": 682,
+"this_run": 12,
+"found_not_relevant_on_reading": 2,
+"failed": 0,
+"waiting": 668,
 "api": {
 "calls": 14,
-"input_tokens": 195716,
-"output_tokens": 33681,
-"usd": 0.7282
+"input_tokens": 229383,
+"output_tokens": 42721,
+"usd": 0.886
 },
 "updated": "2026-11-23"
 },
