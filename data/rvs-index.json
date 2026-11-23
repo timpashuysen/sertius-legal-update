@@ -4872,15 +4872,15 @@
 "pattern": 0,
 "last_hit": 266201,
 "caught_up": false,
-"last_error": "",
+"last_error": "HTTP 503 at 266202",
 "summary": {
 "next": 266202,
 "read": 842,
 "kept": 695,
 "caught_up": false,
-"blocked": false,
-"last_error": "",
-"updated": "2026-11-23T03:55:30Z"
+"blocked": true,
+"last_error": "HTTP 503 at 266202",
+"updated": "2026-11-23T21:10:42Z"
 },
 "blocked": false
 }
