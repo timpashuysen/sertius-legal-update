@@ -27992,7 +27992,8 @@
 ],
 "reason": "Interprets EU wildlife trade Regulation 338/97 on specimens and import permits for protected species.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0601-sum"
 },
 "eu:62024CJ0601": {
 "v": 2,
@@ -28003,7 +28004,8 @@
 ],
 "reason": "Same ruling on Regulation 338/97 wildlife trade rules for protected seahorse specimens.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-62024cj0601"
 },
 "eu:62024CJ0386_RES": {
 "v": 2,
@@ -28068,7 +28070,8 @@
 ],
 "reason": "Construction products assessment and verification rules include dangerous substance and environmental aspects.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1310"
 },
 "eu:32026R1306": {
 "v": 2,
@@ -28376,7 +28379,8 @@
 ],
 "reason": "Changes procedural indemnity amounts in Flemish permit dispute court; access to justice.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-codex-1042112"
 },
 "codex:1042110": {
 "v": 2,
@@ -28414,7 +28418,8 @@
 ],
 "reason": "Amends PIC Regulation 649/2012 on export and import of dangerous chemicals.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026r1278"
 },
 "eu:32026R1220": {
 "v": 2,
@@ -28506,7 +28511,8 @@
 ],
 "reason": "Implementing rules under the ambient air quality directive for modelling and sampling points.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "d-eu-32026d1208"
 },
 "eu:32026D1205": {
 "v": 2,
@@ -28560,7 +28566,9 @@
 "topics": [],
 "reason": "Cassation ruling with no subject visible; needs a check of its content.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Extradition ruling on temporary protection for Ukrainians; no environmental obligations for companies, project developers or authorities."
 },
 "eu:32026R1317": {
 "v": 2,
@@ -28733,7 +28741,9 @@
 ],
 "reason": "Changes national allocation tables under the EU emissions trading scheme.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Only changes free allocation tables for installations in Germany, Slovenia and Finland for 2013-2020; no Belgian installations or obligations affected."
 },
 "codex:1042338": {
 "v": 2,
@@ -28798,7 +28808,9 @@
 ],
 "reason": "Housing ministerial decisions; title too vague, may include building or energy rules.",
 "confidence": "low",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Concerns Flemish social housing subsidy calculations and rent energy correction; no environmental obligations are changed or clarified."
 },
 "cass:C.23.0459.F": {
 "v": 2,
@@ -28891,7 +28903,8 @@
 ],
 "reason": "Amends Flemish waste materials rules and environmental enforcement decree.",
 "confidence": "high",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"write_error": "Unterminated string starting at: line 9 column 1 (char 2889)"
 },
 "codex:1042165": {
 "v": 2,
@@ -28974,7 +28987,9 @@
 ],
 "reason": "Digitalising enforcement of various Flemish rules, likely including environmental law.",
 "confidence": "medium",
-"at": "2026-11-22"
+"at": "2026-11-22",
+"written": "no",
+"second_look": "Extends digital enforcement files to agriculture, fisheries and road traffic rules; the text states no environmental obligations."
 },
 "codex:1042078": {
 "v": 2,
@@ -58942,7 +58957,8 @@
 ],
 "reason": "Title gives no subject; permit annulment, cannot tell relevance.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0868"
 },
 "rvvb:RVVB.2526.0865": {
 "v": 2,
@@ -58962,7 +58978,8 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0864"
 },
 "rvvb:RVVB.2526.0863": {
 "v": 2,
@@ -58973,7 +58990,9 @@
 ],
 "reason": "Court ruling with no visible subject; permit case, needs checking.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural ruling sending a permit dispute to ordinary procedure; no substantive ruling or new obligation on environmental matters."
 },
 "rvvb:RVVB.2526.0862": {
 "v": 2,
@@ -64493,26 +64512,26 @@
 "relevant": 881,
 "not_relevant": 5817,
 "excluded_by_rule": 319,
-"this_run": 37,
+"this_run": 0,
 "api": {
-"calls": 2,
-"input_tokens": 8633,
-"output_tokens": 3381,
-"usd": 0.0026
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "key_present": true,
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 2,
-"failed": 0,
-"waiting": 530,
+"this_run": 8,
+"found_not_relevant_on_reading": 5,
+"failed": 1,
+"waiting": 517,
 "api": {
 "calls": 14,
-"input_tokens": 145472,
-"output_tokens": 34891,
-"usd": 0.6399
+"input_tokens": 144801,
+"output_tokens": 29809,
+"usd": 0.5877
 },
 "updated": "2026-11-23"
 }
