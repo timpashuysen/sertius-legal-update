@@ -28698,7 +28698,7 @@
 "reason": "Amends Flemish waste materials regulation and environmental enforcement rules.",
 "confidence": "high",
 "at": "2026-11-23",
-"write_error": "Unterminated string starting at: line 13 column 1 (char 5447)"
+"write_error": "Unterminated string starting at: line 14 column 5 (char 6727)"
 },
 "codex:1042165": {
 "v": 4,
@@ -31947,7 +31947,9 @@
 "topics": [],
 "reason": "Constitutional annulment appeal against a broad programme law; subject matter unclear from extract.",
 "confidence": "low",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Annulment action against unemployment-law provisions dismissed as manifestly inadmissible for lack of interest; no environmental subject matter and no point of law beyond the case."
 },
 "gwh:58/2026": {
 "v": 4,
@@ -61010,7 +61012,8 @@
 ],
 "reason": "Annuls permit for zonevreemde functiewijziging: clarifies art. 2§3 Besluit Zonevreemde Functiewijzigingen 'bouwfysisch geschikt' test (all works needed for the new function count) and Vrijstellingenbe",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0804"
 },
 "rvvb:RVVB.2526.0802": {
 "v": 4,
@@ -61022,7 +61025,9 @@
 ],
 "reason": "Restates the standing test for third-party appeals against omgevingsvergunning: concrete harm and a causal link to the permit, applied without undue formalism under Aarhus Art. 9(3).",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Interim ruling reopening debates on one applicant's standing in a subdivision permit case; restates settled standing rules and decides no wider point of law."
 },
 "rvvb:RVVB.2526.0801": {
 "v": 4,
@@ -61045,7 +61050,8 @@
 ],
 "reason": "Res judicata of an annulment arrest does not extend to its reasons rejecting pleas; a repeated plea needs concrete reasons why the earlier assessment was wrong. Also covers MER-screening cumulative ef",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0800"
 },
 "rvvb:RVVB.2526.0799": {
 "v": 4,
@@ -61057,7 +61063,8 @@
 ],
 "reason": "Annuls a permit for incomplete plans: demolition of paving must appear on the site plan under Normenboek 1.2.2, and exempt works must still be assessed when included in the application.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0799"
 },
 "rvvb:RVVB.2526.0795": {
 "v": 4,
@@ -61069,7 +61076,8 @@
 ],
 "reason": "Annuls a permit: the zoning test for craft/SME areas must assess the whole site's activities, and a condition depending on a future permit breaches art. 74 OMV decree.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0795"
 },
 "rvvb:RVVB.2526.0794": {
 "v": 4,
@@ -61081,7 +61089,8 @@
 ],
 "reason": "Restoration decisions after annulment need not explain departing from the annulled decision; the decision must state how it treated the provincial official's report (art. 63/1 Omgevingsvergunningsdecr",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0794"
 },
 "rvvb:RVVB.2526.0793": {
 "v": 4,
@@ -61094,7 +61103,8 @@
 ],
 "reason": "Applies Waterwetboek 5m buffer to culverted watercourses; absence of maintenance nuisance is not an exception; advice conditions must be reflected in the watertoets.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0793"
 },
 "rvvb:RVVB.2526.0792": {
 "v": 4,
@@ -61127,7 +61137,8 @@
 ],
 "reason": "Suspends a permit for tree felling; holds that the duty of care under art. 16 Natuurdecreet applies to felling of mature trees and requires the authority to assess avoidable damage, not merely compens",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0789"
 },
 "rvvb:RVVB.2526.0788": {
 "v": 4,
@@ -61149,7 +61160,9 @@
 ],
 "reason": "Restates neighbour standing (owner of adjacent plot needs only show status; burden shifts to contester) and that permit appeal pleas must name the rule and show how it is breached.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Appeal dismissed as inadmissible; applies settled standing and pleading rules to one renovation permit, no new point of law."
 },
 "rvvb:RVVB.2526.0784": {
 "v": 4,
@@ -61161,7 +61174,9 @@
 ],
 "reason": "Subdivision permits need concrete regulatory provisions under art. 4.2.15 §2 VCRO; deferring lot rules to a later building permit is not allowed, and general subdivision rules then apply.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Dismisses an appeal after reading one subdivision permit's prescriptions for lot 56; no rule is annulled and no wider point of law is decided."
 },
 "rvvb:RVVB.2526.0783": {
 "v": 4,
@@ -61174,7 +61189,8 @@
 ],
 "reason": "Annuls a permit for a zonevreemd concrete plant: permit conditions must be precise, and zonevreemde draagkracht must be assessed for the non-conforming use, not by pointing to a zone-conform neighbour",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0783"
 },
 "rvvb:RVVB.2526.0782": {
 "v": 4,
@@ -61196,7 +61212,8 @@
 ],
 "reason": "Esthetic criterion of art. 15.4.6.1 Inrichtingsbesluit still applies in landscape-valuable agricultural areas when deviating for zoning-foreign constructions under art. 4.4.18 VCRO; authority must mot",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-2526-0781"
 },
 "rvvb:RVVB.2526.0779": {
 "v": 4,
@@ -67136,15 +67153,15 @@
 "updated": "2026-11-23"
 },
 "writer": {
-"this_run": 11,
-"found_not_relevant_on_reading": 2,
+"this_run": 9,
+"found_not_relevant_on_reading": 4,
 "failed": 1,
-"waiting": 574,
+"waiting": 561,
 "api": {
 "calls": 14,
-"input_tokens": 218871,
-"output_tokens": 44930,
-"usd": 0.887
+"input_tokens": 194755,
+"output_tokens": 38014,
+"usd": 0.7697
 },
 "updated": "2026-11-23"
 },
