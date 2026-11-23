@@ -42791,7 +42791,8 @@
 ],
 "reason": "A permit's statement of reasons must concretely answer mobility and traffic-safety objections; a plan allowing the use does not dispense with that assessment.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-s-2526-0576"
 },
 "rvvb:RVVB.S.2526.0575": {
 "v": 4,
@@ -42836,7 +42837,8 @@
 ],
 "reason": "Expropriation for road works: no omgevingsvergunning needed first; expropriation decision not subject to MER; necessity-motivation standard and wide standing for expropriation appeals.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0580"
 },
 "rvvb:RVVB.A.2526.0579": {
 "v": 4,
@@ -42858,7 +42860,8 @@
 ],
 "reason": "Minor plan changes as permit conditions require the applicant's prior request; a RUP minimum density norm does not replace the good spatial planning assessment.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0578"
 },
 "rvvb:RVVB.A.2526.0577": {
 "v": 4,
@@ -42870,7 +42873,8 @@
 ],
 "reason": "Typevoorschriftenbesluit annex is non-normative; a GRUP's own text and explanatory note govern, so shelters count as excluded constructions under bouwvrij agrarisch gebied.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvvb-rvvb-a-2526-0577"
 },
 "rvvb:RVVB.A.2526.0573": {
 "v": 4,
@@ -65626,7 +65630,8 @@
 ],
 "reason": "Confirms a WORG designation under art. 5.6.8 VCRO lifts prior zoning, counts as mixed open space, and can override hard zoning for water-system protection.",
 "confidence": "high",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266012"
 },
 "rvs:266010": {
 "v": 4,
@@ -65668,7 +65673,8 @@
 ],
 "reason": "Under Art. 51 RGP, the Council stays an environmental fine appeal while a civil inscription de faux against the offence reports is pending, since those reports are essential evidence.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266002"
 },
 "rvs:266001": {
 "v": 4,
@@ -65680,7 +65686,8 @@
 ],
 "reason": "Applies art. 51 RGP: enforcement reports underlying an aircraft-noise fine are essential pieces, so the whole appeal is stayed pending a civil faux ruling.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-266001"
 },
 "rvs:266000": {
 "v": 4,
@@ -65704,7 +65711,8 @@
 ],
 "reason": "Council of State stays review of noise-enforcement fines under art. 51 RGP: contested inspection reports are essential pieces, so proceedings await the civil inscription de faux outcome.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265999"
 },
 "rvs:265998": {
 "v": 4,
@@ -65746,7 +65754,8 @@
 ],
 "reason": "Interlocutory stay: noise inspection reports underpinning an environmental fine are essential evidence, so the Council must await a civil inscription de faux ruling (art. 51 RGP).",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265995"
 },
 "rvs:265994": {
 "v": 4,
@@ -65758,7 +65767,9 @@
 ],
 "reason": "Stays an aircraft-noise fine appeal pending civil forgery proceedings on enforcement reports; holds the stay covers all grounds, a procedural point of wider use.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural stay pending civil forgery proceedings on the infringement reports; no ruling on the noise rules or the fine's legality."
 },
 "rvs:265993": {
 "v": 4,
@@ -65770,7 +65781,9 @@
 ],
 "reason": "Stays proceedings on aircraft-noise fines under art. 51 RGP because the enforcement reports are essential pieces arguées de faux; a procedural rule applied across a series of cases.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural stay pending civil forgery proceedings over inspection reports; no ruling on aircraft noise rules, and no change to environmental obligations."
 },
 "rvs:265992": {
 "v": 4,
@@ -65782,7 +65795,8 @@
 ],
 "reason": "Applies article 51 RGP: a stay pending civil inscription de faux is ordered where contested aircraft-noise enforcement reports are essential evidence in a fine challenge.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265992"
 },
 "rvs:265991": {
 "v": 4,
@@ -65794,7 +65808,8 @@
 ],
 "reason": "Stays annulment of Brussels aircraft-noise fines pending civil inscription de faux; applies art. 51 RGP to enforcement reports as essential evidence, a wider procedural point.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "d-rvs-265991"
 },
 "rvs:265990": {
 "v": 4,
@@ -65816,7 +65831,9 @@
 ],
 "reason": "Council of State stays proceedings under art. 51 RGP where Brussels Environment noise-violation reports are contested by inscription de faux, a procedural rule applicable to other enforcement files.",
 "confidence": "medium",
-"at": "2026-11-23"
+"at": "2026-11-23",
+"written": "no",
+"second_look": "Procedural stay pending civil forgery proceedings on inspection reports; the Council rules neither on the aircraft noise rules nor on the fine's legality."
 },
 "rvs:266083": {
 "v": 4,
@@ -67379,12 +67396,12 @@
 "this_run": 11,
 "found_not_relevant_on_reading": 3,
 "failed": 0,
-"waiting": 367,
+"waiting": 353,
 "api": {
 "calls": 14,
-"input_tokens": 158465,
-"output_tokens": 36005,
-"usd": 0.677
+"input_tokens": 195087,
+"output_tokens": 39084,
+"usd": 0.781
 },
 "updated": "2026-11-23"
 },
