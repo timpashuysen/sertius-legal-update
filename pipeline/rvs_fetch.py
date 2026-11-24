@@ -89,8 +89,25 @@ def main():
         return
     tdir = DATA / "text"
     tdir.mkdir(exist_ok=True)
-    errors = 0
+    errors = 0          # numbers given up on in a row; five in a row means the site itself is in trouble
+    tries = 0           # attempts at the current number
     idx["last_error"], idx["blocked"] = "", False
+    idx.setdefault("skipped", [])
+
+    def failed(n, msg):
+        # a temporary fault: try the same number three times, then set it aside and move on
+        nonlocal errors, tries
+        idx["last_error"] = "%s at %d" % (msg, n)
+        tries += 1
+        if tries < 3:
+            time.sleep(20)
+            return
+        tries = 0
+        errors += 1
+        if n not in idx["skipped"]:
+            idx["skipped"].append(n)
+        idx["next"] = n + 1
+
     while time.time() < deadline and in_window() and errors < 5:
         n = idx["next"]
         if idx["misses"] >= MISS_LIMIT:
@@ -108,16 +125,16 @@ def main():
                 idx["misses"] += 1
                 idx["next"] = n + 1
                 continue
-            errors += 1
-            idx["last_error"] = "HTTP %d at %d" % (e.code, n)
             if e.code in (403, 429):
+                idx["last_error"] = "HTTP %d at %d" % (e.code, n)
                 idx["blocked"] = True
                 break                      # refused: stop at once and leave the rest for a person to look at
+            failed(n, "HTTP %d" % e.code)
             continue
         except Exception as e:
-            errors += 1
-            idx["last_error"] = "%s at %d" % (str(e)[:80], n)
+            failed(n, str(e)[:80])
             continue
+        errors = tries = 0
         idx["next"], idx["misses"], idx["last_hit"], idx["caught_up"] = n + 1, 0, n, False
         idx["read"] += 1
         try:
@@ -132,7 +149,7 @@ def main():
             idx["kept"][str(n)] = {"d": d, "url": url, "score": score, "subject": subject(flat),
                                    "lang": "fr" if re.search(r"\bCONSEIL D'[EÉ]TAT\b", text[:600]) else "nl"}
             (tdir / ("rvs_%d.txt" % n)).write_text("SOURCE: %s\nTITLE: arrest / arrêt nr. %d van / du %s\n\n%s" % (url, n, d, excerpt(text)), "utf-8")
-    idx["summary"] = {"next": idx["next"], "read": idx["read"], "kept": len(idx["kept"]), "caught_up": bool(idx.get("caught_up")), "blocked": bool(idx.get("blocked") or errors >= 5),
+    idx["summary"] = {"next": idx["next"], "read": idx["read"], "kept": len(idx["kept"]), "caught_up": bool(idx.get("caught_up")), "blocked": bool(idx.get("blocked") or errors >= 5), "skipped": len(idx["skipped"]),
                       "last_error": idx.get("last_error", ""), "updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     INDEX.write_text(json.dumps(idx, ensure_ascii=False, indent=0), "utf-8")
     print(json.dumps(idx["summary"]))
