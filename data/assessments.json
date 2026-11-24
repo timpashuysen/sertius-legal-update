@@ -67679,25 +67679,52 @@
 "reason": "CFSP sanctions decision on terrorism; not environmental compliance.",
 "confidence": "high",
 "at": "2026-11-23"
+},
+"codex:1042511": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Advisory commission for welfare and foster care; no environmental rules.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"codex:1042510": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Intelligent transport systems framework is road traffic rules, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"codex:1042512": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cooperation agreement on treating sexual offenders; justice and health, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7044,
-"assessed": 7044,
+"in_scope": 7047,
+"assessed": 7047,
 "waiting": 0,
 "relevant": 1122,
-"not_relevant": 5596,
+"not_relevant": 5599,
 "excluded_by_rule": 326,
-"this_run": 0,
+"this_run": 3,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 1171,
+"output_tokens": 290,
+"usd": 0.0003
 },
 "key_present": true,
-"updated": "2026-11-23"
+"updated": "2026-11-24"
 },
 "writer": {
 "this_run": 0,
@@ -67710,7 +67737,7 @@
 "output_tokens": 0,
 "usd": 0.0
 },
-"updated": "2026-11-23"
+"updated": "2026-11-24"
 },
 "writer_v": 2,
 "rulings_reset": 228
