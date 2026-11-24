@@ -44,7 +44,7 @@
 "https://www.lexgo.be": {
 "checked": "2026-11-24",
 "ok": true,
-"listed": 54,
+"listed": 51,
 "matched": 0,
 "how": "feed",
 "last_ok": "2026-11-24"
@@ -52,13 +52,23 @@
 "https://www.uvcw.be": {
 "checked": "2026-11-24",
 "ok": true,
-"listed": 3357,
-"matched": 2,
+"listed": 3361,
+"matched": 3,
 "how": "feed",
 "last_ok": "2026-11-24"
 }
 },
 "articles": [
+{
+"source": "Union des Villes et Communes de Wallonie",
+"title": "Terres excavées : comment les communes wallonnes évoluent vers une gestion plus efficiente, durable et conforme",
+"url": "https://www.uvcw.be/environnement/articles/art-10490",
+"date": "Tue, 24 Nov 2026 11:10:47 GMT",
+"seen": "2026-11-24",
+"k": [
+"soil"
+]
+},
 {
 "source": "Union des Villes et Communes de Wallonie",
 "title": "Avant-projet de décret-programme – Coût-vérité et déchets sauvages : l et apos;avis de l et apos;UVCW",

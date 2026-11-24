@@ -67726,22 +67726,139 @@
 "reason": "UK-EU Partnership Council decision on energy cooperation; title too truncated to confirm scope.",
 "confidence": "low",
 "at": "2026-11-24"
+},
+"eu:32026R2614": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Provisional safeguard on vehicle imports; trade measure, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2633": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Diplomatic academy funding; foreign policy, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2621": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Sanctions over Türkiye's drilling; foreign policy measure, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2619": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Support for OPCW chemical weapons work; arms control, not chemicals regulation.",
+"confidence": "medium",
+"at": "2026-11-24"
+},
+"eu:32026D2615": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Support for CTBTO nuclear-test monitoring; arms control, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2607": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council internal rules of procedure; institutional, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2600": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Military training mission in Mozambique; defence, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026R2624": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Poultry and meat import entries for avian influenza; animal health and food rules.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026D2581": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Extension of one biocidal active substance approval; individual authorisation.",
+"confidence": "medium",
+"at": "2026-11-24"
+},
+"eu:32026D2576": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Non-approval of one biocidal active substance; individual substance decision.",
+"confidence": "medium",
+"at": "2026-11-24"
+},
+"eu:32026D06168": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Replacement of a foundation board member; administrative, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"cass:C.25.0174.F": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Hospital liability for patient rights; civil and health law, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:32026R2594": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Union authorisation for one biocidal product family; individual product authorisation.",
+"confidence": "medium",
+"at": "2026-11-24"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7049,
-"assessed": 7049,
+"in_scope": 7062,
+"assessed": 7062,
 "waiting": 0,
 "relevant": 1123,
-"not_relevant": 5600,
+"not_relevant": 5613,
 "excluded_by_rule": 326,
-"this_run": 2,
+"this_run": 13,
 "api": {
 "calls": 1,
-"input_tokens": 1181,
-"output_tokens": 482,
-"usd": 0.0004
+"input_tokens": 2704,
+"output_tokens": 1386,
+"usd": 0.001
 },
 "key_present": true,
 "updated": "2026-11-24"
