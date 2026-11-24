@@ -67706,22 +67706,42 @@
 "reason": "Cooperation agreement on treating sexual offenders; justice and health, not environmental.",
 "confidence": "high",
 "at": "2026-11-24"
+},
+"eu:52026PC0641": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "WTO trade preference waiver for Pacific Islands; trade measure, not environmental.",
+"confidence": "high",
+"at": "2026-11-24"
+},
+"eu:52026PC0618": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"energy-climate"
+],
+"reason": "UK-EU Partnership Council decision on energy cooperation; title too truncated to confirm scope.",
+"confidence": "low",
+"at": "2026-11-24"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7047,
-"assessed": 7047,
+"in_scope": 7049,
+"assessed": 7049,
 "waiting": 0,
-"relevant": 1122,
-"not_relevant": 5599,
+"relevant": 1123,
+"not_relevant": 5600,
 "excluded_by_rule": 326,
-"this_run": 3,
+"this_run": 2,
 "api": {
 "calls": 1,
-"input_tokens": 1171,
-"output_tokens": 290,
-"usd": 0.0003
+"input_tokens": 1181,
+"output_tokens": 482,
+"usd": 0.0004
 },
 "key_present": true,
 "updated": "2026-11-24"
@@ -67730,7 +67750,7 @@
 "this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 70,
+"waiting": 71,
 "api": {
 "calls": 0,
 "input_tokens": 0,
