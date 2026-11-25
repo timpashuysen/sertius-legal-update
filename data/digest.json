@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:43:18Z",
+ "updated": "2026-11-25T23:56:38Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -41937,6 +41937,47 @@
    ],
    "inbox": [
     "rvs:266785"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266858",
+   "d": "2026-05-29",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State annuls Ixelles 'Varda' PPAS: no reasoning on a reasonable alternative raised in the public inquiry",
+   "a": "The Council of State annulled the Ixelles municipal decision and the Brussels Government decree adopting and approving the 'Varda' PPAS. The final adoption did not explain why an alternative put forward during the public inquiry was not reasonable or not assessed in the environmental impact report.",
+   "b": "The ruling concerns Brussels municipalities adopting special land-use plans (PPAS) under the CoBAT, and the Government that approves them. The Council of State finds that the municipality did not breach article 44 CoBAT in setting the plan's guidelines and the existing situation to be changed. It also holds that not every preliminary study must be put to public inquiry: only studies needed to understand and respond usefully to the impact report (RIE) must be attached. A municipality that chooses an additional prior consultation, such as a 'definition study', remains bound by its duties once the public inquiry results are known. Here at least one precise objection proposed a compatible alternative, raising existing buildings in the perimeter instead of building on the wooded centre. An applicant may rely on the lack of response to an objection even if it came from someone else. The final adoption gave no reasons why this alternative was unreasonable or did not need to be assessed like those in the RIE, so article 50 CoBAT was breached. The municipal decision of 14 March 2024 is annulled, and so is the Government decree of 2 May 2024 approving the plan, which wrongly found that article 50 was respected. The other pleas were not examined.",
+   "nl": [
+    "Raad van State vernietigt BPA 'Varda' van Elsene: geen motivering over redelijk alternatief uit het openbaar onderzoek",
+    "De Raad van State vernietigde het gemeentelijk besluit en het besluit van de Brusselse Regering tot definitieve vaststelling en goedkeuring van het BPA 'Varda' in Elsene. De definitieve vaststelling verklaarde niet waarom een tijdens het openbaar onderzoek voorgesteld alternatief niet redelijk was of niet in het milieueffectenrapport moest worden onderzocht.",
+    "Het arrest betreft Brusselse gemeenten die bijzondere bestemmingsplannen (BBP) vaststellen krachtens het BWRO, en de Regering die ze goedkeurt. De Raad van State oordeelt dat de gemeente artikel 44 BWRO niet schond bij het bepalen van de richtlijnen van het plan en van de te wijzigen bestaande toestand. Niet elke voorafgaande studie moet aan het openbaar onderzoek worden onderworpen: enkel studies die nodig zijn om het effectenrapport (MER) te begrijpen en er nuttig op te reageren, moeten worden bijgevoegd. Een gemeente die kiest voor een bijkomende voorafgaande raadpleging, zoals een 'definitiestudie', blijft gebonden door haar verplichtingen zodra de resultaten van het openbaar onderzoek gekend zijn. Hier stelde minstens één precieze bezwaarschrift een verenigbaar alternatief voor: bestaande gebouwen verhogen in plaats van het beboste centrum te bebouwen. Een verzoeker mag zich op het ontbreken van een antwoord op een bezwaar beroepen, ook als het van iemand anders uitging. De definitieve vaststelling vermeldde niet waarom dit alternatief niet redelijk was of niet als de alternatieven in het MER moest worden beoordeeld, zodat artikel 50 BWRO werd geschonden. Het gemeentelijk besluit van 14 maart 2024 wordt vernietigd, evenals het regeringsbesluit van 2 mei 2024 dat het plan goedkeurde en ten onrechte vaststelde dat artikel 50 was nageleefd. De overige middelen werden niet onderzocht."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le PPAS « Varda » à Ixelles : pas de motivation sur une solution de substitution raisonnable",
+    "Le Conseil d'État a annulé la délibération communale et l'arrêté du Gouvernement bruxellois adoptant et approuvant le PPAS « Varda » à Ixelles. L'adoption définitive n'expliquait pas pourquoi une solution de substitution avancée lors de l'enquête publique n'était pas raisonnable ou n'avait pas à être évaluée dans le rapport sur les incidences environnementales.",
+    "L'arrêt concerne les communes bruxelloises qui adoptent des plans particuliers d'affectation du sol (PPAS) en vertu du CoBAT, et le Gouvernement qui les approuve. Le Conseil d'État juge que la commune n'a pas violé l'article 44 du CoBAT en fixant les lignes directrices du plan et les éléments de la situation existante à modifier. Il précise que toutes les études préalables ne doivent pas être soumises à enquête publique : seules doivent être jointes celles dont la connaissance est nécessaire pour comprendre le rapport sur les incidences environnementales (RIE) et y réagir utilement. La commune qui choisit une consultation préalable supplémentaire, telle qu'une « étude de définition », reste tenue de ses obligations une fois connus les résultats de l'enquête publique. En l'espèce, au moins une réclamation précise proposait une solution compatible : surélever des bâtiments existants plutôt que d'urbaniser la partie centrale boisée. Un requérant peut invoquer l'absence de réponse à une réclamation même émise par un tiers. L'adoption définitive n'indiquait pas pourquoi cette solution n'était pas raisonnable ni pourquoi elle ne devait pas être évaluée comme celles du RIE, de sorte que l'article 50 du CoBAT est violé. La délibération communale du 14 mars 2024 est annulée, de même que l'arrêté du Gouvernement du 2 mai 2024 approuvant le plan, qui constatait à tort le respect de l'article 50. Les autres moyens n'ont pas été examinés."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.858 : PPAS « Varda » (Ixelles), articles 44 et 50 du CoBAT, directive 2001/42/CE",
+   "dates": {
+    "adopted": "2026-05-29"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266858. Par une requête introduite par la voie électronique le 6 septembre 2024, les parties requérantes demanden",
+     "https://www.raadvst-consetat.be/arresten/266858"
+    ]
+   ],
+   "inbox": [
+    "rvs:266858"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"

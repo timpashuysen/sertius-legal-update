@@ -75032,37 +75032,217 @@
 "reason": "Rejects annulment of one permit; applies settled principles on opportunity review, manifest error and neighbour views; no general instrument or new interpretation.",
 "confidence": "high",
 "at": "2026-11-25"
+},
+"rvs:266868": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Access to administrative documents and public procurement dispute; not environmental, planning or permit law, and no general instrument annulled or new provision interpreted.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266866": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Asylum-type guardianship and age-assessment dispute under the Justice department; not environmental, planning or permit law, and the ruling only dismisses a moot annulment after replacement of the dec",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266865": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Public procurement case: suspension declared inadmissible after withdrawal of the award decision; applies settled admissibility rules of the 2013 procurement law, no general instrument or new interpre",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266864": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Public procurement dispute on bus transport tender; suspension inadmissible after retroactive withdrawal, applying settled Article 14 conditions. Not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266861": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects a single building permit appeal; applies settled case law on civil-law disputes, regularisation and reasons. No instrument annulled and no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266860": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one wind-farm permit for insufficient motivation and an unanswered Natura 2000 objection; applies settled principles, including the scientific-doubt rule, rather than settling a new question.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266859": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Reopens debates and refers an interpretive question on Decision 2022/484 to the CJEU without deciding it; the urgency plea is rejected on settled principles. No instrument annulled.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266858": {
+"v": 4,
+"rv": 2,
+"verdict": "relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"ground": "A",
+"provision": "PPAS 'Varda' (Ixelles), adopted by communal council 14 March 2024 and approved by Brussels Government order 2 May 2024; art. 50 CoBAT",
+"reason": "Annuls a Brussels spatial plan (PPAS) and its approval order for failing to answer a reasonable alternative raised in the public inquiry; also clarifies art. 44/50 CoBAT and SEA scope of prior studies",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266858"
+},
+"rvs:266857": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one permit for a missing proof of recommended mailing under former art. 164 CoBAT; restates settled formality and public-order principles, with no new general rule.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266856": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of one refusal of a bulk variation for parallel-import licences on equal-treatment grounds; application of settled principles to a specific file, not a new general rule.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266855": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Childcare subsidy decision, not environmental, planning or permit law; dismissal for lost interest applies settled standing case law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266854": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "School regulation dispute on a non-environmental subject; the appeal was dismissed as devoid of purpose after ministerial annulment, with only costs and procedural endings.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266850": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interlocutory order on time-limit and reopening the debate; restates settled case law on the 60-day period and the simplified procedure; no general-application instrument annulled.",
+"confidence": "high",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7560,
-"assessed": 7560,
+"in_scope": 7573,
+"assessed": 7573,
 "waiting": 0,
-"relevant": 611,
-"not_relevant": 6623,
+"relevant": 612,
+"not_relevant": 6635,
 "excluded_by_rule": 326,
-"this_run": 27,
+"this_run": 13,
 "api": {
-"calls": 27,
-"input_tokens": 240442,
-"output_tokens": 4769,
-"usd": 0.0264
+"calls": 14,
+"input_tokens": 135496,
+"output_tokens": 4261,
+"usd": 0.0401
 },
 "key_present": true,
 "updated": "2026-11-25",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 0,
+"this_run": 1,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 12125,
+"output_tokens": 2239,
+"usd": 0.0466
 },
 "updated": "2026-11-25"
 },
