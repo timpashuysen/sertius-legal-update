@@ -69513,36 +69513,240 @@
 "reason": "Dismisses one applicant's urban development permit refusal on facts; general points on guide deviations and late pleas do not clearly state a rule of wider use.",
 "confidence": "medium",
 "at": "2026-11-25"
+},
+"rvs:266422": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Reads art. 4.4.4 §1 VCRO on recreational co-use in park zones, requiring a limited-impact test, and holds that the duty of care requires assessing concrete impact on neighbours and nature.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266422"
+},
+"rvs:266420": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over a lighting-fixture tender and a suspended award; it falls outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266419": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Modified plans filed on administrative appeal are inadmissible unless they only clarify the request; permit conditions cannot refer to later plans or leave room for interpretation (CoDT D.IV.42, D.IV.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266419"
+},
+"rvs:266416": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns RIZIV health insurance convention (GVU-wet) dispute on jurisdiction; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266415": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Health-insurance pharmaceutical levy, outside environmental, planning or permit law; interlocutory order reopening debate, deciding no substantive point.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266414": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Restates urgency rules for suspension (concrete, documented harm; gravity not inferred from alleged illegality) and limits the EIA-omission exception to missing assessments, not deficient ones.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266414"
+},
+"rvs:266413": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over a CPAS pharmacy tender; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266412": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over a menu management software contract; no environmental, planning or permit law point.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266411": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Ruling only notes withdrawal of appeal and allocates costs in a single urban planning permit case; no wider point of law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266409": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Urban planning permit dispute about one building; dismissed for loss of interest after permit abandoned; no wider rule stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266408": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Urban planning permit annulment request rejected for loss of interest after applicants renounced the permit; a single-file outcome with no wider rule stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266407": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Disciplinary dismissal of a police inspector; employment/disciplinary law, outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266406": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "University student examination dispute, not environmental, planning or permit law; inadmissibility on standing of an internal jury decision.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266405": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Work-permit refusal under employment and migration law, not environmental, planning or permit law; the suspension is rejected on the facts.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266404": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a university teaching exam failure in a nursing course; not environmental, planning or permit law. Purely procedural striking from the roll.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266403": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Individual dispute over equivalence of a foreign medical diploma; decided by deemed withdrawal; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266402": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Under the Walloon environmental permit decree, the 30-day deadline for a collège decision is met by adoption, not dispatch. An authority's misleading information about the appealable act can extend th",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266402"
+},
+"rvs:266401": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service pension-extension dispute under federal police staff rules; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266400": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over a hospital works tender; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7216,
-"assessed": 7216,
+"in_scope": 7235,
+"assessed": 7235,
 "waiting": 0,
-"relevant": 1159,
-"not_relevant": 5731,
+"relevant": 1163,
+"not_relevant": 5746,
 "excluded_by_rule": 326,
-"this_run": 44,
+"this_run": 19,
 "api": {
-"calls": 44,
-"input_tokens": 324879,
-"output_tokens": 8140,
-"usd": 0.0366
+"calls": 19,
+"input_tokens": 173417,
+"output_tokens": 3608,
+"usd": 0.0191
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 7,
+"this_run": 4,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 7,
-"input_tokens": 88265,
-"output_tokens": 25572,
-"usd": 0.4322
+"calls": 4,
+"input_tokens": 50605,
+"output_tokens": 12750,
+"usd": 0.2287
 },
 "updated": "2026-11-25"
 },
