@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:27:43Z",
+ "updated": "2026-11-25T22:39:58Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -41854,6 +41854,48 @@
    ],
    "inbox": [
     "rvs:266646"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266663",
+   "d": "2026-05-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting",
+    "circular-products"
+   ],
+   "h": "Council of State upholds Belgian bumblebee toxicity study requirement for plant protection product renewals",
+   "a": "The Council of State dismissed an appeal against the withdrawal of a plant protection product authorisation and the refusal to renew it. It held that the Belgian national bee risk approach, which requires acute toxicity studies on bumblebees under OECD guidelines 246 and 247, has a basis in EU secondary law and is proportionate.",
+   "b": "The ruling concerns applicants for authorisation or renewal of plant protection products in Belgium, where the national bee risk assessment approach applies. The Council of State holds that the test methods are tightly governed by Regulation (EU) 284/2013, which is an exhaustive harmonisation. Review is therefore made against that secondary law and not against Articles 34 ff TFEU, and a ground based only on those articles is inadmissible. The proportionality principle remains reviewable on its own. Where screening cannot rule out a risk to bumblebees, the requirement to submit acute oral and contact toxicity studies under OECD guidelines 246 and 247 rests on points 1.6 and 6 of the introduction to the Annex to Regulation 284/2013 and serves the high level of protection aimed at by Regulation 1107/2009. The Council also holds that the lawfulness of an administrative act is assessed when it is adopted, so a study filed after the contested decisions of February 2023 cannot be relied on against them. It finds that the term 'bees' in the EU rules includes bumblebees and solitary bees, so that the correct interpretation is beyond reasonable doubt, and it refuses to refer a question to the Court of Justice. The appeal is dismissed and the costs fall on the applicant. The ruling of 12 May 2026 sets no further dates.",
+   "nl": [
+    "Raad van State bevestigt Belgische vereiste van hommeltoxiciteitsstudie bij hernieuwing van toelating gewasbeschermingsmiddel",
+    "De Raad van State verwerpt het beroep tegen de intrekking van de toelating van een gewasbeschermingsmiddel en de weigering van de verlenging ervan. Volgens de Raad heeft de Belgische nationale benadering voor bijenrisico's, die studies naar acute toxiciteit voor hommels volgens OESO-richtlijnen 246 en 247 vereist, een grondslag in afgeleid Unierecht en is ze evenredig.",
+    "Het arrest betreft aanvragers van een toelating of verlenging van een toelating voor gewasbeschermingsmiddelen in België, waar de nationale benadering voor het beoordelen van bijenrisico's geldt. De Raad van State oordeelt dat de testmethoden sterk worden omkaderd door Verordening (EU) nr. 284/2013, wat een uitputtende harmonisatie vormt. De toetsing gebeurt daarom aan dat afgeleide recht en niet aan de artikelen 34 e.v. VWEU, en een middel dat enkel op die artikelen steunt is onontvankelijk. Het evenredigheidsbeginsel blijft wel zelfstandig toetsbaar. Wanneer screening een risico voor hommels niet kan uitsluiten, steunt de vereiste om studies naar acute orale en contacttoxiciteit volgens OESO-richtlijnen 246 en 247 in te dienen op punten 1.6 en 6 van de inleiding van de bijlage bij Verordening 284/2013. Die vereiste dient het hoge beschermingsniveau van Verordening 1107/2009. De Raad oordeelt ook dat de wettigheid van een bestuurshandeling wordt beoordeeld op het ogenblik dat ze wordt genomen, zodat een studie die na de bestreden beslissingen van februari 2023 is ingediend er niet tegen kan worden ingeroepen. Hij stelt vast dat de term 'bijen' in de Unieregels ook hommels en solitaire bijen omvat, zodat de juiste uitleg buiten redelijke twijfel staat, en hij weigert een prejudiciële vraag aan het Hof van Justitie te stellen. Het beroep wordt verworpen en de kosten komen ten laste van de verzoekende partij. Het arrest van 12 mei 2026 bevat geen verdere data."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme l'exigence belge d'une étude de toxicité sur les bourdons lors du renouvellement d'une autorisation phytopharmaceutique",
+    "Le Conseil d'État rejette le recours contre le retrait de l'autorisation d'un produit phytopharmaceutique et le refus de sa prolongation. Il juge que l'approche nationale belge relative aux risques pour les abeilles, qui impose des études de toxicité aiguë sur les bourdons selon les lignes directrices OCDE n° 246 et n° 247, trouve un fondement dans le droit dérivé de l'Union et est proportionnée.",
+    "L'arrêt concerne les demandeurs d'autorisation ou de prolongation d'autorisation de produits phytopharmaceutiques en Belgique, où s'applique l'approche nationale d'évaluation des risques pour les abeilles. Le Conseil d'État juge que le choix des méthodes d'essai est fortement encadré par le règlement (UE) n° 284/2013, ce qui constitue une harmonisation exhaustive. Le contrôle s'opère donc au regard de ce droit dérivé et non des articles 34 et suivants du TFUE, et un moyen fondé uniquement sur ces articles est irrecevable. Le principe de proportionnalité reste examinable de manière autonome. Lorsque le « screening » ne permet pas d'exclure un risque pour les bourdons, l'exigence de produire des études de toxicité aiguë orale et par contact selon les lignes directrices OCDE n° 246 et n° 247 repose sur les points 1.6 et 6 de l'introduction de l'annexe du règlement n° 284/2013. Elle sert le niveau élevé de protection visé par le règlement n° 1107/2009. Le Conseil juge aussi que la légalité d'un acte administratif s'apprécie au moment de son adoption, de sorte qu'une étude déposée après les décisions attaquées de février 2023 ne peut pas leur être opposée. Il constate que le terme « abeilles » dans les règles de l'Union inclut les bourdons et les abeilles solitaires, de sorte que l'interprétation correcte ne laisse place à aucun doute raisonnable, et il refuse de poser une question préjudicielle à la Cour de justice. Le recours est rejeté et les dépens sont mis à charge de la partie requérante. L'arrêt du 12 mai 2026 ne mentionne pas d'autres dates."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.663 du 12 mai 2026 : règlement (CE) n° 1107/2009, règlement (UE) n° 284/2013 (points 1.6 et 6 de l'introduction de l'annexe) et approche nationale belge pour l'évaluation des risques pour les abeilles",
+   "dates": {
+    "adopted": "2026-05-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266663. Par une requête introduite le 5 mai 2023, la partie requérante demande l’annulation de « la décision du M",
+     "https://www.raadvst-consetat.be/arresten/266663"
+    ]
+   ],
+   "inbox": [
+    "rvs:266663"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"
