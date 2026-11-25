@@ -67994,36 +67994,340 @@
 "reason": "Interpretation of the broadcasting decree concerns media law, not environmental compliance.",
 "confidence": "high",
 "at": "2026-11-25"
+},
+"rvs:266258": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Annuls a mayor's drug-law closure order for a betting shop on public-order grounds; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266257": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Prison disciplinary sanction case under penitentiary law; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266256": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Suspension denied in a hospital reimbursement dispute over implant/PCRA list; concerns health insurance, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266255": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"environmental-safety"
+],
+"reason": "Restates that suspension needs concrete, verifiable proof of urgency; financial and reputational harm alone insufficient; the old 'serious harm' test is abandoned.",
+"confidence": "low",
+"at": "2026-11-25",
+"written": "no",
+"second_look": "Suspension request rejected for lack of substantiated urgency; applies settled case law, no environmental rule annulled, suspended or interpreted."
+},
+"rvs:266251": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement award dispute about a school playground contract; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266250": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Student enrolment refusal over non-financability at a provincial college; not environmental, planning or permit law, and only a procedural ending after withdrawal.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266249": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law",
+"energy-climate"
+],
+"reason": "Wind permit upheld, but ruling states wider points: non-binding reference frameworks may be departed from with reasons; post-decision studies excluded; no derogation needed if bird impact is non-signi",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266249"
+},
+"rvs:266248": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a pharmacist's visa withdrawal by a health-care practice commission under health-care law; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266247": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement exclusion of a bidder for social fraud; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266246": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a local councillor's deontological code breach and service of notice, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266245": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns local-government mandatary ethics and the non-appealability of a governor's refusal to exercise supervision; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266244": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Data protection (GDPR) supervisory competence over a municipal social-welfare data complaint; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266243": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public teacher appointment dispute under education staffing decree; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266242": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Taxi operating licence and social-debt requirement under transport and economic-freedom law; not environmental, planning or environmental permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266241": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Dismissed for lack of individualised interest over a domain permit for a military-site transversal; no wider rule on environmental or planning law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266240": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"environmental-safety"
+],
+"reason": "Clarifies WORG designation: VCRO 6.1.1 definitions apply only to Title VI; signaalgebied conditions aren't decretal prerequisites; policy plans aren't assessment grounds.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266240"
+},
+"rvs:266235": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a local councillor's mandate declaration under the local government code; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266234": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting"
+],
+"reason": "Rejects a challenge to a municipal RUP: a plan need not implement every binding GRS starting point; applicant lacked interest to plead plan-MER and passende beoordeling breaches.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266234"
+},
+"rvs:266233": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Confirms a RUP may apply new rules that end existing activities without breaching legal certainty, and that zone-wide floor-area caps without per-plot allocation are lawful.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266233"
+},
+"rvs:266232": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "A municipal spatial policy framework with no binding legal effect is not annullable; considering policy wishes under VCRO art. 4.3.1 §2 does not make it binding.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266232"
+},
+"rvs:266231": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Follow-on ruling on one biomass CHP permit; it adopts the reasons of an earlier annulment and states no new rule of wider use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266230": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Hunting-rights lease dispute on municipal land; annulment withdrawn, case closed with costs; no environmental, planning or permit point of wider use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266229": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Order accepting the applicant's withdrawal (désistement) and allocating costs; purely procedural ending with no statement of wider legal use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266227": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum case on refugee status and subsidiary protection for an Afghan national; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266226": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum law ruling on international protection (refugee and subsidiary protection status); outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266225": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum law ruling on international protection for an Afghan national; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266224": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns housing-discrimination fines under the Brussels Housing Code, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266223": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Private security card withdrawal for a guard; not environmental, planning or permit law under the screening test.",
+"confidence": "high",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7077,
-"assessed": 7077,
+"in_scope": 7105,
+"assessed": 7105,
 "waiting": 0,
-"relevant": 1124,
-"not_relevant": 5627,
+"relevant": 1130,
+"not_relevant": 5649,
 "excluded_by_rule": 326,
-"this_run": 15,
+"this_run": 28,
 "api": {
-"calls": 14,
-"input_tokens": 112377,
-"output_tokens": 1540,
-"usd": 0.012
+"calls": 28,
+"input_tokens": 284984,
+"output_tokens": 6060,
+"usd": 0.0315
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 1,
-"found_not_relevant_on_reading": 0,
+"this_run": 5,
+"found_not_relevant_on_reading": 1,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 1,
-"input_tokens": 8910,
-"output_tokens": 3327,
-"usd": 0.0511
+"calls": 6,
+"input_tokens": 77557,
+"output_tokens": 17821,
+"usd": 0.3333
 },
 "updated": "2026-11-25"
 },

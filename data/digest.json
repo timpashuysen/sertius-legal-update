@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:47:18Z",
+ "updated": "2026-11-25T03:03:14Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -40070,6 +40070,210 @@
    ],
    "inbox": [
     "rvs:266211"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266249",
+   "d": "2026-03-31",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law",
+    "energy-climate"
+   ],
+   "h": "Council of State upholds Chimay wind farm permit: bird-detection shutdown condition valid, no species derogation needed",
+   "a": "The Council of State rejected the appeal against a Walloon single permit for a three-turbine wind farm in Chimay. It held that a condition requiring a bird-detection and shutdown system is sufficiently precise, and that no derogation under the nature conservation law was needed.",
+   "b": "The ruling concerns operators of wind farms, permitting authorities and neighbouring municipalities in Wallonia, and addresses how conditions in a single permit and the 2013 wind-turbine reference framework are reviewed. A permit condition may set an objective and leave the operator to choose the technical parameters. Here the objective was to bring the collision risk for certain raptors down to a non-significant level, and the authority itself chose the shutdown system. Where the impact assessment and the nature authority's opinion show that, with such mitigation, the impact on birds is not significant, no derogation under article 5 of the law of 12 July 1973 on nature conservation is required, and articles 2 and 2bis are not breached. Legality is assessed at the time of the decision, so a study produced afterwards is disregarded unless the authority should have known it. A condition banning manure storage within 50 metres of the turbines, to keep bats away, is an obligation of result. The operator's lack of land control or of agreements with third parties affects only implementation, not legality. The 2013 reference framework is indicative and not regulatory, and the authority may depart from it with adequate reasoning. The Council of State found no manifest error in not imposing visual screening at the operator's expense for dwellings located between 400 m and four times the turbine height. It also held that the authority did not have to state formally why it imposed no planning charge. The appeal against the permit of 20 November 2024 was rejected by judgment of 31 March 2026.",
+   "nl": [
+    "Raad van State bevestigt vergunning windpark Chimay: stilstandvoorwaarde bij vogeldetectie geldig, geen afwijking vereist",
+    "De Raad van State verwerpt het beroep tegen een Waalse omgevingsvergunning (permis unique) voor een windpark met drie turbines in Chimay. De voorwaarde van een vogeldetectie- en stilstandsysteem is voldoende nauwkeurig en een afwijking op grond van de natuurbehoudswet was niet vereist.",
+    "Het arrest betreft exploitanten van windparken, vergunningverlenende overheden en naburige gemeenten in Wallonië en gaat over de toetsing van vergunningsvoorwaarden en van het referentiekader voor windturbines van 2013. Een vergunningsvoorwaarde mag een doel opleggen en de exploitant de technische parameters laten bepalen. Hier was het doel het aanvaringsrisico voor bepaalde roofvogels tot een niet-significant niveau te beperken, en de overheid koos zelf voor een stilstandsysteem. Wanneer het project-MER en het advies van de natuurdienst aantonen dat de impact op vogels met zulke mitigatie niet significant is, is geen afwijking op grond van artikel 5 van de wet van 12 juli 1973 op het natuurbehoud vereist en worden de artikelen 2 en 2bis niet geschonden. De wettigheid wordt beoordeeld op het ogenblik van de beslissing, zodat een nadien voorgelegde studie buiten beschouwing blijft, tenzij de overheid ze had moeten kennen. Een voorwaarde die mestopslag binnen 50 meter van de turbines verbiedt om vleermuizen weg te houden, is een resultaatsverbintenis. Het ontbreken van grondbeheer of overeenkomsten met derden bij de exploitant raakt enkel de uitvoering en niet de wettigheid. Het referentiekader van 2013 is indicatief en niet reglementair, en de overheid mag er met passende motivering van afwijken. De Raad van State zag geen kennelijke appreciatiefout in het niet opleggen van een visuele afscherming op kosten van de exploitant voor woningen op 400 m tot viermaal de turbinehoogte. De overheid moest ook niet formeel motiveren waarom zij geen stedenbouwkundige last oplegde. Het beroep tegen de vergunning van 20 november 2024 werd bij arrest van 31 maart 2026 verworpen."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme le permis du parc éolien de Chimay : condition d'arrêt sur détection d'oiseaux valable, pas de dérogation requise",
+    "Le Conseil d'État rejette le recours contre un permis unique wallon pour un parc de trois éoliennes à Chimay. La condition imposant un système de détection de l'avifaune et d'arrêt des éoliennes est suffisamment précise, et aucune dérogation sur la base de la loi sur la conservation de la nature n'était requise.",
+    "L'arrêt concerne les exploitants de parcs éoliens, les autorités délivrant les permis et les communes voisines en Wallonie, et porte sur le contrôle des conditions de permis et du cadre de référence éolien de 2013. Une condition de permis peut fixer un objectif et laisser à l'exploitant le soin de définir les paramètres techniques. En l'espèce, l'objectif était de ramener le risque de collision de certains rapaces à un niveau non significatif, et l'autorité a elle-même opté pour un système de bridage. Lorsque l'étude d'incidences et l'avis du DNF montrent que, moyennant une telle mesure d'atténuation, l'impact sur l'avifaune n'est pas significatif, aucune dérogation au sens de l'article 5 de la loi du 12 juillet 1973 sur la conservation de la nature n'est requise et les articles 2 et 2bis ne sont pas méconnus. La légalité s'apprécie au moment de la décision : une étude produite après coup est écartée, sauf si l'autorité aurait dû la connaître. Une condition interdisant le stockage de fumier à moins de 50 mètres des éoliennes, pour éloigner les chauves-souris, est une obligation de résultat. L'absence de maîtrise foncière ou de conventions avec des tiers dans le chef de l'exploitant n'affecte que la mise en œuvre, non la légalité. Le cadre de référence de 2013 est indicatif et non réglementaire, et l'autorité peut s'en écarter moyennant une motivation adéquate. Le Conseil d'État n'a relevé aucune erreur manifeste d'appréciation dans l'absence d'écran visuel aux frais de l'exploitant pour les habitations situées entre 400 m et quatre fois la hauteur des éoliennes. L'autorité n'était pas non plus tenue de motiver formellement l'absence de charge d'urbanisme. Le recours contre le permis du 20 novembre 2024 a été rejeté par arrêt du 31 mars 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.249 du 31 mars 2026 : permis unique pour un parc éolien à Chimay ; loi du 12 juillet 1973 sur la conservation de la nature (art. 2, 2bis et 5) ; cadre de référence pour l'implantation d'éoliennes en Wallonie (2013)",
+   "dates": {
+    "adopted": "2026-03-31"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266249. Par une requête introduite le 21 janvier 2025, la partie requérante demande l’annulation de l’arrêté du 2",
+     "https://www.raadvst-consetat.be/arresten/266249"
+    ]
+   ],
+   "inbox": [
+    "rvs:266249"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266240",
+   "d": "2026-03-31",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "environmental-safety"
+   ],
+   "h": "Council of State upholds 'Merchtem Kom' water-sensitive open space designation, clarifying Art. 5.6.8 VCRO",
+   "a": "The Council of State dismissed the action against the Flemish Government decree of 19 July 2024 definitively designating the water-sensitive open space area (WORG) 'Merchtem Kom'. It held that land zoned for housing can be included in a WORG and that the designation does not require the area to be a 'signal area'.",
+   "b": "The ruling concerns owners and users of plots inside a WORG, as well as authorities designating WORGs under Article 5.6.8 of the Flemish Codex on Spatial Planning (VCRO). The Council held that the definition of 'open space area' in Article 6.1.1, 5° VCRO applies only to the enforcement title, so land with a hard zoning such as residential use can be included in a WORG. Under Article 5.6.8, §1 VCRO the only requirement is a conflict between further realisation of the zoning and the interests of the water system. Designated areas are treated as 'mixed open space area' under Article 2.2.6, §2, third paragraph VCRO. Prior 'signal area' status is not a legal condition, and the policy plan pillars invoked (Beleidsplan Ruimte Vlaanderen, draft provincial policy plan) have no regulatory force and are not an assessment ground. The Council also found that giving priority to flood prevention and water storage over development falls within the authority's wide discretion, reviewed only for reasonableness, and that the flood hazard maps are scientifically founded, including soil data. It declared itself not competent to assess Articles 5.6.8 and 2.2.6 VCRO themselves. The action was dismissed by judgment of 31 March 2026 and the 11 applicants bear the costs; the decree of 19 July 2024 stays in place.",
+   "nl": [
+    "Raad van State bevestigt aanduiding van WORG 'Merchtem Kom' en verduidelijkt artikel 5.6.8 VCRO",
+    "De Raad van State verwerpt het beroep tegen het besluit van de Vlaamse Regering van 19 juli 2024 houdende de definitieve aanduiding van het watergevoelig openruimtegebied (WORG) 'Merchtem Kom'. Ook gebieden met een woonbestemming kunnen in een WORG worden opgenomen, zonder dat het gebied een 'signaalgebied' moet zijn.",
+    "Het arrest betreft eigenaars en gebruikers van percelen in een WORG, en de overheden die WORG's aanduiden op grond van artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening (VCRO). De Raad oordeelt dat de definitie van 'openruimtegebied' in artikel 6.1.1, 5° VCRO enkel geldt voor de titel handhaving, zodat gebieden met een harde bestemming, zoals woongebied, in een WORG kunnen worden opgenomen. Artikel 5.6.8, § 1 VCRO vereist enkel een conflict tussen de verdere realisatie van de bestemming en de belangen van het watersysteem. Aangeduide gebieden worden met toepassing van artikel 2.2.6, § 2, derde lid VCRO beschouwd als 'gemengd openruimtegebied'. De status van signaalgebied is geen wettelijke voorwaarde, en de ingeroepen basispijlers van het Beleidsplan Ruimte Vlaanderen en het ontwerp van provinciaal beleidsplan hebben geen verordenende kracht en vormen geen beoordelingsgrond. De Raad oordeelt ook dat de voorrang voor overstromingspreventie en waterberging boven de ontwikkeling binnen de ruime appreciatiebevoegdheid van de overheid valt, die enkel op redelijkheid wordt getoetst, en dat de overstromingsgevaarkaarten wetenschappelijk onderbouwd zijn, mede op basis van bodemgegevens. Hij verklaart zich onbevoegd om de artikelen 5.6.8 en 2.2.6 VCRO zelf te beoordelen. Het beroep is verworpen bij arrest van 31 maart 2026 en de elf verzoekende partijen dragen de kosten; het besluit van 19 juli 2024 blijft bestaan."
+   ],
+   "fr": [
+    "Le Conseil d'État confirme la zone sensible à l'eau « Merchtem Kom » et précise l'article 5.6.8 du VCRO",
+    "Le Conseil d'État rejette le recours dirigé contre l'arrêté du Gouvernement flamand du 19 juillet 2024 désignant définitivement la zone d'espaces ouverts sensibles à l'eau (WORG) « Merchtem Kom ». Des terrains affectés à l'habitat peuvent être inclus dans une WORG, sans que la zone doive être une « zone signal ».",
+    "L'arrêt concerne les propriétaires et utilisateurs de parcelles situées dans une WORG, ainsi que les autorités qui désignent des WORG sur la base de l'article 5.6.8 du Code flamand de l'aménagement du territoire (VCRO). Le Conseil juge que la définition d'« espace ouvert » de l'article 6.1.1, 5° VCRO ne vaut que pour le titre relatif au maintien du droit, de sorte que des zones à affectation « dure », comme la zone d'habitat, peuvent être incluses dans une WORG. L'article 5.6.8, § 1er VCRO exige seulement un conflit entre la poursuite de la réalisation de l'affectation et les intérêts du système hydrique. Les zones désignées sont, en vertu de l'article 2.2.6, § 2, alinéa 3 VCRO, considérées comme « espace ouvert mixte ». Le statut de zone signal n'est pas une condition légale, et les piliers du Beleidsplan Ruimte Vlaanderen et du projet de plan stratégique provincial invoqués n'ont pas force réglementaire et ne constituent pas un critère d'appréciation. Le Conseil estime aussi que la priorité donnée à la prévention des inondations et au stockage de l'eau sur le développement relève du large pouvoir d'appréciation de l'autorité, contrôlé seulement sous l'angle du caractère raisonnable, et que les cartes des risques d'inondation reposent sur une base scientifique intégrant des données pédologiques. Il se déclare incompétent pour apprécier les articles 5.6.8 et 2.2.6 VCRO eux-mêmes. Le recours est rejeté par arrêt du 31 mars 2026 et les onze parties requérantes supportent les dépens ; l'arrêté du 19 juillet 2024 est maintenu."
+   ],
+   "scope": "Raad van State, arrest nr. 266.240 van 31 maart 2026 – beroep tot nietigverklaring van het besluit van de Vlaamse Regering van 19 juli 2024 (WORG 'Merchtem Kom'); artikelen 5.6.8, 2.2.6 § 2 en 6.1.1, 5° VCRO",
+   "dates": {
+    "adopted": "2026-03-31"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266240. 1. Het beroep, ingesteld op 4 november 2024, strekt tot de nietigverklaring van “[h]et besluit van de Vla",
+     "https://www.raadvst-consetat.be/arresten/266240"
+    ]
+   ],
+   "inbox": [
+    "rvs:266240"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266234",
+   "d": "2026-03-30",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: no interest to invoke plan-EIA and appropriate assessment rules against a restrictive agricultural RUP",
+   "a": "The Council of State dismissed the challenge to Lievegem's municipal spatial implementation plan 'Agrarisch Gebied Zomergem' and to the decision that no plan-EIA was needed. A claimant who would gain nothing from enforcing the environmental assessment rules has no interest in invoking them, and the Council confirmed the wide discretion under Article 1.1.4 VCRO.",
+   "b": "The ruling concerns municipalities adopting spatial implementation plans (RUP) and operators challenging them before the Council of State. The applicant ran an unpermitted class 1 intensive poultry farm in agricultural zoning and wanted it admitted as a new farm. The Council held that the plan's ban on new farm sites in the open-space agricultural area follows the binding part of the municipal structure plan (keep non-built areas free). The plan need not implement every principle of that structure plan at once. Under Article 1.1.4 VCRO the simultaneous weighing of spatial needs does not require equal weight for each of them. The authority has wide discretion, the Council reviews legality only, and the claimant must show the choice is unreasonable. The calculation of the remaining land for new farms (598 ha without distance rules, 419 ha with them) was not shown to be insufficient. The pleas based on the plan-EIA obligation (Articles 4.1.1 to 4.2.3 DABM) and on the appropriate assessment (Article 36ter Nature Conservation Decree) were inadmissible. Enforcing those rules could only further restrict the area open to new intensive poultry farms, so the applicant could not benefit and lacked interest. The appeal was dismissed and the applicant ordered to pay the costs. The judgment is dated 30 March 2026.",
+   "nl": [
+    "Raad van State: geen belang bij middelen over plan-MER en passende beoordeling tegen een beperkend agrarisch RUP",
+    "De Raad van State verwerpt het beroep tegen het gemeentelijk RUP 'Agrarisch Gebied Zomergem' van Lievegem en tegen de beslissing dat geen plan-MER nodig was. Wie geen voordeel haalt uit de naleving van de milieubeoordelingsregels, heeft geen belang om ze in te roepen; bovendien bevestigt de Raad de ruime appreciatiebevoegdheid onder artikel 1.1.4 VCRO.",
+    "Het arrest betreft gemeenten die ruimtelijke uitvoeringsplannen (RUP) vaststellen en exploitanten die ze bestrijden voor de Raad van State. De verzoeker baatte zonder omgevingsvergunning een intensieve pluimveehouderij van klasse 1 uit in agrarisch gebied en wilde die als nieuw bedrijf toegelaten zien. Volgens de Raad volgt het verbod op nieuwe bedrijfszetels in het agrarisch openruimtegebied uit het bindend gedeelte van het gemeentelijk ruimtelijk structuurplan (bouwvrije gebieden bouwvrij houden). Het RUP moet niet alle uitgangspunten van dat structuurplan tegelijk uitwerken. Artikel 1.1.4 VCRO vereist dat de ruimtelijke behoeften gelijktijdig worden afgewogen, maar niet dat ze gelijkwaardig doorwegen. De overheid heeft een ruime appreciatiebevoegdheid, de Raad oefent enkel wettigheidstoezicht uit en de verzoeker moet de onredelijkheid van de keuze aantonen. De berekening van de resterende gronden voor nieuwe bedrijven (598 ha zonder afstandsregels, 419 ha met afstandsregels) werd niet als ontoereikend aangetoond. De middelen over de plan-MER-plicht (artikelen 4.1.1 tot 4.2.3 DABM) en de passende beoordeling (artikel 36ter Natuurdecreet) zijn onontvankelijk. Naleving van die regels kan het gebied voor nieuwe intensieve pluimveehouderijen enkel verder beperken, zodat de verzoeker er geen voordeel uit haalt en geen belang heeft. Het beroep wordt verworpen en de verzoeker draagt de kosten. Het arrest is gewezen op 30 maart 2026."
+   ],
+   "fr": [
+    "Conseil d'État : pas d'intérêt à invoquer le plan-rapport d'incidences et l'évaluation appropriée contre un PRU agricole restrictif",
+    "Le Conseil d'État rejette le recours dirigé contre le plan d'exécution spatial communal « Agrarisch Gebied Zomergem » de Lievegem et contre la décision dispensant le plan de plan-MER. Celui qui ne retire aucun avantage du respect des règles d'évaluation environnementale n'a pas intérêt à les invoquer ; le Conseil confirme en outre le large pouvoir d'appréciation découlant de l'article 1.1.4 VCRO.",
+    "L'arrêt concerne les communes qui adoptent des plans d'exécution spatiaux (RUP) et les exploitants qui les contestent devant le Conseil d'État. Le requérant exploitait, sans permis d'environnement, un élevage avicole intensif de classe 1 en zone agricole et voulait le faire admettre comme nouvelle exploitation. Selon le Conseil, l'interdiction de nouveaux sièges d'exploitation dans la zone agricole d'espace ouvert découle de la partie contraignante du plan de structure spatial communal (maintenir non bâties les zones qui le sont). Le RUP ne doit pas mettre en œuvre en même temps tous les principes de ce plan de structure. L'article 1.1.4 VCRO exige que les besoins spatiaux soient mis en balance simultanément, mais non qu'ils pèsent d'un poids égal. L'autorité dispose d'un large pouvoir d'appréciation, le Conseil n'exerce qu'un contrôle de légalité et le requérant doit démontrer le caractère déraisonnable du choix. Le calcul des terrains restant disponibles pour de nouvelles exploitations (598 ha sans règles de distance, 419 ha avec) n'a pas été démontré insuffisant. Les moyens tirés de l'obligation de plan-MER (articles 4.1.1 à 4.2.3 DABM) et de l'évaluation appropriée (article 36ter du décret sur la conservation de la nature) sont irrecevables. Le respect de ces règles ne pourrait que restreindre davantage la zone ouverte aux nouveaux élevages avicoles intensifs : le requérant n'en tirerait aucun avantage et n'a donc pas d'intérêt. Le recours est rejeté et les dépens sont mis à charge du requérant. L'arrêt date du 30 mars 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.234 van 30 maart 2026: gemeentelijk RUP 'Agrarisch Gebied Zomergem' (Lievegem); art. 1.1.4 VCRO, art. 4.2.3 DABM, art. 36ter Natuurdecreet",
+   "dates": {
+    "adopted": "2026-03-30"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266234. 1. Het beroep, ingesteld op 31 juli 2024, strekt to t de nietigverklaring van “[h]et besluit van de gemee",
+     "https://www.raadvst-consetat.be/arresten/266234"
+    ]
+   ],
+   "inbox": [
+    "rvs:266234"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266233",
+   "d": "2026-03-30",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: RUP may set zone-wide floor-area cap and rule out existing use despite recent permit",
+   "a": "The Council of State dismissed the action against Antwerp's municipal spatial implementation plan 'Sint-Anneke Plage'. It held that a maximum gross floor area set for a whole zone, without a figure per plot, is not unlawful, and that new planning rules may make an existing activity impossible even where the operator holds a recent permit.",
+   "b": "The ruling concerns planning authorities and the owners and operators of land in zones covered by a municipal spatial implementation plan (RUP). The Council held that a maximum above-ground gross floor area fixed for a whole sub-zone, without allocation per plot, does not in itself vitiate the plan, since a RUP is set independently of the ownership structure and the cap pursues the legitimate aim of controlling the amount of building. It accepted that applications changing the built/unbuilt ratio must be accompanied by a layout study for the whole zone, as an informative modality that lets the permitting authority prevent pre-emptive claims on other parties' development room. Requiring owners to cooperate or consult each other is not unlawful, and the equality principle is not breached where all rights holders in the zone are subject to the same rules. On the weighing of spatial needs under Article 1.1.4 VCRO, the Council exercises only a legality review and the claimants must show that the choice exceeds the limits of reasonableness. The planning principle of legal certainty does not prevent new rules that end an activity lawfully carried out under the former rules, even where the operator has a recent permit. The claim under Article 15 of the Services Directive failed for lack of substantiation. The action against the council decision of 29 April 2024 was filed on 16 August 2024 and rejected on 30 March 2026, with costs shared between the claimants.",
+   "nl": [
+    "Raad van State: RUP mag zonebrede vloeroppervlaktebeperking opleggen en bestaand gebruik uitsluiten ondanks recente vergunning",
+    "De Raad van State verwerpt het beroep tegen het gemeentelijk ruimtelijk uitvoeringsplan 'Sint-Anneke Plage' van Antwerpen. Een voor een volledige zone bepaalde maximale bruto-vloeroppervlakte zonder cijfer per perceel is niet onwettig, en nieuwe voorschriften mogen een bestaande activiteit onmogelijk maken, ook bij een recente vergunning.",
+    "Het arrest raakt de planningsoverheden en de eigenaars en exploitanten van gronden in zones die onder een gemeentelijk ruimtelijk uitvoeringsplan (RUP) vallen. Volgens de Raad vitieert een maximale bovengrondse bruto-vloeroppervlakte voor een volledige deelzone, zonder verdeling per perceel, het plan als dusdanig niet, omdat een RUP los van de eigendomsstructuur wordt vastgesteld en de beperking de legitieme doelstelling nastreeft om de hoeveelheid bebouwing te beheersen. De Raad aanvaardt dat aanvragen die de verhouding bebouwd–onbebouwd wijzigen vergezeld moeten gaan van een inrichtingsstudie voor de volledige zone, als informatieve modaliteit waarmee de vergunningverlenende overheid ongeoorloofde voorafnames kan tegengaan. Het is niet onwettig dat eigenaars of exploitanten daardoor worden aangezet tot samenwerking of overleg, en het gelijkheidsbeginsel is niet geschonden wanneer dezelfde voorschriften voor alle zakelijk gerechtigden in de zone gelden. Bij de afweging van de ruimtelijke behoeften op grond van artikel 1.1.4 VCRO oefent de Raad enkel een wettigheidstoets uit, en moeten de verzoekers aantonen dat de keuze de grenzen van de redelijkheid overschrijdt. Het rechtszekerheidsbeginsel belet niet dat nieuwe voorschriften een activiteit onmogelijk maken die overeenkomstig de voorheen geldende voorschriften werd uitgeoefend, ook niet wanneer de exploitant over een recente vergunning beschikt. Het middel over artikel 15 van de dienstenrichtlijn faalde bij gebrek aan voldoende uiteenzetting. Het beroep van 16 augustus 2024 tegen het gemeenteraadsbesluit van 29 april 2024 werd op 30 maart 2026 verworpen, met de kosten verdeeld over de verzoekers."
+   ],
+   "fr": [
+    "Conseil d'État : un PRUP communal peut plafonner la surface de plancher par zone et exclure un usage existant malgré un permis récent",
+    "Le Conseil d'État rejette le recours contre le plan d'exécution spatial communal « Sint-Anneke Plage » d'Anvers. Une surface de plancher brute maximale fixée pour toute une zone, sans chiffre par parcelle, n'est pas illégale, et de nouvelles prescriptions peuvent rendre impossible une activité existante, même en présence d'un permis récent.",
+    "L'arrêt concerne les autorités planificatrices ainsi que les propriétaires et exploitants de terrains situés dans des zones couvertes par un plan d'exécution spatial communal (RUP). Selon le Conseil, une surface de plancher brute maximale hors sol fixée pour une sous-zone entière, sans répartition par parcelle, ne vicie pas en soi le plan, car un RUP est établi indépendamment de la structure de propriété et que ce plafond poursuit l'objectif légitime de maîtriser la quantité de constructions. Il admet que les demandes modifiant le rapport bâti/non bâti soient accompagnées d'une étude d'aménagement portant sur toute la zone, comme modalité informative permettant à l'autorité délivrante d'empêcher des préemptions illicites. Il n'est pas illégal que les propriétaires ou exploitants soient ainsi incités à coopérer ou à se concerter, et le principe d'égalité n'est pas violé lorsque les mêmes prescriptions s'appliquent à tous les titulaires de droits réels de la zone. Dans la pondération des besoins spatiaux au titre de l'article 1.1.4 du VCRO (Code flamand de l'aménagement du territoire), le Conseil n'exerce qu'un contrôle de légalité, et il appartient aux requérants de démontrer que le choix dépasse les limites du raisonnable. Le principe de sécurité juridique n'empêche pas que de nouvelles prescriptions rendent impossible une activité exercée conformément aux prescriptions antérieures, même lorsque l'exploitant dispose d'un permis récent. Le moyen tiré de l'article 15 de la directive Services a échoué faute d'exposé suffisant. Le recours introduit le 16 août 2024 contre la décision du conseil communal du 29 avril 2024 a été rejeté le 30 mars 2026, les dépens étant partagés entre les requérants."
+   ],
+   "scope": "Raad van State, arrest nr. 266.233 van 30 maart 2026: gemeentelijk RUP 'Sint-Anneke Plage' (Antwerpen), artikel 1.1.4 VCRO en artikel 15 dienstenrichtlijn",
+   "dates": {
+    "adopted": "2026-03-30"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266233. 1. Het beroep, ingesteld op 16 augustus 2024, strek t tot de nietigverklaring van het besluit van de geme",
+     "https://www.raadvst-consetat.be/arresten/266233"
+    ]
+   ],
+   "inbox": [
+    "rvs:266233"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266232",
+   "d": "2026-03-30",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: Hasselt's slow-roads policy framework is not an annullable act; appeal inadmissible",
+   "a": "The Council of State held that Hasselt's municipal policy framework 'Tragewegenplan' has no binding legal effect and cannot be annulled, and declared the appeal inadmissible. Neighbourhood roads in the Atlas of Neighbourhood Roads remain municipal roads by virtue of the Municipal Roads Decree, not by virtue of the framework.",
+   "b": "The ruling concerns municipal policy frameworks on slow roads (trage wegen) adopted under the Flemish Municipal Roads Decree of 3 May 2019, and affects landowners and users of land crossed by roads listed in the Atlas of Neighbourhood Roads. The Council of State rejected an appeal against Hasselt's decision of 25 June 2024 adopting the 'Tragewegenplan'. It held that the municipality's duty under Article 10 of the Decree to take the framework's objectives and principles into account does not give the framework binding legal effect on the applicants, as the content of later decisions on individual roads is not fixed by it. Those decisions must result from a specific procedure including a public inquiry. It confirmed that an Atlas road not abolished under the 1841 Neighbourhood Roads Act by 1 September 2019 legally exists as a municipal road under Article 85 of the Decree, regardless of the physical state of the land, prescription or possession. That status derives from the Decree, so the framework does not change the legal status of the roads. Article 4.3.1, §2 of the Flemish Codex for Spatial Planning, which lets permitting authorities weigh 'policy-wise desired developments', does not make the framework binding either. The appeal was dismissed as inadmissible on 30 March 2026, with costs charged to the applicants.",
+   "nl": [
+    "Raad van State: Hasseltse tragewegenplan is geen vernietigbare rechtshandeling; beroep onontvankelijk",
+    "De Raad van State oordeelt dat het gemeentelijk beleidskader 'Tragewegenplan' van Hasselt geen bindende rechtsgevolgen heeft en niet vernietigbaar is, en verklaart het beroep onontvankelijk. Buurtwegen uit de Atlas der Buurtwegen blijven gemeentewegen krachtens het gemeentewegendecreet, niet krachtens het beleidskader.",
+    "De uitspraak betreft gemeentelijke beleidskaders over trage wegen op grond van het Vlaamse gemeentewegendecreet van 3 mei 2019 en raakt eigenaars en gebruikers van percelen waarlangs of waardoor in de Atlas der Buurtwegen opgenomen wegen lopen. De Raad van State verwierp het beroep tegen het besluit van de gemeenteraad van Hasselt van 25 juni 2024 tot definitieve vaststelling van het 'Tragewegenplan'. Dat de gemeente krachtens artikel 10 van het decreet rekening moet houden met de doelstellingen en principes van het beleidskader, geeft het kader volgens de Raad geen bindende rechtsgevolgen ten aanzien van de verzoekers, omdat de inhoud van latere beslissingen over individuele wegen er niet door vaststaat. Die beslissingen moeten het resultaat zijn van een specifieke procedure met openbaar onderzoek. De Raad bevestigt dat een buurtweg uit de Atlas die op 1 september 2019 niet was afgeschaft volgens de buurtwegenwet van 10 april 1841, juridisch bestaat als gemeenteweg in de zin van artikel 85 van het decreet, ongeacht de feitelijke toestand, verjaring of inbezitneming. Dat statuut volgt dus uit het decreet, zodat het beleidskader het juridisch statuut van de wegen niet wijzigt. Ook artikel 4.3.1, § 2, VCRO, dat de vergunningverlenende overheid toelaat 'beleidsmatig gewenste ontwikkelingen' in rekening te brengen, maakt het kader niet bindend. Het beroep werd op 30 maart 2026 onontvankelijk verklaard, met de kosten ten laste van de verzoekers."
+   ],
+   "fr": [
+    "Conseil d'État : le plan des voies lentes de Hasselt n'est pas un acte annulable ; recours irrecevable",
+    "Le Conseil d'État juge que le cadre politique communal « Tragewegenplan » de Hasselt n'a pas d'effets juridiques contraignants et ne peut être annulé, et déclare le recours irrecevable. Les chemins vicinaux de l'Atlas des chemins vicinaux restent des voies communales en vertu du décret sur les voies communales, et non en vertu du cadre politique.",
+    "L'arrêt concerne les cadres politiques communaux relatifs aux voies lentes, adoptés sur la base du décret flamand du 3 mai 2019 sur les voies communales (gemeentewegendecreet). Il touche les propriétaires et utilisateurs de terrains longés ou traversés par des chemins repris à l'Atlas des chemins vicinaux. Le Conseil d'État a rejeté le recours contre la décision du conseil communal de Hasselt du 25 juin 2024 arrêtant définitivement le « Tragewegenplan ». L'obligation faite à la commune par l'article 10 du décret de tenir compte des objectifs et principes du cadre ne lui confère pas d'effets contraignants à l'égard des requérants, car le contenu des décisions futures sur les voies individuelles n'est pas déterminé par lui. Ces décisions doivent résulter d'une procédure spécifique comprenant une enquête publique. Le Conseil confirme qu'un chemin vicinal de l'Atlas qui n'avait pas été supprimé au 1er septembre 2019 selon la loi du 10 avril 1841 sur les chemins vicinaux existe juridiquement comme voie communale au sens de l'article 85 du décret, quels que soient l'état des lieux, la prescription ou la prise de possession. Ce statut découle du décret, de sorte que le cadre ne modifie pas le statut juridique des voies. L'article 4.3.1, § 2, du VCRO, qui permet à l'autorité délivrante de prendre en compte les « développements souhaités sur le plan politique », ne rend pas non plus le cadre contraignant. Le recours a été déclaré irrecevable le 30 mars 2026, les dépens étant à charge des requérants."
+   ],
+   "scope": "Raad van State, arrest nr. 266.232 van 30 maart 2026 – gemeentewegendecreet van 3 mei 2019 (art. 10 en 85) en art. 4.3.1, § 2 VCRO; beleidskader 'Tragewegenplan stad Hasselt'",
+   "dates": {
+    "adopted": "2026-03-30"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266232. 1. Het beroep, ingesteld op 26 augustus 2024, strek t tot de nietigverklaring van het besluit van de geme",
+     "https://www.raadvst-consetat.be/arresten/266232"
+    ]
+   ],
+   "inbox": [
+    "rvs:266232"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"
