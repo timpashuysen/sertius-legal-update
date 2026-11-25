@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:23:54Z",
+ "updated": "2026-11-25T21:36:09Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -41532,6 +41532,47 @@
    ],
    "inbox": [
     "rvs:266402"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266504",
+   "d": "2026-04-27",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: a Walloon SDC cannot assign a destination to land that has none in the sector plan",
+   "a": "The Council of State annulled a ministerial refusal of a building permit in Lasne (Walloon Region). It held that a communal development scheme (SDC) may not give a destination, or restrict building, on land left without destination in the sector plan.",
+   "b": "The ruling concerns permit applications in the Walloon Region where the land is without destination in the sector plan, here after an earlier judgment set aside the plan's zoning of the plot. The SDC has only indicative value and ranks below the sector plan, which has regulatory value. It may supplement a sector plan but may not contradict it or give the land a different destination. Where the sector plan provides none, the SDC may not narrow the admissible destinations. By placing the plot in a deferred-development perimeter of landscape interest (priority 2), the Lasne SDC created a destination the sector plan does not provide. The type of destination is irrelevant, as any destination that limits the possibilities to develop the land wrongly replaces the sector plan. The Council of State disapplied the SDC under Article 159 of the Constitution, even though the SDC is not a regulation in the strict sense. The refusal, based solely on non-compliance with the SDC, was therefore unlawful and its reasoning inadequate; the decision of 24 May 2022 is annulled with a procedural indemnity of 770 euros.",
+   "nl": [
+    "Raad van State: een Waals gemeentelijk ontwikkelingsschema mag geen bestemming geven aan grond zonder bestemming op het gewestplan",
+    "De Raad van State vernietigde een ministeriële weigering van een stedenbouwkundige vergunning in Lasne (Waals Gewest). Hij oordeelde dat een gemeentelijk ontwikkelingsschema (SDC) geen bestemming mag toekennen aan grond zonder bestemming op het gewestplan en het bouwen daar niet mag beperken.",
+    "Het arrest betreft vergunningsaanvragen in het Waals Gewest voor grond zonder bestemming op het gewestplan, hier nadat een eerder arrest de bestemming van het perceel in het gewestplan had terzijde geschoven. Het SDC heeft slechts indicatieve waarde en staat hiërarchisch onder het gewestplan, dat verordenende waarde heeft. Het mag een gewestplan aanvullen en verduidelijken, maar er niet mee in strijd zijn of de grond een andere bestemming geven. Waar het gewestplan geen bestemming bepaalt, mag het SDC de toelaatbare bestemmingen niet beperken. Door het perceel op te nemen in een uitgestelde aanlegperimeter met landschappelijke waarde (prioriteit 2), creëerde het SDC van Lasne een bestemming die het gewestplan niet kent. Het type bestemming doet niet ter zake, want elke bestemming die de mogelijkheden om de grond te ontwikkelen beperkt, vervangt ten onrechte het gewestplan. De Raad van State liet het SDC buiten toepassing op grond van artikel 159 van de Grondwet, hoewel het geen verordening in strikte zin is. De weigering, uitsluitend gesteund op de niet-naleving van het SDC, is dus onwettig en onvoldoende gemotiveerd; het besluit van 24 mei 2022 is vernietigd en er is een rechtsplegingsvergoeding van 770 euro toegekend."
+   ],
+   "fr": [
+    "Conseil d'État : un SDC wallon ne peut attribuer une destination à un terrain sans destination au plan de secteur",
+    "Le Conseil d'État a annulé un refus ministériel de permis d'urbanisme à Lasne (Région wallonne). Il juge qu'un schéma de développement communal (SDC) ne peut attribuer une destination à un terrain sans destination au plan de secteur, ni y restreindre la construction.",
+    "L'arrêt concerne les demandes de permis en Région wallonne portant sur un terrain sans destination au plan de secteur, ici après qu'un arrêt antérieur a écarté l'inscription de la parcelle au plan de secteur. Le SDC n'a qu'une valeur indicative et se situe hiérarchiquement sous le plan de secteur, qui a valeur réglementaire. Il peut préciser et compléter un plan de secteur, mais ne peut lui être contraire ni donner aux zones une destination différente. Lorsque le plan de secteur n'en prévoit aucune, le SDC ne peut restreindre les destinations admissibles. En inscrivant la parcelle en périmètre d'aménagement différé d'intérêt paysager de priorité n° 2, le SDC de Lasne a créé une destination que le plan de secteur ne prévoit pas. Le type de destination importe peu, dès lors que toute destination limitant les possibilités d'urbaniser et d'aménager la zone se substitue irrégulièrement au plan de secteur. Le Conseil d'État a écarté le SDC sur la base de l'article 159 de la Constitution, bien qu'il ne soit pas un règlement au sens strict. Le refus, fondé exclusivement sur le non-respect du SDC, est donc illégal et sa motivation inadéquate ; l'arrêté du 24 mai 2022 est annulé et une indemnité de procédure de 770 euros est accordée."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.504 du 27 avril 2026 : CoDT, art. D.II.10, D.II.16, D.II.18 et D.II.55 ; schéma de développement communal de Lasne ; article 159 de la Constitution",
+   "dates": {
+    "adopted": "2026-04-27"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266504. 1. Par une requête introduite le 1 er août 2022, les parties requérantes demandent l’annulation de l’arrê",
+     "https://www.raadvst-consetat.be/arresten/266504"
+    ]
+   ],
+   "inbox": [
+    "rvs:266504"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"
