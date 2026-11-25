@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:00:39Z",
+ "updated": "2026-11-25T22:13:16Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -41733,6 +41733,86 @@
    ],
    "inbox": [
     "rvs:266562"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266610",
+   "d": "2026-05-07",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: replacing a grass verge with a pavement widens a municipal road and needs adequate reasoning",
+   "a": "The Council of State annulled a Walloon planning permit for two residential buildings because it did not explain why a new pavement would not modify the municipal road under the Walloon road decree. It held that building a pavement on a grass verge not used as a public passage widens the space for public passage.",
+   "b": "The ruling concerns planning permits in Wallonia where works touch a municipal road, and it applies to permitting authorities and developers. Under the decree of 6 February 2014 on municipal roads, a road is modified only where the space intended for public passage is widened or narrowed, excluding road equipment. The Council of State held that making an already accessible space easier to use, for example by replacing a grass verge with a hard-surfaced one, is not a widening. Building a pavement in place of a grass verge that was accessible but not meant as a public passage is a widening, which requires the prior agreement of the municipal council (or the Government on appeal). A ground alleging an unlawful road modification without that agreement concerns the competence of the author of the act, so it is a matter of public policy and the Council may raise it of its own motion. Where a objection raised during the public announcement and not contradicted by the file points to a road modification, the permit must show that the authority examined it adequately. Here the permit said only that the application involved no road procedure, which the Council found too succinct and stereotyped, and it annulled the permit of 29 July 2024 on that basis. The judgment is dated 7 May 2026.",
+   "nl": [
+    "Raad van State: een voetpad op een grasberm verbreedt de gemeenteweg en vereist een deugdelijke motivering",
+    "De Raad van State vernietigde een Waalse stedenbouwkundige vergunning voor twee woongebouwen omdat niet werd uitgelegd waarom een nieuw voetpad geen wijziging van de gemeenteweg zou inhouden. Een voetpad op een grasberm die niet als openbare doorgang bedoeld was, verbreedt volgens de Raad de voor het publiek bestemde ruimte.",
+    "Het arrest betreft Waalse stedenbouwkundige vergunningen voor werken aan een gemeenteweg en geldt voor vergunningverlenende overheden en aanvragers. Volgens het decreet van 6 februari 2014 over de gemeentewegen is er alleen een wijziging van de weg bij een verbreding of versmalling van de voor het publiek bestemde ruimte, met uitsluiting van de uitrusting van de wegen. De Raad van State oordeelt dat het beter begaanbaar maken van een reeds toegankelijke ruimte, bijvoorbeeld door een grasberm te vervangen door een verharde berm, geen verbreding is. Het aanleggen van een voetpad in de plaats van een grasberm die wel toegankelijk was maar niet bedoeld als openbare doorgang, is wel een verbreding waarvoor de voorafgaande instemming van de gemeenteraad (of van de Regering in beroep) vereist is. Een middel over een onwettige wijziging van een gemeenteweg zonder die instemming betreft de bevoegdheid van de steller van de akte, raakt de openbare orde en kan door de Raad ambtshalve worden opgeworpen. Wanneer een bezwaar uit de aankondiging van het project niet door het dossier wordt weerlegd en wijst op een wijziging van de weg, moet de vergunning laten blijken dat de overheid dit deugdelijk heeft onderzocht. Hier stelde de vergunning enkel dat de aanvraag geen wegenprocedure inhield, wat de Raad te beknopt en stereotiep vond, en hij vernietigde de vergunning van 29 juli 2024. Het arrest dateert van 7 mei 2026."
+   ],
+   "fr": [
+    "Conseil d'État : un trottoir sur un accotement enherbé élargit la voirie communale et exige une motivation adéquate",
+    "Le Conseil d'État a annulé un permis d'urbanisme wallon pour deux immeubles de logements, faute d'explication sur les raisons pour lesquelles un nouveau trottoir ne modifierait pas la voirie communale. Il juge que la construction d'un trottoir sur un accotement enherbé qui n'avait pas vocation à servir de passage public élargit l'espace destiné au passage du public.",
+    "L'arrêt concerne les permis d'urbanisme en Wallonie lorsque des travaux touchent une voirie communale ; il vise les autorités délivrantes et les demandeurs. Selon le décret du 6 février 2014 relatif à la voirie communale, il n'y a modification de voirie que lorsque l'espace destiné au passage du public est élargi ou rétréci, à l'exclusion de l'équipement des voiries. Le Conseil d'État juge que l'augmentation de la praticabilité d'un espace déjà accessible, par exemple le remplacement d'un accotement enherbé par un accotement artificialisé, n'est pas un élargissement. La construction d'un trottoir à la place d'un accotement enherbé accessible mais sans vocation de passage public constitue en revanche un élargissement, qui requiert l'accord préalable du conseil communal (ou du Gouvernement sur recours). Le moyen dénonçant une modification illégale de voirie communale sans cet accord touche à la compétence de l'auteur de l'acte, relève de l'ordre public et peut être soulevé d'office par le Conseil. Lorsqu'une réclamation formulée lors de l'annonce de projet, que le dossier ne dément pas, évoque une modification de voirie, le permis doit faire apparaître que l'autorité a procédé à un examen adéquat. Ici, le permis se bornait à indiquer que la demande n'impliquait pas de procédure voirie, motivation jugée particulièrement succincte et stéréotypée, et le Conseil a annulé le permis du 29 juillet 2024. L'arrêt est daté du 7 mai 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.610 du 7 mai 2026 : décret du 6 février 2014 relatif à la voirie communale (art. 2 et 7) ; art. D.IV.41 CoDT ; motivation formelle",
+   "dates": {
+    "adopted": "2026-05-07"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266610. Par une requête introduite le 11 octobre 2024, les parties requérantes demandent l’annulation de l’arrêté",
+     "https://www.raadvst-consetat.be/arresten/266610"
+    ]
+   ],
+   "inbox": [
+    "rvs:266610"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266583",
+   "d": "2026-05-05",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State annuls Namur permit lacking binding opinion on PMR accessibility derogation",
+   "a": "The Council of State annuls a Namur urbanism permit for two residential projects. One of them derogated from the PMR accessibility regulation, so the permit could only be granted with the binding opinion of the fonctionnaire délégué, which was missing. The ruling also clarifies the scope of Article 414 of that regulation.",
+   "b": "The ruling concerns urbanism permits for multi-dwelling buildings in Wallonia and the PMR (reduced mobility) accessibility regulation integrated in the regional urbanism guide. Under Article 414, §1, 11°, the regulation covers the common parts of all levels, including dwelling entrance doors, in multi-dwelling buildings with a lift. In buildings without a lift it covers only the ground-floor common parts, and only where the ground floor contains dwellings. Parkings fall under it only from 10 spaces (12°). The Council of State therefore finds that the new building on avenue Léopold II (no lift, no ground-floor dwelling, six parking spaces) is outside the regulation. By contrast, the house on avenue de Tabora, converted into four dwellings with a new lift shaft, is a major transformation, and none of the exclusions in Article 414, §2, 1° applies. The access via steps breaches Article 415/1, and claims of a step-free rear access were not supported by the permit plans. A permit that derogates from the guide's standards can only be issued on the binding opinion of the fonctionnaire délégué (Article D.IV.17, para. 1, 1° CoDT). Without it the college communal lacked competence, and the permit of 29 June 2021 is annulled. The Court adds that a ground based on lack of competence is a matter of public order, so applicants need not show an interest in raising it, and it may be developed in the reply brief subject to procedural loyalty. The other grounds were not examined. The ruling is dated 5 May 2026 and takes effect on delivery; it orders a procedural indemnity of 924 euros against the municipality.",
+   "nl": [
+    "Raad van State vernietigt Naamse vergunning zonder eensluidend advies over afwijking van PMR-toegankelijkheid",
+    "De Raad van State vernietigt een stedenbouwkundige vergunning van Namen voor twee woonprojecten. Een van de projecten week af van de PMR-verordening en kon dus enkel worden vergund met het eensluidend advies van de gemachtigde ambtenaar, dat ontbrak. Het arrest verduidelijkt ook het toepassingsgebied van artikel 414 van die verordening.",
+    "Het arrest betreft stedenbouwkundige vergunningen voor meergezinswoningen in Wallonië en de PMR-verordening (personen met beperkte mobiliteit) die in de gewestelijke stedenbouwkundige gids is opgenomen. Artikel 414, §1, 11° viert de gemeenschappelijke delen van alle niveaus, met inbegrip van de toegangsdeuren van elke woning, in meergezinsgebouwen met lift. In gebouwen zonder lift gaat het enkel om de gemeenschappelijke delen van de benedenverdieping, en alleen als die verdieping woningen bevat. Parkings vallen er pas vanaf 10 plaatsen onder (12°). De Raad van State oordeelt dan ook dat het nieuwe gebouw aan de avenue Léopold II (geen lift, geen woning op de benedenverdieping, zes parkeerplaatsen) buiten de verordening valt. De woning aan de avenue de Tabora, omgebouwd tot vier woningen met een nieuwe liftschacht, is daarentegen een ingrijpende verbouwing en geen enkele uitsluiting van artikel 414, §2, 1° is van toepassing. De toegang via trappen schendt artikel 415/1, en de beweerde trapvrije achteringang werd niet gestaafd door de vergunningsplannen. Een vergunning die afwijkt van de normen van de gids kan enkel worden afgegeven met het eensluidend advies van de gemachtigde ambtenaar (artikel D.IV.17, eerste lid, 1° CoDT). Zonder dat advies was het gemeentecollege onbevoegd en wordt de vergunning van 29 juni 2021 vernietigd. De Raad voegt eraan toe dat een middel over onbevoegdheid de openbare orde raakt, zodat de verzoekers geen belang hoeven aan te tonen en het middel in de wederantwoordnota mag worden uitgewerkt, onder voorbehoud van procedurele loyauteit. De overige middelen werden niet onderzocht. Het arrest is gewezen op 5 mei 2026 en kent een rechtsplegingsvergoeding van 924 euro toe ten laste van de stad."
+   ],
+   "fr": [
+    "Le Conseil d'État annule un permis namurois sans avis conforme sur une dérogation au règlement PMR",
+    "Le Conseil d'État annule un permis d'urbanisme délivré par la ville de Namur pour deux projets de logements. L'un d'eux dérogeait au règlement PMR et ne pouvait être autorisé que sur avis conforme du fonctionnaire délégué, qui faisait défaut. L'arrêt précise aussi le champ d'application de l'article 414 de ce règlement.",
+    "L'arrêt concerne les permis d'urbanisme relatifs à des immeubles à logements multiples en Wallonie et le règlement PMR (personnes à mobilité réduite) intégré dans le guide régional d'urbanisme. L'article 414, § 1er, 11°, vise les parties communes de tous les niveaux, y compris les portes d'entrée de chaque logement, dans les immeubles à logements multiples desservis par un ascenseur. Dans les immeubles sans ascenseur, il ne vise que les parties communes du rez-de-chaussée, et seulement si celui-ci accueille du logement. Les parkings n'y sont soumis qu'à partir de 10 emplacements (12°). Le Conseil d'État juge dès lors que le nouvel immeuble de l'avenue Léopold II (sans ascenseur, sans logement au rez-de-chaussée, six emplacements) échappe au règlement. En revanche, la maison de l'avenue de Tabora, transformée en quatre logements avec une nouvelle cage d'ascenseur, fait l'objet de transformations majeures et aucune exclusion de l'article 414, § 2, 1° ne s'applique. L'accès par des marches méconnaît l'article 415/1, et l'accès arrière sans marche invoqué ne ressortait pas des plans de la demande. Un permis dérogeant aux normes du guide ne peut être délivré que sur avis conforme du fonctionnaire délégué (article D.IV.17, alinéa 1er, 1° CoDT). En l'absence de cet avis, le collège communal était sans compétence et le permis du 29 juin 2021 est annulé. Le Conseil ajoute qu'un grief d'incompétence relève de l'ordre public, de sorte que les requérants n'ont pas à justifier d'un intérêt et peuvent le développer dans le mémoire en réplique, sous réserve de la loyauté procédurale. Les autres moyens n'ont pas été examinés. L'arrêt est prononcé le 5 mai 2026 et accorde une indemnité de procédure de 924 euros à charge de la ville."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.583 du 5 mai 2026 : CoDT, art. D.IV.13 et D.IV.17, al. 1er, 1° ; règlement PMR (GRU), art. 414 et 415/1",
+   "dates": {
+    "adopted": "2026-05-05"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266583. 1. Par une requête introduite le 14 septembre 2021, les parties requérantes demandent, d’une part, l’annu",
+     "https://www.raadvst-consetat.be/arresten/266583"
+    ]
+   ],
+   "inbox": [
+    "rvs:266583"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"
