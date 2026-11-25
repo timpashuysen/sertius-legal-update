@@ -69727,26 +69727,26 @@
 "relevant": 1163,
 "not_relevant": 5746,
 "excluded_by_rule": 326,
-"this_run": 19,
+"this_run": 0,
 "api": {
-"calls": 19,
-"input_tokens": 173417,
-"output_tokens": 3608,
-"usd": 0.0191
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 4,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 4,
-"input_tokens": 50605,
-"output_tokens": 12750,
-"usd": 0.2287
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-25"
 },
