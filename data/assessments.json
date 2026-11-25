@@ -73463,37 +73463,50 @@
 "reason": "Asylum case; cassation rejected applying settled principles on file access and credibility assessment; no general instrument annulled and no new interpretation of environmental or planning law.",
 "confidence": "high",
 "at": "2026-11-25"
+},
+"rvs:266691": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Animal welfare decision on one dog; applies settled principles on reasonableness, care and fair play; no instrument annulled and no new general interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7441,
-"assessed": 7441,
+"in_scope": 7442,
+"assessed": 7442,
 "waiting": 0,
 "relevant": 610,
-"not_relevant": 6505,
+"not_relevant": 6506,
 "excluded_by_rule": 326,
-"this_run": 28,
+"this_run": 1,
 "api": {
-"calls": 29,
-"input_tokens": 287467,
-"output_tokens": 6212,
-"usd": 0.0569
+"calls": 1,
+"input_tokens": 7515,
+"output_tokens": 98,
+"usd": 0.0008
 },
 "key_present": true,
 "updated": "2026-11-25",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 1,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 1,
-"input_tokens": 12348,
-"output_tokens": 3253,
-"usd": 0.0572
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-25"
 },

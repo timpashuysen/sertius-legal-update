@@ -1,6 +1,6 @@
 {
-"next": 266691,
-"misses": 0,
+"next": 266699,
+"misses": 6,
 "kept": {
 "265318": {
 "d": "2026-01-05",
@@ -7386,26 +7386,34 @@
 "score": 0,
 "subject": "1. Het beroep, ingesteld op 1 juni 2024, strekt tot de nietigverklaring van de beslissing van 17 mei 2024 van de Nederlandstalige multidisciplinaire kamer van de Federale Commissie voor toezicht op de praktijkvoering in de gezondheidszorg waarbij de ee rder genomen beslissing van 19 april 2024 tot onmiddellijke intrekking van het visum van verzoeker wordt bevestigd en voor zover als nodig wordt hernomen. II. Verloop",
 "lang": "nl"
+},
+"266691": {
+"d": "2026-05-18",
+"url": "https://www.raadvst-consetat.be/arresten/266691",
+"score": 1,
+"subject": "1. Het beroep, ingesteld op 11 oktober 2024, strekt tot de nietigverklaring van “de beslissing van het Departe ment Omgeving, afdeling Dierenwelzijn […] van 21 augustus 2024, dossiernumm er G-24-4424”. II. Verloop van de rechtspleging 2. Bij arrest nr. 263.793 van 27 juni 2025 is het d ebat heropend. Eerste auditeur Frederic Eggermont heeft een aanvullend verslag opgesteld. Verzoekster heeft een verzoek tot voortzet",
+"lang": "nl"
 }
 },
-"read": 1277,
+"read": 1278,
 "pattern": 0,
-"last_hit": 266690,
+"last_hit": 266691,
 "caught_up": false,
-"last_error": "<urlopen error timed out> at 266690",
+"last_error": "<urlopen error timed out> at 266699",
 "summary": {
-"next": 266691,
-"read": 1277,
-"kept": 1055,
+"next": 266699,
+"read": 1278,
+"kept": 1056,
 "caught_up": false,
 "blocked": false,
-"skipped": 2,
-"last_error": "<urlopen error timed out> at 266690",
-"updated": "2026-11-25T22:34:50Z"
+"skipped": 3,
+"last_error": "<urlopen error timed out> at 266699",
+"updated": "2026-11-25T22:47:20Z"
 },
 "blocked": false,
 "skipped": [
 266215,
-266537
+266537,
+266696
 ]
 }
