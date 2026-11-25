@@ -67843,38 +67843,189 @@
 "reason": "Union authorisation for one biocidal product family; individual product authorisation.",
 "confidence": "medium",
 "at": "2026-11-24"
+},
+"rvs:266221": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Withdrawal of the appeal against a PRUP and MER screening decision; case ends by withdrawal with costs, no statement of wider legal rule.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266219": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum reception law, not environmental, planning or permit law; the suspension concerns Fedasil reception limits for beneficiaries of protection elsewhere.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266218": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute on standing to suspend a tender decision; falls outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266217": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement of lawyers for State representation; not environmental, planning or permit law, so the screening test is not met.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266216": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement-style domain concession for LED advertising screens; not environmental, planning or permit law, so outside the screening scope.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266211": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "An environmental permit deviating from a municipal structure plan must state the D.IV.5 CoDT conditions unless an earlier urban permit already granted the deviation.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266211"
+},
+"rvs:266210": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute on a framework agreement for meal vouchers; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266209": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Disciplinary dismissal of a teacher by a municipality; employment and disciplinary law, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266208": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a Française Community youth-house (maison des jeunes) accreditation withdrawal under youth policy decree; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266207": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Federal police disciplinary dismissal of a civil servant; civil service law, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266204": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil-status dispute over nationality declaration inadmissibility; not environmental, planning or permit law; ruling is a procedural desistement.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266203": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Education law case about a school orientation attestation; no environmental, planning or permit law content; ruling only declares loss of object after withdrawal.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266202": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a school exam accommodation (third-party helper for CESS exams) under Communauté française; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"codex:1042514": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Vehicle technical approval sanctions fall under road traffic and vehicle rules.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"codex:1042513": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Interpretation of the broadcasting decree concerns media law, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7062,
-"assessed": 7062,
+"in_scope": 7077,
+"assessed": 7077,
 "waiting": 0,
-"relevant": 1123,
-"not_relevant": 5613,
+"relevant": 1124,
+"not_relevant": 5627,
 "excluded_by_rule": 326,
-"this_run": 13,
+"this_run": 15,
 "api": {
-"calls": 1,
-"input_tokens": 2704,
-"output_tokens": 1386,
-"usd": 0.001
+"calls": 14,
+"input_tokens": 112377,
+"output_tokens": 1540,
+"usd": 0.012
 },
 "key_present": true,
-"updated": "2026-11-24"
+"updated": "2026-11-25"
 },
 "writer": {
-"this_run": 0,
+"this_run": 1,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 8910,
+"output_tokens": 3327,
+"usd": 0.0511
 },
-"updated": "2026-11-24"
+"updated": "2026-11-25"
 },
 "writer_v": 2,
 "rulings_reset": 228
