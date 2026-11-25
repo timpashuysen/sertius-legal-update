@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:03:14Z",
+ "updated": "2026-11-25T03:16:47Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -40274,6 +40274,331 @@
    ],
    "inbox": [
     "rvs:266232"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266306",
+   "d": "2026-04-07",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council of State annuls refused wind farm permit: Walloon Territory Minister lacked sole competence",
+   "a": "The Council of State annulled the Walloon Minister for Territory's refusal of a 'permis unique' for six wind turbines in Couvin. The minister could not decide appeal files alone under the 15 July 2024 allocation decree, and the retroactive October 2024 decree was disapplied.",
+   "b": "The ruling concerns 'permis unique' appeals decided by the Walloon Government between 15 July and 10 October 2024, here the refusal of 6 wind turbines (23.4 MW) in Couvin. Following its judgment no. 264.167, the Council of State disapplied, under Article 159 of the Constitution, the retroactive effect to 15 July 2024 of the Walloon Government decree of 10 October 2024. The general reasons given (continuity of public service, legal certainty, correcting errors) did not show exceptional circumstances, and the retroactivity influenced pending proceedings. Competence is therefore assessed under the 15 July 2024 decree: appeals on a 'permis unique' fall jointly to the ministers for Territory and for Environment. The delegation to the Territory Minister covered only signing permits on appeal, not deciding them, and not refusals; nothing showed a joint decision. The refusal of 8 August 2024 is annulled. The annulment does not confirm the first-instance refusal: the appeal authority must decide again on the appeals, with a full new period running from notification of the judgment, and the applicant keeps its interest in challenging that new decision. The ruling is dated 7 April 2026; the applicant's successor after a merger by absorption (effective 28 July 2025) took over the proceedings.",
+   "nl": [
+    "Raad van State vernietigt geweigerde windparkvergunning: Waalse minister van Grondgebied niet alleen bevoegd",
+    "De Raad van State vernietigde de weigering door de Waalse minister van Grondgebied van een «permis unique» voor zes windturbines in Couvin. Volgens het besluit van 15 juli 2024 kon de minister beroepsdossiers niet alleen beslissen, en het retroactieve besluit van oktober 2024 werd buiten toepassing gelaten.",
+    "Het arrest betreft beroepen inzake een «permis unique» (enige vergunning) die tussen 15 juli en 10 oktober 2024 door de Waalse Regering werden beslist, hier de weigering voor 6 windturbines (23,4 MW) in Couvin. In navolging van arrest nr. 264.167 liet de Raad van State, op grond van artikel 159 van de Grondwet, de terugwerkende kracht tot 15 juli 2024 van het besluit van de Waalse Regering van 10 oktober 2024 buiten toepassing. De aangevoerde algemene redenen (continuïteit van de openbare dienst, rechtszekerheid, herstel van fouten) toonden geen uitzonderlijke omstandigheden aan, en de retroactiviteit beïnvloedde hangende procedures. De bevoegdheid wordt dus getoetst aan het besluit van 15 juli 2024: beroepen inzake een «permis unique» behoren gezamenlijk toe aan de ministers van Grondgebied en van Leefmilieu. De delegatie aan de minister van Grondgebied betrof enkel het ondertekenen van vergunningen in beroep, niet het beslissen, en evenmin weigeringen; niets wees op een gezamenlijke beslissing. De weigering van 8 augustus 2024 wordt vernietigd. De vernietiging bevestigt de weigering in eerste aanleg niet: de beroepsinstantie moet opnieuw over de beroepen beslissen, met een volledig nieuwe termijn vanaf de kennisgeving van het arrest, en de aanvrager behoudt zijn belang bij een betwisting van die nieuwe beslissing. Het arrest dateert van 7 april 2026; de opvolger van de verzoekende partij na een fusie door overneming (effectief op 28 juli 2025) nam het geding over."
+   ],
+   "fr": [
+    "Le Conseil d'État annule un refus de permis éolien : le ministre wallon du Territoire n'était pas seul compétent",
+    "Le Conseil d'État a annulé le refus, par le ministre wallon du Territoire, d'un permis unique pour six éoliennes à Couvin. Selon l'arrêté du 15 juillet 2024, le ministre ne pouvait statuer seul sur les recours, et l'arrêté rétroactif d'octobre 2024 a été écarté.",
+    "L'arrêt concerne les recours en matière de permis unique tranchés par le Gouvernement wallon entre le 15 juillet et le 10 octobre 2024, ici le refus portant sur 6 éoliennes (23,4 MW) à Couvin. Dans le prolongement de son arrêt n° 264.167, le Conseil d'État a écarté, sur la base de l'article 159 de la Constitution, l'effet rétroactif au 15 juillet 2024 de l'arrêté du Gouvernement wallon du 10 octobre 2024. Les motifs généraux invoqués (continuité du service public, sécurité juridique, correction d'erreurs) ne démontraient pas de circonstances exceptionnelles, et la rétroactivité influençait des procédures en cours. La compétence s'apprécie donc au regard de l'arrêté du 15 juillet 2024 : les recours en matière de permis unique relèvent conjointement des ministres du Territoire et de l'Environnement. La délégation au ministre du Territoire ne visait que la signature des permis uniques en recours, non la décision, et pas davantage les refus ; rien ne montrait une décision conjointe. Le refus du 8 août 2024 est annulé. L'annulation ne confirme pas le refus de première instance : l'autorité de recours doit statuer à nouveau sur les recours, avec un nouveau délai complet courant à partir de la notification de l'arrêt, et le demandeur conserve un intérêt à contester cette nouvelle décision. L'arrêt date du 7 avril 2026 ; le successeur de la partie requérante, à la suite d'une fusion par absorption (effective le 28 juillet 2025), a repris l'instance."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.306 du 7 avril 2026 : annulation du refus de permis unique du 8 août 2024 (parc de 6 éoliennes, Couvin) ; compétence du ministre du Territoire (AGW du 15 juillet 2024) ; écartement de l'article 31 de l'AGW du 10 octobre 2024 (art. 159 Constitution)",
+   "dates": {
+    "adopted": "2026-04-07"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266306. 1. Par une requête introduite le 11 octobre 2024, la partie requérante demande l’annulation de l’arrêté d",
+     "https://www.raadvst-consetat.be/arresten/266306"
+    ]
+   ],
+   "inbox": [
+    "rvs:266306"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266298",
+   "d": "2026-04-07",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law",
+    "soil"
+   ],
+   "h": "Council of State clarifies Vlarem II manure storage, late renewal and lapse rules for livestock permits",
+   "a": "The Council of State dismissed an appeal against a 2023 provincial decision granting an environmental permit to continue and change a cattle farm. It confirmed that breaches of operating conditions are a matter of supervision, that a late renewal application stays valid, and that the lapse and start-up periods run only once the permit is final.",
+   "b": "The ruling concerns operators of livestock establishments holding permits under the former environmental permit decree of 28 June 1985, and the authorities deciding on them. Non-compliance with the general, sectoral and special operating conditions, such as the manure storage rule in Article 5.9.2.2 of Vlarem II, is a matter of supervision and does not make the permit unlawful. A permit must however in principle be refused where it is established that the establishment cannot possibly meet the conditions. The Council held that the storage obligation can also be met by showing that manure is kept off farmland in another lawful way, and accepted that a surplus could go to a permitted manure heap on the operator's other site. It also held that stables serving as lying area are not storage places under heading 28.2, so manure in them counts towards the capacity. An application to renew a permit filed less than 12 months before expiry (Article 18, § 3 of the decree) is neither inadmissible nor does it make the permit unlawful; the operator only loses the right to keep operating until a decision is taken (Article 39, § 4 of Vlarem I). The start-up period and the lapse for two consecutive years of non-operation (Article 28 of the decree) apply only once the permit is final and no longer subject to an appeal, so non-use between the first-instance and appeal decisions does not in principle cause lapse. Grounds that do not clearly identify the rule breached and how are inadmissible under Article 2, § 1, 3° of the general procedural rules. The ruling of 7 April 2026 rejects the appeal.",
+   "nl": [
+    "Raad van State verduidelijkt Vlarem II-mestopslag, laattijdige hernieuwing en verval bij veeteeltvergunningen",
+    "De Raad van State verwerpt het beroep tegen een besluit van de deputatie uit 2023 over een milieuvergunning voor het verder exploiteren en veranderen van een rundveebedrijf. Hij bevestigt dat overtredingen van exploitatievoorwaarden een zaak van toezicht zijn, dat een laattijdige hernieuwingsaanvraag geldig blijft en dat de termijnen voor ingebruikname en verval pas lopen wanneer de vergunning definitief is.",
+    "Het arrest betreft exploitanten van veeteeltinrichtingen met een vergunning onder het decreet van 28 juni 1985 betreffende de milieuvergunning, en de overheden die erover beslissen. Het niet naleven van de algemene, sectorale en bijzondere exploitatievoorwaarden, zoals de mestopslagregel van artikel 5.9.2.2 van Vlarem II, is een zaak van toezicht en maakt de vergunning niet onwettig. Een vergunning moet wel in principe worden geweigerd wanneer vaststaat dat de inrichting onmogelijk aan de voorwaarden kan voldoen. De Raad oordeelt dat aan de opslagverplichting ook kan worden voldaan door aan te tonen dat mest op een andere reglementaire manier van cultuurgrond wordt weggehouden, en aanvaardt dat een overschot naar een vergunde mestvaalt op een andere site van de exploitant gaat. Stallen die als ligplaats dienen, zijn geen opslagplaatsen in de zin van rubriek 28.2, zodat de mest erin meetelt voor de capaciteit. Een hernieuwingsaanvraag die minder dan 12 maanden voor het verstrijken van de vergunning wordt ingediend (artikel 18, § 3 van het decreet) is niet onontvankelijk en maakt de vergunning niet onwettig; de exploitant verliest enkel het recht om de exploitatie voort te zetten tot over de aanvraag is beslist (artikel 39, § 4 van Vlarem I). De termijn van ingebruikname en het verval na twee opeenvolgende jaren zonder exploitatie (artikel 28 van het decreet) gelden pas wanneer de vergunning definitief is en niet meer het voorwerp van een beroep uitmaakt; niet-gebruik tussen de beslissing in eerste aanleg en die in beroep leidt in principe dus niet tot verval. Middelen die de geschonden regel en de wijze van schending niet duidelijk omschrijven, zijn onontvankelijk op grond van artikel 2, § 1, 3° van het algemeen procedurereglement. Het arrest van 7 april 2026 verwerpt het beroep."
+   ],
+   "fr": [
+    "Le Conseil d'État précise les règles Vlarem II sur le stockage du fumier, le renouvellement tardif et la caducité des permis d'élevage",
+    "Le Conseil d'État rejette le recours dirigé contre une décision de la députation de 2023 relative à un permis d'environnement pour la poursuite et la modification d'un élevage bovin. Il confirme que le non-respect des conditions d'exploitation relève du contrôle, qu'une demande de renouvellement tardive reste valable et que les délais de mise en service et de caducité ne courent que lorsque le permis est définitif.",
+    "L'arrêt concerne les exploitants d'établissements d'élevage titulaires d'un permis délivré sous le décret du 28 juin 1985 relatif au permis d'environnement, ainsi que les autorités qui statuent sur ces permis. Le non-respect des conditions d'exploitation générales, sectorielles et particulières, comme la règle de stockage du fumier de l'article 5.9.2.2 du Vlarem II, relève du contrôle et ne rend pas le permis illégal. Un permis doit toutefois en principe être refusé lorsqu'il est établi que l'établissement ne peut en aucun cas respecter les conditions. Le Conseil juge que l'obligation de stockage peut aussi être remplie en démontrant que le fumier est tenu éloigné des terres agricoles d'une autre manière réglementaire, et admet qu'un excédent soit dirigé vers un tas de fumier autorisé situé sur un autre site de l'exploitant. Les étables servant d'aire de couchage ne sont pas des lieux de stockage au sens de la rubrique 28.2, de sorte que le fumier qui s'y trouve compte dans la capacité. Une demande de renouvellement introduite moins de 12 mois avant l'expiration du permis (article 18, § 3 du décret) n'est pas irrecevable et ne rend pas le permis illégal ; l'exploitant perd seulement le droit de poursuivre l'exploitation jusqu'à ce qu'il soit statué sur la demande (article 39, § 4 du Vlarem I). Le délai de mise en service et la caducité après deux années consécutives sans exploitation (article 28 du décret) ne s'appliquent que lorsque le permis est définitif et ne fait plus l'objet d'un recours ; l'absence d'exploitation entre la décision de première instance et celle prise en recours n'entraîne donc en principe pas la caducité. Les moyens qui n'identifient pas clairement la règle violée et la manière dont elle l'a été sont irrecevables en vertu de l'article 2, § 1er, 3° du règlement général de procédure. L'arrêt du 7 avril 2026 rejette le recours."
+   ],
+   "scope": "Raad van State, arrest nr. 266.298 van 7 april 2026: Vlarem II art. 5.9.2.2, § 5; decreet van 28 juni 1985 betreffende de milieuvergunning, art. 18, § 3 en art. 28; Vlarem I art. 39, § 4",
+   "dates": {
+    "adopted": "2026-04-07"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266298. 1. Het beroep, ingesteld op 20 februari 2024, strek t tot de nietigverklaring van het besluit van de depu",
+     "https://www.raadvst-consetat.be/arresten/266298"
+    ]
+   ],
+   "inbox": [
+    "rvs:266298"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266270",
+   "d": "2026-04-02",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "soil"
+   ],
+   "h": "Council of State: soil remediation conformity certificate need only be notified to owners of land where works take place",
+   "a": "The Council of State held that only owners and users of land on which remediation works will actually take place must be notified of OVAM's conformity certificate. Owners of neighbouring plots reached by the contamination, or affected by effects such as groundwater lowering, rely on the public posting, and their appeal period runs from that posting.",
+   "b": "The ruling concerns administrative appeals against OVAM decisions declaring a soil remediation project conform under the Soil Decree of 27 October 2006. Article 88 §2 of Vlarebo requires OVAM to notify the certificate to, among others, owners and users of land on which works necessary for the remediation will take place. The Council held that this is judged from the description of the works in the project declared conform. Land that the contamination has spread to is not covered, even if the works may physically affect it, for example by lowering the groundwater level, because such effects are not the execution of the works. An owner of such land is therefore one of the persons relying on posting, and under Article 147 of the Soil Decree must appeal within thirty days of the first day of posting. Criticism that the works are insufficient and should extend to the owner's land goes to the merits and does not create a right to notification. The Council also held that the duty to be heard does not apply to a decision declaring an administrative appeal inadmissible, and that the standard procedure and codes of good practice were not the basis of the decision, so the plea of illegality against them was pointless. The annulment application was rejected on 2 April 2026.",
+   "nl": [
+    "Raad van State: conformiteitsattest bodemsaneringsproject moet enkel ter kennis worden gebracht van eigenaars van gronden met werken",
+    "De Raad van State oordeelt dat het conformiteitsattest van OVAM enkel ter kennis moet worden gebracht van eigenaars en gebruikers van gronden waarop saneringswerken daadwerkelijk plaatsvinden. Eigenaars van aanpalende percelen waarnaar de verontreiniging zich heeft verspreid, of die gevolgen ondervinden zoals een grondwaterverlaging, zijn aangewezen op de bekendmaking via aanplakking en hun beroeptermijn loopt vanaf die aanplakking.",
+    "Het arrest betreft bestuurlijke beroepen tegen beslissingen van OVAM waarbij een bodemsaneringsproject conform wordt verklaard met het bodemdecreet van 27 oktober 2006. Artikel 88, §2, van het Vlarebo verplicht OVAM om het conformiteitsattest onder meer ter kennis te brengen van de eigenaars en gebruikers van gronden waarop werken zullen plaatsvinden die noodzakelijk zijn om de bodemsanering uit te voeren. Volgens de Raad wordt dit beoordeeld aan de hand van de beschrijving van de werken in het conformverklaarde project. Gronden waarnaar de verontreiniging zich heeft verspreid vallen daar niet onder, ook niet wanneer de werken fysische gevolgen kunnen hebben zoals een verlaging van de grondwaterstand, omdat die gevolgen niet gelijkstaan met de uitvoering van de werken zelf. De eigenaar van zo'n grond is dus aangewezen op de aanplakking en moet krachtens artikel 147 van het bodemdecreet beroep indienen binnen dertig dagen na de eerste dag van de aanplakking. De kritiek dat de werken onvoldoende zijn en ook op de grond van de eigenaar moeten plaatsvinden, betreft de grond van de zaak en geeft geen recht op kennisgeving. De Raad oordeelt ook dat de hoorplicht niet geldt voor een beslissing waarbij een bestuurlijk beroep onontvankelijk wordt verklaard, en dat de standaardprocedure en de codes van goede praktijk niet de grondslag van de beslissing vormden, zodat de exceptie van onwettigheid doelloos was. Het beroep tot nietigverklaring werd op 2 april 2026 verworpen."
+   ],
+   "fr": [
+    "Conseil d'État : l'attestation de conformité d'un projet d'assainissement du sol n'est notifiée qu'aux propriétaires des terrains où des travaux ont lieu",
+    "Le Conseil d'État juge que l'attestation de conformité de l'OVAM ne doit être notifiée qu'aux propriétaires et utilisateurs des terrains sur lesquels les travaux d'assainissement seront effectivement réalisés. Les propriétaires de parcelles voisines atteintes par la pollution, ou touchées par des effets tels qu'un abaissement de la nappe, relèvent de la publication par affichage et leur délai de recours court à partir de cet affichage.",
+    "L'arrêt concerne les recours administratifs contre les décisions de l'OVAM déclarant conforme un projet d'assainissement du sol au regard du décret sur le sol du 27 octobre 2006. L'article 88, §2, du Vlarebo impose à l'OVAM de notifier l'attestation de conformité, notamment aux propriétaires et utilisateurs des terrains sur lesquels des travaux nécessaires à l'assainissement seront réalisés. Selon le Conseil, cette question s'apprécie sur la base de la description des travaux dans le projet déclaré conforme. Les terrains vers lesquels la pollution s'est étendue ne sont pas visés, même si les travaux peuvent avoir des effets physiques, comme un abaissement du niveau de la nappe, car ces effets ne sont pas assimilables à l'exécution des travaux eux-mêmes. Le propriétaire d'un tel terrain relève donc de l'affichage et doit, en vertu de l'article 147 du décret sur le sol, introduire son recours dans les trente jours suivant le premier jour de l'affichage. La critique selon laquelle les travaux seraient insuffisants et devraient aussi porter sur son terrain concerne le fond et ne confère pas de droit à la notification. Le Conseil juge également que l'obligation d'audition ne s'applique pas à une décision déclarant un recours administratif irrecevable, et que la procédure standard et les codes de bonne pratique n'étaient pas le fondement de la décision, de sorte que l'exception d'illégalité était sans objet. Le recours en annulation a été rejeté le 2 avril 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.270 van 2 april 2026 – artikelen 146, 147 en 51 Bodemdecreet; artikel 88, §2, Vlarebo",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266270. 1. Het beroep, ingesteld op 24 oktober 2024, strekt tot de nietigverklaring van het besluit van het afdel",
+     "https://www.raadvst-consetat.be/arresten/266270"
+    ]
+   ],
+   "inbox": [
+    "rvs:266270"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266269",
+   "d": "2026-04-02",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permits are tested against the zoning plan text, not non-normative model provisions",
+   "a": "In a cassation ruling of 2 April 2026, the Council of State upheld the refusal of an environmental permit for a land-based fish farm in a seaport industrial zone. It held that a clear zoning provision is applied as written, that the plan's explanatory note has no regulatory force and that the annex of model provisions is not a binding urban planning rule.",
+   "b": "The ruling concerns applicants and permitting authorities in Flanders who assess whether an environmental permit application is compatible with a spatial implementation plan (RUP). Under article 4.3.1, §1, first paragraph, 1° VCRO, a permit must be refused if the project conflicts with urban planning prescriptions. The Council of State confirms that the meaning of a prescription follows from its text, and that the author's intention is examined only if the text is unclear or open to several interpretations. It found the zone provision (seaport-bound and seaport-related industrial and logistics activities using seaport infrastructure) sufficiently clear. The explanatory note's remark that the line between 'seaport-bound' and 'seaport-related' is not always precise does not make it unclear. The annex of model provisions to the Flemish 'typevoorschriftenbesluit' is non-normative under article 3 of that decree. It therefore contains no urban planning prescriptions within the meaning of article 4.3.1 VCRO, and a permit application is not tested against it. The explanatory note has no regulatory force and cannot override the literal text. As cassation judge, the Council of State does not reassess the facts, such as whether land-based fish farming is linked to a seaport. A challenge aimed at superfluous grounds is inadmissible. The appeal against the Council for Permit Disputes' judgment, which had refused the permit, is dismissed and costs are awarded against the appellant. The ruling is dated 2 April 2026.",
+   "nl": [
+    "Raad van State: vergunning wordt getoetst aan de tekst van het RUP, niet aan niet-normatieve typebepalingen",
+    "In een cassatiearrest van 2 april 2026 bevestigt de Raad van State de weigering van een omgevingsvergunning voor een landgebonden visteelt in een zeehavenbedrijventerrein. Een duidelijk bestemmingsvoorschrift wordt toegepast zoals het luidt, de toelichting bij het plan heeft geen verordenende kracht en de bijlage met typebepalingen is geen bindend stedenbouwkundig voorschrift.",
+    "Het arrest betreft aanvragers en vergunningverlenende overheden in Vlaanderen die nagaan of een aanvraag voor een omgevingsvergunning verenigbaar is met een ruimtelijk uitvoeringsplan (RUP). Krachtens artikel 4.3.1, § 1, eerste lid, 1° VCRO moet de vergunning worden geweigerd wanneer het aangevraagde onverenigbaar is met stedenbouwkundige voorschriften. De Raad van State bevestigt dat de betekenis van een voorschrift volgt uit de tekst ervan, en dat de bedoeling van de auteur pas wordt onderzocht wanneer de tekst onduidelijk is of voor verschillende interpretaties vatbaar. Hij oordeelt dat het voorschrift voor het gebied (zeehavengebonden en zeehavengerelateerde industriële en logistieke activiteiten die gebruikmaken van de zeehaveninfrastructuur) voldoende duidelijk is. De opmerking in de toelichting dat het onderscheid tussen 'zeehavengebonden' en 'zeehavengerelateerd' niet altijd precies te maken is, maakt het voorschrift niet onduidelijk. De bijlage met typebepalingen bij het Vlaamse typevoorschriftenbesluit is krachtens artikel 3 van dat besluit niet-normatief. Ze bevat dus geen stedenbouwkundige voorschriften in de zin van artikel 4.3.1 VCRO, en een vergunningsaanvraag wordt er niet aan getoetst. De toelichting heeft geen verordenende kracht en kan de letterlijke tekst niet opzijschuiven. Als cassatierechter beoordeelt de Raad van State de feiten niet opnieuw, zoals de vraag of landgebonden visteelt verband houdt met een zeehaven. Kritiek die gericht is tegen overtollige motieven is onontvankelijk. Het cassatieberoep tegen het arrest van de Raad voor Vergunningsbetwistingen, dat de vergunning had geweigerd, wordt verworpen en de kosten komen ten laste van de verzoekende partij. Het arrest is gedateerd 2 april 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le permis est examiné au regard du texte du PRU, non de dispositions types non normatives",
+    "Par un arrêt en cassation du 2 avril 2026, le Conseil d'État confirme le refus d'un permis d'environnement pour une pisciculture terrestre dans une zone industrielle portuaire. Une prescription d'affectation claire s'applique telle qu'elle est rédigée, la note explicative du plan n'a pas de force réglementaire et l'annexe de dispositions types n'est pas une prescription urbanistique contraignante.",
+    "L'arrêt concerne les demandeurs et les autorités délivrantes en Flandre qui vérifient si une demande de permis d'environnement est compatible avec un plan d'exécution spatial (RUP). Selon l'article 4.3.1, § 1er, alinéa 1er, 1° du VCRO (Code flamand de l'aménagement du territoire), le permis doit être refusé lorsque le projet est incompatible avec des prescriptions urbanistiques. Le Conseil d'État confirme que le sens d'une prescription résulte de son texte, et que l'intention de l'auteur n'est examinée que si le texte est peu clair ou susceptible de plusieurs interprétations. Il juge suffisamment claire la prescription applicable à la zone (activités industrielles et logistiques liées au port maritime, utilisant l'infrastructure portuaire). La remarque de la note explicative selon laquelle la distinction entre « lié au port maritime » et « en rapport avec le port maritime » n'est pas toujours précise ne rend pas la prescription obscure. L'annexe de dispositions types de l'arrêté flamand sur les prescriptions types (« typevoorschriftenbesluit ») est non normative en vertu de l'article 3 de cet arrêté. Elle ne contient donc pas de prescriptions urbanistiques au sens de l'article 4.3.1 du VCRO, et une demande de permis n'est pas examinée au regard de celle-ci. La note explicative n'a pas de force réglementaire et ne peut écarter le texte littéral. Comme juge de cassation, le Conseil d'État ne réexamine pas les faits, par exemple la question de savoir si la pisciculture terrestre présente un lien avec un port maritime. La critique dirigée contre des motifs surabondants est irrecevable. Le recours en cassation contre l'arrêt du Conseil pour les contestations des autorisations, qui avait refusé le permis, est rejeté et les dépens sont mis à charge de la partie requérante. L'arrêt est daté du 2 avril 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.269 van 2 april 2026 – artikel 4.3.1, § 1, eerste lid, 1° VCRO; artikel 2.3 stedenbouwkundige voorschriften RUP; artikel 3 typevoorschriftenbesluit",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266269. 1. Het cassatieberoep, ingesteld op 23 december 202 4, strekt tot de nietigverklaring van arrest nr. RvVb",
+     "https://www.raadvst-consetat.be/arresten/266269"
+    ]
+   ],
+   "inbox": [
+    "rvs:266269"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266268",
+   "d": "2026-04-02",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: VCRO derogation power (Art. 4.4.1 §1) is not public order, so not raisable in cassation",
+   "a": "The Council of State dismissed a cassation appeal against a ruling that annulled a permit for solar panels deviating from a municipal urban-planning bylaw. It held that Article 4.4.1 §1 VCRO, which allows limited derogations, does not concern public order.",
+   "b": "The ruling concerns permit holders, municipalities and other parties in environmental permit disputes in Flanders. A permit for ten solar panels on the rear roof plane had been granted on administrative appeal. The Council for Permit Disputes annulled it because it deviated from a municipal bylaw provision that itself allows no derogations. In cassation, the city argued that Article 4.4.1 §1 VCRO allows limited derogations and that the Council for Permit Disputes should have examined this. The Council of State held that this provision does not touch essential societal values or the functioning of the rule of law, so it is not public order. No party had invoked it before the lower court, and acting there as intervening party did not prevent the city from doing so. The lower court therefore did not have to examine it of its own motion or give reasons on it, and the plea is a new one that is inadmissible in cassation. The Council of State also struck out the reply brief of the opposing association, which was signed by only one of its five directors although the statutes gave no sole power of representation. It accepted that the leading official of the Flemish heritage agency could intervene as a party to the case before the lower court. The judgment was delivered on 2 April 2026; the cassation appeal is dismissed.",
+   "nl": [
+    "Raad van State: afwijkingsmogelijkheid in art. 4.4.1, § 1 VCRO raakt de openbare orde niet en kan niet voor het eerst in cassatie worden aangevoerd",
+    "De Raad van State verwerpt een cassatieberoep tegen een arrest dat een vergunning voor zonnepanelen vernietigde wegens afwijking van een gemeentelijke stedenbouwkundige verordening. Artikel 4.4.1, § 1 VCRO, dat beperkte afwijkingen toelaat, belangt volgens de Raad de openbare orde niet aan.",
+    "Het arrest treft vergunninghouders, gemeenten en andere partijen in betwistingen over omgevingsvergunningen in Vlaanderen. Een omgevingsvergunning voor tien zonnepanelen op het achterste dakvlak was verleend in administratief beroep. De Raad voor Vergunningsbetwistingen vernietigde ze omdat ze afweek van een bepaling van een gemeentelijke stedenbouwkundige verordening die zelf geen afwijkingen toelaat. In cassatie voerde de stad aan dat artikel 4.4.1, § 1 VCRO beperkte afwijkingen toelaat en dat de Raad voor Vergunningsbetwistingen dit had moeten onderzoeken. De Raad van State oordeelt dat deze bepaling geen essentiële waarden in de samenleving of de werking van de rechtsstaat raakt en dus de openbare orde niet aanbelangt. Geen enkele partij had ze voor de lagere rechter ingeroepen, en het optreden als tussenkomende partij belette de stad dat niet. De Raad voor Vergunningsbetwistingen moest ze dus niet ambtshalve onderzoeken noch erover motiveren, en het middel is nieuw en niet ontvankelijk in cassatie. De Raad van State weerde ook de memorie van antwoord van de verwerende vereniging uit het debat, omdat ze door slechts één van vijf bestuurders was ondertekend terwijl de statuten geen alleenvertegenwoordigingsbevoegdheid verleenden. De leidend ambtenaar van het agentschap Onroerend Erfgoed mocht als partij in de zaak voor de lagere rechter tussenkomen. Het arrest werd uitgesproken op 2 april 2026; het cassatieberoep wordt verworpen."
+   ],
+   "fr": [
+    "Conseil d'État : la dérogation de l'art. 4.4.1, § 1er VCRO ne relève pas de l'ordre public et ne peut être soulevée pour la première fois en cassation",
+    "Le Conseil d'État rejette un recours en cassation dirigé contre un arrêt qui avait annulé un permis pour des panneaux solaires dérogeant à un règlement communal d'urbanisme. Il juge que l'article 4.4.1, § 1er VCRO, qui permet des dérogations limitées, ne touche pas à l'ordre public.",
+    "L'arrêt concerne les titulaires de permis, les communes et les autres parties aux litiges relatifs aux permis d'environnement en Flandre. Un permis d'environnement pour dix panneaux solaires sur le versant arrière de la toiture avait été délivré en recours administratif. Le Conseil pour les contestations des autorisations l'a annulé parce qu'il dérogeait à une disposition d'un règlement communal d'urbanisme qui n'admet elle-même aucune dérogation. En cassation, la ville soutenait que l'article 4.4.1, § 1er VCRO autorise des dérogations limitées et que ce Conseil aurait dû l'examiner. Le Conseil d'État juge que cette disposition ne touche ni aux valeurs essentielles de la société ni au fonctionnement de l'État de droit et qu'elle ne relève donc pas de l'ordre public. Aucune partie ne l'avait invoquée devant le juge précédent, et la qualité de partie intervenante n'empêchait pas la ville de le faire. Le Conseil pour les contestations des autorisations n'avait donc pas à l'examiner d'office ni à motiver sur ce point ; le moyen est nouveau et irrecevable en cassation. Le Conseil d'État a aussi écarté des débats le mémoire en réponse de l'association défenderesse, signé par un seul de ses cinq administrateurs alors que les statuts ne lui conféraient pas de pouvoir de représentation individuel. Il a admis que le fonctionnaire dirigeant de l'agence flamande du Patrimoine immobilier (Onroerend Erfgoed) pouvait intervenir en tant que partie à la cause devant le juge précédent. L'arrêt a été rendu le 2 avril 2026 ; le recours en cassation est rejeté."
+   ],
+   "scope": "Raad van State, arrest nr. 266.268 van 2 april 2026 – cassatieberoep tegen arrest RvVb-A-2425-0063; artikel 4.4.1, § 1 en 4.3.1, § 1 VCRO",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266268. 1. Het cassatieberoep, ingesteld op 31 oktober 2024 , strekt tot de nietigverklaring van arrest nr. RvVb-",
+     "https://www.raadvst-consetat.be/arresten/266268"
+    ]
+   ],
+   "inbox": [
+    "rvs:266268"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266267",
+   "d": "2026-04-02",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council of State: plan-level weighing under Art. 1.1.4 VCRO can allow conditional wind turbines in agricultural zones",
+   "a": "The Council of State confirms that the balanced and simultaneous weighing required by Art. 1.1.4 VCRO is assessed for a spatial implementation plan as a whole. A plan may allow wind turbines in agricultural zones on conditions while leaving the concrete test to the permit stage.",
+   "b": "The ruling concerns authorities drawing up spatial implementation plans in Flanders, wind project developers and permit authorities. The Council of State, sitting in cassation, dismissed the appeal against a Council for Permit Disputes judgment that upheld an environmental permit for two wind turbines in Sint-Lievens-Houtem. Art. 1.1.4 VCRO requires the authority adopting a plan to weigh the spatial needs of the various societal activities in a balanced and simultaneous way. The authority has policy freedom, but the file must show that this weighing took place for the plan as a whole. The Council held that a plan may conditionally allow wind turbines in unbuilt agricultural zones, including near large-scale linear infrastructure, and may leave the permit authority to test each application against the criteria of the wind turbine circular through a localisation note. The need for that concrete test at permit stage does not mean the weighing was not done at plan level. Arguments based on the explanatory note, the environmental impact screening, the Government decree and the circular were treated as a challenge to the factual assessment, which a cassation court may not review. On admissibility, a party that lost before the Council for Permit Disputes has an interest in cassation, since annulment would lead to a new examination of its appeal. The ruling is dated 2 April 2026.",
+   "nl": [
+    "Raad van State: afweging op planniveau onder art. 1.1.4 VCRO laat voorwaardelijke windturbines in agrarisch gebied toe",
+    "De Raad van State bevestigt dat de evenwichtige en gelijktijdige afweging van artikel 1.1.4 VCRO wordt beoordeeld voor het ruimtelijk uitvoeringsplan als geheel. Een plan mag windturbines in agrarisch gebied onder voorwaarden toelaten en de concrete toetsing aan de vergunningverlenende overheid overlaten.",
+    "Het arrest betreft overheden die ruimtelijke uitvoeringsplannen opmaken in Vlaanderen, ontwikkelaars van windprojecten en vergunningverlenende overheden. De Raad van State verwerpt als cassatierechter het cassatieberoep tegen een arrest van de Raad voor Vergunningsbetwistingen dat een omgevingsvergunning voor twee windturbines in Sint-Lievens-Houtem in stand liet. Artikel 1.1.4 VCRO verplicht het bestuur dat een plan aanneemt om de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten evenwichtig en gelijktijdig tegen elkaar af te wegen. Het bestuur heeft daarbij beleidsvrijheid, maar uit het dossier moet blijken dat die afweging voor het plan als geheel heeft plaatsgevonden. Volgens de Raad mag een plan windturbines voorwaardelijk toelaten in bouwvrij agrarisch gebied, onder meer in de nabijheid van grootschalige lijninfrastructuur, en mag de vergunningverlenende overheid elke aanvraag via een lokalisatienota toetsen aan de criteria van de omzendbrief over windturbines. De noodzaak van die concrete toetsing in de vergunningsfase betekent niet dat de afweging niet op planniveau is gebeurd. De argumenten die steunen op de toelichtende nota, het onderzoek tot milieueffectenrapportage, het besluit van de Vlaamse Regering en de omzendbrief beschouwt de Raad als een betwisting van de feitelijke beoordeling, die de cassatierechter niet mag toetsen. Wat de ontvankelijkheid betreft, heeft een partij die voor de Raad voor Vergunningsbetwistingen heeft verloren belang bij cassatie, omdat vernietiging tot een nieuw onderzoek van haar beroep leidt. Het arrest is gewezen op 2 april 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la pondération au niveau du plan (art. 1.1.4 VCRO) permet des éoliennes conditionnelles en zone agricole",
+    "Le Conseil d'État confirme que la pondération équilibrée et simultanée prévue à l'article 1.1.4 VCRO s'apprécie pour le plan d'exécution spatial dans son ensemble. Un plan peut admettre des éoliennes en zone agricole sous conditions et laisser le contrôle concret à l'autorité délivrant le permis.",
+    "L'arrêt concerne les autorités qui établissent des plans d'exécution spatiaux en Flandre, les développeurs de projets éoliens et les autorités délivrant les permis. Statuant en cassation, le Conseil d'État rejette le pourvoi dirigé contre un arrêt du Conseil pour les contestations des autorisations (Raad voor Vergunningsbetwistingen) qui avait maintenu un permis d'environnement pour deux éoliennes à Sint-Lievens-Houtem. L'article 1.1.4 VCRO impose à l'autorité qui adopte un plan de pondérer de manière équilibrée et simultanée les besoins spatiaux des différentes activités sociales. L'autorité dispose d'une liberté de choix politique, mais le dossier doit montrer que cette pondération a eu lieu pour le plan dans son ensemble. Selon le Conseil, un plan peut admettre conditionnellement des éoliennes en zone agricole non constructible, notamment à proximité de grandes infrastructures linéaires, et laisser à l'autorité délivrant le permis le soin de vérifier chaque demande au regard des critères de la circulaire sur les éoliennes au moyen d'une note de localisation. La nécessité de ce contrôle concret au stade du permis ne signifie pas que la pondération n'a pas eu lieu au niveau du plan. Les arguments tirés de la note explicative, de l'examen de l'évaluation des incidences sur l'environnement, de l'arrêté du Gouvernement flamand et de la circulaire sont considérés comme une contestation de l'appréciation des faits, que le juge de cassation ne peut contrôler. Quant à la recevabilité, la partie qui a succombé devant le Conseil pour les contestations des autorisations a intérêt à se pourvoir en cassation, la cassation entraînant un nouvel examen de son recours. L'arrêt date du 2 avril 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.267 van 2 april 2026 – artikel 1.1.4 VCRO en artikel 2.2 stedenbouwkundige voorschriften GRUP 'Sint-Lievens-Houtem en Kottembos' (windturbines in bouwvrij agrarisch gebied)",
+   "dates": {
+    "adopted": "2026-04-02"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266267. 1. Het cassatieberoep, ingesteld op 20 augustus 202 4, strekt tot de nietigverklaring van arrest nr. RvVb",
+     "https://www.raadvst-consetat.be/arresten/266267"
+    ]
+   ],
+   "inbox": [
+    "rvs:266267"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266266",
+   "d": "2026-04-01",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: documents merely completing a permit file do not restart CoDT decision deadlines",
+   "a": "The Council of State annuls a Rochefort urbanisation permit for up to 36 dwellings because the municipal college decided after its deadline had expired. Only modifying plans, not complementary documents, give rise to new decision deadlines under the CoDT.",
+   "b": "The ruling concerns applicants and permit-issuing authorities under the Walloon Territorial Development Code (CoDT), here an application to modify and extend an urbanisation permit for a 3.77 ha site with up to 36 dwellings, including a stormwater basin. The Council of State holds that, under articles D.IV.42 and D.IV.43 as then applicable, only modifying plans (which change the object of the application) and the corollary supplement to the impact notice or study trigger a new acknowledgment of receipt and new decision deadlines. Complementary documents that merely specify or complete the file do not, and a new acknowledgment for modifying plans must be sent before the decision deadline expires. The documents filed on 31 January 2023 (an explanatory note on water management, stormwater basin details, permeability test results and technical plans) were complementary only, so the new acknowledgment and extension of 9 February 2023 had no effect on the deadlines. The plan that actually changed the layout was filed only in May 2023. The permit of 12 January 2024 was therefore adopted when the municipal college was no longer competent, and it is annulled. The fact that the authority considered the documents indispensable does not change this. The Council of State also rules that the procedural indemnity is granted at the base rate, and that fees for a unilateral expert report are not recoverable as costs under article 66 of the general rules of procedure. The ruling was delivered on 1 April 2026.",
+   "nl": [
+    "Raad van State: aanvullende stukken doen geen nieuwe beslissingstermijnen ingaan onder het CoDT",
+    "De Raad van State vernietigt een urbanisatievergunning in Rochefort voor maximaal 36 woningen omdat het gemeentecollege na het verstrijken van de termijn heeft beslist. Enkel wijzigende plannen, geen aanvullende stukken, doen onder het CoDT nieuwe beslissingstermijnen ingaan.",
+    "Het arrest betreft aanvragers en vergunningverlenende overheden onder het Waalse Wetboek van Territoriale Ontwikkeling (CoDT), hier een aanvraag tot wijziging en uitbreiding van een urbanisatievergunning voor een terrein van 3,77 ha met maximaal 36 woningen, inclusief een stormbekken. De Raad van State oordeelt dat onder de toen toepasselijke artikelen D.IV.42 en D.IV.43 enkel wijzigende plannen (die het voorwerp van de aanvraag wijzigen) en de bijbehorende aanvulling van de effectenbeoordelingsnota of het effectenonderzoek een nieuw ontvangstbewijs en nieuwe beslissingstermijnen doen ingaan. Aanvullende stukken die het dossier enkel verduidelijken of vervolledigen doen dat niet, en een nieuw ontvangstbewijs voor wijzigende plannen moet vóór het verstrijken van de beslissingstermijn worden verzonden. De op 31 januari 2023 ingediende stukken (een toelichtingsnota over waterbeheer, details van het stormbekken, resultaten van doorlatendheidsproeven en technische plannen) waren louter aanvullend, zodat het nieuwe ontvangstbewijs en de verlenging van 9 februari 2023 geen gevolg hadden voor de termijnen. Het plan dat de inrichting daadwerkelijk wijzigde, werd pas in mei 2023 ingediend. De vergunning van 12 januari 2024 is dus genomen op een ogenblik dat het gemeentecollege niet meer bevoegd was en wordt vernietigd. Dat de overheid de stukken onmisbaar achtte, doet daaraan niets af. De Raad van State oordeelt ook dat de rechtsplegingsvergoeding tegen het basisbedrag wordt toegekend en dat de kosten van een eenzijdig deskundigenonderzoek geen kosten zijn in de zin van artikel 66 van het algemeen procedurereglement. Het arrest werd uitgesproken op 1 april 2026."
+   ],
+   "fr": [
+    "Conseil d'État : des pièces complémentaires ne font pas courir de nouveaux délais de décision sous le CoDT",
+    "Le Conseil d'État annule un permis d'urbanisation à Rochefort pour maximum 36 logements, le collège communal ayant statué après l'expiration du délai. Seuls les plans modificatifs, et non les pièces complémentaires, font courir de nouveaux délais de décision en vertu du CoDT.",
+    "L'arrêt concerne les demandeurs et les autorités délivrantes dans le cadre du Code wallon du Développement territorial (CoDT), ici une demande de modification et d'extension d'un permis d'urbanisation portant sur un terrain de 3,77 ha pour maximum 36 logements, avec un bassin d'orage. Le Conseil d'État juge que, sous les articles D.IV.42 et D.IV.43 alors applicables, seuls les plans modificatifs (qui changent l'objet de la demande) et le complément corollaire de notice d'évaluation préalable des incidences ou d'étude d'incidences donnent lieu à un nouvel accusé de réception et à de nouveaux délais de décision. Les pièces complémentaires qui se limitent à préciser ou compléter le dossier n'ont pas cet effet, et le nouvel accusé de réception pour des plans modificatifs doit être envoyé avant l'échéance du délai de décision. Les documents déposés le 31 janvier 2023 (une note explicative sur la gestion des eaux, des détails du bassin d'orage, des résultats d'essais de perméabilité et des plans techniques) étaient purement complémentaires, de sorte que le nouvel accusé de réception et la prorogation du 9 février 2023 n'ont eu aucun effet sur les délais. Le plan qui a réellement modifié l'implantation n'a été déposé qu'en mai 2023. Le permis du 12 janvier 2024 a donc été délivré alors que le collège communal n'était plus compétent, et il est annulé. Le fait que l'autorité ait jugé ces pièces indispensables n'y change rien. Le Conseil d'État décide en outre que l'indemnité de procédure est accordée au taux de base et que les frais d'une expertise unilatérale ne font pas partie des dépens visés à l'article 66 du règlement général de procédure. L'arrêt a été prononcé le 1er avril 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.266 du 1er avril 2026 – CoDT, articles D.IV.42, D.IV.43 et D.IV.46 (plans modificatifs, délais de décision) ; annulation du permis d'urbanisation du 12 janvier 2024 (Rochefort)",
+   "dates": {
+    "adopted": "2026-04-01"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266266. 1. Par une requête introduite le 12 mars 2024, C.T. et J.L. demandent l’annulation de la décision du 12 j",
+     "https://www.raadvst-consetat.be/arresten/266266"
+    ]
+   ],
+   "inbox": [
+    "rvs:266266"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-25"
+  },
+  {
+   "id": "d-rvs-266265",
+   "d": "2026-04-01",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: a CU n° 2 application needs an environmental impact notice; one from an earlier permit does not suffice",
+   "a": "The Council of State annulled a Walloon certificat d'urbanisme n° 2 for a house because the application had no environmental impact assessment notice. A notice filed for an earlier permit on the same plot does not cure this.",
+   "b": "The ruling concerns applicants for a certificat d'urbanisme n° 2 (CU2) in Wallonia and the authorities that issue it. Under Articles D.49(b) and D.62 §1 of Book I of the Environment Code, a CU2 application must contain either an environmental impact assessment notice or an impact study. The notice must be complete, precise and accurate. For projects not automatically subject to a study, Article D.65 requires the authority to decide, on the basis of the notice and the Annex III criteria, whether significant effects are likely. For a negative finding it must give an explicit, concrete reasoning. Here the application had no notice. The Council of State held that a notice filed in 2013 for a similar project on the same plot did not make up for this. It was not in the administrative file, and it was not shown that its findings applied to the 2019 situation. The application was therefore incomplete, and the authority could not rule with full knowledge of the effects on the factors listed in Article D.62 §2. The decision of 23 February 2022 was annulled on this ground alone, and the other grounds were not examined. The judgment is dated 1 April 2026.",
+   "nl": [
+    "Raad van State: een aanvraag voor een stedenbouwkundig attest nr. 2 vereist een effectenbeoordelingsnota; een eerdere nota volstaat niet",
+    "De Raad van State vernietigt een Waals stedenbouwkundig attest nr. 2 (certificat d'urbanisme n° 2) voor een woning omdat de aanvraag geen milieueffectenbeoordelingsnota bevatte. Een nota die voor een eerdere vergunning op hetzelfde perceel werd ingediend, herstelt dat gebrek niet.",
+    "Het arrest betreft aanvragers van een certificat d'urbanisme n° 2 (CU2) in Wallonië en de overheden die het afleveren. Volgens de artikelen D.49, b, en D.62, §1, van Boek I van het Waalse Milieuwetboek moet een CU2-aanvraag ofwel een milieueffectenbeoordelingsnota ofwel een effectenstudie bevatten. De nota moet volledige, nauwkeurige en juiste gegevens bevatten. Voor projecten die niet automatisch aan een studie onderworpen zijn, moet de overheid volgens artikel D.65 op basis van de nota en de criteria van bijlage III bepalen of aanzienlijke milieueffecten waarschijnlijk zijn. Een negatieve vaststelling moet uitdrukkelijk en concreet gemotiveerd worden. Hier ontbrak de nota in de aanvraag. De Raad van State oordeelde dat een nota uit 2013 voor een soortgelijk project op hetzelfde perceel dit niet goedmaakte. Ze zat niet in het administratief dossier en er was niet aangetoond dat de bevindingen ook golden voor de situatie in 2019. De aanvraag was dus onvolledig en de overheid kon niet met kennis van zaken oordelen over de effecten op de factoren van artikel D.62, §2. De beslissing van 23 februari 2022 werd om die reden alleen vernietigd, de overige middelen werden niet onderzocht. Het arrest dateert van 1 april 2026."
+   ],
+   "fr": [
+    "Conseil d'État : une demande de CU n° 2 requiert une notice d'évaluation des incidences ; celle d'un permis antérieur ne suffit pas",
+    "Le Conseil d'État annule un certificat d'urbanisme n° 2 wallon pour une habitation, car la demande ne contenait pas de notice d'évaluation des incidences sur l'environnement. Une notice déposée pour un permis antérieur sur la même parcelle ne pallie pas ce défaut.",
+    "L'arrêt concerne les demandeurs d'un certificat d'urbanisme n° 2 (CU2) en Wallonie et les autorités qui le délivrent. Selon les articles D.49, b., et D.62, § 1er, du livre Ier du Code de l'environnement, une demande de CU2 doit contenir soit une notice d'évaluation des incidences sur l'environnement, soit une étude d'incidences. La notice doit contenir des renseignements complets, précis et exacts. Pour les projets non soumis d'office à une étude, l'article D.65 impose à l'autorité de déterminer, au vu de la notice et des critères de l'annexe III, si le projet est susceptible d'avoir des incidences notables. Une conclusion négative doit être explicitement et concrètement motivée. En l'espèce, la demande ne comportait pas de notice. Le Conseil d'État a jugé qu'une notice déposée en 2013 pour un projet analogue sur la même parcelle n'y suppléait pas. Elle ne figurait pas au dossier administratif et il n'était pas démontré que ses conclusions étaient transposables à la situation de 2019. La demande était donc incomplète et l'autorité n'a pas pu statuer en connaissance de cause sur l'impact au regard des facteurs de l'article D.62, § 2. L'arrêté du 23 février 2022 est annulé sur ce seul moyen, les autres n'étant pas examinés. L'arrêt date du 1er avril 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 266.265 du 1er avril 2026 : articles D.49, b., D.62 et D.65 du livre Ier du Code de l'environnement (certificat d'urbanisme n° 2)",
+   "dates": {
+    "adopted": "2026-04-01"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266265. 1. Par une requête introduite le 27 avril 2022, la partie requérante demande l’annulation de l’arrêté du ",
+     "https://www.raadvst-consetat.be/arresten/266265"
+    ]
+   ],
+   "inbox": [
+    "rvs:266265"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-25"

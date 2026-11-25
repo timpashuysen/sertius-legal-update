@@ -68298,36 +68298,399 @@
 "reason": "Private security card withdrawal for a guard; not environmental, planning or permit law under the screening test.",
 "confidence": "high",
 "at": "2026-11-25"
+},
+"rvs:266307": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Council of State holds SDC 'recommendations' are not binding and may be departed from under CoDT D.IV.5 with adequate motivation; reading applies beyond this file.",
+"confidence": "low",
+"at": "2026-11-25",
+"written": "no",
+"second_look": "Dismisses a municipality's challenge to one urban planning permit on its facts; no new point of law and no environmental obligation."
+},
+"rvs:266306": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"reason": "Wallonian permit-unique appeal decisions need joint ministerial competence; signature delegation doesn't transfer decision power; authority must re-decide with a fresh period after annulment.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266306"
+},
+"rvs:266305": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns age determination of an unaccompanied minor and guardianship; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266304": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum/guardianship of unaccompanied minors and age assessment; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266303": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns admission refusal at a subsidised private higher education college; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266302": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns remuneration caps for local executives under the local government code; not environmental, planning or permit law. Recourse declared without object.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266301": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns remuneration caps and reimbursement for a local executive under the local government code, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266298": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law",
+"soil"
+],
+"reason": "Compliance with Vlarem II manure-storage conditions is supervision, not permit legality, unless compliance is shown impossible; late renewal applications stay admissible but lose the continuation adva",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266298"
+},
+"rvs:266297": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement award dispute on formal reasoning of a tender evaluation; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266296": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over exclusion of a tenderer for a demolition contract; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266294": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Dog-welfare seizure and disposal decision under Flemish animal welfare code; applies general administrative principles to one file. Not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266293": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum law (refugee and subsidiary protection status); outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266292": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Asylum law ruling on international protection; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266286": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Damages claim (indemnité réparatrice) by a supplement maker over a pharma-type notification refusal; wider-use points are general rules on compensation, not environmental, planning or permit law.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266285": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement damages ruling on a tender award for a spatial planning study; not environmental, planning or permit law under the screening test.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266284": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute about a parking stability works contract; procedural ruling on extreme-urgency form, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266282": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns withdrawal of a titres-services approval under employment law; not environmental, planning or permit law, and no wider rule of environmental application.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266281": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over a magazine layout contract and award scoring; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266280": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service disciplinary dismissal of a teacher; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266279": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Social protection law on mobility aids and rental allowances; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266278": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service promotion dispute; suspension rejected on urgency; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266277": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Disciplinary sanction of a municipal employee under local government staff law; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266276": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Disciplinary dismissal of a state agent under the civil service statute; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266274": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Ruling decrees desistance of a challenge to a ministerial refusal to approve staff regulations of an intercommunale; no environmental, planning or permit law point.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266273": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Pension regime dispute for a public interest body; not environmental, planning or permit law, and purely a procedural desistement ending.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266272": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Municipal disciplinary dismissal of a civil servant; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266271": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Cassation rejected on motivation and admissibility grounds; the RUP reading and deviation points concern one Genk file with no annulment or wider rule.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266270": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"soil"
+],
+"reason": "Interprets Vlarebo art. 88 §2(3°): neighbouring owners are not 'owners of land where works will take place' merely because remediation causes groundwater lowering, which fixes who must be notified and",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266270"
+},
+"rvs:266269": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Spatial plan prescriptions are read by their literal text; explanatory notes lack binding force, and non-normative typical provisions are not prescriptions for permit review.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266269"
+},
+"rvs:266268": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Art. 4.4.1 VCRO minor-deviation rule is not public order, so it cannot be raised first in cassation nor must the RvVb examine it ex officio.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266268"
+},
+"rvs:266267": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"reason": "Art. 1.1.4 VCRO balancing must appear at plan level; deferring wind turbine siting criteria to permit-stage lokalisatienota does not by itself breach it.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266267"
+},
+"rvs:266266": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Under CoDT D.IV.42-43, only modifying plans reset permit decision deadlines; complementary documents do not, and the new acknowledgment must precede the deadline's expiry. Annulment for incompetence.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266266"
+},
+"rvs:266265": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Annuls a certificat d'urbanisme n°2 because the file lacked an environmental impact notice; states that D.49 b and D.62 CoDE require such a notice for CU2, and D.65 screening must be explicit.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266265"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7105,
-"assessed": 7105,
+"in_scope": 7138,
+"assessed": 7138,
 "waiting": 0,
-"relevant": 1130,
-"not_relevant": 5649,
+"relevant": 1139,
+"not_relevant": 5673,
 "excluded_by_rule": 326,
-"this_run": 28,
+"this_run": 33,
 "api": {
-"calls": 28,
-"input_tokens": 284984,
-"output_tokens": 6060,
-"usd": 0.0315
+"calls": 33,
+"input_tokens": 334302,
+"output_tokens": 6300,
+"usd": 0.0366
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 5,
+"this_run": 8,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 6,
-"input_tokens": 77557,
-"output_tokens": 17821,
-"usd": 0.3333
+"calls": 9,
+"input_tokens": 108816,
+"output_tokens": 27184,
+"usd": 0.4895
 },
 "updated": "2026-11-25"
 },
