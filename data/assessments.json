@@ -69052,36 +69052,497 @@
 "confidence": "high",
 "at": "2026-11-25",
 "written": "d-rvs-266308"
+},
+"rvs:266399": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute about a sports complex works contract; not environmental, planning or permit law. Withdrawal ending the case.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266398": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "States that a permit posting under CoDT D.IV.70 presumes third-party accessibility, so appeal deadlines run from knowledge; non-demonstrated posting cannot be presumed.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266398"
+},
+"rvs:266397": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Subsidy recovery for social economy insertion enterprise; not environmental, planning or permit law, and the preparatory-act point is general administrative law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266396": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns recovery of social-economy insertion subsidies and interim-relief urgency; no environmental, planning or permit law point of wider use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266395": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Private security identification card refusal under the 2017 private security law; not environmental, planning or permit law in the screening sense.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266394": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Individual damages claim by a security guard over withdrawn ID card; security-sector licensing, not environmental, planning or permit law; no wider rule stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266393": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement ICT services award; ruling decrees desistement and costs, no environmental, planning or permit law point.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266392": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement of a case on a Treasury/financial matter (Gazprombank refusal under Council of State rules), not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266391": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a flood-damage repair aid refusal under a Walloon compensation scheme; decided on presumed withdrawal of the appeal, a purely procedural ending with no wider rule of environmental law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266390": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute about contract award; ruling decrees desistement of the appeal and awards costs, no environmental or planning point of law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266389": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute on a contract award for temporary reception buildings; dismissed for lack of interest, no environmental, planning or permit law point.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266388": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Urgent suspension of a municipal closure order for a shisha bar; applies general urgency test to facts of one file; public order/police law, not environmental or planning law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266386": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"reason": "Annuls a Flemish nature-related pre-emption decision; holds that a right of pre-emption over a multi-parcel sale applies to the whole sale, not parcel by parcel.",
+"confidence": "low",
+"at": "2026-11-25",
+"written": "d-rvs-266386"
+},
+"rvs:266385": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Annuls a municipal road alignment plan under the Flemish municipal roads decree; road law, not environmental or spatial planning, though notice-procedure point has wider use.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266384": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Language-use rule in administrative matters for a Brussels housing vacancy fine; housing law, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266383": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Annuls a refusal of a regularisation permit under CoBAT art. 330 §3: the authority cannot reverse the burden of proof or rely on reasons absent from the decision.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266383"
+},
+"rvs:266382": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Individual animal destination decision under Walloon animal welfare law; it suspends one act and states no wider rule on environmental, planning or permit law.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266381": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Animal transport authorisation refusal; ruling decides only a deemed desistment and costs, withdrawal-type procedural ending with no wider rule.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266380": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement d'instance after rejected suspension; concerns a municipal decision on a single file, no wider rule stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266379": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement of a suspended challenge to a mayoral closure order; no wider point of law on environmental or permit rules.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266378": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement of a Brussels urban planning permit appeal; no wider point of law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266377": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service dispute about sick-leave placement of a Walloon public employee; not environmental, planning or permit law, and a desistement ruling.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266376": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service dispute on seniority for artistic teaching courses; no environmental, planning or permit law, and rejected for lack of interest.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266375": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistment of a suspension-refused appeal against a police zone suspension decision; no environmental, planning or permit law point of wider use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266374": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service suspension of a municipal official; procedural desistement and costs only, no environmental or planning point of law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266373": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement of a challenge to a board appointment to CENEO; no environmental, planning or permit law point of wider use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266372": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Interprets VCRO art. 2.2.23 §2 1°/2: a municipal RUP can be suspended for obvious incompatibility with RSV; excluding a function needs explicit motivation.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266372"
+},
+"rvs:266371": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Prima facie, a footbridge opening public cyclist and pedestrian passage may modify a communal road, so D.IV.41 CoDT requires prior council approval before a planning permit issues.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266371"
+},
+"rvs:266370": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Restates that civil-law rules are not planning criteria, but civil disputes known to the authority may be weighed, and vague objections need no specific reasoning.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266370"
+},
+"rvs:266369": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Police recruitment dispute on unpaid court fees; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266368": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Police disciplinary dismissal dispute; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266367": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public-service staff dispute on dual employment of a fire fighter; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266366": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement of a single urban planning permit dispute for a house; no wider point of law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266365": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over exclusion from a hospital staffing tender; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266364": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Permit conditions may cross-refer to annexed agency advices, and formal motivation may be by reference to documents beneficiaries already knew; road-access assessment depends on the project.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266364"
+},
+"rvs:266363": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Age determination for unaccompanied minor guardianship; not environmental, planning or permit law. Suspension rejected on individual facts.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266362": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Student plagiarism sanction dispute at a private university; not environmental, planning or permit law, and no wider rule for permit applicants.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266361": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public procurement dispute over wifi cabling contract award; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266360": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concession award for a mobile catering stand on a city square under procurement-type rules; no environmental, planning or permit law point decided, only a rejected suspension on award criteria.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266359": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Interim suspension rejected; municipal police power to demolish a ruinous building under the New Communal Law. Not environmental, planning or permit law, and no annulment.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266358": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement d'instance presumed for a single urban planning permit dispute; no wider rule of law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266357": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ending: desistement d'instance declared for a non-responded request; no point of law on permits or environment decided.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266356": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Ruling decrees a procedural desistement (presumed withdrawal of appeal) and costs; no point of law of wider use stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266354": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Dismisses one applicant's urban development permit refusal on facts; general points on guide deviations and late pleas do not clearly state a rule of wider use.",
+"confidence": "medium",
+"at": "2026-11-25"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7172,
-"assessed": 7172,
+"in_scope": 7216,
+"assessed": 7216,
 "waiting": 0,
-"relevant": 1152,
-"not_relevant": 5694,
+"relevant": 1159,
+"not_relevant": 5731,
 "excluded_by_rule": 326,
-"this_run": 34,
+"this_run": 44,
 "api": {
-"calls": 34,
-"input_tokens": 320067,
-"output_tokens": 8522,
-"usd": 0.0363
+"calls": 44,
+"input_tokens": 324879,
+"output_tokens": 8140,
+"usd": 0.0366
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 12,
-"found_not_relevant_on_reading": 1,
+"this_run": 7,
+"found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 13,
-"input_tokens": 153504,
-"output_tokens": 43980,
-"usd": 0.7468
+"calls": 7,
+"input_tokens": 88265,
+"output_tokens": 25572,
+"usd": 0.4322
 },
 "updated": "2026-11-25"
 },
