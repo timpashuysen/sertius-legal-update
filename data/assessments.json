@@ -68661,36 +68661,427 @@
 "confidence": "high",
 "at": "2026-11-25",
 "written": "d-rvs-266265"
+},
+"rvs:266353": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "States general rules: permit conditions must be precise and not leave room for appreciation, a non-binding circular only recommends, and a missing DNF consultation annuls only if it affected the decis",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266353"
+},
+"rvs:266352": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"energy-climate",
+"permitting"
+],
+"reason": "Upholds Flemish wind-turbine noise decree; plan-MER need not detail ISO 9613-2 method; dB(A) weighting justified; Council cannot rule on scientific validity.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266352"
+},
+"rvs:266351": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting",
+"energy-climate"
+],
+"reason": "Upholds separate, softer wind-turbine noise norms under equality and standstill rules; sets standstill proof requirements and says the 2006 circular has no regulatory force.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266351"
+},
+"rvs:266350": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"energy-climate"
+],
+"reason": "Upholds softer Vlarem noise standards for wind turbines; holds the differential treatment is justified by renewable energy goals and technical characteristics under art. 5.4.5 DABM.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266350"
+},
+"rvs:266349": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting",
+"energy-climate"
+],
+"reason": "Plan-MER recommendations may be set aside if reasons are given; strategic plan-MER needs no binding guidance like the wind safety Handboek.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266349"
+},
+"rvs:266345": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Nationality-acquisition declaration dispute on documents; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266344": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns a doctor's medical internship plan and agreement, a health-sector professional matter, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266343": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Single municipal order to trim a hedge over a cycle path; applies general urgency-diligence case law without a wider environmental or permit rule.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266342": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Brussels elderly-care recognition and SVIE licensing under social law, not environmental, planning or environmental permit law; admissibility point is general.",
+"confidence": "medium",
+"at": "2026-11-25"
+},
+"rvs:266341": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Brussels elderly-care bed recognition and SVIE dispute; Council of State lacks jurisdiction, case on Brussels COCOM ordinance, not environmental or planning permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266340": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Concerns Brussels elderly-care facility recognition and bed forfeiture, not environmental, planning or permit law; the appeal was declared inadmissible for lack of jurisdiction.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266338": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Tax dispute on tourist lodging levy; reopens debate on applicant's standing only. Not environmental, planning or permit law, and no wider-use rule stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266337": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Financial-sector intermediary registration (FSMA, CDE, insurance law); not environmental, planning or permit law; interim suspension rejected on fact-specific grounds.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266335": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "States general rules for permit authorities: marginal feasibility review, duty to consider reported stability problems in the good-spatial-planning assessment, and the required statement of reasons.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266335"
+},
+"rvs:266334": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Interprets CoDT art. D.IV.5: a permit may depart from a municipal schema only if reasons show no compromise of objectives and a three-step landscape analysis.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266334"
+},
+"rvs:266333": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Public service employment dispute about a non-renewed exemption from duty; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266331": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Appeal withdrawn after municipality revoked a drug-risk-reduction protocol decision; ruling only rules on costs, no wider point of law on environmental or permit rules.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266330": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Ruling records withdrawal of the annulment appeal (afstand van beroep) and costs; no annulment, suspension or statement of wider legal rule.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266328": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Brussels housing-code rental ban and fine; housing-quality enforcement, not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266327": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Urban planning permit for one Liège site; rejects plea on file-specific motivation, no annulment, and no wider point of law stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266326": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Procedural ruling on late payment of court fees deeming a suspension request not filed; the planning dispute is not decided on any point of wider legal use.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266325": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Firearms detention permit and procedural desistance; not environmental, planning or permit law within the screening scope.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266324": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Single urban permit case dismissed as moot after withdrawal; no statement of wider legal use, only costs and anonymisation decided.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266323": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Clarifies that a notice d'évaluation des incidences (R.54, annex VI) need not examine alternatives, unlike a full impact study; also sets the two-condition test for non-residential uses in habitat zon",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266323"
+},
+"rvs:266322": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Under CoDT D.IV.13, deviation from the spatial plan is discretionary even if all three conditions are met; refusal may be reasoned briefly without examining them.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266322"
+},
+"rvs:266320": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Ruling dismisses the case as moot after withdrawal of the permit; no point of law or wider rule is stated.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266318": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Withdrawal (désistement) of a building permit appeal with costs ordered; purely procedural ending, no wider point of law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266317": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Interprets the appeal deadline for planning permits: 3-working-day presumption for registered mail, rebuttable by the addressee, and the pre-2025 meaning of 'jour ouvrable'.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266317"
+},
+"rvs:266316": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Guardianship of unaccompanied minors and age assessment; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266313": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting"
+],
+"reason": "Interim suspension of a building permit: an immediately enforceable permit can establish urgency, and the 2024 référé decree requires concrete, documented urgency facts.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "no",
+"second_look": "Refuses suspension of one urban planning permit because urgency was not shown on the facts; settled criteria applied, no wider point of law."
+},
+"rvs:266312": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Teacher's disciplinary dismissal under the education civil service statute; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266311": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"reason": "Civil service dismissal of a school caretaker by Wallonia-Brussels Education; not environmental, planning or permit law, and the suspension is rejected as moot.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:266310": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Restates that an environmental impact notice must be complete, precise and accurate, and that defects annul a permit only if they misled the authority; burden lies on the complainant.",
+"confidence": "medium",
+"at": "2026-11-25",
+"written": "d-rvs-266310"
+},
+"rvs:266308": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"environmental-law"
+],
+"reason": "Permit for urbanisation annulled: noise and traffic objections must be answered in the statement of reasons, as they cannot be fully deferred to later urbanisme permits.",
+"confidence": "high",
+"at": "2026-11-25",
+"written": "d-rvs-266308"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7138,
-"assessed": 7138,
+"in_scope": 7172,
+"assessed": 7172,
 "waiting": 0,
-"relevant": 1139,
-"not_relevant": 5673,
+"relevant": 1152,
+"not_relevant": 5694,
 "excluded_by_rule": 326,
-"this_run": 33,
+"this_run": 34,
 "api": {
-"calls": 33,
-"input_tokens": 334302,
-"output_tokens": 6300,
-"usd": 0.0366
+"calls": 34,
+"input_tokens": 320067,
+"output_tokens": 8522,
+"usd": 0.0363
 },
 "key_present": true,
 "updated": "2026-11-25"
 },
 "writer": {
-"this_run": 8,
+"this_run": 12,
 "found_not_relevant_on_reading": 1,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 9,
-"input_tokens": 108816,
-"output_tokens": 27184,
-"usd": 0.4895
+"calls": 13,
+"input_tokens": 153504,
+"output_tokens": 43980,
+"usd": 0.7468
 },
 "updated": "2026-11-25"
 },
