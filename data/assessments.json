@@ -52002,30 +52002,29 @@
 },
 "rvvb:RVVB.A.2526.0447": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Substantially changed subdivision prescriptions submitted in an amended project version required a new public inquiry; the permit was annulled on that ground.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0447"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Single subdivision permit amendment partly annulled: amended allotment rules wrongly not put to a new public inquiry, plus screening complaints. Application of settled principles, no general instrumen",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0445": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Annuls permit for zoning-exception change of farm buildings: under art. 4.4.23 VCRO the authority must itself assess that the change does not endanger neighbouring farms' normal operation, and must ju",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one permit for insufficient, uncritical motivation under art. 4.4.23 VCRO and art. 11 zonevreemde functiewijzigingen; application of settled duty of care and reasoning principles, no new interp",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0445"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0444": {
 "v": 4,
@@ -52040,72 +52039,68 @@
 },
 "rvvb:RVVB.A.2526.0443": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Clarifies the scope of the natuurtoets (art. 16 Natuurdecreet), the no-threshold test for unavoidable irreversible damage in VEN areas (art. 26bis), and petitioners' burden of proof.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0443"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Review of a single subdivision permit; applies settled case law on nature assessment, stelplicht (burden of pleading) and screening. Mentions the annulled relativity requirement only as a restatement ",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0442": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Sand riding track is not an classified installation or its annex because horse numbers fall below the VLAREM threshold; it is assessed as a planning act under good spatial planning.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0442"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Challenge to a single permit for a horse-keeping operation; the Council rejects the pleas on reasoning, good spatial planning and nuisance by applying settled principles, with no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0441": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Interim ruling: for a judicial appeal, the 45-day period runs from notification to the administrative appellant, not from public posting used for third parties (Omgevingsvergunningsdecreet art. 105 §3",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Interim ruling reopening debate on a possible time-bar; no decision on the merits or binding interpretation of a rule."
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interim ruling reopening debates on an ex officio time-limit question (art. 105 §3 Omgevingsvergunningsdecreet); applies settled rules, decides nothing, and concerns a single permit.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0439": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "A demanded electricity cabine is a permit 'last' under art. 75 Omgevingsvergunningsdecreet, to be tested for lawfulness and proportionality, not a good-spatial-planning refusal ground; post-factum jus",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0439"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit refusal for defective reasoning: a utility's requested cabin condition was wrongly treated as a good-planning ground instead of tested as a charge under article 75. Applic",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0437": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Interprets the VCRO 4.4.3 'afwerkingsregel': 'wachtmuur' must be a double wall on the boundary as of 1 September 2009, and the exception is read restrictively.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0437"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Single permit annulment on insufficient reasoning and inadequate verification of the 'wachtmuur' conditions in art. 4.4.3 VCRO; restrictive interpretation and reasoning duty are settled case law.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0436": {
 "v": 4,
@@ -52122,17 +52117,16 @@
 },
 "rvvb:RVVB.A.2526.0431": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Applies the Water Code watertoets: permit refusal rule, and an enhanced motivation duty when the authority departs from negative advice on flood risk.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit for insufficient reasoning on good spatial planning and watertoets, against unfavourable advice; application of settled case law on heightened duty to state reasons.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0431"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0430": {
 "v": 4,
@@ -52147,30 +52141,29 @@
 },
 "rvvb:RVVB.A.2526.0429": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Annuls permit: a changed project version with new mobility data can't be treated as mere clarification under art. 64 Omgevingsvergunningsbesluit; it requires a new public inquiry.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0429"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls a single permit because the deputation gave no reasons on the need for a new public inquiry after amended project content; applies article 64 Omgevingsvergunningsdecreet according to settled pr",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0428": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "States that the permitting authority must verify the existing and permitted situation itself when objections are raised, and applies the rule on inseparable aspects in art. 7 §2 Omgevingsvergunningsde",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0428"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single regularisation permit for insufficient reasoning and careless investigation of the factual situation and objections; applies settled case law on duty of care and Article 7 §2 Omg",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0426": {
 "v": 4,
@@ -52925,44 +52918,44 @@
 },
 "rvs:265489": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Sets out cumulative conditions for the DABM plan-MER exemption (small local area or minor change, plus proof of no significant effects) and the Council's limited review of screening decisions.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265489"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against a municipal RUP and zoning regulation was rejected. The ruling applies settled case law on reasoning, equality and plan-MER screening (art. 4.2.3 §3 DABM) and finds some pleas late or i",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265488": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "States the cumulative conditions for the DABM plan-MER exemption (small area or minor change, plus proof of no significant effects) and the Council's limited review of screening decisions.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against a municipal RUP and zoning regulation was rejected; the Council of State only applied settled case law on reasoning, equality, legitimate expectations and plan-MER screening, with nothi",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265488"
+"at": "2026-11-25"
 },
 "rvs:265487": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Rejects a challenge to a municipal spatial implementation plan; holds that criticism of a non-binding explanatory note does not vitiate a RUP whose binding provision is clear.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvs-265487"
+"ground": "",
+"provision": "",
+"reason": "Appeal against a municipal RUP rejected. The court only applied settled principles on clarity and reasoning to the one-dwelling-per-parcel rule. No annulment and no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265486": {
 "v": 4,
@@ -53120,16 +53113,19 @@
 },
 "rvs:265472": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"environmental-law"
+"environmental-law",
+"permitting"
 ],
-"reason": "Annuls a Flemish ministerial atlas of classified watercourses as a regulatory act reserved to the Flemish government, and finds limited public participation conflicts with Aarhus Article 6.",
+"ground": "A",
+"provision": "Ministerieel besluit van 7 februari 2023 tot vastlegging van de digitale atlas van de gerangschikte onbevaarbare waterlopen en publieke grachten",
+"reason": "Annuls a ministerial order fixing the digital atlas of watercourses: a regulatory act needing the Flemish Government, and public participation was too limited under Aarhus Article 6.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265472"
+"at": "2026-11-25"
 },
 "rvs:265471": {
 "v": 4,
@@ -53286,17 +53282,16 @@
 },
 "rvs:265519": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"energy-climate"
-],
-"reason": "Holds that the Walloon environmental permit decree's confirmation mechanism (art. 95 §8) is not a separately appealable decision, and sets standing tests for associations challenging permits.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Admissibility ruling: restates standing and interest case law, and holds that implicit confirmation under art. 95 §8 of the permit decree is not appealable. The permit itself was annulled in a separat",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265519"
+"at": "2026-11-25"
 },
 "rvs:265518": {
 "v": 4,
@@ -53333,18 +53328,19 @@
 },
 "rvs:265515": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting",
-"energy-climate",
-"environmental-law"
+"energy-climate"
 ],
-"reason": "Annuls a gas-plant permit: conditions must appear in the operative part, and contradictory reasoning on site access and cooling makes the statement of reasons inadequate.",
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit for a gas-fired power plant for contradictory reasoning and a condition missing from the operative part; it applies settled principles and sets no new rule.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265515"
+"at": "2026-11-25"
 },
 "rvs:265514": {
 "v": 4,
@@ -53370,17 +53366,16 @@
 },
 "rvs:265512": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"energy-climate"
-],
-"reason": "Partial annulment of a unique permit is unavailable where the contested condition forms an indissociable whole with the rest of the permit; applies to energy installation permits.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265512"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against one permit condition (CCS) dismissed as inadmissible; partial annulment impossible because the condition is indissociable from the permit. Restates settled case law on partial annulment",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265511": {
 "v": 4,
@@ -53417,16 +53412,19 @@
 },
 "rvs:265506": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
+"permitting",
 "environmental-law"
 ],
-"reason": "Annuls urban-planning fine decision; holds CoBAT art. 313/11 recidivism doubling requires a final prior fine, so a suspended pronouncement does not qualify.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265506"
+"ground": "B",
+"provision": "Article 313/11 CoBAT (doubling of administrative fines on repeat urban planning offences), read with articles 313/5 §1 and Constitution arts 10-11",
+"reason": "Council of State reads art. 313/11 CoBAT as requiring a prior definitive fine decision, and rules that a suspended pronouncement under art. 313/5 §1, 2°/3° cannot ground doubling for recidivism.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265505": {
 "v": 4,
@@ -53997,43 +53995,46 @@
 },
 "rvs:265437": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "States general rules for regularisation permits: the fait accompli must not sway the decision, motivation must be scrupulous, and cost may be weighed. Also sets revirement d'attitude motivation duties",
+"ground": "",
+"provision": "",
+"reason": "Application of settled case law on reasoning, good spatial planning, policy reversal and regularisation permits to a single padel-cover permit; request dismissed, nothing new or of general application",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265437"
+"at": "2026-11-25"
 },
 "rvs:265436": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
-"basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Restates permit motivation duties (departing from advice), counts customer noise as nuisance, and holds one determinative ground suffices to uphold refusal.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265436"
-},
-"rvs:265435": {
-"v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Sets out how D.II.24 CoDT applies in habitat zones: two cumulative conditions, requiring a specific statement of reasons on compatibility with the neighbourhood.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265435"
+"ground": "",
+"provision": "",
+"reason": "Rejection of a challenge to a single environmental permit refusal (gaming hall, noise nuisance); applies settled case law on formal reasoning, advisory opinions and determinative grounds.",
+"confidence": "high",
+"at": "2026-11-25"
+},
+"rvs:265435": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Application of settled case law (D.II.24 CoDT, revirement d'attitude, SDC reading) to one permit; request rejected. No annulment of a general instrument and no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265434": {
 "v": 4,
@@ -54264,17 +54265,16 @@
 },
 "rvvb:RVVB.A.2526.0423": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Clarifies that a neighbour's administrative appeal must be assessed generously under Aarhus Art. 9(3); 'betrokken publiek' needs only plausible likely effects, not formalistic proof; annuls the reject",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one decision declaring an administrative appeal inadmissible; applies settled case law on 'betrokken publiek' (art. 2, 53 OVD, art. 74/87 OVB) and Aarhus access without new interpretation.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0423"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0422": {
 "v": 4,
@@ -54315,43 +54315,44 @@
 },
 "rvvb:RVVB.A.2526.0418": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"permitting",
-"environmental-law"
+"permitting"
 ],
-"reason": "Appeal must develop concrete criticism of the heritage agency advice to trigger the mandatory VCOE advice under art. 6.4.6 Decreet Onroerend Erfgoed; vague references do not suffice.",
+"ground": "",
+"provision": "",
+"reason": "Dismisses pleas against a single roof-cladding permit; applies art. 6.4.6 Onroerend Erfgoeddecreet by restating existing case law, requiring concrete criticism of the heritage advice. Nothing new or o",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0418"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0417": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Clarifies the 'vergund geacht' presumption under art. 5.1.3 §2 VCRO: burden of proof, post-cutoff extensions excluded, pavement re-laying not automatically maintenance, and the motivation required for",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal rejected; partial refusal to register paving as 'vergund geacht' rests on settled application of artikel 4.2.14 and 5.1.3 VCRO to the evidence in one file.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0417"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0416": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "States that a deciding authority departing from the POA report must explain why and on which points, with stricter motivation when departing; also covers the scope of the devolutive appeal.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0416"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Single permit for a house; assessment of good spatial planning (scale, shadow) found insufficiently reasoned against POA advice. Application of settled case law on motivation and duty of care.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0414": {
 "v": 4,
@@ -54366,44 +54367,46 @@
 },
 "rvvb:RVVB.A.2526.0413": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"permitting",
-"environmental-law"
+"permitting"
 ],
-"reason": "Annuls permit: Art. 4.4.8/2 VCRO hobby-stable rules require checking existing stabling and graze land proximity; Art. 64 OVD: substantially changed application needs new public inquiry.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0413"
+"ground": "B",
+"provision": "Article 4.4.8/2 VCRO (hobby stable in agricultural zones) and article 64 Omgevingsvergunningsdecreet",
+"reason": "Court interprets art. 4.4.8/2 VCRO: grazing land must be geographically near the stable, and existing stabling must be assessed. Changing a professional application to a hobby stable on appeal require",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0412": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "States that authorities may refuse a modification request in the wijzigingslus (art. 64 Omgevingsvergunningsdecreet) without motivation, as it is no right; applicants cannot rely on it at any stage.",
+"ground": "B",
+"provision": "Article 64 Omgevingsvergunningsdecreet (modification loop in administrative appeal)",
+"reason": "Council holds the authority may refuse a modified project in appeal without giving reasons; the modification loop is no right, and a refused version must be refiled as a new application.",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0412"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0410": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Applies art. 105 §2 Omgevingsvergunningsdecreet: a party who did not appeal the first-instance permit decision cannot bring a judicial appeal, which bears on who may appeal.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Appeal dismissed; the ruling applies settled case law to the facts of one bakery permit and sets no new rule."
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Challenge to a single omgevingsvergunning for a bakery extension; pleas on water assessment, reasoning and good spatial planning rejected by applying settled principles, with no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265432": {
 "v": 4,
@@ -54442,18 +54445,18 @@
 },
 "rvs:265427": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"permitting",
-"environmental-law"
+"permitting"
 ],
-"reason": "Restates urgency rules for suspending permits: applicant bears burden, pre-existing harms count only if aggravated, and no impact report was automatically required for this project.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Interim ruling rejecting suspension of a Brussels planning permit for lack of urgency; it applies settled urgency criteria to the facts of one file."
+"ground": "",
+"provision": "",
+"reason": "Suspension of a single urban planning permit refused because urgency was not shown; restates settled case law on urgency under article 17 of the Council of State laws.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265426": {
 "v": 4,
@@ -54523,16 +54526,16 @@
 },
 "rvs:265414": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law"
-],
-"reason": "Decides standing: neighbouring owners whose parcels are included in a nature reserve vision area or global framework may challenge recognition and management-plan decisions.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265414"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interlocutory ruling on admissibility (timeliness and interest) of an appeal against nature reserve decisions; debate reopened, no annulment or new interpretation. Standing and time limits apply settl",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265412": {
 "v": 4,
@@ -54558,17 +54561,16 @@
 },
 "rvs:265410": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Owners whose parcels sit in a nature plan's global framework (not the reserve) have standing to appeal the plan's approval.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265410"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interlocutory ruling: rejects standing objections applying settled interest case law and reopens the debate. No annulment, and no new interpretation of the natuurdecreet binding others.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265409": {
 "v": 4,
@@ -55680,17 +55682,19 @@
 },
 "rvs:265393": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"environmental-law",
-"permitting"
+"permitting",
+"environmental-law"
 ],
-"reason": "Annuls a permit: Natura 2000 appropriate assessment cannot rely on an unjustified 5% nitrogen-deposition threshold without checking habitat saturation and conservation status.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265393"
+"ground": "B",
+"provision": "Article 29, § 3, loi du 12 juillet 1973 sur la conservation de la nature (appropriate assessment, Natura 2000)",
+"reason": "Council of State holds that a foreign authority's nitrogen-deposition threshold (Flemish 5% circular), already rejected by the Flemish court, cannot be used without a site conservation-status assessme",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvs:265391": {
 "v": 4,
@@ -55789,16 +55793,19 @@
 },
 "rvs:265386": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"permitting"
+"permitting",
+"environmental-law"
 ],
-"reason": "Annuls a municipal road-alignment plan; holds that the Gemeentewegendecreet art. 12 §2 conformity-with-zoning condition is an independent legality requirement for the council, separate from the permit",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265386"
+"ground": "B",
+"provision": "Article 12, § 2, first paragraph, Gemeentewegendecreet of 3 May 2019 (municipal roads decree)",
+"reason": "Council of State holds that the condition that a road change fits the realisation of the land's zoning is an independent legality requirement for the municipal council; otherwise the regular rooilijnp",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265385": {
 "v": 4,
@@ -55989,16 +55996,16 @@
 },
 "rvs:265366": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Permit authority must weigh a substantiated public-safety risk in good spatial planning; demolition without a permit requires extreme urgency; post-decision documents are excluded.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265366"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejects a challenge to one demolition-permit refusal. The assessment of good spatial planning against a public-safety risk applies settled principles, with no clearly new interpretation of CoDT D.I.1.",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvs:265365": {
 "v": 4,
@@ -56198,29 +56205,33 @@
 },
 "rvs:265357": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Annulled unique permits are deemed never to have existed, so they cannot ground a reversal-of-attitude or legitimate-expectation claim; informal notes outside the recours procedure need not be answere",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265357"
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to a partial permit refusal for a service station; applies settled case law on motivation, revirement d'attitude after annulment and legitimate expectations. No new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265356": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Clarifies that a planning derogation's reasoning need not show the project cannot fit a conforming zone, and how permit conditions must be precise (CoDT D.IV.53).",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265356"
+"ground": "",
+"provision": "",
+"reason": "Annulment action against a single permit rejected; applies settled case law on derogation from the plan de secteur (D.IV.13 CoDT), SDC deviation (D.IV.5) and permit conditions (D.IV.53).",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265355": {
 "v": 4,
@@ -56507,17 +56518,16 @@
 },
 "rvvb:RVVB.S.2526.0392": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Suspension requires urgency with useful effect; a suspension is prospective only, so completed site works and the holder's undertaking not to execute defeat urgency.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-s-2526-0392"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspension request on one subdivision permit rejected for lack of urgency (hoogdringendheid), applying settled case law; no instrument of general application and no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.S.2526.0386": {
 "v": 4,
@@ -56532,30 +56542,29 @@
 },
 "rvvb:RVVB.S.2526.0385": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Holds that individual notice under art. 23 Omgevingsvergunningsbesluit to adjoining owners by secured mail is a substantial formality for the public inquiry, and its breach is not excused by the absen",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-s-2526-0385"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspends a single permit for lack of individual notification to adjoining owners under art. 23 Omgevingsvergunningsbesluit; applies settled case law on public inquiry as substantial formality, no new ",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0409": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Screening for a MER/project-MER: a project is a 'totaalproject' only with geographic proximity and functional interdependence; cumulative effects count only existing or approved projects.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0409"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Dismissal of pleas against one subdivision permit. Totaalproject and cumulative-effects (Bijlage II DABM) assessment applies settled case law; applicants failed to prove functional dependency or appro",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0408": {
 "v": 4,
@@ -56572,42 +56581,44 @@
 },
 "rvvb:RVVB.A.2526.0407": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Simplified permit procedure applies only if the initial application complies with the RUP, judged on its content as first submitted; existing unpermitted uses cannot simply be left to enforcement.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls a single permit for careless assessment of conformity with the municipal RUP; the simplified procedure was wrongly followed. This is application of settled principles, with no new interpretatio",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0407"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0406": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Under VCRO 4.4.23, 'verkrot' is assessed at the application date; the applicant must prove non-dilapidation with current evidence, and the statement of reasons must address structural elements.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal rejected; refusal of one permit upheld on settled case law about 'verkrot' (art. 4.1.1, 15° and 4.4.23 VCRO), burden of proof and motivation. No new general rule.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0406"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0405": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Under art. 4.3.8 VCRO, a municipal technical department's advice cannot replace the road manager's (college's) advice on rooilijn realisation absent a valid delegation.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0405"
+"ground": "B",
+"provision": "Article 4.3.8, §1, second paragraph, 1° VCRO (in conjunction with article 56, §3, 1° Decreet Lokaal Bestuur)",
+"reason": "The Council holds that the 'wegbeheerder' of a municipal road is the college of mayor and aldermen. A municipal department's advice does not qualify without a proven delegation, so the five-year rooil",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0404": {
 "v": 4,
@@ -56622,99 +56633,96 @@
 },
 "rvvb:RVVB.A.2526.0403": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Cumulative effects in project-MER screening cover only existing or approved projects, not potential future applications under a PRUP; screening is distinct from the good-spatial-planning assessment.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0403"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Challenge to one permit for a boat park in Nieuwpoort is rejected. The court applies settled case law on project-MER screening, cumulative effects and good spatial planning; nothing new.",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0402": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Project-m.e.r. screening must count cumulative effects only of existing or approved projects, not future potential applications; a project is part of a larger whole only if functionally dependent.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0402"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Challenge to a single permit is rejected. The cumulative-effects point (only existing or approved projects count) follows Council of State case law (Fimmers) and is not new.",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0401": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Project-m.e.r. screening: cumulative effects count only existing or approved projects, not potential future ones; functional dependence is needed to treat a project as part of a larger whole.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0401"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Upholds a single permit. The screening point on cumulative effects (existing or approved projects only) follows Council of State case law (Fimmers) rather than settling a new question.",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0400": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Sets review limits for the water test and project-MER screening, and holds the 2023 rainwater regulation does not apply to applications filed before 2 October 2023.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0400"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Challenge to a single permit for a greenhouse extension; pleas rejected as unsubstantiated, applying settled principles on screening, water test and reasoning. No new interpretation or general instrum",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0399": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Screening note must assess effects of necessary dewatering even if separately permitted; art. 4.1.10 heritage test requires explicit reasoning on impact on inventoried building values.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0399"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single petrol station permit for insufficient reasoning on compatibility with surroundings, screening note and heritage assessment; applies settled principles, including that well-drain",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0398": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Annuls a permit: sets how the Inrichtingsbesluit's residential-rural and agricultural zone rules apply to commercial sales, and requires a separate planning-compatibility assessment.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0398"
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit for insufficient examination and reasoning on gewestplan conformity (artt. 5.1.0, 6.1.2.2, 11.4.1 Inrichtingsbesluit), applying settled case law; no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0397": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Restates that a refusal resting on several independent grounds stands unless all are contested, and that new pleas cannot be added in the reply note.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0397"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal dismissed on settled case law: all determinative refusal grounds must be challenged, and pleas cannot be extended in the explanatory note. No new interpretation or general instrument.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0396": {
 "v": 4,
@@ -56766,96 +56774,100 @@
 },
 "rvvb:RVVB.A.2526.0390": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Clarifies 'hoofdzakelijk vergund' for zoning-deviation rights: necessary constructions (e.g. parking, terraces) must be assessed for permit status, not just the core building; annulled.",
+"ground": "",
+"provision": "",
+"reason": "Annuls one permit for careless assessment of 'hoofdzakelijk vergund' character under art. 4.4.10 VCRO; applies settled case law and parliamentary history, no new interpretation or general instrument.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0390"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0384": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"soil"
-],
-"reason": "Annuls a subdivision permit: a moved infiltration facility needs supporting soil and groundwater data, and intervenors may only support the appellant's pleas.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0384"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single subdivision permit for insufficient reasoning on nature assessment, water management and good spatial planning; art. 4.3.1 §2 VCRO is only restated from settled case law.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0383": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Interprets a RUP's zoning title and use list: 'regionaal bedrijventerrein' is a deliberate designation, and business-building units may be tested against it. Wider use for permit applicants.",
+"ground": "",
+"provision": "",
+"reason": "Upholds refusal of one permit for a business park building; interprets a municipal RUP's zoning provisions on its own facts, applying settled principles on interpreting zoning rules. No general effect",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0383"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0382": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Confirms that the zone boundary is measured on the original gewestplan, not a principled 50 m depth; that new arguments in reply pleadings are inadmissible; and that the Council reviews zone-boundary ",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0382"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal dismissed. Court applies settled case law on motivation and marginal review to a factual dispute over a gewestplan zone boundary in one permit refusal; no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0381": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law",
-"permitting"
-],
-"reason": "Annuls a permit: an appropriate assessment is required where a voortoets identifies a significance risk (acidification), and the verkavelingsvergunning rule for group housing is applied.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0381"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit for inadequate appropriate-assessment screening and reasoning on the Habitats risk; the subdivision-permit discussion restates settled law and the interpretive article 20 ",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0380": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Applies art. 4.3.3 VCRO: mandatory advice on breaches of direct-working sectoral norms (autosnelweg statute, advertising rules) binds the permit authority. Medium confidence, as the ruling's reasoning",
+"ground": "B",
+"provision": "Artikel 1 wet van 12 juli 1956 (statuut autosnelwegen) en Publiciteitsverordening van 23 mei 2023, in samenhang met artikel 4.3.3 VCRO",
+"reason": "Court holds that legal classification as autosnelweg by royal decree (KB 1978) prevails over actual road layout, so advertising bans and free-strip rules apply along classified stretches like the A12.",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0380"
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0379": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Zoning-deviation rules (VCRO 4.4.23, BZF arts. 10-11) read restrictively: a woningbijgebouw needs a residential function, and departing from negative heritage advice requires precise reasons.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0379"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of one permit for zonevreemde functiewijziging; applies articles 10 and 11 of the Besluit Zonevreemde Functiewijzigingen and settled motivation principles. No general instrument annulled, no",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvvb:RVVB.A.2526.0378": {
 "v": 4,
@@ -56873,17 +56885,16 @@
 },
 "rvvb:RVVB.A.2526.0377": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Annuls a permit: reads RUP public-green norms (paved paths not planting), requires reasons on functional usability, and restrictively applies art. 4.4.1 VCRO minor-deviation rule.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvvb-rvvb-a-2526-0377"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single environmental permit for inadequate reasoning on RUP 167 green zone and a roof-form derogation; applies settled case law on article 4.4.1 VCRO, no new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265347": {
 "v": 4,
@@ -56964,17 +56975,16 @@
 },
 "rvs:265338": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"energy-climate"
-],
-"reason": "Restates that permit conditions must be precise, limited, accessory, and not leave room for appreciation or depend on future or third-party events; applies this to impact-study recommendations.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265338"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment action against a single wind farm permit rejected; the pleas on motivation and permit conditions restate settled case law and no instrument of general application is affected.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "gwh:6/2026": {
 "v": 4,
@@ -57138,17 +57148,16 @@
 },
 "rvs:265332": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Late new pleas in a reply memorandum are inadmissible if the appellant knew the facts when filing the petition, even where earlier ministerial decisions revealed them.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Council of State rejects an annulment request against one urban planning permit; it applies settled admissibility rules to the facts and sets no new environmental rule."
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Application of settled principles to a single urban planning permit; the request is rejected, and the late new pleas are held inadmissible under established case law.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "eu:32018L2001R(13)": {
 "v": 4,
@@ -57201,17 +57210,18 @@
 },
 "rvs:265329": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
-"environmental-law",
-"permitting"
+"environmental-law"
 ],
-"reason": "Annuls a Walloon game-management plan; holds that 'repeuplement' releases require at least one year of hunting suspension and that deviating from expert advice needs explicit reasons.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265329"
+"ground": "B",
+"provision": "Article 12, § 2, alinéa 2, 2°, a), arrêté du Gouvernement wallon du 29 mai 2020 (chasse à la perdrix grise, lâchers de repeuplement)",
+"reason": "Court defines undefined 'lâcher de repeuplement': released birds must be able to reproduce at least once, so hunting must be suspended at least one year after release; binds all cynegetic councils' pl",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvs:265328": {
 "v": 4,
@@ -57226,29 +57236,29 @@
 },
 "rvs:265327": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Under CoDT art. D.II.24, non-residential uses in residential zones need a specific statement of reasons on both conditions, including that the main residential function is not endangered.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single permit for insufficient reasoning on the D.II.24 CoDT conditions in a residential zone; applies settled case law without new interpretation.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265327"
+"at": "2026-11-25"
 },
 "rvs:265326": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Annulment for inadequate reasoning: a ministerial appeal permit must explain departures from communal policy and from conditions advised by the consulted body; communal policy lines lack regulatory fo",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single planning permit (gîte conversion) for insufficient reasoning and a factual error; restates settled case law on formal reasons and municipal policy lines.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265326"
+"at": "2026-11-25"
 },
 "rvs:265324": {
 "v": 4,
@@ -57263,16 +57273,16 @@
 },
 "rvs:265323": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law"
-],
-"reason": "Reads Code de l'Environnement art. D.170: the audi alteram partem hearing must precede the destination decision, not the seizure, which is only a conservatory measure.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265323"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspension of an individual animal-welfare destination decision refused; all pleas not serious. Applies settled audi alteram partem and proportionality principles to one case; no instrument annulled.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265322": {
 "v": 4,
@@ -59536,17 +59546,16 @@
 },
 "rvs:265559": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting",
-"environmental-law"
-],
-"reason": "Suspension of a permit: replying to EIE criticism by mere reference to the study is insufficient, and an environmental association has personal interest in biodiversity harm.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265559"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspension of a single permis unique for insufficient reasoning on biodiversity and the EIA; urgency assessed under settled case law. No instrument of general application and no new legal interpretati",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265558": {
 "v": 4,
@@ -59704,16 +59713,16 @@
 },
 "rvs:265542": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"environmental-law"
-],
-"reason": "Interprets 'responsable de l'animal' under Code de l'Environnement D.141: ownership is irrelevant; habitual direct management or surveillance suffices for seizure and cost liability.",
-"confidence": "low",
-"at": "2026-11-23",
-"written": "d-rvs-265542"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Animal welfare seizure decision upheld; applies the definition of 'responsable de l'animal' (art. D.141 Environment Code) to one case's facts, with no general annulment or new interpretation.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265541": {
 "v": 4,
@@ -59739,17 +59748,16 @@
 },
 "rvs:265538": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"soil",
-"environmental-safety"
-],
-"reason": "Mayor's police measure against erosion runoff from farmland annulled: police powers reach natural hazards; a referenced report must be disclosed, and measure's pertinence and proportionality must be j",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265538"
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annulment of a single mayoral police order for inadequate formal motivation (unnotified GISER report, unjustified proportionality); applies settled case law on motivation and police powers, not enviro",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265537": {
 "v": 4,
@@ -59764,17 +59772,19 @@
 },
 "rvs:265533": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "environmental-law",
 "permitting"
 ],
-"reason": "Natura 2000 permit and appropriate assessment apply to marine activities exempt from permit; applicant must assess cumulative effects regardless of others' exemptions.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265533"
+"ground": "B",
+"provision": "Articles 25 §3 and 28 §1 of the Act of 20 January 1999 (marine environment), read with Articles 2 and 14 §2 of the Royal Decree of 27 October 2016 (Natura 2000 permit)",
+"reason": "Council of State holds that activities exempt from marine permit and EIA still need a Natura 2000 permit and appropriate assessment. Project developers must themselves assess cumulative effects with e",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvs:265529": {
 "v": 4,
@@ -59900,17 +59910,19 @@
 },
 "rvs:265582": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting",
 "environmental-law"
 ],
-"reason": "Screening-obligated projects where the municipal college is applicant must go to the deputation; the municipal environmental officer lacks the real autonomy Article 9bis EIA Directive requires.",
+"ground": "B",
+"provision": "Article 15/1 Omgevingsvergunningsdecreet, read with Article 9bis of the EIA Directive 2011/92/EU (applying CJEU C-236/24)",
+"reason": "Applies CJEU C-236/24: Article 9bis is incompletely transposed in Flanders; screening-only projects of a municipality must go to the deputatie, as the municipal permit officer lacks real autonomy.",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265582"
+"at": "2026-11-25"
 },
 "rvs:265581": {
 "v": 4,
@@ -59969,17 +59981,19 @@
 },
 "rvs:265576": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "environmental-law",
 "permitting"
 ],
-"reason": "Annuls Bruges parking ordinance: a change is not a 'kleine wijziging' under the DABM plan-MER exemption where it substantially alters the prior text; screening must justify this.",
+"ground": "A",
+"provision": "Gemeentelijke stedenbouwkundige verordening Brugge, hoofdstuk 4 (parkeerruimtes en fietsstallingen), wijziging 2023; art. 4.2.3 §3 DABM",
+"reason": "Annuls a municipal urban planning regulation for the whole city. Also clarifies that 'kleine wijziging' under art. 4.2.3 §3 DABM requires comparing the regulatory provisions; a substantive change to a",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265576"
+"at": "2026-11-25"
 },
 "rvs:265575": {
 "v": 4,
@@ -60049,56 +60063,59 @@
 },
 "rvs:265568": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Substitution power under art. 37 §2 DBRC: an unavoidable legality obstacle is assessed on the date of the RvVb ruling, not at later reinstatement.",
-"confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265568"
+"ground": "B",
+"provision": "Article 37, §2 DBRC (decree of 4 April 2014), substitution power of the RvVb in case of bound competence",
+"reason": "Council of State rules as cassation court that the RvVb assesses bound competence for substitution on the facts and law at the date of its ruling; foreseeable change is only discretionary grounds to r",
+"confidence": "medium",
+"at": "2026-11-25"
 },
 "rvs:265567": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "Confirms that appellants must concretely plead grounds and their interest against permit decisions; courts won't develop pleas for them, and new cassation pleas are inadmissible.",
-"confidence": "medium",
-"at": "2026-11-23",
-"written": "no",
-"second_look": "Cassation appeal dismissed as inadmissible on settled procedural grounds; the court does not rule on the permit appeal-standing (betrokken publiek) question."
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Cassation appeal dismissed as inadmissible: unclear plea and a new plea raised for the first time in cassation. No interpretation of the 'betrokken publiek' provisions; purely procedural.",
+"confidence": "high",
+"at": "2026-11-25"
 },
 "rvs:265566": {
 "v": 4,
-"verdict": "relevant",
-"by": "claude-haiku-5-5",
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
-"topics": [
-"permitting"
-],
-"reason": "RvVb need not state reasons for short-debate treatment in permit appeals unless a party contests it; permit rights lapse where works deviate from the permit.",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Cassation appeal on an RvVb ruling about a staircase regularisation permit. The court's points on the duty to state reasons for short-debate procedure concern procedure, not environmental or planning ",
 "confidence": "medium",
-"at": "2026-11-23",
-"written": "d-rvs-265566"
+"at": "2026-11-25"
 },
 "rvs:265565": {
 "v": 4,
+"rv": 2,
 "verdict": "relevant",
-"by": "claude-haiku-5-5",
+"by": "claude-sonnet-5-5",
 "basis": "full text",
 "topics": [
 "permitting"
 ],
-"reason": "Council of State annuls RvVb ruling: the 100 m² floor-area limit in art. 4.4.6(2) VCRO applies only to 'onthaalinfrastructuur', not to parkings, access roads or other listed works near protected herit",
+"ground": "B",
+"provision": "Article 4.4.6, second paragraph, 1° VCRO (derogation for acts near protected heritage)",
+"reason": "Council of State settles a disputed reading: the 100 m² limit applies only to 'onthaalinfrastructuur', not to access, parking, paving, relief changes or technical constructions near protected heritage",
 "confidence": "high",
-"at": "2026-11-23",
-"written": "d-rvs-265565"
+"at": "2026-11-25"
 },
 "rvs:265631": {
 "v": 4,
@@ -70937,20 +70954,20 @@
 "scope_from": "2026-01-01",
 "in_scope": 7252,
 "assessed": 7252,
-"waiting": 73,
-"relevant": 587,
-"not_relevant": 6266,
+"waiting": 0,
+"relevant": 601,
+"not_relevant": 6325,
 "excluded_by_rule": 326,
-"this_run": 150,
+"this_run": 73,
 "api": {
-"calls": 150,
-"input_tokens": 2005456,
-"output_tokens": 24716,
-"usd": 4.2581
+"calls": 73,
+"input_tokens": 966150,
+"output_tokens": 10556,
+"usd": 2.0379
 },
 "key_present": true,
 "updated": "2026-11-25",
-"rulings_to_rescreen": 73
+"rulings_to_rescreen": 0
 },
 "writer": {
 "this_run": 0,
