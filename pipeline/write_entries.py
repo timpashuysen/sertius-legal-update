@@ -61,6 +61,7 @@ def run(inbox, log, digest, client, today, per_run=PER_RUN):
     ids = {e["id"] for e in digest["items"]}
     todo = [i for i in inbox if i["d"] >= assess.SCOPE_START and i["id"] not in used
             and log["items"].get(i["id"], {}).get("v") == assess.VERSION and log["items"][i["id"]]["verdict"] == "relevant"
+            and (not assess.is_ruling(i) or assess.ruling_current(log["items"][i["id"]]))
             and not log["items"][i["id"]].get("written") and (DATA / "text" / text_name(i["id"])).exists()]
     todo.sort(key=lambda i: i["d"], reverse=True)
     made = dropped = failed = 0
@@ -94,7 +95,8 @@ def run(inbox, log, digest, client, today, per_run=PER_RUN):
         a["written"] = entry["id"]
         made += 1
     waiting = sum(1 for i in inbox if i["d"] >= assess.SCOPE_START and i["id"] not in used
-                  and log["items"].get(i["id"], {}).get("verdict") == "relevant" and not log["items"][i["id"]].get("written"))
+                  and log["items"].get(i["id"], {}).get("verdict") == "relevant" and not log["items"][i["id"]].get("written")
+                  and (not assess.is_ruling(i) or assess.ruling_current(log["items"][i["id"]])))
     return made, dropped, failed, waiting
 
 

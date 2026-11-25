@@ -64,17 +64,43 @@ def rule_exclusion(item):
     return ""
 
 
-RULING_SYSTEM = """You screen one court ruling (Belgian Council of State, or the Flemish Raad voor Vergunningsbetwistingen or Handhavingscollege) for Sertius, a Belgian environmental consultancy. Long rulings are shortened in the middle.
+RULING_VERSION = 2      # the test for court rulings; raising it re-screens every ruling so far found relevant
 
-RELEVANT only if both hold:
-1. it concerns environmental, planning or permit law (permits, spatial plans, environmental impact assessment, nature, water, soil, waste, noise, air, emissions, energy installations, environmental enforcement); and
-2. it annuls or suspends a regulation or plan, or it decides a point of law or procedure that permit applicants, operators or authorities elsewhere should know (how a rule is to be read or applied, what an assessment or a statement of reasons must contain, who may appeal and when).
-NOT relevant: other fields (aliens, civil service, public procurement, education, tax, local government staff), withdrawals and purely procedural endings, and rulings that only weigh the facts of one file without a statement of wider use.
+RULING_SYSTEM = """You screen one court ruling (Belgian Council of State, or the Flemish Raad voor Vergunningsbetwistingen or Handhavingscollege) for a legal digest read by environmental consultants and their clients. Long rulings are shortened in the middle. The digest carries only the few rulings that change how people outside the case must work.
 
-Most rulings are NOT relevant under this test: a dispute about one building, one permit or one neighbour is not relevant unless the ruling states a rule of wider use.
+RELEVANT only if the ruling concerns environmental, planning or permit law AND one of these holds:
+A. it annuls or suspends an instrument of general application: a law, decree, order, regulation, spatial plan (RUP, gewestplan, plan d'aménagement), urban planning regulation, sectoral conditions, or a policy framework applied to many files; or
+B. the court itself settles a disputed or new question on the meaning of a named legal provision, or departs from or refines earlier case law, or applies the answer to a preliminary question of the Constitutional Court or the EU Court of Justice, in a way other applicants, operators or authorities must now follow.
+
+NOT relevant, however carefully reasoned:
+- annulment or upholding of one permit, refusal or enforcement decision because the reasons were insufficient, the assessment was careless, the facts were misread, an advice or objection was not answered, or good spatial planning (goede ruimtelijke ordening) was badly assessed: this is the application of settled principles;
+- restating established case law on the duty to state reasons, the duty of care, standing, interest, time limits or the admissibility of pleas;
+- withdrawals, lapsed interest, settlements, costs, and purely procedural endings;
+- other fields of law (aliens, civil service, public procurement, education, tax).
+
+Expect fewer than one ruling in ten to pass. If you cannot name the provision and say in one sentence what is new or of general application, the ruling is not relevant.
 
 Do not explain or think aloud. Your whole reply is one JSON object, starting with {"relevant":
-{"relevant": true|false, "topics": [any of "soil","environmental-law","environmental-safety","permitting","energy-climate","circular-products"], "reason": "<at most 25 words: the point of law, or why not relevant>", "confidence": "high"|"medium"|"low"}"""
+{"relevant": true|false, "ground": "A"|"B"|"", "provision": "<the instrument annulled or the provision interpreted, or empty>", "topics": [any of "soil","environmental-law","environmental-safety","permitting","energy-climate","circular-products"], "reason": "<at most 25 words: what is new or of general application, or why not relevant>", "confidence": "high"|"medium"|"low"}"""
+
+
+def is_ruling(item):
+    return item["src"] in ("rvvb", "rvs")
+
+
+def ruling_current(a):
+    """A ruling verdict counts when it was reached under the current test for rulings."""
+    return a.get("rv") == RULING_VERSION
+
+
+def screen_ruling(client, item, model):
+    reply = client.ask(llm.MODELS[model], RULING_SYSTEM,
+                       "RULING\n" + text_path(item).read_text("utf-8")[:34000] + "\n\nNow give the JSON object and nothing else.", max_tokens=1500)
+    r = llm.json_block(reply[reply.rfind('{"relevant"'):] if '{"relevant"' in reply else reply)
+    if not isinstance(r, dict):
+        raise ValueError("no verdict object: " + reply[:200])
+    r["relevant"] = bool(r.get("relevant")) and r.get("ground") in ("A", "B") and bool(str(r.get("provision", "")).strip())
+    return r
 
 
 def text_path(item):
@@ -121,10 +147,11 @@ def parse_rows(reply):
         return rows
 
 
-def assess(items, log, client, today, limit=1000, rulings=260):
+def assess(items, log, client, today, limit=1000, rulings=150):
     done = 0
     log.pop("last_error", None)
-    todo = [i for i in items if i["d"] >= SCOPE_START and log["items"].get(i["id"], {}).get("v") != VERSION]
+    scope = [i for i in items if i["d"] >= SCOPE_START]
+    todo = [i for i in scope if log["items"].get(i["id"], {}).get("v") != VERSION]
     rest = []
     for it in todo:
         rule = rule_exclusion(it)
@@ -133,29 +160,43 @@ def assess(items, log, client, today, limit=1000, rulings=260):
             done += 1
         else:
             rest.append(it)
+    # a ruling turned down under the earlier, wider test is turned down under the stricter one as well
+    for it in scope:
+        a = log["items"].get(it["id"], {})
+        if is_ruling(it) and a.get("v") == VERSION and a.get("verdict") == "not relevant" and not ruling_current(a):
+            a["rv"] = RULING_VERSION
     if not client or not client.available():
         return done, len(rest)
     rest.sort(key=lambda i: i["d"], reverse=True)
-    # rulings of the Council of State and the permit tribunal are read in full, one by one
-    full = [i for i in rest if i["src"] in ("rvvb", "rvs") and text_path(i).exists()]
-    rest = [i for i in rest if not (i["src"] in ("rvvb", "rvs") and text_path(i).exists())]
+    # rulings of the Council of State and the permit tribunal are read in full, one by one:
+    # new ones by the small model and, when it lets one through, again by the larger one;
+    # those let through under an earlier test by the larger one only
+    again = [i for i in scope if is_ruling(i) and text_path(i).exists() and log["items"].get(i["id"], {}).get("v") == VERSION
+             and log["items"][i["id"]].get("verdict") == "relevant" and not ruling_current(log["items"][i["id"]])]
+    full = [i for i in rest if is_ruling(i) and text_path(i).exists()]
+    rest = [i for i in rest if not (is_ruling(i) and text_path(i).exists())]
+    again.sort(key=lambda i: i["d"], reverse=True)
     bad = 0
-    for it in full[:rulings]:
+    for it in (full + again)[:rulings]:
+        fresh = log["items"].get(it["id"], {}).get("v") != VERSION
         try:
-            reply = client.ask(llm.MODELS["small"], RULING_SYSTEM,
-                               "RULING\n" + text_path(it).read_text("utf-8")[:34000] + "\n\nNow give the JSON object and nothing else.", max_tokens=1500)
-            r = llm.json_block(reply[reply.rfind('{"relevant"'):] if '{"relevant"' in reply else reply)
+            by = "small"
+            r = screen_ruling(client, it, "small") if fresh else {"relevant": True}
+            if r["relevant"]:
+                by = "writer"
+                r = screen_ruling(client, it, "writer")
             bad = 0
         except llm.CapReached:
             break
         except Exception as e:
-            log["last_error"] = str(e)[:300] + " | reply: " + (reply[:300] if "reply" in dir() else "")
+            log["last_error"] = str(e)[:500]
             bad += 1
             if bad >= 5:          # something is wrong with the replies: stop spending and leave the rest for a look
                 break
             continue
-        log["items"][it["id"]] = {"v": VERSION, "verdict": "relevant" if r.get("relevant") else "not relevant", "by": llm.MODELS["small"],
+        log["items"][it["id"]] = {"v": VERSION, "rv": RULING_VERSION, "verdict": "relevant" if r["relevant"] else "not relevant", "by": llm.MODELS[by],
                                   "basis": "full text", "topics": [t for t in r.get("topics", []) if t in TOPICS],
+                                  "ground": r.get("ground", "") if r["relevant"] else "", "provision": str(r.get("provision", ""))[:200],
                                   "reason": str(r.get("reason", ""))[:200],
                                   "confidence": r.get("confidence") if r.get("confidence") in ("high", "medium", "low") else "medium", "at": today}
         done += 1
@@ -179,6 +220,7 @@ def assess(items, log, client, today, limit=1000, rulings=260):
                                       "confidence": r.get("confidence", "medium") if r.get("confidence") in ("high", "medium", "low") else "medium", "at": today}
             done += 1
     left = sum(1 for i in rest + full if log["items"].get(i["id"], {}).get("v") != VERSION)
+    left += sum(1 for i in again if not ruling_current(log["items"][i["id"]]))
     return done, left
 
 
@@ -187,7 +229,7 @@ def main():
     inbox = inbox if isinstance(inbox, list) else inbox.get("items", [])
     log = load("assessments.json", {"version": VERSION, "items": {}})
     log["version"] = VERSION
-    client = llm.Client(cap_usd=3.0)
+    client = llm.Client(cap_usd=6.0)
     today = dt.date.today().isoformat()
     done, left = assess(inbox, log, client, today)
     scope = [i for i in inbox if i["d"] >= SCOPE_START]
@@ -198,12 +240,21 @@ def main():
                       "excluded_by_rule": sum(1 for a in cur if a["verdict"] == "excluded"),
                       "this_run": done, "api": client.report(), "key_present": bool(client.key), "updated": today}
     (DATA / "assessments.json").write_text(json.dumps(log, ensure_ascii=False, indent=0), "utf-8")
-    # what the site needs: the ids found relevant, and whether the whole scope has a verdict
+    # what the site needs: the ids found relevant, and whether the whole scope has a verdict.
+    # A ruling counts only once it has passed the current test for rulings, so the site never shows
+    # rulings selected in two different ways; those still to be re-screened stay off it until then.
     by_model = sum(1 for a in cur if a["by"] != "rule")
+    def shown(i):
+        a = log["items"].get(i["id"], {})
+        return a.get("verdict") == "relevant" and a.get("v") == VERSION and (not is_ruling(i) or ruling_current(a))
+    unread = sum(1 for i in scope if log["items"].get(i["id"], {}).get("v") != VERSION)
+    log["summary"]["rulings_to_rescreen"] = sum(1 for i in scope if is_ruling(i) and log["items"].get(i["id"], {}).get("verdict") == "relevant"
+                                                and not ruling_current(log["items"][i["id"]]))
+    log["summary"]["relevant"] = sum(1 for i in scope if shown(i))
+    (DATA / "assessments.json").write_text(json.dumps(log, ensure_ascii=False, indent=0), "utf-8")
     (DATA / "qualified.json").write_text(json.dumps({
-        "version": VERSION, "scope_from": SCOPE_START, "active": bool(by_model and left == 0), "summary": log["summary"],
-        "relevant": sorted(i["id"] for i in scope if log["items"].get(i["id"], {}).get("verdict") == "relevant"
-                           and log["items"][i["id"]].get("v") == VERSION)}, ensure_ascii=False), "utf-8")
+        "version": VERSION, "ruling_version": RULING_VERSION, "scope_from": SCOPE_START, "active": bool(by_model and unread == 0),
+        "summary": log["summary"], "relevant": sorted(i["id"] for i in scope if shown(i))}, ensure_ascii=False), "utf-8")
     print(json.dumps(log["summary"]))
 
 
