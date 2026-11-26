@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:07:29Z",
+ "updated": "2026-11-26T02:22:10Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42427,6 +42427,46 @@
    ],
    "inbox": [
     "rvs:267225"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267253",
+   "d": "2026-06-26",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: municipal council may rule on 30-year public use of a path, also if reached before 2019",
+   "a": "The Council of State annuls a Flemish municipal council's decision to declare itself incompetent to establish thirty years of public use of a strip of land under the Municipal Roads Decree. The council's competence runs in parallel with that of the civil courts and does not depend on whether the thirty years were completed before or after 1 September 2019.",
+   "b": "The ruling concerns Flemish municipalities and anyone who asks a municipal council to recognise a path as a municipal road on the basis of thirty years of public use (article 13, §§ 2-3, Municipal Roads Decree of 3 May 2019). The municipality had declared itself incompetent because the thirty years had been completed before the decree entered into force on 1 September 2019, which it said left jurisdiction exclusively with the civil courts. The Council of State rejects this reading. The council's power under article 13, § 2 exists in parallel with the civil courts' jurisdiction over disputes on civil rights, so there are no exclusive competences split by whether the period was completed before or after 1 September 2019. The council may take into account public use from before the decree entered into force, and the provision must be read as requiring public use of at least thirty years. Neither the transitional articles 85 and 86 of the decree nor article 1.2 of the Civil Code changes this. The decision of 17 October 2024 is annulled by judgment of 26 June 2026, and the municipality bears the costs.",
+   "nl": [
+    "Raad van State: gemeenteraad mag dertigjarig publiek gebruik van een grondstrook vaststellen, ook als dit vóór 2019 is bereikt",
+    "De Raad van State vernietigt de beslissing van een Vlaamse gemeenteraad om zich onbevoegd te verklaren voor de vaststelling van dertigjarig publiek gebruik van een grondstrook krachtens het gemeentewegendecreet. De bevoegdheid van de gemeenteraad bestaat parallel met die van de burgerlijke rechter en hangt niet af van de vraag of de dertig jaar vóór of na 1 september 2019 zijn voltrokken.",
+    "Het arrest betreft Vlaamse gemeenten en wie de gemeenteraad verzoekt een pad als gemeenteweg te erkennen op grond van dertigjarig publiek gebruik (artikel 13, §§ 2-3, gemeentewegendecreet van 3 mei 2019). De gemeente had zich onbevoegd verklaard omdat de dertig jaar waren voltrokken vóór de inwerkingtreding van het decreet op 1 september 2019, waarvoor volgens haar uitsluitend de burgerlijke rechter bevoegd was. De Raad van State verwerpt die lezing. De bevoegdheid van de gemeenteraad op grond van artikel 13, § 2 bestaat parallel naast de rechtsmacht van de justitiële rechter over geschillen over burgerlijke rechten, zodat er geen exclusieve bevoegdheden zijn naargelang de termijn vóór of na 1 september 2019 is voltrokken. De gemeenteraad mag rekening houden met het publiek gebruik van vóór de inwerkingtreding van het decreet, en de bepaling moet worden begrepen als een publiek gebruik van minstens dertig jaar. De overgangsartikelen 85 en 86 van het decreet en artikel 1.2 van het Burgerlijk Wetboek doen daaraan geen afbreuk. Het besluit van 17 oktober 2024 wordt vernietigd bij arrest van 26 juni 2026, en de gemeente draagt de kosten."
+   ],
+   "fr": [
+    "Conseil d'État : le conseil communal peut constater trente ans d'usage public d'une bande de terrain, même acquis avant 2019",
+    "Le Conseil d'État annule la décision d'un conseil communal flamand qui s'était déclaré incompétent pour constater trente ans d'usage public d'une bande de terrain en vertu du décret relatif aux voies communales. La compétence du conseil communal existe parallèlement à celle du juge civil et ne dépend pas de l'achèvement des trente ans avant ou après le 1er septembre 2019.",
+    "L'arrêt concerne les communes flamandes et toute personne qui demande au conseil communal de reconnaître un chemin comme voie communale sur la base de trente ans d'usage public (article 13, §§ 2-3, du décret du 3 mai 2019 relatif aux voies communales). La commune s'était déclarée incompétente parce que les trente ans étaient accomplis avant l'entrée en vigueur du décret le 1er septembre 2019, ce qui relevait selon elle exclusivement du juge civil. Le Conseil d'État rejette cette lecture. La compétence du conseil communal fondée sur l'article 13, § 2 existe parallèlement à la juridiction du juge judiciaire sur les litiges relatifs aux droits civils, de sorte qu'il n'y a pas de compétences exclusives selon que le délai a été accompli avant ou après le 1er septembre 2019. Le conseil communal peut tenir compte de l'usage public antérieur à l'entrée en vigueur du décret, et la disposition doit être comprise comme exigeant un usage public d'au moins trente ans. Les articles transitoires 85 et 86 du décret et l'article 1.2 du Code civil n'y changent rien. La décision du 17 octobre 2024 est annulée par arrêt du 26 juin 2026, et la commune supporte les dépens."
+   ],
+   "scope": "Raad van State, arrest nr. 267.253 van 26 juni 2026 – artikel 13, §§ 1-3 gemeentewegendecreet van 3 mei 2019, in samenhang met de artikelen 85 en 86",
+   "dates": {
+    "adopted": "2026-06-26"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267253. 1. Het beroep, ingesteld op 3 februari 2025, strekt tot de nietigverklaring van “[d]e beslissing van de g",
+     "https://www.raadvst-consetat.be/arresten/267253"
+    ]
+   ],
+   "inbox": [
+    "rvs:267253"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
