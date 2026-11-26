@@ -1,6 +1,6 @@
 {
-"next": 267338,
-"misses": 3,
+"next": 267350,
+"misses": 0,
 "kept": {
 "265318": {
 "d": "2026-01-05",
@@ -10830,22 +10830,50 @@
 "score": 4,
 "subject": "1. Par une requête introduite le 22 avril 2026, les parties requérantes demandent, d’une part, la suspension de l’exécution de la décision du 21 février 2026 par laquelle l’inspecteur général du département de la nature et des forêts (DNF) autorise, sous conditions, la société anonyme (SA) Tamet à perturber intentionnellement, mettre à mort des individus et détruire des œufs de Grenouille rousse ( Rana temporaria ),",
 "lang": "nl"
+},
+"267344": {
+"d": "2026-07-03",
+"url": "https://www.raadvst-consetat.be/arresten/267344",
+"score": 6,
+"subject": "1. De vordering, ingesteld op 24 juni 2026, strekt tot de schorsing bij uiterst dringende noodzakelijkheid van de tenuitvoerlegging van: “Het besluit van het college van burgemeester en sc hepenen van de stad Deinze […] van 23 juni 2026 tot intrekking van de eerdere beslissing van het CBS Deinze van 7 april 2026 tot principiële goedkeuring van een aanvraag voor een commerciële pop-up activiteit ‘SoLeie’ en tot princ",
+"lang": "nl"
+},
+"267346": {
+"d": "2026-07-03",
+"url": "https://www.raadvst-consetat.be/arresten/267346",
+"score": 1,
+"subject": "1. Het beroep, ingesteld op 13 januari 2025, strekt to t de nietigverklaring van (i) de beslissing van het FAVV van 13 november 2024 waarbij het bedrijf van verzoekster onder verhoogd toezicht wordt geplaatst, (ii) de beslissing van het FAVV van 18 december 2024 “waarbij de voorgestelde indeling in subgroepen bevestigd wordt, maar [verzoekster] verplicht wordt om rekening te houden met een foutenmarge van 30% en een",
+"lang": "nl"
+},
+"267347": {
+"d": "2026-07-03",
+"url": "https://www.raadvst-consetat.be/arresten/267347",
+"score": 0,
+"subject": "Par une requête introduite le 15 juin 2026, la partie requérante demande la suspension, selon la procédure d’extrême urgence , de l’exécution de « la décision prise le 22 mai 2026 par la partie adverse dans le cadre du marché public de services référencé “marché de services maintenance chauffage – lot 1 : installations de chauffage individuel et production d’eau chaude” ». ECLI:BE:RVSCE:2026:ARR.267.347 VIexturg - 2",
+"lang": "nl"
+},
+"267348": {
+"d": "2026-07-03",
+"url": "https://www.raadvst-consetat.be/arresten/267348",
+"score": 1,
+"subject": "1. Par une requête introduite le 8 novembre 2024, les parties requérantes demandent l’annulation de la décision du 28 mai 202 4 par laquelle le collège communal de Welkenraedt octroie à C.R. et P.P. un p ermis d’urbanisme ayant pour objet l’agrandissement d’une menuiserie et la créat ion d’un showroom avec bureau à l’étage sur un bien sis Bayaux 46 à Henri-Chapelle (Welkenraedt). II. Procédure 2. Par une requête int",
+"lang": "nl"
 }
 },
-"read": 1850,
+"read": 1856,
 "pattern": 0,
-"last_hit": 267334,
+"last_hit": 267349,
 "caught_up": false,
-"last_error": "<urlopen error timed out> at 267338",
+"last_error": "<urlopen error timed out> at 267345",
 "summary": {
-"next": 267338,
-"read": 1850,
-"kept": 1547,
+"next": 267350,
+"read": 1856,
+"kept": 1551,
 "caught_up": false,
 "blocked": false,
 "skipped": 3,
-"last_error": "<urlopen error timed out> at 267338",
-"updated": "2026-11-26T02:43:02Z"
+"last_error": "<urlopen error timed out> at 267345",
+"updated": "2026-11-26T02:55:39Z"
 },
 "blocked": false,
 "skipped": [
