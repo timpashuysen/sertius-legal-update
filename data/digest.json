@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:08:17Z",
+ "updated": "2026-11-26T22:21:01Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42961,6 +42961,130 @@
    ],
    "inbox": [
     "rvs:267621"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267665",
+   "d": "2026-09-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate"
+   ],
+   "h": "Council of State: appeal authority cannot refuse a permit on missing advice without re-requesting it (art. D.IV.68 CoDT)",
+   "a": "The Council of State annuls a refusal of an urban planning permit for a 220 kV overhead line. The authority had relied on missing advice from bodies consulted at first instance, but had not asked for it again or explained why not. The ruling clarifies how the Walloon Government may use art. D.IV.68 CoDT on appeal.",
+   "b": "The ruling concerns Walloon urban planning permit appeals under the CoDT and the duty to give reasons for refusals. The Council of State annuls the Minister's refusal of 25 July 2024 to regularise the second circuit of the Aubange–Esch-sur-Alzette 220 kV line in Belgium. It holds that on appeal the Government cannot justify a refusal solely by the absence of advice from a body whose mandatory consultation was not carried out or was irregular; it must obtain that advice itself. For non-mandatory advice (art. D.IV.35, para. 3) that was requested at first instance and deemed favourable by default under art. D.IV.37, the Government may request it again if it finds it useful, and the presumption of favourable advice does not remove its discretion. Here the authority found the advice of the ISSeP, Sciensano, the Superior Health Council and the Environment pole of the CESE useful, yet cited its absence without re-requesting it or explaining why it did not use art. D.IV.68. The Council held this contradictory and the reasoning inadequate, including the ground that the environmental impact study was incomplete (underground alternatives and public health effects). Only the third branch of the first plea was examined, and it sufficed for annulment. The ruling was delivered on 16 September 2026; the municipality of Aubange and the CADES association were admitted as intervening parties.",
+   "nl": [
+    "Raad van State: beroepsoverheid mag vergunning niet weigeren om ontbrekend advies zonder het opnieuw te vragen (art. D.IV.68 CoDT)",
+    "De Raad van State vernietigt de weigering van een stedenbouwkundige vergunning voor een 220 kV-bovengrondse lijn. De overheid had zich beroepen op ontbrekende adviezen van in eerste aanleg geraadpleegde instanties, maar die niet opnieuw gevraagd en niet verklaard waarom. Het arrest verduidelijkt hoe de Waalse Regering art. D.IV.68 CoDT in beroep kan gebruiken.",
+    "Het arrest betreft beroepen tegen Waalse stedenbouwkundige vergunningen onder het CoDT en de motiveringsplicht bij weigeringen. De Raad van State vernietigt de weigering van de minister van 25 juli 2024 om het tweede circuit van de 220 kV-lijn Aubange–Esch-sur-Alzette in België te regulariseren. Volgens de Raad kan de Regering in beroep een weigering niet louter baseren op het ontbreken van een advies van een instantie waarvan de verplichte raadpleging niet of onregelmatig is gebeurd; zij moet dat advies zelf inwinnen. Voor niet-verplichte adviezen (art. D.IV.35, derde lid) die in eerste aanleg zijn gevraagd en krachtens art. D.IV.37 bij gebrek aan antwoord als gunstig gelden, kan de Regering ze opnieuw vragen indien zij dat nuttig acht; het vermoeden van gunstig advies ontneemt haar haar beoordelingsbevoegdheid niet. Hier achtte de overheid de adviezen van het ISSeP, Sciensano, de Hoge Gezondheidsraad en de Pôle Environnement van de CESE nuttig, maar riep zij hun afwezigheid in zonder ze opnieuw te vragen of te verklaren waarom zij art. D.IV.68 niet gebruikte. De Raad oordeelt dat dit tegenstrijdig en ontoereikend gemotiveerd is, ook voor het weigeringsmotief dat het project-MER onvolledig zou zijn (ondergrondse alternatieven en gezondheidseffecten). Alleen het derde onderdeel van het eerste middel werd onderzocht en volstond voor de vernietiging. Het arrest is uitgesproken op 16 september 2026; de gemeente Aubange en de vzw CADES werden als tussenkomende partij toegelaten."
+   ],
+   "fr": [
+    "Conseil d'État : l'autorité de recours ne peut refuser un permis pour absence d'avis sans le solliciter à nouveau (art. D.IV.68 CoDT)",
+    "Le Conseil d'État annule le refus d'un permis d'urbanisme pour une ligne aérienne de 220 kV. L'autorité s'était prévalue de l'absence d'avis d'instances consultées en première instance, sans les solliciter à nouveau ni expliquer pourquoi. L'arrêt précise comment le Gouvernement wallon peut user de l'art. D.IV.68 du CoDT en recours.",
+    "L'arrêt concerne les recours contre les permis d'urbanisme wallons sous le CoDT et l'obligation de motivation des refus. Le Conseil d'État annule le refus du ministre du 25 juillet 2024 de régulariser le second terne de la ligne 220 kV Aubange–Esch-sur-Alzette sur sa partie belge. Il juge qu'en recours, le Gouvernement ne peut fonder un refus sur la seule absence d'avis d'une instance dont la consultation obligatoire n'a pas été réalisée ou l'a été irrégulièrement; il doit alors la réaliser lui-même. Pour les avis non obligatoires (art. D.IV.35, alinéa 3), sollicités en première instance et réputés favorables par défaut en vertu de l'art. D.IV.37, le Gouvernement peut les solliciter à nouveau s'il l'estime utile; la présomption d'avis favorable ne le prive pas de son pouvoir d'appréciation. En l'espèce, l'autorité avait jugé utiles les avis de l'ISSeP, de Sciensano, du Conseil supérieur de la santé et du pôle Environnement du CESE, mais a invoqué leur absence sans les solliciter à nouveau ni expliquer pourquoi elle n'usait pas de l'art. D.IV.68. Le Conseil y voit une contradiction et une motivation inadéquate, y compris pour le motif tiré de l'incomplétude de l'étude d'incidences (alternatives souterraines et effets sur la santé publique). Seule la troisième branche du premier moyen a été examinée, ce qui suffit à l'annulation. L'arrêt a été prononcé le 16 septembre 2026; la commune d'Aubange et l'ASBL CADES ont été reçues en qualité de parties intervenantes."
+   ],
+   "scope": "Conseil d'État, XIIIe chambre, arrêt n° 267.665 du 16 septembre 2026 — art. D.IV.35, D.IV.37 et D.IV.68 du CoDT; art. 2 et 3 de la loi du 29 juillet 1991 sur la motivation formelle",
+   "dates": {
+    "adopted": "2026-09-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267665. Par une requête introduite le 25 septembre 2024, la partie requérante demande l’annulation de l’arrêté du",
+     "https://www.raadvst-consetat.be/arresten/267665"
+    ]
+   ],
+   "inbox": [
+    "rvs:267665"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267656",
+   "d": "2026-09-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Walloon unique permit appeals: Council of State annuls decision taken by the Territory Minister alone",
+   "a": "The Council of State annuls a unique permit granted on appeal by the Walloon Minister for Territory acting alone. Appeals on unique permits must be decided jointly by the Territory and Environment ministers; the Territory Minister was only delegated the signature.",
+   "b": "The ruling concerns administrative appeals on unique permits (permis unique) in the Walloon Region, here a permit allowing a waste collection and treatment centre to keep operating. The Council of State holds that the Government decree of 15 July 2024 on the allocation of ministerial competences only delegates to the Territory Minister the signing of unique permits on appeal, not the power to decide alone. Such appeals fall jointly under the Territory and Environment ministers, and nothing in the file showed that the Territory Minister had signed a decision taken jointly. The Council of State also sets aside, under Article 159 of the Constitution, the Government decree of 10 October 2024, which assigned unique permit appeals to the Territory Minister, in so far as it took effect retroactively on 15 July 2024. Its general references to continuity of public service and legal certainty did not justify retroactivity, which affected a case still open to appeal. The short retroactivity of the two 15 July 2024 decrees, until their entry into force ten days after publication on 26 July 2024, is accepted. The permit of 16 August 2024 is annulled by ruling of 16 September 2026, and costs are charged to the Region.",
+   "nl": [
+    "Waalse beroepen inzake enige vergunning: Raad van State vernietigt beslissing van de minister van Grondgebied alleen",
+    "De Raad van State vernietigt een in beroep verleende enige vergunning (permis unique) die de Waalse minister van Grondgebied alleen heeft toegekend. Beroepen inzake enige vergunningen moeten gezamenlijk door de ministers van Grondgebied en Leefmilieu worden beslist; de minister van Grondgebied kreeg enkel de ondertekening gedelegeerd.",
+    "Het arrest betreft administratieve beroepen inzake de enige vergunning (permis unique) in het Waalse Gewest, hier een vergunning om een inzamelings- en verwerkingscentrum voor afval in bedrijf te houden. De Raad van State oordeelt dat het besluit van de Waalse Regering van 15 juli 2024 over de bevoegdheidsverdeling tussen de ministers aan de minister van Grondgebied enkel de ondertekening van enige vergunningen in beroep delegeert, niet de bevoegdheid om alleen te beslissen. Die beroepen behoren gezamenlijk tot de bevoegdheid van de ministers van Grondgebied en Leefmilieu, en uit het dossier bleek niet dat de minister van Grondgebied een gezamenlijk genomen beslissing had ondertekend. De Raad van State laat ook, op grond van artikel 159 van de Grondwet, het besluit van de Waalse Regering van 10 oktober 2024 buiten toepassing, dat de beroepen inzake enige vergunningen aan de minister van Grondgebied toewees, voor zover het terugwerkende kracht had tot 15 juli 2024. De algemene verwijzingen naar de continuïteit van de openbare dienst en de rechtszekerheid rechtvaardigden de terugwerkende kracht niet, die een zaak trof waarvoor de beroepstermijn nog liep. De korte terugwerkende kracht van de twee besluiten van 15 juli 2024, tot hun inwerkingtreding tien dagen na de bekendmaking op 26 juli 2024, wordt aanvaard. De vergunning van 16 augustus 2024 wordt vernietigd bij arrest van 16 september 2026, en de kosten komen ten laste van het Gewest."
+   ],
+   "fr": [
+    "Recours en permis unique en Wallonie : le Conseil d'État annule une décision prise par le seul ministre du Territoire",
+    "Le Conseil d'État annule un permis unique octroyé sur recours par le seul ministre wallon du Territoire. Les recours en matière de permis unique doivent être tranchés conjointement par les ministres du Territoire et de l'Environnement ; le ministre du Territoire n'avait reçu que la délégation de signature.",
+    "L'arrêt concerne les recours administratifs en matière de permis unique en Région wallonne, ici un permis permettant de maintenir en activité un centre de regroupement et de traitement de déchets. Le Conseil d'État juge que l'arrêté du Gouvernement wallon du 15 juillet 2024 fixant la répartition des compétences entre les ministres délègue au ministre du Territoire uniquement la signature des permis uniques en recours, et non le pouvoir de statuer seul. Ces recours relèvent conjointement des ministres du Territoire et de l'Environnement, et rien au dossier n'indiquait que le ministre du Territoire avait signé une décision prise conjointement. Le Conseil d'État écarte aussi, sur la base de l'article 159 de la Constitution, l'arrêté du Gouvernement wallon du 10 octobre 2024, qui attribuait les recours en matière de permis unique au ministre du Territoire, en tant qu'il produisait ses effets rétroactivement au 15 juillet 2024. Les références générales à la continuité du service public et à la sécurité juridique ne justifiaient pas la rétroactivité, qui touchait une affaire pour laquelle le délai de recours n'était pas expiré. La brève rétroactivité des deux arrêtés du 15 juillet 2024, jusqu'à leur entrée en vigueur dix jours après leur publication le 26 juillet 2024, est admise. Le permis du 16 août 2024 est annulé par arrêt du 16 septembre 2026, et les dépens sont mis à la charge de la Région."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.656 : arrêtés du Gouvernement wallon du 15 juillet 2024 (répartition des compétences, art. 3, 1° et 2°, et 5, 5° ; fonctionnement, art. 15) et du 10 octobre 2024 (art. 31, rétroactivité) ; art. 159 de la Constitution ; compétence en recours de permis unique",
+   "dates": {
+    "adopted": "2026-09-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267656. 1. Par une requête introduite le 15 octobre 2024, la partie requérante demande, d’une part, l’annulation ",
+     "https://www.raadvst-consetat.be/arresten/267656"
+    ]
+   ],
+   "inbox": [
+    "rvs:267656"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267642",
+   "d": "2026-09-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law",
+    "circular-products"
+   ],
+   "h": "Council of State: parallel trade permit for plant protection products requires common origin of the products",
+   "a": "The Council of State rejected an appeal against the refusal of a parallel trade permit for a plant protection product. It held that the conditions in Article 52(3) of Regulation 1107/2009 are cumulative, so common origin with the reference product cannot be set aside.",
+   "b": "The ruling concerns companies seeking a parallel trade permit in Belgium for plant protection products under Article 52 of Regulation (EC) No 1107/2009, including developers of generic products. The Council of State confirmed the refusal of a permit for a herbicide imported from France. It held that the conditions of Article 52(3) are cumulative: a product is 'identical' to the Belgian reference product only if the common-origin condition is met alongside the other two, and the other two cannot make up for its absence. Article 52 exhaustively harmonises the conditions for such permits, so a refusal is assessed against the Regulation and not directly against Articles 34 and 36 TFEU. National courts cannot declare an EU regulation invalid, so the common-origin condition cannot be set aside, and no reference to the Court of Justice was needed. An opinion of the French authority ANSES, given in a marketing authorisation procedure under Article 34, does not establish identity under Article 52. Once common origin is missing, the Belgian authority need not examine the other conditions. The Council of State examined the complaint on the general principle of good administration, because Article 41 of the Charter binds only EU institutions, and found it unfounded. The ruling is dated 16 September 2026, and the applicant bears the costs.",
+   "nl": [
+    "Raad van State: vergunning voor parallelhandel in gewasbeschermingsmiddelen vereist gemeenschappelijke oorsprong",
+    "De Raad van State verwierp het beroep tegen de weigering van een vergunning voor parallelhandel in een gewasbeschermingsmiddel. De voorwaarden van artikel 52, lid 3, van verordening 1107/2009 zijn cumulatief, zodat van de gemeenschappelijke oorsprong met het referentieproduct niet kan worden afgeweken.",
+    "Het arrest betreft bedrijven die in België een vergunning voor parallelhandel in gewasbeschermingsmiddelen aanvragen op grond van artikel 52 van verordening (EG) nr. 1107/2009, onder meer ontwikkelaars van generische producten. De Raad van State bevestigde de weigering van een vergunning voor een uit Frankrijk ingevoerd herbicide. Hij oordeelde dat de voorwaarden van artikel 52, lid 3, cumulatief zijn: een product is slechts 'identiek' aan het Belgische referentieproduct als naast de twee andere voorwaarden ook de gemeenschappelijke oorsprong is aangetoond, en de twee andere voorwaarden kunnen het ontbreken daarvan niet goedmaken. Artikel 52 harmoniseert de voorwaarden voor dergelijke vergunningen uitputtend, zodat een weigering wordt getoetst aan de verordening en niet rechtstreeks aan de artikelen 34 en 36 VWEU. Nationale rechters kunnen een Europese verordening niet ongeldig verklaren, zodat de voorwaarde van gemeenschappelijke oorsprong niet terzijde kan worden geschoven en een prejudiciële vraag aan het Hof van Justitie niet nodig was. Een advies van de Franse autoriteit ANSES, uitgebracht in een procedure voor een vergunning voor het in de handel brengen op grond van artikel 34, bewijst geen identiteit in de zin van artikel 52. Zodra de gemeenschappelijke oorsprong ontbreekt, hoeft de Belgische overheid de andere voorwaarden niet meer te onderzoeken. De Raad van State onderzocht het bezwaar op grond van het algemeen beginsel van behoorlijk bestuur, omdat artikel 41 van het Handvest enkel de instellingen van de Unie bindt, en achtte het ongegrond. Het arrest is gewezen op 16 september 2026 en de verzoekende partij draagt de kosten."
+   ],
+   "fr": [
+    "Conseil d'État : le permis de commerce parallèle de produits phytopharmaceutiques exige une origine commune",
+    "Le Conseil d'État a rejeté le recours contre le refus d'un permis de commerce parallèle pour un produit phytopharmaceutique. Les conditions de l'article 52, § 3, du règlement 1107/2009 sont cumulatives, de sorte que l'origine commune avec le produit de référence ne peut être écartée.",
+    "L'arrêt concerne les entreprises qui demandent en Belgique un permis de commerce parallèle de produits phytopharmaceutiques sur la base de l'article 52 du règlement (CE) n° 1107/2009, notamment les développeurs de produits génériques. Le Conseil d'État a confirmé le refus d'un permis pour un herbicide importé de France. Il a jugé que les conditions de l'article 52, § 3, sont cumulatives : un produit n'est « identique » au produit de référence belge que si, outre les deux autres conditions, l'origine commune est établie, et les deux autres conditions ne peuvent suppléer à son absence. L'article 52 harmonise de manière exhaustive les conditions de délivrance de ces permis, de sorte qu'un refus s'apprécie au regard du règlement et non directement au regard des articles 34 et 36 du TFUE. Les juridictions nationales ne pouvant déclarer invalide un règlement de l'Union, la condition d'origine commune ne peut être écartée et il n'y avait pas lieu d'interroger la Cour de justice à titre préjudiciel. L'avis de l'autorité française ANSES, rendu dans une procédure d'autorisation de mise sur le marché fondée sur l'article 34, n'établit pas l'identité au sens de l'article 52. Dès lors que l'origine commune fait défaut, l'autorité belge n'a pas à examiner les autres conditions. Le Conseil d'État a examiné le grief tiré du principe général de bonne administration, l'article 41 de la Charte ne liant que les institutions de l'Union, et l'a jugé non fondé. L'arrêt est prononcé le 16 septembre 2026 et la partie requérante supporte les dépens."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.642 – article 52, § 3, du règlement (CE) n° 1107/2009 (commerce parallèle de produits phytopharmaceutiques, condition d'origine commune)",
+   "dates": {
+    "adopted": "2026-09-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267642. Par une requête introduite le 25 janvier 2024, la partie requérante demande l’annulation de « la décision",
+     "https://www.raadvst-consetat.be/arresten/267642"
+    ]
+   ],
+   "inbox": [
+    "rvs:267642"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
