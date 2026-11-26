@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:46:39Z",
+ "updated": "2026-11-26T22:59:23Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43125,6 +43125,46 @@
    ],
    "inbox": [
     "rvs:267758"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267767",
+   "d": "2026-09-23",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permit applicant's surveyor may draw up red-line plan for municipal road move",
+   "a": "The Council of State rejected an appeal against a municipal decision and a ministerial decision moving a footpath as part of an environmental permit application. It held that the surveyor-expert who prepares the red-line plan and the land value assessment may be appointed by the applicant rather than the municipality.",
+   "b": "The ruling concerns municipalities, permit applicants and neighbours where the relocation of a municipal road is included in an omgevingsvergunning application under article 12, §2 of the Flemish Municipal Roads Decree. The Council held that the requirement in article 28, §2 that the land-value surveyor-expert be appointed by the municipality is a procedural rule for municipality-led road changes. It does not form part of the form and content requirements for the draft red-line plan that must accompany such an application. A plan drawn up by a surveyor-expert appointed by the applicant, including the value calculation, is therefore acceptable. Neither the duty of care nor any other rule obliges the municipality to take advice from a surveyor of its own. The Council also held that the formal motivation act does not apply to a municipal council decision of regulatory nature. Further grounds were rejected: the plea on the municipal slow-roads plan lacked a factual basis because the decision did not rely on it, and criticism of the accuracy of the red-line plan, raised only in a late memorandum, was inadmissible. The appeal was dismissed in judgment no. 267.767 of 23 September 2026; the earlier request for suspension had been rejected on 25 March 2025.",
+   "nl": [
+    "Raad van State: landmeter-expert van de vergunningsaanvrager mag rooilijnplan voor verplaatsing gemeenteweg opmaken",
+    "De Raad van State verwierp het beroep tegen een gemeenteraadsbesluit en een ministerieel besluit over de verplaatsing van een voetweg in het kader van een omgevingsvergunningsaanvraag. Volgens de Raad mag de landmeter-expert die het rooilijnplan en de waardebepaling opmaakt, door de aanvrager worden aangesteld in plaats van door de gemeente.",
+    "Het arrest betreft gemeenten, vergunningsaanvragers en omwonenden wanneer de verplaatsing van een gemeenteweg is opgenomen in een omgevingsvergunningsaanvraag op grond van artikel 12, § 2 van het Gemeentewegendecreet. De Raad oordeelt dat de vereiste in artikel 28, § 2 dat de landmeter-expert voor de waardevermindering of -vermeerdering door de gemeente wordt aangesteld, een procedureel voorschrift is voor wegenwijzigingen op initiatief van de gemeente. Het maakt geen deel uit van de eisen inzake vorm en inhoud van het ontwerp van rooilijnplan dat bij zo'n aanvraag moet worden gevoegd. Een plan opgemaakt door een landmeter-expert die door de aanvrager is aangesteld, met inbegrip van de waardeberekening, is dus aanvaardbaar. Noch het zorgvuldigheidsbeginsel, noch een andere rechtsregel verplicht de gemeente om zich door een eigen landmeter-expert te laten adviseren. De Raad oordeelt ook dat de formelemotiveringswet niet van toepassing is op een gemeenteraadsbesluit met reglementair karakter. Overige middelen werden verworpen: het middel over het gemeentelijk tragewegenplan miste feitelijke grondslag omdat het besluit er niet op steunde, en kritiek op de juistheid van het rooilijnplan, pas in een latere memorie opgeworpen, was onontvankelijk. Het beroep werd verworpen bij arrest nr. 267.767 van 23 september 2026; de vordering tot schorsing was eerder, op 25 maart 2025, verworpen."
+   ],
+   "fr": [
+    "Conseil d'État : le géomètre-expert du demandeur peut établir le plan d'alignement d'un déplacement de voirie communale",
+    "Le Conseil d'État a rejeté le recours contre une décision du conseil communal et une décision ministérielle relatives au déplacement d'un sentier dans le cadre d'une demande de permis d'environnement. Il juge que le géomètre-expert qui établit le plan d'alignement et évalue la plus-value ou moins-value peut être désigné par le demandeur plutôt que par la commune.",
+    "L'arrêt concerne les communes, les demandeurs de permis et les riverains lorsque le déplacement d'une voirie communale est inclus dans une demande de permis d'environnement (omgevingsvergunning) sur la base de l'article 12, § 2 du décret flamand sur les voiries communales (Gemeentewegendecreet). Le Conseil juge que l'exigence de l'article 28, § 2, selon laquelle le géomètre-expert chargé d'évaluer la moins-value ou la plus-value est désigné par la commune, est une règle de procédure applicable aux modifications de voirie à l'initiative de la commune. Elle ne fait pas partie des exigences de forme et de contenu du projet de plan d'alignement à joindre à une telle demande. Un plan établi par un géomètre-expert désigné par le demandeur, y compris le calcul de valeur, est donc admissible. Ni le devoir de minutie ni aucune autre règle n'oblige la commune à se faire conseiller par un géomètre-expert qu'elle a elle-même désigné. Le Conseil juge aussi que la loi sur la motivation formelle ne s'applique pas à une décision du conseil communal de nature réglementaire. Les autres moyens ont été rejetés : celui relatif au plan communal des chemins vicinaux (trage wegen) manquait en fait, la décision ne s'y appuyant pas, et la critique sur l'exactitude du plan d'alignement, soulevée tardivement dans un mémoire ultérieur, était irrecevable. Le recours a été rejeté par l'arrêt n° 267.767 du 23 septembre 2026 ; la demande de suspension avait été rejetée le 25 mars 2025."
+   ],
+   "scope": "Raad van State, arrest nr. 267.767 – Gemeentewegendecreet, artikelen 12, § 2, 16 en 28, § 2 (verplaatsing gemeenteweg via omgevingsvergunningsaanvraag)",
+   "dates": {
+    "adopted": "2026-09-23"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267767. 1. Het beroep, ingesteld op 3 oktober 2024, strekt tot de nietigverklaring van: 1° het besluit van de gem",
+     "https://www.raadvst-consetat.be/arresten/267767"
+    ]
+   ],
+   "inbox": [
+    "rvs:267767"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
