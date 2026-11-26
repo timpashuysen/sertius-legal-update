@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:59:23Z",
+ "updated": "2026-11-26T23:12:18Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43165,6 +43165,126 @@
    ],
    "inbox": [
     "rvs:267767"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267791",
+   "d": "2026-09-24",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: farm dwelling function change rule sets permit duty only, not a basis for granting",
+   "a": "The Council of State dismissed a cassation appeal and held that Article 2, §2 of the Flemish Government decree of 14 April 2000 only creates a permit requirement for certain function changes of exploitation dwellings. It does not provide a legal basis for granting a permit.",
+   "b": "The ruling concerns the change of function of an exploitation dwelling at a farm or industrial building, here a ceased farm in agricultural zone, to a residential dwelling. Article 2, §2 of the decree of 14 April 2000 makes an environmental permit mandatory only once the new main function no longer has a link with the exploitation after transfer of any real right. The Council holds that the provision sets no conditions for granting a permit. It also exempts the operator who stays in the former exploitation dwelling after the business stops, since the change of function resulting from the mere cessation needs no permit. Only the non-exploitation-related use after transfer of any real right requires a permit, so a permit does not have to be applied for before such a transfer. The conditions for granting a permit for a zone-alien change of function are in Article 11 of the decree of 28 November 2003 and Article 4.4.23 VCRO, and these do not alter the scope of the 2000 provision. The Council also confirms that the judicial duty to state reasons does not require a court to answer every argument, since implicit rejection is enough when the reasoning makes clear why the argument fails. The appeal is dismissed and the appellant bears the costs.",
+   "nl": [
+    "Raad van State: functiewijziging exploitatiewoning – regel bepaalt enkel vergunningsplicht, geen rechtsgrond",
+    "De Raad van State verwerpt een cassatieberoep en oordeelt dat artikel 2, § 2 van het besluit van de Vlaamse regering van 14 april 2000 enkel een vergunningsplicht invoert voor bepaalde functiewijzigingen van exploitatiewoningen. Het artikel bevat geen rechtsgrond voor het verlenen van een vergunning.",
+    "Het arrest betreft de functiewijziging van een exploitatiewoning bij een land- of tuinbouwgebouw of een bedrijfsgebouw, hier bij een stopgezet landbouwbedrijf in agrarisch gebied, naar een residentiële woning. Artikel 2, § 2 van het besluit van 14 april 2000 maakt een omgevingsvergunning pas verplicht wanneer de nieuwe hoofdfunctie na overdracht van enig zakelijk recht geen binding meer heeft met de exploitatie. Volgens de Raad bepaalt die bepaling geen voorwaarden waaraan een aanvraag moet voldoen om te worden vergund. Zij stelt ook de exploitant vrij die na de stopzetting in de voormalige exploitatiewoning blijft wonen, aangezien de functiewijziging die uit de loutere stopzetting voortvloeit geen vergunning vergt. Pas het niet-bedrijfsgebonden gebruik na de overdracht van enig zakelijk recht is vergunningsplichtig, zodat een vergunning niet vóór die overdracht moet worden aangevraagd. De voorwaarden voor het vergunnen van een zonevreemde functiewijziging staan in artikel 11 van het besluit van 28 november 2003 en in artikel 4.4.23 VCRO. Deze doen geen afbreuk aan de draagwijdte van de bepaling uit 2000. De Raad bevestigt ook dat de rechterlijke motiveringsplicht niet vereist dat elk argument wordt beantwoord, omdat een impliciete verwerping volstaat wanneer uit de motieven blijkt waarom het argument wordt verworpen. Het cassatieberoep wordt verworpen en verzoeker draagt de kosten."
+   ],
+   "fr": [
+    "Conseil d'État : changement de fonction d'un logement d'exploitation – la règle ne fixe que l'obligation de permis",
+    "Le Conseil d'État rejette un pourvoi en cassation et juge que l'article 2, § 2 de l'arrêté du Gouvernement flamand du 14 avril 2000 instaure seulement une obligation de permis pour certains changements de fonction de logements d'exploitation. Cet article ne constitue pas une base légale pour octroyer un permis.",
+    "L'arrêt porte sur le changement de fonction d'un logement d'exploitation lié à un bâtiment agricole ou d'entreprise, ici une exploitation agricole cessée en zone agricole, en habitation résidentielle. L'article 2, § 2 de l'arrêté du 14 avril 2000 ne rend le permis d'environnement obligatoire que si la nouvelle fonction principale n'a plus de lien avec l'exploitation après le transfert de tout droit réel. Selon le Conseil, cette disposition ne fixe pas les conditions auxquelles une demande doit satisfaire pour être autorisée. Elle dispense aussi l'exploitant qui continue d'habiter l'ancien logement d'exploitation après l'arrêt de l'activité, car le changement de fonction résultant de la seule cessation ne requiert pas de permis. Seule l'utilisation sans lien avec l'exploitation, après le transfert de tout droit réel, est soumise à permis, de sorte qu'il n'y a pas à demander le permis avant ce transfert. Les conditions pour autoriser un changement de fonction non conforme à la zone figurent à l'article 11 de l'arrêté du 28 novembre 2003 et à l'article 4.4.23 du VCRO. Elles ne modifient pas la portée de la disposition de 2000. Le Conseil confirme en outre que l'obligation de motivation des juridictions n'impose pas de répondre à chaque argument, un rejet implicite suffisant lorsque les motifs font comprendre pourquoi l'argument est écarté. Le pourvoi est rejeté et le requérant supporte les dépens."
+   ],
+   "scope": "Raad van State, arrest nr. 267.791 (cassatieberoep tegen RvVb-A-2425-0775): artikel 2, § 2 BVR 14 april 2000 (vergunningsplichtige functiewijzigingen); artikel 11 BVR 28 november 2003; artikel 4.4.23 VCRO; artikel 149 Grondwet en artikel 32 DBRC",
+   "dates": {
+    "adopted": "2026-09-24"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267791. 1. Het cassatieberoep, ingesteld op 12 juni 2025, s trekt tot de nietigverklaring van arrest nr. RvVb-A-2",
+     "https://www.raadvst-consetat.be/arresten/267791"
+    ]
+   ],
+   "inbox": [
+    "rvs:267791"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267789",
+   "d": "2026-09-24",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: a late permit decision is ultra vires and the appeal authority must decline jurisdiction",
+   "a": "In a cassation ruling on the Flemish Environmental Permit Decree, the Council of State confirms that a permit decision taken after the decision period has expired is ultra vires. It also holds that failing to supply missing documents within the set period carries a procedural sanction.",
+   "b": "The ruling concerns permit applicants, the deputations and the Flemish minister acting as appeal authority under the Flemish Environmental Permit Decree of 25 April 2014. It dismisses a cassation appeal against a judgment of the Council for Permit Disputes that annulled a ministerial permit for a brewery. First, the Council of State holds that the period given under Article 19, second paragraph, to supply missing documents carries a procedural sanction, even though the decree does not expressly provide one. Otherwise the decision period could be extended indefinitely by an applicant who is slow to complete the file. Second, under Article 32, §4, a permit is deemed refused when no decision is taken within the period, and an express decision taken afterwards cannot replace that refusal. Such a late decision is not an express decision open to administrative appeal under Article 52. The appeal authority must therefore declare itself without jurisdiction, a question that comes before admissibility under Articles 56 and 57 and prevents any examination of the application under Article 63. This is not an irregularity that can be cured on appeal. The Council of State does not decide from which date the decision period runs when documents are late, because the period would have expired on either reading. The judgment was delivered on 24 September 2026 and the appellant bears the costs.",
+   "nl": [
+    "Raad van State: laattijdige vergunningsbeslissing is bevoegdheidsoverschrijding; beroepsinstantie moet zich onbevoegd verklaren",
+    "In een cassatiearrest over het Omgevingsvergunningsdecreet bevestigt de Raad van State dat een vergunningsbeslissing die na het verstrijken van de beslissingstermijn wordt genomen, de bevoegdheid overschrijdt. Hij oordeelt ook dat aan het niet tijdig bezorgen van ontbrekende stukken een procedurele sanctie verbonden is.",
+    "Het arrest betreft vergunningsaanvragers, de deputaties en de Vlaamse minister als beroepsinstantie onder het decreet van 25 april 2014 betreffende de omgevingsvergunning. Het verwerpt een cassatieberoep tegen een arrest van de Raad voor Vergunningsbetwistingen dat een ministeriële vergunning voor een brouwerij vernietigde. Ten eerste oordeelt de Raad van State dat aan de termijn om ontbrekende stukken toe te voegen (artikel 19, tweede lid) een procedurele sanctie verbonden is, ook al voorziet het decreet daar niet uitdrukkelijk in. Anders zou de beslissingstermijn onbeperkt kunnen worden verlengd doordat de aanvrager draalt met het aanvullen van zijn dossier. Ten tweede wordt de vergunning volgens artikel 32, § 4, geacht te zijn geweigerd wanneer binnen de termijn geen beslissing is genomen, en kan een nadien genomen uitdrukkelijke beslissing die weigering niet vervangen. Zo'n laattijdige beslissing is geen uitdrukkelijke beslissing waartegen bestuurlijk beroep openstaat op grond van artikel 52. De beroepsinstantie moet zich dus onbevoegd verklaren, een vraag die voorafgaat aan de ontvankelijkheid (artikelen 56 en 57) en verhindert dat de aanvraag op grond van artikel 63 wordt onderzocht. Het gaat niet om een onregelmatigheid die in graad van beroep kan worden rechtgezet. De Raad van State beslist niet vanaf wanneer de beslissingstermijn loopt bij laattijdige aanvulling, omdat de termijn in beide lezingen was verstreken. Het arrest is uitgesproken op 24 september 2026 en de verzoekende partij draagt de kosten."
+   ],
+   "fr": [
+    "Conseil d'État : une décision de permis tardive excède la compétence et l'autorité de recours doit se déclarer incompétente",
+    "Dans un arrêt de cassation relatif au décret flamand sur le permis d'environnement, le Conseil d'État confirme qu'une décision de permis prise après l'expiration du délai de décision excède la compétence de son auteur. Il juge aussi que le défaut de fournir à temps les pièces manquantes entraîne une sanction procédurale.",
+    "L'arrêt concerne les demandeurs de permis, les députations et le ministre flamand statuant comme autorité de recours en vertu du décret du 25 avril 2014 relatif au permis d'environnement. Il rejette un pourvoi en cassation contre un arrêt du Conseil pour les contestations des autorisations (Raad voor Vergunningsbetwistingen) qui avait annulé un permis ministériel pour une brasserie. Premièrement, le Conseil d'État juge que le délai imparti pour compléter la demande (article 19, alinéa 2) emporte une sanction procédurale, même si le décret ne la prévoit pas expressément. À défaut, le délai de décision pourrait être prolongé sans limite par la lenteur du demandeur à compléter son dossier. Deuxièmement, selon l'article 32, § 4, le permis est réputé refusé lorsqu'aucune décision n'est prise dans le délai, et une décision expresse prise ensuite ne peut remplacer ce refus. Une telle décision tardive n'est pas une décision expresse susceptible de recours administratif sur la base de l'article 52. L'autorité de recours doit donc se déclarer incompétente, question qui précède la recevabilité (articles 56 et 57) et empêche l'examen de la demande sur la base de l'article 63. Il ne s'agit pas d'une irrégularité réparable en degré de recours. Le Conseil d'État ne tranche pas la date de départ du délai de décision en cas de remise tardive des pièces, le délai étant expiré dans les deux lectures. L'arrêt a été prononcé le 24 septembre 2026 et la partie requérante supporte les dépens."
+   ],
+   "scope": "Raad van State, arrest nr. 267.789 (cassatie): artikelen 19, 21, 32, § 1, § 3 en § 4, 52, 56, 57 en 63 van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+   "dates": {
+    "adopted": "2026-09-24"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267789. 1. Het cassatieberoep, ingesteld op 17 mei 2024, st rekt tot de nietigverklaring van arrest nr. RvVb-A-23",
+     "https://www.raadvst-consetat.be/arresten/267789"
+    ]
+   ],
+   "inbox": [
+    "rvs:267789"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267788",
+   "d": "2026-09-24",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: refusal of a 60-day extension of the permit decision period must be expressly reasoned",
+   "a": "The Council of State rules that when a permitting authority refuses an applicant's reasoned request to extend the decision period by sixty days, it must state its reasons in the act itself. The Council for Permit Disputes was wrong to hold that no such reasons were required.",
+   "b": "The ruling concerns applicants for environmental permits in Flanders and the authorities deciding on administrative appeals, under Article 66, §2/1 of the Environmental Permit Decree. That provision allows the decision period to be extended once by sixty days on a reasoned request from the applicant. The Council of State holds that the authority has discretionary power over such a request. Its decision is a unilateral legal act with individual scope and must therefore meet the express-reasoning requirements of Articles 2 and 3 of the Act of 29 July 1991. A refusal may be set out in the permit decision itself, but it remains a separate decision. Under the doctrine of the complex administrative act, its illegality leads to the illegality of the final decision. The Council for Permit Disputes had held that no reasons had to be given for the refusal and had itself supplied reasons. The Council of State finds that the existence of valid grounds for refusal does not remove the requirement that the act itself contain them. It annuls the judgment and refers the case to a differently composed Council for Permit Disputes. The ruling is dated 24 September 2026.",
+   "nl": [
+    "Raad van State: weigering van 60 dagen termijnverlenging voor de vergunningsbeslissing moet uitdrukkelijk gemotiveerd zijn",
+    "De Raad van State oordeelt dat een vergunningverlenende overheid die het gemotiveerde verzoek van de aanvrager om de beslissingstermijn met zestig dagen te verlengen weigert, de motieven in de akte zelf moet vermelden. De Raad voor Vergunningsbetwistingen oordeelde ten onrechte dat daarvoor geen motivering vereist was.",
+    "Het arrest betreft aanvragers van een omgevingsvergunning in Vlaanderen en de overheden die over bestuurlijke beroepen beslissen, op grond van artikel 66, § 2/1 van het omgevingsvergunningsdecreet. Die bepaling laat toe dat de beslissingstermijn op gemotiveerd verzoek van de aanvrager eenmalig met zestig dagen wordt verlengd. De Raad van State oordeelt dat de overheid over zo'n verzoek een discretionaire bevoegdheid heeft. Haar beslissing is een eenzijdige rechtshandeling met individuele strekking en moet dus voldoen aan de artikelen 2 en 3 van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen. Een weigering mag in de vergunningsbeslissing zelf worden opgenomen, maar blijft een afzonderlijke beslissing. Volgens de leer van de complexe bestuurshandeling leidt de onwettigheid ervan tot de onwettigheid van de eindbeslissing. De Raad voor Vergunningsbetwistingen had geoordeeld dat voor de weigering geen motivering nodig was en had zelf motieven aangereikt. Volgens de Raad van State doet het bestaan van geldige weigeringsmotieven niets af aan de vereiste dat de akte zelf die motieven bevat. Hij vernietigt het arrest en verwijst de zaak naar een anders samengestelde Raad voor Vergunningsbetwistingen. Het arrest is gedateerd op 24 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le refus d'une prolongation de 60 jours du délai de décision en matière de permis doit être expressément motivé",
+    "Le Conseil d'État juge que l'autorité qui refuse la demande motivée du demandeur de prolonger de soixante jours le délai de décision doit indiquer ses motifs dans l'acte lui-même. Le Conseil pour les contestations des autorisations a jugé à tort qu'aucune motivation n'était requise.",
+    "L'arrêt concerne les demandeurs d'un permis d'environnement en Flandre et les autorités qui statuent sur les recours administratifs, sur la base de l'article 66, § 2/1 du décret relatif au permis d'environnement. Cette disposition permet de prolonger une seule fois le délai de décision de soixante jours, à la demande motivée du demandeur. Le Conseil d'État juge que l'autorité dispose d'un pouvoir discrétionnaire à l'égard d'une telle demande. Sa décision est un acte juridique unilatéral à portée individuelle et doit donc répondre aux articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs. Un refus peut figurer dans la décision de permis elle-même, mais il reste une décision distincte. Selon la théorie de l'acte administratif complexe, son illégalité entraîne l'illégalité de la décision finale. Le Conseil pour les contestations des autorisations avait jugé qu'aucune motivation du refus n'était nécessaire et avait lui-même fourni des motifs. Selon le Conseil d'État, l'existence de motifs valables de refus n'enlève rien à l'exigence que l'acte lui-même les contienne. Il annule l'arrêt et renvoie l'affaire devant le Conseil pour les contestations des autorisations autrement composé. L'arrêt est daté du 24 septembre 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 267.788 van 24 september 2026: artikel 66, § 2/1 omgevingsvergunningsdecreet; artikelen 2 en 3 motiveringswet van 29 juli 1991",
+   "dates": {
+    "adopted": "2026-09-24"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267788. 1. Het cassatieberoep, ingesteld op 20 juni 2025, s trekt tot de nietigverklaring van arrest nr. RvVb-A-2",
+     "https://www.raadvst-consetat.be/arresten/267788"
+    ]
+   ],
+   "inbox": [
+    "rvs:267788"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
