@@ -82110,22 +82110,146 @@
 "reason": "Civil service pay and urgency dispute; urgent suspension rejected for lack of diligence and urgency, applying settled principles; no instrument of general application and no new interpretation of envi",
 "confidence": "high",
 "at": "2026-11-26"
+},
+"eu:62025CJ0680": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Fixed-term employment and non-discrimination for judicial assistants; no environmental rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:62025CJ0607": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Consumer mortgage interest-rate clauses; not an environmental topic.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:62025CJ0535": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Postal services directive definitions; not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:62025CJ0515": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Jurisdiction and enforcement of flight-delay compensation; civil procedure, not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:62025CJ0325": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"permitting",
+"environmental-law",
+"energy-climate"
+],
+"reason": "Interprets Regulation 2022/2577 on overriding public interest and permitting for wind farms in Wallonia.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32025R1190R(02)": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Financial sector digital operational resilience testing standards; not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026R2636": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EASA fees and charges correction; aviation, not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026R2632": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia economic sanctions amendment; not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026R2626": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Cancels one named biocidal product authorisation; individual product decision.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026R2593": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-safety",
+"circular-products"
+],
+"reason": "Amends REACH Annex XVII restriction on creosote, a carcinogenic substance.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026D2637": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Avian influenza emergency veterinary measures; animal health.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026D2622": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Russia CFSP restrictive measures; not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"eu:32026D2638": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "ECB internal delegation of signature powers; institutional, not environmental.",
+"confidence": "high",
+"at": "2026-11-26"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8092,
-"assessed": 8092,
+"in_scope": 8105,
+"assessed": 8105,
 "waiting": 0,
-"relevant": 628,
-"not_relevant": 7138,
+"relevant": 630,
+"not_relevant": 7149,
 "excluded_by_rule": 326,
-"this_run": 23,
+"this_run": 13,
 "api": {
-"calls": 24,
-"input_tokens": 184331,
-"output_tokens": 3767,
-"usd": 0.0464
+"calls": 1,
+"input_tokens": 3004,
+"output_tokens": 1224,
+"usd": 0.0009
 },
 "key_present": true,
 "updated": "2026-11-26",
@@ -82135,7 +82259,7 @@
 "this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 71,
+"waiting": 73,
 "api": {
 "calls": 0,
 "input_tokens": 0,
