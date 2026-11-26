@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:32:34Z",
+ "updated": "2026-11-26T22:46:39Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43085,6 +43085,46 @@
    ],
    "inbox": [
     "rvs:267642"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267758",
+   "d": "2026-09-22",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State annuls 524-dwelling Biestebroeck permit after setting aside the illegal PPAS",
+   "a": "The Council of State annulled the permit of 26 April 2024 for a new district of 524 dwellings in Anderlecht because it rested on the Biestebroeck PPAS, which is illegal and must be set aside under Article 159 of the Constitution. It also held that the five-year limit in the language laws does not restrict this incidental review.",
+   "b": "The ruling concerns permit holders, project developers and permitting authorities in the Brussels-Capital Region with projects inside the Biestebroeck PPAS in Anderlecht. The Council of State had already found that PPAS illegal on language-law grounds linked to the public inquiry. It now holds that the illegality affects the whole plan, including the perimeter of the contested project, and that the plan must be set aside under Article 159 of the Constitution. It rejects the argument that Article 58, fifth paragraph, of the coordinated language laws in administrative matters caps this review at five years. That provision only covers findings of nullity, whereas incidental review of regulatory acts is not subject to any time limit. The permit relied on the project's conformity with the PPAS and, through Article 94 of the CoBAT, on the non-application of certain RRU provisions. The Council finds that these grounds are not superfluous, so the illegality of the PPAS invalidates the whole permit. The delegated official's permit of 26 April 2024 for 524 dwellings, commercial, productive, public-facility and office space and a 383-space car park is therefore annulled by the ruling of 22 September 2026. The remaining grounds are not examined, and the Region bears the costs.",
+   "nl": [
+    "Raad van State vernietigt vergunning Biestebroeck (524 woningen) na terzijdeschuiving van onwettig BBP",
+    "De Raad van State vernietigt de vergunning van 26 april 2024 voor een nieuwe wijk van 524 woningen in Anderlecht, omdat ze steunt op het onwettige BBP Biestebroeck, dat krachtens artikel 159 van de Grondwet buiten toepassing moet blijven. Hij oordeelt ook dat de termijn van vijf jaar in de taalwetgeving deze exceptieve toetsing niet beperkt.",
+    "Het arrest betreft vergunninghouders, projectontwikkelaars en vergunningverlenende overheden in het Brussels Hoofdstedelijk Gewest met projecten binnen het BBP Biestebroeck in Anderlecht. De Raad van State had dat BBP al onwettig bevonden op grond van taalwetgeving in verband met het openbaar onderzoek. Hij oordeelt nu dat de onwettigheid het volledige plan treft, ook de perimeter van het bestreden project, en dat het plan krachtens artikel 159 van de Grondwet buiten toepassing moet blijven. Hij verwerpt het argument dat artikel 58, vijfde lid, van de gecoördineerde wetten op het gebruik van de talen in bestuurszaken deze toetsing tot vijf jaar beperkt. Die bepaling heeft enkel betrekking op de vaststelling van nietigheid, terwijl de exceptieve toetsing van reglementaire akten niet in de tijd beperkt is. De vergunning steunde op de overeenstemming van het project met het BBP en, via artikel 94 BWRO, op de niet-toepasselijkheid van bepaalde GSV-voorschriften. De Raad oordeelt dat deze motieven niet overtollig zijn, zodat de onwettigheid van het BBP de hele vergunning aantast. De vergunning van de gemachtigde ambtenaar van 26 april 2024 voor 524 woningen, handels-, productie-, kantoor- en voorzieningenruimte en een parking van 383 plaatsen wordt bij arrest van 22 september 2026 vernietigd. De overige middelen worden niet onderzocht en het Gewest draagt de kosten."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le permis Biestebroeck (524 logements) après avoir écarté le PPAS illégal",
+    "Le Conseil d'État annule le permis du 26 avril 2024 pour un nouveau quartier de 524 logements à Anderlecht, car il repose sur le PPAS Biestebroeck, illégal et à écarter en vertu de l'article 159 de la Constitution. Il juge aussi que le délai de cinq ans prévu par les lois sur l'emploi des langues ne limite pas ce contrôle par voie incidente.",
+    "L'arrêt concerne les titulaires de permis, les porteurs de projet et les autorités délivrantes de la Région de Bruxelles-Capitale ayant des projets dans le périmètre du PPAS Biestebroeck à Anderlecht. Le Conseil d'État avait déjà jugé ce PPAS illégal pour des motifs liés à la législation linguistique dans le cadre de l'enquête publique. Il juge désormais que l'illégalité affecte l'ensemble du plan, y compris le périmètre du projet attaqué, et que le plan doit être écarté en vertu de l'article 159 de la Constitution. Il rejette l'argument selon lequel l'article 58, alinéa 5, des lois coordonnées sur l'emploi des langues en matière administrative limiterait ce contrôle à cinq ans. Cette disposition ne vise que le constat de nullité, alors que le contrôle par voie incidente des actes réglementaires n'est soumis à aucune limite dans le temps. Le permis se fondait sur la conformité du projet au PPAS et, par l'article 94 du CoBAT, sur la non-application de certaines dispositions du RRU. Le Conseil estime que ces motifs ne sont pas surabondants, de sorte que l'illégalité du PPAS entraîne celle de l'ensemble du permis. Le permis du fonctionnaire délégué du 26 avril 2024, portant sur 524 logements, des surfaces commerciales, productives, de bureaux et d'équipements ainsi qu'un parking de 383 emplacements, est annulé par l'arrêt du 22 septembre 2026. Les autres moyens ne sont pas examinés et la Région supporte les dépens."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.758 : permis d'urbanisme du 26 avril 2024 (Goodways, Anderlecht), PPAS « Biestebroeck », article 159 de la Constitution, article 58, alinéa 5, des lois coordonnées sur l'emploi des langues en matière administrative, article 94 du CoBAT",
+   "dates": {
+    "adopted": "2026-09-22"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267758. Par une requête introduite par la voie électronique le 1 er juillet 2024, les parties requérantes demande",
+     "https://www.raadvst-consetat.be/arresten/267758"
+    ]
+   ],
+   "inbox": [
+    "rvs:267758"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
