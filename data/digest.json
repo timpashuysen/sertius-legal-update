@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:11:00Z",
+ "updated": "2026-11-26T01:24:55Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42223,6 +42223,46 @@
    ],
    "inbox": [
     "rvs:267004"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267100",
+   "d": "2026-06-18",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: a terrace on plots or retaining walls is not 'at ground level' and needs a permit (CoDT R.IV.1-1, J.3)",
+   "a": "The Council of State rejects an appeal against a Walloon permit refusal for the surroundings of a residential caravan. It holds that a raised terrace on plots is not 'at ground level' under heading J.3 of the CoDT nomenclature and is therefore not exempt from a planning permit.",
+   "b": "The ruling concerns the exemption from a planning permit in heading J.3 of Article R.IV.1-1 of the Walloon Territorial Development Code (CoDT) for terraces and paths near existing buildings. This affects owners and applicants who build raised terraces, and the authorities that assess them. The Council of State holds that the criteria of J.3 are cumulative: terraces must be 'at ground level' and must not require a significant change to the ground relief, so failing one criterion means a permit is required. Relying on the Walloon administrative instructions, it finds that a terrace on a retaining wall or piles is not 'at ground level', and that a terrace raised on plots is not at ground level merely because it is level with the caravan. Since that condition was not met, the applicant had no sufficient interest in arguing that there was no significant change to the ground relief. The Council also holds that the authority did not add a 'proportionality' condition to J.3: it first found a permit was required and then gave separate reasons for refusing it. The motives on the limited impact on the agricultural zone and on the disproportionate footprint of the outdoor works concern different questions and are not contradictory. The appeal is dismissed, with a procedural indemnity of 770 euros and costs borne by the applicant. The ruling is dated 18 June 2026.",
+   "nl": [
+    "Raad van State: terras op plots of steunmuur is niet 'op grondniveau' en vergt stedenbouwkundige vergunning (CoDT, R.IV.1-1, J.3)",
+    "De Raad van State verwerpt een beroep tegen een Waalse weigering van een vergunning voor de aanleg van de omgeving van een residentiële caravan. Een verhoogd terras op plots is niet 'op grondniveau' in de zin van rubriek J.3 van de nomenclatuur van het CoDT en is dus niet vrijgesteld van stedenbouwkundige vergunning.",
+    "Het arrest betreft de vrijstelling van stedenbouwkundige vergunning in rubriek J.3 van artikel R.IV.1-1 van het Waalse Wetboek van territoriale ontwikkeling (CoDT) voor terrassen en paden bij bestaande constructies. Dit raakt eigenaars en aanvragers die verhoogde terrassen aanleggen, en de overheden die ze beoordelen. De Raad van State oordeelt dat de criteria van J.3 cumulatief zijn: het terras moet 'op grondniveau' liggen en mag geen aanzienlijke wijziging van het reliëf van de bodem vereisen, zodat een vergunning vereist is wanneer één criterium niet vervuld is. Op basis van de Waalse administratieve instructies stelt hij dat een terras op een steunmuur of op palen niet 'op grondniveau' ligt, en dat een terras op plots dat even hoog ligt als de caravan daarom nog niet 'op grondniveau' ligt. Aangezien aan die voorwaarde niet was voldaan, had de verzoeker geen voldoende belang om te betogen dat het reliëf niet aanzienlijk wijzigt. De Raad oordeelt ook dat de overheid aan J.3 geen voorwaarde van 'evenredigheid' heeft toegevoegd: ze stelde eerst vast dat een vergunning vereist was en motiveerde vervolgens afzonderlijk de weigering. De motieven over de beperkte impact op het agrarisch gebied en over de onevenredige grondinname van de buitenaanleg betreffen verschillende kwesties en zijn niet tegenstrijdig. Het beroep wordt verworpen, met een rechtsplegingsvergoeding van 770 euro en de kosten ten laste van de verzoeker. Het arrest dateert van 18 juni 2026."
+   ],
+   "fr": [
+    "Conseil d'État : une terrasse sur plots ou murs de soutènement n'est pas « au niveau du sol » et requiert un permis (CoDT, R.IV.1-1, J.3)",
+    "Le Conseil d'État rejette un recours contre le refus wallon d'un permis pour l'aménagement des abords d'une caravane résidentielle. Une terrasse surélevée sur plots n'est pas « au niveau du sol » au sens de la rubrique J.3 de la nomenclature du CoDT et n'est donc pas exonérée de permis d'urbanisme.",
+    "L'arrêt porte sur l'exonération de permis d'urbanisme prévue à la rubrique J.3 de l'article R.IV.1-1 du Code wallon du développement territorial (CoDT) pour les terrasses et chemins aux abords de constructions existantes. Il concerne les propriétaires et demandeurs qui aménagent des terrasses surélevées, ainsi que les autorités qui les examinent. Le Conseil d'État juge que les critères de J.3 sont cumulatifs : la terrasse doit être « au niveau du sol » et ne pas requérir de modification sensible du relief du sol, de sorte que le non-respect d'un seul critère impose un permis. Se fondant sur les instructions administratives wallonnes, il considère qu'une terrasse sur mur de soutènement ou pilotis n'est pas « au niveau du sol », et qu'une terrasse sur plots située au même niveau que la caravane n'est pas pour autant « au niveau du sol ». Cette condition n'étant pas remplie, le requérant n'avait pas d'intérêt suffisant à soutenir l'absence de modification sensible du relief du sol. Le Conseil juge aussi que l'autorité n'a pas ajouté de condition de « proportionnalité » à J.3 : elle a d'abord constaté qu'un permis était requis, puis motivé séparément son refus. Les motifs relatifs au faible impact sur la zone agricole et à l'emprise disproportionnée des aménagements extérieurs portent sur des questions différentes et ne sont pas contradictoires. Le recours est rejeté, avec une indemnité de procédure de 770 euros et les dépens à charge du requérant. L'arrêt date du 18 juin 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.100 du 18 juin 2026 : CoDT, art. R.IV.1-1, rubrique J.3 (terrasses au niveau du sol) et motivation formelle d'un refus de permis d'urbanisme",
+   "dates": {
+    "adopted": "2026-06-18"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267100. Par une requête introduite le 12 février 2024, la partie requérante demande l’annulation de l’arrêté du 1",
+     "https://www.raadvst-consetat.be/arresten/267100"
+    ]
+   ],
+   "inbox": [
+    "rvs:267100"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
