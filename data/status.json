@@ -1,16 +1,16 @@
 {
- "ran": "2026-11-26T22:15:26+00:00",
+ "ran": "2026-11-26T22:28:06+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 917,
+   "matched": 919,
    "backfilled_to": "2026-11-01",
-   "seconds": 14.4
+   "seconds": 24.6
   },
   "gwh": {
    "ok": false,
    "error": "NameError(\"name 'f' is not defined\")",
-   "seconds": 8.1
+   "seconds": 9.6
   },
   "codex": {
    "ok": true,
@@ -18,16 +18,16 @@
    "read": 4000,
    "matched": 2683,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 26.0
+   "seconds": 25.7
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 0,
-   "errors": 19,
+   "errors": 20,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 125.9
+   "seconds": 134.8
   },
   "staatsblad": {
    "ok": true,
@@ -39,7 +39,7 @@
   "council": {
    "ok": true,
    "matched": 0,
-   "seconds": 0.4
+   "seconds": 0.3
   },
   "rvvb": {
    "ok": true,
@@ -57,17 +57,17 @@
   },
   "rvs": {
    "ok": true,
-   "new": 23,
-   "kept": 1800,
+   "new": 31,
+   "kept": 1831,
    "summary": {
-    "next": 267677,
-    "read": 2164,
-    "kept": 1800,
+    "next": 267726,
+    "read": 2208,
+    "kept": 1831,
     "caught_up": false,
     "blocked": false,
     "skipped": 3,
-    "last_error": "<urlopen error timed out> at 267662",
-    "updated": "2026-11-26T22:15:26Z"
+    "last_error": "",
+    "updated": "2026-11-26T22:28:06Z"
    },
    "seconds": 0.7
   },
@@ -83,7 +83,7 @@
    "reachable": 7,
    "articles": 4,
    "new": 0,
-   "seconds": 23.2
+   "seconds": 19.6
   }
  },
  "not_collected": {
@@ -119,10 +119,10 @@
    "failed": 0
   }
  },
- "texts_on_file": 5216,
+ "texts_on_file": 5247,
  "backlog": false,
- "items_total": 11903,
- "items_new": 23,
+ "items_total": 11934,
+ "items_new": 31,
  "items_by_source": {
   "eurlex": 4654,
   "codex": 2683,
@@ -132,7 +132,7 @@
   "cass": 134,
   "rvvb": 854,
   "wallex": 691,
-  "rvs": 1800
+  "rvs": 1831
  },
- "items_filed_for_site": 1422
+ "items_filed_for_site": 1424
 }
