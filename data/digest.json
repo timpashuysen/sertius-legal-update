@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:36:09Z",
+ "updated": "2026-11-26T00:47:26Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42142,6 +42142,87 @@
    ],
    "inbox": [
     "rvs:266947"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267027",
+   "d": "2026-06-16",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: road alignment plan for removing a municipal road must be in the first-instance permit application",
+   "a": "The Council of State annulled a Wetteren council decision abolishing a local road under the derogation in Article 12 §2 of the Flemish Municipal Roads Decree. The alignment plan or graphic plan showing the alignment to be abolished must be in the application filed at first instance and cannot be added on appeal.",
+   "b": "The ruling concerns developers and authorities using the derogation in Article 12 §2 of the Municipal Roads Decree, which allows a municipal road to be abolished, moved or altered within an environmental permit application instead of the regular procedure. The Council held that only the municipal council, not the permit-granting authority, may rule on the proposed abolition and on the alignment plan or graphic plan. Articles 63 and 64 of the Environmental Permit Decree, as amended by the decree of 26 January 2024, allow changes and additions on appeal, but only to data and documents within the permit authority's own decision-making power. The alignment plan is not such a document, so it cannot be added at the appeal stage. Because the derogation is an exception and is interpreted restrictively, the plan must be part of the application file submitted at first instance. In this case it was filed only on administrative appeal, so the council decision of 19 June 2024 abolishing the local road was annulled. The Council also held that, where the derogation is used, objectors must receive individual notification of the council decision equivalent to that in the regular procedure. Until that notification is made, the 60-day period to bring an action does not start. The ruling is dated 16 June 2026.",
+   "nl": [
+    "Raad van State: rooilijnplan voor opheffing van een gemeenteweg moet bij de initiële vergunningsaanvraag zitten",
+    "De Raad van State vernietigt een gemeenteraadsbesluit van Wetteren tot opheffing van een buurtweg via de afwijking van artikel 12, §2 van het Gemeentewegendecreet. Het rooilijnplan of grafisch plan met de op te heffen rooilijn moet bij het aanvraagdossier in eerste administratieve aanleg zitten en kan niet in beroep worden toegevoegd.",
+    "Het arrest betreft aanvragers en overheden die de afwijking van artikel 12, §2 van het Gemeentewegendecreet gebruiken, waarbij een gemeenteweg in een omgevingsvergunningsaanvraag wordt opgeheven, verplaatst of gewijzigd in plaats van via de reguliere procedure. Alleen de gemeenteraad, en niet de vergunningverlenende overheid, is bevoegd om te oordelen over de voorgestelde opheffing en over het rooilijnplan of grafisch plan. De artikelen 63 en 64 van het Omgevingsvergunningsdecreet, zoals gewijzigd bij het decreet van 26 januari 2024, laten wijzigingen en aanvullingen in beroep toe, maar alleen voor gegevens en documenten die onder de beslissingsbevoegdheid van de vergunningverlenende overheid vallen. Het rooilijnplan is zo'n document niet en kan dus niet in laatste administratieve aanleg worden toegevoegd. Omdat de afwijking restrictief moet worden uitgelegd, moet het plan deel uitmaken van het aanvraagdossier dat in eerste administratieve aanleg wordt ingediend. Hier werd het pas in administratief beroep neergelegd, zodat het gemeenteraadsbesluit van 19 juni 2024 tot opheffing van de buurtweg is vernietigd. De Raad oordeelt ook dat bij gebruik van de afwijking een individuele kennisgeving van het gemeenteraadsbesluit aan de bezwaarindieners moet gebeuren, gelijkwaardig aan de reguliere procedure. Zolang die kennisgeving ontbreekt, begint de termijn van zestig dagen voor het beroep niet te lopen. Het arrest dateert van 16 juni 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le plan d'alignement pour supprimer une voirie communale doit figurer dans la demande de permis initiale",
+    "Le Conseil d'État annule une décision du conseil communal de Wetteren supprimant un chemin vicinal sur la base de la dérogation de l'article 12, §2 du décret flamand sur les voiries communales. Le plan d'alignement ou le plan graphique indiquant l'alignement à supprimer doit figurer dans le dossier de demande introduit en première instance et ne peut pas être ajouté en recours.",
+    "L'arrêt concerne les demandeurs et les autorités qui recourent à la dérogation de l'article 12, §2 du décret sur les voiries communales, qui permet de supprimer, déplacer ou modifier une voirie communale dans une demande de permis d'environnement plutôt que par la procédure ordinaire. Seul le conseil communal, et non l'autorité délivrant le permis, est compétent pour statuer sur la suppression proposée et sur le plan d'alignement ou le plan graphique. Les articles 63 et 64 du décret sur le permis d'environnement, modifiés par le décret du 26 janvier 2024, autorisent des modifications et des ajouts en recours, mais uniquement pour les données et documents relevant du pouvoir de décision de l'autorité délivrante. Le plan d'alignement n'est pas un tel document et ne peut donc pas être ajouté en dernière instance administrative. La dérogation étant une exception d'interprétation restrictive, le plan doit faire partie du dossier de demande introduit en première instance administrative. En l'espèce, il n'a été déposé qu'en recours administratif, de sorte que la décision du conseil communal du 19 juin 2024 supprimant le chemin vicinal est annulée. Le Conseil juge aussi que, lorsque la dérogation est utilisée, une notification individuelle de la décision du conseil communal doit être faite aux auteurs de réclamations, de manière équivalente à la procédure ordinaire. Tant que cette notification fait défaut, le délai de soixante jours pour introduire un recours ne court pas. L'arrêt date du 16 juin 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 267.027 van 16 juni 2026: artikel 12, §2 en 22 Gemeentewegendecreet; artikelen 63-64 Omgevingsvergunningsdecreet",
+   "dates": {
+    "adopted": "2026-06-16"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267027. 1. Het beroep, ingesteld op 28 oktober 2024, strekt tot de nietigverklaring van het besluit van de gemeen",
+     "https://www.raadvst-consetat.be/arresten/267027"
+    ]
+   ],
+   "inbox": [
+    "rvs:267027"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267004",
+   "d": "2026-06-15",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State annuls Tervuren's municipal urban planning regulation 'Woonkernen Horizon+'",
+   "a": "In a ruling of 15 June 2026, the Council of State annulled Tervuren's municipal urban planning regulation 'Woonkernen Horizon+'. It held that Article 2.3.1, §1 of the Flemish Codex for Spatial Planning is not a sufficient legal basis for it.",
+   "b": "The ruling concerns the municipality of Tervuren and anyone relying on its municipal urban planning regulation 'Woonkernen Horizon+', which the municipal council definitively adopted on 29 August 2024. The Council of State annuls that decision. It finds the second, third, fourth and sixth grounds well founded, to the extent discussed in the auditor's report. The common point of law is that Article 2.3.1, §1 of the Flemish Codex for Spatial Planning does not provide a sufficient legal basis for the regulation. The case was handled under the accelerated procedure. The municipality did not request continuation of the proceedings after the auditor's report proposed annulment, and the Council saw no reason to depart from that assessment. The ruling is dated 15 June 2026 and must be published by extract in the same way as the annulled decision. The action was filed on 24 December 2024.",
+   "nl": [
+    "Raad van State vernietigt gemeentelijke stedenbouwkundige verordening 'Woonkernen Horizon+' van Tervuren",
+    "Bij arrest van 15 juni 2026 vernietigt de Raad van State de gemeentelijke stedenbouwkundige verordening 'Woonkernen Horizon+' van Tervuren. Artikel 2.3.1, § 1 van de Vlaamse Codex Ruimtelijke Ordening biedt hiervoor geen afdoende rechtsgrond.",
+    "Het arrest betreft de gemeente Tervuren en iedereen die zich op de gemeentelijke stedenbouwkundige verordening 'Woonkernen Horizon+' beroept, die de gemeenteraad op 29 augustus 2024 definitief heeft vastgesteld. De Raad van State vernietigt dat besluit. Hij acht het tweede, derde, vierde en zesde middel gegrond, in de mate besproken in het auditoraatsverslag. Het gemeenschappelijke rechtspunt is dat artikel 2.3.1, § 1 van de Vlaamse Codex Ruimtelijke Ordening geen afdoende rechtsgrond voor de verordening biedt. De zaak werd volgens de versnelde rechtspleging behandeld. De gemeente vroeg na het auditoraatsverslag, dat de vernietiging voorstelde, niet om de procedure voort te zetten, en de Raad van State zag geen reden om die beoordeling niet bij te treden. Het arrest dateert van 15 juni 2026 en moet bij uittreksel worden bekendgemaakt op dezelfde wijze als het vernietigde besluit. Het beroep werd op 24 december 2024 ingesteld."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le règlement communal d'urbanisme « Woonkernen Horizon+ » de Tervuren",
+    "Par arrêt du 15 juin 2026, le Conseil d'État annule le règlement communal d'urbanisme « Woonkernen Horizon+ » de Tervuren. L'article 2.3.1, § 1er du Code flamand de l'aménagement du territoire n'en constitue pas un fondement juridique suffisant.",
+    "L'arrêt concerne la commune de Tervuren et toute personne qui se prévaut du règlement communal d'urbanisme « Woonkernen Horizon+ », arrêté définitivement par le conseil communal le 29 août 2024. Le Conseil d'État annule cette décision. Il juge fondés les deuxième, troisième, quatrième et sixième moyens, dans la mesure examinée dans le rapport de l'auditeur. Le point de droit commun est que l'article 2.3.1, § 1er du Code flamand de l'aménagement du territoire ne constitue pas un fondement juridique suffisant pour le règlement. L'affaire a été traitée selon la procédure accélérée. Après le rapport de l'auditeur proposant l'annulation, la commune n'a pas demandé la poursuite de la procédure, et le Conseil d'État n'a vu aucune raison de s'écarter de cette appréciation. L'arrêt date du 15 juin 2026 et doit être publié par extrait de la même manière que la décision annulée. Le recours a été introduit le 24 décembre 2024."
+   ],
+   "scope": "Raad van State, arrest nr. 267.004 van 15 juni 2026: nietigverklaring van het besluit van de gemeenteraad van Tervuren van 29 augustus 2024 (gemeentelijke stedenbouwkundige verordening 'Woonkernen Horizon+'); artikel 2.3.1, § 1 VCRO",
+   "dates": {
+    "adopted": "2026-06-15"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267004. 1. Het beroep, ingesteld op 24 december 2024, strek t tot de nietigverklaring van het besluit van de geme",
+     "https://www.raadvst-consetat.be/arresten/267004"
+    ]
+   ],
+   "inbox": [
+    "rvs:267004"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
