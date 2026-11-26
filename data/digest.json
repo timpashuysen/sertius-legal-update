@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:56:25Z",
+ "updated": "2026-11-26T22:08:17Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42838,6 +42838,129 @@
    ],
    "inbox": [
     "rvs:267576"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267626",
+   "d": "2026-09-15",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State: only the minister can order a new public inquiry on permit appeal after the synthesis report",
+   "a": "The Walloon Council of State rules that, under Article 40, § 7bis of the Environmental Permit Decree, the minister may order a public inquiry after receiving the synthesis report, which interrupts the appeal time limits. The technical officer cannot do so on their own initiative, and where the file does not show the minister's request, the time limits are not interrupted.",
+   "b": "The ruling concerns Walloon environmental permit appeals to the Government under the Decree of 11 March 1999, and so permit holders, appellants, municipalities and the permitting authorities. The Council of State holds that Article 40, § 7bis is clear: a public inquiry may be organised at appeal stage, including after the technical officer has sent the synthesis report, and it is not limited to the investigation before that report. A request to the municipality for an inquiry interrupts the time limits for the technical officer's report and for the Government's decision, and the procedure restarts when the technical officer receives the inquiry results and the closing minutes. The technical officer, no longer seized once the report is sent, cannot request an inquiry on their own initiative; only the minister can. In the case at hand, the file showed only requests sent under the technical officer's letterhead and nothing attributing the second inquiry request to the minister. The time limits were therefore not interrupted again and the minister lacked competence ratione temporis to decide on 28 May 2024. That ministerial permit is annulled, and under Article 40, § 8, para. 1, 1° the first-instance municipal decision of 23 May 2023 is deemed confirmed. Because the appellants were misled by the new inquiry about the time limit, they get a fresh 60 days from notification of the ruling to seek annulment of the municipal decision. The ruling is dated 15 September 2026.",
+   "nl": [
+    "Raad van State: enkel de minister kan na het syntheseverslag een openbaar onderzoek in beroep bevelen",
+    "De Waalse Raad van State oordeelt dat de minister op grond van artikel 40, § 7bis van het decreet milieuvergunning na ontvangst van het syntheseverslag een openbaar onderzoek kan bevelen, wat de beroepstermijnen onderbreekt. De technisch ambtenaar kan dat niet op eigen initiatief, en als uit het dossier niet blijkt dat de minister erom verzocht, worden de termijnen niet onderbroken.",
+    "Het arrest betreft Waalse beroepen bij de Regering tegen milieuvergunningen op grond van het decreet van 11 maart 1999, en dus vergunninghouders, indieners van beroep, gemeenten en vergunningverlenende overheden. De Raad van State oordeelt dat artikel 40, § 7bis duidelijk is: in beroep kan een openbaar onderzoek worden georganiseerd, ook nadat de technisch ambtenaar het syntheseverslag heeft verzonden, en niet enkel tijdens het onderzoek tot dat verslag. Een verzoek aan de gemeente om een openbaar onderzoek onderbreekt de termijnen voor het verslag van de technisch ambtenaar en voor de beslissing van de Regering, en de procedure start opnieuw wanneer de technisch ambtenaar de resultaten van het onderzoek en het proces-verbaal van sluiting ontvangt. De technisch ambtenaar, die na verzending van het verslag niet langer met het onderzoek belast is, kan niet op eigen initiatief om een openbaar onderzoek verzoeken; enkel de minister kan dat. In deze zaak bevatte het dossier enkel verzoeken onder het briefhoofd van de technisch ambtenaar en niets wat het tweede verzoek aan de minister toeschreef. De termijnen werden dus niet opnieuw onderbroken en de minister was op 28 mei 2024 ratione temporis onbevoegd om te beslissen. Die ministeriële vergunning wordt vernietigd en krachtens artikel 40, § 8, eerste lid, 1° wordt de beslissing in eerste aanleg van het gemeentecollege van 23 mei 2023 geacht bevestigd te zijn. Omdat de verzoekers door het nieuwe openbaar onderzoek op een dwaalspoor werden gebracht over de termijn, krijgen zij vanaf de kennisgeving van het arrest een nieuwe termijn van 60 dagen om de vernietiging van die gemeentelijke beslissing te vorderen. Het arrest is gedateerd 15 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : seul le ministre peut ordonner une enquête publique en recours après le rapport de synthèse",
+    "Le Conseil d'État juge que, sur la base de l'article 40, § 7bis du décret relatif au permis d'environnement, le ministre peut faire organiser une enquête publique après réception du rapport de synthèse, ce qui interrompt les délais d'instruction du recours. Le fonctionnaire technique ne peut le faire d'initiative, et si le dossier n'établit pas la demande du ministre, les délais ne sont pas interrompus.",
+    "L'arrêt concerne les recours wallons auprès du Gouvernement contre les permis d'environnement, sur la base du décret du 11 mars 1999, et donc les titulaires de permis, les auteurs de recours, les communes et les autorités délivrant les permis. Le Conseil d'État juge que l'article 40, § 7bis est clair : une enquête publique peut être organisée en degré de recours, y compris après l'envoi du rapport de synthèse par le fonctionnaire technique, et pas seulement durant l'instruction menée jusqu'à ce rapport. La demande adressée à la commune d'organiser une enquête publique interrompt les délais d'envoi du rapport du fonctionnaire technique et de la décision du Gouvernement, et la procédure recommence à la réception par le fonctionnaire technique des résultats de l'enquête et du procès-verbal de clôture. Le fonctionnaire technique, dessaisi de l'instruction après l'envoi de son rapport, ne peut solliciter d'initiative une enquête publique; seul le ministre le peut. En l'espèce, le dossier ne contenait que des envois portant le cachet du fonctionnaire technique et aucune pièce attribuant la seconde demande d'enquête au ministre. Les délais n'ont donc pas été à nouveau interrompus et le ministre était incompétent ratione temporis pour statuer le 28 mai 2024. Ce permis ministériel est annulé et, en vertu de l'article 40, § 8, alinéa 1er, 1°, la décision de première instance du collège communal du 23 mai 2023 est confirmée. Les parties requérantes ayant été induites en erreur sur le délai par l'organisation de la nouvelle enquête, elles disposent d'un nouveau délai de 60 jours à dater de la notification de l'arrêt pour demander l'annulation de cette décision communale. L'arrêt est daté du 15 septembre 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.626 du 15 septembre 2026 : article 40, §§ 3, 7, 7bis et 8 du décret wallon du 11 mars 1999 relatif au permis d'environnement (enquête publique en degré de recours)",
+   "dates": {
+    "adopted": "2026-09-15"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267626. 1. Par une requête introduite le 18 juillet 2024, les parties requérantes demandent l’annulation de l’arr",
+     "https://www.raadvst-consetat.be/arresten/267626"
+    ]
+   ],
+   "inbox": [
+    "rvs:267626"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267622",
+   "d": "2026-09-14",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "energy-climate",
+    "environmental-law"
+   ],
+   "h": "Council of State: wind framework's forest rules cover internal grid connection; Stavelot permit annulled",
+   "a": "The Council of State held that the 2013 Walloon wind framework's rules on excluded territories apply to the turbines' foundations and dependencies, including the internal electrical connection. It annulled the single permit for eight turbines at Stavelot for insufficient reasoning on peaty soils.",
+   "b": "The ruling concerns developers and permitting authorities in Wallonia, and the Department of Nature and Forests (DNF) as adviser, for wind projects in forest areas assessed under the 2013 wind reference framework. The Council of State interprets 'turbines' in the framework's rules on excluded territories as covering the base of the masts and their dependencies, including the internal electrical connection. The later 2024 circular's express mention of grid connection infrastructure does not show that the 2013 framework left a gap. Here the internal connection crosses peaty soil, a Natura 2000 site, a site of great biological interest and a Ramsar wetland. The DNF opinion only noted that no turbine stood on such soil, so it could not be verified that the biological interest linked to humid and peaty soils was examined along the connection route. The permitting authority merely adopted that opinion. The appropriate assessment's finding of no significant impact, subject to recommendations, does not change the existing biodiversity value. The Council therefore annulled the single permit of 10 February 2025 for eight turbines along the E42 at Stavelot (Ster-Francorchamps). It rejected the complaints on bats, since it does not arbitrate between methodologies absent a manifest error of assessment. The ruling is dated 14 September 2026 and awards the applicant a procedural indemnity of 770 euros.",
+   "nl": [
+    "Raad van State: bosregels windkader gelden ook voor interne netaansluiting; vergunning Stavelot vernietigd",
+    "De Raad van State oordeelt dat de regels van het Waalse windkader van 2013 over uitgesloten gebieden gelden voor de fundering en aanhorigheden van de windturbines, inclusief de interne elektrische aansluiting. Hij vernietigt de enige vergunning voor acht windturbines in Stavelot wegens onvoldoende motivering over veenbodems.",
+    "Het arrest betreft ontwikkelaars en vergunningverlenende overheden in Wallonië, en het Departement Natuur en Bossen (DNF) als adviesverlener, voor windprojecten in bosgebied die getoetst worden aan het windkader van 2013. De Raad van State legt de term 'windturbines' in de regels over uitgesloten gebieden uit als de basis van de masten en hun aanhorigheden, inclusief de interne elektrische aansluiting. Dat de latere omzendbrief van 2024 uitdrukkelijk de netaansluitingsinfrastructuur vermeldt, toont niet aan dat het kader van 2013 een leemte bevatte. Hier doorkruist de interne aansluiting veenbodem, een Natura 2000-gebied, een gebied van groot biologisch belang en een Ramsar-wetland. Het advies van het DNF stelde enkel vast dat geen windturbine op zulke bodem staat, zodat niet kon worden nagegaan of het biologisch belang van vochtige en veenachtige bodems langs het aansluitingstraject is onderzocht. De vergunningverlenende overheid nam dat advies louter over. De conclusie van de passende beoordeling (geen significante impact mits naleving van aanbevelingen) wijzigt niets aan de bestaande biodiversiteitswaarde. De Raad vernietigde daarom de enige vergunning van 10 februari 2025 voor acht windturbines langs de E42 te Stavelot (Ster-Francorchamps). De grieven over vleermuizen verwierp hij, omdat hij geen scheidsrechter is tussen methodologieën zonder kennelijk onredelijke beoordeling. Het arrest is gedateerd 14 september 2026 en kent de verzoeker een rechtsplegingsvergoeding van 770 euro toe."
+   ],
+   "fr": [
+    "Conseil d'État : les règles forestières du cadre éolien visent aussi le raccordement interne ; permis de Stavelot annulé",
+    "Le Conseil d'État juge que les règles du cadre de référence éolien wallon de 2013 relatives aux territoires exclus visent l'assise des éoliennes et leurs dépendances, dont le raccordement électrique interne. Il annule le permis unique pour huit éoliennes à Stavelot pour motivation insuffisante quant aux sols tourbeux.",
+    "L'arrêt concerne les porteurs de projets et les autorités délivrant les permis en Wallonie, ainsi que le Département de la Nature et des Forêts (DNF) en tant qu'organe d'avis, pour les projets éoliens en zone forestière examinés au regard du cadre de référence éolien de 2013. Le Conseil d'État interprète le terme « éoliennes » dans les règles sur les territoires exclus comme visant l'assise des mâts et leurs dépendances, dont le raccordement électrique interne. La mention expresse des infrastructures de raccordement au réseau dans la circulaire de 2024 ne démontre pas que le cadre de 2013 comportait une lacune. En l'espèce, le raccordement interne traverse un sol tourbeux, un site Natura 2000, une zone de grand intérêt biologique et une zone humide Ramsar. L'avis du DNF se bornait à relever qu'aucune éolienne n'est implantée sur ce type de sol, de sorte qu'il ne pouvait être vérifié que l'intérêt biologique lié aux sols humides et tourbeux avait été examiné le long du tracé du raccordement. L'autorité délivrant le permis s'est contentée de s'approprier cet avis. La conclusion de l'évaluation appropriée (absence d'impact significatif moyennant le respect des recommandations) ne remet pas en cause la richesse existante en biodiversité. Le Conseil a donc annulé le permis unique du 10 février 2025 pour huit éoliennes le long de l'E42 à Stavelot (Ster-Francorchamps). Il a rejeté les griefs relatifs aux chauves-souris, n'étant pas l'arbitre des méthodologies en l'absence d'erreur manifeste d'appréciation. L'arrêt date du 14 septembre 2026 et accorde à la partie requérante une indemnité de procédure de 770 euros."
+   ],
+   "scope": "Arrêt du Conseil d'État n° 267.622 : permis unique éolien, cadre de référence éolien de 2013 (territoires exclus, zone forestière) et obligation de motivation",
+   "dates": {
+    "adopted": "2026-09-14"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267622. 1. Par une requête introduite le 14 mai 2025, la partie requérante demande l’annulation de l’arrêté du 10",
+     "https://www.raadvst-consetat.be/arresten/267622"
+    ]
+   ],
+   "inbox": [
+    "rvs:267622"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267621",
+   "d": "2026-09-14",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: ministerial orders applying the rural building rules to Aubechies are illegal",
+   "a": "The Council of State held that the ministerial orders of 1987 and 2006 making the rural building regulations (RGBSR) apply to Aubechies (Beloeil) were adopted by a minister acting alone, without Government deliberation. It set them aside under Article 159 of the Constitution and annulled a refusal of a permit for 22 dwellings that relied on those rules.",
+   "b": "The ruling concerns applicants for urban planning permits and permit authorities in Wallonia, where the RGBSR (now in the regional urban planning guide, GRU) applies only to territories listed by the competent authority; here it concerns the village of Aubechies. The Council examined the ministerial orders of 23 December 1987 and 27 November 2006, which made the general rules and the rules for the Hainaut loam plateau applicable there. It found that the general delegations to ministers in the Government's rules on competences and functioning do not allow a minister alone to fix the list of territories. Delegation of power is strictly construed and limited to implementing or detailed measures, so the Government (formerly the Executive) had to deliberate collectively. Both orders were therefore issued by an incompetent author and are illegal, and their application is set aside under Article 159 of the Constitution. As a result, the RGBSR provisions in the GRU do not apply to the territory of Aubechies. The Minister's refusal of 16 October 2024, which rested on non-compliance with those rules and on the refusal of deviations under Article D.IV.5 CoDT, was annulled as illegal and inadequately reasoned. The Council added that the permit authority itself could not apply Article 159, but that this does not limit its own legality review. The judgment is dated 14 September 2026.",
+   "nl": [
+    "Raad van State: ministeriële besluiten die de bouwregels voor landelijk gebied op Aubechies toepassen, zijn onwettig",
+    "De Raad van State oordeelt dat de ministeriële besluiten van 1987 en 2006 die het algemeen reglement op de bouwwerken in landelijke gebieden (RGBSR) van toepassing maken op Aubechies (Beloeil), door een minister alleen zijn genomen, zonder beraadslaging van de Regering. Hij laat ze buiten toepassing op grond van artikel 159 van de Grondwet en vernietigt een weigering van een vergunning voor 22 woningen die op die regels steunde.",
+    "Het arrest treft aanvragers van stedenbouwkundige vergunningen en vergunningverlenende overheden in Wallonië, waar het RGBSR (nu opgenomen in de gewestelijke stedenbouwkundige gids, GRU) enkel geldt voor gebieden die de bevoegde overheid vastlegt; hier gaat het om het dorp Aubechies. De Raad onderzocht de ministeriële besluiten van 23 december 1987 en 27 november 2006, die de algemene regels en de regels voor het Henegouwse leemplateau daar van toepassing maakten. Hij oordeelt dat de algemene delegaties aan de ministers in de regels van de Regering over bevoegdheden en werking een minister niet toelaten om alleen de lijst van de gebieden vast te stellen. Delegatie van bevoegdheid is van strikte interpretatie en beperkt tot uitvoerings- of detailmaatregelen, zodat de Regering (voorheen de Executieve) collegiaal moest beraadslagen. Beide besluiten zijn dus genomen door een onbevoegde steller en onwettig, en worden buiten toepassing gelaten op grond van artikel 159 van de Grondwet. Bijgevolg zijn de bepalingen van het RGBSR in de GRU niet van toepassing op het grondgebied van Aubechies. De weigering van de minister van 16 oktober 2024, die steunde op de niet-naleving van die regels en op de weigering van afwijkingen op grond van artikel D.IV.5 CoDT, werd vernietigd als onwettig en ontoereikend gemotiveerd. De Raad voegt toe dat de vergunningverlenende overheid zelf artikel 159 niet kon toepassen, maar dat dit zijn eigen wettigheidstoezicht niet beperkt. Het arrest is gedateerd 14 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : illégalité des arrêtés ministériels appliquant le règlement sur les bâtisses en site rural à Aubechies",
+    "Le Conseil d'État juge que les arrêtés ministériels de 1987 et de 2006 rendant le règlement général sur les bâtisses en site rural (RGBSR) applicable à Aubechies (Beloeil) ont été pris par un ministre seul, sans délibération du Gouvernement. Il en écarte l'application sur la base de l'article 159 de la Constitution et annule un refus de permis pour 22 habitations fondé sur ces règles.",
+    "L'arrêt concerne les demandeurs de permis d'urbanisme et les autorités délivrantes en Wallonie, où le RGBSR (désormais repris dans le guide régional d'urbanisme, GRU) ne s'applique qu'aux territoires arrêtés par l'autorité compétente ; il s'agit ici du village d'Aubechies. Le Conseil a examiné les arrêtés ministériels du 23 décembre 1987 et du 27 novembre 2006, qui y rendaient applicables les règles générales et celles du plateau limoneux hennuyer. Il juge que les délégations générales aux ministres prévues par les règles du Gouvernement sur les compétences et le fonctionnement n'autorisent pas un ministre à arrêter seul la liste des territoires. La délégation de pouvoir est de stricte interprétation et limitée aux mesures d'exécution ou de détail, de sorte que le Gouvernement (alors l'Exécutif) devait délibérer collégialement. Les deux arrêtés ont donc été pris par un auteur incompétent et sont illégaux, et leur application est écartée sur la base de l'article 159 de la Constitution. Il en résulte que les dispositions du RGBSR contenues dans le GRU ne s'appliquent pas au territoire d'Aubechies. Le refus du ministre du 16 octobre 2024, fondé sur le non-respect de ces règles et sur le refus d'écarts au titre de l'article D.IV.5 du CoDT, est annulé comme illégal et inadéquatement motivé. Le Conseil ajoute que l'autorité délivrante ne pouvait elle-même appliquer l'article 159, mais que cela ne restreint pas son propre contrôle de légalité. L'arrêt est daté du 14 septembre 2026."
+   ],
+   "scope": "Arrêtés ministériels du 23 décembre 1987 et du 27 novembre 2006 (application du RGBSR à Aubechies, Beloeil) ; articles 322/12 à 322/25 CWATU et 417 à 430 CWATUP ; article 159 de la Constitution",
+   "dates": {
+    "adopted": "2026-09-14"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267621. 1. Par une requête introduite le 26 novembre 2024, la partie requérante demande l’annulation de l’arrêté ",
+     "https://www.raadvst-consetat.be/arresten/267621"
+    ]
+   ],
+   "inbox": [
+    "rvs:267621"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
