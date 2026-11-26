@@ -78359,22 +78359,338 @@
 "reason": "Interim suspension rejected for lack of proven urgency on a single building permit; applies settled urgency case law, no new general rule.",
 "confidence": "high",
 "at": "2026-11-26"
+},
+"rvs:267208": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Refusal of one wind-farm permit on radar-impact grounds; applies settled principles on reasons, admissibility of pleas and post-decision evidence.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267207": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejection of a suspension request against a single staff evaluation; applies settled principles on reasons, hearing, equality and care. No general instrument annulled and no new interpretation of a pr",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267201": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative noise fine decision for varying composition of the Collège d'Environnement, applying settled case law on article 7 of the 1993 order; continuity-of-service point is incidenta",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267200": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine because the collège d'Environnement's composition was not fixed when the decision was dated; applies settled case law on article 7 of the 1993 order and adds no new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267199": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative noise fine for breach of article 7 of the 1993 Collège decree, restating settled case law on collegial composition; email-approval point is an application, not a new general ",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267198": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine decision for incompetence; applies the settled, constant case law on article 7 of the 1993 Collège arrêté. Nothing new or of general application.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267197": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls a single administrative noise fine for incompetence of the collège d'Environnement, applying settled case law on article 7 of the 1993 arrêté; no new interpretation or general instrument annull",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267196": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Stays proceedings pending civil inscription de faux; the collège-composition plea applies art. 7 of the 1993 order to one file, without new general meaning for operators.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267195": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Individual noise-fine case: stays proceedings pending civil forgery claim and rejects a plea on Collège d'Environnement composition, applying settled case law on article 7 of the 1993 order. Nothing n",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267194": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Stay pending civil inscription de faux; the quorum/composition point applies settled Article 7 case law to one fine file, not a new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267193": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Stay pending civil inscription de faux on noise-measurement reports in one fine case; the collegial-composition ruling applies settled case law on article 7 of the 1993 Collège decree, nothing new of ",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267192": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interlocutory stay pending civil inscription de faux on procès-verbaux; applies settled art. 51 RGP case law to one permit-fine file; no general instrument annulled or new provision interpreted.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267191": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "University exam plagiarism dispute; suspension rejected on urgency and interest grounds applying settled case law; no general instrument annulled and no new interpretation of environmental or planning",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267190": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interim suspension refused for lack of urgency applying settled case law; no instrument annulled and no new interpretation of a provision; tobacco seizure, not environmental permitting.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267188": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Application of settled principles on motivation, care and standing to a single seizure decision; the animal-welfare provision was applied, not newly interpreted.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267187": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Disciplinary dismissal of a CPAS financial director; suspension rejected applying settled principles on disciplinary proof, proportionality and reasons. Not environmental, planning or permit law; no g",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267186": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Civil service dismissal under the education statute for absence; no environmental, planning or permit law involved, so outside the digest's scope.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267185": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Teacher staffing dispute under Fédération Wallonie-Bruxelles; not environmental, planning or permit law; ends by withdrawal and loss of object.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267184": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Public procurement case about bpost's suspension request and the 15-day time limit. Not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267183": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine decision for incompetence due to varying composition of the Collège d'Environnement; applies constant case law on article 7 of the 1993 order, with only a fact-specific ",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267182": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Stays proceedings pending civil inscription de faux on noise reports; the Article 7 college-composition plea applies settled negotium principles to one fine. No new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267181": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Applies the settled, rigorous Article 7 collegial-composition rule to one Brussels Environment fine; the continuity-of-service remark is a case-specific application.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267180": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Applies the settled, 'constant' case law on article 7 of the 1993 Collège d'environnement decree to one fine; the continuity-of-service point is ancillary to the facts.",
+"confidence": "medium",
+"at": "2026-11-26"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7810,
-"assessed": 7810,
+"in_scope": 7833,
+"assessed": 7833,
 "waiting": 0,
 "relevant": 620,
-"not_relevant": 6864,
+"not_relevant": 6887,
 "excluded_by_rule": 326,
-"this_run": 32,
+"this_run": 23,
 "api": {
-"calls": 34,
-"input_tokens": 338015,
-"output_tokens": 12544,
-"usd": 0.0811
+"calls": 27,
+"input_tokens": 276558,
+"output_tokens": 8538,
+"usd": 0.1068
 },
 "key_present": true,
 "updated": "2026-11-26",
