@@ -77923,37 +77923,473 @@
 "reason": "Single permit upheld on settled motivation principles (Law 29 July 1991) and application of settled case law; no new general rule.",
 "confidence": "high",
 "at": "2026-11-26"
+},
+"rvs:267179": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine decision for a collegial composition defect; applies settled case law on art. 7 of the 1993 order, with no new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267178": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls a single administrative fine decision for incompetence: the Collège d'Environnement's composition varied between meetings. This applies the settled, 'clear and rigorous' article 7 of the 1993 o",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267177": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one individual fine decision for a collège's changed composition; restates settled case law on article 7 of the 1993 order and applies it, with no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267176": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Health-professional recognition and visa dispute; inadmissibility for absence of a decision, applying settled principles; not environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267175": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Individual professional recognition dispute (FTA/FTAZ, pharmacy assistants); not environmental, planning or permit law and does not annul a general instrument or settle a new environmental-law questio",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267174": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-safety"
+],
+"ground": "",
+"provision": "",
+"reason": "Food-safety seizure of cattle over PFOS; applies settled precautionary principle and fact-bound assessment, not environmental, planning or permit law.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267173": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Hospital accounting rules (royal decrees on hospital annual accounts); not environmental, planning or permit law, and the ruling only rejects the pleas.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267172": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Public procurement damages claim (indemnité réparatrice) after withdrawal of an award decision; outside environmental, planning or permit law and applies settled principles.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267165": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Civil service pay-scale dispute; loss of object after withdrawal and costs ruling; outside environmental, planning or permit law.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267164": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejects a single permit refusal; restates settled case law on revirement d'attitude, legitimate expectations, reasoning by reference and late pleas. Applies existing principles to one file.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267163": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Police disciplinary law (dismissal of a police officer); not environmental, planning or permit law, and it restates settled principles on impartiality and investigation.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267162": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspension rejected for lack of urgency; restates settled urgency case law on intercommunale governance; no instrument of general application annulled and no new interpretation of a provision.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267161": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Disciplinary dismissal of a prison officer; not environmental, planning or permit law, and it applies settled principles on motivation and proportionality.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267160": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to one WORG designation; applies settled duty of care, motivation and legitimate expectations principles to a single area's facts; no new general interpretation of art. 5.6.8 VCRO.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267159": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Stay of proceedings pending civil forgery claim; the only plea decided (Collège d'environnement composition, art. 7 arrêté 3 juin 1993) restates settled case law applied to the facts.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267158": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Stays proceedings pending a civil inscription de faux. The collegial-composition plea applies settled case law on article 7 of the 1993 Brussels Collège d'environnement decree to the facts; no new gen",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267157": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Stays proceedings pending civil inscription de faux; applies settled collegiality rule of art. 7 Collège d'environnement arrêté 1993 to one case; no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267156": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interlocutory order reopening debates and requesting the administrative file; it annuls no instrument and settles no new point of law of general application.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267155": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine for a college composition defect under article 7 of the 1993 Brussels decree, applying established case law; no new or general interpretive point.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267154": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine for incompetence under article 7 of the 1993 arrêté; applies the settled rule on collège composition and restates established case law.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267153": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for a collegiate composition defect, applying settled case law on article 7 of the 1993 order to the facts; no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267152": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for collegial incompetence under article 7 of the 1993 arrêté; restates settled case law on collegial composition and applies it to one file.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267151": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for collegial incompetence under art. 7 of the 1993 Collège d'environnement decree; restates settled case law on quorum and composition, with no new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267150": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for incompetence of the college; applies settled case law on article 7 of the 1993 college decree, including email approval, and does not change the rules.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267149": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine for a collège composition defect under art. 7 of the 1993 decree, applying established case law; no general instrument or new interpretation.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267148": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine decision for incompetence under art. 7 of the 1993 Collège d'environnement order; applies settled case law on collegial composition, with no new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267147": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one individual administrative fine for an unlawful collège composition. It applies settled case law on article 7 of the 1993 order and restates earlier rulings, without a new general rule.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267146": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine on collegial-composition grounds; applies settled case law on art. 7 of the 1993 arrêté; no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267145": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one fine for collège incompetence under art. 7 of the 1993 arrêté; restates settled composition case law, and the email-approval point applies earlier rulings to one file.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267144": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law"
+],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for incompetence from a late, tacit collegial approval. It applies settled case law on Article 7 of the 1993 Collège order and states no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
+},
+"rvs:267143": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Annuls one administrative fine for incompetence under article 7 of the 1993 arrêté; applies established case law on collegial composition rather than settling a new question.",
+"confidence": "medium",
+"at": "2026-11-26"
+},
+"rvs:267142": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Interim suspension rejected for lack of proven urgency on a single building permit; applies settled urgency case law, no new general rule.",
+"confidence": "high",
+"at": "2026-11-26"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 7778,
-"assessed": 7778,
+"in_scope": 7810,
+"assessed": 7810,
 "waiting": 0,
 "relevant": 620,
-"not_relevant": 6832,
+"not_relevant": 6864,
 "excluded_by_rule": 326,
 "this_run": 32,
 "api": {
-"calls": 35,
-"input_tokens": 313555,
-"output_tokens": 7090,
-"usd": 0.1038
+"calls": 34,
+"input_tokens": 338015,
+"output_tokens": 12544,
+"usd": 0.0811
 },
 "key_present": true,
 "updated": "2026-11-26",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 1,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 1,
-"input_tokens": 8711,
-"output_tokens": 2368,
-"usd": 0.0411
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-26"
 },
