@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:10:35Z",
+ "updated": "2026-11-26T21:56:25Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42590,6 +42590,254 @@
    ],
    "inbox": [
     "rvs:267385"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-eu-62025cj0325",
+   "d": "2026-11-26",
+   "j": [
+    "EU"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law",
+    "energy-climate"
+   ],
+   "h": "CJEU: renewable projects of overriding public interest get priority in principle, also over landscape",
+   "a": "The Court of Justice held that the priority in Article 3(2) of Regulation 2022/2577 applies to any balancing of legal interests in permitting, including competing interests outside the three nature and water directives, such as landscape and heritage protection. The priority is one in principle: authorities may set it aside by giving specific reasons.",
+   "b": "The judgment concerns developers of renewable energy plants and related grid infrastructure, and the authorities and courts deciding on their permits. It arose from a Walloon refusal to permit two wind turbines on landscape and heritage grounds. First, the Court ruled that the priority applies both to balancing under the derogations of the Habitats Directive, the Water Framework Directive and the Birds Directive referred to in Article 3(1), and where the competing interest falls outside those derogations. Second, formal recognition of overriding public interest is not needed where the project is presumed to be of such interest under Article 3(1) or under national legislation extending that presumption. Formal recognition is required where the project is not covered by the presumption or where the presumption has been called into question. Third, the priority is a priority in principle, not an absolute one, and the competent authority may depart from it in the balancing exercise if it gives specific reasons. The species-protection condition in Article 3(2), under which species conservation measures and sufficient funding and areas must be provided, is part of the provision itself. The judgment is dated 26 November 2026. Under Regulation 2024/223, Article 3(2) was extended to apply until 30 June 2025; the judgment sets no entry-into-force date.",
+   "nl": [
+    "HvJ: hernieuwbare-energieprojecten van hoger openbaar belang krijgen principiële voorrang, ook boven landschap",
+    "Het Hof van Justitie oordeelt dat de voorrang in artikel 3, lid 2, van Verordening 2022/2577 geldt bij elke afweging van rechtmatige belangen in de vergunningverlening, ook wanneer het concurrerende belang buiten de drie natuur- en waterrichtlijnen valt, zoals landschaps- en erfgoedbescherming. Het gaat om een voorrang in beginsel: de overheid kan ervan afwijken met een specifieke motivering.",
+    "Het arrest betreft ontwikkelaars van installaties voor hernieuwbare energie en de bijbehorende netinfrastructuur, en de overheden en rechters die over hun vergunningen beslissen. Het ontstond uit een weigering van het Waalse Gewest om twee windturbines te vergunnen om redenen van landschaps- en erfgoedbescherming. Ten eerste oordeelt het Hof dat de voorrang geldt zowel bij de afweging in het kader van de afwijkingen uit de Habitatrichtlijn, de Kaderrichtlijn Water en de Vogelrichtlijn waarnaar artikel 3, lid 1, verwijst, als wanneer het concurrerende belang buiten die afwijkingen valt. Ten tweede is formele erkenning van het hogere openbaar belang niet vereist wanneer het project op grond van artikel 3, lid 1, of op grond van nationale wetgeving die dat vermoeden uitbreidt, als zodanig wordt verondersteld. Formele erkenning is wel vereist wanneer het project niet onder het vermoeden valt of wanneer het vermoeden in vraag is gesteld. Ten derde is de voorrang een voorrang in beginsel, geen absolute voorrang, en de bevoegde overheid mag er in de afweging van afwijken mits specifieke motivering. De voorwaarde inzake soortenbescherming in artikel 3, lid 2, namelijk passende soortenbeschermingsmaatregelen met voldoende financiële middelen en gebieden, maakt deel uit van die bepaling zelf. Het arrest dateert van 26 november 2026. Krachtens Verordening 2024/223 gold artikel 3, lid 2, tot 30 juni 2025; het arrest bepaalt geen datum van inwerkingtreding."
+   ],
+   "fr": [
+    "CJUE : priorité de principe aux projets d’énergie renouvelable d’intérêt public supérieur, y compris face au paysage",
+    "La Cour de justice juge que la priorité prévue à l’article 3, paragraphe 2, du règlement 2022/2577 s’applique à toute mise en balance d’intérêts juridiques lors de l’octroi des permis, y compris lorsque l’intérêt concurrent échappe aux trois directives nature et eau, comme la protection du paysage et du patrimoine. Il s’agit d’une priorité de principe : l’autorité peut y déroger moyennant une motivation spécifique.",
+    "L’arrêt concerne les développeurs d’installations d’énergie renouvelable et d’infrastructures de réseau connexes, ainsi que les autorités et juridictions qui statuent sur leurs permis. Il fait suite au refus de la Région wallonne d’octroyer un permis pour deux éoliennes pour des motifs de protection du paysage et du patrimoine. Premièrement, la Cour juge que la priorité s’applique tant à la mise en balance relevant des dérogations de la directive Habitats, de la directive-cadre sur l’eau et de la directive Oiseaux visées à l’article 3, paragraphe 1, que lorsque l’intérêt concurrent ne relève pas de ces dérogations. Deuxièmement, une reconnaissance formelle de l’intérêt public supérieur n’est pas nécessaire lorsque le projet est présumé d’un tel intérêt en vertu de l’article 3, paragraphe 1, ou d’une législation nationale ayant étendu cette présomption. Elle est requise lorsque le projet n’est pas couvert par la présomption ou lorsque celle-ci a été remise en cause. Troisièmement, la priorité est une priorité de principe et non absolue : l’autorité compétente peut s’en écarter lors de la mise en balance, moyennant une motivation spécifique. La condition relative à la protection des espèces, à savoir des mesures de conservation appropriées assorties de moyens financiers et de zones suffisants, fait partie de l’article 3, paragraphe 2, lui-même. L’arrêt est daté du 26 novembre 2026. En vertu du règlement 2024/223, l’article 3, paragraphe 2, s’appliquait jusqu’au 30 juin 2025 ; l’arrêt ne fixe pas de date d’entrée en vigueur."
+   ],
+   "scope": "Règlement (UE) 2022/2577, article 3, paragraphe 2 (priorité lors de la mise en balance des intérêts juridiques) – arrêt de la Cour de justice, affaire C-325/25",
+   "dates": {
+    "adopted": "2026-11-26"
+   },
+   "u": [
+    [
+     "Judgment of the Court (First Chamber) of 26 November 2026.#Eneco Wind Belgium SA v Région wallonne.#Reference for a preliminary ruling – Env",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CJ0325"
+    ]
+   ],
+   "inbox": [
+    "eu:62025CJ0325"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-eu-32026r2593",
+   "d": "2026-11-25",
+   "j": [
+    "EU"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-safety",
+    "circular-products"
+   ],
+   "h": "REACH entry 31 on creosote rewritten: treated wood limited to railway sleepers and utility poles",
+   "a": "Commission Regulation (EU) 2026/2593 replaces entry 31 of REACH Annex XVII. Treated wood may no longer be placed on the market or used except as railway sleepers and utility poles for electricity or telecommunications in listed Member States, and record-keeping for 10 years becomes mandatory.",
+   "b": "Entry 31 now covers creosote and seven creosote-related substances, on their own or in mixtures, and wood treated with them; 'creosote, wood' is no longer listed. Wood treatment with these substances stays prohibited, except vacuum pressure impregnation in industrial installations, where benzo[a]pyrene must be below 50 mg/kg and water-extractable phenols below 3 % by weight. That derogation requires packaging of at least 200 litres, no supply to the general public, the marking 'For use in industrial installations only' and extra label information on containment, sheltered storage and collection of losses. Treated wood may not be placed on the market or used, except that it may be placed on the market under the conditions of Implementing Regulation (EU) 2022/1950 and used as a railway sleeper or utility pole for electricity or telecommunications (including storage), only in Member States on the ECHA list. After a Member State is removed from the list, placing on the market and use remain allowed for 180 days. Unlisted Member States may adopt national legislation allowing further placing on the market, use and reuse, and must notify ECHA within a month of its entry into force. Treated wood already in place may stay at the same location and be used for the same purpose. Suppliers and users must apply at least the risk management measures of Implementing Regulation (EU) 2022/1950 and keep records of supplies received and of disposal for the duration of use and 10 years after disposal, with a further 10 years where the wood is placed on the market again. The Regulation enters into force on the twentieth day after its publication on 26 November 2026 and applies from 16 December 2027.",
+   "nl": [
+    "REACH-vermelding 31 over creosoot herschreven: behandeld hout beperkt tot spoorbielzen en palen voor nutsvoorzieningen",
+    "Verordening (EU) 2026/2593 van de Commissie vervangt vermelding 31 van bijlage XVII bij REACH. Behandeld hout mag niet meer in de handel worden gebracht of gebruikt, behalve als spoorbielzen en palen voor elektriciteit of telecommunicatie in vermelde lidstaten; bewijsstukken moeten 10 jaar worden bewaard.",
+    "Vermelding 31 omvat nu creosoot en zeven aan creosoot verwante stoffen, afzonderlijk of in mengsels, en hout dat ermee is behandeld; 'creosote, wood' staat er niet meer in. Het behandelen van hout met deze stoffen blijft verboden, behalve door vacuümdrukimpregnering in industriële installaties, waarbij benzo[a]pyreen onder 50 mg/kg en met water extraheerbare fenolen onder 3 gewichtsprocent moeten blijven. Voor die afwijking gelden een verpakking van minstens 200 liter, geen levering aan het grote publiek, de aanduiding 'For use in industrial installations only' en extra informatie op het etiket over insluiting, overdekte opslag en opvang van verliezen. Behandeld hout mag niet in de handel worden gebracht of gebruikt, behalve dat het in de handel mag worden gebracht onder de voorwaarden van Uitvoeringsverordening (EU) 2022/1950 en mag worden gebruikt als spoorbiels of paal voor elektriciteit of telecommunicatie (inclusief opslag), uitsluitend in lidstaten die op de ECHA-lijst staan. Nadat een lidstaat van de lijst is geschrapt, blijven het in de handel brengen en het gebruik nog 180 dagen toegestaan. Niet-vermelde lidstaten mogen nationale wetgeving aannemen die het verder in de handel brengen, het gebruik en het hergebruik toestaat, en moeten die binnen een maand na de inwerkingtreding aan ECHA melden. Behandeld hout dat al op zijn plaats ligt, mag er blijven en voor hetzelfde doel worden gebruikt. Leveranciers en gebruikers moeten minstens de risicobeheersmaatregelen van Uitvoeringsverordening (EU) 2022/1950 toepassen en gegevens over ontvangen leveringen en over de verwijdering bewaren gedurende het gebruik en 10 jaar na de verwijdering, met nog eens 10 jaar wanneer het hout opnieuw in de handel wordt gebracht. De verordening treedt in werking op de twintigste dag na de bekendmaking op 26 november 2026 en is van toepassing vanaf 16 december 2027."
+   ],
+   "fr": [
+    "Entrée 31 de REACH sur la créosote refondue : bois traité limité aux traverses et poteaux utilitaires",
+    "Le règlement (UE) 2026/2593 de la Commission remplace l'entrée 31 de l'annexe XVII de REACH. Le bois traité ne peut plus être mis sur le marché ni utilisé, sauf comme traverses de chemin de fer et poteaux pour l'électricité ou les télécommunications dans les États membres listés, et les documents doivent être conservés 10 ans.",
+    "L'entrée 31 couvre désormais la créosote et sept substances apparentées, seules ou en mélanges, ainsi que le bois traité avec ces substances ; « creosote, wood » n'y figure plus. Le traitement du bois avec ces substances reste interdit, sauf par imprégnation sous vide et sous pression dans des installations industrielles, où le benzo[a]pyrène doit rester inférieur à 50 mg/kg et les phénols extractibles à l'eau inférieurs à 3 % en poids. Cette dérogation suppose un conditionnement d'au moins 200 litres, l'absence de fourniture au grand public, la mention « For use in industrial installations only » et des informations supplémentaires sur l'étiquette concernant le confinement, le stockage à l'abri et la collecte des pertes. Le bois traité ne peut être mis sur le marché ni utilisé, sauf qu'il peut être mis sur le marché aux conditions du règlement d'exécution (UE) 2022/1950 et utilisé comme traverse de chemin de fer ou poteau pour l'électricité ou les télécommunications (stockage compris), uniquement dans les États membres figurant sur la liste de l'ECHA. Après le retrait d'un État membre de la liste, la mise sur le marché et l'utilisation restent permises pendant 180 jours. Les États membres non listés peuvent adopter une législation nationale autorisant la poursuite de la mise sur le marché, l'utilisation et la réutilisation, et doivent la notifier à l'ECHA dans le mois suivant son entrée en vigueur. Le bois traité déjà en place peut y rester et continuer à servir au même usage. Les fournisseurs et les utilisateurs doivent appliquer au moins les mesures de gestion des risques du règlement d'exécution (UE) 2022/1950 et conserver les documents relatifs aux fournitures reçues et à l'élimination pendant la durée d'utilisation et 10 ans après l'élimination, avec 10 ans supplémentaires si le bois est de nouveau mis sur le marché. Le règlement entre en vigueur le vingtième jour suivant sa publication le 26 novembre 2026 et s'applique à partir du 16 décembre 2027."
+   ],
+   "scope": "Commission Regulation (EU) 2026/2593 amending Regulation (EC) No 1907/2006 (REACH), Annex XVII, entry 31 (creosote and creosote-related substances; treated wood), replaced",
+   "dates": {
+    "adopted": "2026-11-25",
+    "published": "2026-11-26",
+    "in_force": "2027-12-16"
+   },
+   "u": [
+    [
+     "Commission Regulation (EU) 2026/2593 of 25 November 2026 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and ",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2593"
+    ]
+   ],
+   "inbox": [
+    "eu:32026R2593"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267583",
+   "d": "2026-09-10",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: recognition of a Flemish National Park is not an actionable act; annulment appeal inadmissible",
+   "a": "The Council of State held that the Flemish Government decision recognising the National Park Flanders 'Scheldevallei' creates no direct legal effects or harm for third parties. An annulment appeal by an agricultural association was therefore declared inadmissible.",
+   "b": "The ruling concerns the Flemish Government decision of 13 October 2023 recognising the National Park Flanders 'Scheldevallei' under Article 7 of the Parks Decree of 9 June 2023, and affects landowners, farmers, local authorities and park bodies. The Council of State found that recognition is not an administrative act with direct, adverse legal effects for third parties. Article 8 of the Parks Decree states that recognition and the park office's work create no obligations or restrictions beyond existing regulations. Article 9 excludes the master plan and operational plan from being a policy-desired development for permit assessment under the Flemish Codex for Spatial Planning (VCRO), and municipal autonomy is not curtailed. The Council held that the objectives, such as enlarging the nature core to at least 10,000 ha, require other instruments and impose no binding obligations on third parties. A possible reduction of agricultural land was considered a hypothesis not shown to follow directly from recognition. The appeal was rejected as inadmissible for lack of an administrative act causing grievance, and the interventions were granted. The ruling was delivered on 10 September 2026, and the applicant bears the costs.",
+   "nl": [
+    "Raad van State: erkenning van een Nationaal Park Vlaanderen is geen aanvechtbare rechtshandeling; beroep onontvankelijk",
+    "De Raad van State oordeelt dat het besluit van de Vlaamse Regering tot erkenning van het Nationaal Park Vlaanderen ‘Scheldevallei’ geen onmiddellijke en rechtstreekse rechtsgevolgen of nadelen voor derden meebrengt. Het annulatieberoep van een landbouworganisatie is daarom onontvankelijk.",
+    "Het arrest betreft het besluit van de Vlaamse Regering van 13 oktober 2023 tot erkenning van het Nationaal Park Vlaanderen ‘Scheldevallei’ op grond van artikel 7 van het Parkendecreet van 9 juni 2023, en raakt grondeigenaars, landbouwers, lokale besturen en parkbureaus. De Raad van State oordeelt dat de erkenning geen administratieve rechtshandeling is die rechtstreeks nadeel berokkent aan derden. Artikel 8 van het Parkendecreet bepaalt dat de erkenning en de werking van het parkbureau geen verplichtingen of beperkende maatregelen genereren bovenop de vigerende regelgeving. Volgens artikel 9 gelden het masterplan en het operationeel plan niet als beleidsmatig gewenste ontwikkeling in de zin van de VCRO, en de gemeentelijke autonomie blijft onaangetast. De doelstelling om de natuurkern uit te breiden tot minstens 10.000 ha vergt andere instrumenten en legt derden geen dwingende verplichtingen op. Een mogelijke vermindering van het landbouwareaal is een hypothese waarvan niet is aangetoond dat ze rechtstreeks uit de erkenning volgt. Het beroep wordt onontvankelijk verworpen bij gebrek aan een griefhoudende administratieve rechtshandeling, de verzoeken tot tussenkomst worden ingewilligd en de verzoekende partij draagt de kosten. Het arrest is uitgesproken op 10 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la reconnaissance d'un Parc national Flandre n'est pas un acte attaquable ; recours irrecevable",
+    "Le Conseil d'État juge que l'arrêté du Gouvernement flamand reconnaissant le Parc national Flandre « Scheldevallei » n'emporte aucun effet juridique ni préjudice direct et immédiat pour des tiers. Le recours en annulation d'une association agricole est donc irrecevable.",
+    "L'arrêt porte sur l'arrêté du Gouvernement flamand du 13 octobre 2023 reconnaissant le Parc national Flandre « Scheldevallei » sur la base de l'article 7 du décret du 9 juin 2023 sur les parcs flamands (Parkendecreet), et concerne les propriétaires, agriculteurs, pouvoirs locaux et bureaux de parc. Le Conseil d'État juge que la reconnaissance n'est pas un acte administratif causant directement grief à des tiers. L'article 8 du décret prévoit que la reconnaissance et le fonctionnement du bureau du parc ne génèrent ni obligations ni mesures restrictives en plus de la réglementation en vigueur. Selon l'article 9, le plan directeur et le plan opérationnel ne constituent pas un développement souhaité par la politique au sens du VCRO (Code flamand de l'aménagement du territoire), et l'autonomie communale n'est pas entamée. L'objectif d'étendre le noyau naturel à au moins 10.000 ha requiert d'autres instruments et n'impose aucune obligation contraignante à des tiers. Une éventuelle réduction de la surface agricole est une hypothèse dont il n'est pas démontré qu'elle résulte directement de la reconnaissance. Le recours est rejeté comme irrecevable à défaut d'acte administratif faisant grief, les interventions sont admises et la partie requérante supporte les dépens. L'arrêt a été prononcé le 10 septembre 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 267.583 – besluit Vlaamse Regering 13 oktober 2023 (Nationaal Park Vlaanderen ‘Scheldevallei’); artt. 7, 8, 9 en 25 Parkendecreet 9 juni 2023",
+   "dates": {
+    "adopted": "2026-09-10"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267583. 1. Het beroep, ingesteld op 22 december 2023, strek t tot de nietigverklaring van het besluit van de Vlaa",
+     "https://www.raadvst-consetat.be/arresten/267583"
+    ]
+   ],
+   "inbox": [
+    "rvs:267583"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267581",
+   "d": "2026-09-10",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: recognition of a Flemish National Park is not an act open to annulment; Brabantse Wouden appeal dismissed",
+   "a": "The Council of State dismissed the appeal against the Flemish Government's recognition of the 'Brabantse Wouden' National Park Flanders. It held that recognition under the Flemish Parks Decree creates no legal effects directly and immediately harming the applicants, so the appeal is inadmissible.",
+   "b": "The ruling concerns the recognition of Flemish Parks, here the National Park Flanders 'Brabantse Wouden', under Article 7 of the Decree of 9 June 2023 on Flemish Parks and general landscape care. The applicants, an agricultural association, a company and two individuals, sought annulment of the Government decision of 13 October 2023. The Council of State holds that recognition does not itself impose obligations or restrictive measures on holders of real rights or users, within or outside the park, beyond existing regulations (Article 8 of the Parks Decree). The master plan and operational plan do not count as a policy-desired development for permit assessment (Article 9, fourth paragraph), and Article 4.3.4 VCRO does not make recognition a binding instrument for assessing third-party permit applications. The park's targets, such as enlarging the nature core and extending nature management plans, require other instruments, and a reduction of agricultural land is only a hypothesis. Municipal autonomy is not restricted, and designating a park bureau, the possibility of subsidies and the protected name do not cause direct and immediate harm. The appeal is therefore dismissed as inadmissible for lack of a challengeable administrative act, and the interventions by the municipalities of Huldenberg, Overijse and Tervuren and an association were accepted. The judgment was delivered on 10 September 2026.",
+   "nl": [
+    "Raad van State: erkenning van een Nationaal Park Vlaanderen is geen vernietigbare rechtshandeling; beroep Brabantse Wouden verworpen",
+    "De Raad van State verwerpt het beroep tegen de erkenning van het Nationaal Park Vlaanderen 'Brabantse Wouden' door de Vlaamse regering. Volgens de Raad sorteert de erkenning krachtens het Parkendecreet geen rechtsgevolgen die de verzoekers onmiddellijk en rechtstreeks nadeel berokkenen, zodat het beroep onontvankelijk is.",
+    "Het arrest betreft de erkenning van Vlaamse Parken, hier het Nationaal Park Vlaanderen 'Brabantse Wouden', op grond van artikel 7 van het decreet van 9 juni 2023 houdende de Vlaamse Parken en de algemene landschapszorg. De verzoekers, een landbouworganisatie, een vennootschap en twee particulieren, vorderden de nietigverklaring van het besluit van de Vlaamse regering van 13 oktober 2023. De Raad van State oordeelt dat de erkenning zelf geen verplichtingen of beperkende maatregelen oplegt aan houders van zakelijke rechten of gebruikers, binnen of buiten het park, bovenop de vigerende regelgeving (artikel 8 Parkendecreet). Het masterplan en het operationeel plan gelden niet als beleidsmatig gewenste ontwikkeling bij de beoordeling van vergunningen (artikel 9, vierde lid), en artikel 4.3.4 VCRO maakt van de erkenning geen dwingend instrument om vergunningsaanvragen van derden te beoordelen. Voor de doelstellingen van het park, zoals de uitbreiding van de natuurkern en van de natuurbeheerplannen, moeten andere instrumenten worden ingezet, en een vermindering van het landbouwareaal is slechts een hypothese. De gemeentelijke autonomie wordt niet beperkt, en de aanduiding van een parkbureau, de mogelijke subsidies en de beschermde naam berokkenen geen onmiddellijk en rechtstreeks nadeel. Het beroep wordt bijgevolg onontvankelijk verworpen bij gebrek aan een vernietigbare administratieve rechtshandeling; de tussenkomsten van de gemeenten Huldenberg, Overijse en Tervuren en van een vzw worden ingewilligd. Het arrest is uitgesproken op 10 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la reconnaissance d'un Parc national Flandre n'est pas un acte annulable ; recours Brabantse Wouden rejeté",
+    "Le Conseil d'État rejette le recours dirigé contre la reconnaissance du Parc national Flandre « Brabantse Wouden » par le Gouvernement flamand. Il juge que la reconnaissance, en vertu du décret relatif aux Parcs flamands, ne produit aucun effet juridique portant préjudice direct et immédiat aux requérants, de sorte que le recours est irrecevable.",
+    "L'arrêt concerne la reconnaissance de Parcs flamands, en l'espèce le Parc national Flandre « Brabantse Wouden », sur la base de l'article 7 du décret du 9 juin 2023 relatif aux Parcs flamands et à la gestion générale du paysage. Les requérants, une organisation agricole, une société et deux particuliers, demandaient l'annulation de l'arrêté du Gouvernement flamand du 13 octobre 2023. Le Conseil d'État juge que la reconnaissance n'impose par elle-même ni obligations ni mesures restrictives aux titulaires de droits réels ou aux utilisateurs, à l'intérieur ou à l'extérieur du parc, en plus de la réglementation en vigueur (article 8 du décret sur les Parcs). Le plan directeur et le plan opérationnel ne sont pas considérés comme un développement souhaité par la politique lors de l'examen des permis (article 9, alinéa 4), et l'article 4.3.4 du VCRO ne fait pas de la reconnaissance un instrument contraignant pour apprécier les demandes de permis de tiers. Les objectifs du parc, tels que l'extension du noyau naturel et des plans de gestion de la nature, exigent d'autres instruments, et une diminution de la superficie agricole n'est qu'une hypothèse. L'autonomie communale n'est pas limitée, et la désignation d'un bureau du parc, les subventions possibles et le nom protégé ne causent pas de préjudice direct et immédiat. Le recours est donc rejeté comme irrecevable, faute d'acte administratif susceptible d'annulation ; les interventions des communes de Huldenberg, Overijse et Tervuren et d'une asbl sont admises. L'arrêt a été prononcé le 10 septembre 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 267.581 van 10 september 2026 – beroep tegen het besluit van de Vlaamse regering van 13 oktober 2023 tot erkenning van het Nationaal Park Vlaanderen 'Brabantse Wouden' (artikelen 7, 8, 9 en 25 Parkendecreet van 9 juni 2023; artikel 4.3.4 VCRO)",
+   "dates": {
+    "adopted": "2026-09-10"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267581. 1. Het beroep, ingesteld op 22 december 2023, strek t tot de nietigverklaring van het besluit van de Vlaa",
+     "https://www.raadvst-consetat.be/arresten/267581"
+    ]
+   ],
+   "inbox": [
+    "rvs:267581"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267580",
+   "d": "2026-09-10",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: recognition of a Nationaal Park Vlaanderen has no legal effect on third parties",
+   "a": "The Council of State dismissed as inadmissible an annulment action against the Flemish Government decision of 21 June 2024 recognising the Nationaal Park Vlaanderen 'Bosland'. It held that recognition under the Parks Decree creates no obligations or restrictions for third parties and so is not a challengeable act causing direct harm.",
+   "b": "The ruling concerns landowners, farmers, local authorities and others who might challenge a recognition of a Flemish Park under Article 7 of the Decree of 9 June 2023 on Flemish Parks and general landscape care. The Council of State held that such a recognition produces no legal effects that immediately and directly harm third parties. Article 8 of the Decree states that recognition and the park office's work create no obligations or restrictions beyond existing regulation for holders of real rights and users, unless otherwise agreed, and cannot affect municipal powers or autonomy. Under Article 9, fourth paragraph, the master plan (24 years) and operational plan (6 years) are not a policy-desired development within Article 4.3.1, §2, 2°, a) VCRO, so they do not feed into permit decisions. The Court found that Article 4.3.4 VCRO does not change this. It also held that these plans impose nothing binding on third parties. The aims of extending the nature core to at least 10,000 ha and applying type 3 or 4 nature management plans require other instruments. The claimed loss of agricultural land is a hypothesis, and municipalities are not obliged to pursue the objectives. Losing subsidies under Article 25 does not limit municipal autonomy, and the park office cannot take decisions binding third parties. The action, filed on 30 September 2024, was dismissed as inadmissible for lack of a challengeable administrative act. The applicants bear the costs, and the interventions of a nature organisation and three municipalities were admitted. The judgment of 10 September 2026 does not state a separate entry into force.",
+   "nl": [
+    "Raad van State: erkenning van een Nationaal Park Vlaanderen sorteert geen rechtsgevolgen voor derden",
+    "De Raad van State verwerpt als onontvankelijk een annulatieberoep tegen het besluit van de Vlaamse Regering van 21 juni 2024 tot erkenning van het Nationaal Park Vlaanderen 'Bosland'. De erkenning krachtens het Parkendecreet legt derden geen verplichtingen of beperkingen op en is dus geen aanvechtbare handeling die rechtstreeks nadeel berokkent.",
+    "Het arrest treft eigenaars, landbouwers, lokale besturen en anderen die een erkenning van een Vlaams Park kunnen aanvechten, op grond van artikel 7 van het decreet van 9 juni 2023 houdende de Vlaamse Parken en de algemene landschapszorg. De Raad van State oordeelt dat zo'n erkenning geen rechtsgevolgen heeft die derden onmiddellijk en rechtstreeks benadelen. Artikel 8 van het decreet bepaalt dat de erkenning en de werking van het parkbureau geen verplichtingen of beperkingen boven op de vigerende regelgeving genereren voor houders van zakelijke rechten en gebruikers, behoudens anders overeengekomen, en geen afbreuk doen aan de gemeentelijke bevoegdheden of autonomie. Krachtens artikel 9, vierde lid, zijn het masterplan (24 jaar) en het operationeel plan (6 jaar) geen beleidsmatig gewenste ontwikkeling in de zin van artikel 4.3.1, § 2, 2°, a), VCRO, zodat ze niet doorwerken in het vergunningenbeleid. Artikel 4.3.4 VCRO wijzigt dat volgens de Raad niet, en de plannen leggen derden niets dwingends op. Voor de doelstellingen om de natuurkern uit te breiden tot minstens 10.000 ha en natuurbeheerplannen type 3 of 4 toe te passen, zijn andere instrumenten nodig. De beweerde afname van het landbouwareaal is een hypothese en de gemeenten zijn niet verplicht de doelstellingen na te streven. Het verlies van subsidies krachtens artikel 25 beperkt de gemeentelijke autonomie niet, en het parkbureau kan geen beslissingen nemen die derden binden. Het beroep, ingesteld op 30 september 2024, is onontvankelijk bij gebrek aan een aanvechtbare administratieve rechtshandeling. De verzoekende partijen dragen de kosten; de tussenkomsten van een natuurvereniging en drie gemeenten zijn ingewilligd. Het arrest van 10 september 2026 vermeldt geen afzonderlijke inwerkingtreding."
+   ],
+   "fr": [
+    "Conseil d'État : la reconnaissance d'un Nationaal Park Vlaanderen n'a pas d'effets juridiques à l'égard des tiers",
+    "Le Conseil d'État rejette comme irrecevable un recours en annulation dirigé contre l'arrêté du Gouvernement flamand du 21 juin 2024 reconnaissant le Nationaal Park Vlaanderen « Bosland ». La reconnaissance au titre du décret sur les parcs n'impose ni obligations ni restrictions aux tiers et n'est donc pas un acte attaquable causant un préjudice direct.",
+    "L'arrêt concerne les propriétaires, les agriculteurs, les pouvoirs locaux et toute personne pouvant contester la reconnaissance d'un parc flamand fondée sur l'article 7 du décret du 9 juin 2023 relatif aux parcs flamands et à l'entretien général du paysage (Parkendecreet). Le Conseil d'État juge qu'une telle reconnaissance ne produit pas d'effets juridiques portant un préjudice immédiat et direct aux tiers. L'article 8 du décret prévoit que la reconnaissance et le fonctionnement du bureau du parc ne génèrent pas d'obligations ni de restrictions supplémentaires à la réglementation en vigueur pour les titulaires de droits réels et les utilisateurs, sauf convention contraire, et ne portent pas atteinte aux compétences ni à l'autonomie communales. Selon l'article 9, alinéa 4, le plan directeur (24 ans) et le plan opérationnel (6 ans) ne constituent pas un développement souhaité par la politique au sens de l'article 4.3.1, § 2, 2°, a), VCRO, de sorte qu'ils n'influencent pas la politique des permis. Le Conseil estime que l'article 4.3.4 VCRO n'y change rien et que ces plans n'imposent rien de contraignant aux tiers. Les objectifs d'étendre le noyau naturel à au moins 10.000 ha et d'appliquer des plans de gestion de la nature de type 3 ou 4 requièrent d'autres instruments. La diminution alléguée de la superficie agricole est une hypothèse et les communes ne sont pas tenues de poursuivre ces objectifs. La perte de subsides prévue à l'article 25 ne limite pas l'autonomie communale, et le bureau du parc ne peut prendre de décisions liant les tiers. Le recours, introduit le 30 septembre 2024, est irrecevable faute d'acte administratif attaquable. Les parties requérantes supportent les dépens ; les interventions d'une association de protection de la nature et de trois communes sont admises. L'arrêt du 10 septembre 2026 ne mentionne pas d'entrée en vigueur distincte."
+   ],
+   "scope": "Raad van State, arrest nr. 267.580 van 10 september 2026 over het besluit van de Vlaamse Regering van 21 juni 2024 (erkenning Nationaal Park Vlaanderen 'Bosland') en artikelen 7, 8, 9 en 25 van het Parkendecreet van 9 juni 2023",
+   "dates": {
+    "adopted": "2026-09-10"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267580. 1. Het beroep, ingesteld op 30 september 2024, stre kt tot de nietigverklaring van het besluit van de Vla",
+     "https://www.raadvst-consetat.be/arresten/267580"
+    ]
+   ],
+   "inbox": [
+    "rvs:267580"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267576",
+   "d": "2026-09-10",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: amended permit plans need timely acknowledgment and a fresh municipal opinion (CoDT D.IV.42-43)",
+   "a": "The Council of State annulled a Walloon urban planning permit because amended plans were treated as inadmissible without proof that the acknowledgment of receipt was sent in time, and because the municipal college's opinion was not sought again. It clarifies how Articles D.IV.42 and D.IV.43 CoDT apply when an applicant files amended plans.",
+   "b": "The ruling concerns permit applications in Wallonia where the delegated official (fonctionnaire délégué) or the Government decides and the applicant files amended plans under Articles D.IV.42 and D.IV.43 of the Territorial Development Code (CoDT). The acknowledgment of receipt for amended plans must be sent before the decision deadline, including any extension; it may be sent together with the decision, but if no proof of timely sending exists, the plans are inadmissible and the authority cannot base its decision on them. The date of sending must be certain under Article D.I.13 and R.I.13-1 CoDT. The prior agreement of the competent authority to the filing needs no particular form and may follow from its conduct, here a letter inviting the applicant to respond to objections and the municipal opinion. Where the municipal college is not the competent authority, its opinion must always be sought again after amended plans are filed, on their content rather than on the principle of filing. The rules in D.IV.42 §§ 2 and 3 do not apply to this step. It is irrelevant that the plans respond to the college's unfavourable opinion, and the CoDT attaches no consequence to a missing opinion, which does not make the request optional. The Council of State annulled the permit of 26 October 2021 for an electrical cabin in Waterloo, finding the formal statement of reasons inadequate, and did not examine the other pleas. The judgment is dated 10 September 2026.",
+   "nl": [
+    "Raad van State: gewijzigde plannen vergen tijdig ontvangstbewijs en nieuw gemeentelijk advies (CoDT D.IV.42-43)",
+    "De Raad van State vernietigt een Waalse stedenbouwkundige vergunning omdat de gewijzigde plannen onontvankelijk waren bij gebrek aan bewijs van tijdige verzending van het ontvangstbewijs en omdat het advies van het gemeentecollege niet opnieuw werd gevraagd. Het arrest verduidelijkt de toepassing van de artikelen D.IV.42 en D.IV.43 CoDT bij gewijzigde plannen.",
+    "Het arrest betreft vergunningsaanvragen in Wallonië waarover de gemachtigde ambtenaar of de Regering beslist en waarbij de aanvrager gewijzigde plannen indient op grond van de artikelen D.IV.42 en D.IV.43 van het Wetboek van Ruimtelijke Ontwikkeling (CoDT). Het ontvangstbewijs voor gewijzigde plannen moet vóór het verstrijken van de beslissingstermijn, inclusief een eventuele verlenging, worden verzonden; het mag samen met de beslissing worden verzonden, maar zonder bewijs van tijdige verzending zijn de plannen onontvankelijk en kan de overheid haar beslissing er niet op steunen. De verzenddatum moet vaststaan overeenkomstig de artikelen D.I.13 en R.I.13-1 CoDT. Het voorafgaand akkoord van de bevoegde overheid met de indiening vereist geen bijzondere vorm en kan blijken uit haar houding, hier een brief waarin de aanvrager wordt uitgenodigd te antwoorden op de bezwaren en het gemeentelijk advies. Wanneer het gemeentecollege niet de bevoegde overheid is, moet na indiening van gewijzigde plannen steeds opnieuw zijn advies worden gevraagd, over de inhoud van de plannen en niet over het principe van de indiening. De regels van D.IV.42, §§ 2 en 3 zijn hierop niet van toepassing. Het is irrelevant dat de plannen een antwoord bieden op het ongunstige advies van het college, en het feit dat het CoDT geen gevolg verbindt aan een ontbrekend advies maakt de adviesvraag niet facultatief. De Raad van State vernietigt de vergunning van 26 oktober 2021 voor een elektriciteitscabine in Waterloo wegens ontoereikende formele motivering en onderzoekt de overige middelen niet. Het arrest dateert van 10 september 2026."
+   ],
+   "fr": [
+    "Conseil d'État : plans modificatifs soumis à un accusé de réception en temps utile et à un nouvel avis communal (CoDT D.IV.42-43)",
+    "Le Conseil d'État annule un permis d'urbanisme wallon, car les plans modificatifs étaient irrecevables faute de preuve d'envoi dans les délais de l'accusé de réception et que l'avis du collège communal n'a pas été sollicité à nouveau. L'arrêt précise l'application des articles D.IV.42 et D.IV.43 du CoDT en cas de plans modificatifs.",
+    "L'arrêt concerne les demandes de permis en Wallonie sur lesquelles le fonctionnaire délégué ou le Gouvernement statue et pour lesquelles le demandeur dépose des plans modificatifs sur la base des articles D.IV.42 et D.IV.43 du Code du développement territorial (CoDT). L'accusé de réception des plans modificatifs doit être envoyé avant l'échéance du délai de décision, éventuellement prorogé ; il peut être envoyé en même temps que la décision, mais, faute de preuve d'un envoi dans le délai, les plans sont irrecevables et l'autorité ne peut fonder sa décision sur eux. La date d'envoi doit être certaine conformément aux articles D.I.13 et R.I.13-1 du CoDT. L'accord préalable de l'autorité compétente sur le dépôt ne requiert aucun formalisme particulier et peut résulter de son attitude, ici un courrier invitant le demandeur à répondre aux réclamations et à l'avis communal. Lorsque le collège communal n'est pas l'autorité compétente, son avis doit toujours être sollicité à nouveau après le dépôt de plans modificatifs, sur leur contenu et non sur le principe du dépôt. Les règles de l'article D.IV.42, §§ 2 et 3, ne s'y appliquent pas. Il importe peu que les plans répondent à l'avis défavorable du collège, et l'absence de conséquence attachée par le CoDT au défaut d'avis ne rend pas la demande d'avis facultative. Le Conseil d'État annule le permis du 26 octobre 2021 pour une cabine électrique à Waterloo, la motivation formelle étant inadéquate, et n'examine pas les autres moyens. L'arrêt date du 10 septembre 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.576 du 10 septembre 2026 : articles D.IV.42 et D.IV.43 CoDT (plans modificatifs), D.I.13 et R.I.13-1 CoDT, loi du 29 juillet 1991 sur la motivation formelle",
+   "dates": {
+    "adopted": "2026-09-10"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267576. 1. Par une requête introduite le 5 janvier 2022, la partie requérante demande l’annulation de la décision",
+     "https://www.raadvst-consetat.be/arresten/267576"
+    ]
+   ],
+   "inbox": [
+    "rvs:267576"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
