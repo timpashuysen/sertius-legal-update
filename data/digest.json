@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:14:26Z",
+ "updated": "2026-11-26T03:29:38Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42549,6 +42549,47 @@
    ],
    "inbox": [
     "rvs:267368"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-267385",
+   "d": "2026-07-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State annuls Zedelgem spatial plan: plan-MER screening must test against zoning-plan landscape rules",
+   "a": "The Council of State annulled Zedelgem's municipal spatial implementation plan 'Sportlaan - Sint-Aarnoutstraat' because its plan-MER screening lacked a careful planning-law comparison. The planning authority must compare the new rules with the existing zoning-plan rules, including the aesthetic criterion for landscape-valuable agricultural areas.",
+   "b": "The ruling concerns planning authorities that exempt a municipal spatial implementation plan (RUP) from a plan-MER under Article 4.2.3, §3 of the Flemish Environmental Policy Decree (DABM). It confirms that for a plan covering a small area at local level, the screening must show that no significant environmental effects are possible. It must start from a planning-law comparison, zone by zone, between the existing and the proposed binding provisions, regardless of current actual use. Where the plan replaces landscape-valuable agricultural area under the regional zoning plan, the authority must examine how the new rules compare with the aesthetic criterion in Article 15, 4.6.1 of the Royal Decree of 28 December 1972, as the duty is not limited to permitting authorities. The Council found that the screening note relied only on the actual situation, ignored that the new residential and project zones lie largely in landscape-valuable agricultural area, and did not examine the effect on the landscape or on the visual image of open space. The fencing provision cited in defence rather runs counter to that visual image. Where the parcels are in a special factual situation, such as valuable natural elements, a factual test is also required. The Council annulled the council decision of 23 November 2023, ordered the municipality to pay the costs and ordered publication of an extract in the same way as the annulled decision.",
+   "nl": [
+    "Raad van State vernietigt gemeentelijk RUP Zedelgem: plan-MER-screening moet toetsen aan landschapsregels van het gewestplan",
+    "De Raad van State vernietigde het gemeentelijk RUP 'Sportlaan - Sint-Aarnoutstraat' van Zedelgem omdat de plan-MER-screening geen zorgvuldige planologische toets bevatte. De plannende overheid moet de nieuwe voorschriften vergelijken met de bestaande gewestplanvoorschriften, met inbegrip van het esthetische criterium voor landschappelijk waardevol agrarisch gebied.",
+    "Het arrest betreft plannende overheden die een gemeentelijk ruimtelijk uitvoeringsplan (RUP) vrijstellen van een plan-MER op grond van artikel 4.2.3, § 3 van het decreet algemene bepalingen milieubeleid (DABM). Voor een plan dat het gebruik van een klein gebied op lokaal niveau bepaalt, moet de screening aantonen dat er geen aanzienlijke milieueffecten mogelijk zijn. Daartoe moet per zone eerst een planologische toets gebeuren: een vergelijking van de bestaande en de ontworpen verordenende voorschriften, los van de huidige feitelijke bestemming. Wanneer het plan landschappelijk waardevol agrarisch gebied uit het gewestplan herbestemt, moet de overheid onderzoeken hoe de nieuwe voorschriften zich verhouden tot het esthetische criterium van artikel 15, 4.6.1 van het koninklijk besluit van 28 december 1972; die plicht rust niet enkel op de vergunningverlenende overheid. De Raad oordeelde dat de scopingnota enkel van de feitelijke toestand uitging, ervan abstractie maakte dat de nieuwe woonzones en de projectzone grotendeels in landschappelijk waardevol agrarisch gebied liggen, en het effect op het landschap en op het visueel beeld van de open ruimte niet zorgvuldig onderzocht. Het voorschrift over afsluitingen waarnaar de gemeente verwees, bleek eerder in tegenspraak met dat visueel beeld. Bevinden de percelen zich in een bijzondere feitelijke situatie, zoals bij waardevolle natuurelementen, dan is ook een feitelijke toets nodig. De Raad vernietigde het gemeenteraadsbesluit van 23 november 2023, veroordeelde de gemeente in de kosten en beval bekendmaking bij uittreksel op dezelfde wijze als het vernietigde besluit."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le PRU de Zedelgem: le screening plan-MER doit tenir compte des règles paysagères du plan de secteur",
+    "Le Conseil d'État a annulé le plan d'exécution spatial communal « Sportlaan - Sint-Aarnoutstraat » de Zedelgem, faute d'un test planologique soigneux dans le screening plan-MER. L'autorité planificatrice doit comparer les nouvelles prescriptions avec celles du plan de secteur, y compris le critère esthétique applicable aux zones agricoles de valeur paysagère.",
+    "L'arrêt concerne les autorités planificatrices qui dispensent un plan d'exécution spatial communal (RUP) d'un plan-MER sur la base de l'article 4.2.3, § 3 du décret flamand portant dispositions générales en matière de politique de l'environnement (DABM). Pour un plan qui détermine l'utilisation d'une petite zone au niveau local, le screening doit démontrer l'absence d'incidences notables possibles sur l'environnement. Il faut d'abord procéder, zone par zone, à un test planologique: comparer les prescriptions réglementaires existantes et projetées, indépendamment de l'affectation factuelle actuelle. Lorsque le plan réaffecte une zone agricole de valeur paysagère du plan de secteur, l'autorité doit examiner comment les nouvelles prescriptions se situent par rapport au critère esthétique de l'article 15, 4.6.1 de l'arrêté royal du 28 décembre 1972; cette obligation ne pèse pas seulement sur l'autorité délivrant les permis. Le Conseil a jugé que la note de cadrage se fondait uniquement sur la situation factuelle, faisait abstraction de ce que les nouvelles zones d'habitat et la zone de projet se situent en grande partie en zone agricole de valeur paysagère, et n'examinait pas soigneusement l'effet sur le paysage et sur l'image visuelle de l'espace ouvert. La prescription relative aux clôtures invoquée par la commune semble plutôt contraire à cette image. Si les parcelles se trouvent dans une situation factuelle particulière, par exemple en présence d'éléments naturels de valeur, un test factuel est également requis. Le Conseil a annulé la décision du conseil communal du 23 novembre 2023, condamné la commune aux dépens et ordonné la publication d'un extrait de l'arrêt de la même manière que la décision annulée."
+   ],
+   "scope": "Raad van State, arrest nr. 267.385 van 13 juli 2026: gemeentelijk RUP 'Sportlaan - Sint-Aarnoutstraat' (Zedelgem); art. 4.2.3, § 3 DABM (plan-MER-screening) en art. 15, 4.6.1 inrichtingsbesluit",
+   "dates": {
+    "adopted": "2026-07-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267385. 1. Het beroep, ingesteld op 18 maart 2024, strekt tot de nietigverklaring van het besluit van de gemeente",
+     "https://www.raadvst-consetat.be/arresten/267385"
+    ]
+   ],
+   "inbox": [
+    "rvs:267385"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
