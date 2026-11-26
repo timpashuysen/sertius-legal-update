@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:23:08Z",
+ "updated": "2026-11-26T00:36:09Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -42020,6 +42020,128 @@
    ],
    "inbox": [
     "rvs:266910"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-266986",
+   "d": "2026-06-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: permits must follow the municipal development scheme in force when the authority decides",
+   "a": "The Council of State annulled a Walloon urban planning permit because the communal college applied the former municipal development scheme (SDC) instead of the revised one in force when it decided. The transitional rule of Article D.IV.110 CoDT covers only changes to the CoDT legislation, not the SDC.",
+   "b": "The ruling concerns applicants for urban planning permits in Wallonia and the authorities deciding on them, where a municipal development scheme (SDC) is revised while an application is being processed. The college had refused to apply the revised SDC, which entered into force on 6 March 2024, because the application was filed on 15 February 2024, before that date; the acknowledgement of a complete application is dated 17 April 2024 and the decision 2 September 2024. The Council of State recalls that under Article D.II.16 CoDT the SDC applies to permits, which may only be granted in compliance with it. Article D.IV.110 CoDT, which keeps pending applications under the rules in force at the date of the receipt, is a derogation that is interpreted restrictively. It governs the effect of changes to the CoDT provisions on pending procedures and does not cover other rules such as the SDC. Absent another transitional provision, the principle tempus regit actum applies, so the authority had to apply the SDC in force when it ruled, and the choice of a pivot date (filing receipt or complete-file acknowledgement) is irrelevant. By holding that the revised SDC did not apply, the college made an error of law; the permit decision of 2 September 2024 is annulled and the other grounds are not examined. The Court also disregarded the municipality's late reply memorandum under Article 21, paragraph 6, of the coordinated Council of State laws.",
+   "nl": [
+    "Raad van State: vergunning moet het gemeentelijk ontwikkelingsschema volgen dat geldt op het ogenblik van de beslissing",
+    "De Raad van State vernietigde een Waalse stedenbouwkundige vergunning omdat het gemeentecollege het vroegere gemeentelijk ontwikkelingsschema (SDC) toepaste in plaats van het herziene schema dat gold toen het besliste. De overgangsregel van artikel D.IV.110 CoDT geldt enkel voor wijzigingen van de CoDT-wetgeving, niet voor het SDC.",
+    "Het arrest betreft aanvragers van stedenbouwkundige vergunningen in Wallonië en de overheden die erover beslissen, wanneer een gemeentelijk ontwikkelingsschema (SDC) wordt herzien terwijl een aanvraag in behandeling is. Het college weigerde het herziene SDC, dat op 6 maart 2024 in werking trad, toe te passen omdat de aanvraag op 15 februari 2024 was ingediend, dus vóór die datum; de ontvangstmelding van de volledige aanvraag dateert van 17 april 2024 en de beslissing van 2 september 2024. De Raad van State herinnert eraan dat het SDC krachtens artikel D.II.16 CoDT van toepassing is op vergunningen, die alleen met inachtneming ervan kunnen worden verleend. Artikel D.IV.110 CoDT, dat hangende aanvragen onderwerpt aan de regels die gelden op de datum van het ontvangstbewijs, is een afwijking en wordt restrictief uitgelegd. Het regelt de weerslag van wijzigingen van de CoDT-bepalingen op lopende procedures en slaat niet op andere regels, zoals het SDC. Bij gebrek aan een andere overgangsbepaling geldt het beginsel tempus regit actum: de overheid moest het SDC toepassen dat gold toen zij besliste, en de keuze van een spilgegeven (ontvangst van het dossier of van de volledigheidsmelding) is irrelevant. Door te oordelen dat het herziene SDC niet van toepassing was, beging het college een rechtsdwaling; de vergunningsbeslissing van 2 september 2024 wordt vernietigd en de overige middelen worden niet onderzocht. De Raad weerde ook de laattijdige antwoordnota van de gemeente op grond van artikel 21, zesde lid, van de gecoördineerde wetten op de Raad van State."
+   ],
+   "fr": [
+    "Conseil d'État : le permis doit respecter le schéma de développement communal en vigueur au moment de la décision",
+    "Le Conseil d'État a annulé un permis d'urbanisme wallon parce que le collège communal a appliqué l'ancien schéma de développement communal (SDC) au lieu du schéma révisé en vigueur au moment où il a statué. La disposition transitoire de l'article D.IV.110 du CoDT ne vise que les modifications de la législation du CoDT, pas le SDC.",
+    "L'arrêt concerne les demandeurs de permis d'urbanisme en Wallonie et les autorités qui statuent, lorsqu'un schéma de développement communal (SDC) est révisé pendant l'instruction d'une demande. Le collège avait écarté le SDC révisé, entré en vigueur le 6 mars 2024, au motif que la demande avait été déposée le 15 février 2024, donc avant cette date ; l'accusé de réception de la demande complète date du 17 avril 2024 et la décision du 2 septembre 2024. Le Conseil d'État rappelle qu'en vertu de l'article D.II.16 du CoDT, le SDC s'applique aux permis, qui ne peuvent être délivrés qu'en respectant son contenu. L'article D.IV.110 du CoDT, qui soumet les demandes en cours aux dispositions en vigueur à la date du récépissé ou de l'accusé de réception, est une dérogation d'interprétation restrictive. Il règle l'effet des modifications des dispositions du CoDT sur les procédures en cours et ne vise pas d'autres règles, comme celles du SDC. À défaut d'autre disposition transitoire, l'adage tempus regit actum s'applique : l'autorité devait appliquer le SDC en vigueur au moment où elle statuait, et le choix d'une date pivot (récépissé de dépôt ou accusé de réception de la demande complète) est sans pertinence. En jugeant le SDC révisé inapplicable, le collège a commis une erreur de droit ; la décision de permis du 2 septembre 2024 est annulée et les autres moyens ne sont pas examinés. Le Conseil a aussi écarté le mémoire en réponse tardif de la commune, en application de l'article 21, alinéa 6, des lois coordonnées sur le Conseil d'État."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. D.II.16, §§ 1 et 4, et art. D.IV.110, al. 1er : application du schéma de développement communal aux demandes de permis d'urbanisme en cours",
+   "dates": {
+    "adopted": "2026-06-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266986. Par une requête introduite le 25 octobre 2024, la partie requérante demande, d’une part, l’annulation de ",
+     "https://www.raadvst-consetat.be/arresten/266986"
+    ]
+   ],
+   "inbox": [
+    "rvs:266986"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-266950",
+   "d": "2026-06-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "environmental-law"
+   ],
+   "h": "Council of State annuls Haacht spatial implementation plan 'Gerzevien' over councillors' conflict of interest",
+   "a": "The Council of State annulled the Haacht municipal spatial implementation plan 'Gerzevien' because three councillors living in the plan area took part in the final vote. It held that Article 27 of the Local Government Decree required them to abstain, and that a repair decision under Article 38 of the Council of State Act was not available.",
+   "b": "The ruling concerns municipal spatial implementation plans (RUPs) and the rule that bars a councillor from deliberating and voting on matters in which they have a direct interest (Article 27, §1, 1° of the Local Government Decree of 22 December 2017). The Council of State held that the three councillors, whose homes lie in the plan area, had a direct personal interest. The plan's urban-planning provisions determine the development potential and value of their properties, and the final plan dropped the path beside one councillor's home. It is enough that the circumstances make a mixing of interests plausible; actual benefit, or a benefit different from that of other owners in the zone, need not be shown. A breach of the abstention rule affects the validity of the deliberation and vote even if the councillors voted with their party and the outcome would have been the same without them. The Council also held that the rule concerns the lawful composition of the municipal council and public order, so the applicants' interest in the plea could not be contested. The request to repair the defect under Article 38 of the Council of State Act was refused, because municipal RUPs are not among the disputes designated in Article 65/1 of the general procedural regulations. The plan adopted on 29 April 2024 is annulled, the judgment must be published by extract in the same way as the annulled decision, and the costs fall on the municipality.",
+   "nl": [
+    "Raad van State vernietigt GRUP 'Gerzevien' van Haacht wegens belangenconflict van gemeenteraadsleden",
+    "De Raad van State vernietigde het gemeentelijk RUP 'Gerzevien' van Haacht omdat drie gemeenteraadsleden die in het plangebied wonen aan de definitieve stemming deelnamen. Zij hadden zich krachtens artikel 27 van het decreet lokaal bestuur moeten onthouden, en een herstelbeslissing op grond van artikel 38 RvS-wet was niet mogelijk.",
+    "Het arrest betreft gemeentelijke ruimtelijke uitvoeringsplannen (RUP's) en het verbod voor een gemeenteraadslid om deel te nemen aan de bespreking en stemming over aangelegenheden waarbij hij een rechtstreeks belang heeft (artikel 27, § 1, 1° van het decreet van 22 december 2017 over het lokaal bestuur). De Raad van State oordeelde dat de drie gemeenteraadsleden, wier woningen in het plangebied liggen, een rechtstreeks en persoonlijk belang hadden. De stedenbouwkundige voorschriften bepalen de ontwikkelingsmogelijkheden en de waarde van hun eigendom, en het definitieve plan schrapte het pad naast de woning van één van hen. Het volstaat dat de omstandigheden een belangenvermenging aannemelijk maken; een werkelijk voordeel, of een voordeel dat verschilt van dat van andere eigenaars in dezelfde zone, hoeft niet te worden aangetoond. Een schending van het onthoudingsverbod tast de geldigheid van de beraadslaging en stemming aan, ook als de raadsleden met hun partij meestemden en de uitkomst dezelfde zou zijn geweest. De Raad oordeelde ook dat de regel de wettige samenstelling van de gemeenteraad en de openbare orde raakt, zodat het belang van de verzoekers bij het middel niet kon worden betwist. Het verzoek om een gebrek te herstellen op grond van artikel 38 RvS-wet werd geweigerd, omdat gemeentelijke RUP's niet behoren tot de geschillen die artikel 65/1 van het algemeen procedurereglement aanwijst. Het besluit van 29 april 2024 is vernietigd, het arrest moet bij uittreksel worden bekendgemaakt op dezelfde wijze als het vernietigde besluit, en de kosten komen ten laste van de gemeente."
+   ],
+   "fr": [
+    "Le Conseil d'État annule le PRU communal 'Gerzevien' de Haacht pour conflit d'intérêts de conseillers communaux",
+    "Le Conseil d'État a annulé le plan d'exécution spatial communal 'Gerzevien' de Haacht, car trois conseillers communaux habitant dans le périmètre du plan ont participé au vote définitif. Ils auraient dû s'abstenir en vertu de l'article 27 du décret sur l'administration locale, et une décision de réparation fondée sur l'article 38 des lois coordonnées sur le Conseil d'État n'était pas possible.",
+    "L'arrêt concerne les plans d'exécution spatiaux communaux (RUP) et l'interdiction faite à un conseiller communal de participer à la discussion et au vote sur les affaires dans lesquelles il a un intérêt direct (article 27, § 1er, 1° du décret du 22 décembre 2017 sur l'administration locale). Le Conseil d'État a jugé que les trois conseillers, dont les habitations se situent dans le périmètre du plan, avaient un intérêt direct et personnel. Les prescriptions urbanistiques déterminent les possibilités de développement et la valeur de leurs biens, et le plan définitif a supprimé le sentier situé à côté de l'habitation de l'un d'eux. Il suffit que les circonstances rendent plausible une confusion d'intérêts; un avantage réel, ou un avantage différent de celui des autres propriétaires de la même zone, ne doit pas être démontré. La violation de l'obligation d'abstention affecte la validité de la délibération et du vote, même si les conseillers ont voté avec leur parti et que le résultat aurait été identique sans eux. Le Conseil a aussi jugé que la règle touche à la composition légale du conseil communal et à l'ordre public, de sorte que l'intérêt des requérants au moyen ne pouvait être contesté. La demande de réparer le vice sur la base de l'article 38 des lois coordonnées a été refusée, car les RUP communaux ne figurent pas parmi les litiges désignés à l'article 65/1 du règlement général de procédure. La décision du 29 avril 2024 est annulée, l'arrêt doit être publié par extrait de la même manière que la décision annulée, et les dépens sont à charge de la commune."
+   ],
+   "scope": "Raad van State, arrest nr. 266.950 van 9 juni 2026: artikel 27, § 1, 1° decreet lokaal bestuur; artikel 38 RvS-wet; artikel 65/1 algemeen procedurereglement; GRUP 'Gerzevien' (Haacht)",
+   "dates": {
+    "adopted": "2026-06-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266950. 1. Het beroep, ingesteld op 6 augustus 2024, strekt tot de nietigverklaring van het besluit van de gemeen",
+     "https://www.raadvst-consetat.be/arresten/266950"
+    ]
+   ],
+   "inbox": [
+    "rvs:266950"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-26"
+  },
+  {
+   "id": "d-rvs-266947",
+   "d": "2026-06-09",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "soil",
+    "environmental-law"
+   ],
+   "h": "Council of State: no soil remediation exemption where pollution source unknown but operator's activities may be linked",
+   "a": "The Council of State dismissed an appeal against a Flemish ministerial decision refusing a company exemption from soil remediation duties under Article 23 of the Soil Decree. It held that, where the source is unknown and the operator's activities could have caused the pollution, refusing exemption is not unreasonable.",
+   "b": "The ruling concerns operators (and their legal predecessors) of polluted land in Flanders who ask OVAM for exemption from the duty to carry out a descriptive soil survey or remediation under Article 23, §§ 1 and 3 of the Soil Decree. Where surveys have not identified the exact source, but the operator's or predecessor's activities can be linked to the pollution because products capable of causing it were presumably used, the authority may reasonably find that the operator did not meet the condition of not having caused it. The fact that the pollution can also be linked to earlier activities does not oblige the authority to reach the opposite conclusion. To find that pollution arose before the operator took over, or to grant a partial exemption under Article 23, § 1, second paragraph, there must be clear indications that it arose before that moment, and these are missing while the source is not known with sufficient probability. The same assessment applies to the operator (§ 1) and to its legal predecessor (§ 3), the latter meaning only legal entities linked by legal succession. A refusal at the stage of the demand for a descriptive survey is not necessarily final: the operator may submit a new exemption request once that survey provides further information. The Council also held that the 90-day period for deciding an administrative appeal under Article 155, § 2 is only an indicative period, though a reasonable period applies and its overrun means the authority loses its power to decide. An applicant has no interest in a plea on this point, since annulment on that ground would make the OVAM refusal final. The appeal was dismissed on 9 June 2026.",
+   "nl": [
+    "Raad van State: geen vrijstelling saneringsplicht bij onbekende bron als activiteiten van exploitant erbij aansluiten",
+    "De Raad van State verwierp het beroep tegen een Vlaams ministerieel besluit dat een bedrijf geen vrijstelling van saneringsplicht verleende op grond van artikel 23 van het Bodemdecreet. Wanneer de bron onbekend is en de activiteiten van de exploitant de verontreiniging kunnen hebben veroorzaakt, is de weigering van vrijstelling niet onredelijk.",
+    "Het arrest betreft exploitanten (en hun rechtsvoorgangers) van verontreinigde gronden in Vlaanderen die bij OVAM vrijstelling vragen van de plicht tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering op grond van artikel 23, § 1 en § 3 van het Bodemdecreet. Wanneer uit onderzoeken de exacte bron niet blijkt, maar de activiteiten van de exploitant of zijn rechtsvoorganger met de verontreiniging in verband kunnen worden gebracht omdat naar alle waarschijnlijkheid producten werden gebruikt die ze kunnen veroorzaken, kan het bestuur redelijkerwijs oordelen dat de exploitant niet voldoet aan de voorwaarde dat hij de verontreiniging niet zelf heeft veroorzaakt. Dat de verontreiniging ook met oudere activiteiten kan worden gelinkt, verplicht het bestuur niet tot een andere conclusie. Om te oordelen dat de verontreiniging dateert van vóór de overname, of om een gedeeltelijke vrijstelling te verlenen op grond van artikel 23, § 1, tweede lid, zijn duidelijke aanwijzingen nodig dat ze vóór dat tijdstip is ontstaan; die ontbreken zolang de bron niet met voldoende waarschijnlijkheid bekend is. Dezelfde beoordeling geldt voor de exploitant (§ 1) en voor zijn rechtsvoorganger (§ 3), waarbij enkel rechtspersonen worden bedoeld die door wettelijke rechtsopvolging verbonden zijn. Een weigering bij de aanmaning tot beschrijvend bodemonderzoek is niet noodzakelijk definitief: na dat onderzoek kan een nieuwe aanvraag worden ingediend. De Raad oordeelde ook dat de termijn van 90 dagen in artikel 155, § 2 een termijn van orde is, maar dat een redelijke termijn geldt waarvan de overschrijding tot verlies van bevoegdheid leidt. De verzoeker heeft geen belang bij een middel hierover, aangezien vernietiging daarop de weigering van OVAM definitief zou maken. Het beroep werd op 9 juni 2026 verworpen."
+   ],
+   "fr": [
+    "Conseil d'État : pas d'exemption d'assainissement si la source est inconnue et que les activités de l'exploitant peuvent être en cause",
+    "Le Conseil d'État a rejeté le recours contre un arrêté ministériel flamand refusant à une société l'exemption de l'obligation d'assainissement prévue à l'article 23 du décret sur le sol. Lorsque la source est inconnue et que les activités de l'exploitant peuvent avoir causé la pollution, refuser l'exemption n'est pas déraisonnable.",
+    "L'arrêt concerne les exploitants (et leurs prédécesseurs en droit) de terrains pollués en Flandre qui demandent à l'OVAM d'être exemptés de l'obligation de réaliser une étude de sol descriptive ou un assainissement du sol en vertu de l'article 23, §§ 1er et 3 du décret sur le sol (Bodemdecreet). Lorsque les études n'ont pas permis d'identifier la source exacte, mais que les activités de l'exploitant ou de son prédécesseur peuvent être liées à la pollution parce que l'on peut admettre que des produits susceptibles de la causer ont été utilisés, l'autorité peut raisonnablement considérer que l'exploitant ne remplit pas la condition de ne pas avoir lui-même causé la pollution. Le fait que la pollution puisse aussi être liée à des activités antérieures n'oblige pas l'autorité à conclure autrement. Pour juger que la pollution est antérieure à la reprise de l'exploitation, ou pour accorder une exemption partielle au titre de l'article 23, § 1er, alinéa 2, il faut des indications claires qu'elle est apparue avant ce moment ; elles font défaut tant que la source n'est pas connue avec un degré suffisant de probabilité. La même appréciation vaut pour l'exploitant (§ 1er) et pour son prédécesseur en droit (§ 3), notion qui vise uniquement les personnes morales liées par une succession légale. Un refus au stade de la mise en demeure de réaliser l'étude descriptive n'est pas nécessairement définitif : une nouvelle demande peut être introduite après cette étude. Le Conseil a aussi jugé que le délai de 90 jours de l'article 155, § 2 est un délai d'ordre, mais qu'un délai raisonnable s'applique et que son dépassement entraîne la perte du pouvoir de statuer. Le requérant n'a pas d'intérêt à un moyen sur ce point, puisque l'annulation rendrait définitif le refus de l'OVAM. Le recours a été rejeté le 9 juin 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 266.947 van 9 juni 2026 – artikel 23, § 1 en § 3, en artikel 155, § 2 Bodemdecreet van 27 oktober 2006",
+   "dates": {
+    "adopted": "2026-06-09"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 266947. 1. Het beroep, ingesteld op 14 februari 2025, strek t tot de nietigverklaring van het ministerieel beslui",
+     "https://www.raadvst-consetat.be/arresten/266947"
+    ]
+   ],
+   "inbox": [
+    "rvs:266947"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-26"
