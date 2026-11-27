@@ -89867,37 +89867,258 @@
 "reason": "Urgent suspension of one zoo recognition withdrawal for inadequate reasoning and careless fact-finding; applies settled principles, no new general rule.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"rvs:268343": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"energy-climate",
+"permitting"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to Ventilus RUP; applies settled principles on reasons, late pleas, and watertoets without new interpretation or annulment of general instrument.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268342": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against the Ventilus gewestelijk RUP is rejected; all pleas unfounded. Court applies settled principles (overdruk, equality, precaution) without announcing a new interpretation or annulling any",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268341": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Application of settled principles: the petition is rejected on reasoning, care and reasonableness of a route choice for one RUP; no new or general interpretation of a provision.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268340": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Upholds the Ventilus GRUP; applies settled legal-certainty and optional-mention principles to facts. No annulment and no new general rule on the provisions.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268339": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Application of settled principles: the Council rejects all pleas on the Ventilus RUP, restating established case law on plan objectives, MER coordinator independence and competence; no new general int",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268338": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Court rejects appeal against Ventilus RUP; pleas fail on settled principles (reasons, late pleading, MER coordinator independence, watertoets application). No new general interpretation.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268337": {
+"v": 4,
+"rv": 2,
+"verdict": "relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"environmental-law",
+"permitting",
+"energy-climate"
+],
+"ground": "B",
+"provision": "Art. 4.2.8, §1bis, 6° DABM (reasonable alternatives in plan-MER); RSV standstill principle for overhead high-voltage network",
+"reason": "Council of State rules that only realistic alternatives fitting the policy timeframe (FOP 2030) are 'reasonable' for a plan-MER, and reads the RSV standstill as a net length comparison against 1997.",
+"confidence": "medium",
+"at": "2026-11-27",
+"written": "d-rvs-268337"
+},
+"rvs:268335": {
+"v": 4,
+"rv": 2,
+"verdict": "relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate",
+"environmental-law"
+],
+"ground": "B",
+"provision": "Articles 6.2 and 7.2 of the stedenbouwkundige voorschriften of the gewestelijk RUP 'Ventilus' (0.4 microtesla contour); art. 4.3.1 §2 1° VCRO",
+"reason": "Council interprets the RUP's siting rules: the 0.4 µT contour map is a binding maximum for permits; the gelijkheid voor openbare lasten principle is not a ground for annulment. RUP upheld.",
+"confidence": "medium",
+"at": "2026-11-27",
+"written": "d-rvs-268335"
+},
+"rvs:268334": {
+"v": 4,
+"rv": 2,
+"verdict": "relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate",
+"environmental-law"
+],
+"ground": "B",
+"provision": "Articles 6.2 and 7.2 of the stedenbouwkundige voorschriften of the GRUP 'Ventilus'",
+"reason": "Council of State interprets the GRUP's siting rules: the maximum 0.4 microtesla contour on the contour maps is binding, so permits for Ventilus with a wider contour deviate from the plan.",
+"confidence": "medium",
+"at": "2026-11-27",
+"written": "d-rvs-268334"
+},
+"rvs:268332": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to RUP Ventilus; applies settled principles on reasoning, alternatives, equality and safety assessment; no new general interpretation.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268331": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against the Ventilus GRUP is rejected. The court applies settled principles on planning discretion, reasonableness and legal certainty, and annuls nothing. Reading the symbolic overprint via th",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268330": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects appeal against a spatial plan; the middle fails on admissibility for vagueness, applying settled pleading requirements. No new general rule.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"rvs:268329": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against the Ventilus RUP is rejected. The court applies settled principles on reasonable alternatives (art. 4.2.8 DABM) and flexible planning provisions, so no annulment and nothing new of gene",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268328": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to GRUP Ventilus; applies settled principles on reasons and maximum-contour reading of plan provisions 6.2/7.2; no new general rule.",
+"confidence": "medium",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8683,
-"assessed": 8683,
+"in_scope": 8697,
+"assessed": 8697,
 "waiting": 0,
-"relevant": 661,
-"not_relevant": 7696,
+"relevant": 664,
+"not_relevant": 7707,
 "excluded_by_rule": 326,
-"this_run": 0,
+"this_run": 14,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 20,
+"input_tokens": 266333,
+"output_tokens": 7162,
+"usd": 0.1913
 },
 "key_present": true,
 "updated": "2026-11-27",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 0,
+"this_run": 3,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 3,
+"input_tokens": 40966,
+"output_tokens": 10607,
+"usd": 0.188
 },
 "updated": "2026-11-27"
 },
