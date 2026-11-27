@@ -90185,12 +90185,12 @@
 "relevant": 664,
 "not_relevant": 7713,
 "excluded_by_rule": 326,
-"this_run": 1,
+"this_run": 0,
 "api": {
-"calls": 1,
-"input_tokens": 12076,
-"output_tokens": 335,
-"usd": 0.0014
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "key_present": true,
 "updated": "2026-11-27",

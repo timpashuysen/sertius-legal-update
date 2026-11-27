@@ -1,16 +1,16 @@
 {
- "ran": "2026-11-27T03:41:29+00:00",
+ "ran": "2026-11-27T03:51:53+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
-   "matched": 894,
+   "matched": 896,
    "backfilled_to": "2026-11-01",
-   "seconds": 102.3
+   "seconds": 41.1
   },
   "gwh": {
    "ok": false,
    "error": "NameError(\"name 'f' is not defined\")",
-   "seconds": 5.7
+   "seconds": 11.3
   },
   "codex": {
    "ok": true,
@@ -18,28 +18,28 @@
    "read": 4000,
    "matched": 2684,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 24.2
+   "seconds": 31.4
   },
   "wallex": {
    "ok": true,
    "probed": 180,
    "matched": 0,
-   "errors": 0,
+   "errors": 25,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 22.1
+   "seconds": 168.9
   },
   "staatsblad": {
    "ok": true,
    "matched": 16,
    "read": 16,
    "backfilled_to": "2026-11-27",
-   "seconds": 8.1
+   "seconds": 10.3
   },
   "council": {
    "ok": true,
    "matched": 0,
-   "seconds": 0.0
+   "seconds": 0.2
   },
   "rvvb": {
    "ok": true,
@@ -53,29 +53,29 @@
     "finished": true,
     "updated": "2026-11-23T01:32:04Z"
    },
-   "seconds": 0.1
+   "seconds": 0.2
   },
   "rvs": {
    "ok": true,
-   "new": 1,
+   "new": 0,
    "kept": 2293,
    "summary": {
-    "next": 268443,
+    "next": 268459,
     "read": 2752,
     "kept": 2293,
     "caught_up": false,
     "blocked": false,
-    "skipped": 5,
-    "last_error": "",
-    "updated": "2026-11-27T03:41:29Z"
+    "skipped": 6,
+    "last_error": "<urlopen error timed out> at 268455",
+    "updated": "2026-11-27T03:51:53Z"
    },
-   "seconds": 0.8
+   "seconds": 1.2
   },
   "cass": {
    "ok": true,
    "listed": 145,
    "new": 0,
-   "seconds": 1.1
+   "seconds": 1.4
   },
   "editorial": {
    "ok": true,
@@ -83,7 +83,7 @@
    "reachable": 7,
    "articles": 4,
    "new": 0,
-   "seconds": 14.9
+   "seconds": 25.6
   }
  },
  "not_collected": {
@@ -122,7 +122,7 @@
  "texts_on_file": 5709,
  "backlog": false,
  "items_total": 12397,
- "items_new": 1,
+ "items_new": 0,
  "items_by_source": {
   "eurlex": 4654,
   "codex": 2684,
