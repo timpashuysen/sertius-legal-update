@@ -90175,22 +90175,87 @@
 "reason": "Municipal accounts tutelle under the Brussels 1998 ordinance, not environmental, planning or permit law; the interpretation of article 15 §3 is only prima facie in référé.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"eu:32025R0040R(08)": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"circular-products"
+],
+"reason": "Corrigendum to the Packaging and Packaging Waste Regulation, a relevant act.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"eu:32026D2611": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Harmonised product safety standards for gas cooking appliances; not an environmental topic.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"eu:32026L2610": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Road infrastructure charging for heavy vehicles; falls under vehicle and road rules, not the listed topics.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"eu:32026D2602": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Renewal of an individual GMO product authorisation for feed and food.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"eu:32026D2642": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "EU military operation mandate; defence, outside environmental compliance.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"eu:62024CJ0420_SUM": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Working time ruling under the social directive; not an environmental topic.",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"eu:32026R2534": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Tuna and fisheries conservation measures; fisheries quotas are excluded.",
+"confidence": "high",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8703,
-"assessed": 8703,
+"in_scope": 8710,
+"assessed": 8710,
 "waiting": 0,
-"relevant": 664,
-"not_relevant": 7713,
+"relevant": 665,
+"not_relevant": 7719,
 "excluded_by_rule": 326,
-"this_run": 0,
+"this_run": 7,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 2155,
+"output_tokens": 1028,
+"usd": 0.0007
 },
 "key_present": true,
 "updated": "2026-11-27",
@@ -90200,7 +90265,7 @@
 "this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 71,
+"waiting": 72,
 "api": {
 "calls": 0,
 "input_tokens": 0,
