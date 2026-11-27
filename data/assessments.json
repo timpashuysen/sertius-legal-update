@@ -89877,12 +89877,12 @@
 "relevant": 661,
 "not_relevant": 7696,
 "excluded_by_rule": 326,
-"this_run": 27,
+"this_run": 0,
 "api": {
-"calls": 27,
-"input_tokens": 212954,
-"output_tokens": 4366,
-"usd": 0.0235
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "key_present": true,
 "updated": "2026-11-27",
