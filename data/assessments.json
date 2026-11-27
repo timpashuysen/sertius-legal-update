@@ -90162,22 +90162,35 @@
 "reason": "Dismisses challenge to RUP Ventilus; applies settled principles on standstill, plan-MER gaps, and reasoning; no new general interpretation.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"rvs:268442": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Municipal accounts tutelle under the Brussels 1998 ordinance, not environmental, planning or permit law; the interpretation of article 15 §3 is only prima facie in référé.",
+"confidence": "high",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8702,
-"assessed": 8702,
+"in_scope": 8703,
+"assessed": 8703,
 "waiting": 0,
 "relevant": 664,
-"not_relevant": 7712,
+"not_relevant": 7713,
 "excluded_by_rule": 326,
-"this_run": 5,
+"this_run": 1,
 "api": {
-"calls": 6,
-"input_tokens": 80077,
-"output_tokens": 2703,
-"usd": 0.0359
+"calls": 1,
+"input_tokens": 12076,
+"output_tokens": 335,
+"usd": 0.0014
 },
 "key_present": true,
 "updated": "2026-11-27",

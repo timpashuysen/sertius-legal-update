@@ -1,6 +1,6 @@
 {
-"next": 268392,
-"misses": 43,
+"next": 268443,
+"misses": 0,
 "kept": {
 "265318": {
 "d": "2026-01-05",
@@ -16045,22 +16045,29 @@
 "score": 9,
 "subject": "1. Het beroep, ingesteld o p 13 juli 2024 , strekt tot de nietigverklaring van het besluit van de Vlaamse regering van 22 maart 2024 houdende de definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan ‘Ventilus’. II. Verloop van de rechtspleging 2. Bij arrest nr. 261.334 van 13 november 2024 is de vordering tot de schorsing van de tenuitvoerlegging van het bestreden besluit verworpen en worden de ver",
 "lang": "nl"
+},
+"268442": {
+"d": "2026-11-23",
+"url": "https://www.raadvst-consetat.be/arresten/268442",
+"score": 0,
+"subject": "Par une requête introduite par la voie électronique le 30 septembre 2026, la partie requérante demande, d’une part, la suspen sion de l’exécution de « l’arrêté ministériel du 30 juillet 2026 désapprouvant la dél ibération du 25 mars 2026 du conseil communal de Saint-Josse-Ten-Noode approuvan t les comptes annuels de l’exercice de 2024 » et d’autre part, l’annulation de cet arrêté. II. Procédure Par une ordonnance du",
+"lang": "nl"
 }
 },
-"read": 2751,
+"read": 2752,
 "pattern": 0,
-"last_hit": 268348,
+"last_hit": 268442,
 "caught_up": false,
 "last_error": "",
 "summary": {
-"next": 268392,
-"read": 2751,
-"kept": 2292,
+"next": 268443,
+"read": 2752,
+"kept": 2293,
 "caught_up": false,
 "blocked": false,
 "skipped": 5,
 "last_error": "",
-"updated": "2026-11-27T03:30:24Z"
+"updated": "2026-11-27T03:41:29Z"
 },
 "blocked": false,
 "skipped": [
