@@ -90088,37 +90088,111 @@
 "reason": "Rejects challenge to GRUP Ventilus; applies settled principles on reasons and maximum-contour reading of plan provisions 6.2/7.2; no new general rule.",
 "confidence": "medium",
 "at": "2026-11-27"
+},
+"rvs:268348": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejects challenge to Ventilus RUP; applies settled principles (precautionary principle, reasons, planning discretion) to a specific plan, no new general interpretation of a provision.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268347": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"environmental-safety",
+"permitting"
+],
+"ground": "",
+"provision": "",
+"reason": "Rejects annulment of a RUP; the reading of its own articles 6.2 and 7.2 is case-specific and applies settled reasoning.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268346": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Case-specific reading of the Ventilus RUP's own prescriptions and contour map; reiterates settled rules on regulatory acts and motivation duty. No new general rule.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268345": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-sonnet-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Appeal against the Ventilus RUP is rejected. The court applies art. 4.2.8 §1bis, 6° DABM on 'reasonable alternatives' to the facts of this plan, with no annulment and no new interpretation.",
+"confidence": "medium",
+"at": "2026-11-27"
+},
+"rvs:268344": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [
+"permitting",
+"energy-climate"
+],
+"ground": "",
+"provision": "",
+"reason": "Dismisses challenge to RUP Ventilus; applies settled principles on standstill, plan-MER gaps, and reasoning; no new general interpretation.",
+"confidence": "high",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8697,
-"assessed": 8697,
+"in_scope": 8702,
+"assessed": 8702,
 "waiting": 0,
 "relevant": 664,
-"not_relevant": 7707,
+"not_relevant": 7712,
 "excluded_by_rule": 326,
-"this_run": 14,
+"this_run": 5,
 "api": {
-"calls": 20,
-"input_tokens": 266333,
-"output_tokens": 7162,
-"usd": 0.1913
+"calls": 6,
+"input_tokens": 80077,
+"output_tokens": 2703,
+"usd": 0.0359
 },
 "key_present": true,
 "updated": "2026-11-27",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 3,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 71,
 "api": {
-"calls": 3,
-"input_tokens": 40966,
-"output_tokens": 10607,
-"usd": 0.188
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-27"
 },
