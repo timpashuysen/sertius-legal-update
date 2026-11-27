@@ -35,10 +35,10 @@
 },
 "https://www.jubel.be/feed/": {
 "checked": "2026-11-27",
-"ok": false,
-"listed": 0,
+"ok": true,
+"listed": 12,
 "matched": 0,
-"error": "TimeoutError('The read operation timed out')",
+"how": "feed",
 "last_ok": "2026-11-27"
 },
 "https://www.lexgo.be": {
