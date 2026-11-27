@@ -90240,22 +90240,53 @@
 "reason": "Tuna and fisheries conservation measures; fisheries quotas are excluded.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"rvs:268475": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Suspension refused for lack of urgency on a civil-service regulation (high managers of the Walloon public service); not environmental, planning or permit law, and the urgency reasoning restates settle",
+"confidence": "high",
+"at": "2026-11-27"
+},
+"council:139339": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Council agenda forward look; title too vague to tell whether environmental files are included.",
+"confidence": "low",
+"at": "2026-11-27"
+},
+"eu:52026PC1053": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Excessive deficit procedure decision on Hungary's fiscal policy, not environmental rules.",
+"confidence": "high",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8710,
-"assessed": 8710,
+"in_scope": 8713,
+"assessed": 8713,
 "waiting": 0,
-"relevant": 665,
-"not_relevant": 7719,
+"relevant": 666,
+"not_relevant": 7721,
 "excluded_by_rule": 326,
-"this_run": 7,
+"this_run": 3,
 "api": {
-"calls": 1,
-"input_tokens": 2155,
-"output_tokens": 1028,
-"usd": 0.0007
+"calls": 2,
+"input_tokens": 8476,
+"output_tokens": 775,
+"usd": 0.0012
 },
 "key_present": true,
 "updated": "2026-11-27",
@@ -90265,7 +90296,7 @@
 "this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 72,
+"waiting": 73,
 "api": {
 "calls": 0,
 "input_tokens": 0,
