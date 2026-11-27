@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-27T23:20:29+00:00",
+ "ran": "2026-11-27T23:36:34+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 910,
    "backfilled_to": "2026-11-01",
-   "seconds": 161.5
+   "seconds": 77.2
   },
   "gwh": {
    "ok": false,
@@ -18,28 +18,28 @@
    "read": 4000,
    "matched": 2684,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 26.2
+   "seconds": 29.9
   },
   "wallex": {
    "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 44,
+   "errors": 47,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 252.8
+   "seconds": 277.9
   },
   "staatsblad": {
    "ok": true,
    "matched": 16,
    "read": 16,
    "backfilled_to": "2026-11-27",
-   "seconds": 9.1
+   "seconds": 9.8
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.4
+   "seconds": 0.5
   },
   "rvvb": {
    "ok": true,
@@ -60,30 +60,30 @@
    "new": 0,
    "kept": 2295,
    "summary": {
-    "next": 268499,
+    "next": 268509,
     "read": 2754,
     "kept": 2295,
     "caught_up": false,
     "blocked": false,
-    "skipped": 9,
-    "last_error": "<urlopen error timed out> at 268499",
-    "updated": "2026-11-27T23:20:29Z"
+    "skipped": 10,
+    "last_error": "<urlopen error timed out> at 268509",
+    "updated": "2026-11-27T23:36:34Z"
    },
-   "seconds": 0.6
+   "seconds": 0.7
   },
   "cass": {
    "ok": true,
    "listed": 145,
    "new": 0,
-   "seconds": 0.9
+   "seconds": 1.1
   },
   "editorial": {
    "ok": true,
    "sites": 7,
-   "reachable": 7,
+   "reachable": 6,
    "articles": 4,
    "new": 0,
-   "seconds": 18.1
+   "seconds": 40.5
   }
  },
  "not_collected": {
