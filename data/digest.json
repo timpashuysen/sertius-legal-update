@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:42:14Z",
+ "updated": "2026-11-27T00:54:50Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43486,6 +43486,88 @@
    ],
    "inbox": [
     "rvs:267995"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-268017",
+   "d": "2026-10-13",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: appeal period for objectors runs from the posting of the permit decision, not from Omgevingsloket notice",
+   "a": "In a cassation ruling, the Council of State held that under Article 54 of the Flemish Environmental Permit Decree, the 30-day administrative appeal period for an objector starts the day after the posting of the decision. Notification through the Omgevingsloket does not change this.",
+   "b": "The ruling concerns administrative appeals to the deputation against environmental permit decisions granted by the municipal executive in Flanders. Article 54, 1°, of the Environmental Permit Decree lets the 30-day period run from notification only for the persons and bodies to whom the decision must be notified. Those persons and bodies are the ones listed in Article 62 of the Environmental Permit Decision (applicant, appellant where relevant, supervising architect on request, and the listed bodies). Everyone else, including a person who objected during the public inquiry, falls under 'the other cases', for whom the period starts the day after the first day of posting (Article 54, 3°). The Council of State held that legal certainty requires these persons to be defined objectively in the regulations, not case by case by the permitting authority. If a decision is notified to a person who is not listed in Article 62, even though this is not required, the appeal period for that person still does not start with that notification. The Council rejected the cassation appeal against the Council for Permit Disputes' judgment of 27 March 2025. It also declared inadmissible the complaints on the reasoning duty, which asked for a re-assessment on the merits, and on the refusal to refer preliminary questions to the Constitutional Court, since the appellant raised no question for the Council itself to refer. The ruling is dated 13 October 2026.",
+   "nl": [
+    "Raad van State: beroepstermijn voor bezwaarindieners start bij aanplakking, niet bij kennisgeving via Omgevingsloket",
+    "In een cassatiearrest oordeelt de Raad van State dat de beroepstermijn van dertig dagen voor een bezwaarindiener op grond van artikel 54 van het omgevingsvergunningsdecreet ingaat de dag na de aanplakking van de beslissing. Een kennisgeving via het Omgevingsloket verandert daar niets aan.",
+    "Het arrest betreft het bestuurlijk beroep bij de deputatie tegen omgevingsvergunningen die in Vlaanderen door het college van burgemeester en schepenen zijn verleend. Artikel 54, 1°, van het omgevingsvergunningsdecreet laat de termijn van dertig dagen enkel ingaan met de betekening voor de personen en instanties aan wie de beslissing moet worden betekend. Dat zijn de personen en instanties opgesomd in artikel 62 van het omgevingsvergunningsbesluit (vergunningsaanvrager, in voorkomend geval de beroepsindiener, de toezichthoudend architect die erom verzoekt, en de vermelde instanties). Alle anderen, ook wie tijdens het openbaar onderzoek een bezwaar indiende, vallen onder 'de overige gevallen', voor wie de termijn ingaat de dag na de eerste dag van de aanplakking (artikel 54, 3°). Volgens de Raad vereist de rechtszekerheid dat deze personen objectief in de regelgeving worden omschreven en dat het vergunningverlenend bestuur dit niet geval per geval beslist. Wordt de beslissing, hoewel dit niet verplicht is, betekend aan een persoon die niet in artikel 62 is vermeld, dan gaat de beroepstermijn voor die persoon nog steeds niet met die betekening in. De Raad verwerpt het cassatieberoep tegen het arrest van de Raad voor Vergunningsbetwistingen van 27 maart 2025. Hij verklaart ook niet-ontvankelijk de kritiek over de motiveringsplicht, die neerkwam op een nieuwe beoordeling ten gronde, en over de weigering om prejudiciële vragen te stellen, aangezien de verzoeker geen vraag opwierp die de Raad zelf zou moeten stellen. Het arrest is gewezen op 13 oktober 2026."
+   ],
+   "fr": [
+    "Conseil d'État : le délai de recours des réclamants court à l'affichage, pas à la notification via l'Omgevingsloket",
+    "Dans un arrêt de cassation, le Conseil d'État juge que, selon l'article 54 du décret flamand relatif à l'autorisation environnementale, le délai de recours administratif de trente jours d'un réclamant commence le lendemain de l'affichage de la décision. Une notification via l'Omgevingsloket n'y change rien.",
+    "L'arrêt concerne les recours administratifs devant la députation contre les autorisations environnementales délivrées en Flandre par le collège des bourgmestre et échevins. L'article 54, 1°, du décret sur l'autorisation environnementale ne fait courir le délai de trente jours à partir de la signification que pour les personnes et instances auxquelles la décision doit être signifiée. Il s'agit de celles énumérées à l'article 62 de l'arrêté d'exécution (demandeur, le cas échéant l'auteur du recours, architecte chargé du contrôle qui en fait la demande, et les instances citées). Toutes les autres, y compris la personne ayant introduit une réclamation lors de l'enquête publique, relèvent des « autres cas », pour lesquels le délai commence le lendemain du premier jour d'affichage (article 54, 3°). Selon le Conseil, la sécurité juridique exige que ces personnes soient définies objectivement dans la réglementation et que l'autorité délivrante ne décide pas au cas par cas. Si la décision est signifiée, sans obligation, à une personne non mentionnée à l'article 62, le délai de recours de cette personne ne commence toujours pas à courir avec cette signification. Le Conseil rejette le pourvoi en cassation contre l'arrêt du Conseil pour les contestations des autorisations du 27 mars 2025. Il déclare aussi irrecevables les griefs relatifs à l'obligation de motivation, qui revenaient à demander un nouvel examen au fond, et au refus de poser des questions préjudicielles, la requérante n'ayant soulevé aucune question que le Conseil devrait lui-même poser. L'arrêt est daté du 13 octobre 2026."
+   ],
+   "scope": "Raad van State, arrest nr. 268.017 van 13 oktober 2026 – artikel 54 omgevingsvergunningsdecreet en artikel 62 omgevingsvergunningsbesluit (aanvang beroepstermijn bezwaarindieners)",
+   "dates": {
+    "adopted": "2026-10-13"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 268017. 1. Het cassatieberoep, ingesteld op 7 mei 2025, str ekt tot de nietigverklaring van arrest nr. RvVb-A-242",
+     "https://www.raadvst-consetat.be/arresten/268017"
+    ]
+   ],
+   "inbox": [
+    "rvs:268017"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-268001",
+   "d": "2026-10-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting",
+    "soil",
+    "environmental-law"
+   ],
+   "h": "Council of State clarifies general-interest derogation from sector plan for private backfill projects",
+   "a": "The Walloon Council of State annulled a refusal of a single permit to backfill a former quarry and landscape it as green space. It held that a private-law developer can rely on the general-interest derogation in Article D.IV.11 CoDT if the project is necessary to meet the population's needs and has a real collective dimension, without having to be open to all.",
+   "b": "The ruling concerns private-law project developers in Wallonia who seek a single permit with a derogation from the sector plan for 'constructions and equipment intended for activities with a general-interest purpose' (Art. D.IV.11 CoDT), and the technical and delegated officials who decide on such applications. The Council of State holds that recovering surplus excavated soil and inert waste in itself serves the environment and the community. For a private-law promoter, however, the project must be shown to be not merely useful but necessary to meet the population's living needs and to have a real collective dimension; both conditions are cumulative and cover only the constructions and equipment that meet them or are needed for the project to function. In this case the 1994 sector agreement between the Walloon Government and the construction federation on managing uncontaminated excavated soil showed necessity, and the planned green space with ponds, stone habitats and wooded areas gave the collective dimension. The Council rules that a requirement of accessibility to all applies to community facilities and cannot be imposed here, even though the municipality wanted the site fenced. It also holds that a project may fall under Article D.IV.11 on more than one ground, so a finding that it is not a public-utility work under Article R.IV.22-2 CoDT is not in itself a decisive ground for refusal. The refusal of 30 October 2019 is annulled and the rest of the application is dismissed. The ruling was delivered on 12 October 2026.",
+   "nl": [
+    "Raad van State verduidelijkt afwijking van het gewestplan voor algemeen belang bij private aanvullingsprojecten",
+    "De Raad van State vernietigde de weigering van een unieke vergunning voor het aanvullen van een voormalige groeve en de herinrichting ervan als groene zone. Een privaatrechtelijke initiatiefnemer kan zich op de afwijking voor het algemeen belang van artikel D.IV.11 CoDT beroepen als het project noodzakelijk is voor de behoeften van de bevolking en een echte collectieve dimensie heeft, zonder dat het voor iedereen toegankelijk hoeft te zijn.",
+    "De uitspraak betreft privaatrechtelijke projectontwikkelaars in Wallonië die een unieke vergunning aanvragen met een afwijking van het gewestplan voor 'constructies en uitrustingen bestemd voor activiteiten met een doel van algemeen belang' (art. D.IV.11 CoDT), en de technische en gemachtigde ambtenaren die over zulke aanvragen beslissen. De Raad van State oordeelt dat de valorisatie van overtollige uitgegraven gronden en inerte afvalstoffen op zich nuttig is voor het leefmilieu en de gemeenschap. Voor een privaatrechtelijke initiatiefnemer moet het project echter niet alleen nuttig, maar noodzakelijk zijn om aan de levensbehoeften van de bevolking te voldoen en moet het een echte collectieve dimensie hebben; beide voorwaarden zijn cumulatief en dekken enkel de constructies en uitrustingen die eraan voldoen of nodig zijn voor de goede werking van het project. Hier toonde het brancheakkoord van 1994 tussen de Waalse Regering en de Waalse bouwconfederatie over het beheer van niet-verontreinigde uitgegraven gronden de noodzaak aan, en gaf de geplande groene zone met poelen, stenige habitats en beboste zones de collectieve dimensie. Een vereiste van toegankelijkheid voor iedereen geldt voor gemeenschapsvoorzieningen en kan hier niet worden opgelegd, ook al wilde de gemeente de site afsluiten. Een project kan bovendien op meer dan één grond onder artikel D.IV.11 vallen, zodat de vaststelling dat het geen werk van openbaar nut is in de zin van artikel R.IV.22-2 CoDT op zich geen beslissende weigeringsgrond is. De weigering van 30 oktober 2019 wordt vernietigd en het beroep wordt voor het overige verworpen. Het arrest werd uitgesproken op 12 oktober 2026."
+   ],
+   "fr": [
+    "Le Conseil d'État précise la dérogation d'intérêt général au plan de secteur pour des remblais portés par le privé",
+    "Le Conseil d'État annule le refus d'un permis unique pour le remblayage d'une ancienne carrière et son aménagement en zone d'espace vert. Un porteur de projet de droit privé peut invoquer la dérogation d'intérêt général de l'article D.IV.11 du CoDT si le projet est nécessaire aux besoins de la population et a une réelle dimension collective, sans devoir être accessible à tous.",
+    "L'arrêt concerne les porteurs de projet de droit privé en Wallonie qui sollicitent un permis unique avec dérogation au plan de secteur pour des « constructions et équipements destinés aux activités à finalité d'intérêt général » (art. D.IV.11 du CoDT), ainsi que les fonctionnaires technique et délégué qui statuent sur ces demandes. Le Conseil d'État juge que la valorisation de terres de déblais excédentaires et de déchets inertes présente en soi un intérêt pour l'environnement et la collectivité. Pour un porteur de droit privé, il faut toutefois démontrer que le projet est non seulement utile mais nécessaire à la satisfaction des besoins de vie de la population et qu'il a une réelle dimension collective ; ces deux conditions sont cumulatives et ne couvrent que les constructions et équipements qui y répondent ou sont nécessaires à la bonne marche du projet. En l'espèce, l'accord de branche de 1994 entre le Gouvernement wallon et la Confédération de la construction wallonne sur la gestion des terres de déblais non contaminées établissait la nécessité, et la zone d'espace vert prévue (mares, habitats pierreux, zones arborées) conférait la dimension collective. Une exigence d'accessibilité à tous est propre aux équipements communautaires et ne peut être imposée ici, même si la ville souhaitait clôturer le site. Un projet peut en outre relever de l'article D.IV.11 à plus d'un titre, de sorte que le constat qu'il ne constitue pas un travail d'utilité publique au sens de l'article R.IV.22-2 du CoDT n'est pas, en soi, un motif déterminant de refus. Le refus du 30 octobre 2019 est annulé et la requête est rejetée pour le surplus. L'arrêt a été prononcé le 12 octobre 2026."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. D.IV.11 (dérogation au plan de secteur pour équipements à finalité d'intérêt général) et art. R.IV.22-2 ; permis unique",
+   "dates": {
+    "adopted": "2026-10-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 268001. 1. Par une requête introduite le 12 août 2024, la partie requérante demande l’annulation : - de l’arrêté ",
+     "https://www.raadvst-consetat.be/arresten/268001"
+    ]
+   ],
+   "inbox": [
+    "rvs:268001"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-27"
