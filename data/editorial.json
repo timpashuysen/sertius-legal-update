@@ -1,61 +1,61 @@
 {
-"updated": "2026-11-26",
+"updated": "2026-11-27",
 "sources": {
 "https://legalnews.be/feed/": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 10,
 "matched": 0,
 "how": "feed",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://www.stibbe.com": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 0,
 "matched": 0,
 "how": "page",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://sustainablefutures.linklaters.com": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 16,
 "matched": 0,
 "how": "page",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://www.sbb.be": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 13,
 "matched": 0,
 "how": "page",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://www.jubel.be/feed/": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 12,
 "matched": 0,
 "how": "feed",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://www.lexgo.be": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "ok": true,
 "listed": 51,
 "matched": 0,
 "how": "feed",
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "https://www.uvcw.be": {
-"checked": "2026-11-26",
-"ok": false,
-"listed": 0,
-"matched": 0,
-"error": "URLError(TimeoutError('timed out'))",
-"last_ok": "2026-11-26"
+"checked": "2026-11-27",
+"ok": true,
+"listed": 3361,
+"matched": 3,
+"how": "feed",
+"last_ok": "2026-11-27"
 }
 },
 "articles": [
