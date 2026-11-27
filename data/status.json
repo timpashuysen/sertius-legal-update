@@ -1,16 +1,16 @@
 {
- "ran": "2026-11-27T22:50:53+00:00",
+ "ran": "2026-11-27T23:03:50+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 910,
    "backfilled_to": "2026-11-01",
-   "seconds": 47.1
+   "seconds": 123.3
   },
   "gwh": {
    "ok": false,
    "error": "NameError(\"name 'f' is not defined\")",
-   "seconds": 9.4
+   "seconds": 13.8
   },
   "codex": {
    "ok": true,
@@ -18,28 +18,28 @@
    "read": 4000,
    "matched": 2684,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 25.6
+   "seconds": 34.2
   },
   "wallex": {
-   "ok": true,
+   "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 31,
+   "errors": 56,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 191.3
+   "seconds": 319.6
   },
   "staatsblad": {
    "ok": true,
    "matched": 16,
    "read": 16,
    "backfilled_to": "2026-11-27",
-   "seconds": 9.2
+   "seconds": 9.7
   },
   "council": {
    "ok": true,
    "matched": 1,
-   "seconds": 0.5
+   "seconds": 0.4
   },
   "rvvb": {
    "ok": true,
@@ -58,16 +58,16 @@
   "rvs": {
    "ok": true,
    "new": 1,
-   "kept": 2294,
+   "kept": 2295,
    "summary": {
-    "next": 268476,
-    "read": 2753,
-    "kept": 2294,
+    "next": 268483,
+    "read": 2754,
+    "kept": 2295,
     "caught_up": false,
     "blocked": false,
-    "skipped": 7,
-    "last_error": "<urlopen error timed out> at 268476",
-    "updated": "2026-11-27T22:50:53Z"
+    "skipped": 8,
+    "last_error": "<urlopen error timed out> at 268483",
+    "updated": "2026-11-27T23:03:50Z"
    },
    "seconds": 0.9
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "listed": 145,
    "new": 0,
-   "seconds": 0.9
+   "seconds": 1.4
   },
   "editorial": {
    "ok": true,
@@ -83,7 +83,7 @@
    "reachable": 6,
    "articles": 4,
    "new": 0,
-   "seconds": 40.7
+   "seconds": 47.6
   }
  },
  "not_collected": {
@@ -119,15 +119,15 @@
    "failed": 0
   }
  },
- "texts_on_file": 5710,
+ "texts_on_file": 5711,
  "backlog": false,
- "items_total": 12407,
- "items_new": 3,
+ "items_total": 12408,
+ "items_new": 1,
  "items_by_source": {
   "eurlex": 4662,
   "council": 2,
   "codex": 2684,
-  "rvs": 2294,
+  "rvs": 2295,
   "staatsblad": 611,
   "gwh": 475,
   "cass": 134,

@@ -90271,22 +90271,35 @@
 "reason": "Excessive deficit procedure decision on Hungary's fiscal policy, not environmental rules.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"rvs:268476": {
+"v": 4,
+"rv": 2,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"basis": "full text",
+"topics": [],
+"ground": "",
+"provision": "",
+"reason": "Rejection of suspension for lack of urgency applying settled case law; no annulment of general instrument and no new interpretation of a provision; also not environmental/planning law.",
+"confidence": "high",
+"at": "2026-11-27"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8713,
-"assessed": 8713,
+"in_scope": 8714,
+"assessed": 8714,
 "waiting": 0,
 "relevant": 666,
-"not_relevant": 7721,
+"not_relevant": 7722,
 "excluded_by_rule": 326,
-"this_run": 3,
+"this_run": 1,
 "api": {
-"calls": 2,
-"input_tokens": 8476,
-"output_tokens": 775,
-"usd": 0.0012
+"calls": 1,
+"input_tokens": 7591,
+"output_tokens": 103,
+"usd": 0.0008
 },
 "key_present": true,
 "updated": "2026-11-27",

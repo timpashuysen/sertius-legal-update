@@ -1,6 +1,6 @@
 {
-"next": 268476,
-"misses": 0,
+"next": 268483,
+"misses": 5,
 "kept": {
 "265318": {
 "d": "2026-01-05",
@@ -16059,22 +16059,29 @@
 "score": 0,
 "subject": "I. Objet des requêtes Par une requête introduite le 18 septembre 2026, la partie requérante dans la première affaire demande, d’une part, la suspens ion de l’exécution de l’arrêté du Gouvernement wallon du 16 juillet 2026 ‘relatif aux emplois de hauts managers de la fonction publique wallonne’ et, d’autre part, l’ann ulation de cet ar",
 "lang": "nl"
+},
+"268476": {
+"d": "2026-11-24",
+"url": "https://www.raadvst-consetat.be/arresten/268476",
+"score": 0,
+"subject": "I. Objet des requêtes Par une requête introduite le 18 septembre 2026, la partie requérante dans la première affaire demande, d’une part, la suspens ion de l’exécution de l’arrêté du Gouvernement de la Communauté française du 17 juillet 2026 ‘relatif aux emplois de ECLI:BE:RVSCE:2026:ARR.268.476 VIIIr - 13.550 & 13.561 - 2/7 haut",
+"lang": "nl"
 }
 },
-"read": 2753,
+"read": 2754,
 "pattern": 0,
-"last_hit": 268475,
+"last_hit": 268476,
 "caught_up": false,
-"last_error": "<urlopen error timed out> at 268476",
+"last_error": "<urlopen error timed out> at 268483",
 "summary": {
-"next": 268476,
-"read": 2753,
-"kept": 2294,
+"next": 268483,
+"read": 2754,
+"kept": 2295,
 "caught_up": false,
 "blocked": false,
-"skipped": 7,
-"last_error": "<urlopen error timed out> at 268476",
-"updated": "2026-11-27T22:50:53Z"
+"skipped": 8,
+"last_error": "<urlopen error timed out> at 268483",
+"updated": "2026-11-27T23:03:50Z"
 },
 "blocked": false,
 "skipped": [
@@ -16084,6 +16091,7 @@
 268311,
 268322,
 268454,
-268473
+268473,
+268480
 ]
 }
