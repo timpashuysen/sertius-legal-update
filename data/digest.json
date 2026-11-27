@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:27:06Z",
+ "updated": "2026-11-27T00:42:14Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43446,6 +43446,46 @@
    ],
    "inbox": [
     "rvs:267949"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-267995",
+   "d": "2026-10-12",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: a Walloon planning permit may be partly renounced if the part is severable (CoDT D.IV.93)",
+   "a": "The Council of State rules that the holder of a Walloon planning permit that has not been implemented may renounce part of it, provided the renounced part is severable and the remaining permit keeps its scope. The formal notification of the renunciation is not a substantive requirement.",
+   "b": "The ruling concerns holders of planning permits under the Walloon Code of Territorial Development (CoDT) and third parties who challenge such permits. Under Article D.IV.93, a permit that has not been implemented, even partially, can be renounced. The renunciation must be express and sent to the municipal council (collège communal) and the delegated official. The Council of State finds that neither the provision nor its preparatory works rule out partial renunciation. Partial renunciation is allowed if the renounced element can be separated from the permit and the remaining permit keeps its scope. The duty to send the renunciation to both authorities is not a substantive formality and no sanction attaches to it. What matters is that the renunciation can be enforced against the competent authority, which was the case here because the authority learned of it through the intervention request. On that basis the Council of State accepted the renunciation of an optional temporary route that the permit allowed only if the definitive route proved technically or financially impossible. The applicants therefore lost their interest in their only ground, which targeted that temporary route alone. New grievances raised in the reply brief were inadmissible, and the annulment request was rejected by a judgment of 12 October 2026.",
+   "nl": [
+    "Raad van State: Waalse stedenbouwkundige vergunning kan gedeeltelijk worden opgegeven indien scheidbaar (CoDT D.IV.93)",
+    "De Raad van State oordeelt dat de houder van een niet uitgevoerde Waalse stedenbouwkundige vergunning er gedeeltelijk afstand van mag doen, op voorwaarde dat dat deel scheidbaar is en de resterende vergunning haar draagwijdte behoudt. De formele kennisgeving van de afstand is geen substantiële vormvereiste.",
+    "Het arrest betreft houders van stedenbouwkundige vergunningen onder het Waalse Wetboek van Ruimtelijke Ontwikkeling (CoDT) en derden die zulke vergunningen aanvechten. Volgens artikel D.IV.93 kan van een vergunning die niet, ook niet gedeeltelijk, is uitgevoerd afstand worden gedaan. De afstand moet uitdrukkelijk zijn en naar het gemeentecollege (collège communal) en de gemachtigde ambtenaar worden gestuurd. De Raad van State stelt dat noch de bepaling noch de voorbereidende werken een gedeeltelijke afstand uitsluiten. Een gedeeltelijke afstand is toegelaten als het opgegeven element van de vergunning kan worden losgekoppeld en de resterende vergunning haar draagwijdte behoudt. De verplichting om de afstand aan beide overheden te sturen is geen substantiële vormvereiste en er staat geen sanctie op. Doorslaggevend is dat de afstand tegenstelbaar is aan de bevoegde overheid, wat hier het geval was omdat de overheid er via het verzoekschrift tot tussenkomst kennis van kreeg. Op die grond aanvaardde de Raad van State de afstand van een optioneel tijdelijk tracé, dat de vergunning enkel toeliet indien het definitieve tracé technisch of financieel onmogelijk bleek. De verzoekende partijen verloren daardoor hun belang bij hun enige middel, dat uitsluitend tegen dat tijdelijke tracé gericht was. Nieuwe grieven in de wederantwoordnota waren onontvankelijk en het beroep tot nietigverklaring werd bij arrest van 12 oktober 2026 verworpen."
+   ],
+   "fr": [
+    "Conseil d'État : un permis d'urbanisme wallon peut faire l'objet d'une renonciation partielle si l'objet est dissociable (CoDT D.IV.93)",
+    "Le Conseil d'État juge que le titulaire d'un permis d'urbanisme wallon non mis en œuvre peut y renoncer partiellement, pour autant que la partie visée soit dissociable et que le permis subsistant garde sa portée. L'envoi de la renonciation aux autorités n'est pas une formalité substantielle.",
+    "L'arrêt concerne les titulaires de permis d'urbanisme au sens du Code du développement territorial (CoDT) et les tiers qui contestent de tels permis. Selon l'article D.IV.93, un permis qui n'a pas été mis en œuvre, même partiellement, peut faire l'objet d'une renonciation. Celle-ci doit être expresse et envoyée au collège communal et au fonctionnaire délégué. Le Conseil d'État relève que ni la disposition ni les travaux préparatoires n'excluent une renonciation partielle. Une renonciation partielle est admise si l'objet auquel il est renoncé peut être dissocié de l'acte et si le permis qui subsiste conserve sa portée. L'envoi aux deux autorités n'est pas une formalité substantielle et son non-respect n'est pas sanctionné. L'essentiel est que la renonciation soit opposable à l'autorité compétente, ce qui était le cas ici, celle-ci en ayant eu connaissance par la requête en intervention. Sur cette base, le Conseil d'État a admis la renonciation à un tracé provisoire optionnel, que le permis n'autorisait qu'en cas d'impossibilité technique ou financière de réaliser le tracé définitif. Les parties requérantes ont ainsi perdu leur intérêt à leur moyen unique, dirigé exclusivement contre ce tracé provisoire. Les griefs nouveaux soulevés dans le mémoire en réplique étaient irrecevables et la demande d'annulation a été rejetée par un arrêt du 12 octobre 2026."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. D.IV.93 (renonciation au permis) ; Conseil d'État, arrêt n° 267.995 du 12 octobre 2026",
+   "dates": {
+    "adopted": "2026-10-12"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267995. Par une requête introduite le 14 février 2025, les parties requérantes demandent l’annulation de la décis",
+     "https://www.raadvst-consetat.be/arresten/267995"
+    ]
+   ],
+   "inbox": [
+    "rvs:267995"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-27"
