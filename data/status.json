@@ -1,16 +1,16 @@
 {
- "ran": "2026-11-27T01:14:04+00:00",
+ "ran": "2026-11-27T01:26:41+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 894,
    "backfilled_to": "2026-11-01",
-   "seconds": 13.4
+   "seconds": 32.4
   },
   "gwh": {
    "ok": false,
    "error": "NameError(\"name 'f' is not defined\")",
-   "seconds": 11.4
+   "seconds": 10.6
   },
   "codex": {
    "ok": true,
@@ -18,7 +18,7 @@
    "read": 4000,
    "matched": 2684,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 37.8
+   "seconds": 29.9
   },
   "wallex": {
    "ok": true,
@@ -27,19 +27,19 @@
    "errors": 29,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 188.0
+   "seconds": 176.7
   },
   "staatsblad": {
    "ok": true,
    "matched": 16,
    "read": 16,
    "backfilled_to": "2026-11-27",
-   "seconds": 10.3
+   "seconds": 9.4
   },
   "council": {
    "ok": true,
    "matched": 0,
-   "seconds": 0.5
+   "seconds": 0.8
   },
   "rvvb": {
    "ok": true,
@@ -57,17 +57,17 @@
   },
   "rvs": {
    "ok": true,
-   "new": 22,
-   "kept": 2125,
+   "new": 37,
+   "kept": 2162,
    "summary": {
-    "next": 268108,
-    "read": 2552,
-    "kept": 2125,
+    "next": 268155,
+    "read": 2599,
+    "kept": 2162,
     "caught_up": false,
     "blocked": false,
     "skipped": 3,
-    "last_error": "<urlopen error timed out> at 268080",
-    "updated": "2026-11-27T01:14:04Z"
+    "last_error": "",
+    "updated": "2026-11-27T01:26:41Z"
    },
    "seconds": 1.1
   },
@@ -83,7 +83,7 @@
    "reachable": 7,
    "articles": 4,
    "new": 0,
-   "seconds": 22.1
+   "seconds": 24.5
   }
  },
  "not_collected": {
@@ -119,10 +119,10 @@
    "failed": 0
   }
  },
- "texts_on_file": 5541,
+ "texts_on_file": 5578,
  "backlog": false,
- "items_total": 12229,
- "items_new": 22,
+ "items_total": 12266,
+ "items_new": 37,
  "items_by_source": {
   "eurlex": 4654,
   "codex": 2684,
@@ -130,9 +130,9 @@
   "council": 1,
   "gwh": 475,
   "cass": 134,
+  "rvs": 2162,
   "rvvb": 854,
-  "rvs": 2125,
   "wallex": 691
  },
- "items_filed_for_site": 1464
+ "items_filed_for_site": 1473
 }
