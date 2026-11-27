@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:54:50Z",
+ "updated": "2026-11-27T01:06:52Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43568,6 +43568,86 @@
    ],
    "inbox": [
     "rvs:268001"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-268074",
+   "d": "2026-10-19",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: road between plots rules out project announcement for deep buildings (CoDT)",
+   "a": "The Council of State interprets the Walloon rule requiring a project announcement for buildings much deeper than their neighbours. A public road, even a narrow one, breaks the contiguity of plots, so the rule does not apply across it.",
+   "b": "The ruling concerns planning permit applications in Wallonia for buildings more than 15 m deep that exceed by more than 4 m the buildings on contiguous plots (Article R.IV.40-2, § 1, 2°, CoDT). Such applications require a project announcement (annonce de projet). The case involved a permit from the Namur municipal executive for two greenhouses and a container for market gardening. The Council of State finds that a neighbour who was denied this announcement has a procedural interest in raising the point, because he lost a guarantee. On the substance, it holds that the rule presupposes a reference alignment or building line and an orderly, fairly homogeneous series of buildings. It reads \"plot\" in its ordinary sense, not as a cadastral parcel, and \"contiguous\" as touching directly. A public road, even a narrow one such as a vicinal path, therefore breaks contiguity and the alignment, which excludes the rule. Here the project plots were separated from the neighbouring plot by a vicinal path, so it was not established that an announcement was required and the first plea failed. The permit is not annulled at this stage: the hearings are reopened for a supplementary auditor's report and costs are reserved. The ruling is dated 19 October 2026.",
+   "nl": [
+    "Raad van State: weg tussen percelen sluit projectaankondiging voor diepe gebouwen uit (CoDT)",
+    "De Raad van State legt de Waalse regel uit die een projectaankondiging oplegt voor gebouwen die veel dieper zijn dan hun buren. Een openbare weg, ook een smalle, verbreekt de aanpalendheid van percelen, zodat de regel er niet speelt.",
+    "Het arrest betreft Waalse aanvragen voor een stedenbouwkundige vergunning voor gebouwen met een diepte van meer dan 15 m die meer dan 4 m dieper zijn dan de gebouwen op aanpalende percelen (artikel R.IV.40-2, § 1, 2°, CoDT). Voor zulke aanvragen is een projectaankondiging (annonce de projet) vereist. De zaak betrof een vergunning van het gemeentecollege van Namen voor twee serres en een container voor groenteteelt. De Raad van State oordeelt dat een buur aan wie deze aankondiging werd onthouden een procedureel belang heeft bij het middel, omdat hij een waarborg verloor. Inhoudelijk stelt hij dat de regel een referentie-rooilijn of bouwlijn veronderstelt en een geordende, vrij homogene reeks gebouwen. Hij leest 'perceel' in de gewone betekenis, niet als kadastraal perceel, en 'aanpalend' als rechtstreeks aansluitend. Een openbare weg, ook een smalle zoals een buurtweg, verbreekt dus de aanpalendheid en de rooilijn, wat de regel uitsluit. Hier waren de projectpercelen van het naburige perceel gescheiden door een buurtweg; het was dus niet aangetoond dat een aankondiging vereist was en het eerste middel was ongegrond. De vergunning wordt in dit stadium niet vernietigd: de debatten worden heropend voor een aanvullend verslag van het auditoraat en de kosten worden aangehouden. Het arrest dateert van 19 oktober 2026."
+   ],
+   "fr": [
+    "Conseil d'État : une voirie entre parcelles exclut l'annonce de projet pour bâtiments profonds (CoDT)",
+    "Le Conseil d'État interprète la règle wallonne qui impose une annonce de projet pour les bâtiments nettement plus profonds que leurs voisins. Une voirie, même étroite, rompt la contiguïté des parcelles, de sorte que la règle ne s'applique pas.",
+    "L'arrêt concerne les demandes de permis d'urbanisme en Wallonie pour des bâtiments dont la profondeur dépasse 15 m et excède de plus de 4 m celle des bâtiments situés sur les parcelles contiguës (article R.IV.40-2, § 1er, 2°, CoDT). Ces demandes sont soumises à une annonce de projet. L'affaire portait sur un permis délivré par le collège communal de Namur pour deux serres et un container destinés au maraîchage. Le Conseil d'État juge qu'un voisin privé de cette annonce justifie d'un intérêt procédural au moyen, car il a été privé d'une garantie. Sur le fond, il considère que la règle suppose un alignement ou un front de bâtisse de référence et une succession ordonnée de constructions présentant une certaine homogénéité. Il entend la « parcelle » dans son sens usuel, et non comme parcelle cadastrale, et « contigu » comme se touchant directement. Une voirie, même étroite comme un sentier vicinal, rompt dès lors la contiguïté et l'alignement, ce qui exclut la règle. En l'espèce, les parcelles du projet étaient séparées de la parcelle voisine par un sentier vicinal ; il n'était donc pas établi qu'une annonce de projet devait être organisée et le premier moyen n'était pas fondé. Le permis n'est pas annulé à ce stade : les débats sont rouverts pour un rapport complémentaire de l'auditorat et les dépens sont réservés. L'arrêt date du 19 octobre 2026."
+   ],
+   "scope": "Code du développement territorial (CoDT), art. R.IV.40-2, § 1er, 2° et D.IV.40 : annonce de projet pour bâtiments profonds ; contiguïté des parcelles",
+   "dates": {
+    "adopted": "2026-10-19"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 268074. Par une requête introduite le 20 septembre 2024, la partie requérante demande l’annulation de la décision",
+     "https://www.raadvst-consetat.be/arresten/268074"
+    ]
+   ],
+   "inbox": [
+    "rvs:268074"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-268073",
+   "d": "2026-10-19",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "permitting"
+   ],
+   "h": "Council of State: a public road breaks parcel contiguity for the CoDT project announcement on deep buildings",
+   "a": "The Council of State rules that a public road, even a narrow one, separates parcels so they are not 'contiguous' under Article R.IV.40-2, §1, 2° of the Walloon CoDT. The obligation to hold a project announcement for buildings much deeper than their neighbours therefore does not apply in that case.",
+   "b": "The ruling concerns Walloon urban planning permits and the project announcement (annonce de projet) required by Article R.IV.40-2, §1, 2° CoDT for buildings deeper than 15 m from the alignment or building line and more than 4 m deeper than buildings on contiguous parcels. The Council holds that the provision aims to let the permitting authority weigh visual, noise, privacy and similar nuisances for homes on the same building line. It presupposes a reference alignment or building line and an orderly, fairly homogeneous succession of buildings. 'Parcel' is understood in its ordinary sense, not as a cadastral plot, and 'contiguous' means touching. A road, even a narrow one, breaks both contiguity and alignment and so excludes the provision. Applied to a permit of 2 April 2024 for two greenhouses and a container in Namur (Gelbressée), separated from the neighbouring property by a vicinal path, no project announcement was required and the first plea was unfounded. The case is not finally decided: in the ruling of 19 October 2026 the debates are reopened, a supplementary auditor's report is ordered and costs are reserved.",
+   "nl": [
+    "Raad van State: openbare weg onderbreekt aangrenzende percelen voor de projectaankondiging van diepe gebouwen (CoDT)",
+    "De Raad van State oordeelt dat een openbare weg, zelfs een smalle, percelen scheidt, zodat ze niet 'aangrenzend' zijn in de zin van artikel R.IV.40-2, §1, 2° van het Waalse CoDT. De verplichte projectaankondiging voor gebouwen die veel dieper zijn dan hun buren geldt dan niet.",
+    "Het arrest betreft Waalse stedenbouwkundige vergunningen en de projectaankondiging (annonce de projet) die artikel R.IV.40-2, §1, 2° CoDT oplegt voor gebouwen die meer dan 15 m diep zijn vanaf de rooilijn of de bouwlijn en meer dan 4 m dieper dan de gebouwen op aangrenzende percelen. Volgens de Raad wil de bepaling de vergunningverlenende overheid toelaten hinder door zicht, geluid, inbreuk op de privacy en dergelijke voor woningen op dezelfde bouwlijn af te wegen. Ze veronderstelt een referentierooilijn of -bouwlijn en een geordende, vrij homogene opeenvolging van gebouwen. 'Perceel' wordt in zijn gewone betekenis begrepen, niet als kadastraal perceel, en 'aangrenzend' betekent elkaar rakend. Een weg, zelfs een smalle, onderbreekt zowel de aangrenzing als de rooilijn en sluit de bepaling dus uit. Voor een vergunning van 2 april 2024 voor twee serres en een container in Namen (Gelbressée), gescheiden van het naburige eigendom door een buurtweg, was geen projectaankondiging vereist en het eerste middel was ongegrond. De zaak is niet definitief beslecht: bij het arrest van 19 oktober 2026 worden de debatten heropend, wordt een aanvullend verslag van het auditoraat bevolen en worden de kosten aangehouden."
+   ],
+   "fr": [
+    "Conseil d'État : une voirie publique rompt la contiguïté des parcelles pour l'annonce de projet du CoDT",
+    "Le Conseil d'État juge qu'une voirie publique, même étroite, sépare les parcelles, qui ne sont alors pas « contiguës » au sens de l'article R.IV.40-2, § 1er, 2° du CoDT. L'annonce de projet exigée pour les bâtiments nettement plus profonds que leurs voisins ne s'applique donc pas dans ce cas.",
+    "L'arrêt concerne les permis d'urbanisme wallons et l'annonce de projet imposée par l'article R.IV.40-2, § 1er, 2° du CoDT pour les bâtiments dont la profondeur, mesurée depuis l'alignement ou le front de bâtisse, dépasse quinze mètres et excède de plus de quatre mètres celle des bâtiments situés sur les parcelles contiguës. Selon le Conseil, la disposition vise à permettre à l'autorité compétente de prendre en compte les nuisances visuelles, sonores, d'atteinte à la vie privée ou autres pour les habitations situées sur le même front de bâtisse. Elle suppose un alignement ou un front de bâtisse de référence et une succession ordonnée de constructions présentant une certaine homogénéité. La « parcelle » s'entend dans son sens usuel et non comme parcelle cadastrale, et « contigu » signifie qui se touche. Une voirie, même étroite, rompt tant la contiguïté que l'alignement et exclut donc l'application de la disposition. Pour un permis du 2 avril 2024 relatif à deux serres et un container à Namur (Gelbressée), séparés de la propriété voisine par un sentier vicinal, aucune annonce de projet n'était requise et le premier moyen n'est pas fondé. L'affaire n'est pas définitivement tranchée : par l'arrêt du 19 octobre 2026, les débats sont rouverts, un rapport complémentaire de l'auditorat est ordonné et les dépens sont réservés."
+   ],
+   "scope": "Conseil d'État, arrêt n° 268.073 du 19 octobre 2026 : article R.IV.40-2, § 1er, 2° du CoDT (annonce de projet), notion de parcelles contiguës et d'alignement",
+   "dates": {
+    "adopted": "2026-10-19"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 268073. Par une requête introduite le 20 septembre 2024, la partie requérante demande l’annulation de la décision",
+     "https://www.raadvst-consetat.be/arresten/268073"
+    ]
+   ],
+   "inbox": [
+    "rvs:268073"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-27"
