@@ -1,16 +1,16 @@
 {
- "ran": "2026-11-27T00:04:01+00:00",
+ "ran": "2026-11-27T00:19:41+00:00",
  "sources": {
   "eurlex": {
    "ok": true,
    "matched": 896,
    "backfilled_to": "2026-11-01",
-   "seconds": 141.4
+   "seconds": 30.8
   },
   "gwh": {
    "ok": false,
    "error": "NameError(\"name 'f' is not defined\")",
-   "seconds": 8.7
+   "seconds": 9.6
   },
   "codex": {
    "ok": true,
@@ -18,28 +18,28 @@
    "read": 4000,
    "matched": 2684,
    "oldest_date_seen": "2024-01-01",
-   "seconds": 29.2
+   "seconds": 31.5
   },
   "wallex": {
-   "ok": true,
+   "ok": false,
    "probed": 180,
    "matched": 0,
-   "errors": 36,
+   "errors": 45,
    "next_new_id": 142449,
    "known_ids_left": 0,
-   "seconds": 210.2
+   "seconds": 262.1
   },
   "staatsblad": {
    "ok": true,
    "matched": 16,
    "read": 16,
    "backfilled_to": "2026-11-27",
-   "seconds": 9.9
+   "seconds": 9.4
   },
   "council": {
    "ok": true,
    "matched": 0,
-   "seconds": 0.5
+   "seconds": 0.6
   },
   "rvvb": {
    "ok": true,
@@ -57,25 +57,25 @@
   },
   "rvs": {
    "ok": true,
-   "new": 18,
-   "kept": 1980,
+   "new": 23,
+   "kept": 2003,
    "summary": {
-    "next": 267933,
-    "read": 2386,
-    "kept": 1980,
+    "next": 267963,
+    "read": 2413,
+    "kept": 2003,
     "caught_up": false,
     "blocked": false,
     "skipped": 3,
-    "last_error": "<urlopen error timed out> at 267933",
-    "updated": "2026-11-27T00:04:01Z"
+    "last_error": "<urlopen error timed out> at 267937",
+    "updated": "2026-11-27T00:19:41Z"
    },
-   "seconds": 0.6
+   "seconds": 0.8
   },
   "cass": {
    "ok": true,
    "listed": 145,
    "new": 0,
-   "seconds": 1.6
+   "seconds": 1.1
   },
   "editorial": {
    "ok": true,
@@ -83,7 +83,7 @@
    "reachable": 7,
    "articles": 4,
    "new": 0,
-   "seconds": 26.5
+   "seconds": 23.3
   }
  },
  "not_collected": {
@@ -119,10 +119,10 @@
    "failed": 0
   }
  },
- "texts_on_file": 5396,
+ "texts_on_file": 5419,
  "backlog": false,
- "items_total": 12084,
- "items_new": 19,
+ "items_total": 12107,
+ "items_new": 23,
  "items_by_source": {
   "eurlex": 4654,
   "codex": 2684,
@@ -132,7 +132,7 @@
   "cass": 134,
   "rvvb": 854,
   "wallex": 691,
-  "rvs": 1980
+  "rvs": 2003
  },
- "items_filed_for_site": 1440
+ "items_filed_for_site": 1442
 }

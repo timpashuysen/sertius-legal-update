@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:12:36Z",
+ "updated": "2026-11-27T00:27:06Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -43365,6 +43365,87 @@
    ],
    "inbox": [
     "rvs:267910"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-267950",
+   "d": "2026-10-07",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Council of State: public timber sales in Walloon public forests cannot be held in closed session",
+   "a": "The Council of State rules that the 'adjudication publique' required by Article 73 of the Walloon Forest Code means a sale session open to the public. A session held behind closed doors, here for health reasons, breaches that article.",
+   "b": "The ruling concerns public-law bodies such as municipalities that sell cuts, trees or forest products from their woods in Wallonia, the forest administration that runs these sales, and timber buyers. Article 73 of the Forest Code allows such sales only by public adjudication. The Council of State holds that the notion, which the Code does not define, combines a public sale with an adjudication, so the sale session itself must be open to the public. The public procurement meaning of the term does not apply. The advance publicity required by Article 73, second paragraph (at least fifteen days, by the usual means), is a separate requirement and cannot replace an open session. The COVID-19 rules in force in May 2021 and the ministerial protocol of 5 November 2020 on public timber sales did not allow a closed session. The urgency of selling bark-beetle-infested wood did not allow it either, since the authority had chosen the public adjudication procedure. The Council also holds that the public session is a guarantee, so a challenge to a closed session is admissible. It annuls the decision of 7 June 2021 confirming the award of lots 10 to 17 of the municipal wood in a sale launched on 10 May 2021. The ruling was delivered on 7 October 2026.",
+   "nl": [
+    "Raad van State: openbare houtverkopen in Waalse openbare bossen mogen niet met gesloten deuren plaatsvinden",
+    "De Raad van State oordeelt dat de 'adjudication publique' die artikel 73 van het Waalse Boswetboek (Code forestier) voorschrijft, een voor het publiek toegankelijke verkoopzitting veronderstelt. Een zitting met gesloten deuren, hier om gezondheidsredenen, schendt dat artikel.",
+    "Het arrest betreft publiekrechtelijke rechtspersonen zoals gemeenten die in Wallonië kappingen, bomen of bosproducten uit hun bossen verkopen, de bosadministratie die deze verkopen organiseert en de houtkopers. Artikel 73 van het Boswetboek staat dergelijke verkopen enkel toe via openbare adjudicatie (adjudication publique). De Raad van State oordeelt dat dit begrip, dat het Wetboek niet definieert, een openbare verkoop combineert met een adjudicatie, zodat de verkoopzitting zelf voor het publiek toegankelijk moet zijn. De betekenis die het begrip heeft in de overheidsopdrachtenreglementering is niet van toepassing. De voorafgaande bekendmaking die artikel 73, tweede lid, oplegt (minstens vijftien dagen vooraf, met de gebruikelijke middelen), is een afzonderlijke vereiste en kan een open zitting niet vervangen. De COVID-19-maatregelen die in mei 2021 van kracht waren en het ministerieel protocol van 5 november 2020 over openbare houtverkopen lieten een zitting met gesloten deuren niet toe. De dringende noodzaak om door schorskevers aangetast hout te verkopen evenmin, aangezien de overheid voor de procedure van openbare adjudicatie had gekozen. De Raad oordeelt ook dat de openbare zitting een waarborg is, zodat een betwisting van een zitting met gesloten deuren ontvankelijk is. Hij vernietigt de beslissing van 7 juni 2021 waarbij de toewijzing van loten 10 tot 17 van het gemeentehout werd bevestigd, in een verkoop die op 10 mei 2021 was gelanceerd. Het arrest werd uitgesproken op 7 oktober 2026."
+   ],
+   "fr": [
+    "Conseil d'État : les ventes publiques de bois dans les forêts publiques wallonnes ne peuvent se tenir à huis clos",
+    "Le Conseil d'État juge que l'« adjudication publique » exigée par l'article 73 du Code forestier wallon suppose une séance de vente ouverte au public. Une séance tenue à huis clos, ici pour des raisons sanitaires, viole cet article.",
+    "L'arrêt concerne les personnes morales de droit public, telles que les communes, qui vendent en Wallonie des coupes, arbres ou produits de la forêt issus de leurs bois, l'administration forestière qui organise ces ventes et les acheteurs de bois. L'article 73 du Code forestier n'autorise ces ventes que par voie d'adjudication publique. Le Conseil d'État juge que cette notion, que le Code ne définit pas, combine une vente publique et une adjudication, de sorte que la séance de vente elle-même doit être ouverte au public. Le sens que la notion revêt dans la réglementation des marchés publics n'est pas applicable. La publicité préalable imposée par l'article 73, alinéa 2 (au moins quinze jours à l'avance, par les moyens usuels), est une exigence distincte et ne peut remplacer une séance ouverte. Les mesures sanitaires COVID-19 applicables en mai 2021 et le protocole ministériel du 5 novembre 2020 relatif aux ventes publiques de bois n'autorisaient pas une séance à huis clos. L'urgence de vendre des bois scolytés ne l'autorisait pas davantage, puisque l'autorité avait opté pour la procédure d'adjudication publique. Le Conseil juge aussi que la séance publique constitue une garantie, de sorte que la critique d'une séance à huis clos est recevable. Il annule la décision du 7 juin 2021 confirmant l'attribution des lots 10 à 17 des bois communaux, dans une vente lancée le 10 mai 2021. L'arrêt a été prononcé le 7 octobre 2026."
+   ],
+   "scope": "Décret wallon du 15 juillet 2008 relatif au Code forestier, article 73 (adjudication publique), lu avec les articles 74 à 79",
+   "dates": {
+    "adopted": "2026-10-07"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267950. Par une requête introduite le 28 septembre 2021, les parties requérantes demandent l’annulation de « la d",
+     "https://www.raadvst-consetat.be/arresten/267950"
+    ]
+   ],
+   "inbox": [
+    "rvs:267950"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-27"
+  },
+  {
+   "id": "d-rvs-267949",
+   "d": "2026-10-07",
+   "j": [
+    "BE"
+   ],
+   "t": "case",
+   "s": "Ruling",
+   "k": [
+    "environmental-law",
+    "permitting"
+   ],
+   "h": "Council of State: Walloon public-forest timber sales by 'adjudication publique' cannot be held behind closed doors",
+   "a": "The Council of State annulled the Walloon Region's award of eight timber lots sold by sealed tender with the opening held in camera. It held that 'adjudication publique' under Article 73 of the Walloon Forest Code requires a sale session open to the public.",
+   "b": "The ruling concerns sales of timber from the forests of Walloon public-law bodies, which Article 73 of the Forest Code of 15 July 2008 reserves to 'adjudication publique'. The Council of State held that the term, which the Code does not define, is not to be read in the public-procurement sense. It means a public sale held in the presence of people convened to a session open to everyone, so a session behind closed doors is not allowed. It added that the advertising rules in Article 73, paragraph 2 are a separate matter. The Region did not show that the COVID-19 rules then applicable, including the ministerial protocol of 5 November 2020 on public timber sales, allowed closed-door sales. The urgency of selling bark-beetle-infested timber did not allow it either, since the Region had chosen the adjudication procedure. The Council also found that a public session is a guarantee, so the plea was admissible. It annulled the decision of 25 May 2021 awarding lots 1 to 4 and 6 to 9 on behalf of the Region and ordered the Region to pay the costs, including a procedural indemnity of EUR 770. The ruling is dated 7 October 2026.",
+   "nl": [
+    "Raad van State: houtverkoop uit Waalse openbare bossen via 'openbare aanbesteding' mag niet met gesloten deuren",
+    "De Raad van State vernietigde de toewijzing door het Waalse Gewest van acht houtkavels die bij verzegelde inschrijving werden verkocht, met opening van de offertes achter gesloten deuren. Volgens de Raad vereist 'adjudication publique' in artikel 73 van het Waalse Boswetboek een voor het publiek toegankelijke verkoopzitting.",
+    "Het arrest betreft de verkoop van hout uit de bossen van Waalse publiekrechtelijke rechtspersonen, die artikel 73 van het Boswetboek van 15 juli 2008 voorbehoudt aan de 'adjudication publique'. De Raad van State oordeelde dat de term, die het Wetboek niet definieert, niet in de zin van de overheidsopdrachten moet worden begrepen. Hij betekent een openbare verkoop in aanwezigheid van personen die zijn opgeroepen voor een zitting die voor iedereen toegankelijk is, zodat een zitting met gesloten deuren niet kan. De Raad voegde eraan toe dat de bekendmakingsregels van artikel 73, tweede lid, een afzonderlijke kwestie zijn. Het Gewest toonde niet aan dat de toen geldende covid-19-maatregelen, waaronder het ministerieel protocol van 5 november 2020 over openbare houtverkopen, een verkoop met gesloten deuren toelieten. De hoogdringendheid van de verkoop van door de letterzetter aangetast hout rechtvaardigde dat evenmin, aangezien het Gewest voor de procedure van adjudication had gekozen. De Raad oordeelde ook dat een openbare zitting een waarborg is, zodat het middel ontvankelijk was. Hij vernietigde de beslissing van 25 mei 2021 tot toewijzing van de loten 1 tot 4 en 6 tot 9 ten bate van het Gewest en legde de kosten, inclusief een rechtsplegingsvergoeding van 770 euro, aan het Gewest op. Het arrest is gedateerd 7 oktober 2026."
+   ],
+   "fr": [
+    "Conseil d'État : la vente de bois des forêts publiques wallonnes par adjudication publique ne peut se tenir à huis clos",
+    "Le Conseil d'État a annulé l'adjudication par la Région wallonne de huit lots de bois vendus par soumission, avec ouverture des offres à huis clos. Il juge que l'« adjudication publique » de l'article 73 du Code forestier wallon impose une séance de vente ouverte au public.",
+    "L'arrêt concerne les ventes de bois provenant des forêts des personnes morales de droit public wallonnes, que l'article 73 du Code forestier du 15 juillet 2008 réserve à l'adjudication publique. Le Conseil d'État a jugé que cette notion, que le Code ne définit pas, ne doit pas s'entendre au sens de la réglementation des marchés publics. Elle désigne une vente publique en présence de personnes convoquées à une séance ouverte à tout le monde, de sorte qu'une séance à huis clos est exclue. Il a ajouté que les règles de publicité de l'article 73, alinéa 2, sont une question distincte. La Région n'a pas établi que les mesures sanitaires alors applicables, dont le protocole ministériel du 5 novembre 2020 sur les ventes publiques de bois, permettaient une vente à huis clos. L'urgence de vendre les bois scolytés ne le permettait pas davantage, la Région ayant opté pour la procédure d'adjudication publique. Le Conseil a aussi jugé qu'une séance publique constitue une garantie, de sorte que le moyen était recevable. Il a annulé la décision du 25 mai 2021 d'adjuger les lots 1 à 4 et 6 à 9 au bénéfice de la Région et a mis les dépens à sa charge, dont une indemnité de procédure de 770 euros. L'arrêt est daté du 7 octobre 2026."
+   ],
+   "scope": "Conseil d'État, arrêt n° 267.949 du 7 octobre 2026 : article 73 (et articles 74 à 79) du décret wallon du 15 juillet 2008 relatif au Code forestier, adjudication publique de bois",
+   "dates": {
+    "adopted": "2026-10-07"
+   },
+   "u": [
+    [
+     "Raad van State, arrest nr. 267949. Par une requête introduite le 26 juillet 2021, les parties requérantes demandent l’annulation de « la déc",
+     "https://www.raadvst-consetat.be/arresten/267949"
+    ]
+   ],
+   "inbox": [
+    "rvs:267949"
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-27"
