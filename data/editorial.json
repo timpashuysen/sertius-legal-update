@@ -51,11 +51,11 @@
 },
 "https://www.uvcw.be": {
 "checked": "2026-11-28",
-"ok": false,
-"listed": 0,
-"matched": 0,
-"error": "URLError(TimeoutError('timed out'))",
-"last_ok": "2026-11-27"
+"ok": true,
+"listed": 3362,
+"matched": 3,
+"how": "feed",
+"last_ok": "2026-11-28"
 }
 },
 "articles": [
