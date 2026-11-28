@@ -1,6 +1,6 @@
 {
-"next": 268562,
-"misses": 76,
+"next": 268572,
+"misses": 85,
 "kept": {
 "265318": {
 "d": "2026-01-05",
@@ -16072,16 +16072,16 @@
 "pattern": 0,
 "last_hit": 268476,
 "caught_up": false,
-"last_error": "<urlopen error timed out> at 268562",
+"last_error": "<urlopen error timed out> at 268572",
 "summary": {
-"next": 268562,
+"next": 268572,
 "read": 2754,
 "kept": 2295,
 "caught_up": false,
 "blocked": false,
-"skipped": 16,
-"last_error": "<urlopen error timed out> at 268562",
-"updated": "2026-11-28T00:48:13Z"
+"skipped": 17,
+"last_error": "<urlopen error timed out> at 268572",
+"updated": "2026-11-28T01:01:53Z"
 },
 "blocked": false,
 "skipped": [
@@ -16100,6 +16100,7 @@
 268538,
 268547,
 268551,
-268559
+268559,
+268567
 ]
 }
