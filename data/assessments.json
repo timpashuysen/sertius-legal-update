@@ -90294,7 +90294,8 @@
 ],
 "reason": "Sets areas without expected archaeology, affecting soil works and permit conditions.",
 "confidence": "low",
-"at": "2026-11-28"
+"at": "2026-11-28",
+"written": "d-codex-1042518"
 },
 "codex:1042520": {
 "v": 4,
@@ -90332,27 +90333,27 @@
 "relevant": 667,
 "not_relevant": 7725,
 "excluded_by_rule": 326,
-"this_run": 4,
+"this_run": 0,
 "api": {
-"calls": 1,
-"input_tokens": 1156,
-"output_tokens": 695,
-"usd": 0.0005
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "key_present": true,
 "updated": "2026-11-28",
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 0,
+"this_run": 1,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 74,
+"waiting": 73,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 2633,
+"output_tokens": 2429,
+"usd": 0.0296
 },
 "updated": "2026-11-28"
 },

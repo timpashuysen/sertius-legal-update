@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:10:43Z",
+ "updated": "2026-11-28T00:24:47Z",
  "items": [
   {
    "id": "d-eu-32026r1703",
@@ -44060,6 +44060,47 @@
    ],
    "by": "claude-sonnet-5-5",
    "written": "2026-11-27"
+  },
+  {
+   "id": "d-codex-1042518",
+   "d": "2026-11-26",
+   "j": [
+    "VL"
+   ],
+   "t": "law",
+   "s": "Adopted",
+   "k": [
+    "environmental-law"
+   ],
+   "h": "Flanders updates the areas where no archaeological heritage is expected, with effect from 9 December 2026",
+   "a": "The administrator-general of the Flemish heritage agency designates new areas where no archaeological heritage is to be expected and removes others from that list. Earlier designations that are not removed remain in place.",
+   "b": "The decision concerns the areas in Flanders designated under the Onroerenderfgoeddecreet as areas where no archaeological heritage is to be expected. The areas listed in a first digital file are newly designated. The areas in a second digital file are removed from the designation, because further research showed archaeological value or because they are designated again with an amended boundary. Areas designated earlier by the administrator-general of the agency Onroerend Erfgoed remain designated, unless this decision removes them. The designations rest on observations and scientific arguments: the areas have a high probability of having no archaeological value, or further research of the archaeological site and artefacts would yield no relevant gain in knowledge. The map is available as a georeferenced GIS layer on the agency's website. The decision was adopted on 26 November 2026, its publication in the Belgian Official Gazette is planned for 2 December 2026, and it enters into force on 9 December 2026.",
+   "nl": [
+    "Vlaanderen actualiseert de gebieden waar geen archeologisch erfgoed te verwachten valt, met ingang van 9 december 2026",
+    "De administrateur-generaal van het agentschap Onroerend Erfgoed stelt nieuwe gebieden vast waar geen archeologisch erfgoed te verwachten valt en schrapt andere gebieden. Eerder vastgestelde gebieden die niet worden geschrapt, blijven vastgesteld.",
+    "Het besluit betreft de gebieden in Vlaanderen die op grond van het Onroerenderfgoeddecreet worden vastgesteld als gebieden waar geen archeologisch erfgoed te verwachten valt. De gebieden in een eerste digitaal bestand worden nieuw vastgesteld. De gebieden in een tweede digitaal bestand worden geschrapt, omdat ze na nader onderzoek toch archeologische waarde blijken te hebben of omdat ze opnieuw worden vastgesteld met een gewijzigde afbakening. Gebieden die eerder door de administrateur-generaal van het agentschap Onroerend Erfgoed werden vastgesteld, blijven vastgesteld, tenzij dit besluit ze schrapt. De vaststellingen steunen op waarnemingen en wetenschappelijke argumenten: de gebieden hebben met hoge waarschijnlijkheid geen archeologische waarde, of verder onderzoek van de archeologische site en artefacten zou geen relevante kenniswinst opleveren. De kaart is beschikbaar als gegeorefereerde GIS-laag op de website van het agentschap. Het besluit is genomen op 26 november 2026, de bekendmaking in het Belgisch Staatsblad is voorzien op 2 december 2026 en de inwerkingtreding is op 9 december 2026."
+   ],
+   "fr": [
+    "La Flandre actualise les zones où aucun patrimoine archéologique n'est à attendre, à partir du 9 décembre 2026",
+    "L'administrateur général de l'agence Onroerend Erfgoed désigne de nouvelles zones où aucun patrimoine archéologique n'est à attendre et en retire d'autres. Les zones désignées précédemment et non retirées restent désignées.",
+    "L'arrêté concerne les zones de Flandre désignées en vertu du Onroerenderfgoeddecreet (décret relatif au patrimoine immobilier) du 12 juillet 2013 comme zones où aucun patrimoine archéologique n'est à attendre. Les zones figurant dans un premier fichier numérique sont désignées pour la première fois. Celles d'un second fichier numérique sont retirées, car un examen complémentaire a révélé une valeur archéologique ou parce qu'elles sont désignées à nouveau avec une délimitation modifiée. Les zones désignées antérieurement par l'administrateur général de l'agence Onroerend Erfgoed restent désignées, sauf si le présent arrêté les retire. Les désignations reposent sur des observations et des arguments scientifiques : ces zones n'ont très probablement aucune valeur archéologique, ou la poursuite des recherches sur le site et les artefacts archéologiques n'apporterait aucun gain de connaissance pertinent. La carte est disponible sous forme de couche SIG géoréférencée sur le site de l'agence. L'arrêté a été adopté le 26 novembre 2026, sa publication au Moniteur belge est prévue le 2 décembre 2026 et il entre en vigueur le 9 décembre 2026."
+   ],
+   "scope": "Besluit van de administrateur-generaal van het agentschap Onroerend Erfgoed tot vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt (art. 5.4.1, derde lid, 1°, Onroerenderfgoeddecreet van 12 juli 2013)",
+   "dates": {
+    "adopted": "2026-11-26",
+    "in_force": "2026-12-09"
+   },
+   "u": [
+    [
+     "Besluit van de administrateur-generaal tot vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt",
+     "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042518&param=inhoud"
+    ]
+   ],
+   "inbox": [
+    "codex:1042518"
+   ],
+   "by": "claude-sonnet-5-5",
+   "written": "2026-11-28"
   }
  ]
 }
