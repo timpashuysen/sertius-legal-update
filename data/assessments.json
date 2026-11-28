@@ -90345,15 +90345,15 @@
 "rulings_to_rescreen": 0
 },
 "writer": {
-"this_run": 1,
+"this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
 "waiting": 73,
 "api": {
-"calls": 1,
-"input_tokens": 2633,
-"output_tokens": 2429,
-"usd": 0.0296
+"calls": 0,
+"input_tokens": 0,
+"output_tokens": 0,
+"usd": 0.0
 },
 "updated": "2026-11-28"
 },
