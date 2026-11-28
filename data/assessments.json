@@ -90284,39 +90284,77 @@
 "reason": "Rejection of suspension for lack of urgency applying settled case law; no annulment of general instrument and no new interpretation of a provision; also not environmental/planning law.",
 "confidence": "high",
 "at": "2026-11-27"
+},
+"codex:1042518": {
+"v": 4,
+"verdict": "relevant",
+"by": "claude-haiku-5-5",
+"topics": [
+"environmental-law"
+],
+"reason": "Sets areas without expected archaeology, affecting soil works and permit conditions.",
+"confidence": "low",
+"at": "2026-11-28"
+},
+"codex:1042520": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Passenger transport rules, not environmental compliance.",
+"confidence": "high",
+"at": "2026-11-28"
+},
+"codex:1042521": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Appoints housing code commissioners; no environmental rule content.",
+"confidence": "high",
+"at": "2026-11-28"
+},
+"codex:1042519": {
+"v": 4,
+"verdict": "not relevant",
+"by": "claude-haiku-5-5",
+"topics": [],
+"reason": "Broadcasting rights for events of major public importance; media law.",
+"confidence": "high",
+"at": "2026-11-28"
 }
 },
 "summary": {
 "scope_from": "2026-01-01",
-"in_scope": 8714,
-"assessed": 8714,
+"in_scope": 8718,
+"assessed": 8718,
 "waiting": 0,
-"relevant": 666,
-"not_relevant": 7722,
+"relevant": 667,
+"not_relevant": 7725,
 "excluded_by_rule": 326,
-"this_run": 0,
+"this_run": 4,
 "api": {
-"calls": 0,
-"input_tokens": 0,
-"output_tokens": 0,
-"usd": 0.0
+"calls": 1,
+"input_tokens": 1156,
+"output_tokens": 695,
+"usd": 0.0005
 },
 "key_present": true,
-"updated": "2026-11-27",
+"updated": "2026-11-28",
 "rulings_to_rescreen": 0
 },
 "writer": {
 "this_run": 0,
 "found_not_relevant_on_reading": 0,
 "failed": 0,
-"waiting": 73,
+"waiting": 74,
 "api": {
 "calls": 0,
 "input_tokens": 0,
 "output_tokens": 0,
 "usd": 0.0
 },
-"updated": "2026-11-27"
+"updated": "2026-11-28"
 },
 "writer_v": 2,
 "rulings_reset": 228
